@@ -1,0 +1,155 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Vehicle Charging System Failure",
+      "impact": "The failure of the electric vehicle charging system can cause the vehicle to become immobilized, potentially stranding the driver in a public charging location, and may lead to electrical shock or electrocution if the charging connector is not properly released.",
+      "symptoms": [
+        "The charging connector will not release from the vehicle",
+        "the charging status indicator is red",
+        "the vehicle is unable to move",
+        "the emergency release procedure does not work",
+        "and the vehicle may display error messages such as \"Electrical System Failure\" or \"Stop!\"."
+      ],
+      "odiNumbers": [
+        "11268374",
+        "11255767",
+        "11241947",
+        "11024860",
+        "11013776",
+        "10937081",
+        "10936112",
+        "10926245",
+        "10918074",
+        "10906064",
+        "10860617",
+        "10823647",
+        "10820530",
+        "10811289",
+        "10809311",
+        "10807870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Software Update Required for Heating and Cooling System",
+      "impact": "Failure to update the software can cause the heating and cooling system to cease operating, including the defogging capability, which can affect visibility while driving.",
+      "symptoms": [
+        "Loss of heating and cooling functionality",
+        "including defogging capability",
+        "condensation on windows."
+      ],
+      "odiNumbers": [
+        "11444703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Trim Separation around Gear Selectors",
+      "impact": "The separation of the trim around the gear selectors can cause a sharp chrome edge, which can cut the driver's hand.",
+      "symptoms": [
+        "Sharp chrome edge",
+        "trim separation around gear selectors."
+      ],
+      "odiNumbers": [
+        "11427386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Charging Port Failure to Release Charger",
+      "impact": "The failure of the charging port to release the charger can leave the driver stranded, and in some cases, cause damage to the vehicle's undercarriage.",
+      "symptoms": [
+        "Charging port fails to release charger",
+        "car becomes locked down",
+        "unable to shift into neutral",
+        "requires towing."
+      ],
+      "odiNumbers": [
+        "11298298",
+        "11109747",
+        "10995432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Error Causing Vehicle Immobilization",
+      "impact": "The electrical error can cause the vehicle to become immobilized, leaving the driver stranded.",
+      "symptoms": [
+        "Red triangle with exclamation mark on the dash",
+        "red car icon with exclamation mark",
+        "\"electrical error\" message",
+        "inability to start the vehicle",
+        "unresponsive key fob."
+      ],
+      "odiNumbers": [
+        "10811305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Loss of Power and Electrical System Failure",
+      "impact": "The sudden loss of power can cause the vehicle to stall or shut down while in motion, increasing the risk of accidents, injuries, or fatalities. This can also lead to a loss of control, especially on busy roads or highways.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the dashboard displays an \"Error: Electrical System. Stop!\" message",
+        "the vehicle glides to a stop",
+        "and there are no symptoms or warnings prior to the failure."
+      ],
+      "odiNumbers": [
+        "11560661",
+        "11414340"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "DC-DC Converter Failure",
+      "impact": "The failure of the DC-DC converter can cause the vehicle to shut down, leading to a loss of power and control, which can increase the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the DC-DC converter is not working properly",
+        "and the motor shuts down."
+      ],
+      "odiNumbers": [
+        "11414340"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Vehicle Shutdown due to Power Button Design",
+      "impact": "The unintended shutdown of the vehicle can cause a loss of control, especially on busy roads or highways, increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle shuts off while in motion",
+        "the power button is easily confused with the mode button",
+        "and the vehicle suffers a total loss of power."
+      ],
+      "odiNumbers": [
+        "10882754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER",
+    "SEAT BELTS",
+    "LANE DEPARTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Adaptive Cruise Control System Failure",
+      "impact": "The failure of the adaptive cruise control system can lead to unexpected disengagement of the system, causing inconvenience and potentially increasing the risk of accidents.",
+      "symptoms": [
+        "The adaptive cruise control system does not work",
+        "provides warning signals",
+        "only activates for a short time",
+        "and displays error messages such as \"camera is blocked\" or \"additional service required\"."
+      ],
+      "odiNumbers": [
+        "11583158",
+        "11569078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Forward Collision Warning System Malfunction",
+      "impact": "The malfunction of the forward collision warning system can lead to false or failed warnings, which can increase the risk of accidents.",
+      "symptoms": [
+        "The forward collision indicators come on unexpectedly",
+        "and the issue cannot be diagnosed or resolved by dealerships."
+      ],
+      "odiNumbers": [
+        "11547612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Advanced Safety System Sensor Malfunction",
+      "impact": "The malfunction of advanced safety system sensors can cause the vehicle to slam on the brakes unexpectedly, even when there is no obstacle, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Random warning lights appear on the dashboard",
+        "including brake and deceleration warnings",
+        "even when there is no obstacle; the vehicle slams on the brakes unexpectedly",
+        "even at high speeds; adaptive cruise control failure; radar sensor blocked message displayed on the screen; forward collision warning inactive."
+      ],
+      "odiNumbers": [
+        "11580557",
+        "11573246",
+        "11555381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Disablement of Front Crash Sensors",
+      "impact": "The intermittent disablement of front crash sensors can compromise the vehicle's safety features, such as forward collision warning and automatic emergency braking, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The front crash sensors disable themselves randomly",
+        "warning lights indicate the system has been disabled or a crash is imminent",
+        "intermittent warning lights for forward collision warning and automatic emergency braking."
+      ],
+      "odiNumbers": [
+        "11549271",
+        "11538826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inoperable Emergency Call System",
+      "impact": "The inoperable emergency call system can delay or prevent emergency services from responding in the event of an accident, potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "The emergency call system is inoperable",
+        "unable to send emergency calls or notifications."
+      ],
+      "odiNumbers": [
+        "11538826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Failure of Advanced Safety Features",
+      "impact": "The intermittent failure of advanced safety features, such as forward collision warning and adaptive cruise control, can compromise the vehicle's safety and increase the risk of accidents.",
+      "symptoms": [
+        "Intermittent warning lights for forward collision warning and adaptive cruise control",
+        "warning lights indicate the system has been disabled or a crash is imminent",
+        "intermittent failure of adaptive cruise control sensor."
+      ],
+      "odiNumbers": [
+        "11538826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Retractor Failure",
+      "impact": "The failure of the rear seat belt retractor can prevent the seat belt from functioning properly, increasing the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt becomes stuck",
+        "the seat belt cannot be pulled out or retracted",
+        "the seat belt is loose or does not provide proper restraint."
+      ],
+      "odiNumbers": [
+        "11586161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Emergency Braking and Forward Collision Warning System Failure",
+      "impact": "The failure of the Automatic Emergency Braking and Forward Collision Warning systems can increase the risk of accidents, as the vehicle may not alert the driver to potential collisions or automatically apply the brakes to prevent or mitigate a collision.",
+      "symptoms": [
+        "The Automatic Emergency Braking and/or Forward Collision Warning systems shut off while driving",
+        "two separate icons appear on the lower left and right sides of the dashboard",
+        "the systems fail to function in rainy",
+        "snowy",
+        "or very sunny conditions."
+      ],
+      "odiNumbers": [
+        "11566355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sensor Malfunction due to Environmental Conditions",
+      "impact": "The malfunction of sensors due to environmental conditions can cause the failure of advanced safety features, such as Automatic Emergency Braking and Forward Collision Warning, which can increase the risk of accidents.",
+      "symptoms": [
+        "The sensors are affected by rain",
+        "snow",
+        "or intense sunlight",
+        "causing the failure of safety features",
+        "such as Automatic Emergency Braking and Forward Collision Warning."
+      ],
+      "odiNumbers": [
+        "11566355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

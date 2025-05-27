@@ -1,0 +1,191 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall, lose power, or become difficult to control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission whine",
+        "grinding",
+        "or vibration",
+        "erratic shifting",
+        "failure to engage reverse gear",
+        "loud grinding metal noise",
+        "vehicle stalling",
+        "and sudden deceleration."
+      ],
+      "odiNumbers": [
+        "11290769",
+        "11256685",
+        "11082332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic System Malfunction",
+      "impact": "Electronic system malfunction can cause the vehicle to experience a range of issues, including engine malfunction, transmission problems, and safety system failures, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Multiple warning lights on the dashboard",
+        "including engine system malfunction",
+        "DSC malfunction",
+        "TPMS system malfunction",
+        "auto transmission malfunction",
+        "and SCBS malfunction",
+        "OBD2 scan tool codes",
+        "and infotainment system crashes."
+      ],
+      "odiNumbers": [
+        "11447451",
+        "11152522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Issues",
+      "impact": "Brake system issues can cause the vehicle to lose stopping power, leading to accidents or injuries.",
+      "symptoms": [
+        "Loud brakes",
+        "wet conditions making braking more difficult",
+        "and brake system failure."
+      ],
+      "odiNumbers": [
+        "11290769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Issues",
+      "impact": "Airbag system issues can cause the airbag to deploy unnecessarily or fail to deploy in the event of an accident, leading to injuries or fatalities.",
+      "symptoms": [
+        "Passenger airbag active light turning on",
+        "and seat belt chime even when no one is in the seat."
+      ],
+      "odiNumbers": [
+        "11290769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of vehicle occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "even when the impact is severe enough to warrant deployment."
+      ],
+      "odiNumbers": [
+        "11354181",
+        "11311928",
+        "11123000",
+        "10994995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "The malfunction of airbag sensors can cause the airbag system to malfunction, leading to unnecessary deployments or failures to deploy, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning lights illuminate on the dashboard",
+        "airbags deploy with excessive force",
+        "or airbags fail to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "10823574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Airbag Protection",
+      "impact": "The inadequate airbag protection can lead to injuries or fatalities, particularly for passengers weighing between 85 lbs and 125 lbs, who may not be protected in the event of a crash.",
+      "symptoms": [
+        "Airbag warning lights illuminate on the dashboard",
+        "indicating that the airbag is turned off",
+        "even when a passenger is present."
+      ],
+      "odiNumbers": [
+        "10823574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause intermittent display issues, affecting the driver's ability to access important information and safety features, such as the backup camera.",
+      "symptoms": [
+        "The display goes in and out",
+        "the backup camera is affected",
+        "the system is unresponsive."
+      ],
+      "odiNumbers": [
+        "11351758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Trunk Opening",
+      "impact": "The unintended opening of the trunk while driving can cause a distraction, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The trunk pops open randomly while driving."
+      ],
+      "odiNumbers": [
+        "11208448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause multiple warning lights to appear on the dashboard, affecting the driver's ability to operate the vehicle safely. It can also cause the engine to go into low power mode, making it difficult to control the vehicle.",
+      "symptoms": [
+        "Warning lights on the dashboard (ABS",
+        "check engine",
+        "traction",
+        "and others) start blinking",
+        "the engine goes into low power mode",
+        "the speed odometer is erratic",
+        "the reverse gear does not engage."
+      ],
+      "odiNumbers": [
+        "11186554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Keyless Entry System Failure",
+      "impact": "The failure of the keyless entry system can cause the vehicle to start without the key present, potentially leading to unauthorized access or theft.",
+      "symptoms": [
+        "The vehicle starts without the key in the car."
+      ],
+      "odiNumbers": [
+        "10983861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

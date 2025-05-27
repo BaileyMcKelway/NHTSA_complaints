@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Fluid Failure",
+      "impact": "The failure of the brake fluid system can cause the brakes to malfunction, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Rear brakes failed",
+        "brake fluid not getting to brakes",
+        "brake failure",
+        "brakes locked up",
+        "vehicle went into a spin",
+        "no response from anti-lock brakes."
+      ],
+      "odiNumbers": [
+        "554146",
+        "603373",
+        "958145",
+        "970488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause the engine check light to come on, and may lead to further complications, such as catalytic converter failure, master cylinder failure, and engine failure.",
+      "symptoms": [
+        "Engine check light came on",
+        "transmission problems suspected",
+        "catalytic converter failure",
+        "master cylinder failure",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "845796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Discontinued Parts",
+      "impact": "The discontinuation of parts can make it difficult or impossible for consumers to repair their vehicles, leaving them stranded or at risk of accidents.",
+      "symptoms": [
+        "Parts discontinued",
+        "dealer unable to repair brakes",
+        "consumer unsure of how to get brakes repaired."
+      ],
+      "odiNumbers": [
+        "554146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Cable Melting",
+      "impact": "The melting of the steering column cables, including the throttle cable and emergency brake cable, can cause loss of throttle control, brake failure, and potentially lead to accidents.",
+      "symptoms": [
+        "Smoke coming from the steering column",
+        "melted cables",
+        "loss of throttle control",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "827083",
+        "820294"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Electrical Fire",
+      "impact": "An electrical fire in the steering column can cause damage to the vehicle's electrical system, airbag system, and potentially lead to a vehicle fire, which can cause accidents or injuries.",
+      "symptoms": [
+        "Smoke coming from the steering column",
+        "smoke coming from the airbag area",
+        "burning smell",
+        "electrical issues."
+      ],
+      "odiNumbers": [
+        "820294"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning-Induced Engine Stalling",
+      "impact": "The engine stalling while turning on the air conditioning can cause loss of power steering and braking, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls only when the air conditioning is turned on",
+        "regardless of speed",
+        "the engine shuts off suddenly",
+        "the vehicle loses power",
+        "the air conditioning is inoperable."
+      ],
+      "odiNumbers": [
+        "802526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ride/Handling Control Module Failure",
+      "impact": "The failure of the ride/handling control module can cause loss of stability and control, leading to accidents or loss of vehicle functionality.",
+      "symptoms": [
+        "The vehicle's ride and handling are affected",
+        "the vehicle's suspension is malfunctioning",
+        "the vehicle's stability is compromised",
+        "the ride/handling control module is inoperable."
+      ],
+      "odiNumbers": [
+        "505234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

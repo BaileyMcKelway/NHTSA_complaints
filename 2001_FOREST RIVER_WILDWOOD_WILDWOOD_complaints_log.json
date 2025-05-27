@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "TIRES",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Improper Roof Installation and Water Damage",
+      "impact": "Improper installation of the roof can lead to water leaks, causing damage to the interior components, electrical systems, and structural integrity of the vehicle, which can result in safety hazards and costly repairs.",
+      "symptoms": [
+        "Water leaks",
+        "roof rot",
+        "roof decking damage",
+        "electrical system failures",
+        "damage to kitchen cabinets",
+        "flooring",
+        "and lighting systems."
+      ],
+      "odiNumbers": [
+        "10242827",
+        "10225328",
+        "10214494",
+        "10211265",
+        "10048280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carlisle Trailer Tire Failure",
+      "impact": "The failure of Carlisle trailer tires can cause blowouts, leading to loss of control, accidents, and potentially death.",
+      "symptoms": [
+        "Sudden blowouts",
+        "shredding of tires",
+        "protruding steel belts",
+        "and separation of tire belts/caps."
+      ],
+      "odiNumbers": [
+        "10427808",
+        "10165566",
+        "10086928",
+        "10021344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dometic Refrigerator Failure",
+      "impact": "The failure of the Dometic refrigerator can cause leakage, staining, and the release of ammonia, which can lead to health risks and property damage.",
+      "symptoms": [
+        "Leaking and staining at the rear of the refrigerator",
+        "yellow residue",
+        "strong smell of ammonia",
+        "refrigerator failure despite recall repair."
+      ],
+      "odiNumbers": [
+        "10280009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Refrigerator Recall Repair Failure",
+      "impact": "The failure of the recall repair to properly address the issue can lead to continued refrigerator malfunction, posing health risks and property damage.",
+      "symptoms": [
+        "Refrigerator failure after recall repair",
+        "continued leakage",
+        "staining",
+        "and release of ammonia."
+      ],
+      "odiNumbers": [
+        "10280009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

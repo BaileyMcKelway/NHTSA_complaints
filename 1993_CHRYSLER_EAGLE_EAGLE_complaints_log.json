@@ -1,0 +1,63 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Broken Structural Support Frame for Seat",
+      "impact": "The broken structural support frame for the seat can cause the seat to collapse or become unstable, leading to a loss of control while driving, increased risk of injury or accident, and potentially compromising the overall safety of the vehicle's occupants.",
+      "symptoms": [
+        "The seat feels unstable or collapses",
+        "the seat frame is broken or cracked",
+        "the seat is no longer securely attached to the vehicle's floor",
+        "the seat's structural integrity is compromised."
+      ],
+      "odiNumbers": [
+        "848354",
+        "848357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Assembly Failure",
+      "impact": "The failure of the motorized seat belt assembly can cause the seat belt to become stuck, potentially leading to injuries or accidents.",
+      "symptoms": [
+        "The seat belt becomes stuck",
+        "does not retract",
+        "or does not provide slack",
+        "causing discomfort or injury to the passenger."
+      ],
+      "odiNumbers": [
+        "522797",
+        "974722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Failure to Restart",
+      "impact": "The engine stalling and failure to restart can cause the vehicle to lose power and come to a sudden stop, increasing the risk of accidents, especially when driving in traffic.",
+      "symptoms": [
+        "The engine stalls or cuts off while driving",
+        "the vehicle won't restart",
+        "the vehicle loses power and comes to a sudden stop",
+        "near-miss accidents due to loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "985889",
+        "977552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fires",
+      "impact": "The failure of the electrical system can cause vehicle fires, which can result in serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "White smoke coming from the front end of the car",
+        "fire under the hood",
+        "burning wiring harness",
+        "short circuits",
+        "overheating electrical components",
+        "arcing and shorting out of electrical circuits."
+      ],
+      "odiNumbers": [
+        "508143",
+        "507580",
+        "986287",
+        "982987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Sticking and Unwanted Sudden Acceleration",
+      "impact": "The sticking of the throttle body can cause unwanted sudden acceleration, which can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The throttle sticks",
+        "unwanted sudden acceleration",
+        "the vehicle accelerates without driver input",
+        "the brake pedal becomes inoperative or is unable to stop the vehicle",
+        "the only way to stop the vehicle is to turn off the ignition."
+      ],
+      "odiNumbers": [
+        "10007321",
+        "10009086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Vacuum Line Malfunction",
+      "impact": "The malfunction of the cruise control vacuum line can cause unwanted sudden acceleration, which can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The cruise control vacuum line kinks or becomes restricted",
+        "the throttle body sticks",
+        "unwanted sudden acceleration",
+        "the brake pedal becomes inoperative or is unable to stop the vehicle",
+        "the only way to stop the vehicle is to turn off the ignition."
+      ],
+      "odiNumbers": [
+        "10007321",
+        "10009086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Sidewall Cracking",
+      "impact": "Tire tread separation and sidewall cracking can lead to sudden tire failure, loss of vehicle control, and accidents, posing a significant risk to driver and passenger safety.",
+      "symptoms": [
+        "Tread separation",
+        "deep cracks in the sidewalls",
+        "tire blowouts",
+        "and loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "732891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wheel Separation",
+      "impact": "Wheel separation can cause loss of vehicle control, accidents, and damage to the vehicle, posing a significant risk to driver and passenger safety.",
+      "symptoms": [
+        "Wheel falls off",
+        "loss of vehicle control",
+        "and damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "520746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Worn Steering Bushings",
+      "impact": "Worn steering bushings can cause loose steering, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "The steering wheel feels loose or wobbly",
+        "the vehicle wanders or drifts while driving",
+        "the steering wheel requires more effort to turn",
+        "unusual noises or clunking sounds while steering."
+      ],
+      "odiNumbers": [
+        "483489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

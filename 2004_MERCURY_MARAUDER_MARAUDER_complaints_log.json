@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "TIRES",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Light Control Module (LCM) Failure",
+      "impact": "The failure of the Light Control Module (LCM) can cause the headlights to shut off suddenly, leading to reduced visibility, increased risk of accidents, and potential harm to the driver and passengers.",
+      "symptoms": [
+        "Headlights shut off suddenly",
+        "headlights do not turn on",
+        "low beam headlights fail",
+        "headlights turn off intermittently",
+        "fog lights and running lights continue to function",
+        "no warning lights or indicators on the dashboard."
+      ],
+      "odiNumbers": [
+        "10693209",
+        "10661157",
+        "10516246",
+        "10478104",
+        "10456882",
+        "10442069",
+        "10379685",
+        "10250746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of OEM Tires",
+      "impact": "The unavailability of original equipment manufacturer (OEM) tires can lead to safety hazards, as drivers are forced to use incorrect size tires or continue to drive on worn-out tires, increasing the risk of accidents and fatalities.",
+      "symptoms": [
+        "Inability to obtain OEM tires",
+        "forced to use incorrect size tires",
+        "driving on worn-out tires",
+        "receiving violations for bald tires",
+        "and uncertainty about the production date of the required tires."
+      ],
+      "odiNumbers": [
+        "10644725",
+        "10258532",
+        "10258533",
+        "10258535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Damage due to Road Hazards",
+      "impact": "Hitting a pothole or other road hazards can cause tire damage, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "bent rim",
+        "loss of control",
+        "and potential accidents."
+      ],
+      "odiNumbers": [
+        "10389974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Pedal Interference and Unintended Acceleration",
+      "impact": "The close proximity of the brake and accelerator pedals can cause unintended acceleration, leading to accidents, property damage, and potential injuries.",
+      "symptoms": [
+        "The vehicle accelerates while braking",
+        "the brake pedal is too close to the gas pedal",
+        "the gas pedal is too sensitive",
+        "the driver unknowingly depresses the accelerator pedal while pressing the brake or vice versa",
+        "the vehicle surges forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "10162975",
+        "10153140",
+        "10152213",
+        "10092848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Failure and Unintended Movement",
+      "impact": "The failure of the brake system can cause the vehicle to continue rolling or surging forward, leading to accidents, property damage, and potential injuries.",
+      "symptoms": [
+        "The vehicle continues to roll after braking",
+        "the vehicle surges forward unexpectedly",
+        "the brakes fail to engage properly",
+        "the vehicle collides with another vehicle or object."
+      ],
+      "odiNumbers": [
+        "10092848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

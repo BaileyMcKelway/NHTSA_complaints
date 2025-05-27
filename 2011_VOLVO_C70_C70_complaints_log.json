@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to open while driving, which can lead to accidents, injuries, or fatalities, especially if a person is sitting in the affected seat.",
+      "symptoms": [
+        "The door unlatches after hitting mild bumps in the road",
+        "the door opens while driving",
+        "the door ajar message appears",
+        "and the dome lights come on."
+      ],
+      "odiNumbers": [
+        "11505427",
+        "11352286",
+        "11328623",
+        "11002890",
+        "10893556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to inadequate protection in the event of a crash, resulting in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is illuminated on the dashboard",
+        "the passenger side airbag deploys while the driver side airbag does not",
+        "the airbag system fails to deploy in a crash",
+        "the SRS airbag service urgent warning is displayed."
+      ],
+      "odiNumbers": [
+        "11549739",
+        "11324721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Ajar Warning System",
+      "impact": "The faulty door ajar warning system can cause unnecessary distractions while driving, leading to potential accidents.",
+      "symptoms": [
+        "The driver's side door ajar warning light is illuminated despite the door being closed",
+        "and the warning light remains on even after opening and closing the door multiple times."
+      ],
+      "odiNumbers": [
+        "11418394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sirius Radio Software/Hardware Issue",
+      "impact": "The software/hardware issue in the Sirius radio system can cause the battery to drain excessively, leading to a dead battery, and potentially causing dangerous conditions, such as being stranded in a remote location.",
+      "symptoms": [
+        "The battery is drained excessively",
+        "the vehicle will not start",
+        "the Sirius radio system is stuck in an endless loop",
+        "and the battery is damaged and cannot be recharged."
+      ],
+      "odiNumbers": [
+        "10746224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

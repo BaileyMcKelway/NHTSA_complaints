@@ -1,0 +1,166 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY/WIPER"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A faulty fuel gauge can lead to inaccurate fuel level readings, causing drivers to run out of fuel, potentially leading to accidents, strandings, or engine damage.",
+      "symptoms": [
+        "The fuel gauge displays incorrect readings",
+        "shows empty when the tank is full",
+        "or rapidly drops to empty after filling up; the low fuel warning light comes on even when the tank is full; the fuel gauge is inconsistent or erratic."
+      ],
+      "odiNumbers": [
+        "10523236",
+        "10441975",
+        "10424214",
+        "10379790",
+        "10370707",
+        "10341016",
+        "10323691",
+        "10280349",
+        "10274370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A faulty fuel gauge can cause the driver to unexpectedly run out of fuel, leading to a loss of power and control, which can increase the risk of accidents, especially on high-speed roads.",
+      "symptoms": [
+        "The fuel gauge stops working",
+        "the fuel gauge provides inaccurate readings",
+        "the vehicle runs out of fuel without warning",
+        "the fuel gauge needle fluctuates or sticks."
+      ],
+      "odiNumbers": [
+        "10948429",
+        "10496244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause damage to the vehicle, injury to occupants, and potentially lead to fatalities.",
+      "symptoms": [
+        "The vehicle catches fire while driving",
+        "often with no warning signs."
+      ],
+      "odiNumbers": [
+        "10939587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Instrument Panel Malfunction",
+      "impact": "Engine stalling can cause loss of vehicle control, increasing the risk of accidents, and instrument panel malfunction can lead to a lack of critical information for the driver, compromising safety.",
+      "symptoms": [
+        "The instrument panel lights illuminate",
+        "the vehicle shakes",
+        "and the engine stalls while driving."
+      ],
+      "odiNumbers": [
+        "10726501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Body, Fan Clutch, and Accelerator Clutch Failure",
+      "impact": "Failure of these components can cause engine stalling, loss of power, and decreased vehicle performance, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "shakes",
+        "or loses power while driving",
+        "often accompanied by instrument panel malfunction."
+      ],
+      "odiNumbers": [
+        "10726501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall while driving, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the engine dies",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "10746383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Control Switch Failure",
+      "impact": "The failure of the master control switch can cause a loss of functionality to various vehicle systems, including windows, mirrors, door locks, interior lights, and heating and air conditioning, which can lead to discomfort and inconvenience for the driver and passengers.",
+      "symptoms": [
+        "The windows",
+        "mirrors",
+        "door locks",
+        "and interior lights do not function",
+        "the heating and air conditioning system does not blow air",
+        "the vents do not work",
+        "the control switch burns out",
+        "the wires are burnt."
+      ],
+      "odiNumbers": [
+        "10467716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Module Failure",
+      "impact": "The failure of the door module can cause the driver's side window and mirror to operate independently, which can lead to distracted driving, accidents, or injuries.",
+      "symptoms": [
+        "The driver's side window and mirror operate independently",
+        "the window and mirror do not respond to commands",
+        "the window and mirror move erratically."
+      ],
+      "odiNumbers": [
+        "10503662",
+        "10702172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed Recall Repair",
+      "impact": "The delay in recall repair can lead to prolonged exposure to safety risks, accidents, or injuries, and can cause frustration and inconvenience to vehicle owners.",
+      "symptoms": [
+        "Unavailability of parts",
+        "excessive wait time for repair",
+        "lack of communication from the manufacturer",
+        "failure to repair the vehicle in a timely manner."
+      ],
+      "odiNumbers": [
+        "10702172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

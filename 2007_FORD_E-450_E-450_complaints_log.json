@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Brake Unit Failure",
+      "impact": "The failure of the ABS brake unit can cause a fire, which can lead to accidents, injuries, or fatalities. Additionally, the overheating and locking of the brakes can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Fire from the ABS brake unit",
+        "overheating of the brakes",
+        "brakes locking up",
+        "loss of brake functionality."
+      ],
+      "odiNumbers": [
+        "10310783",
+        "10310788",
+        "10300398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, or injuries. The overheating and locking of the brakes can lead to a loss of brake functionality, making it difficult or impossible to stop the vehicle.",
+      "symptoms": [
+        "Brakes overheating",
+        "brakes locking up",
+        "loss of brake functionality",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "10300398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Rusting and Delamination",
+      "impact": "The rusting and delamination of the fuel tank can cause the fuel system to clog, leading to rapid loss of power, engine stalling, and potentially catastrophic failures, which can result in accidents or injuries.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine stalling",
+        "difficulty starting the engine",
+        "fuel leaks",
+        "and rust or debris in the fuel system."
+      ],
+      "odiNumbers": [
+        "10609885",
+        "10265621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Radiator Top Header Seal Failure",
+      "impact": "The failure of the radiator top header seal can cause antifreeze to leak out, creating a possible fire hazard and potentially damaging the engine.",
+      "symptoms": [
+        "Antifreeze blowing back over the passenger side of the engine",
+        "coolant leakage",
+        "possible engine damage."
+      ],
+      "odiNumbers": [
+        "10344209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spark Plug Thread Stripping",
+      "impact": "The stripping of spark plug threads can cause a loss of power, raw fuel smell, and potentially lead to engine damage or failure, resulting in a safety risk and costly repairs.",
+      "symptoms": [
+        "Loss of power",
+        "raw fuel smell",
+        "spark plug ejection",
+        "engine misfire",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "10300314"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

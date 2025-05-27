@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Advanced Safety Features",
+      "impact": "The malfunctioning of advanced safety features, such as lane assist and trailer brake assist, can lead to accidents or near-miss incidents, compromising vehicle safety and driver confidence.",
+      "symptoms": [
+        "Dashboard lights up with trailer brake assist and brakes on the highway",
+        "lane assist turns off and requests service",
+        "parking brake engages independently",
+        "windows lower independently",
+        "vehicle jerks while accelerating",
+        "check engine warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11590451",
+        "11589712",
+        "11554269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unreliable Electronic Systems",
+      "impact": "The failure of electronic systems can cause unexpected behavior, such as independent engagement of parking brake or windows, and jerking while accelerating, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Parking brake engages independently",
+        "windows lower independently",
+        "vehicle jerks while accelerating",
+        "check engine warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11589712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inaccurate or Faulty Sensor Data",
+      "impact": "Inaccurate or faulty sensor data can cause advanced safety features to malfunction, leading to false warnings or errors, which can compromise vehicle safety and driver confidence.",
+      "symptoms": [
+        "Car crash symbol and car in lane symbol remain on after minor accident",
+        "error message of limited functionality."
+      ],
+      "odiNumbers": [
+        "11554269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become locked or difficult to turn, making it challenging to control the vehicle, especially at low speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "The steering wheel becomes locked or difficult to turn",
+        "the vehicle stops moving when attempting to turn",
+        "the steering wheel makes a cracking or grinding noise when turned",
+        "the power steering system warning light appears on the dashboard",
+        "the steering becomes soft or unresponsive after the vehicle has been turned off and restarted."
+      ],
+      "odiNumbers": [
+        "11588144",
+        "11573634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, making it difficult or impossible to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Inability to accelerate the vehicle",
+        "especially on the highway",
+        "gears slipping",
+        "unusual noise from the transmission",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "11525412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair for Power Train Issue",
+      "impact": "The delay in receiving the necessary parts for the recall repair can leave the vehicle in an unsafe condition, potentially causing accidents or other safety issues.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in receiving parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11583108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fluid Reservoir Design Flaw",
+      "impact": "The design flaw in the brake fluid reservoir and cap can cause brake fluid to leak out when the vehicle is parked on an incline, leading to a risk of catastrophic brake failure, fire, environmental contamination, and slip and fall hazards.",
+      "symptoms": [
+        "Brake fluid leaks from the master cylinder area when the vehicle is parked on an incline",
+        "with the front of the car lower than the rear; leaks occur more frequently on hot days; brake fluid accumulates on the ground",
+        "creating a slippery surface."
+      ],
+      "odiNumbers": [
+        "11566197",
+        "11543072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Debris on the Roadway",
+      "impact": "Debris on the roadway can cause damage to vehicles, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Hitting debris on the road",
+        "damage to the front end of the vehicle",
+        "unknown object wrapped in black plastic",
+        "lack of police presence or warning lights to alert drivers."
+      ],
+      "odiNumbers": [
+        "11561773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure to Shift",
+      "impact": "The failure of the transmission to shift gears can cause loss of control, accidents, or leave the driver stranded, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Transmission does not respond to acceleration",
+        "gear does not shift to higher level",
+        "vehicle remains stuck in lower gear",
+        "inability to accelerate",
+        "need to pull over to the shoulder and put the vehicle in neutral."
+      ],
+      "odiNumbers": [
+        "11556661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

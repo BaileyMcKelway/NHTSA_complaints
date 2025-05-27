@@ -1,0 +1,53 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Starvation Issue",
+      "impact": "The fuel starvation issue can cause the engine to sputter, stall, or lose power, leading to a loss of control, accidents, or stranding the driver in traffic, which can be life-threatening.",
+      "symptoms": [
+        "Engine sputters",
+        "engine stalls",
+        "loss of power",
+        "erratic engine behavior",
+        "difficulty accelerating",
+        "rough idling",
+        "engine stalling at various times while driving."
+      ],
+      "odiNumbers": [
+        "11445960",
+        "11386864",
+        "11373109",
+        "11327616",
+        "11326571"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling/Flame Out Issue",
+      "impact": "The engine stalling or \"flame out\" issue can cause the vehicle to lose power and decelerate rapidly, increasing the risk of accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The engine shuts off while riding",
+        "the bike stalls while accelerating from a stop",
+        "the bike stalls while idling",
+        "the bike stalls when blipping the throttle on a downshift to rev match",
+        "the bike has no power regardless of throttle input."
+      ],
+      "odiNumbers": [
+        "11466947",
+        "11464012",
+        "11330442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

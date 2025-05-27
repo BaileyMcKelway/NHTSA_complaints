@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Assembly Failure",
+      "impact": "The failure of the fuel pump assembly can cause fuel leaks, which can lead to fires or explosions, especially when in contact with hot engine components.",
+      "symptoms": [
+        "Strong fuel smell",
+        "fuel leaking from the fuel tank or pump cap",
+        "fuel dripping onto the engine or alternator",
+        "wet spots under the motorcycle."
+      ],
+      "odiNumbers": [
+        "10556210",
+        "10487501",
+        "10485783",
+        "10480052",
+        "10569126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause inaccurate fuel level readings, leading to unexpected fuel depletion or fuel starvation, which can cause the engine to stall or fail.",
+      "symptoms": [
+        "Inaccurate fuel level readings",
+        "fuel level gauge not functioning properly."
+      ],
+      "odiNumbers": [
+        "10569126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to a loss of control, increased stopping distance, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brakes lock up",
+        "the ABS does not engage",
+        "the brakes fail to activate",
+        "the vehicle jerks or drops to one side",
+        "the stopping distance is significantly increased."
+      ],
+      "odiNumbers": [
+        "10460822",
+        "10456032",
+        "10262860",
+        "10258361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to shift out of gear, leading to loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle shifts out of gear",
+        "the vehicle lunges forward",
+        "the vehicle vibrates",
+        "the transmission fails to engage",
+        "the transmission slips out of gear."
+      ],
+      "odiNumbers": [
+        "10520854",
+        "10520713",
+        "10419846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

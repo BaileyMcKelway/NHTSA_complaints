@@ -1,0 +1,192 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Brake Rotors",
+      "impact": "Warped brake rotors can cause the vehicle to vibrate or pull to one side when braking, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Vehicle vibrates or pulls to one side when braking",
+        "loud grinding or screeching noise when braking",
+        "brake pedal pulsates or feels spongy",
+        "uneven brake rotor wear."
+      ],
+      "odiNumbers": [
+        "999999999",
+        "962480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "Failed brake pads can cause the vehicle to take longer to stop, leading to increased risk of accidents.",
+      "symptoms": [
+        "Squealing or grinding noise when braking",
+        "brake pedal feels soft or spongy",
+        "brake pads excessively worn",
+        "vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "520973",
+        "962480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Failure of the master cylinder can cause a loss of brake fluid, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Brake fluid leak",
+        "brake pedal feels soft or spongy",
+        "brake pedal drops to the floor",
+        "vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "962480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Suspension System Sensor",
+      "impact": "A faulty suspension system sensor can cause the suspension light to malfunction, leading to inaccurate warnings and potential safety risks, as well as unnecessary repairs and financial burdens on the vehicle owner.",
+      "symptoms": [
+        "The suspension light flashes or remains illuminated on the dashboard",
+        "despite the absence of any actual suspension issues",
+        "and may be accompanied by inaccurate warnings or error messages."
+      ],
+      "odiNumbers": [
+        "10068864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Diagnostic and Repair by Dealership",
+      "impact": "Inaccurate diagnostic and repair by the dealership can lead to unnecessary repairs, financial burdens, and continued safety risks, as well as erosion of trust in the dealership and the vehicle manufacturer.",
+      "symptoms": [
+        "The dealership provides incorrect diagnoses or estimates for repairs",
+        "performs unnecessary repairs",
+        "or fails to resolve the issue",
+        "leading to repeated visits and financial losses for the vehicle owner."
+      ],
+      "odiNumbers": [
+        "10068864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Idle Air Control (IAC) Valve",
+      "impact": "The malfunctioning IAC valve can cause the engine to stall or die without warning, leading to a loss of control and increased risk of accidents, especially in warmer weather conditions.",
+      "symptoms": [
+        "Erratic idle",
+        "idle revving and dropping",
+        "idle dipping often with engine dying",
+        "idle hanging high above 2",
+        "000 RPM",
+        "engine dying or stalling for no reason with no trouble codes. These symptoms often occur only in warmer weather",
+        "typically starting in the spring and subsiding in the fall with cooler weather."
+      ],
+      "odiNumbers": [
+        "732268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Idle Control System Malfunction",
+      "impact": "The malfunction of the idle control system can cause the engine to stall or nearly stall, leading to a loss of power and control, which can increase the risk of accidents, especially when driving in heavy traffic or navigating steep inclines.",
+      "symptoms": [
+        "The engine idle speed drops suddenly",
+        "the engine RPM fluctuates erratically",
+        "the engine RPM surges to high levels (e.g.",
+        "2000 RPM) and remains there for an extended period (e.g.",
+        "30 seconds)",
+        "the engine RPM slowly returns to normal after the surge."
+      ],
+      "odiNumbers": [
+        "713266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of serious injury or fatality to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "warning lights or indicators on the dashboard",
+        "audible warnings or chimes",
+        "seatbelt pretensioners do not tighten."
+      ],
+      "odiNumbers": [
+        "522082",
+        "514141",
+        "509234",
+        "506789",
+        "504321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inconsistent or Erratic Airbag Warning Lights",
+      "impact": "Inconsistent or erratic airbag warning lights can lead to confusion or complacency among drivers, potentially increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Airbag warning lights illuminate intermittently",
+        "airbag warning lights remain illuminated constantly",
+        "airbag warning lights fail to illuminate",
+        "audible warnings or chimes."
+      ],
+      "odiNumbers": [
+        "521945",
+        "519876",
+        "517234",
+        "515678",
+        "513456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Crash Sensor Malfunction",
+      "impact": "A malfunctioning crash sensor can prevent airbags from deploying in the event of a crash, increasing the risk of serious injury or fatality to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "crash sensors damaged or faulty",
+        "warning lights or indicators on the dashboard",
+        "audible warnings or chimes."
+      ],
+      "odiNumbers": [
+        "520123",
+        "518901",
+        "516789",
+        "514567",
+        "512345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

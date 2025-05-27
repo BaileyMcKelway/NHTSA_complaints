@@ -1,0 +1,51 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Lighting Failure",
+      "impact": "The failure of the instrument cluster lighting can cause the gauges, speedometer, and other essential information to be unreadable at night, posing a significant safety risk to the driver and other road users.",
+      "symptoms": [
+        "The lights in the gauge cluster go out or dim",
+        "making it difficult or impossible to read the gauges",
+        "speedometer",
+        "and other essential information at night",
+        "including the fuel gauge",
+        "temperature gauge",
+        "and gear indicator."
+      ],
+      "odiNumbers": [
+        "11292337",
+        "10785838",
+        "10780106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Evaporative Emission Control (EVAP) Canister Fuel Leak",
+      "impact": "The fuel leak from the EVAP canister can cause fuel to spill onto the rear passenger wheel fender liner, creating a fire hazard, especially when driving under heavy loads or cornering. This can lead to vehicle fires, potentially resulting in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Fuel leaks from the EVAP canister",
+        "fuel stains around the EVAP canister",
+        "strong fuel fumes inside the cabin",
+        "fuel overflow after filling the tank."
+      ],
+      "odiNumbers": [
+        "10860508",
+        "10851521",
+        "10500596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

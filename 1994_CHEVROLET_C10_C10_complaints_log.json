@@ -1,0 +1,55 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEATS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The intermittent or complete failure of the windshield wipers can severely reduce driver visibility, especially during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "windshield wipers stop working during use",
+        "windshield wipers do not turn on at all",
+        "windshield wipers activate on their own while the switch is in the off position."
+      ],
+      "odiNumbers": [
+        "10047332",
+        "10024070",
+        "8020966",
+        "8002914",
+        "894392",
+        "889490",
+        "713115",
+        "850336",
+        "845705",
+        "545697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Back Recliner Mechanism Failure",
+      "impact": "The failure of the seat back recliner mechanism can cause the seat back to fall back, potentially leading to accidents or injuries, especially in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The seat back recliner mechanism bolts break",
+        "the seat back falls back",
+        "the high bucket seatback rocks back and forth on the seat track and anchor",
+        "a popping sound is heard."
+      ],
+      "odiNumbers": [
+        "832464",
+        "982402",
+        "980584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

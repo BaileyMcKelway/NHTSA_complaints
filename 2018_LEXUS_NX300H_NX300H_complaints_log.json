@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "STRUCTURE",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The sudden and unintended acceleration of the vehicle, accompanied by brake failure, can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "the brake pedal goes to the floor",
+        "the brakes are inoperative",
+        "the vehicle fails to stop",
+        "the RPM runs high even after shifting into park",
+        "the pre-collision system feature does not engage."
+      ],
+      "odiNumbers": [
+        "11514299",
+        "11463405",
+        "11297263",
+        "11098011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure Warning Lights",
+      "impact": "The failure of the brake system, accompanied by warning lights, can lead to accidents, injuries, and fatalities if the driver is not aware of the issue or fails to take immediate action.",
+      "symptoms": [
+        "The brake failure warning lights come on",
+        "the brakes are inoperative",
+        "the vehicle fails to stop."
+      ],
+      "odiNumbers": [
+        "11297263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Override System (BOS) Failure",
+      "impact": "The failure of the BOS can lead to accidents, injuries, and fatalities if the vehicle is unable to stop or slow down in emergency situations.",
+      "symptoms": [
+        "The BOS fails to prevent the collision or even warn of the impending collision",
+        "the brake pedal goes to the floor",
+        "the vehicle fails to stop."
+      ],
+      "odiNumbers": [
+        "11514299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The malfunction of the power steering system can cause the steering wheel to become hard to maneuver, making it difficult to control the vehicle, which can lead to accidents and put other road users at risk.",
+      "symptoms": [
+        "The steering wheel is hard to turn",
+        "the steering wheel requires excessive force to turn",
+        "the vehicle is difficult to steer",
+        "the steering wheel does not respond properly to input."
+      ],
+      "odiNumbers": [
+        "11543947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Diagnosis and Repair by Dealership",
+      "impact": "The failure of the dealership to properly diagnose and address the issue can lead to prolonged exposure to the safety risks associated with the malfunctioning power steering system.",
+      "symptoms": [
+        "The dealership is unable to confirm or address the issue despite multiple inspections",
+        "the issue persists or worsens over time."
+      ],
+      "odiNumbers": [
+        "11543947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Deformed Interior Door Beam",
+      "impact": "The deformation of the interior door beam can compromise the structural integrity of the vehicle, potentially leading to reduced safety in the event of a side-impact accident, which could result in injuries or fatalities.",
+      "symptoms": [
+        "The interior door beam on the driver's side has a dent-like deformation",
+        "the stainless steel beam has sucked in",
+        "and there is no clear explanation for the cause."
+      ],
+      "odiNumbers": [
+        "11438964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "HVAC Evaporator Drain Hose Clogging",
+      "impact": "The clogging of the HVAC evaporator drain hose can cause water to overflow into the cabin, resulting in water damage, mold, and mildew on the carpet and pad. This can lead to costly repairs and create an unhealthy environment for occupants.",
+      "symptoms": [
+        "Water accumulation on the driver-side floor",
+        "water overflow when using the AC or defroster",
+        "mold and mildew growth on the carpet and pad."
+      ],
+      "odiNumbers": [
+        "11437202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

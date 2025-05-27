@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Lag Time",
+      "impact": "The transmission slipping and lag time can cause the vehicle to lose power and acceleration, leading to dangerous situations, especially when merging into traffic or making turns, which can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission slips and revs to high RPMs before engaging",
+        "causing a delay in acceleration",
+        "the vehicle lurches forward when the transmission finally engages",
+        "the transmission does not respond properly when the accelerator is depressed",
+        "the vehicle accelerates unexpectedly while slowing down."
+      ],
+      "odiNumbers": [
+        "10500520",
+        "10383941",
+        "10356674",
+        "10349924",
+        "10310149",
+        "10310167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate unexpectedly, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly while slowing down",
+        "the vehicle continues to accelerate even when the driver is trying to stop",
+        "the rear wheels leave a mark on the pavement."
+      ],
+      "odiNumbers": [
+        "10342602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Differential Oil Leak",
+      "impact": "The rear differential oil leak can cause the differential to run dry, seize, and lock up the rear wheels, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Oil leaks from the rear differential through pinholes",
+        "the differential runs dry",
+        "the rear wheels lock up."
+      ],
+      "odiNumbers": [
+        "10296828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants of the vehicle are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "occupants are thrown around the vehicle",
+        "occupants experience severe injuries",
+        "vehicle is totaled."
+      ],
+      "odiNumbers": [
+        "11377705",
+        "10552260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Corrosion and Structural Failure",
+      "impact": "Corrosion and structural failure of the frame can lead to loss of control, accidents, and potentially life-threatening situations.",
+      "symptoms": [
+        "Frame rusting",
+        "corrosion",
+        "or rotting",
+        "especially in areas with high humidity or salt exposure; sudden loss of control while driving; steering difficulties or jerkiness."
+      ],
+      "odiNumbers": [
+        "11210138",
+        "11153258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion of Steering Components (Rack and Pinion)",
+      "impact": "Corrosion of steering components can cause loss of control, accidents, and potentially life-threatening situations.",
+      "symptoms": [
+        "Hard or jerky steering",
+        "difficulty turning",
+        "corrosion or rust on steering components",
+        "sudden failure of steering system."
+      ],
+      "odiNumbers": [
+        "11153258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

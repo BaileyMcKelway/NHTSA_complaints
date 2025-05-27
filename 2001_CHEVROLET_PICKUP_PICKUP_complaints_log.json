@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "AIR BAGS",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation/Failure",
+      "impact": "Tire tread separation or failure can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of tire pressure",
+        "tire tread separation",
+        "tire blowout",
+        "vehicle swaying or fish-tailing",
+        "loss of control",
+        "and potential damage to vehicle components."
+      ],
+      "odiNumbers": [
+        "10081479",
+        "10039490",
+        "10022600",
+        "751531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbag warning light is on prior to the crash",
+        "airbags do not deploy in a crash",
+        "injuries or fatalities occur due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "10161077",
+        "750614"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Microbial Growth on Evaporator Core Causing Unpleasant Odor and Health Issues",
+      "impact": "The growth of microorganisms on the evaporator core can release a foul, musty odor into the passenger compartment, potentially causing respiratory issues, allergic reactions, and discomfort for occupants.",
+      "symptoms": [
+        "Unpleasant",
+        "musty odor emanating from the air conditioner",
+        "bronchitis",
+        "upper respiratory infection",
+        "rhinitis",
+        "sinusitis",
+        "chronic cough",
+        "sore throat",
+        "headache."
+      ],
+      "odiNumbers": [
+        "562725"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

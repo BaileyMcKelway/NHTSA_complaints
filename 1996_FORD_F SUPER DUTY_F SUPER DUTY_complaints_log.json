@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Speed Control Deactivation Switch Failure",
+      "impact": "The failure of the speed control deactivation switch can cause an engine compartment fire while the vehicle is being driven, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine compartment fire",
+        "vehicle stalling",
+        "loss of speed control."
+      ],
+      "odiNumbers": [
+        "10217962",
+        "10216671"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Idle Air Valve Assembly Failure",
+      "impact": "The failure of the idle air valve assembly can cause the vehicle to stall, which can lead to accidents, especially when driving on highways or in heavy traffic.",
+      "symptoms": [
+        "Vehicle stalling",
+        "loss of engine power",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "549045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank and Pump Failure",
+      "impact": "The failure of the fuel tank and pump can cause gas leaks, leading to a high risk of fire or explosion, especially when driving or parking near open flames or sparks.",
+      "symptoms": [
+        "Gas smell while driving",
+        "gas spilling out when filling the tank",
+        "noise sounding like something falling inside the vehicle",
+        "stalling of the engine."
+      ],
+      "odiNumbers": [
+        "759523",
+        "549045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Exhaust Manifold",
+      "impact": "A warped exhaust manifold can cause bolts to break off, leading to an exhaust gas leak, which can pose a danger to occupants due to the potential for carbon monoxide poisoning.",
+      "symptoms": [
+        "Exhaust manifold warping",
+        "broken bolts",
+        "exhaust gas leak",
+        "difficulty in contacting the manufacturer to correct the issue."
+      ],
+      "odiNumbers": [
+        "720816",
+        "822895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power and acceleration, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission quits running",
+        "the vehicle is unable to accelerate",
+        "the vehicle slows down or stalls",
+        "the transmission slips or hesitates",
+        "the vehicle makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "10030025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Assembly Failure",
+      "impact": "The failure of the wiring assembly can cause electrical system malfunctions, leading to issues with various vehicle systems, including lighting, ignition, and safety features, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Electrical system malfunctions",
+        "intermittent or complete loss of power to various systems",
+        "flickering or dimming lights",
+        "difficulty starting the engine",
+        "warning lights or error messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "549045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden and unexpected acceleration can lead to loss of control, accidents, and injuries, as well as damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The vehicle accelerates rapidly and unexpectedly",
+        "often without warning",
+        "and may be accompanied by a warning message on the dashboard."
+      ],
+      "odiNumbers": [
+        "11524726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Multi-Information Display Failure",
+      "impact": "The failure of the multi-information display can lead to a lack of critical information, such as speed, fuel level, and odometer readings, which can increase the risk of accidents and affect vehicle safety.",
+      "symptoms": [
+        "The multi-information display fails to display speed",
+        "fuel level",
+        "odometer readings",
+        "and other driving metrics",
+        "making it difficult for the driver to monitor the vehicle's performance and operate safely."
+      ],
+      "odiNumbers": [
+        "11319576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration and Brake Failure",
+      "impact": "The sudden acceleration and brake failure can cause loss of control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The brake pedal fails to stop the vehicle",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle surges forward or backward",
+        "the airbags deploy",
+        "and the vehicle is totaled."
+      ],
+      "odiNumbers": [
+        "11492215",
+        "11348886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sidewall Failure of Toyo NanoEnergy A41 Tires",
+      "impact": "The sudden failure of the tire sidewall can lead to loss of control, accidents, and potentially serious injuries or fatalities, especially at higher speeds.",
+      "symptoms": [
+        "Bulging or ballooning on the sidewall of the tire",
+        "sudden blowout of the tire sidewall",
+        "tire failure without warning",
+        "tire failure at low speeds."
+      ],
+      "odiNumbers": [
+        "11469447",
+        "11428132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

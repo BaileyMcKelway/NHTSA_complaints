@@ -1,0 +1,176 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical systems to malfunction, including brakes, speed, steering, parking systems, and camera, leading to a significant reduction in the vehicle's ability to drive safely.",
+      "symptoms": [
+        "Brake failure",
+        "service stability and auto hold notifications",
+        "high voltage and battery notifications",
+        "brakes",
+        "speed",
+        "steering",
+        "parking systems",
+        "and camera malfunctioning",
+        "sudden reduction in speed",
+        "and violent shaking of passengers."
+      ],
+      "odiNumbers": [
+        "11587903",
+        "11567137",
+        "11565321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can cause a lack of visibility behind the vehicle, especially at night, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "No backup camera image at night",
+        "screen remains black",
+        "and backup lights not coming on in reverse."
+      ],
+      "odiNumbers": [
+        "11574475",
+        "11552101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lithium-Ion Battery Failure",
+      "impact": "The failure of the lithium-ion battery can cause the vehicle to become undrivable, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "Lithium-ion battery failure",
+        "vehicle unable to start",
+        "and requiring towing to the dealer."
+      ],
+      "odiNumbers": [
+        "11574022",
+        "11565321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Braking System Malfunction",
+      "impact": "The malfunction of the automatic braking system can cause sudden and abrupt stops, leading to a safety hazard, especially when other vehicles are nearby.",
+      "symptoms": [
+        "Abrupt automatic braking in reverse",
+        "sudden stops without warning",
+        "and hard braking causing driver and passenger to pitch forward."
+      ],
+      "odiNumbers": [
+        "11538961"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dim Dashboard Lighting",
+      "impact": "The dim dashboard lighting can cause distraction and visual impairment while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Dashboard lighting is very dim",
+        "making it hard to read and view options and screens",
+        "especially at night."
+      ],
+      "odiNumbers": [
+        "11584196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Malfunctioning Auto-Leveling Headlights",
+      "impact": "The malfunctioning auto-leveling headlights can cause reduced visibility, glare, and increased risk of accidents, especially at night.",
+      "symptoms": [
+        "Headlights randomly aim down",
+        "drift up or down",
+        "or point towards the road or overhead street signs",
+        "reducing visibility and causing glare."
+      ],
+      "odiNumbers": [
+        "11579613",
+        "11574592",
+        "11547021",
+        "11546227",
+        "11544985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Backup Camera Malfunction",
+      "impact": "The malfunctioning backup camera can cause accidents or injuries when reversing, especially in low-light conditions.",
+      "symptoms": [
+        "Backup camera display is black with lines",
+        "making it impossible to see behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11573498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Collision System Braking Malfunction",
+      "impact": "The sudden and unnecessary engagement of the automatic collision system braking while reversing in rainy conditions can cause abrupt stops, putting passengers at risk of injury from being thrown backwards without warning.",
+      "symptoms": [
+        "The vehicle's automatic collision system braking engages while reversing in rainy conditions",
+        "causing the vehicle to stop abruptly; the vehicle must be placed in \"park\" and then \"reverse\" multiple times to reset the system."
+      ],
+      "odiNumbers": [
+        "11587209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver Assistance Software Failure",
+      "impact": "The failure of multiple components of the driver assistance software can cause the vehicle to malfunction, leading to potential accidents and putting the safety of passengers and others at risk.",
+      "symptoms": [
+        "The vehicle's emergency parking brake engages unexpectedly while driving; the adaptive cruise control fails to brake in response to traffic conditions; warning lights and messages appear",
+        "including \"service driver assist system.\""
+      ],
+      "odiNumbers": [
+        "11547432",
+        "11546229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Forward Collision System Error",
+      "impact": "The intermittent malfunction of the forward collision system can cause the vehicle to brake unnecessarily, leading to abrupt stops and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The vehicle's forward collision system vibrates the seat and slams on the brakes when approaching stop lights or stop signs",
+        "even when there is no obstacle present; the error message appears and disappears daily",
+        "with no apparent pattern."
+      ],
+      "odiNumbers": [
+        "11546229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

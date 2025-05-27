@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel leaks can cause fires, which can lead to vehicle damage, injury, or even fatalities. Stalling and fuel leaks can also leave the driver stranded, increasing the risk of accidents.",
+      "symptoms": [
+        "Fuel leaks",
+        "stalling",
+        "coolant light comes on",
+        "burning smell",
+        "fire under the vehicle."
+      ],
+      "odiNumbers": [
+        "11301380",
+        "11170734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unexplained Fires",
+      "impact": "Unexplained fires can cause vehicle damage, injury, or even fatalities. They can also lead to a loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Burning smell",
+        "fire under the vehicle",
+        "liquid spilling onto the ground and catching on fire",
+        "fire spreading to other vehicles and surrounding areas."
+      ],
+      "odiNumbers": [
+        "11170734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Denial and Failure",
+      "impact": "Denial of recall repairs can lead to continued operation of a defective vehicle, increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle is turned away from recall repair",
+        "despite having known issues",
+        "and subsequently experiences problems such as fuel leaks",
+        "stalling",
+        "and fires."
+      ],
+      "odiNumbers": [
+        "11301380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Takata Airbag Inflator Recall Remedies",
+      "impact": "The prolonged delay in providing recall remedies for the Takata airbag inflator housing can lead to a significant risk of serious injury or death due to the potential rupture of the inflator, which can cause the airbag to deploy improperly.",
+      "symptoms": [
+        "None",
+        "as this issue is related to the recall and remedy process rather than a specific vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11083254",
+        "11078553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Sensor Failure",
+      "impact": "The failure of the engine sensor can cause the engine to malfunction, leading to potential engine failure, stalling, or even engine fires, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine sensor failure",
+        "engine malfunction",
+        "engine stalling",
+        "engine failure",
+        "vehicle fire."
+      ],
+      "odiNumbers": [
+        "8008332",
+        "552516",
+        "507467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the vehicle to shift incorrectly, leading to accidents or loss of control, which can result in serious injury or fatalities.",
+      "symptoms": [
+        "The vehicle does not shift correctly",
+        "the transmission fails",
+        "the transmission automatically shifts from park to reverse or other gears without driver input."
+      ],
+      "odiNumbers": [
+        "831882",
+        "484196",
+        "964198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden loss of air pressure",
+        "vibration while driving",
+        "uneven tire wear",
+        "visible signs of tread separation",
+        "loss of traction",
+        "and vehicle instability."
+      ],
+      "odiNumbers": [
+        "8005565",
+        "746483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

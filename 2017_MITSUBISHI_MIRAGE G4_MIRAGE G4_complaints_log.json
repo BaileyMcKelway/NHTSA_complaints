@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle occupants are not properly protected.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "SRS warning light illuminates",
+        "passenger seatbelt warning light illuminates",
+        "covers for side curtain airbags come off but airbags do not deploy."
+      ],
+      "odiNumbers": [
+        "11554454",
+        "11518226",
+        "11286419",
+        "11217793",
+        "11196896",
+        "11115352",
+        "11073275",
+        "11006103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Recall Notification Issues",
+      "impact": "Failure to receive recall notifications can lead to delays in repairing the airbag sensor, which can increase the risk of airbag failure to deploy in the event of a crash.",
+      "symptoms": [
+        "No recall notification received",
+        "dealer not aware of recall",
+        "manufacturer exceeded reasonable time to repair vehicle."
+      ],
+      "odiNumbers": [
+        "11219061",
+        "11217168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "Illumination of the airbag warning light can indicate a problem with the airbag system, which can lead to airbag failure to deploy in the event of a crash.",
+      "symptoms": [
+        "SRS warning light illuminates",
+        "passenger seatbelt warning light illuminates",
+        "airbag warning light stays on even after inserting passenger seatbelt."
+      ],
+      "odiNumbers": [
+        "11078878",
+        "11061574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the loss of power, shutting off of lights and radio, and loss of acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The ABS light and skid control lights come on",
+        "followed by the loss of power",
+        "shutting off of lights and radio",
+        "and loss of acceleration; the vehicle requires a jump start after shutting off; the radio forgets its stations",
+        "and the clock needs to be reset; the vehicle experiences sudden acceleration or loss of acceleration without pressing the accelerator."
+      ],
+      "odiNumbers": [
+        "11518010",
+        "11210714",
+        "11133605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Window Motor Failure",
+      "impact": "The failure of the window motor can cause the window to get stuck in the down position, leading to reduced visibility and potential water ingress, which can be a safety hazard.",
+      "symptoms": [
+        "The window motor fails",
+        "causing the window to get stuck in the down position; an electrical smell or smoke is present in the car interior."
+      ],
+      "odiNumbers": [
+        "11396312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Loss of Power",
+      "impact": "The sudden loss of power can cause the vehicle to stall or come to a complete stop, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses total power",
+        "the vehicle stalls",
+        "the vehicle comes to a complete stop",
+        "the engine dies while driving."
+      ],
+      "odiNumbers": [
+        "11388537",
+        "11192810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

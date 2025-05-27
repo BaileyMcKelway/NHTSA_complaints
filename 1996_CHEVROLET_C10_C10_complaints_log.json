@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEATS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can reduce visibility during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers stop working suddenly",
+        "wipers work intermittently",
+        "wipers require repeated activation to function",
+        "wipers fail to respond to initial activation",
+        "wipers work for a short period and then stop."
+      ],
+      "odiNumbers": [
+        "10273479",
+        "8013153",
+        "8009844",
+        "8005772",
+        "877115",
+        "865378",
+        "723981",
+        "862460",
+        "720040",
+        "841362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Recliner Failure",
+      "impact": "The failure of the seat recliner can cause the seat to break away from its base, leading to a loss of control while driving, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The seat recliner does not function properly",
+        "the seat starts to break away from its base",
+        "the seat is loose or unstable",
+        "the seat does not stay in place."
+      ],
+      "odiNumbers": [
+        "894828",
+        "813248"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unstable Engine Idle and Revving",
+      "impact": "The unstable engine idle and revving can cause loss of control, especially on icy roads, leading to accidents and safety hazards.",
+      "symptoms": [
+        "Engine revs up when cold",
+        "idles down the road at 35 mph",
+        "wheels push forward",
+        "brakes lock up",
+        "and the vehicle may accelerate unexpectedly."
+      ],
+      "odiNumbers": [
+        "743036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Front Brake Wear and Failure",
+      "impact": "Premature wear and failure of the front brake shoes and pads can lead to reduced stopping power, increased stopping distance, and accidents.",
+      "symptoms": [
+        "Excessive wear of front brake shoes and pads",
+        "frequent replacement of brake pads",
+        "brake dust on brake wheels",
+        "and brake hose failure."
+      ],
+      "odiNumbers": [
+        "842966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

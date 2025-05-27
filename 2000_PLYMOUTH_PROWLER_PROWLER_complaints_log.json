@@ -1,0 +1,73 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "STRUCTURE",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joint can cause loss of steering, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Sudden loss of power steering assist",
+        "lower ball joint separation from the lower control arm",
+        "loss of steering",
+        "wheels turning while driving",
+        "rim damage."
+      ],
+      "odiNumbers": [
+        "10957684",
+        "10779131",
+        "10519367",
+        "10259249",
+        "10109587",
+        "10030048",
+        "10018129",
+        "10011840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Support Failure",
+      "impact": "The failure of the hood supports can cause the hood to crash down, resulting in injuries to the head, wrists, and fingers, and potentially leading to serious consequences, including death.",
+      "symptoms": [
+        "The hood props do not support the hood lid when opened",
+        "the hood crashes down suddenly",
+        "the hood slowly settles on the head or body while working under the hood."
+      ],
+      "odiNumbers": [
+        "10513318",
+        "10114802",
+        "10105821",
+        "10104622",
+        "10104599",
+        "10104612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Window Regulator Failure",
+      "impact": "The failure of the window regulator can cause the window to malfunction, leading to difficulty or inability to operate the window, which can be a safety concern, especially in emergency situations.",
+      "symptoms": [
+        "The window does not move up or down",
+        "the window is stuck in a certain position",
+        "the cable is visible and coming out of the envelope",
+        "the envelope or tubing is cracked or broken",
+        "the window regulator makes a loud noise or grinding sound when operating."
+      ],
+      "odiNumbers": [
+        "10552266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

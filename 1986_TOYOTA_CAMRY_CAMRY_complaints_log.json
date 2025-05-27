@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Buckle Failure",
+      "impact": "The failure of the seatbelt buckle can cause the seatbelt to malfunction, leading to a loss of protection in the event of a crash, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt buckle is cracked or broken",
+        "the seatbelt will not latch or release",
+        "the seatbelt buckle falls apart",
+        "the seatbelt is stuck in a locked position",
+        "the seatbelt retractor stops working."
+      ],
+      "odiNumbers": [
+        "857091",
+        "808356",
+        "514249",
+        "985954",
+        "979630",
+        "978145",
+        "977633",
+        "977535",
+        "976153",
+        "966003"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to malfunction, leading to a loss of protection in the event of a crash, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt retractor stops working",
+        "the seatbelt will not retract or release",
+        "the seatbelt is stuck in a locked position."
+      ],
+      "odiNumbers": [
+        "977535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Blowout",
+      "impact": "Tire tread separation and blowout can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden vibration or shaking of the vehicle",
+        "loud noise or explosion",
+        "loss of tire pressure",
+        "tire blowout",
+        "tread separation."
+      ],
+      "odiNumbers": [
+        "10396035",
+        "10126848",
+        "10037486",
+        "870936",
+        "480275",
+        "478550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Tire Wear and Failure",
+      "impact": "Premature tire wear and failure can lead to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Rapid tire wear",
+        "uneven tire wear",
+        "tire failure",
+        "vibration or shaking of the vehicle",
+        "loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10126848",
+        "10037486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Structural Defects in Tires",
+      "impact": "Structural defects in tires can cause sudden and unexpected tire failure, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tire failure without warning",
+        "vibration or shaking of the vehicle",
+        "loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10037486",
+        "870936",
+        "480275",
+        "478550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, especially if the vehicle is traveling at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Sudden acceleration without warning",
+        "vehicle continues to accelerate even when the brakes are applied",
+        "cruise control malfunctions",
+        "vehicle accelerates out of control",
+        "throttle pedal sticks or breaks."
+      ],
+      "odiNumbers": [
+        "10864119",
+        "10317554",
+        "802682",
+        "982219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "The sudden breakage of the timing belt can cause the engine to lose power, leading to a loss of power-assisted steering and brakes, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine makes a clanging sound between 1500-2500 RPM",
+        "the sound increases in frequency along with engine speed and then stops",
+        "the vehicle loses power while trying to accelerate",
+        "the vehicle loses power suddenly while driving."
+      ],
+      "odiNumbers": [
+        "770371",
+        "732841",
+        "836810",
+        "981216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

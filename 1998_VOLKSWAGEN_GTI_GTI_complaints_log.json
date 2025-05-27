@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power and control, increasing the risk of accidents, especially when it occurs while turning or driving at high speeds.",
+      "symptoms": [
+        "The engine stalls or dies without warning",
+        "the engine check light illuminates",
+        "the vehicle stalls and dies repeatedly",
+        "the vehicle stalls when making a turn."
+      ],
+      "odiNumbers": [
+        "10014918",
+        "10014919",
+        "881242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Engine Management System",
+      "impact": "A faulty engine management system can cause the engine to stall or malfunction, leading to loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine check light illuminates",
+        "the engine stalls or dies without warning",
+        "the vehicle stalls and dies repeatedly",
+        "the vehicle stalls when making a turn."
+      ],
+      "odiNumbers": [
+        "881242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock up, leading to loss of control, accidents, and potential injuries. Additionally, the failure of the ABS system can also affect the proper deployment of airbags, further increasing the risk of injury.",
+      "symptoms": [
+        "The ABS warning light comes on and stays on when the vehicle is started",
+        "the ABS system locks up",
+        "the brakes feel spongy or unresponsive",
+        "the vehicle is difficult to control",
+        "the airbag does not deploy properly."
+      ],
+      "odiNumbers": [
+        "10007904",
+        "708280",
+        "540271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the loss of essential vehicle functions, such as headlights, wipers, and fan, which can lead to accidents, especially at night or in hazardous weather conditions, and leave the driver stranded.",
+      "symptoms": [
+        "Headlights",
+        "wipers",
+        "and fan suddenly stop working",
+        "intermittent loss of electrical power",
+        "ignition switch requires manipulation (e.g.",
+        "holding the key forward) to restore functionality",
+        "ignition switch failure is intermittent",
+        "requiring repeated attempts to restore power."
+      ],
+      "odiNumbers": [
+        "10136844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Passenger Side Airbag Deployment",
+      "impact": "The unintended deployment of the passenger side airbag can cause unexpected and unnecessary injuries to occupants, and may also lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The passenger side airbag deploys unexpectedly",
+        "often without a crash or significant impact",
+        "the airbag warning light illuminates on the dashboard",
+        "the vehicle's occupants may experience injuries or discomfort from the unexpected airbag deployment."
+      ],
+      "odiNumbers": [
+        "10096153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electric Window Regulator Failure",
+      "impact": "The failure of the electric window regulator can cause the windows to malfunction, leading to inconvenience, water intrusion, and potential safety hazards, such as obstructed visibility.",
+      "symptoms": [
+        "The windows do not roll up or down properly",
+        "the windows get stuck in the up or down position",
+        "the windows make a grinding or scraping noise when operating",
+        "the windows vibrate or shake excessively when operating."
+      ],
+      "odiNumbers": [
+        "10018676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Idle and High RPM Issues",
+      "impact": "The erratic idle and high RPM issues can cause the vehicle to be difficult to control, especially at low speeds, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "The engine idle speed jumps randomly",
+        "hangs up at a high RPM",
+        "or fails to idle properly",
+        "resulting in unsafe riding conditions. The problem is often more pronounced at higher ambient temperatures."
+      ],
+      "odiNumbers": [
+        "10201186",
+        "10191705",
+        "10191712",
+        "10191686"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Incompatibility and Engine Stalling",
+      "impact": "The stalling of the engine at high speeds can cause sudden, unexpected deceleration, loss of brakes, and increased risk of accidents.",
+      "symptoms": [
+        "The engine stalls at speeds above 50mph",
+        "sudden deceleration",
+        "loss of power-assisted brakes",
+        "engine surging when the throttle is held at a constant speed",
+        "failure to decelerate when the throttle is released."
+      ],
+      "odiNumbers": [
+        "10482543",
+        "10201913"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Fuel Level Sensor",
+      "impact": "The faulty fuel level sensor can cause the fuel gauge to malfunction, leading to inaccurate fuel level readings, which can result in running out of fuel on the highway or at intersections, potentially causing fatal accidents.",
+      "symptoms": [
+        "The fuel gauge does not work",
+        "the fuel level reading is inaccurate",
+        "the vehicle runs out of fuel unexpectedly",
+        "the fuel level sensor fails repeatedly."
+      ],
+      "odiNumbers": [
+        "11234017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Engine Idle and Throttle Response",
+      "impact": "The erratic engine idle and throttle response can cause the motorcycle to behave unpredictably, leading to a loss of control, accidents, and safety risks, especially at high speeds.",
+      "symptoms": [
+        "High engine idle speed",
+        "unresponsive deceleration when the throttle is closed",
+        "rough or \"bucking\" at constant cruising speeds (around 60 mph)",
+        "inconsistent engine performance",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "10505744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Warning Light Malfunction",
+      "impact": "A constantly illuminated brake warning light can be distracting and may lead to driver confusion, potentially causing accidents or near-misses. Additionally, if the light is not accurately indicating a brake issue, it may mask a real problem, further compromising safety.",
+      "symptoms": [
+        "The brake warning light on the dashboard remains constantly illuminated",
+        "despite no apparent brake issues",
+        "and cannot be reset or turned off by the dealer or owner."
+      ],
+      "odiNumbers": [
+        "10193349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

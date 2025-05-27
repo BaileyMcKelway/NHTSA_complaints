@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Crossover Valve Failure",
+      "impact": "The failure of the fuel crossover valve can cause fuel to overflow from one tank to another, leading to fuel spills and potential fires. This issue can also cause fuel line pressure to decrease, resulting in prolonged starting times for the vehicle.",
+      "symptoms": [
+        "Fuel from one tank overflows into another tank",
+        "fuel spills onto the ground",
+        "fuel line pressure decreases",
+        "prolonged starting times for the vehicle."
+      ],
+      "odiNumbers": [
+        "558950",
+        "732029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling due to Vapor Lock",
+      "impact": "The engine stalling can cause the vehicle to lose power and come to a sudden stop, potentially leading to accidents, especially when driving at high speeds or in heavy traffic. This can also lead to safety risks, particularly when carrying young children or other vulnerable passengers.",
+      "symptoms": [
+        "The engine stalls while driving at moderate to high speeds (around 50 mph)",
+        "especially in high outside temperatures (above 80°F); symptoms similar to vapor lock; must be towed off the highway and allowed to cool down; problem does not occur in cool weather; stalls on off-ramps",
+        "blocking traffic",
+        "or on the side of the road on interstates; unable to keep the engine running; constant stalling",
+        "even after being towed."
+      ],
+      "odiNumbers": [
+        "734453",
+        "716307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sticking Passenger Door Latch",
+      "impact": "A sticking passenger door latch can cause difficulties in opening the door, potentially leading to safety risks, especially in emergency situations where quick exit is necessary.",
+      "symptoms": [
+        "The passenger door latch sticks",
+        "the door latch opens eventually after several tries",
+        "the door latch completely stops opening",
+        "requires ignition switch to be on and power window to be rolled down to open the door from the outside."
+      ],
+      "odiNumbers": [
+        "758235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dealer Failure to Address Recall Issues",
+      "impact": "The dealer's failure to address recall issues can lead to delayed or neglected repairs, potentially causing safety risks to the vehicle occupants.",
+      "symptoms": [
+        "Dealer denies responsibility for recall repairs",
+        "dealer claims recall is not in their system",
+        "dealer fails to properly address recall issues."
+      ],
+      "odiNumbers": [
+        "758235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

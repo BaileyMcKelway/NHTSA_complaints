@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "TIRES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Camshaft Position Sensor Failure",
+      "impact": "The failure of the camshaft position sensor can cause the engine to shut off without warning, leading to a loss of power steering and braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine shuts off without warning",
+        "the vehicle stalls or quits while driving",
+        "loss of power steering and braking ability."
+      ],
+      "odiNumbers": [
+        "10240855",
+        "10212199",
+        "10180898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust Manifold Bolt Failure",
+      "impact": "The failure of the exhaust manifold bolts can cause the exhaust manifold to leak, leading to decreased engine performance and potentially causing the engine to stall or shut off, which can increase the risk of accidents.",
+      "symptoms": [
+        "Exhaust manifold bolts break",
+        "exhaust manifold leaks",
+        "engine performance decreases",
+        "engine stalls or shuts off."
+      ],
+      "odiNumbers": [
+        "10032902"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Deformation and Ply Separation",
+      "impact": "The deformation of the tire tread and separation of the steel belts can lead to a loss of tire pressure, causing the vehicle to lose control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Large bulges or deformations across the tire tread",
+        "uneven tire wear",
+        "loss of tire pressure",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "10609228",
+        "10450086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Speed Control Deactivation Switch Failure",
+      "impact": "The failure of the speed control deactivation switch can cause the cruise control to malfunction, leading to a loss of vehicle control, and in some cases, even a fire. This can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The cruise control stops working",
+        "the brake fluid reservoir is low",
+        "the wiring harness/connector near the brake fluid reservoir is oily",
+        "the speed control deactivation switch is leaking brake fluid."
+      ],
+      "odiNumbers": [
+        "10493207",
+        "10139260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

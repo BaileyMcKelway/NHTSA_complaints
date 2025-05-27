@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to the seat belt becoming unfastened while driving, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle does not stay latched",
+        "the seat belt buckle fails to latch intermittently",
+        "the seat belt unfastens when making certain turns",
+        "the seat belt unfastens by itself while driving."
+      ],
+      "odiNumbers": [
+        "978360",
+        "483510",
+        "965280",
+        "962819",
+        "961866",
+        "481760",
+        "960292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rollaway Vehicle",
+      "impact": "The vehicle rolling away can cause accidents, damage to other vehicles, and potentially harm pedestrians or bystanders.",
+      "symptoms": [
+        "The vehicle rolls away after being turned off and the keys removed",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "864430"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The transmission fails",
+        "causing the vehicle to lose power or become unable to shift gears."
+      ],
+      "odiNumbers": [
+        "550876",
+        "487857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Wheel Bearing Failure",
+      "impact": "The failure of the rear wheel bearing can cause the wheel to come off, leading to accidents or loss of control.",
+      "symptoms": [
+        "The rear wheel bearing disconnects from the axle",
+        "causing the wheel to come off."
+      ],
+      "odiNumbers": [
+        "481084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the engine RPM increases when stepping on the brake",
+        "the vehicle speeds up when attempting to slow down."
+      ],
+      "odiNumbers": [
+        "828643",
+        "504762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

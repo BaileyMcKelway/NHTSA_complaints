@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Reverse Acceleration",
+      "impact": "Unintended reverse acceleration can cause loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates backwards without pressing the gas pedal",
+        "the vehicle accelerates in reverse despite applying the brakes",
+        "the vehicle takes off in reverse and only stops when hitting an obstacle",
+        "the vehicle picks up speed on an incline or uneven road surface."
+      ],
+      "odiNumbers": [
+        "822708",
+        "815105",
+        "814967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate or Soft Brakes",
+      "impact": "Inadequate or soft brakes can increase stopping distances, leading to accidents or near-misses, and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels too far before engaging",
+        "brakes feel weak or unresponsive",
+        "increased stopping distance",
+        "vehicle takes longer to stop than expected."
+      ],
+      "odiNumbers": [
+        "532785",
+        "604473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Interference between Brake and Accelerator Pedals",
+      "impact": "The close proximity of the brake and accelerator pedals can cause accidental simultaneous depression, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Brake and accelerator pedals are too close together",
+        "pedals are depressed simultaneously",
+        "unintended acceleration",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "503811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Passenger Seatbelt Retractor Failure",
+      "impact": "The failure of the front passenger seatbelt retractor can prevent the seatbelt from functioning properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The front passenger seatbelt will not come out of the door",
+        "the seatbelt is stuck or jammed",
+        "the seatbelt cannot be extended or retracted."
+      ],
+      "odiNumbers": [
+        "967015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Head Gasket Failure",
+      "impact": "The failure of the head gasket can cause the engine to seize, leading to a complete loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine overheats",
+        "the engine loses power",
+        "the engine makes unusual noises",
+        "the engine oil and coolant mix",
+        "the vehicle stalls or fails to start",
+        "the head gasket blows",
+        "and the engine locks up."
+      ],
+      "odiNumbers": [
+        "604473",
+        "958142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

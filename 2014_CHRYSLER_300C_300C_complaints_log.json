@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Disengagement and Unintended Shifting",
+      "impact": "The transmission disengagement and unintended shifting can cause the vehicle to lose power, stall, or roll backwards, leading to accidents or loss of control.",
+      "symptoms": [
+        "Transmission completely disengages while driving",
+        "vehicle comes to a complete stop",
+        "vehicle rolls backwards while in park",
+        "vehicle shifts into park without warning",
+        "vehicle jerks violently and stalls without warning."
+      ],
+      "odiNumbers": [
+        "11204076",
+        "10992810",
+        "11176104"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to lose motive power, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Vehicle loses motive power",
+        "check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11551543"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can reduce visibility and increase the risk of accidents, especially when reversing, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The backup camera flickers",
+        "shows a mirror flip image",
+        "or fails to display an image",
+        "making it unreliable for safety."
+      ],
+      "odiNumbers": [
+        "11189734",
+        "11122074"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration due to Pedal Adjustment",
+      "impact": "The unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine RPM increases suddenly",
+        "and the vehicle speed jumps",
+        "when adjusting the pedals using the switch mounted on the driver's seat. The vehicle may accelerate rapidly",
+        "even when the driver is not pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "11031456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rearview Camera Malfunction",
+      "impact": "The intermittent failure of the rearview camera can cause the driver to lose visibility while reversing, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The rearview camera cuts on and off",
+        "the image is inverted",
+        "the picture is clear but everything is on the wrong side",
+        "the camera malfunctions while reversing."
+      ],
+      "odiNumbers": [
+        "11204075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Automatic Door Lock System Failure",
+      "impact": "The failure of the automatic door lock system can cause the doors to reopen unexpectedly, potentially allowing unauthorized access to the vehicle or its contents.",
+      "symptoms": [
+        "The doors reopen by themselves after being locked",
+        "this occurs while the vehicle is parked."
+      ],
+      "odiNumbers": [
+        "11123603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

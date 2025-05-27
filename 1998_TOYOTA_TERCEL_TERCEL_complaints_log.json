@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "EQUIPMENT",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can lead to reduced stopping power, increased stopping distance, and increased risk of accidents, which can result in property damage, injuries, or fatalities.",
+      "symptoms": [
+        "Unusual noises when braking",
+        "such as grinding",
+        "screeching",
+        "or squealing sounds",
+        "brakes malfunctioning",
+        "brake rotors failing",
+        "brakes failing to engage properly."
+      ],
+      "odiNumbers": [
+        "607631",
+        "607935",
+        "607799",
+        "607803"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the brakes may not respond or may be unresponsive",
+        "the vehicle may be difficult to control or stop."
+      ],
+      "odiNumbers": [
+        "10018940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite meeting the deployment criteria",
+        "occupants may experience injuries or fatalities that could have been mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "10018940",
+        "833252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioning Compressor Failure",
+      "impact": "The failure of the air conditioning compressor can cause the air conditioning system to malfunction, leading to discomfort and distraction while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "The air conditioning blows warm air",
+        "the air conditioning is not cooling properly",
+        "the compressor is making a loud noise",
+        "the compressor is leaking refrigerant",
+        "the air conditioning system is not turning on."
+      ],
+      "odiNumbers": [
+        "607620",
+        "549081"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can increase the risk of injury or fatality in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt does not latch or unlatch properly",
+        "the seat belt webbing is damaged or frayed",
+        "the seat belt retractor does not function correctly",
+        "the seat belt buckle does not release",
+        "the seat belt warning light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "608178",
+        "607450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

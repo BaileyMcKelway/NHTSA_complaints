@@ -1,0 +1,166 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Automatic Emergency Braking (AEB) System",
+      "impact": "The unintended activation of the AEB system can cause sudden and unexpected braking, which can lead to accidents, injuries, or fatalities, especially if there are vehicles behind or approaching from the side.",
+      "symptoms": [
+        "The AEB warning light appears on the dashboard",
+        "the vehicle suddenly and automatically applies the brakes",
+        "the vehicle comes to a sudden stop or slows down rapidly",
+        "the system beeps or alerts the driver",
+        "and the system may malfunction or display error messages."
+      ],
+      "odiNumbers": [
+        "11589667",
+        "11449617",
+        "11433236",
+        "11420288",
+        "11390641",
+        "11376848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause a loud noise, debris, and potentially distract the driver, increasing the risk of accidents. In addition, if the sunroof is open, glass fragments can enter the cabin, causing injury to occupants.",
+      "symptoms": [
+        "Loud popping or banging noise",
+        "sudden shattering of the sunroof glass",
+        "glass fragments falling into the cabin",
+        "no warning signs or prior incidents."
+      ],
+      "odiNumbers": [
+        "11501201",
+        "11454301",
+        "11422083",
+        "11281157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Rear Hatch Activation",
+      "impact": "The unintended lowering of the rear hatch can cause injury or damage to occupants or objects in the rear area, particularly if the hatch is not properly secured.",
+      "symptoms": [
+        "The rear hatch lowers unexpectedly",
+        "without being triggered by the foot-activated motion sensor",
+        "when an occupant is sitting on the rear area or moving their legs."
+      ],
+      "odiNumbers": [
+        "11348587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious bodily injury or death in the event of an accident, as airbags may not deploy or deploy improperly.",
+      "symptoms": [
+        "Airbag warning lights appear intermittently",
+        "airbags do not deploy in an accident",
+        "passenger airbag light stays on while the vehicle is moving or stopped",
+        "airbag deploys unnecessarily",
+        "causing injury."
+      ],
+      "odiNumbers": [
+        "11511228",
+        "11292381",
+        "11267824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Passenger Detection Sensor Failure",
+      "impact": "The failure of the passenger detection sensor can cause the airbag system to malfunction, leading to serious bodily injury or death in the event of an accident.",
+      "symptoms": [
+        "Airbag warning lights appear",
+        "passenger airbag light stays on",
+        "airbags do not deploy in an accident."
+      ],
+      "odiNumbers": [
+        "11511228",
+        "11267824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Improper Airbag Design",
+      "impact": "The improper design of the under-dash airbag can cause serious bodily injury, as it may not accommodate the leg position of drivers in US vehicles.",
+      "symptoms": [
+        "Airbag deploys unnecessarily",
+        "causing injury",
+        "under-dash airbag breaks knee or tibia bone."
+      ],
+      "odiNumbers": [
+        "11292381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure",
+      "impact": "The failure of the tire can cause loss of control, accidents, and serious bodily injury or death.",
+      "symptoms": [
+        "Tire blows out",
+        "vehicle pulls to one side",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "11538885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Failure on Downhill Slopes",
+      "impact": "The failure of the cruise control system to regulate speed on downhill slopes can cause the vehicle to accelerate unexpectedly, leading to a loss of control, increased risk of accidents, and potential safety hazards.",
+      "symptoms": [
+        "The vehicle accelerates on downhill slopes",
+        "exceeding the set speed by 10-15+ mph",
+        "despite the cruise control being engaged; the vehicle does not slow down or decelerate on downhill slopes; the cruise control fails to maintain the set speed",
+        "leading to a sudden increase in speed."
+      ],
+      "odiNumbers": [
+        "11438147",
+        "11339372",
+        "11271206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unpredictable Acceleration and Surging",
+      "impact": "The unpredictable acceleration and surging of the vehicle can cause a loss of control, leading to accidents, near-misses, or other safety hazards.",
+      "symptoms": [
+        "The vehicle surges forward without warning after braking and depressing the accelerator pedal; the vehicle remains stationary for a few seconds before surging forward; the vehicle accelerates unexpectedly",
+        "even when the accelerator pedal is not pressed."
+      ],
+      "odiNumbers": [
+        "11222537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

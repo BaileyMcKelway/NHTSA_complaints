@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the brake pedal to become hard, leading to reduced braking performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the brake pedal becomes hard",
+        "the brake pedal is difficult to press",
+        "the brakes operate but with reduced performance."
+      ],
+      "odiNumbers": [
+        "819313",
+        "813467",
+        "813322"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Direct Ignition Cassette Failure",
+      "impact": "The failure of the direct ignition cassette can cause the vehicle to be hard to start, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle is hard to start",
+        "misses when started",
+        "requires revving to clear up",
+        "and may have a faulty ignition cassette."
+      ],
+      "odiNumbers": [
+        "10361579"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose functionality, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle can only drive in reverse",
+        "the transmission fails to engage properly",
+        "and may require multiple replacements."
+      ],
+      "odiNumbers": [
+        "970521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Harness Failure",
+      "impact": "The failure of the electrical wiring harness can cause a fire under the hood, resulting in damage to the vehicle and potentially spreading to the surrounding area, posing a risk to the occupants and nearby property.",
+      "symptoms": [
+        "Flames or smoke emanating from under the hood",
+        "burning smell",
+        "melting of wires or electrical components",
+        "sparks or arcing from the wiring harness."
+      ],
+      "odiNumbers": [
+        "969669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

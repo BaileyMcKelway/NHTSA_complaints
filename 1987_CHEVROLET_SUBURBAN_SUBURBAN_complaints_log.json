@@ -1,0 +1,175 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Vacuum System Failure",
+      "impact": "The failure of the brake vacuum system can cause a loss of braking power, leading to extended stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Inconsistent braking performance",
+        "extended stopping distance",
+        "especially during emergency stops",
+        "inability to stop the vehicle",
+        "forced to shift into neutral to stop."
+      ],
+      "odiNumbers": [
+        "850006",
+        "833823",
+        "984416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause a loss of braking power, leading to accidents or loss of control.",
+      "symptoms": [
+        "Brake failure",
+        "sudden loss of braking power."
+      ],
+      "odiNumbers": [
+        "529543",
+        "601978"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause loss of control, accidents, and potentially serious injury or death.",
+      "symptoms": [
+        "Tire sidewall tears or cracks",
+        "tire blowouts",
+        "sudden loss of air pressure",
+        "tire failure without apparent reason."
+      ],
+      "odiNumbers": [
+        "730193",
+        "730193",
+        "726824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Mounted Outside Frame",
+      "impact": "The fuel tank being mounted outside the frame can increase the risk of fuel leaks and fires in the event of an accident or road debris impact, potentially causing serious injuries or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel odors",
+        "or fuel spills under the vehicle."
+      ],
+      "odiNumbers": [
+        "516278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injection System Gas Leak",
+      "impact": "A gas leak in the fuel injection system can cause a vehicle fire, potentially resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Fuel odors",
+        "fuel leaks",
+        "engine compartment fires",
+        "or unexplained engine noises."
+      ],
+      "odiNumbers": [
+        "501834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Broken Baffle in Fuel Tank",
+      "impact": "A broken baffle in the fuel tank can cause fuel to slosh around, increasing the risk of fuel leaks and fires, potentially resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Fuel odors",
+        "fuel leaks",
+        "or unexplained fuel tank noises."
+      ],
+      "odiNumbers": [
+        "966234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Smoke emanating from the engine compartment",
+        "flames visible under the hood",
+        "burning smell",
+        "loss of power",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "10190063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, leading to damage to the engine, radiator, and other components, which can result in costly repairs and potentially cause accidents.",
+      "symptoms": [
+        "Overheating engine",
+        "coolant leaks",
+        "sweet or burning smell",
+        "engine noise",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "601978"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Horn Failure",
+      "impact": "The intermittent failure of the horn can lead to reduced safety on the road, as the driver may not be able to alert other drivers or pedestrians in emergency situations.",
+      "symptoms": [
+        "The horn stops working without warning",
+        "the horn fails to function intermittently."
+      ],
+      "odiNumbers": [
+        "856656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Electrical System Failure",
+      "impact": "The failure of the engine electrical system can cause a high-pitched noise, smoke, and even engine fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle makes a high-pitched noise when trying to start",
+        "smoke comes from under the hood",
+        "the engine catches fire."
+      ],
+      "odiNumbers": [
+        "985361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

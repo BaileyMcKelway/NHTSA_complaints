@@ -1,0 +1,292 @@
+{
+  "totalComplaints": 238,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause a loss of brake fluid, leading to a spongy brake pedal, reduced braking performance, and increased stopping distances, which can lead to accidents.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake fluid leak",
+        "ABS warning light is illuminated",
+        "vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "11510995",
+        "785395",
+        "700733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock up, leading to loss of vehicle control, increased stopping distances, and accidents.",
+      "symptoms": [
+        "ABS warning light is illuminated",
+        "brakes lock up while driving",
+        "vehicle pulls to one side while braking",
+        "grinding noise from brakes",
+        "excessive wear on rotors and pads."
+      ],
+      "odiNumbers": [
+        "10262028",
+        "814932",
+        "810933",
+        "807965",
+        "978628",
+        "973858",
+        "483005",
+        "485605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hardware Failure",
+      "impact": "The failure of brake hardware, such as brake shoes, drums, or calipers, can cause reduced braking performance, increased stopping distances, and accidents.",
+      "symptoms": [
+        "Brake shoe or drum failure",
+        "brake pads wear out prematurely",
+        "brake calipers fail",
+        "grinding noise from brakes",
+        "excessive wear on rotors and pads."
+      ],
+      "odiNumbers": [
+        "844571",
+        "700733",
+        "529934",
+        "531128",
+        "810933",
+        "807965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Dragging",
+      "impact": "Brake dragging can cause reduced fuel efficiency, increased wear on brake components, and overheating of brakes, which can lead to brake failure.",
+      "symptoms": [
+        "Gas economy decreases",
+        "brake dragging noise",
+        "overheating of brakes."
+      ],
+      "odiNumbers": [
+        "531128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Bag Deployment",
+      "impact": "The unintended deployment of airbags can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "brake light comes on",
+        "driver and passenger airbags deploy."
+      ],
+      "odiNumbers": [
+        "962188"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Suspension Ball Joint Failure",
+      "impact": "The failure of the front suspension ball joints can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. The failure can also cause damage to other components, such as tires, brakes, and steering systems.",
+      "symptoms": [
+        "Squeaking or grinding noise while driving",
+        "vibration while driving",
+        "uneven tire wear",
+        "difficulty steering",
+        "loss of control",
+        "and sudden drops in vehicle height."
+      ],
+      "odiNumbers": [
+        "11320144",
+        "10275484",
+        "10205244",
+        "10148980",
+        "10092863",
+        "766063",
+        "564874",
+        "8004391",
+        "882516",
+        "879688",
+        "858819",
+        "708816",
+        "840529",
+        "706095",
+        "704968",
+        "828415",
+        "539789",
+        "523844",
+        "508585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion of Front Suspension Components",
+      "impact": "Corrosion of front suspension components, such as ball joints and control arms, can lead to premature failure, causing loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Rust or corrosion on suspension components",
+        "squeaking or grinding noise while driving",
+        "vibration while driving",
+        "uneven tire wear",
+        "and difficulty steering."
+      ],
+      "odiNumbers": [
+        "10275484",
+        "10092863",
+        "704968",
+        "508585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Maintenance or Design of Front Suspension",
+      "impact": "Inadequate maintenance or design of the front suspension can lead to premature failure of components, causing loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Lack of grease fittings on ball joints",
+        "inadequate lubrication of suspension components",
+        "and uneven wear on suspension components."
+      ],
+      "odiNumbers": [
+        "704968",
+        "508585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Issues",
+      "impact": "Steering issues can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Erratic steering",
+        "pulling to one side",
+        "and vibration while driving."
+      ],
+      "odiNumbers": [
+        "962764",
+        "485260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Speed Control Failure",
+      "impact": "The failure of the vehicle speed control system can cause unintended acceleration, loss of control, and accidents, which can lead to serious injury or death.",
+      "symptoms": [
+        "Unintended acceleration",
+        "sudden loss of control",
+        "stuck accelerator pedal",
+        "failure to disengage cruise control",
+        "vehicle surging forward",
+        "strong fuel odor."
+      ],
+      "odiNumbers": [
+        "11061024",
+        "10983008",
+        "10577319",
+        "10335717",
+        "10231148",
+        "10228326",
+        "10222396",
+        "10221838",
+        "10216463",
+        "10212395",
+        "10201944",
+        "10141261",
+        "10133502",
+        "8004287",
+        "891647",
+        "9001934",
+        "877032",
+        "551238",
+        "850591",
+        "841777",
+        "817492",
+        "814609",
+        "485605",
+        "961254",
+        "489814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Deactivation Switch Failure",
+      "impact": "The failure of the cruise control deactivation switch can cause unintended acceleration, loss of control, and accidents, which can lead to serious injury or death.",
+      "symptoms": [
+        "Unintended acceleration",
+        "sudden loss of control",
+        "stuck accelerator pedal",
+        "failure to disengage cruise control",
+        "vehicle surging forward",
+        "smoke or fire from under the hood."
+      ],
+      "odiNumbers": [
+        "11061024",
+        "10983008",
+        "10228326",
+        "10212395",
+        "10133502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while driving, obstructing the driver's view and causing loss of control, which can lead to accidents.",
+      "symptoms": [
+        "Hood flies open while driving",
+        "windshield damage",
+        "difficulty unlatching hood."
+      ],
+      "odiNumbers": [
+        "10983008",
+        "10228326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause a fire under the hood, which can lead to serious injury or death.",
+      "symptoms": [
+        "Fire under the hood",
+        "strong fuel odor",
+        "difficulty starting the vehicle."
+      ],
+      "odiNumbers": [
+        "10983008",
+        "10201944",
+        "9001934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

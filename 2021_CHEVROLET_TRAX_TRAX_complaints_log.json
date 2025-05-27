@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to become spongy or go to the floor, leading to reduced braking performance and increased stopping distances, which can result in accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal feels spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle pulls to one side when applying the brakes",
+        "the brakes are unresponsive or delayed."
+      ],
+      "odiNumbers": [
+        "11534110",
+        "11431780",
+        "11431781"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Positioner Failure",
+      "impact": "The failure of the brake positioner can cause the brake pedal to become stuck, making it difficult or impossible to brake, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal becomes stuck",
+        "the brake pedal is difficult to press",
+        "the vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11534110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Seat Belts and Airbags to Deploy in Crash",
+      "impact": "The failure of seat belts to restrain occupants and airbags to deploy in a crash can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Seat belts fail to restrain occupants",
+        "airbags fail to deploy upon impact",
+        "occupants experience injuries despite being seated and buckled up."
+      ],
+      "odiNumbers": [
+        "11580674",
+        "11482758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sway Bar Link Failure/Loss of Vehicle Stability",
+      "impact": "The failure of the sway bar link can cause a loss of vehicle stability, making it difficult to control the vehicle, especially in high winds or during sudden maneuvers, which can lead to accidents or rollovers.",
+      "symptoms": [
+        "The vehicle fishtails or sways excessively",
+        "the vehicle is difficult to control",
+        "especially in high winds or during sudden maneuvers",
+        "the vehicle's rear end feels unstable or loose",
+        "the vehicle's steering feels unresponsive or vague."
+      ],
+      "odiNumbers": [
+        "11536470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Axle Separation",
+      "impact": "The separation of the rear axle from the vehicle can cause a loss of braking ability, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of braking ability",
+        "unusual noise or vibration from the rear of the vehicle",
+        "visible signs of axle separation (e.g. broken or damaged components)",
+        "front wheels disengaging from the vehicle."
+      ],
+      "odiNumbers": [
+        "11527411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. In this case, the fire was extinguished, but the vehicle was still severely damaged.",
+      "symptoms": [
+        "The air conditioning unit distributes hot air",
+        "white smoke emerges from the engine compartment",
+        "the vehicle catches fire",
+        "and there may be a lack of warning indicator lights."
+      ],
+      "odiNumbers": [
+        "11500450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "A malfunctioning air conditioning system can cause discomfort and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The air conditioning unit distributes hot air",
+        "reduced airflow from the vents",
+        "or unusual noises from the AC system."
+      ],
+      "odiNumbers": [
+        "11500450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Lack of Warning Indicator Lights",
+      "impact": "The absence of warning indicator lights can prevent the driver from being alerted to potential issues, leading to delayed response or failure to address the problem, which can result in more severe consequences.",
+      "symptoms": [
+        "No warning lights or indicators illuminate on the dashboard despite the presence of a malfunction or failure."
+      ],
+      "odiNumbers": [
+        "11500450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

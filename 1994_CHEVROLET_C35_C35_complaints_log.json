@@ -1,0 +1,156 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injection Pump Failure",
+      "impact": "The failure of the fuel injection pump can cause the vehicle to stall or lose power, leading to a loss of power steering and brakes, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle smokes and runs rough",
+        "the fuel shut-off solenoid leaks",
+        "the vehicle cuts off without warning",
+        "the vehicle dies while driving",
+        "the fuel injection pump fails to feed fuel to the injector",
+        "the vehicle stalls and loses power",
+        "the engine locks up."
+      ],
+      "odiNumbers": [
+        "10221215",
+        "822205",
+        "818437",
+        "811705",
+        "515868",
+        "973246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or seize, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine locks up",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "973246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injection System Failure",
+      "impact": "Fuel injection system failure can cause poor engine performance, decreased fuel efficiency, and increased emissions, which can lead to decreased vehicle safety and performance.",
+      "symptoms": [
+        "Fuel injection system failure",
+        "requiring recall repair (Recall #94C57)."
+      ],
+      "odiNumbers": [
+        "973246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can cause a loss of braking power, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Brake slipping",
+        "brake seal leaking on rear axle",
+        "brakes pulling to the left when stopping on light to moderate application."
+      ],
+      "odiNumbers": [
+        "973246",
+        "962539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause a range of issues, including loss of critical systems, increased risk of accidents, and decreased vehicle safety.",
+      "symptoms": [
+        "Speedometer stops working",
+        "parking lights stay on",
+        "temporary loss of brakes."
+      ],
+      "odiNumbers": [
+        "970171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The engine stalling while driving can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle cuts off while driving",
+        "typically between 30-65 mph",
+        "without warning",
+        "and may require repeated repairs and replacements of components such as fuel injectors and wiring."
+      ],
+      "odiNumbers": [
+        "807478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Overheating",
+      "impact": "The overheating of electrical lines can cause fires, damage to the vehicle's electrical system, and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "The electrical lines overheat",
+        "melting the fuse",
+        "and potentially causing a fire or electrical system failure."
+      ],
+      "odiNumbers": [
+        "973478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the speedometer to malfunction, parking lights to stay on, and temporary loss of brakes, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Speedometer stops working",
+        "parking lights stay on",
+        "temporary loss of brakes."
+      ],
+      "odiNumbers": [
+        "970171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the transmission to shift into neutral unexpectedly, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Transmission shifts into neutral unexpectedly",
+        "especially when towing a trailer."
+      ],
+      "odiNumbers": [
+        "962642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

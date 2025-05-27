@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Motor Failure",
+      "impact": "The failure of the windshield wiper motor can cause the wipers to stop working, leading to poor visibility, especially during heavy rainstorms or other adverse weather conditions, which can increase the risk of accidents.",
+      "symptoms": [
+        "The windshield wipers hesitate",
+        "obstruct the driver's vision",
+        "quit working during operation",
+        "stall or stop suddenly",
+        "and may not work at all."
+      ],
+      "odiNumbers": [
+        "10112006",
+        "10053539",
+        "889119",
+        "857857",
+        "849539",
+        "548564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion of Brake Lines",
+      "impact": "Corrosion of brake lines can cause brake fluid leaks, leading to a loss of brake pressure, which can increase the stopping distance and potentially cause accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels to the floor",
+        "loss of brake pressure",
+        "brake warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "10050530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "Failure of the Anti-lock Braking System (ABS) can cause the vehicle to lose traction and stability, leading to accidents or loss of control.",
+      "symptoms": [
+        "ABS warning lights illuminate",
+        "loss of brake pressure",
+        "unusual brake pedal feel",
+        "vehicle pulls to one side during braking."
+      ],
+      "odiNumbers": [
+        "532393"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Track Failure",
+      "impact": "The failure of the driver's seat track can cause the seat to become loose or detach from its anchor, potentially leading to loss of control, accidents, or injuries, especially during sudden stops or collisions.",
+      "symptoms": [
+        "The driver's seat feels loose or unstable",
+        "the seat shifts unexpectedly",
+        "the seat becomes detached from its anchor",
+        "the seat track bolt shears off."
+      ],
+      "odiNumbers": [
+        "524630",
+        "805329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

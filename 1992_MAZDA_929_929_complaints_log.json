@@ -1,0 +1,182 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "The failure of the cruise control system can cause the vehicle to maintain speed even when the brakes are applied, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The cruise control system does not disengage when the brakes are applied",
+        "the vehicle continues to accelerate even when the brakes are applied",
+        "the cruise control system cannot be turned off",
+        "the vehicle takes a long time to come to a stop."
+      ],
+      "odiNumbers": [
+        "706525"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Rotor Warping",
+      "impact": "Warped brake rotors can cause the vehicle to vibrate, making it difficult to control, and can lead to increased stopping distances, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle vibrates when the brakes are applied",
+        "the brake pedal pulsates",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "510362",
+        "479052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock up, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The brakes lock up",
+        "the vehicle skids or loses traction",
+        "the ABS warning light comes on."
+      ],
+      "odiNumbers": [
+        "514599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to jerk forward, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the vehicle jerks forward",
+        "the engine accelerates even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "959426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Anchor Failure",
+      "impact": "The failure of the driver's seat anchor can cause the seat to rock or come loose, leading to a loss of control while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "The driver's seat rocks or moves excessively",
+        "the seat comes unbolted from the floor",
+        "the seat track anchors break",
+        "the seat comes off the track",
+        "the seat weld breaks."
+      ],
+      "odiNumbers": [
+        "781372",
+        "539763",
+        "535000",
+        "815393",
+        "966745",
+        "489222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to damage to the engine and other components, and potentially causing a loss of control or accident.",
+      "symptoms": [
+        "Engine temperature gauge rises",
+        "engine overheats",
+        "coolant leaks",
+        "radiator splits",
+        "water pump failure",
+        "thermostat failure",
+        "timing belt failure",
+        "heater and defogger malfunction."
+      ],
+      "odiNumbers": [
+        "888478",
+        "848843",
+        "704925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Block Defect",
+      "impact": "The defect in the engine block can restrict the flow of coolant, affecting the heater/defrost/cooling system, and potentially causing engine damage or failure.",
+      "symptoms": [
+        "Engine overheats",
+        "coolant leaks",
+        "heater and defogger malfunction",
+        "restricted flow of coolant."
+      ],
+      "odiNumbers": [
+        "704925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Radiator Failure",
+      "impact": "The failure of the radiator can cause the engine to overheat, leading to damage to the engine and other components, and potentially causing a loss of control or accident.",
+      "symptoms": [
+        "Radiator splits",
+        "coolant leaks",
+        "engine overheats."
+      ],
+      "odiNumbers": [
+        "848843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Combination Switch",
+      "impact": "A faulty combination switch can cause the vehicle to stall or lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the vehicle changes gears unexpectedly",
+        "the vehicle stops pulling or accelerating."
+      ],
+      "odiNumbers": [
+        "523612",
+        "805473",
+        "804670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Ignition system failure can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the vehicle stalls during deceleration",
+        "the vehicle requires multiple attempts to start."
+      ],
+      "odiNumbers": [
+        "10165747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

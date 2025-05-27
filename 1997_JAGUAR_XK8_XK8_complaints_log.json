@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Tensioner Failure",
+      "impact": "The failure of the timing chain tensioner can cause the timing chain to break, leading to engine failure, stalling, and loss of power steering and accelerator control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls or fails",
+        "the timing chain breaks",
+        "bent valves",
+        "scored piston and cylinder walls",
+        "sudden loss of power",
+        "inability to steer or control the vehicle."
+      ],
+      "odiNumbers": [
+        "10261454",
+        "10153626",
+        "10067377",
+        "10068129",
+        "10068998",
+        "10021366",
+        "769615",
+        "741349",
+        "558815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Failure",
+      "impact": "The failure of the throttle body can cause the vehicle to lose power, stall, or shut off while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or shuts off while driving",
+        "often at high speeds",
+        "and may require restarting. The throttle body fails to function properly",
+        "causing the engine to malfunction."
+      ],
+      "odiNumbers": [
+        "10466913",
+        "10081415",
+        "10082546",
+        "10022791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Position Sensor Failure",
+      "impact": "The failure of the throttle position sensor can cause the engine control unit (ECU) to malfunction, leading to incorrect fuel metering and shift patterns, which can cause the vehicle to stall or lose power.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "often at high speeds",
+        "and may require restarting. The throttle position sensor fails to provide accurate pedal position data to the ECU",
+        "causing incorrect engine performance."
+      ],
+      "odiNumbers": [
+        "762294"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Wheel Bearings",
+      "impact": "The failure of the wheel bearings can cause the tire to lock up, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The front tire (right or left) locks up",
+        "abnormal noise or vibration from the wheel",
+        "difficulty steering or controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10220572",
+        "769599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Uninformed Recall Repairs",
+      "impact": "Delayed or uninformed recall repairs can lead to continued operation of a defective vehicle, increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Dealer lacks knowledge of recall",
+        "delayed repair or replacement of defective components",
+        "failure to notify vehicle owner of recall."
+      ],
+      "odiNumbers": [
+        "517140"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

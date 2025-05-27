@@ -1,0 +1,194 @@
+{
+  "totalComplaints": 43,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal has to be pushed entirely to the floor to engage",
+        "the vehicle fails to decelerate",
+        "the brake pedal is soft or spongy",
+        "the vehicle shakes or judders when braking."
+      ],
+      "odiNumbers": [
+        "11172975",
+        "10598501",
+        "10574425",
+        "10320392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unexpectedly, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The parking brake pad separates from the brake shoe",
+        "causing loud squealing or grinding noises",
+        "and potentially leading to further damage to the brake system."
+      ],
+      "odiNumbers": [
+        "10564931"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Warping",
+      "impact": "Warped brake rotors can cause the vehicle to vibrate or shake when braking, leading to reduced braking performance and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle experiences a bumpy ride",
+        "the brake rotor is warped or has a groove cut into it",
+        "the vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "10323259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Rollaway",
+      "impact": "The vehicle rolling away unexpectedly can cause accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle rolls backward or forward when parked on a hill",
+        "even when the parking brake is engaged."
+      ],
+      "odiNumbers": [
+        "10303130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Bag Failure to Deploy",
+      "impact": "The failure of air bags to deploy in the event of a crash can lead to serious injury or death.",
+      "symptoms": [
+        "Air bags do not deploy in a crash",
+        "air bag warning light is illuminated",
+        "horn is inoperable",
+        "air bag emblem has separated."
+      ],
+      "odiNumbers": [
+        "11570851",
+        "11540065",
+        "11529973",
+        "11104599",
+        "10419696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Bag Sensor or Clockspring Failure",
+      "impact": "The failure of air bag sensors or clockspring can cause the air bag warning light to illuminate and prevent the air bags from deploying in the event of a crash, leading to serious injury or death.",
+      "symptoms": [
+        "Air bag warning light is illuminated",
+        "horn is inoperable",
+        "air bag emblem has separated",
+        "air bags do not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "11570851",
+        "10690662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Passenger Air Bag Failure",
+      "impact": "The failure of the passenger air bag can cause serious injury or death to the passenger in the event of a crash.",
+      "symptoms": [
+        "Passenger air bag warning light is flashing",
+        "passenger air bag does not deploy in a crash",
+        "air bag warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10690662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccurate fuel gauge can cause the vehicle to run out of fuel unexpectedly, leading to stalling, accidents, or stranding the driver.",
+      "symptoms": [
+        "The fuel gauge shows a higher level of fuel than actual",
+        "the vehicle stalls or runs out of fuel unexpectedly",
+        "the gauge remains stuck at a certain level despite fuel consumption."
+      ],
+      "odiNumbers": [
+        "11563271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire",
+      "impact": "The electrical fire can cause damage to the vehicle, surrounding property, and potentially harm occupants.",
+      "symptoms": [
+        "Sudden",
+        "unexplained fire under the dashboard",
+        "destruction of the vehicle and surrounding property",
+        "no warning signs or symptoms prior to the fire."
+      ],
+      "odiNumbers": [
+        "10862177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Actuator and ECM Failure",
+      "impact": "The failure of the throttle actuator and ECM can cause the vehicle to stall, lose power, or accelerate unexpectedly, leading to accidents or loss of control.",
+      "symptoms": [
+        "Service light and slip light illumination",
+        "vehicle stalling",
+        "loss of power",
+        "sudden acceleration",
+        "failure to accelerate."
+      ],
+      "odiNumbers": [
+        "10585954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause damage to surrounding components, such as wiring harnesses, and lead to loss of critical vehicle systems, including ABS, traction control, and fuel pump.",
+      "symptoms": [
+        "Rusted flange connecting tailpipe to muffler",
+        "hot exhaust melting wiring harness",
+        "loss of ABS",
+        "ECM",
+        "traction control",
+        "fuel pump",
+        "and other critical systems."
+      ],
+      "odiNumbers": [
+        "10485804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

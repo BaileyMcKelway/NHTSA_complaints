@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Crankcase Breather Failure",
+      "impact": "The failure of the engine crankcase breather can cause oil to leak from the engine, potentially leading to a loss of control and crash, especially if the oil comes into contact with the rear tire.",
+      "symptoms": [
+        "Oil leaking from the engine",
+        "oil dripping onto the rear tire",
+        "strange smell while riding",
+        "oil covering the engine",
+        "swingarm",
+        "and rear tire."
+      ],
+      "odiNumbers": [
+        "10019653",
+        "10017119",
+        "10014979"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant Tank Failure",
+      "impact": "The failure of the plastic coolant tank can cause coolant to leak beneath the motorcycle, potentially leading to a loss of control and crash if the coolant comes into contact with the rear tire.",
+      "symptoms": [
+        "Coolant leaking from the tank",
+        "coolant dripping onto the ground beneath the motorcycle",
+        "slippery surface due to coolant."
+      ],
+      "odiNumbers": [
+        "10120120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Leaking Acid due to Design Flaw",
+      "impact": "The leakage of battery acid can cause corrosion to the engine and surrounding areas, leading to electrical system failures, and potentially causing the motorcycle to stall or not start, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "Battery acid leaks",
+        "corrosion on the engine and surrounding areas",
+        "motorcycle won't start",
+        "electrical system failures."
+      ],
+      "odiNumbers": [
+        "10025606",
+        "10026700"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Neutral and Unintended Gear Shift",
+      "impact": "The sudden and unintended shift into neutral or a lower gear can cause the motorcycle to lose power, leading to a loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The motorcycle suddenly shifts into neutral or a lower gear without input from the rider",
+        "the motorcycle's engine RPMs surge or drop",
+        "the rear wheels lock up",
+        "the motorcycle becomes difficult to control or loses power."
+      ],
+      "odiNumbers": [
+        "8017624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Leak from Gas Cap",
+      "impact": "The oil leak from the gas cap can cause oil to spray onto the rear tire, making the motorcycle hard to control, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Oil leaking from the gas cap",
+        "oil spraying onto the rear tire",
+        "high water temperature",
+        "rear brakes not functioning due to oil soaking."
+      ],
+      "odiNumbers": [
+        "8009719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Brake Failure due to Oil Contamination",
+      "impact": "The failure of the rear brakes due to oil contamination can cause the motorcycle to lose stopping power, leading to accidents or loss of control.",
+      "symptoms": [
+        "Rear brakes not functioning",
+        "oil leaking onto the rear brakes",
+        "oil contamination of the rear brake system."
+      ],
+      "odiNumbers": [
+        "8009719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

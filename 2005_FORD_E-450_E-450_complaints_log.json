@@ -1,0 +1,198 @@
+{
+  "totalComplaints": 34,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the engine to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded. Additionally, electrical system failures can also lead to fires, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle cannot be restarted",
+        "the running lights and cargo lights come on and go off for no reason",
+        "an odor comes from the vehicle",
+        "the horn blows unexpectedly",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "10503708",
+        "10396316",
+        "10269483",
+        "10219326",
+        "10177387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "FICM and PCM Computer Failure",
+      "impact": "The failure of the FICM and PCM computers can cause the engine to shut down completely, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine shuts down completely during normal driving conditions",
+        "the vehicle cannot be restarted."
+      ],
+      "odiNumbers": [
+        "10269483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Drain Issue",
+      "impact": "The battery drain issue can cause the battery to go dead after sitting for an extended period, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The battery goes dead after sitting for two or three weeks",
+        "the vehicle cannot be started."
+      ],
+      "odiNumbers": [
+        "10177387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slippage and Loss of Power",
+      "impact": "Transmission slippage and loss of power can cause the vehicle to stall or lose control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the transmission slips",
+        "the vehicle stops running",
+        "the vehicle skids to a complete stop",
+        "the transmission knocks or slips on acceleration and around corners."
+      ],
+      "odiNumbers": [
+        "10130747",
+        "10107673",
+        "10131192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Gear Shifting and Engagement",
+      "impact": "Faulty gear shifting and engagement can cause the vehicle to unexpectedly shift into the wrong gear, leading to loss of control or accidents.",
+      "symptoms": [
+        "The vehicle does not always go into the correct gear",
+        "the vehicle goes into reverse when shifted into drive",
+        "the vehicle stays in neutral when shifted into reverse",
+        "the vehicle hovers in neutral then suddenly engages into 1st gear without moving the gear shift."
+      ],
+      "odiNumbers": [
+        "10406809"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "Torque converter failure can cause the vehicle to lose power and stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The torque converter goes out",
+        "the vehicle loses power and stops running",
+        "the vehicle skids to a complete stop."
+      ],
+      "odiNumbers": [
+        "10130747",
+        "10107673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tread separation from the tire",
+        "blisters on the tire",
+        "tire failure",
+        "loss of air pressure",
+        "and difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "11051017",
+        "10548857",
+        "10546558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incorrect Tire Inflation Labeling",
+      "impact": "Incorrect tire inflation can lead to premature tire wear, reduced fuel efficiency, and increased risk of tire failure, which can cause accidents and injuries.",
+      "symptoms": [
+        "Incorrect tire inflation label",
+        "improper tire pressure",
+        "and potential tire failure."
+      ],
+      "odiNumbers": [
+        "10226365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "6.0L Powerstroke Engine Failure",
+      "impact": "The failure of the 6.0L Powerstroke engine can cause the vehicle to stall or lose power, which can lead to accidents or leave the driver stranded. Additionally, the engine problems can lead to overheating, which can cause damage to the engine and other components.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the engine overheats",
+        "the temperature gauge rises",
+        "the vehicle is unable to maintain adequate heat in the passenger compartment",
+        "the radiator fluid tests positive for oil product."
+      ],
+      "odiNumbers": [
+        "10702599",
+        "10188110",
+        "10173662",
+        "10114264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "FICM (Fuel Injection Control Module) Failure",
+      "impact": "The failure of the FICM module can cause the engine to stall or lose power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine loses power",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "10702599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, which can lead to damage to the engine and other components.",
+      "symptoms": [
+        "The temperature gauge rises",
+        "the radiator fluid tests positive for oil product",
+        "the vehicle is unable to maintain adequate heat in the passenger compartment."
+      ],
+      "odiNumbers": [
+        "10188110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

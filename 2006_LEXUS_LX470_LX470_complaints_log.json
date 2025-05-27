@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unavailable Recall Parts for Airbag Module",
+      "impact": "The unavailability of recall parts for the airbag module can lead to a delay in the necessary repairs, potentially putting the vehicle occupants at risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are unavailable for repair",
+        "multiple scheduled appointments with dealerships",
+        "but parts are still unavailable",
+        "manufacturer unable to provide a reasonable timeframe for part availability."
+      ],
+      "odiNumbers": [
+        "11109838",
+        "11054837",
+        "11000814",
+        "10956569",
+        "10956570",
+        "10945502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Mechanism Failure",
+      "impact": "The failure of the steering mechanism can cause the steering wheel to become off-center, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel tilts or becomes off-center",
+        "the steering wheel does not return to its normal position",
+        "the horn activates independently",
+        "the vehicle pulls to one side while driving",
+        "difficulty steering the vehicle."
+      ],
+      "odiNumbers": [
+        "10479901",
+        "10440238",
+        "10364750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Uncommanded Acceleration",
+      "impact": "Uncommanded acceleration can cause the vehicle to suddenly and unexpectedly accelerate, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the throttle expands and the engine begins to rev",
+        "the vehicle lurches forward",
+        "the vehicle crashes into objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "10291506",
+        "10199482"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Headlight Brightness",
+      "impact": "Excessively bright headlights, particularly those with blue tint, can cause glare and temporary blindness, increasing the risk of accidents and road rage.",
+      "symptoms": [
+        "Oncoming headlights are blindingly bright",
+        "causing discomfort or temporary loss of vision while driving",
+        "making it difficult to see the road ahead."
+      ],
+      "odiNumbers": [
+        "10175154",
+        "10175143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

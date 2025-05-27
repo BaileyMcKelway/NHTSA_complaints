@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver's Side Airbag to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in the event of a crash can lead to serious injuries or fatalities, as the driver is not provided with the necessary protection to mitigate the impact of the collision.",
+      "symptoms": [
+        "No airbag deployment in the event of a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "978542",
+        "960679",
+        "958336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Vehicle Stalling",
+      "impact": "The intermittent stalling of the vehicle can lead to a loss of control, increasing the risk of accidents, especially when stalling occurs at high speeds.",
+      "symptoms": [
+        "The vehicle stalls suddenly",
+        "usually between 35-60 mph",
+        "without warning",
+        "and may restart after a brief period."
+      ],
+      "odiNumbers": [
+        "985143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Rear Shoulder/Lap Belts",
+      "impact": "The failure of the rear shoulder/lap belts can increase the risk of injury or death in the event of an accident, as the occupants may not be properly restrained.",
+      "symptoms": [
+        "The male portion of the buckle won't stay locked into the female portion",
+        "the rear seat belts are inoperative",
+        "the rear seat belts cannot be securely fastened."
+      ],
+      "odiNumbers": [
+        "981044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Buckle Assembly",
+      "impact": "The failure of the buckle assembly can cause the seat belts to malfunction, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The buckle won't latch",
+        "the buckle won't stay locked",
+        "the seat belt cannot be securely fastened",
+        "the seat belt is inoperative."
+      ],
+      "odiNumbers": [
+        "981044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unexplained Engine Stalling",
+      "impact": "The sudden and unexplained stalling of the engine can cause a loss of power, leading to accidents or leaving the driver stranded, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle loses power",
+        "the engine shuts off",
+        "the vehicle is unable to restart",
+        "the check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "968689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or not start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or dies",
+        "the vehicle is difficult to start",
+        "the vehicle hesitates or stumbles when accelerating",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump relay clicks repeatedly."
+      ],
+      "odiNumbers": [
+        "968689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

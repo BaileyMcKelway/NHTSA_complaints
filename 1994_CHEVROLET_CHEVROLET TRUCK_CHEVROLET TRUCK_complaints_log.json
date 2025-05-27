@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 54,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can cause poor visibility while driving, especially during inclement weather, which can lead to accidents.",
+      "symptoms": [
+        "Windshield wipers stop working while driving",
+        "windshield wipers occasionally do not work",
+        "windshield wipers do not come on",
+        "windshield wipers stop working in rain or snow",
+        "windshield wipers need to be manually restarted by hitting the wiper motor."
+      ],
+      "odiNumbers": [
+        "10054413",
+        "10042899",
+        "10025523",
+        "9001086",
+        "722198",
+        "717866",
+        "715740",
+        "710682",
+        "708556",
+        "543831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Motor Circuit Board Failure",
+      "impact": "The failure of the windshield wiper motor circuit board can cause the windshield wipers to stop working, leading to poor visibility while driving, especially during inclement weather.",
+      "symptoms": [
+        "Windshield wiper motor circuit board needs to be replaced",
+        "windshield wipers stop working in rain or snow",
+        "windshield wipers need to be manually restarted by hitting the wiper motor."
+      ],
+      "odiNumbers": [
+        "715740",
+        "708556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Windshield Wiper Blade Issues",
+      "impact": "The failure of the windshield wiper blades can cause poor visibility while driving, especially during inclement weather.",
+      "symptoms": [
+        "Windshield wiper blades streak and are noisy."
+      ],
+      "odiNumbers": [
+        "519088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unrelated Issues",
+      "impact": "These issues do not affect the windshield wipers but are related to other components of the vehicle.",
+      "symptoms": [
+        "Fan heater makes noise",
+        "right door window rattles and vibrates."
+      ],
+      "odiNumbers": [
+        "519088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion and Leaking",
+      "impact": "Corroded and leaking brake lines can cause brake failure, leading to accidents and injuries.",
+      "symptoms": [
+        "Brake service light comes on",
+        "brake failure",
+        "brake pads failure",
+        "brake rotors failure",
+        "spongy brake pedal",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "559461",
+        "722541",
+        "519225",
+        "519088",
+        "504710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Repeated master cylinder failures can lead to brake failure, causing accidents and injuries.",
+      "symptoms": [
+        "Brake service light comes on",
+        "brake failure",
+        "brake pads failure",
+        "brake rotors failure",
+        "spongy brake pedal",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "722541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-lock Braking System (ABS) Malfunction",
+      "impact": "ABS malfunction can cause extended stopping distances, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "ABS takes too long to stop",
+        "near-accidents",
+        "loss of brake control."
+      ],
+      "odiNumbers": [
+        "976242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

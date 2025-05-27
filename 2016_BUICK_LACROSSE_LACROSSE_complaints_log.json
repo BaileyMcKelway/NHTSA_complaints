@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) System Failure",
+      "impact": "The failure of the EPS system can cause the loss of power steering, making it difficult or impossible to control the vehicle, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "The power steering fails or becomes difficult to control",
+        "the steering wheel locks up",
+        "the vehicle shakes or sways",
+        "the \"Service Power Steering\" or \"Power Steering Failure\" warning light is illuminated",
+        "the power steering fluid message is displayed."
+      ],
+      "odiNumbers": [
+        "11587603",
+        "11562281",
+        "11553496",
+        "11536767",
+        "11503449",
+        "11447131",
+        "11390026",
+        "11185313",
+        "11119634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Control Module (PCM) Software Issues",
+      "impact": "The failure of the PCM software can cause the vehicle to malfunction, leading to safety issues such as loss of power steering, reduced engine power, and unreliable braking, which can increase the risk of accidents.",
+      "symptoms": [
+        "Automatic collision unavailable warning",
+        "oil leak warning",
+        "power steering warning light",
+        "steering wheel seizure",
+        "reduced engine power",
+        "downshifting",
+        "and hesitation."
+      ],
+      "odiNumbers": [
+        "11483748",
+        "10930364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to jerk or lurch while braking, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Jerking or lurching while braking",
+        "hard downshifting and upshifting",
+        "and violent shaking of the vehicle."
+      ],
+      "odiNumbers": [
+        "11463473",
+        "11385552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wheel Speed Sensor Failure",
+      "impact": "The failure of the wheel speed sensors can cause issues with the vehicle's anti-lock braking system (ABS), traction control system (TCS), and electronic stability control (ESC), leading to reduced vehicle safety and increased risk of accidents.",
+      "symptoms": [
+        "None explicitly mentioned",
+        "but related to the malfunction of the ABS",
+        "TCS",
+        "and ESC systems."
+      ],
+      "odiNumbers": [
+        "11531198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Control System Failure",
+      "impact": "The failure of the electronic throttle control system can cause unintended acceleration, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the accelerator pedal sticks in the wide-open throttle position",
+        "the engine remains in wide-open throttle condition even when the gear selector is in neutral",
+        "the vehicle fails to respond to counter-measures such as shifting to neutral or turning off the engine."
+      ],
+      "odiNumbers": [
+        "11242729",
+        "11057440",
+        "11051891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Adaptive Cruise Control System Malfunction",
+      "impact": "The malfunction of the adaptive cruise control system can cause the vehicle to engage the anti-lock brakes randomly, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The adaptive cruise control system engages the anti-lock brakes in a random manner",
+        "even when no other vehicle is present",
+        "the vehicle brakes suddenly and unexpectedly."
+      ],
+      "odiNumbers": [
+        "11133159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Floor Mat Interference with Accelerator Pedal",
+      "impact": "The incorrect positioning or design of the floor mat can cause the accelerator pedal to stick or catch, leading to unintended acceleration.",
+      "symptoms": [
+        "The accelerator pedal sticks or catches due to the floor mat",
+        "the vehicle accelerates suddenly and unexpectedly."
+      ],
+      "odiNumbers": [
+        "11155995",
+        "11057440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

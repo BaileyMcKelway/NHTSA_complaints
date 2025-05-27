@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall",
+      "impact": "The defective Takata airbags can explode and cause metal shrapnel to fly, leading to serious injury or death, or may not deploy at all, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the potential failure of the airbag system in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11099573",
+        "11040627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Crash Protection",
+      "impact": "The vehicle's frame may suffer catastrophic failure in a low-speed collision, providing inadequate protection to occupants and increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Stress fracture and bending of the frame",
+        "even in low-speed collisions",
+        "with no deployment of airbags."
+      ],
+      "odiNumbers": [
+        "10513552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure due to Premature Wear of Teflon Seal",
+      "impact": "The premature wear of the Teflon seal controlling fluid pressure for the clutch can cause the transmission to fail, leading to sudden stops and loss of control, which can result in accidents.",
+      "symptoms": [
+        "The transmission goes into fail-safe mode",
+        "causing the vehicle to suddenly stop or lose power",
+        "typically when driving at high speeds (around 70+ mph) and shifting gears."
+      ],
+      "odiNumbers": [
+        "11057729",
+        "10934464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates out of control",
+        "the vehicle hesitates to accelerate",
+        "the brake pedal fails to respond when depressed."
+      ],
+      "odiNumbers": [
+        "10905010",
+        "10358339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Mass Air Flow Sensor Failure",
+      "impact": "The failure of the mass air flow sensor can cause the check engine warning indicator to illuminate, leading to decreased engine performance, reduced fuel efficiency, and potentially causing the engine to stall or fail to start, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine warning indicator illuminates",
+        "abnormal vacuum noise coming from the engine",
+        "decreased engine performance",
+        "reduced fuel efficiency",
+        "engine stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "11287905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

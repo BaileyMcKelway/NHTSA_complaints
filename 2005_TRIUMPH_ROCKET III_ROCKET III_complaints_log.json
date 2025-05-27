@@ -1,0 +1,151 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the engine to stall or shut off while in motion, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The engine shuts off or stalls while riding",
+        "often at low speeds or when coming to a stop",
+        "the instrument panel may malfunction or not work",
+        "the bike may not start",
+        "and the engine may idle at high RPM."
+      ],
+      "odiNumbers": [
+        "10863028",
+        "10547699",
+        "10414924",
+        "10205125",
+        "10189051",
+        "10157256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Current Flow to Ignition Switch",
+      "impact": "The excessive current flow to the ignition switch can cause the switch to fail, leading to ignition system failure and potentially causing accidents.",
+      "symptoms": [
+        "The ignition switch fails",
+        "causing the engine to shut off or stall",
+        "the instrument panel may malfunction or not work",
+        "and the bike may not start."
+      ],
+      "odiNumbers": [
+        "10547699",
+        "10414924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ECU Programming Issues",
+      "impact": "The ECU programming issues can cause the engine to idle at high RPM, leading to poor engine performance and potentially causing accidents.",
+      "symptoms": [
+        "The engine idles at high RPM",
+        "often between 1300-2000 RPM",
+        "and there is no engine braking available."
+      ],
+      "odiNumbers": [
+        "10205125",
+        "10189051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Noise and Rattling (Timing Chain, Sprockets, and Tensioner Failure)",
+      "impact": "The failure of the timing chain, sprockets, and tensioner can cause engine failure, leading to a loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Engine noise or rattling",
+        "vibration",
+        "loss of power",
+        "engine stalling",
+        "and in some cases",
+        "the rear tire may become slippery due to oil loss."
+      ],
+      "odiNumbers": [
+        "10224334",
+        "10218676",
+        "10205317",
+        "10205325",
+        "10205386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Output Shaft Bearing Failure (Installed Backwards)",
+      "impact": "The failure of the output shaft bearing can cause the engine to lose oil, the rear tire to become slippery, and the upper shaft to create a hole in the engine, leading to accidents and potential injuries or fatalities.",
+      "symptoms": [
+        "Loss of oil",
+        "rear tire becoming slippery",
+        "and the upper shaft creating a hole in the engine."
+      ],
+      "odiNumbers": [
+        "10218676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Linkage Failure",
+      "impact": "The disconnection of the transmission linkage can cause the vehicle to become stuck in gear or neutral, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle gets stuck in gear or neutral",
+        "unable to shift gears",
+        "and may experience sudden loss of power or acceleration."
+      ],
+      "odiNumbers": [
+        "10268501",
+        "10158555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gearbox Malfunction",
+      "impact": "The malfunction of the gearbox can cause the vehicle to jump out of gear or fail to shift properly, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle jumps out of gear",
+        "fails to shift into the next gear",
+        "or produces unusual noises",
+        "such as a rattling or grinding sound."
+      ],
+      "odiNumbers": [
+        "10241754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cam Chain Failure",
+      "impact": "The failure of the cam chain can cause excessive engine noise, which can lead to engine damage and potentially cause the engine to stall or seize, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The engine produces excessive noise",
+        "such as a rattling or clunking sound",
+        "and may experience a loss of power or acceleration."
+      ],
+      "odiNumbers": [
+        "10205522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

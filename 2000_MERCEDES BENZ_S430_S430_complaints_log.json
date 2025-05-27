@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the loss of essential vehicle information, including speed, fuel level, and warning lights, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The dashboard is dark",
+        "the instrument panel is not illuminated",
+        "the gauges fail to work",
+        "the speedometer is not functioning",
+        "the turn signals and headlights are not working",
+        "the horn is not functioning",
+        "the trunk cannot be opened",
+        "and the airbag may not function properly in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11142538",
+        "10694158",
+        "10670141",
+        "10617013",
+        "10615255",
+        "10550872",
+        "10525736",
+        "10525737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Vacuum System Failure",
+      "impact": "The failure of the door vacuum system can cause the doors to not properly close, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The doors fail to properly close",
+        "the fuse malfunctions",
+        "and the door vacuum system fails."
+      ],
+      "odiNumbers": [
+        "11209429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "and the cause of the stalling cannot be diagnosed."
+      ],
+      "odiNumbers": [
+        "10810049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airmatic Suspension System Failure",
+      "impact": "The failure of the Airmatic suspension system can cause the vehicle to suddenly drop to the ground, leading to loss of control, tire damage, and potential accidents.",
+      "symptoms": [
+        "The vehicle suddenly drops to the ground",
+        "the tires rub against the fender",
+        "the dashboard displays a \"Stop Car Too Low\" warning",
+        "the vehicle's air suspension system leaks air",
+        "the vehicle's ride height is uneven."
+      ],
+      "odiNumbers": [
+        "10984756",
+        "10794537",
+        "10596800",
+        "10486624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Door Seals Leading to Rust and Corrosion",
+      "impact": "The defective door seals can cause water to enter the door and accumulate, leading to rust and corrosion on the lower door edges, which can compromise the structural integrity of the doors and potentially affect the vehicle's overall safety.",
+      "symptoms": [
+        "Rust and corrosion on the lower door edges",
+        "water accumulation in the doors",
+        "door seals failing to prevent water entry."
+      ],
+      "odiNumbers": [
+        "10445641",
+        "10438841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

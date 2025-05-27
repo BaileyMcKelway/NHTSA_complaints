@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Weld Failure",
+      "impact": "The failure of the frame weld can cause the motorcycle to collapse or fall apart while riding, putting the rider and nearby traffic in mortal danger.",
+      "symptoms": [
+        "Cracks in the frame weld",
+        "frame folding or collapsing",
+        "unstable motorcycle",
+        "popping noise while driving."
+      ],
+      "odiNumbers": [
+        "11547294",
+        "11000842",
+        "10849874",
+        "10668924",
+        "10649685",
+        "10467106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stator Flywheel Magnet Failure",
+      "impact": "The failure of the stator flywheel magnets can cause the charging system to fail, leading to potential internal engine damage, and in extreme cases, can result in a loss of power while riding, increasing the risk of accidents.",
+      "symptoms": [
+        "Burning smell",
+        "hot seat",
+        "engine failure",
+        "loss of power while riding."
+      ],
+      "odiNumbers": [
+        "11325720",
+        "10824694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling Issue",
+      "impact": "The engine stalling issue can cause the vehicle to lose power and stall, potentially leading to accidents or near-misses, especially when navigating through intersections or heavy traffic.",
+      "symptoms": [
+        "The engine dies or stalls suddenly",
+        "often while turning or accelerating",
+        "requiring the rider to navigate the vehicle to a safe location to avoid collisions or other hazards."
+      ],
+      "odiNumbers": [
+        "11160596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

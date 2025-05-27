@@ -1,0 +1,266 @@
+{
+  "totalComplaints": 666,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to jerk, vibrate, or hesitate while accelerating, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle jerks or vibrates while accelerating",
+        "the transmission slips or hesitates",
+        "the vehicle fails to shift properly",
+        "the vehicle loses power",
+        "the check engine warning light is illuminated",
+        "the transmission temperature sensor fails",
+        "the transmission fluid leaks",
+        "metal shavings are found in the transmission pan."
+      ],
+      "odiNumbers": [
+        "11591839",
+        "11590533",
+        "11590199",
+        "11587393",
+        "11585822",
+        "11580927",
+        "11579307",
+        "11578659",
+        "11576505",
+        "11576574",
+        "11573832",
+        "11572253",
+        "11570401",
+        "11561319",
+        "11561094",
+        "11560585",
+        "11559888",
+        "11551831",
+        "11549619",
+        "11545489",
+        "11543371",
+        "11540985",
+        "11539492",
+        "11538674",
+        "11535045",
+        "11534646",
+        "11533744",
+        "11523533",
+        "11523541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "The failure of the torque converter can cause the transmission to slip or hesitate, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle jerks or vibrates while accelerating",
+        "the torque converter clutch system sticks",
+        "metal shavings are found in the transmission pan",
+        "the transmission temperature sensor fails."
+      ],
+      "odiNumbers": [
+        "11572253",
+        "11561319",
+        "11561094",
+        "11560585",
+        "11543371",
+        "11540985",
+        "11539492",
+        "11523533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Shudder",
+      "impact": "The transmission shudder can cause the vehicle to vibrate or jerk while accelerating, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle shudders or vibrates while accelerating",
+        "the transmission slips or hesitates",
+        "the vehicle jerks or hesitates while shifting",
+        "the transmission temperature sensor fails."
+      ],
+      "odiNumbers": [
+        "11585822",
+        "11572253",
+        "11561319",
+        "11561094",
+        "11560585",
+        "11543371",
+        "11540985",
+        "11539492",
+        "11523533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Vacuum Pump Failure",
+      "impact": "The failure of the brake vacuum pump can cause the brake pedal to become hard to press, leading to extended braking distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard to press",
+        "the brake pedal vibrates",
+        "the brake pedal sticks to the floor",
+        "the vehicle takes longer to stop",
+        "the \"Service Brake Assist\" message appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11562390",
+        "11552557",
+        "11539290",
+        "11521898",
+        "11509668",
+        "11509228",
+        "11502660",
+        "11502178",
+        "11502062",
+        "11501768",
+        "11500825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to become spongy or hard to press, leading to extended braking distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels spongy",
+        "the brake pedal becomes hard to press",
+        "the brake pedal sticks to the floor",
+        "the vehicle takes longer to stop",
+        "the \"Brake Assist Fault\" message appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11575650",
+        "11574241",
+        "11569255",
+        "11560419",
+        "11555295",
+        "11553779",
+        "11551395",
+        "11537451",
+        "11532921",
+        "11528519",
+        "11525635",
+        "11522185",
+        "11512176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Assist System Failure",
+      "impact": "The failure of the brake assist system can cause the brake pedal to become hard to press, leading to extended braking distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard to press",
+        "the \"Service Brake Assist\" message appears on the dashboard",
+        "the ABS and Stabilitrak lights come on",
+        "the vehicle slides or loses traction."
+      ],
+      "odiNumbers": [
+        "11506774",
+        "11505754",
+        "11502660",
+        "11502062",
+        "11501768",
+        "11500825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trailer Brake System Failure",
+      "impact": "The failure of the trailer brake system can cause the trailer brakes to not engage, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The \"Service Trailer Brake System\" light appears on the dashboard",
+        "the trailer brakes do not engage",
+        "the system chimes and flashes",
+        "and the digital speed display is obscured."
+      ],
+      "odiNumbers": [
+        "11589487",
+        "11584674",
+        "11564677",
+        "11490749",
+        "11486538",
+        "11469301",
+        "11468334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Window Defroster Failure",
+      "impact": "The failure of the rear window defroster can cause the window to shatter, potentially causing injuries and accidents.",
+      "symptoms": [
+        "Smoke emits from the rear window",
+        "the window shatters",
+        "and a loud noise is heard."
+      ],
+      "odiNumbers": [
+        "11571232",
+        "11563928",
+        "11560894",
+        "11558058",
+        "11514019",
+        "11512160",
+        "11496948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose power, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle shuts off",
+        "the instrument panel starts flickering",
+        "and the wheel turns independently."
+      ],
+      "odiNumbers": [
+        "11559564",
+        "11549485",
+        "11518853",
+        "11514130",
+        "11477598",
+        "11472930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "The malfunction of the infotainment system can cause distractions while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The display screen randomly changes operations",
+        "opens apps",
+        "tries to make calls and send texts",
+        "and does not recognize input."
+      ],
+      "odiNumbers": [
+        "11506755",
+        "11492044",
+        "11490749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

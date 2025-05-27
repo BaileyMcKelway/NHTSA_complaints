@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the starter to remain engaged, leading to burning out of the starter, and potentially causing an electrical fire. Additionally, the key-in-ignition-status can remain active even after the key is removed, resulting in battery drain.",
+      "symptoms": [
+        "Ignition switch fails to return from starter position",
+        "burning out starter",
+        "loss of electrical power to various systems (headlights",
+        "dash lights",
+        "heater fan",
+        "radio)",
+        "ABS failure light illumination",
+        "sudden loss of power and subsequent recovery."
+      ],
+      "odiNumbers": [
+        "10512283",
+        "10214882",
+        "706112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The intrusion of exhaust fumes into the passenger compartment can cause health risks to occupants, including carbon monoxide poisoning, which can be fatal.",
+      "symptoms": [
+        "Strong exhaust odor or fumes inside the vehicle",
+        "exhaust noise or hissing sounds",
+        "visible exhaust smoke or fog inside the vehicle."
+      ],
+      "odiNumbers": [
+        "760032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Failure of Alternator and Radiator Fan Motor",
+      "impact": "The failure of the alternator and radiator fan motor can cause the vehicle's electrical system to malfunction, leading to battery drain, engine overheating, and potential engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Dim or flickering headlights",
+        "slow engine crank",
+        "dead battery",
+        "overheating engine",
+        "coolant leaks",
+        "radiator fan noise or failure."
+      ],
+      "odiNumbers": [
+        "710814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate without the driver's input, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without the driver's input",
+        "the engine does not decelerate when the accelerator pedal is released",
+        "the vehicle's speed increases unexpectedly",
+        "the driver is unable to control the vehicle's speed."
+      ],
+      "odiNumbers": [
+        "894441",
+        "719629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Floor Mat Interference with Accelerator Pedal",
+      "impact": "Floor mat interference with the accelerator pedal can cause unintended acceleration, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The floor mat is caught under the accelerator pedal",
+        "the accelerator pedal sticks or becomes stuck",
+        "the vehicle accelerates without the driver's input",
+        "the engine does not decelerate when the accelerator pedal is released."
+      ],
+      "odiNumbers": [
+        "894441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent ABS Sensor Failure",
+      "impact": "The intermittent failure of the ABS sensor can cause the ABS system to malfunction, leading to reduced vehicle safety and increased risk of accidents.",
+      "symptoms": [
+        "The ABS sensor light comes on",
+        "the light comes on intermittently",
+        "the sensor is replaced but the issue persists",
+        "the issue is intermittent and unpredictable."
+      ],
+      "odiNumbers": [
+        "730775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

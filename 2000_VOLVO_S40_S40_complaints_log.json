@@ -1,0 +1,279 @@
+{
+  "totalComplaints": 134,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause accidents, injuries, or fatalities, especially when the vehicle is unable to stop or slow down in a timely manner.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes are unresponsive",
+        "the vehicle takes longer to stop",
+        "the brakes make a loud noise",
+        "the brake pedal feels soft or spongy",
+        "the vehicle crashes into another vehicle or object."
+      ],
+      "odiNumbers": [
+        "10509612",
+        "10457440",
+        "10205226",
+        "10184796",
+        "10145342",
+        "10145343",
+        "10137305",
+        "10113610",
+        "10110628",
+        "10091612",
+        "10050129",
+        "10072122",
+        "10065516",
+        "10065131",
+        "10060027",
+        "10054022",
+        "10053041",
+        "10043536",
+        "10028701",
+        "10028707",
+        "10022718",
+        "10010055",
+        "10006853",
+        "10006854",
+        "768963",
+        "8017372",
+        "766253",
+        "8014429",
+        "8014207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause accidents, injuries, or fatalities, especially when the vehicle is unable to stop or slow down in a timely manner, and the driver is not expecting the failure.",
+      "symptoms": [
+        "The brakes work sometimes",
+        "but not always",
+        "the brake pedal feels soft or spongy",
+        "the brakes are unresponsive",
+        "the vehicle takes longer to stop",
+        "the brakes make a loud noise."
+      ],
+      "odiNumbers": [
+        "10110628",
+        "10072122",
+        "766253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Brake Wear",
+      "impact": "The premature wear of the brakes can cause accidents, injuries, or fatalities, especially when the vehicle is unable to stop or slow down in a timely manner, and the driver is not expecting the failure.",
+      "symptoms": [
+        "The brake pads wear out quickly",
+        "the brake rotors wear out quickly",
+        "the brakes make a loud noise",
+        "the brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10043536",
+        "10028707",
+        "10022718",
+        "768963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Vacuum Pump Failure",
+      "impact": "The failure of the brake vacuum pump can cause accidents, injuries, or fatalities, especially when the vehicle is unable to stop or slow down in a timely manner.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes are unresponsive",
+        "the vehicle takes longer to stop",
+        "the brakes make a loud noise."
+      ],
+      "odiNumbers": [
+        "8017372",
+        "10091612",
+        "10065516",
+        "10065131",
+        "10060027",
+        "10054022",
+        "10053041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates independently without warning",
+        "the brake pedal is depressed to slow down or stop the vehicle",
+        "the vehicle lunges forward",
+        "the engine RPMs increase",
+        "and the vehicle may continue to rev even after shifting into park."
+      ],
+      "odiNumbers": [
+        "11118565",
+        "10664859",
+        "10479401",
+        "10453452",
+        "10421471",
+        "10380874",
+        "10357892",
+        "10349257",
+        "10288666",
+        "10182545",
+        "10175999",
+        "10145556",
+        "755521",
+        "755524",
+        "879358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle Control (ETC) Failure",
+      "impact": "ETC failure can cause unintended acceleration, loss of control, and potentially serious accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates abnormally",
+        "the throttle is stuck",
+        "the engine RPMs increase",
+        "and the vehicle may continue to rev even after shifting into park."
+      ],
+      "odiNumbers": [
+        "10349257",
+        "10288666",
+        "10175999",
+        "10145556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Idle Control Valve Failure",
+      "impact": "Idle control valve failure can cause unintended acceleration, loss of control, and potentially serious accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates abnormally",
+        "the engine RPMs increase",
+        "and the vehicle may continue to rev even after shifting into park."
+      ],
+      "odiNumbers": [
+        "10479401",
+        "10288666",
+        "10182545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant Temperature Sensor Failure",
+      "impact": "Coolant temperature sensor failure can cause unintended acceleration, loss of control, and potentially serious accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates abnormally",
+        "the engine RPMs increase",
+        "and the vehicle may continue to rev even after shifting into park."
+      ],
+      "odiNumbers": [
+        "10479401",
+        "10145556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Coil Spring Failure",
+      "impact": "The failure of the rear coil springs can cause the vehicle to sit unevenly, leading to uneven tire wear, reduced traction, and potential loss of control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The rear coil springs are broken or corroded",
+        "the vehicle sits unevenly",
+        "the vehicle has uneven tire wear",
+        "the vehicle has reduced traction",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "10262473",
+        "10254138",
+        "10195256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Coil Spring Failure",
+      "impact": "The failure of the front coil springs can cause the vehicle to lose control, leading to accidents, and can also cause damage to other components, such as the strut and tire.",
+      "symptoms": [
+        "The front coil springs are broken or corroded",
+        "the vehicle has a loud",
+        "unfamiliar noise",
+        "the vehicle has a metal grinding noise",
+        "the vehicle has a rattling or clunking noise",
+        "the vehicle has a sudden loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10083162",
+        "10155516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Suspension Failure",
+      "impact": "The failure of the front suspension can cause the vehicle to lose control, leading to accidents, and can also cause damage to other components, such as the strut and tire.",
+      "symptoms": [
+        "The front suspension has a knocking noise",
+        "the front suspension has a rattling noise",
+        "the vehicle has uneven tire wear",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "10060610",
+        "10028698",
+        "10028700",
+        "10028706",
+        "10028711",
+        "10028712",
+        "561662",
+        "552686"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Suspension Failure",
+      "impact": "The failure of the rear suspension can cause the vehicle to lose control, leading to accidents, and can also cause damage to other components, such as the strut and tire.",
+      "symptoms": [
+        "The rear suspension has a harshness",
+        "the vehicle has uneven tire wear",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "10028711",
+        "10028712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

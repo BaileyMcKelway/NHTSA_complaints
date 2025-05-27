@@ -1,0 +1,188 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration/Cruise Control Malfunction",
+      "impact": "Sudden acceleration can cause loss of vehicle control, accidents, and injuries. Malfunctioning cruise control can lead to unintended acceleration, making it difficult to stop the vehicle, which can result in accidents or near-misses.",
+      "symptoms": [
+        "Vehicle accelerates suddenly without driver input",
+        "cruise control fails to shut off",
+        "cruise control malfunctions",
+        "vehicle accelerates to extremely high RPMs."
+      ],
+      "odiNumbers": [
+        "8001456",
+        "541011",
+        "530256",
+        "515440",
+        "478801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Knocking or Pinging Noise",
+      "impact": "The knocking or pinging noise in the engine can be a sign of premature ignition, which can lead to engine damage, decreased performance, and potentially cause the engine to fail.",
+      "symptoms": [
+        "The engine produces a knocking or pinging noise",
+        "especially during acceleration or when the engine is under load."
+      ],
+      "odiNumbers": [
+        "514860",
+        "513080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Engine Acceleration",
+      "impact": "Unintended engine acceleration can cause the vehicle to lurch forward, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The engine accelerates unexpectedly",
+        "especially when the vehicle is in drive and at idle."
+      ],
+      "odiNumbers": [
+        "514860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or leave the driver stranded, potentially leading to accidents or other safety risks.",
+      "symptoms": [
+        "The engine fails",
+        "often accompanied by other symptoms such as knocking or pinging noises",
+        "loss of power",
+        "or difficulty starting."
+      ],
+      "odiNumbers": [
+        "513080",
+        "512663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Rupture",
+      "impact": "A ruptured heater core can cause boiling hot coolant to pour onto the driver's feet, leading to severe burns, and potentially causing loss of visibility due to steam buildup inside the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "Boiling hot coolant pouring onto the driver's feet",
+        "severe burns to the foot",
+        "ankle",
+        "and leg",
+        "steam buildup inside the vehicle reducing visibility",
+        "scalding of legs while driving."
+      ],
+      "odiNumbers": [
+        "8000995",
+        "733844",
+        "967075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Heater Hose/Bracket Failure",
+      "impact": "A broken heater hose bracket can cause the heater hose to come loose, leading to hot coolant leakage, which can cause burns to the driver's feet and potentially lead to accidents due to loss of control.",
+      "symptoms": [
+        "Heater hose coming out",
+        "bracket holding heater pipe breaking",
+        "hot coolant leakage",
+        "burns to the driver's feet."
+      ],
+      "odiNumbers": [
+        "8000995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Fluid Leak",
+      "impact": "The transmission fluid leak can cause the vehicle to jerk or hesitate while shifting, leading to reduced vehicle performance and potential safety risks. If left unaddressed, it can also lead to premature transmission failure.",
+      "symptoms": [
+        "The vehicle jerks or hesitates while shifting",
+        "transmission fluid needs to be added frequently",
+        "the transmission does not shift properly."
+      ],
+      "odiNumbers": [
+        "869259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to lose power or become stuck in gear, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission does not shift properly",
+        "the vehicle loses power or becomes stuck in gear."
+      ],
+      "odiNumbers": [
+        "530256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Odometer Failure",
+      "impact": "The odometer failure can cause the vehicle's mileage to be inaccurate, which can lead to potential safety risks and affect the vehicle's resale value.",
+      "symptoms": [
+        "The odometer does not display the correct mileage",
+        "the odometer is not functioning properly."
+      ],
+      "odiNumbers": [
+        "530256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Accumulator Internal Leak",
+      "impact": "An internal leak in the fuel accumulator can cause hard starting when the engine is warm, leading to inconvenience and potential safety risks due to increased stopping distances.",
+      "symptoms": [
+        "Difficulty starting the engine when warm",
+        "engine cranks slowly or takes multiple attempts to start."
+      ],
+      "odiNumbers": [
+        "514860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Over-Volt Protection Relay Failure",
+      "impact": "A faulty over-volt protection relay can cause the engine to stall intermittently, especially when decelerating with the foot on the brake, which can increase the risk of accidents or loss of control.",
+      "symptoms": [
+        "Engine stalls intermittently",
+        "especially when decelerating or braking",
+        "loss of power or stalling when driving."
+      ],
+      "odiNumbers": [
+        "514860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

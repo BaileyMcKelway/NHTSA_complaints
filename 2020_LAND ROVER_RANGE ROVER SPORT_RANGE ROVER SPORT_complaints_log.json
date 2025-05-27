@@ -1,0 +1,186 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic System Failures",
+      "impact": "The failure of various electronic systems can cause a loss of critical vehicle functions, compromising safety and increasing the risk of accidents.",
+      "symptoms": [
+        "Hill descent control error",
+        "stability control not available error",
+        "charging system fault detected error",
+        "no brakes while driving",
+        "airbag failure to deploy",
+        "SOS button failure to activate",
+        "infotainment screens blacking out",
+        "side view mirrors malfunctioning",
+        "loss of control over climate",
+        "thermostat temperature",
+        "driver modes",
+        "and rock crawl mode."
+      ],
+      "odiNumbers": [
+        "11506763",
+        "11362049",
+        "11319464",
+        "11301114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injury or fatalities in the event of an accident, as the airbags may not deploy to protect occupants.",
+      "symptoms": [
+        "Airbags did not deploy in a crash",
+        "SOS button failed to activate",
+        "delayed activation of SOS button."
+      ],
+      "odiNumbers": [
+        "11362049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Infotainment System Malfunctions",
+      "impact": "The failure of the infotainment system can cause distractions while driving, leading to accidents, and can also result in the loss of critical vehicle functions.",
+      "symptoms": [
+        "Lower screen",
+        "upper screen",
+        "or both screens completely blacking out",
+        "side view mirrors dipping down in reverse and not correctly resetting their position",
+        "loss of control over climate",
+        "thermostat temperature",
+        "driver modes",
+        "and rock crawl mode."
+      ],
+      "odiNumbers": [
+        "11319464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Spoiler Detachment",
+      "impact": "The detachment of the rear spoiler at high speed can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Rear spoiler becomes loose or detached while driving",
+        "noise or vibration from the rear of the vehicle",
+        "loss of aerodynamic stability."
+      ],
+      "odiNumbers": [
+        "11556774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected acceleration",
+        "involuntary movement of the vehicle",
+        "difficulty stopping the vehicle",
+        "unexpected changes in vehicle speed."
+      ],
+      "odiNumbers": [
+        "11413275"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "InControl App Failure",
+      "impact": "The unreliable and defective InControl App can cause inconvenience, safety risks, and potential harm to vehicle owners, especially in extreme weather conditions, by failing to remotely lock/unlock the vehicle, start the engine, or provide accurate information.",
+      "symptoms": [
+        "The App fails to remotely lock/unlock the vehicle",
+        "fails to start the engine",
+        "provides inaccurate information",
+        "locks the vehicle while the owner is approaching",
+        "and may leave the owner stranded outside the vehicle."
+      ],
+      "odiNumbers": [
+        "11494150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Spare Tire",
+      "impact": "The absence of a spare tire in the vehicle can lead to safety concerns, especially in emergency situations such as a flat tire at night, leaving the driver stranded and vulnerable.",
+      "symptoms": [
+        "The vehicle does not have a spare tire",
+        "making it difficult or impossible to repair a flat tire",
+        "especially in low-light conditions."
+      ],
+      "odiNumbers": [
+        "11402670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unpredictable Acceleration and Idling Issues",
+      "impact": "The sudden and unpredictable acceleration of the vehicle can lead to accidents, injuries, or fatalities, especially when combined with idling issues, making it a significant safety concern.",
+      "symptoms": [
+        "The vehicle jumps forward while coming to a stop",
+        "RPMs surge up and down on their own",
+        "engine idles very rough with a high-pitched idle",
+        "the vehicle shutters and bounces",
+        "and the accelerator pedal jerks forward when depressed."
+      ],
+      "odiNumbers": [
+        "11430716",
+        "11390552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can lead to a loss of critical information, such as speed and engine performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "The instrument cluster ceases to function",
+        "and the vehicle jerks forward when the accelerator pedal is depressed."
+      ],
+      "odiNumbers": [
+        "11390552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Dealer Negligence and Lack of Support",
+      "impact": "The failure of dealerships to properly diagnose and address safety concerns can lead to continued risk of accidents and injuries, as well as a lack of trust in the manufacturer and dealership.",
+      "symptoms": [
+        "Dealerships are unwilling to investigate and repair issues",
+        "citing lack of resources or software updates",
+        "despite customer complaints and evidence of safety concerns."
+      ],
+      "odiNumbers": [
+        "11430716",
+        "11390552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

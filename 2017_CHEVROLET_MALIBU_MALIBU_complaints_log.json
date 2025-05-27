@@ -1,0 +1,497 @@
+{
+  "totalComplaints": 626,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 22,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The failure to recognize the vehicle is in park can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The \"Shift to Park\" message appears on the dashboard even when the vehicle is in park",
+        "the vehicle will not turn off",
+        "the doors may lock",
+        "and the vehicle may roll or move unexpectedly."
+      ],
+      "odiNumbers": [
+        "11591813",
+        "11546782",
+        "11543913",
+        "11535070",
+        "11527915",
+        "11502655",
+        "11465975",
+        "11461577",
+        "11461784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Power Reduction",
+      "impact": "The sudden reduction of engine power can cause the vehicle to lose speed, making it difficult to maintain control, and potentially leading to accidents.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" message appears on the dashboard",
+        "the vehicle slows down suddenly",
+        "and the check engine light comes on."
+      ],
+      "odiNumbers": [
+        "11571854",
+        "11525764",
+        "11463906",
+        "11462719",
+        "11462211",
+        "11460327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch and Transmission Issues",
+      "impact": "The failure of the clutch and transmission system can cause the vehicle to lose power, making it difficult to maintain control, and potentially leading to accidents.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle loses power",
+        "and the transmission shifts erratically."
+      ],
+      "odiNumbers": [
+        "11562964",
+        "11568057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, making it difficult to maintain control, and potentially leading to accidents.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "the battery drains quickly",
+        "and the electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "11524202",
+        "11496128",
+        "11469837",
+        "11465601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Door Lock and Unlock Issues",
+      "impact": "The failure of the door lock and unlock system can cause the doors to lock or unlock unexpectedly, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The doors lock or unlock unexpectedly",
+        "and the door will not open or close properly."
+      ],
+      "odiNumbers": [
+        "11513682",
+        "11461784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, making it difficult to maintain control, and potentially leading to accidents.",
+      "symptoms": [
+        "The brake system malfunctions",
+        "and the vehicle loses stopping power."
+      ],
+      "odiNumbers": [
+        "11502685",
+        "11463906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The failure to recognize the vehicle is in park can cause the vehicle to not turn off, leading to battery drain, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle displays \"Shift to Park\" message despite being in park",
+        "the vehicle will not turn off",
+        "the vehicle beeps continuously",
+        "the battery drains faster."
+      ],
+      "odiNumbers": [
+        "11590760",
+        "11587297",
+        "11582591",
+        "11544252",
+        "11541909",
+        "11528306",
+        "11521623",
+        "11484369",
+        "11480658",
+        "11478767",
+        "11474833",
+        "11474600",
+        "11473219",
+        "11472052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Power Reduction",
+      "impact": "The sudden reduction of engine power can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The vehicle slows down suddenly",
+        "the engine light comes on",
+        "the \"Engine Power Reduced\" message is displayed",
+        "the vehicle loses power",
+        "the RPMs increase despite the vehicle not accelerating."
+      ],
+      "odiNumbers": [
+        "11565816",
+        "11547864",
+        "11516303",
+        "11503516",
+        "11501632",
+        "11495573",
+        "11486200",
+        "11483945",
+        "11480660",
+        "11481183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Control Assembly Failure",
+      "impact": "The failure of the transmission control assembly can cause the vehicle to not shift into park, leading to battery drain, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle will not shift into park",
+        "the \"Shift to Park\" message is displayed",
+        "the vehicle beeps continuously",
+        "the battery drains faster."
+      ],
+      "odiNumbers": [
+        "11483945",
+        "11473219",
+        "11478767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Reduced Engine Power",
+      "impact": "The sudden loss of engine power can cause the vehicle to slow down or stall, increasing the risk of accidents, especially when driving on highways.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle slows down or loses power",
+        "the check engine light comes on",
+        "and the vehicle may not be able to accelerate above a certain speed (e.g.",
+        "20-30 mph)."
+      ],
+      "odiNumbers": [
+        "11585454",
+        "11572743",
+        "11564790",
+        "11558445",
+        "11525760",
+        "11508693",
+        "11497099",
+        "11495753",
+        "11495066",
+        "11494024",
+        "11487674",
+        "11486981",
+        "11482945",
+        "11481844",
+        "11471065",
+        "11459861",
+        "11455236",
+        "11453553",
+        "11451997",
+        "11450945",
+        "11450108",
+        "11449006",
+        "11431293",
+        "11425329",
+        "11416053",
+        "11413830",
+        "11408081",
+        "11405168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle/Pedal Position Sensor Failure",
+      "impact": "The failure of the throttle/pedal position sensor can cause the vehicle to lose power or stall, increasing the risk of accidents.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle slows down or loses power",
+        "the check engine light comes on",
+        "and the vehicle may not be able to accelerate above a certain speed (e.g.",
+        "20-30 mph)."
+      ],
+      "odiNumbers": [
+        "11558445",
+        "11487674",
+        "11425329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Brake Vacuum Assist Failure",
+      "impact": "The failure of the power brake vacuum assist can cause the vehicle to lose braking power, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle's brakes fail to function properly",
+        "the brake pedal feels soft or spongy",
+        "and the vehicle may not be able to stop in time."
+      ],
+      "odiNumbers": [
+        "11572743",
+        "11481844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission/Engine Alert",
+      "impact": "The transmission/engine alert can cause the vehicle to lose power or stall, increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission/engine alert warning message appears on the dashboard",
+        "the vehicle slows down or loses power",
+        "and the check engine light comes on."
+      ],
+      "odiNumbers": [
+        "11455236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Accelerator Pedal Position Sensor Failure",
+      "impact": "The failure of the accelerator pedal position sensor can cause the vehicle to lose power or stall, increasing the risk of accidents.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle slows down or loses power",
+        "the check engine light comes on",
+        "and the vehicle may not be able to accelerate above a certain speed (e.g.",
+        "20-30 mph)."
+      ],
+      "odiNumbers": [
+        "11494024",
+        "11486981"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The failure of the transmission to recognize the shift to park can cause the vehicle to remain in accessory mode, draining the battery, and potentially leading to safety issues if the vehicle is not properly shut off.",
+      "symptoms": [
+        "The \"Shift to Park\" error message appears on the dashboard",
+        "the vehicle does not shut off",
+        "the vehicle remains in accessory mode",
+        "the battery drains",
+        "and the vehicle may not recognize the shift to park."
+      ],
+      "odiNumbers": [
+        "11553335",
+        "11571193",
+        "11498522",
+        "11468154",
+        "11464736",
+        "11461350",
+        "11456247",
+        "11447281",
+        "11438355",
+        "11436175",
+        "11435161",
+        "11430525",
+        "11420606",
+        "11416808",
+        "11414585",
+        "11405897",
+        "11394407",
+        "11383371",
+        "11366634",
+        "11365067",
+        "11364254",
+        "11364308",
+        "11364313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Power Reduced",
+      "impact": "The sudden reduction of engine power can cause a loss of control, increasing the risk of accidents, and potentially leading to safety issues.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" message appears on the dashboard",
+        "the vehicle's speed is reduced",
+        "the vehicle loses power",
+        "and the vehicle may stall."
+      ],
+      "odiNumbers": [
+        "11580160",
+        "11498522",
+        "11447281",
+        "11366634",
+        "11365067",
+        "11364254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Hydraulic System Failure",
+      "impact": "The failure of the clutch hydraulic system can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "and the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11576113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress into Trunk",
+      "impact": "Water ingress into the trunk can cause damage to the vehicle's electrical components and potentially lead to safety issues.",
+      "symptoms": [
+        "Water is found in the trunk",
+        "and the vehicle's electrical components may be damaged."
+      ],
+      "odiNumbers": [
+        "11519806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Piston Damage",
+      "impact": "Piston damage can cause engine failure, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine fails",
+        "the vehicle loses power",
+        "and the vehicle may stall."
+      ],
+      "odiNumbers": [
+        "11519806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Power Reduced Error",
+      "impact": "The engine power reduced error can cause the vehicle to suddenly lose power, reducing speed to 20-30 mph, which can lead to accidents, especially on highways. This issue can also cause the vehicle to stall or shut off, leaving the driver stranded.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle's speed is reduced to 20-30 mph",
+        "the vehicle stalls or shuts off",
+        "the check engine light is illuminated",
+        "and the traction control warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11587299",
+        "11576467",
+        "11574018",
+        "11573448",
+        "11545097",
+        "11525893",
+        "11505628",
+        "11505271",
+        "11503574",
+        "11497540",
+        "11490897",
+        "11478402",
+        "11463409",
+        "11461694",
+        "11453379",
+        "11449176",
+        "11448787",
+        "11448200",
+        "11444654",
+        "11441641",
+        "11437780",
+        "11433887",
+        "11429607",
+        "11413709",
+        "11413118",
+        "11405590",
+        "11402850",
+        "11400392",
+        "11398402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Accelerator Pedal Sensor Failure",
+      "impact": "The failure of the accelerator pedal sensor can cause the vehicle to lose power and reduce speed, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle's speed is reduced to 20-30 mph",
+        "the vehicle stalls or shuts off",
+        "the check engine light is illuminated",
+        "and the traction control warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11503574",
+        "11448200",
+        "11444654"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Turbo Bypass Valve or Turbo Failure",
+      "impact": "The failure of the turbo bypass valve or turbo can cause the vehicle to lose power and reduce speed, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The \"Engine Power Reduced\" warning message appears on the dashboard",
+        "the vehicle's speed is reduced to 20-30 mph",
+        "the vehicle stalls or shuts off",
+        "the check engine light is illuminated",
+        "and the traction control warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11444654",
+        "11441641"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

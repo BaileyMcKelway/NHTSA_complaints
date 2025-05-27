@@ -1,0 +1,276 @@
+{
+  "totalComplaints": 45,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Retractor Failure",
+      "impact": "The failure of the motorized seat belt retractor can cause the seat belt to malfunction, leading to inadequate restraint in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt retractor stops working",
+        "the seat belt will not retract",
+        "the seat belt becomes stuck in the track",
+        "the seat belt slows down or hesitates",
+        "the seat belt breaks or fails occasionally."
+      ],
+      "odiNumbers": [
+        "8005952",
+        "784120",
+        "805356",
+        "802583",
+        "508020",
+        "987198",
+        "973667",
+        "966916",
+        "965735",
+        "476694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Premature Wear",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. Premature wear of piston rings can lead to engine failure, oil leaks, and decreased engine performance.",
+      "symptoms": [
+        "Engine check light comes on and won't go off",
+        "engine failure",
+        "premature wear of piston rings",
+        "oil leaks",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "831031",
+        "519096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Failure of the cooling system can cause the engine to overheat, leading to engine damage, decreased performance, and potentially causing a fire.",
+      "symptoms": [
+        "Radiator problems",
+        "coolant leaks",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "503208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "Failure of the exhaust system can cause decreased engine performance, decreased fuel efficiency, and potentially lead to a fire.",
+      "symptoms": [
+        "Muffler hole",
+        "muffler replacement",
+        "catalytic converter failure",
+        "converter hanger failure."
+      ],
+      "odiNumbers": [
+        "476694",
+        "503208",
+        "968525"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fire Hazard",
+      "impact": "A vehicle fire can cause serious injury or death, as well as property damage.",
+      "symptoms": [
+        "Vehicle caught fire while stopped."
+      ],
+      "odiNumbers": [
+        "986216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Service-Related Concerns",
+      "impact": "Failure to perform recall repairs can lead to continued safety risks and decreased vehicle performance.",
+      "symptoms": [
+        "Dealership refused to perform recall repairs",
+        "recall repairs not completed."
+      ],
+      "odiNumbers": [
+        "958644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the key to get stuck in the ignition, leading to engine fires, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Smoke coming from the car",
+        "key getting stuck in the ignition",
+        "ignition stuck in start position",
+        "starter burning out or catching fire",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "822236",
+        "508020",
+        "980939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause it to burn out or catch fire, leading to engine fires and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Starter failed",
+        "starter burning out",
+        "starter catching fire",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "533329",
+        "503208",
+        "980939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause electrical system malfunctions, leading to engine fires and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Alternator defective",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "980939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause electrical system malfunctions, leading to engine fires and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Battery failed",
+        "battery replaced."
+      ],
+      "odiNumbers": [
+        "503208",
+        "476694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coil can cause engine misfires, leading to decreased vehicle performance and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Ignition coil failed."
+      ],
+      "odiNumbers": [
+        "503208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. In extreme cases, it can also cause fluid leaks, leading to fires.",
+      "symptoms": [
+        "Transmission slipping",
+        "complete transmission failure",
+        "fluid leaks",
+        "smoke",
+        "small fires",
+        "inability to shift gears."
+      ],
+      "odiNumbers": [
+        "723582",
+        "484760",
+        "514433",
+        "960373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Slipping",
+      "impact": "Transmission slipping can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission slipping",
+        "difficulty shifting gears",
+        "worsening condition with cold weather."
+      ],
+      "odiNumbers": [
+        "723582",
+        "966751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Cable Failure",
+      "impact": "A loose speedometer cable can cause the speedometer to fail, leading to inaccurate speed readings and potentially causing accidents.",
+      "symptoms": [
+        "Speedometer failure",
+        "loose speedometer cable."
+      ],
+      "odiNumbers": [
+        "503208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Coolant Line Failure",
+      "impact": "A transmission coolant line leak can cause fluid to spray onto the exhaust system, leading to fires.",
+      "symptoms": [
+        "Transmission coolant line leak",
+        "fluid sprayed onto the exhaust system",
+        "fire."
+      ],
+      "odiNumbers": [
+        "960373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Servicing Issues",
+      "impact": "Poor transmission servicing can lead to transmission failure, causing the vehicle to lose power and potentially leading to accidents.",
+      "symptoms": [
+        "Transmission serviced",
+        "but still experiencing issues."
+      ],
+      "odiNumbers": [
+        "476694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

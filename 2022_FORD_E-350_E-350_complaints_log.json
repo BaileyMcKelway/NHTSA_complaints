@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to lose control, making it difficult to steer, and potentially leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel becomes stiff",
+        "the vehicle pulls in either direction",
+        "the brake pedal has to be pressed very hard to stop the vehicle",
+        "abnormal odor inside the cabin",
+        "power steering fluid leak",
+        "loss of power steering functionality."
+      ],
+      "odiNumbers": [
+        "11521237",
+        "11493799",
+        "11488723",
+        "11483429",
+        "11469453",
+        "11445045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause the vehicle to fail to stop as needed, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The vehicle fails to stop as needed",
+        "the brake pedal has to be pressed very hard to stop the vehicle",
+        "the vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "11521237",
+        "11469453",
+        "11445045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic System Failure",
+      "impact": "The failure of the hydraulic system can cause the power steering and brake systems to fail, leading to loss of vehicle control and potentially causing accidents.",
+      "symptoms": [
+        "Power steering fluid leak",
+        "brake fluid leak",
+        "loss of power steering functionality",
+        "failure of the brake system."
+      ],
+      "odiNumbers": [
+        "11483429",
+        "11445045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "Unintended vehicle movement can cause accidents, injuries, or fatalities, especially when the vehicle is not in the driver's control.",
+      "symptoms": [
+        "The vehicle moves unexpectedly",
+        "often in reverse",
+        "when the driver is not in the driver's seat or when the transmission is in Park",
+        "potentially causing damage to property or injury to people in the surrounding area."
+      ],
+      "odiNumbers": [
+        "11532627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Shift Interlock Failure",
+      "impact": "Failure of the transmission shift interlock can allow the vehicle to move unexpectedly, even when the transmission is in Park, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle moves unexpectedly",
+        "often in reverse",
+        "when the driver is not in the driver's seat or when the transmission is in Park",
+        "potentially causing damage to property or injury to people in the surrounding area."
+      ],
+      "odiNumbers": [
+        "11532627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parts Distribution Disconnect for Recall Repairs",
+      "impact": "The delay or unavailability of parts for recall repairs can leave vehicles in an unsafe condition, potentially leading to accidents or injuries, and cause inconvenience and frustration for vehicle owners.",
+      "symptoms": [
+        "Vehicle owners receive notification of a recall but are unable to have the repair performed due to part unavailability",
+        "dealerships are unable to schedule appointments or complete repairs",
+        "owners are advised to contact different dealerships",
+        "manufacturers are not aware of the issue."
+      ],
+      "odiNumbers": [
+        "11524640"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trailer Brake and Light Malfunction",
+      "impact": "The intermittent failure of trailer brakes and lights can lead to a loss of control while towing, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Trailer brakes and lights do not function consistently",
+        "sometimes working and sometimes not",
+        "causing uncertainty and unpredictability while towing."
+      ],
+      "odiNumbers": [
+        "11465411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ineffective Recall Repair for Trailer Brake and Light Malfunction",
+      "impact": "The ineffective recall repair can lead to continued malfunction of trailer brakes and lights, prolonging the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Dealership informs customers that the initial recall repair does not work",
+        "and a new fix is needed",
+        "leaving customers without a reliable solution",
+        "especially during critical towing periods."
+      ],
+      "odiNumbers": [
+        "11465411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

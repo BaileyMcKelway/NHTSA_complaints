@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "EXTERIOR LIGHTING",
+    "PARKING BRAKE",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Air Bag Failure due to Proximity to Exhaust System",
+      "impact": "The close proximity of the rear suspension air bags to the exhaust system can cause the air bags to overheat and fail, leading to uneven tire wear, alignment problems, and potential loss of control.",
+      "symptoms": [
+        "Rear air bag blowout",
+        "tire wear",
+        "alignment problems",
+        "coach body dropping onto rear tires when air is removed from air cylinders."
+      ],
+      "odiNumbers": [
+        "552566",
+        "552566",
+        "518954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Light Failure",
+      "impact": "The failure of the rear brake light can increase the risk of rear-end collisions, as other drivers may not be aware of the vehicle's intention to stop, which can lead to accidents and injuries.",
+      "symptoms": [
+        "The rear brake light does not illuminate when the brake pedal is pressed",
+        "the rear brake light is dim or flickering",
+        "the brake light switch is faulty",
+        "the brake light circuit is malfunctioning."
+      ],
+      "odiNumbers": [
+        "552566",
+        "552566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unexpected Engagement of Automatic Parking Brake",
+      "impact": "The unexpected engagement of the automatic parking brake can cause the vehicle to suddenly stop, leading to accidents, injuries, or fatalities, especially if the vehicle is moving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The parking brake engages unexpectedly while the vehicle is in motion",
+        "causing the brakes to lock up",
+        "and the vehicle to come to an abrupt stop",
+        "making it impossible to move."
+      ],
+      "odiNumbers": [
+        "10381331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of Cruise Control Recall Repair Parts",
+      "impact": "The unavailability of recall repair parts can prevent the timely repair of a safety-critical system, potentially leading to unintended acceleration and accidents.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "10223288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Drive Shaft Failure Due to Improper Specifications",
+      "impact": "The drive shaft failure can cause loss of control, accidents, and injuries due to the shaft breaking or coming loose while driving, which can lead to serious consequences.",
+      "symptoms": [
+        "Drive shaft failure",
+        "bolts snapping or breaking",
+        "loss of control",
+        "accidents",
+        "drive shaft coming up through the floorboards."
+      ],
+      "odiNumbers": [
+        "756138"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

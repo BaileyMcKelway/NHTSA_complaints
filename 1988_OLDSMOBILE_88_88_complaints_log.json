@@ -1,0 +1,204 @@
+{
+  "totalComplaints": 47,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to lock up, making it difficult or impossible to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel feels tight or hard to turn",
+        "the steering wheel locks up",
+        "the power steering does not work properly in cold weather",
+        "the steering column shimmers or moves from left to right",
+        "the power steering seals leak",
+        "the rack and pinion steering fails."
+      ],
+      "odiNumbers": [
+        "861186",
+        "814527",
+        "603404",
+        "516171",
+        "808305",
+        "800216",
+        "503424",
+        "500912",
+        "976425",
+        "962669",
+        "961578",
+        "478442",
+        "478056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause the steering wheel to lock up, making it difficult or impossible to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering column cracks or splits",
+        "the steering wheel and column cannot turn in bad weather",
+        "the steering column shimmers or moves from left to right."
+      ],
+      "odiNumbers": [
+        "808305",
+        "800216",
+        "976425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad and Rotor Failure",
+      "impact": "The failure of the brake pads and rotors can cause the vehicle to lose braking power, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake pads wear out the rotors",
+        "the brake pads are harder than the rotors."
+      ],
+      "odiNumbers": [
+        "861186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The vehicle may stall and shut down while driving, potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalls and shuts down",
+        "typically when the fuel tank is half full",
+        "while driving on the highway."
+      ],
+      "odiNumbers": [
+        "8018239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Cradle Failure",
+      "impact": "The engine cradle falling to the ground can cause serious damage to the vehicle and potentially lead to accidents.",
+      "symptoms": [
+        "Rusting of bolts",
+        "engine cradle falling to the ground."
+      ],
+      "odiNumbers": [
+        "552430"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition module and crank sensor can cause the vehicle to stall, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "ignition module failure",
+        "crank sensor failure."
+      ],
+      "odiNumbers": [
+        "538645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The vehicle may suddenly accelerate, potentially causing accidents or loss of control.",
+      "symptoms": [
+        "Vehicle suddenly accelerates",
+        "loss of control",
+        "crash."
+      ],
+      "odiNumbers": [
+        "513154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "The engine compartment catching on fire can cause serious damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Vehicle loses power",
+        "engine compartment catches on fire",
+        "especially in rainy weather."
+      ],
+      "odiNumbers": [
+        "984162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become inoperable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt becomes stuck",
+        "the seat belt buckle is difficult to undo",
+        "the seat belt lap/shoulder will not latch properly."
+      ],
+      "odiNumbers": [
+        "887166",
+        "846408",
+        "966365",
+        "964144",
+        "478056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, posing a significant risk to the driver, passengers, and other road users.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often without pressing the accelerator pedal",
+        "resulting in loss of control",
+        "accidents",
+        "and injuries."
+      ],
+      "odiNumbers": [
+        "824256",
+        "604332",
+        "972468",
+        "483483",
+        "969747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "Cruise control failure can cause unintended acceleration, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The cruise control system fails to function properly",
+        "resulting in unintended acceleration",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "604332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "The failure of engine mounts can cause the engine to move excessively, leading to damage to other components, such as brake lines, and potentially causing loss of braking performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "Loud noise when applying brakes",
+        "brake pedal goes to the floor",
+        "brake line damage."
+      ],
+      "odiNumbers": [
+        "8017193",
+        "8017273"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a loss of braking performance, leading to increased stopping distances and potentially causing accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "ABS warning light comes on/off."
+      ],
+      "odiNumbers": [
+        "485372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Power Brake Failure",
+      "impact": "The intermittent failure of power brakes can cause a loss of braking performance, leading to increased stopping distances and potentially causing accidents.",
+      "symptoms": [
+        "Power brakes do not properly operate until brakes are applied 3 times after parking overnight with front end elevated."
+      ],
+      "odiNumbers": [
+        "474767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erroneous Airbag Deployment",
+      "impact": "The unexpected deployment of airbags can cause injuries to the driver and passengers, and may lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The airbag deploys suddenly and without warning",
+        "often at low speeds",
+        "and may cause injuries to the head",
+        "leg",
+        "and shoulders. The SRS (Supplemental Restraint System) light may illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "10472903",
+        "10207583",
+        "10101108",
+        "485372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Module Failure",
+      "impact": "Failure of the airbag module can cause the SRS light to illuminate, indicating a problem with the airbag system, and may lead to unexpected airbag deployment.",
+      "symptoms": [
+        "The SRS light appears on the dashboard",
+        "and the airbag system may malfunction or deploy unexpectedly."
+      ],
+      "odiNumbers": [
+        "10101108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the vehicle to fail to start, leaving the driver stranded and potentially causing inconvenience or safety risks.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the engine cranks but does not turn over",
+        "the ignition system does not respond to the key."
+      ],
+      "odiNumbers": [
+        "10194130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Tail Lamp Failure",
+      "impact": "The failure of the rear tail lamp can reduce the vehicle's visibility, increasing the risk of accidents or collisions, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The rear tail lamp does not illuminate",
+        "the rear tail lamp is dim or flickering",
+        "the rear tail lamp is not functioning properly."
+      ],
+      "odiNumbers": [
+        "485372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Idler Pulley/Ball Bearing Failure",
+      "impact": "The failure of the idler pulley/ball bearing can cause the serpentine belt to malfunction, leading to engine overheating, loss of power steering, and alternator failure, which can result in a breakdown or accident.",
+      "symptoms": [
+        "The vehicle makes a loud screeching or grinding noise",
+        "the serpentine belt is worn or damaged",
+        "the engine overheats",
+        "the power steering system fails",
+        "the alternator fails."
+      ],
+      "odiNumbers": [
+        "715679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Valve Failure",
+      "impact": "The failure of the engine valve can cause the engine to surge or misfire, leading to a loss of power and potentially causing an accident.",
+      "symptoms": [
+        "The vehicle surges or hesitates at certain speeds (55-60 mph)",
+        "the engine misfires",
+        "the vehicle experiences a loss of power",
+        "the check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "485372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

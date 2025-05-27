@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Timing Belt Failure",
+      "impact": "A premature failure of the timing belt can cause engine damage, leading to costly repairs, and potentially resulting in a loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine stalling or failure",
+        "unusual engine noises",
+        "engine overheating",
+        "loss of power",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "484403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Water Pump Failure",
+      "impact": "A failed water pump can cause engine overheating, leading to engine damage, and potentially resulting in a loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "unusual engine noises",
+        "loss of power",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "484403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "A faulty oxygen sensor can cause poor engine performance, decreased fuel efficiency, and increased emissions, potentially leading to engine damage and decreased vehicle safety.",
+      "symptoms": [
+        "Poor engine performance",
+        "decreased fuel efficiency",
+        "\"check engine\" light illumination",
+        "difficulty starting the engine",
+        "rough engine idling."
+      ],
+      "odiNumbers": [
+        "484403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Seatbelt Buckle",
+      "impact": "A faulty seatbelt buckle can lead to the seatbelt coming undone during a crash, increasing the risk of serious injury or fatality.",
+      "symptoms": [
+        "The seatbelt buckle appears to be fastened",
+        "but it comes unfastened",
+        "the seatbelt does not remain securely in place",
+        "the driver or passenger is not properly restrained during a crash."
+      ],
+      "odiNumbers": [
+        "8017316",
+        "965714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Seatbelt Failure in Crash",
+      "impact": "A seatbelt failure during a crash can result in serious injuries or fatalities, as the occupant is not properly restrained.",
+      "symptoms": [
+        "The seatbelt does not hold during a crash",
+        "the driver or passenger sustains serious injuries",
+        "the seatbelt fails to restrain the occupant."
+      ],
+      "odiNumbers": [
+        "8017316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Intake Manifold Gasket",
+      "impact": "A faulty intake manifold gasket can cause coolant to leak into the engine, leading to engine damage, overheating, and difficulty starting the vehicle, which can result in stalling or breakdowns, posing a safety risk to the driver and passengers.",
+      "symptoms": [
+        "Vehicle is hard to start in cold or wet weather",
+        "coolant leaks into the engine",
+        "carburetor leak",
+        "engine overheating",
+        "white smoke from the exhaust pipe."
+      ],
+      "odiNumbers": [
+        "531947",
+        "484403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

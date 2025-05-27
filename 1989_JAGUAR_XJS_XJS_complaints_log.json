@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt system can lead to a lack of restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belts fail to operate",
+        "the seat belts do not retract",
+        "the seat belts are stuck",
+        "the seat belts are inoperable."
+      ],
+      "odiNumbers": [
+        "10430481",
+        "10033717",
+        "10028587",
+        "832543"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Failure and Leaking",
+      "impact": "A faulty fuel tank can cause serious fuel leaks, leading to a high risk of fire, accidents, and damage to the vehicle and surrounding environment.",
+      "symptoms": [
+        "Fuel tank develops a break",
+        "fuel leaks",
+        "fuel tank needs to be replaced."
+      ],
+      "odiNumbers": [
+        "564169",
+        "564169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injector Failure and Fire Hazard",
+      "impact": "Malfunctioning fuel injectors can cause fuel to dump into the preheated converter, leading to high heat and potentially causing the catalyst to melt and sag, resulting in a fire hazard.",
+      "symptoms": [
+        "Ignition cuts out",
+        "fuel injectors continue to dump fuel",
+        "fuel burns in the preheated converter",
+        "catalyst melts and sags."
+      ],
+      "odiNumbers": [
+        "784707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Injector Rail Failure and Fire",
+      "impact": "A faulty fuel injector rail can cause fuel leaks, leading to a high risk of fire.",
+      "symptoms": [
+        "Fuel leak from fuel injector rail",
+        "fire hazard."
+      ],
+      "odiNumbers": [
+        "961703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause the vehicle to stall or hesitate, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine runs rough",
+        "the engine hesitates",
+        "the engine stalls",
+        "the vehicle experiences a loss of power."
+      ],
+      "odiNumbers": [
+        "875144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Fuel Injector",
+      "impact": "A faulty fuel injector can cause the engine to run rough, hesitate, or stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine runs rough",
+        "the engine hesitates",
+        "the engine stalls",
+        "the vehicle experiences a loss of power."
+      ],
+      "odiNumbers": [
+        "875144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Catalytic Converter Overheating",
+      "impact": "Catalytic converter overheating can cause a vehicle fire, which can result in serious injury or death.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the catalytic converter overheats",
+        "the vehicle experiences a loss of power."
+      ],
+      "odiNumbers": [
+        "523331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

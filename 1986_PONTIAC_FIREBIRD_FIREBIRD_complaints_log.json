@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle breaks or cracks",
+        "the seat belt comes out of the vehicle",
+        "the seat belt will not latch",
+        "the seat belt buckle releases unexpectedly",
+        "the seat belt is unable to be used due to buckle failure."
+      ],
+      "odiNumbers": [
+        "10079827",
+        "8004906",
+        "752248",
+        "863100",
+        "721901",
+        "851117",
+        "705399",
+        "703470",
+        "833094",
+        "487092",
+        "971785",
+        "969674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the vehicle experiences difficulty starting",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump fails to prime",
+        "the fuel pump is inoperative."
+      ],
+      "odiNumbers": [
+        "605675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the driver to run out of fuel, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The fuel gauge constantly reads empty",
+        "the fuel gauge registers empty when the tank is full",
+        "the fuel gauge is inaccurate",
+        "the fuel gauge is stuck on empty",
+        "the fuel gauge is inoperative."
+      ],
+      "odiNumbers": [
+        "487092",
+        "487092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Short in the Alarm System",
+      "impact": "An electrical short in the alarm system can cause a fire, which can lead to vehicle damage, injury, or even death.",
+      "symptoms": [
+        "The alarm system malfunctions",
+        "the vehicle catches fire",
+        "smoke or flames emerge from the dashboard or electrical components."
+      ],
+      "odiNumbers": [
+        "605675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tilt Steering Column Pivot Pinion Failure",
+      "impact": "The loosening of the tilt steering column pivot pinion due to vibration can cause the steering wheel to lock up, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn or locks up",
+        "the steering column makes unusual noises or vibrates",
+        "the pivot pinion is loose or backed out."
+      ],
+      "odiNumbers": [
+        "488429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

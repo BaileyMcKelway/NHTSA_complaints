@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "FORWARD COLLISION AVOIDANCE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Panel Display Failure",
+      "impact": "The failure of the instrument panel display can cause the driver to be unaware of critical vehicle information, such as fuel level, oil life, and odometer reading, which can lead to safety issues, such as running out of fuel or ignoring important maintenance warnings.",
+      "symptoms": [
+        "The instrument panel display goes blank or becomes garbled and unreadable",
+        "the display fails to show fuel level",
+        "oil life",
+        "or odometer reading",
+        "the display is intermittently available",
+        "the display is distorted or shows all text at once."
+      ],
+      "odiNumbers": [
+        "11568052",
+        "11395588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starting System Failure",
+      "impact": "The failure of the starting system can cause the vehicle to not start or start with difficulty, which can leave the driver stranded or cause accidents.",
+      "symptoms": [
+        "The vehicle won't start",
+        "the vehicle starts with cranking",
+        "the vehicle requires extended cranking to start",
+        "the vehicle has difficulty starting."
+      ],
+      "odiNumbers": [
+        "11416067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to increased risk of injury or fatality, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "Airbag warning light indicates malfunction",
+        "airbags fail to deploy in a crash",
+        "despite meeting the deployment criteria",
+        "resulting in potential injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11570540",
+        "11506791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking System",
+      "impact": "The false activation of the automatic emergency braking system can cause sudden and unexpected braking, which can lead to accidents, especially in busy traffic conditions.",
+      "symptoms": [
+        "The automatic emergency braking system engages without any objects or vehicles nearby",
+        "the brake warning light flashes and beeps",
+        "the brakes lock up while driving",
+        "the system activates in normal driving conditions."
+      ],
+      "odiNumbers": [
+        "11554935",
+        "11548868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Forward Emergency Collision Detection System",
+      "impact": "The unintended activation of the forward emergency collision detection system can cause the vehicle to suddenly and unexpectedly brake, which can lead to accidents, including rear-end collisions, and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly and unexpectedly brakes",
+        "the ABS system engages",
+        "the vehicle comes to an abrupt stop",
+        "no obstacles or vehicles are present in front of the vehicle."
+      ],
+      "odiNumbers": [
+        "11463554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Front End Vibration when Applying Brakes at Highway Speeds",
+      "impact": "The excessive vibration of the front end when applying the brakes at highway speeds can cause loss of control, reduced braking performance, and increased stopping distances, which can lead to accidents and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "The front end of the vehicle vibrates excessively when applying the brakes at highway speeds",
+        "the vibration feels like it is coming from the disk brakes on the front wheels."
+      ],
+      "odiNumbers": [
+        "11387834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

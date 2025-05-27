@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Failure",
+      "impact": "The failure of the front brakes can cause a loss of stopping power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels further than usual",
+        "grinding or screeching noise when applying the brakes",
+        "vehicle pulls to one side when braking",
+        "brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "514633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Leak from Governor Housing",
+      "impact": "The oil leak from the governor housing can cause the vehicle to lose engine oil, leading to engine damage, overheating, and potentially causing a fire. This can also lead to premature wear on engine components, resulting in costly repairs.",
+      "symptoms": [
+        "Oil leaking from the bolt hole on the side of the governor housing",
+        "oil stains under the vehicle",
+        "low engine oil levels",
+        "engine noise or knocking sounds",
+        "increased engine temperature."
+      ],
+      "odiNumbers": [
+        "514633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transfer Case Problem",
+      "impact": "The transfer case problem can cause the vehicle to lose power, leading to loss of control, accidents, or stranding the driver. This can also lead to premature wear on drivetrain components, resulting in costly repairs.",
+      "symptoms": [
+        "Difficulty shifting into four-wheel drive",
+        "loss of power to the wheels",
+        "unusual noises or vibrations from the transfer case",
+        "difficulty engaging or disengaging four-wheel drive",
+        "warning lights or messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "514633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Short Circuit",
+      "impact": "An electrical system short circuit can cause battery failure, leading to a loss of power to critical vehicle systems, including the engine, lights, and safety features, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The battery drains rapidly",
+        "the vehicle's electrical systems malfunction",
+        "the vehicle's lights or accessories fail to operate",
+        "the vehicle's engine stalls or fails to start",
+        "a burning smell or smoke is present."
+      ],
+      "odiNumbers": [
+        "514633",
+        "514633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

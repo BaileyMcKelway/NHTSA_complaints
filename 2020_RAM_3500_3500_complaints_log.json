@@ -1,0 +1,214 @@
+{
+  "totalComplaints": 98,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure (Diesel)",
+      "impact": "The failure of the fuel system can cause the vehicle to lose motive power, stall, or hesitate while accelerating, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or stalls while accelerating",
+        "the vehicle loses motive power",
+        "the vehicle surges while driving",
+        "the \"do not turn off the vehicle until arriving at destination\" warning message is illuminated",
+        "the vehicle goes into limp mode and will not accelerate above 20 MPH."
+      ],
+      "odiNumbers": [
+        "11579254",
+        "11497408",
+        "11466197",
+        "11464203",
+        "11445071",
+        "11438429",
+        "11437292",
+        "11418868",
+        "11418870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect (Fuel System, Diesel)",
+      "impact": "The unavailability of parts for the recall repair can cause a delay in fixing the fuel system failure, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The part to do the recall repair is not yet available",
+        "the manufacturer has exceeded a reasonable amount of time for the recall repair",
+        "the dealer is unable to obtain the parts for the repair."
+      ],
+      "odiNumbers": [
+        "11576643",
+        "11527985",
+        "11514465",
+        "11508888",
+        "11491369",
+        "11476395",
+        "11473555",
+        "11470894",
+        "11466986",
+        "11456371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause the vehicle to lose motive power, stall, or hesitate while accelerating, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses motive power",
+        "the vehicle stalls",
+        "the vehicle hesitates while accelerating",
+        "the high-pressure fuel pump has failed and needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11466197",
+        "11438429",
+        "11437292",
+        "11418868",
+        "11418870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CP4 Fuel Pump Failure",
+      "impact": "The failure of the CP4 fuel pump can cause the engine to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "error messages on the dashboard",
+        "fuel system failure",
+        "metal shavings in the fuel system."
+      ],
+      "odiNumbers": [
+        "11440397",
+        "11440305",
+        "11438282",
+        "11437528",
+        "11437565",
+        "11437580",
+        "11397622",
+        "11394780",
+        "11390819",
+        "11386132",
+        "11374797",
+        "11372337",
+        "11361596",
+        "11351441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "DEF Contamination and Pump Failure",
+      "impact": "The failure of the DEF pump can cause the truck to shut down, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Check engine light",
+        "DEF warning",
+        "smoke from under the hood",
+        "engine shut down."
+      ],
+      "odiNumbers": [
+        "11529554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "fuel system failure",
+        "metal shavings in the fuel system."
+      ],
+      "odiNumbers": [
+        "11440397",
+        "11438282",
+        "11374797",
+        "11372337",
+        "11351441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Due to CP4 Fuel Pump Failure",
+      "impact": "The failure of the CP4 fuel pump can cause the engine to stall, leading to a loss of power and control, which can increase the risk of a crash.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the diesel exhaust fluid warning light illuminates",
+        "the engine stability control warning light illuminates",
+        "the fuel pump fails catastrophically",
+        "and the fuel system is destroyed."
+      ],
+      "odiNumbers": [
+        "11415339",
+        "11419424",
+        "11387099",
+        "11386681",
+        "11378173",
+        "11366401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure Due to Lack of Engine Oil",
+      "impact": "The lack of engine oil can cause the engine to seize, leading to a loss of power and control, which can increase the risk of a crash.",
+      "symptoms": [
+        "The oil pressure warning light illuminates",
+        "the oil consistency is like jelly",
+        "and the engine needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11463903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Safety Recall Repair Delay",
+      "impact": "The delay in repairing safety recalls can leave vehicles on the road with potentially life-threatening defects, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle is on a waiting list for repair",
+        "and the dealer does not have the necessary parts to complete the repair."
+      ],
+      "odiNumbers": [
+        "11477420",
+        "11463709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Diesel Exhaust Fluid (DEF) Warning Light Illumination",
+      "impact": "The illumination of the DEF warning light can indicate a problem with the emissions system, which can lead to decreased engine performance and potentially cause a loss of power.",
+      "symptoms": [
+        "The DEF warning light illuminates",
+        "and the vehicle may experience decreased engine performance."
+      ],
+      "odiNumbers": [
+        "11455076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Seizure due to Oil Pump Gear Failure",
+      "impact": "The failure of the plastic oil pump gear can cause the engine to stall or seize, leading to a loss of control and potentially fatal accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine stalls or locks up suddenly",
+        "often without warning",
+        "and may not restart after shutting off for a period of time."
+      ],
+      "odiNumbers": [
+        "883305",
+        "723417",
+        "860591",
+        "839792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Kickstand Failure",
+      "impact": "The failure of the kickstand can cause the motorcycle to fall or roll while idling or parked, which can lead to accidents, injuries, or damage to the vehicle.",
+      "symptoms": [
+        "The kickstand fails to keep the motorcycle upright",
+        "the motorcycle rolls or falls while idling or parked",
+        "the kickstand does not lock in place",
+        "the motorcycle is unstable on slight inclines."
+      ],
+      "odiNumbers": [
+        "735798",
+        "735800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Pump Failure with Plastic Gear",
+      "impact": "The failure of the oil pump with a plastic gear can cause the motorcycle to stall, leading to a loss of power and control, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The motorcycle stalls while in operation",
+        "the engine fails to restart",
+        "unusual electrical behavior or override."
+      ],
+      "odiNumbers": [
+        "11278406"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Seam Failure",
+      "impact": "The failure of the fuel pump seam can cause fuel leaks onto the engine, which can lead to a fire, potentially resulting in serious injury or damage.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump",
+        "fuel smell or odor",
+        "fuel dripping onto the engine or surrounding components."
+      ],
+      "odiNumbers": [
+        "852505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

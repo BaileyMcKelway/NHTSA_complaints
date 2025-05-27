@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the infotainment screen to seize, backup camera to become inoperable, and instrument panel lights to turn off, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Infotainment screen freezes",
+        "backup camera becomes inoperable",
+        "instrument panel lights turn off",
+        "warning lights come on",
+        "stability control not available",
+        "drive with care message appears."
+      ],
+      "odiNumbers": [
+        "11122822",
+        "11114011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Fire",
+      "impact": "The vehicle catching fire while driving can cause serious injury or death, as well as damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Vehicle catches fire while driving."
+      ],
+      "odiNumbers": [
+        "11568811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Engine Shut-Off",
+      "impact": "The intermittent engine shut-off can cause loss of control, accidents, or leave the driver stranded, especially when driving on the highway.",
+      "symptoms": [
+        "Engine shuts off intermittently",
+        "warning lights come on",
+        "stability control not available",
+        "drive with care message appears."
+      ],
+      "odiNumbers": [
+        "11114011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Check Engine Light and Engine Failure",
+      "impact": "A faulty Check Engine light can mask underlying engine issues, leading to sudden engine failure, which can cause accidents, injuries, or strand drivers on the road. In this case, the failure of the engine can result in costly repairs, potentially exceeding $20,000.",
+      "symptoms": [
+        "The Check Engine light does not illuminate despite engine issues",
+        "the vehicle jerks or makes loud noises while driving",
+        "the engine stops or fails while driving",
+        "the vehicle requires towing."
+      ],
+      "odiNumbers": [
+        "11580494",
+        "11551704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause engine damage, leading to costly repairs or even complete engine replacement. This can result in sudden engine failure, accidents, or injuries.",
+      "symptoms": [
+        "The timing chain breaks or fails",
+        "the engine suffers damage",
+        "the vehicle requires costly repairs or engine replacement."
+      ],
+      "odiNumbers": [
+        "11551704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Retraction Issue with Heated/Recline Seats",
+      "impact": "The rear seat belts in certain F-Pace configurations (with rear heated/recline seats) can get caught in the panel casing, preventing them from retracting properly, which can lead to loose seat belts and compromise the safety of rear-seat passengers, especially children.",
+      "symptoms": [
+        "The seat belt appears to work normally",
+        "but when pulled at an angle away from the door (toward the middle of the car)",
+        "it gets caught in the plastic panel and fails to retract. This issue is more frequent with high back booster seats",
+        "but can also occur with backless boosters or without any booster seat."
+      ],
+      "odiNumbers": [
+        "11549287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

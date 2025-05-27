@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "EQUIPMENT",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dynamic Power Steering (DPS) Failure",
+      "impact": "The failure of the DPS system can cause sudden and unexpected loss of steering control, leading to accidents, loss of vehicle control, and potential injuries or fatalities.",
+      "symptoms": [
+        "The steering pulls hard to one side",
+        "the steering locks up",
+        "the vehicle drifts or wanders while driving",
+        "the check dynamic power steering indicator illuminates on the instrument panel",
+        "the power steering assist intermittently fails",
+        "the steering feels unstable or unpredictable."
+      ],
+      "odiNumbers": [
+        "10959806",
+        "10735999",
+        "10525756",
+        "10411083",
+        "10399837",
+        "10362478",
+        "10358433",
+        "10345340",
+        "10334496",
+        "10329868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause sudden and unexpected loss of steering control, leading to accidents, loss of vehicle control, and potential injuries or fatalities.",
+      "symptoms": [
+        "The steering feels loose or unstable",
+        "the steering wanders or drifts while driving",
+        "the vehicle is difficult to steer",
+        "the steering requires excessive effort",
+        "the steering system makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "10525756",
+        "10411083",
+        "10334496",
+        "10329868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Delays and Inadequacies",
+      "impact": "Delays and inadequacies in recall repairs can leave vehicles with safety defects on the road, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Dealerships are unable to perform recall repairs due to parts availability",
+        "repair delays",
+        "or inadequate repair procedures",
+        "leaving vehicles with safety defects on the road."
+      ],
+      "odiNumbers": [
+        "10399837",
+        "10362478",
+        "10358433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Fire",
+      "impact": "An electrical system fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. It can also result in costly repairs and downtime.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "often without warning",
+        "with flames and smoke visible from the engine or electrical components."
+      ],
+      "odiNumbers": [
+        "11242598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fire",
+      "impact": "The electrical system failure can cause a vehicle fire, which can lead to serious injuries, fatalities, and property damage.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often after servicing or recall repairs",
+        "with no warning signs or symptoms prior to the incident."
+      ],
+      "odiNumbers": [
+        "10745299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Recall Repair Ineffectiveness",
+      "impact": "Ineffective recall repairs can lead to continued safety risks, including vehicle fires, and a lack of trust in the manufacturer's ability to address safety concerns.",
+      "symptoms": [
+        "The vehicle continues to experience problems despite recall repairs",
+        "and the manufacturer's attempts to fix the issue are unsuccessful."
+      ],
+      "odiNumbers": [
+        "10745299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

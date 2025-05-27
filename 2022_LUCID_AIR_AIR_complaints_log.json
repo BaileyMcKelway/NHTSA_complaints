@@ -1,0 +1,154 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Drive System Failure",
+      "impact": "The sudden failure of the drive system can cause the vehicle to lose power and stall, potentially leading to accidents or leaving the driver stranded in a dangerous location.",
+      "symptoms": [
+        "The vehicle displays a \"Drive System Fault\" message",
+        "loses motive power",
+        "and stalls; the vehicle may not be able to accelerate or move; the internal screens may go blank; the hazard lights may not function or turn off after a short period."
+      ],
+      "odiNumbers": [
+        "11544709",
+        "11503285",
+        "11493695",
+        "11487486",
+        "11484559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Directional Movement",
+      "impact": "The vehicle may move in the opposite direction of the selected gear, potentially causing accidents or putting pedestrians at risk.",
+      "symptoms": [
+        "The vehicle drives in the opposite direction of the selected gear",
+        "such as moving forward when in reverse; the vehicle may block sidewalks or move towards obstacles."
+      ],
+      "odiNumbers": [
+        "11490194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Braking and False Alerts",
+      "impact": "The vehicle's sudden and unexpected braking, accompanied by false alerts, can cause loss of control, accidents, or near-miss situations, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle brakes violently while reversing",
+        "the vehicle warns the driver to pay attention and keep their hands on the wheel despite having both hands on the wheel",
+        "and the vehicle brakes suddenly while driving in town."
+      ],
+      "odiNumbers": [
+        "11509247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loss of Power and Sudden Shutdown",
+      "impact": "The sudden loss of power and shutdown of the vehicle can cause accidents, especially at high speeds, and leave the driver stranded, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "with warning messages indicating a shutdown in a short time",
+        "and the brakes may not function properly."
+      ],
+      "odiNumbers": [
+        "11498433",
+        "11490910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose motive power, leading to accidents or leaving the driver stranded, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The vehicle loses power",
+        "and the battery pack may short-circuit",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "11484693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inaccurate Range Estimation",
+      "impact": "The inaccurate range estimation can cause inconvenience, anxiety, and potentially lead to stranded drivers, especially in areas with limited charging infrastructure.",
+      "symptoms": [
+        "The vehicle's range estimation is incorrect",
+        "showing a significantly lower range than expected",
+        "and the actual range may vary greatly from the estimated range."
+      ],
+      "odiNumbers": [
+        "11509247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Emergency Braking System",
+      "impact": "The faulty emergency braking system can cause the vehicle to suddenly and unnecessarily lock its brakes, leading to potential accidents, especially on high-speed roads, and leaving the driver with no control over the vehicle.",
+      "symptoms": [
+        "The vehicle's emergency brakes engage unexpectedly",
+        "causing the vehicle to stop suddenly",
+        "even when there is no apparent obstacle; the vehicle's brakes lock up for a few seconds",
+        "making it inoperable; the vehicle slides or loses control due to sudden braking."
+      ],
+      "odiNumbers": [
+        "11538590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Adaptive Cruise Control",
+      "impact": "The adaptive cruise control system's failure to slow down or stop for stopped highway traffic can lead to high-speed rear-end collisions, posing a significant risk to the driver and other road users.",
+      "symptoms": [
+        "The adaptive cruise control continues to maintain speed despite stopped traffic ahead",
+        "requiring the driver to intervene to avoid a collision; the system fails to slow down or stop for stopped vehicles",
+        "even when set to the recommended settings."
+      ],
+      "odiNumbers": [
+        "11516824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncontrolled Seat Movement",
+      "impact": "The uncontrolled movement of the seat can cause serious injury or accidents, especially if it occurs while driving, as it can obstruct the driver's ability to control the vehicle.",
+      "symptoms": [
+        "The seat moves suddenly and without warning",
+        "folding the passenger forward or pinning the driver's knees against the lower dash and chest against the steering wheel",
+        "making it difficult or impossible to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11528752",
+        "11494228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

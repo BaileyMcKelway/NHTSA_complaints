@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to increased risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt will not buckle",
+        "the seat belt will not retract",
+        "the seat belt buckle will not latch",
+        "the seat belt is faulty and may not function properly in an accident."
+      ],
+      "odiNumbers": [
+        "541048",
+        "502900",
+        "501654",
+        "961401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause carbon monoxide to leak into the passenger compartment, posing a significant risk to the health and safety of occupants.",
+      "symptoms": [
+        "Exhaust leaks",
+        "smell of exhaust fluid in the passenger compartment",
+        "constant smell of exhaust",
+        "whole car shakes."
+      ],
+      "odiNumbers": [
+        "742097",
+        "541048",
+        "523855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "The sudden and unexpected tire tread separation can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "The tire tread suddenly separates from the tire",
+        "causing a loss of air pressure",
+        "vibration",
+        "and noise while driving."
+      ],
+      "odiNumbers": [
+        "730446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Wiring Harness Failure",
+      "impact": "The failure of the fuel pump wiring harness can cause the vehicle to stall or die, leading to a loss of power and potentially causing accidents. Additionally, a strong odor of gasoline inside the vehicle can indicate a fuel leak, which can lead to a fire hazard.",
+      "symptoms": [
+        "The vehicle stalls or dies",
+        "the vehicle has difficulty getting gas",
+        "a strong odor of gasoline is present inside the vehicle."
+      ],
+      "odiNumbers": [
+        "855261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injector Leakage",
+      "impact": "Leaking fuel injectors can cause fuel to leak onto the manifold, which can lead to an engine fire, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Fuel is leaking onto the manifold",
+        "the engine is at risk of catching fire."
+      ],
+      "odiNumbers": [
+        "982411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

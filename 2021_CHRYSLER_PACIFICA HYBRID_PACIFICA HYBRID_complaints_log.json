@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Propulsion System Failure",
+      "impact": "The failure of the hybrid propulsion system can cause the vehicle to lose motive power, stall, or hesitate, which can lead to accidents or leave the driver stranded. This can also cause the vehicle to fail to switch to the electrical system, resulting in increased fuel consumption.",
+      "symptoms": [
+        "The vehicle loses motive power",
+        "stalls",
+        "or hesitates; the check engine warning light illuminates; the service battery system warning light illuminates; the vehicle fails to switch to the electrical system; the vehicle intermittently hesitates then stalls; the front panel electrically starts to malfunction."
+      ],
+      "odiNumbers": [
+        "11559866",
+        "11541172",
+        "11523506",
+        "11510979",
+        "11510532",
+        "11510041",
+        "11506015",
+        "11505811",
+        "11504937",
+        "11504353",
+        "11503765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "APIM Module Failure",
+      "impact": "The failure of the APIM module can cause the vehicle to stall, lose motive power, or hesitate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "loses motive power",
+        "or hesitates; the check engine warning light illuminates; the reduced power warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11559866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to lose motive power, stall, or hesitate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses motive power",
+        "stalls",
+        "or hesitates; the check engine warning light illuminates; the service battery system warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11523506",
+        "11504353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Inverter Module Failure",
+      "impact": "The failure of the power inverter module can cause the vehicle to stall or lose motive power, leading to a loss of control and increasing the risk of accidents. Additionally, the failure can cause the vehicle to fail to turn off, which can lead to battery drain and other safety issues.",
+      "symptoms": [
+        "Unknown warning lights are illuminated",
+        "the rotary gear shift dial is unmovable",
+        "the vehicle fails to turn off when the Push to Start button is depressed",
+        "the vehicle stalls or loses motive power",
+        "the check engine warning light is illuminated",
+        "the message \"shift to park and turn off vehicle\" is displayed."
+      ],
+      "odiNumbers": [
+        "11577001",
+        "11523499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can lead to a loss of vehicle control, increased stopping distance, and accidents, especially on slippery or uneven road surfaces.",
+      "symptoms": [
+        "The ABS system fails to engage",
+        "the vehicle takes longer to stop",
+        "the brakes do not respond as expected",
+        "the vehicle continues to roll after applying the brakes",
+        "metal-to-metal noise from the rear drums and brake shoes",
+        "excessive wear on the rear drums and brake shoes."
+      ],
+      "odiNumbers": [
+        "810164",
+        "968203",
+        "968206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Axle Beam Weld Failure",
+      "impact": "Cracked welds on the front axle beam can lead to a loss of structural integrity, causing the front suspension to fail, which can result in loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Vibrations in the front end of the vehicle",
+        "uneven tire wear",
+        "clunking or rattling noises from the front suspension",
+        "difficulty steering",
+        "and reduced vehicle stability."
+      ],
+      "odiNumbers": [
+        "550174",
+        "801043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Suspension Vibration",
+      "impact": "Excessive vibration in the front suspension can cause driver fatigue, reduce vehicle stability, and lead to loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Vibrations in the front end of the vehicle",
+        "shaking or wobbling of the steering wheel",
+        "uneven tire wear",
+        "and noise from the front suspension."
+      ],
+      "odiNumbers": [
+        "801043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improper Tire Mounting",
+      "impact": "Improperly mounted tires can cause vibration, loss of control, and increased stopping distances, which can lead to accidents and injuries.",
+      "symptoms": [
+        "Extreme vibration while driving",
+        "uneven tire wear",
+        "difficulty steering",
+        "reduced vehicle stability",
+        "and increased risk of tire failure."
+      ],
+      "odiNumbers": [
+        "10044649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause a fire, potentially leading to serious injury or death, as well as damage to the vehicle.",
+      "symptoms": [
+        "The wiring harness is damaged or melted",
+        "there is a burning smell or smoke in the vehicle",
+        "the electrical system is malfunctioning",
+        "the vehicle's lights or accessories are not functioning properly",
+        "the vehicle's engine is stalling or not starting."
+      ],
+      "odiNumbers": [
+        "984238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Failure",
+      "impact": "The sudden failure of headlights while driving can significantly reduce driver visibility, especially at night, increasing the risk of accidents and potentially causing harm to the driver and other road users.",
+      "symptoms": [
+        "Headlights suddenly go out while driving",
+        "reduced visibility while driving at night",
+        "difficulty seeing the road ahead",
+        "increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "981333"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

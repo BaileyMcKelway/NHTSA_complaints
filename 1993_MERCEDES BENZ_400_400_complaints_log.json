@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Engine Wiring Harness",
+      "impact": "The defective engine wiring harness can cause engine problems, stalling, and even engine fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Cracking and splitting of wires",
+        "drying out of wires",
+        "engine stalling",
+        "engine problems",
+        "short circuits",
+        "and potential engine fires."
+      ],
+      "odiNumbers": [
+        "10326929",
+        "10257513",
+        "10187255",
+        "10160661",
+        "10158924",
+        "10032138"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sumitomo HTRZ2 Tire Failure",
+      "impact": "The failure of the Sumitomo HTRZ2 tires can cause a loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Splits or cracks on the tire surface",
+        "particularly on the rear driver's side tire",
+        "multiple splits on the tire",
+        "tire failure",
+        "need for frequent tire replacement."
+      ],
+      "odiNumbers": [
+        "10256454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fire",
+      "impact": "An electrical system failure can cause a vehicle fire, which can result in serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often after a minor accident or collision",
+        "with no apparent warning signs or symptoms."
+      ],
+      "odiNumbers": [
+        "812558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Surging at Low Speeds",
+      "impact": "The intermittent surging of the vehicle at low speeds can cause loss of control, increased stopping distance, and potential accidents, especially in heavy traffic or pedestrian areas.",
+      "symptoms": [
+        "The vehicle suddenly accelerates or surges forward at speeds of 10-20 mph",
+        "often without warning",
+        "making it difficult to maintain control",
+        "and potentially leading to accidents or near-misses."
+      ],
+      "odiNumbers": [
+        "482765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake and Rotor Wear",
+      "impact": "Excessive brake and rotor wear can lead to reduced stopping power, increased stopping distances, and increased risk of accidents. It can also cause vibrations, noise, and uneven brake pedal feel, which can be distracting and affect driver control.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when braking",
+        "uneven brake pedal feel",
+        "excessive brake dust",
+        "visible wear on brake pads and rotors."
+      ],
+      "odiNumbers": [
+        "959124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

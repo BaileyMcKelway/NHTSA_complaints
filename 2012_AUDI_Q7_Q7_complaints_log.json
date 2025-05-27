@@ -1,0 +1,178 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Leak/Failure",
+      "impact": "A fuel pump leak or failure can cause a strong gasoline smell, which can lead to a dangerous situation, potentially causing a fire or explosion. This can also lead to a loss of fuel, causing the vehicle to stall or become inoperable.",
+      "symptoms": [
+        "Strong gasoline smell",
+        "fuel dripping from the underside of the vehicle",
+        "fuel puddle near the fuel pump",
+        "fuel smell inside the cabin",
+        "fuel leak near the fuel filter housing."
+      ],
+      "odiNumbers": [
+        "11364394",
+        "11354305",
+        "11352544",
+        "11255926",
+        "11255933",
+        "10981377",
+        "10874392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Recall Repair",
+      "impact": "Inadequate repair of the fuel pump leak/failure during the recall process can lead to a continued risk of fuel leaks and fires, potentially causing harm to occupants and bystanders.",
+      "symptoms": [
+        "Fuel leak or smell after recall repair",
+        "inadequate repair or inspection during recall process",
+        "refusal to cover cost of replacement despite previous recall."
+      ],
+      "odiNumbers": [
+        "11352544",
+        "11255926",
+        "11255933"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed or Unavailable Recall Parts",
+      "impact": "Delayed or unavailable recall parts can lead to a prolonged risk of fuel leaks and fires, potentially causing harm to occupants and bystanders.",
+      "symptoms": [
+        "Delayed or unavailable parts for recall repair",
+        "inability to complete recall remedy due to lack of parts",
+        "no estimated time for receiving parts."
+      ],
+      "odiNumbers": [
+        "10927632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause coolant to leak, leading to low coolant levels, overheating, and potentially causing metal-to-metal contact, which can damage the engine.",
+      "symptoms": [
+        "Coolant leaks",
+        "low coolant level warning on the dash",
+        "overheating."
+      ],
+      "odiNumbers": [
+        "11364444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to premature engine wear, overheating, and potentially cause engine failure.",
+      "symptoms": [
+        "Oil consumption",
+        "low oil level warning",
+        "oil drips on the ground",
+        "oil burning fast."
+      ],
+      "odiNumbers": [
+        "11280524",
+        "11280019",
+        "11101473",
+        "11006007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "PCV (Pressure Control Valve) Failure",
+      "impact": "The failure of the PCV can cause oil to pass through and be consumed, leading to excessive oil consumption and potentially causing engine damage.",
+      "symptoms": [
+        "Low oil level warning",
+        "oil consumption",
+        "oil drips on the ground",
+        "PCV valve not closing properly."
+      ],
+      "odiNumbers": [
+        "11101473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Line Failure",
+      "impact": "The failure of the oil line can cause oil leaks, leading to low oil levels, engine damage, and potentially causing engine failure.",
+      "symptoms": [
+        "Oil leaks",
+        "oil drips on the ground",
+        "low oil level warning."
+      ],
+      "odiNumbers": [
+        "11280019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Harmonic Balancer Failure",
+      "impact": "The failure of the harmonic balancer can cause the serpentine belt to fall off, leading to a loss of power steering, making it difficult or impossible to steer, which can increase the risk of accidents.",
+      "symptoms": [
+        "The serpentine belt falls off",
+        "loss of power steering",
+        "difficulty steering",
+        "hesitation",
+        "jerky power",
+        "poor acceleration",
+        "warning lights illuminate (stability",
+        "tire pressure",
+        "anti-lock",
+        "etc.)",
+        "shaking steering wheel."
+      ],
+      "odiNumbers": [
+        "11327570",
+        "11301540",
+        "10872929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Power Loss and Electronic Control Issues",
+      "impact": "The intermittent power loss and electronic control issues can cause the vehicle to hesitate, jerk, or lose power, making it difficult to control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Intermittent power loss",
+        "hesitation",
+        "jerky power",
+        "poor acceleration",
+        "warning lights illuminate (stability",
+        "tire pressure",
+        "anti-lock",
+        "etc.)",
+        "shaking steering wheel."
+      ],
+      "odiNumbers": [
+        "10872929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

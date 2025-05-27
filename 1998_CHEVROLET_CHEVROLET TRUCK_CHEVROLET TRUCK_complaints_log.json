@@ -1,0 +1,144 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the brakes vibrate",
+        "the brakes do not stop effectively",
+        "the vehicle takes longer to stop than normal",
+        "the vehicle pulls to one side while braking",
+        "the brakes fail to properly stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10135004",
+        "10119882",
+        "10017425",
+        "567443",
+        "548868",
+        "710732",
+        "706863",
+        "542457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to fail, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes do not stop effectively",
+        "the vehicle takes longer to stop than normal",
+        "the brake pedal travels further than normal before engaging."
+      ],
+      "odiNumbers": [
+        "10017425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Sensor Failure",
+      "impact": "The failure of the brake sensor can cause the ABS system to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the brakes vibrate",
+        "the brakes do not stop effectively",
+        "the vehicle takes longer to stop than normal."
+      ],
+      "odiNumbers": [
+        "10119882",
+        "10017425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotor can cause the brakes to fail, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes vibrate",
+        "the brakes do not stop effectively",
+        "the vehicle takes longer to stop than normal",
+        "the brake rotor is excessively worn or grooved."
+      ],
+      "odiNumbers": [
+        "567443",
+        "706863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of the brake pad can cause the brakes to fail, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes vibrate",
+        "the brakes do not stop effectively",
+        "the vehicle takes longer to stop than normal",
+        "the brake pad is excessively worn or damaged."
+      ],
+      "odiNumbers": [
+        "567443",
+        "706863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to veer off course without assistance, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Popping sound while turning",
+        "vehicle veers in the direction of the turn without assistance",
+        "vehicle veers either direction on its own on straightaways",
+        "loss of pressure on the steering wheel",
+        "oversteering",
+        "intermittent steering failure when turning right."
+      ],
+      "odiNumbers": [
+        "10433754",
+        "10014535",
+        "560802",
+        "542338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Motor Failure",
+      "impact": "The failure of the windshield wiper motor can cause reduced visibility during inclement weather, increasing the risk of accidents.",
+      "symptoms": [
+        "The windshield wiper motor quits working",
+        "the wipers stop working during use",
+        "the wipers only work intermittently",
+        "the wipers stop working in the up position",
+        "the wipers can be temporarily restarted by moving the wiper switch or hitting the motor."
+      ],
+      "odiNumbers": [
+        "10127500",
+        "10137380",
+        "10108422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

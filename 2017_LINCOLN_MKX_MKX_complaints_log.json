@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose motive power, stall without warning, and experience power steering failure, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls without warning",
+        "the power steering shuts off",
+        "the vehicle comes to a complete stop",
+        "the check engine and traction control warning lights are illuminated."
+      ],
+      "odiNumbers": [
+        "11514440",
+        "11231310",
+        "11182361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The delay or unavailability of parts for recall repairs can cause inconvenience to the vehicle owner and may lead to safety issues if the recall is related to a critical system.",
+      "symptoms": [
+        "The contact is unable to schedule a recall repair due to parts unavailability",
+        "the contact is told to wait for an extended period for parts to arrive",
+        "the contact experiences frustration and inconvenience."
+      ],
+      "odiNumbers": [
+        "11348542",
+        "11342784",
+        "11340862",
+        "11338627",
+        "11330304",
+        "11327381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause accidents or leave the driver stranded, especially if it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the vehicle loses power",
+        "the power steering shuts off",
+        "the vehicle comes to a complete stop."
+      ],
+      "odiNumbers": [
+        "11231310",
+        "11182361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dashboard Defect and Airbag Assembly Concern",
+      "impact": "The lifting and bubbling of the passenger side dashboard can cause a serious safety hazard, potentially affecting the airbag assembly and its functionality.",
+      "symptoms": [
+        "The dashboard lifts from its mounting",
+        "bubbles up",
+        "and waffles across the top",
+        "migrating towards the airbag assembly."
+      ],
+      "odiNumbers": [
+        "11438436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Cable Chafing and Electrical Short",
+      "impact": "The chafing of the battery cable can cause an electrical short, leading to a potential fire hazard or loss of vehicle functionality.",
+      "symptoms": [
+        "None reported",
+        "as this is a recall notice (NHTSA 19V-809)."
+      ],
+      "odiNumbers": [
+        "11398634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Carbon Monoxide Leakage into Cabin",
+      "impact": "The leakage of carbon monoxide into the cabin can cause serious health risks, including headaches, dizziness, and even death.",
+      "symptoms": [
+        "Carbon monoxide levels in the cabin increase during highway driving",
+        "especially when climbing grades",
+        "and decrease when windows are opened."
+      ],
+      "odiNumbers": [
+        "11244588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust Leakage and Strong Odors",
+      "impact": "The leakage of exhaust gases into the cabin can cause serious health risks, including headaches, dizziness, and even death.",
+      "symptoms": [
+        "Strong smell of exhaust leakage or rotten eggs in the passenger cabin",
+        "which becomes stronger as vehicle speed increases",
+        "especially when the air conditioning is in use."
+      ],
+      "odiNumbers": [
+        "11156123",
+        "11015815",
+        "11014999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Hose Rupture",
+      "impact": "The rupture of the rear brake hose can cause brake fluid leakage, leading to a loss of braking performance, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "Brake fluid warning light is illuminated",
+        "brake fluid leaking from the rear brake lines",
+        "brake pedal has to be manually raised to the normal upright position",
+        "vehicle fails to come to a complete stop."
+      ],
+      "odiNumbers": [
+        "11528575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair for Rear Brake Hose",
+      "impact": "The delayed availability of parts for the recall repair can leave vehicles with a potentially faulty rear brake hose, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in receiving the recall repair."
+      ],
+      "odiNumbers": [
+        "11434192",
+        "11405537",
+        "11397311"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

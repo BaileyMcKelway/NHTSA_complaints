@@ -1,0 +1,150 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Digital Instrument Cluster Failure",
+      "impact": "The failure of the digital instrument cluster can cause a lack of vital information to the driver, such as speed, fuel level, and engine performance, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The digital instrument cluster lights flicker",
+        "the digital instrument cluster goes completely blank",
+        "the issue only occurs upon cold start",
+        "the lights come back on when the vehicle warms up."
+      ],
+      "odiNumbers": [
+        "10044739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to stall or fail to start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "Smoke comes out from the starter motor when the vehicle is started",
+        "the smoke disappears once the vehicle is moving for some time."
+      ],
+      "odiNumbers": [
+        "898319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadvertent Seat Belt Buckle Release",
+      "impact": "The unintended release of the seat belt buckle can lead to occupant ejection or failure to restrain, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle releases by itself",
+        "the seat belt will not retract",
+        "the seat belt is difficult to latch or unlatch."
+      ],
+      "odiNumbers": [
+        "848131",
+        "557945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose stopping power, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes fail to engage",
+        "the vehicle does not stop or slows down unexpectedly",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the vehicle crashes into another object or vehicle."
+      ],
+      "odiNumbers": [
+        "10364054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbag to deploy in the event of a crash can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "the airbag warning light is illuminated on the dashboard",
+        "the airbag module is faulty."
+      ],
+      "odiNumbers": [
+        "10364054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration due to Faulty Accelerator Pedal or Electronic Throttle Control",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, as the vehicle may accelerate suddenly and uncontrollably, even when the driver is attempting to brake or shift into park.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck to the floor",
+        "the vehicle accelerates on its own",
+        "the vehicle continues to accelerate even when in park or neutral",
+        "sudden and unexpected acceleration",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10303671"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Glare from SUV and Pickup Truck Headlights",
+      "impact": "The excessive glare from SUV and pickup truck headlights can cause temporary blindness, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Difficulty seeing the road ahead",
+        "temporary blindness",
+        "discomfort or pain in the eyes",
+        "inability to see pedestrians",
+        "other vehicles",
+        "or road obstacles."
+      ],
+      "odiNumbers": [
+        "759529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Improperly Aided Headlight Aim",
+      "impact": "Improperly aimed headlights can cause glare, reduce visibility, and increase the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Glare from oncoming traffic",
+        "difficulty seeing the road ahead",
+        "temporary blindness",
+        "discomfort or pain in the eyes",
+        "inability to see pedestrians",
+        "other vehicles",
+        "or road obstacles."
+      ],
+      "odiNumbers": [
+        "10814511",
+        "10593419",
+        "10494219",
+        "10465519",
+        "10383419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

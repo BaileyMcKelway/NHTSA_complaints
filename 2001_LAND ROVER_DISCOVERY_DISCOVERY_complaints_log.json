@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Suspension Failure (Upper Ball Joint Failure)",
+      "impact": "The failure of the upper ball joint can cause the front wheel to collapse, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The front wheel folds under the vehicle",
+        "the vehicle sways from side to side",
+        "loss of control",
+        "wheel collapse while parking or driving."
+      ],
+      "odiNumbers": [
+        "10021681",
+        "10011720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stabilizer Bar Failure",
+      "impact": "The failure of the stabilizer bar can cause the vehicle to sway from side to side, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle sways from side to side",
+        "loss of control",
+        "vehicle tips over",
+        "vehicle flips over."
+      ],
+      "odiNumbers": [
+        "10055351",
+        "10055355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-lock Braking System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the vehicle to lose braking functionality, leading to increased stopping distances and potentially resulting in accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the vehicle fails to brake properly",
+        "the traction control and down hill sensor warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "10695193",
+        "10127284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Corroded Brake Rotors",
+      "impact": "Corroded brake rotors can cause the brake pads to wear unevenly, leading to premature wear and potentially causing the ABS module to fail, which can lead to accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the brake pads wear unevenly",
+        "the brake rotors show signs of corrosion."
+      ],
+      "odiNumbers": [
+        "10127284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "Head gasket failure can cause engine overheating, leading to damage to other components, engine failure, and potentially leaving the driver stranded or causing an accident.",
+      "symptoms": [
+        "Coolant leakage",
+        "engine overheating",
+        "temperature gauge rising to high levels",
+        "red warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "10243994",
+        "10053652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Coolant Pressure Connection Failure",
+      "impact": "Failure of the coolant pressure connection can cause coolant leakage, leading to engine overheating, damage to other components, and potentially leaving the driver stranded or causing an accident.",
+      "symptoms": [
+        "Coolant leakage",
+        "engine overheating",
+        "temperature gauge rising to high levels",
+        "red warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "10053652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leaks and Failures",
+      "impact": "Fuel system leaks and failures can cause fuel to spray or leak out, leading to a potential fire hazard, especially when the tank is located near the exhaust system. This can also result in unexpected engine stalling, loss of power, and restricted performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "Strong fuel smell while driving",
+        "parked",
+        "or idling",
+        "fuel leaking from the top of the tank",
+        "fuel dripping from the inline filter",
+        "fuel pump failure",
+        "false fuel level readings",
+        "restricted performance warnings",
+        "and visible fuel leaks."
+      ],
+      "odiNumbers": [
+        "11571953",
+        "11375884",
+        "11280630",
+        "11220260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Filter/Flange Cracking",
+      "impact": "Cracking of the fuel filter/flange can cause fuel to spray out of the top of the tank, leading to a potential fire hazard, especially when the tank is located near the exhaust system.",
+      "symptoms": [
+        "Strong fuel smell",
+        "fuel leaking from the top of the tank",
+        "fuel dripping from the inline filter."
+      ],
+      "odiNumbers": [
+        "11375884",
+        "11280630"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Fuel pump failure can cause the engine to stall unexpectedly, leading to a loss of power and increasing the risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "false fuel level readings",
+        "restricted performance warnings."
+      ],
+      "odiNumbers": [
+        "11220260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "Fuel injector failure can cause fuel to leak, leading to a potential fire hazard, and can also result in restricted performance and engine stalling.",
+      "symptoms": [
+        "Fuel leaking",
+        "restricted performance warnings",
+        "visible fuel leaks."
+      ],
+      "odiNumbers": [
+        "11220260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure - Fuel Leak and Fuel Odor",
+      "impact": "The failure of the fuel system can cause fuel leaks, fuel odors, and engine stalling, which can lead to accidents, fires, or leave the driver stranded.",
+      "symptoms": [
+        "Strong gasoline odor inside the vehicle",
+        "fuel leaking from the fuel tank",
+        "fuel gauge showing incorrect readings",
+        "engine stalling",
+        "sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11489851",
+        "11446181",
+        "10355393"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect - Delayed Recall Repair",
+      "impact": "The delay in receiving recall repair parts can leave vehicles with critical safety issues unrepaired, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts not available",
+        "delayed repair",
+        "inability to schedule repair",
+        "manufacturer exceeding reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11467939",
+        "11446181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Flange Failure",
+      "impact": "The failure of the fuel tank flange can cause a fuel leak, leading to fuel fumes inside the vehicle, impairment to the driver's ability to operate the vehicle safely, and potentially causing accidents or near-collisions.",
+      "symptoms": [
+        "Fuel leak",
+        "fuel fumes inside the vehicle",
+        "impairment to the driver's ability to operate the vehicle safely",
+        "vehicle entering a gated mode",
+        "aggressive braking",
+        "engine breakdown",
+        "need for engine replacement",
+        "fluid in the engine."
+      ],
+      "odiNumbers": [
+        "11559318",
+        "11437272"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Disengagement Failure",
+      "impact": "The transmission disengaging from gear while driving can cause the vehicle to lose power and acceleration, leading to a loss of control, accidents, or near-misses.",
+      "symptoms": [
+        "The vehicle acts as if it's in neutral while in drive",
+        "the vehicle does not accelerate when pressing the gas pedal",
+        "the transmission drops out of gear",
+        "the engine revs excessively",
+        "the vehicle decelerates unexpectedly",
+        "\"Transmission Fault\" or similar error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11208504",
+        "11031662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the transmission ECM can cause the transmission to malfunction, leading to unexpected loss of power, acceleration, and control, which can result in accidents or near-misses.",
+      "symptoms": [
+        "The transmission drops out of gear",
+        "the engine revs excessively",
+        "the vehicle decelerates unexpectedly",
+        "\"Transmission Fault\" or similar error messages appear on the dashboard",
+        "the service engine light illuminates."
+      ],
+      "odiNumbers": [
+        "11031662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause fuel to leak onto the engine and surrounding components, creating a significant risk of fire and explosion. Additionally, fuel vapors can be inhaled by the rider, posing a health risk.",
+      "symptoms": [
+        "Fuel leaking from the fuel pump",
+        "fuel spilling onto the engine",
+        "fuel pump flange cracks",
+        "fuel pump housing failure."
+      ],
+      "odiNumbers": [
+        "11434688",
+        "10588441",
+        "10454834",
+        "10444670",
+        "10428629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Fuel Pump Leak",
+      "impact": "A cracked fuel pump can cause a fuel leak, which can lead to fuel landing on the rider during transit, creating a hazardous riding condition.",
+      "symptoms": [
+        "Fuel leak from the front left side of the engine",
+        "particularly after winter storage."
+      ],
+      "odiNumbers": [
+        "11513782",
+        "10428629",
+        ""
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Fuel Level Sensor",
+      "impact": "An inaccurate fuel level sensor can cause the fuel gauge to malfunction, leading to unexpected fuel depletion, which can result in running out of fuel while riding, potentially causing accidents.",
+      "symptoms": [
+        "Fuel gauge always shows empty",
+        "fuel gauge shows full all the time",
+        "inconsistent fuel level readings",
+        "running out of fuel unexpectedly."
+      ],
+      "odiNumbers": [
+        "10628565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Leak from Fuel Tank Threads",
+      "impact": "A fuel leak from the fuel tank threads can cause fuel to spill onto the rider or the road, creating a hazardous riding condition.",
+      "symptoms": [
+        "Fuel leak from the threads on the tank."
+      ],
+      "odiNumbers": [
+        "10504130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Throttle Control Cable Connections",
+      "impact": "Cracked throttle control cable connections can cause the throttles to return to idle without any ability to accelerate, leading to a loss of power and potential accidents, especially when traveling at high speeds.",
+      "symptoms": [
+        "Sudden loss of acceleration",
+        "throttles return to idle without warning",
+        "inability to accelerate",
+        "stuck or stuck-in-idle throttle."
+      ],
+      "odiNumbers": [
+        "11413715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Throttle Body Throttle Control Shafts",
+      "impact": "Faulty throttle body throttle control shafts can cause the throttles to return to idle without any ability to accelerate, leading to a loss of power and potential accidents, especially when traveling at high speeds.",
+      "symptoms": [
+        "Sudden loss of acceleration",
+        "throttles return to idle without warning",
+        "inability to accelerate",
+        "stuck or stuck-in-idle throttle."
+      ],
+      "odiNumbers": [
+        "11413715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Wheel Flange Failure",
+      "impact": "The failure of the rear wheel flange can cause a complete loss of control of the vehicle, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Cracking or breaking of the rear wheel flange",
+        "loss of rear wheel brake function",
+        "vibration or wobbling of the rear wheel",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10446835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

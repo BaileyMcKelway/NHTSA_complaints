@@ -1,0 +1,329 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly",
+        "the engine races",
+        "and the brakes are ineffective in stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "11543398",
+        "11308465",
+        "11256523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure/Malfunction",
+      "impact": "Brake failure or malfunction can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The brakes fail to engage",
+        "the vehicle accelerates unexpectedly",
+        "and the brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "11308465",
+        "11256523",
+        "10855545",
+        "10855337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Dynamic Radar Cruise Control (DRCC) Issues",
+      "impact": "Erratic behavior of the DRCC system can cause sudden braking, loss of vehicle control, and accidents.",
+      "symptoms": [
+        "The DRCC system applies the brakes for no apparent reason",
+        "slows down the vehicle suddenly",
+        "and can cause sudden acceleration."
+      ],
+      "odiNumbers": [
+        "10785402",
+        "10846295"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed or Unavailable Recall Repairs",
+      "impact": "Delayed or unavailable recall repairs can leave vehicles with safety defects on the road, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Vehicle owners receive recall notices",
+        "but parts are unavailable",
+        "or the manufacturer exceeds a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "10855545",
+        "10855337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injuries or fatalities, as it compromises the safety of the vehicle occupants.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbag fails to deploy in a crash",
+        "vehicle is involved in a collision",
+        "and occupants sustain injuries."
+      ],
+      "odiNumbers": [
+        "11317604",
+        "11290892",
+        "11203313",
+        "10854792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Brake pedal is depressed",
+        "but the vehicle fails to stop immediately",
+        "abnormal sound is heard when braking",
+        "and vehicle is involved in a collision."
+      ],
+      "odiNumbers": [
+        "11510448",
+        "11290892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a potential problem with the airbag system, which can lead to airbag failure in the event of a crash.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "and the vehicle is driven with a potential airbag system failure."
+      ],
+      "odiNumbers": [
+        "11282387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "The delay in recall repair can leave the vehicle in an unsafe condition, putting the occupants at risk of injury or fatality.",
+      "symptoms": [
+        "Vehicle is under recall",
+        "but parts are unavailable",
+        "and the manufacturer exceeds a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11317604",
+        "11316632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unwanted Pre-Collision System (PCS) Activation",
+      "impact": "The unwanted activation of the PCS can cause the vehicle to brake unexpectedly, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle brakes suddenly without warning",
+        "the PCS warning buzzer sounds",
+        "the vehicle stops or slows down unexpectedly",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor."
+      ],
+      "odiNumbers": [
+        "11518883",
+        "10864032",
+        "10823836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure or Extended Stopping Distance",
+      "impact": "The failure of the brake system can cause the vehicle to take longer to stop, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The brake pedal travels to the floorboard before stopping the vehicle",
+        "the brake sensor warning light illuminates",
+        "the vehicle fails to stop immediately",
+        "the braking distance is extended."
+      ],
+      "odiNumbers": [
+        "11328191",
+        "11093611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Delays or Unavailability",
+      "impact": "The delay or unavailability of recall repairs can leave vehicles with safety issues on the road, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The part to repair the vehicle is unavailable",
+        "the manufacturer exceeds a reasonable amount of time for the recall repair",
+        "the vehicle is not repaired despite a recall notification."
+      ],
+      "odiNumbers": [
+        "10959960",
+        "10823836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Failure",
+      "impact": "The failure of the windshield can cause visibility issues, leading to accidents or injuries.",
+      "symptoms": [
+        "Delamination of the glass along the perimeter where the windshield mounts onto the body of the car",
+        "cracks",
+        "or breaks in the windshield."
+      ],
+      "odiNumbers": [
+        "11460028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause accidents, injuries, or fatalities, especially if the vehicle is unable to stop or loses control.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often accompanied by a whirring or revving sound",
+        "and may not respond to braking."
+      ],
+      "odiNumbers": [
+        "11326182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Leaking Sunroof or Windshield",
+      "impact": "Water leaks can cause damage to the vehicle's interior, electrical systems, and potentially lead to safety issues.",
+      "symptoms": [
+        "Water leaks or moisture accumulation in the vehicle's interior",
+        "often traced to the sunroof or windshield area."
+      ],
+      "odiNumbers": [
+        "11288939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ineffective or Disabled Safety Features",
+      "impact": "The failure or disabling of safety features, such as the Pre-Collision System (PCS), can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The PCS system fails to function or is disabled",
+        "and the manufacturer or dealer may not provide a fix or refund."
+      ],
+      "odiNumbers": [
+        "10845856",
+        "10780434"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unaddressed Recalls",
+      "impact": "Unaddressed recalls can lead to safety issues, accidents, or injuries if the recalled component fails or malfunctions.",
+      "symptoms": [
+        "The vehicle owner receives a recall notice but does not receive a fix or update from the manufacturer",
+        "leaving the safety issue unresolved."
+      ],
+      "odiNumbers": [
+        "10898291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The electrical system malfunction can cause the display panel to short out, leading to the shutdown of various electronic devices, including lights, navigation, and stereo systems, which can increase the risk of accidents, especially when driving at night or in low-visibility conditions.",
+      "symptoms": [
+        "The display panel shuts down without warning",
+        "various electronic devices (lights",
+        "navigation",
+        "stereo system) malfunction or shut down",
+        "the dashboard makes a clicking noise",
+        "the vehicle's systems may not function properly",
+        "and the navigation system may stop working",
+        "leading to difficulties in navigating."
+      ],
+      "odiNumbers": [
+        "11089004",
+        "11062563",
+        "10965570",
+        "10734292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pre-Collision System (PCS) Failure",
+      "impact": "The failure of the PCS can increase the risk of accidents, as the system is designed to alert the driver of potential collisions and assist in avoiding or mitigating them.",
+      "symptoms": [
+        "The PCS system is disabled or malfunctioning",
+        "the system does not provide alerts or warnings",
+        "and the vehicle may not respond properly to potential collision scenarios."
+      ],
+      "odiNumbers": [
+        "10909274",
+        "10837093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition and Deck Lid Issues",
+      "impact": "The ignition and deck lid issues can cause the vehicle to start without occupant assistance, and the rear deck lid may open while driving, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle starts without occupant assistance",
+        "the rear deck lid opens while driving",
+        "the starter is rough",
+        "hesitant",
+        "or shuttering",
+        "and the vehicle may not start without multiple attempts."
+      ],
+      "odiNumbers": [
+        "10965570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

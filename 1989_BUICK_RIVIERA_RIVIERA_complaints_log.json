@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "FUEL SYSTEM",
+    "SEATS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to fail, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle does not stop or slows down slowly",
+        "the ABS light illuminates intermittently",
+        "the brake fluid level fluctuates",
+        "and the vehicle experiences total brake failure."
+      ],
+      "odiNumbers": [
+        "10208428",
+        "847954",
+        "844121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corroded Cradle Bolts and Retainers",
+      "impact": "The corrosion of the cradle bolts and retainers can cause the loss of steering control, leading to accidents and potential fatalities.",
+      "symptoms": [
+        "The cradle bolts and retainers are severely corroded",
+        "rusted",
+        "or broken",
+        "which can cause the engine cradle to fail",
+        "leading to loss of steering control."
+      ],
+      "odiNumbers": [
+        "753555",
+        "9000978"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cradle Rust and Corrosion",
+      "impact": "The rusted-through engine cradle and broken, rusty bolts can cause a loss of steering control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Drifting or wandering on the highway",
+        "especially in icy conditions",
+        "difficulty steering",
+        "loose or unstable steering",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "722279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Front Seat Hydraulic Mechanism",
+      "impact": "The failure of the front seat hydraulic mechanism can cause the seat to lunge forward during stops, potentially leading to serious injury or fatality, even when wearing a safety belt.",
+      "symptoms": [
+        "The back part of the front seats moves forward suddenly during stops",
+        "the seat does not remain in a fixed position",
+        "the seat does not engage properly with the seat mechanism",
+        "the seat feels unstable or loose."
+      ],
+      "odiNumbers": [
+        "722281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Panel Electrical Short",
+      "impact": "The electrical short in the instrument panel can cause the computer screen to malfunction, leading to a loss of vital information and potentially distracting the driver, which can increase the risk of accidents.",
+      "symptoms": [
+        "The computer screen on the instrument panel blinks off and on",
+        "the screen displays erratic or incorrect information",
+        "the screen is unresponsive or freezes."
+      ],
+      "odiNumbers": [
+        "826915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

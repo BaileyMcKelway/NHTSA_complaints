@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Loose Steering Column Bolts",
+      "impact": "Loose steering column bolts can cause the steering wheel to move freely, leading to a loss of vehicle control, which can result in accidents or injuries.",
+      "symptoms": [
+        "The steering wheel moves freely",
+        "the steering wheel has excessive play",
+        "the steering wheel is loose",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "826473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "Failure of the rack and pinion steering can cause the steering wheel and column to lock up, leading to a loss of vehicle control, which can result in accidents or injuries.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the steering wheel is difficult to turn",
+        "the steering wheel requires excessive force to turn",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "984755",
+        "501934",
+        "960590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Increased Steering Effort",
+      "impact": "Increased steering effort can make it difficult to control the vehicle, especially during low-speed maneuvers or in cold weather, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The steering wheel is difficult to turn",
+        "the steering wheel requires excessive force to turn",
+        "the vehicle is difficult to steer",
+        "especially during low-speed maneuvers or in cold weather."
+      ],
+      "odiNumbers": [
+        "978196",
+        "965163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to injuries or fatalities in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt fails to pull out",
+        "the seat belt locks up before latching",
+        "the seat belt does not buckle",
+        "the seat belt breaks",
+        "the seat belt does not restrain the occupant in a crash."
+      ],
+      "odiNumbers": [
+        "9001509",
+        "510821",
+        "803659",
+        "967800",
+        "966470",
+        "966194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Control Malfunction",
+      "impact": "The malfunction of the throttle control can cause unintended acceleration, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The accelerator cable sticks",
+        "the vehicle accelerates unexpectedly",
+        "the engine surges",
+        "the vehicle is difficult to control",
+        "near-accidents or accidents occur."
+      ],
+      "odiNumbers": [
+        "509628",
+        "801322",
+        "506996"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

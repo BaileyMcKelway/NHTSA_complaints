@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ENGINE",
+    "TIRES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the occupants, compromising their safety.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "potentially leading to injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10008636",
+        "10007338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause distraction, loss of control, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "without a crash or significant impact",
+        "potentially causing the driver to lose control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10443494"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Brake Failure and ABS/Tracton Control Issues",
+      "impact": "The intermittent brake failure and illumination of ABS and traction control warning lights can cause a loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brakes momentarily lock",
+        "the airbag light illuminates on the dashboard",
+        "the ABS and traction control lights illuminate on the dashboard",
+        "the brakes appear to work normally but warning lights are present."
+      ],
+      "odiNumbers": [
+        "10366431",
+        "10014108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Camshaft Chain Guide Failure",
+      "impact": "The fracture of the camshaft chain guides can lead to catastrophic engine failure, resulting in costly repairs or even requiring the vehicle to be junked.",
+      "symptoms": [
+        "Plastic and metal shavings observed in the lower oil pan",
+        "jump in timing",
+        "engine failure",
+        "and potentially catastrophic consequences."
+      ],
+      "odiNumbers": [
+        "10810495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sidewall Blowout in Kuhmo Z-Rated Tires",
+      "impact": "A sudden sidewall blowout can cause loss of vehicle control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sidewall blowout without any external damage",
+        "sudden loss of air pressure",
+        "loud noise",
+        "and vibration."
+      ],
+      "odiNumbers": [
+        "10194218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure and Leakage",
+      "impact": "The failure of the automatic transmission can cause the vehicle to slip or hesitate when shifting gears, leading to loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting gears",
+        "the transmission leaks fluid",
+        "the vehicle experiences difficulty shifting into gear",
+        "the vehicle experiences sudden loss of power",
+        "the vehicle's engine RPMs fluctuate erratically."
+      ],
+      "odiNumbers": [
+        "10143533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

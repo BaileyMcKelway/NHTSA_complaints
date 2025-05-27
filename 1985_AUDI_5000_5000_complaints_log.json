@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VISIBILITY",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Differential Failure",
+      "impact": "Differential failure can cause loss of control, accidents, and injuries due to the vehicle locking up or slipping out of gear.",
+      "symptoms": [
+        "Vehicle slips out of gear",
+        "gear lever sticks",
+        "differential failure causing front wheel to lock up",
+        "loss of control",
+        "accidents",
+        "injuries."
+      ],
+      "odiNumbers": [
+        "537424",
+        "486456",
+        "481297",
+        "480410",
+        "476159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure/Lock-up",
+      "impact": "Transmission failure or lock-up can cause sudden acceleration, accidents, and injuries due to the vehicle's inability to shift gears properly.",
+      "symptoms": [
+        "Transmission locked up",
+        "gear shift failed",
+        "transmission locked in reverse",
+        "sudden acceleration",
+        "accidents",
+        "injuries."
+      ],
+      "odiNumbers": [
+        "501099",
+        "488784",
+        "478270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "Issues with recall repairs can lead to continued transmission or differential problems, causing accidents, injuries, and financial losses for owners.",
+      "symptoms": [
+        "Transmission failure after recall work",
+        "lower level of oil lubricating bearings/seal failure",
+        "seeking reimbursement for repairs."
+      ],
+      "odiNumbers": [
+        "971286",
+        "501099",
+        "478270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Accessories Failure",
+      "impact": "The failure of electrical accessories such as sunroofs, power windows, and power mirrors can cause inconvenience and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The sunroof does not open or close",
+        "the power windows do not roll up or down",
+        "the power mirrors do not adjust or fold",
+        "multiple electrical accessories fail simultaneously."
+      ],
+      "odiNumbers": [
+        "484377",
+        "485221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause a loss of steering assist, making it difficult to control the vehicle, especially at low speeds, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The power steering pump fails",
+        "the power steering rack fails",
+        "the hydraulic system leaks",
+        "the vehicle is difficult to steer",
+        "the vehicle requires increased effort to steer",
+        "the power steering warning light illuminates."
+      ],
+      "odiNumbers": [
+        "485960",
+        "484377",
+        "485221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

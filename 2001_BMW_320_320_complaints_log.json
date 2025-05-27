@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRONIC STABILITY CONTROL (ESC)",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling Fan Failure",
+      "impact": "The failure of the cooling fan can cause rapid overheating, coolant loss, and engine damage, potentially leading to accidents, fires, or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "rapid temperature increase",
+        "smoke coming out of the hood",
+        "coolant leakage",
+        "red temperature indicator light",
+        "and loss of visibility."
+      ],
+      "odiNumbers": [
+        "747261",
+        "746951",
+        "746762",
+        "746726",
+        "746659",
+        "746628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Braking due to Yaw Rate Sensor Failure",
+      "impact": "The sudden and unintended activation of the brakes can cause loss of control, accidents, and potentially serious injuries or fatalities, especially when traveling at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly and unexpectedly brakes",
+        "often without warning",
+        "while driving at moderate to high speeds",
+        "resulting in a loss of control",
+        "skidding",
+        "or sudden stops."
+      ],
+      "odiNumbers": [
+        "10471685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause the engine to overheat, leading to engine damage, and in extreme cases, engine compartment fires, which can result in a total loss of the vehicle and pose a significant risk to the driver and passengers.",
+      "symptoms": [
+        "The temperature gauge rises to the red zone",
+        "the engine overheats",
+        "steam or smoke comes from the hood",
+        "the coolant level drops",
+        "the vehicle loses power",
+        "the engine compartment catches fire."
+      ],
+      "odiNumbers": [
+        "746692"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Optical Distortion",
+      "impact": "The optical distortion through the windshield can cause driver discomfort, eye strain, and reduced visibility, which can lead to accidents or near-miss incidents.",
+      "symptoms": [
+        "The windshield appears to be warped or curved",
+        "causing a distorted view of the road",
+        "objects appear to be bent or bowed",
+        "the driver experiences eye strain or discomfort",
+        "the windshield has a \"wavy\" or \"rippled\" appearance."
+      ],
+      "odiNumbers": [
+        "737207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

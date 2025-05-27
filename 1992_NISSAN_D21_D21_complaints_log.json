@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle/Latch Failure",
+      "impact": "The failure of the seat belt buckle or latch can lead to inadequate restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle or latch fails to stay locked",
+        "the seat belt pops loose while in use",
+        "the wires associated with the buckle or latch are fraying",
+        "the buckle or latch falls off."
+      ],
+      "odiNumbers": [
+        "828732",
+        "980363",
+        "961513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Seat Belt Retention",
+      "impact": "Inadequate seat belt retention can lead to inadequate restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not lock tightly",
+        "the seat belt feels loose while in use."
+      ],
+      "odiNumbers": [
+        "828732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, and fatalities. It can also result in damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Sudden and unexpected separation of the tire tread from the tire",
+        "often accompanied by a loud noise",
+        "vibration",
+        "or loss of control. The separated tread can hit the vehicle's body",
+        "causing damage."
+      ],
+      "odiNumbers": [
+        "749812",
+        "731207",
+        "867081",
+        "6141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Relay Failure",
+      "impact": "The failure of the starter relay can prevent the vehicle from starting, leaving the driver stranded and potentially causing safety risks in certain situations.",
+      "symptoms": [
+        "The vehicle is impossible to start",
+        "the engine does not crank",
+        "the starter relay fails repeatedly."
+      ],
+      "odiNumbers": [
+        "875779",
+        "973521",
+        "958762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Rust and Structural Failure",
+      "impact": "The excessive rust and structural weakness of the frame can lead to catastrophic failure, causing the vehicle to break in half, which can result in serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Excessive rust and corrosion on the frame",
+        "cracks on the frame",
+        "frame rails hanging by the fuel and brake lines",
+        "frame failure without visible signs of damage",
+        "sudden collapse of the vehicle."
+      ],
+      "odiNumbers": [
+        "10610587",
+        "10504410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Failure",
+      "impact": "The transmission slipping and failure can cause loss of vehicle control, accidents, and expensive repairs.",
+      "symptoms": [
+        "Transmission slips from 1st to 2nd gear",
+        "transmission slips in overdrive",
+        "transmission downshifts from 3rd to 2nd gear with a bump",
+        "grinding noise when shifting gears",
+        "transmission jumps out of gear."
+      ],
+      "odiNumbers": [
+        "509162",
+        "958762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Solenoid and Valve Body Failure",
+      "impact": "The failure of the solenoid and valve body can cause transmission problems, leading to loss of vehicle control and accidents.",
+      "symptoms": [
+        "Overdrive switch inoperative",
+        "transmission slipping and failure",
+        "grinding noise when shifting gears."
+      ],
+      "odiNumbers": [
+        "509162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Cable Sticking",
+      "impact": "The sticking of the throttle cable can cause the vehicle to accelerate uncontrollably, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The throttle cable becomes stuck",
+        "causing the vehicle to accelerate rapidly",
+        "the accelerator pedal becomes stuck",
+        "the vehicle fails to respond to attempts to slow down",
+        "the vehicle's speed becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "806621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Speed Control Sensor",
+      "impact": "A faulty speed control sensor can cause issues with the vehicle's anti-lock braking system (ABS), leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the vehicle's brakes do not function properly",
+        "the vehicle's speed sensor malfunctions",
+        "the vehicle's braking performance is reduced."
+      ],
+      "odiNumbers": [
+        "807792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "A faulty seat belt buckle can lead to ineffective restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver-side seat belt buckle is broken",
+        "the passenger-side seat belt buckle comes loose during sudden stops",
+        "difficulty securing the seat belt."
+      ],
+      "odiNumbers": [
+        "967239",
+        "504438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inconvenient Recall Repair Scheduling",
+      "impact": "Delays in scheduling recall repairs can prolong the exposure to safety risks associated with faulty seat belt buckles, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Difficulty scheduling an appointment for recall repairs",
+        "location-related issues hindering access to repair services."
+      ],
+      "odiNumbers": [
+        "504438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Failure in Heavy Rain",
+      "impact": "The failure of the ABS brakes in heavy rain can lead to increased stopping distances, reduced vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The ABS brakes fail to engage or malfunction during heavy rain",
+        "the vehicle takes longer to stop",
+        "the vehicle pulls to one side while braking",
+        "the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "972606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Spring Failure",
+      "impact": "The failure of the rear brake springs can cause uneven brake wear, reduced braking performance, and increased risk of accidents.",
+      "symptoms": [
+        "The rear brake springs break or fail",
+        "the rear brakes drag or make noise",
+        "the vehicle pulls to one side while braking",
+        "the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "479572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Axle Shaft Failure",
+      "impact": "The failure of the axle shaft can cause the wheel to come loose or detach while driving, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The axle shaft is loose and moves back and forth",
+        "the CV joint is damaged or destroyed",
+        "the boot is torn",
+        "the wheel is wobbly or loose."
+      ],
+      "odiNumbers": [
+        "8013783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "CV Joint Failure",
+      "impact": "The failure of the CV joint can cause the axle shaft to fail, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The CV joint is damaged or destroyed",
+        "the boot is torn",
+        "the axle shaft is loose and moves back and forth",
+        "the wheel is wobbly or loose."
+      ],
+      "odiNumbers": [
+        "8013783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Belt Separation",
+      "impact": "The separation of the tire belt can cause a loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "A \"whumping\" or thumping noise while driving",
+        "visible signs of tire damage",
+        "such as bulges or cracks",
+        "and loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "731567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

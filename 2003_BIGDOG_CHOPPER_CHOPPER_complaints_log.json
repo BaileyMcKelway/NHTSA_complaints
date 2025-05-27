@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "TIRES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Cracking and Repair Delays",
+      "impact": "Frame cracking can lead to a loss of vehicle control, increasing the risk of accidents and injuries. Delays in repairing the frame can leave the vehicle unusable for an extended period, causing inconvenience to the owner.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall notice and repair delays."
+      ],
+      "odiNumbers": [
+        "10067105",
+        "10066582",
+        "10065404",
+        "10065001",
+        "10063184",
+        "10061663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Kick Stand Failure",
+      "impact": "A broken kick stand can cause the vehicle to fall, leading to damage or injury.",
+      "symptoms": [
+        "The kick stand breaks",
+        "causing the vehicle to fall."
+      ],
+      "odiNumbers": [
+        "10064814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation Due to Mold Closure Issue",
+      "impact": "The separation of the tire tread can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The rubber tread peels off the tire",
+        "exposing the underlying layers",
+        "which can cause vibration",
+        "noise",
+        "and loss of traction."
+      ],
+      "odiNumbers": [
+        "10115079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Wiring Malfunction",
+      "impact": "The malfunction of the electrical wiring can cause critical safety systems such as brake lights and turn signals to fail, increasing the risk of accidents and reducing the vehicle's visibility to other road users.",
+      "symptoms": [
+        "Brake lights do not function",
+        "turn signals do not function",
+        "multiple electrical systems fail simultaneously",
+        "intermittent electrical system failures",
+        "difficulty diagnosing the root cause of the problem."
+      ],
+      "odiNumbers": [
+        "10117753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

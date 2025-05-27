@@ -1,0 +1,159 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Crank Bearing Failure",
+      "impact": "Engine failure can cause a loss of power, leading to accidents or leaving the driver stranded. This can be a safety hazard, especially when driving at high speeds.",
+      "symptoms": [
+        "Loss of acceleration",
+        "strange noise from the engine compartment",
+        "oil pressure problem reading",
+        "engine shutdown."
+      ],
+      "odiNumbers": [
+        "11509063",
+        "11502081",
+        "11496037",
+        "11427220",
+        "11415747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure due to Axle Rod Detachment",
+      "impact": "Engine failure can cause a loss of power, leading to accidents or leaving the driver stranded. This can be a safety hazard, especially when driving at high speeds.",
+      "symptoms": [
+        "Abnormal rattling sound",
+        "smoke coming from under the hood",
+        "oil leaking from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "11427220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure due to Unknown Causes",
+      "impact": "Engine failure can cause a loss of power, leading to accidents or leaving the driver stranded. This can be a safety hazard, especially when driving at high speeds.",
+      "symptoms": [
+        "Inability to accelerate or maintain speed",
+        "engine shutdown."
+      ],
+      "odiNumbers": [
+        "11415747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure Causing Vehicle to Lock into Neutral or Park",
+      "impact": "The transmission failure can cause the vehicle to suddenly lock into neutral or park while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle locks into neutral or park while driving",
+        "the vehicle stalls or stops running",
+        "the dashboard indicators flicker or go blank",
+        "the emergency brake locks",
+        "and the passenger door may not open."
+      ],
+      "odiNumbers": [
+        "11467100",
+        "11438218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Vibrating and Stalling",
+      "impact": "The engine vibrating and stalling can cause the vehicle to lose power and stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine vibrates",
+        "the vehicle stalls or stops running",
+        "the passenger compartment fills with smoke",
+        "the dashboard indicators go haywire",
+        "and the valve lifter may crack."
+      ],
+      "odiNumbers": [
+        "11438218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure Causing Dashboard Malfunction",
+      "impact": "The electrical system failure can cause the dashboard indicators to malfunction, leading to a loss of critical information and increasing the risk of accidents.",
+      "symptoms": [
+        "The dashboard indicators flicker or go blank",
+        "the ignition wiring is faulty",
+        "and the electric module may burn out."
+      ],
+      "odiNumbers": [
+        "11438218",
+        "11394848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Brightness of Tail Lights",
+      "impact": "The excessively bright tail lights can cause glare and discomfort to other drivers, potentially leading to accidents or distractions on the road.",
+      "symptoms": [
+        "The tail lights are intensely bright",
+        "causing glare or discomfort to other drivers."
+      ],
+      "odiNumbers": [
+        "11441002",
+        "11515958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Automatic Emergency Braking (AEB) Activation",
+      "impact": "The sudden and unexpected activation of the automatic emergency braking system can cause the vehicle to slow down or stop abruptly, increasing the risk of rear-end collisions or other accidents.",
+      "symptoms": [
+        "The vehicle's brakes lock up or slow down suddenly without any apparent reason",
+        "the vehicle skids or stops abruptly",
+        "no warning lights or indications of malfunction are present."
+      ],
+      "odiNumbers": [
+        "11422597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Supercruise Driver Assistance System Malfunction",
+      "impact": "The malfunction of the Supercruise system can cause the vehicle to slow down or lose control, leading to potential accidents or collisions, especially when the system fails to recognize the driver's input and attempts to regain control.",
+      "symptoms": [
+        "The Supercruise system fails to turn off or disengage",
+        "the vehicle slows down or turns on the flashers",
+        "the system announces \"Take Control of the Vehicle\" despite the driver's attempts to regain control",
+        "the vehicle fights the driver's input and does not allow acceleration to keep up with traffic."
+      ],
+      "odiNumbers": [
+        "11422643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

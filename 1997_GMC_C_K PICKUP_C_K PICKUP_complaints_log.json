@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Motor Failure",
+      "impact": "The failure of the windshield wiper motor can cause the wipers to stop working or work intermittently, reducing visibility during rain or snow, which can lead to accidents.",
+      "symptoms": [
+        "Windshield wipers stop working or work intermittently",
+        "wipers do not turn off after turning on",
+        "wipers do not return to \"home\" position",
+        "washer fluid pumps do not work",
+        "wipers work for a short time and then stop."
+      ],
+      "odiNumbers": [
+        "10203369",
+        "10192082",
+        "10138751",
+        "10135676",
+        "10129759",
+        "10093775",
+        "10091043",
+        "10083758",
+        "10068374",
+        "10004276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Irregular Anti-Lock Brake System (ABS) Activation",
+      "impact": "The irregular activation of the ABS can cause the vehicle to take longer to stop, increasing the stopping distance, and potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The ABS engages at low speeds",
+        "typically under 10 mph",
+        "causing the brake pedal to pulsate or vibrate",
+        "and the vehicle to slow down erratically or not slow down at all",
+        "even when the brake pedal is pressed firmly."
+      ],
+      "odiNumbers": [
+        "10237641",
+        "10167767",
+        "10134809",
+        "10134030",
+        "10120917",
+        "10082407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Power Steering Failure",
+      "impact": "The intermittent failure of the power steering system can cause loss of control, making it difficult to steer the vehicle, especially during turns, which can lead to accidents.",
+      "symptoms": [
+        "The steering feels stiff or hard",
+        "the steering wheel jerks or grabs",
+        "power steering locks up or fails intermittently",
+        "especially during left-hand turns",
+        "difficulty turning at slow speeds or when sitting still",
+        "notchy or uneven steering feel."
+      ],
+      "odiNumbers": [
+        "10188296",
+        "10111849",
+        "10105783",
+        "10090459",
+        "10064037",
+        "10053118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

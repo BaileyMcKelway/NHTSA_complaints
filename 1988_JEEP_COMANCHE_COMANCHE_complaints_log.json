@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to become inoperable, increasing the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle does not remain in the latch mechanism",
+        "the seat belt buckle does not latch",
+        "the seat belt release button is defective",
+        "the seat belt buckle fastens and then pops out with any movement",
+        "the seat belt will not stay fastened."
+      ],
+      "odiNumbers": [
+        "881682",
+        "843350",
+        "985291",
+        "968697",
+        "966249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, increasing the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt retractor does not retract backward",
+        "the seat belt retractor/belt clip fails."
+      ],
+      "odiNumbers": [
+        "807597",
+        "482650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headliner Detachment",
+      "impact": "The sudden detachment of the headliner while driving can cause a distraction to the driver, potentially leading to accidents or injuries. Additionally, the exposure of fiberglass material underneath the headliner can cause skin irritation or other health issues.",
+      "symptoms": [
+        "The headliner falls or detaches from the roof of the vehicle while driving",
+        "exposing the underlying fiberglass material",
+        "and potentially causing skin contact or irritation."
+      ],
+      "odiNumbers": [
+        "979881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the Engine Control Module (ECM) can cause the engine to stall or fail to start, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "the engine fails to start",
+        "the check engine light is illuminated",
+        "the vehicle experiences poor engine performance",
+        "the vehicle experiences reduced power or hesitation."
+      ],
+      "odiNumbers": [
+        "533575",
+        "10514419",
+        "10494511",
+        "10484519",
+        "10474419",
+        "10464419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

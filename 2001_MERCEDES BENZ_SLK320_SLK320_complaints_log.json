@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintentional Braking due to Faulty YAW Sensor and Lateral Movement Sensor",
+      "impact": "The sudden and unpredictable application of brakes can cause loss of control, accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The brakes apply randomly at various speeds",
+        "causing the vehicle to jerk or swerve",
+        "often accompanied by a scraping noise. The BAS/ESP light may come on",
+        "and the vehicle may become undrivable."
+      ],
+      "odiNumbers": [
+        "11465574",
+        "11058422",
+        "10458158",
+        "10457096",
+        "10436485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Brake Light Mechanism",
+      "impact": "The failure of the brake light mechanism can cause the brake lights to malfunction, leading to a potential rear-end crash.",
+      "symptoms": [
+        "Brake lights not working",
+        "brake lights not illuminating",
+        "brake lights failing repeatedly",
+        "thermal deformation of the socket base",
+        "failure of brake lamp bulbs to illuminate."
+      ],
+      "odiNumbers": [
+        "10934304",
+        "10876361",
+        "10532783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Electrical Components (Relay, On-Board Computers, Cooling Fan Control Monitor)",
+      "impact": "The failure of electrical components can cause various systems to malfunction, leading to safety issues, such as overheating engines, and inconvenience to the driver.",
+      "symptoms": [
+        "Electric seats not working",
+        "relay failure",
+        "on-board computer failure",
+        "cooling fan control monitor failure",
+        "engine overheating",
+        "short circuit inside the electrical system."
+      ],
+      "odiNumbers": [
+        "10934304",
+        "10450841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Light Failure Due to Heat Deformed Bulb Socket",
+      "impact": "The failure of the rear brake lights can increase the risk of accidents, as other drivers may not be aware of the vehicle's braking intentions, leading to potential rear-end collisions.",
+      "symptoms": [
+        "The rear brake lights do not illuminate",
+        "the brake lights are dim or flickering",
+        "the brake light assembly is damaged or deformed."
+      ],
+      "odiNumbers": [
+        "10670551",
+        "10660551",
+        "10631225",
+        "10548345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Brake Activation by Stability Control System",
+      "impact": "The unintended activation of the brakes by the stability control system can cause the vehicle to suddenly slow down or stop, leading to a loss of control, accidents, or near-misses, which can put the driver and other motorists at risk of injury or death.",
+      "symptoms": [
+        "The brakes are applied suddenly and without warning",
+        "the vehicle yaws or skids",
+        "the ESP warning light illuminates",
+        "the BAS/ESP warning light illuminates",
+        "the vehicle rumbles or vibrates",
+        "the vehicle stops or slows down unexpectedly."
+      ],
+      "odiNumbers": [
+        "11363629",
+        "11344210",
+        "10669916"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

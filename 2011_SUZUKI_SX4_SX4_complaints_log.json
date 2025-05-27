@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Body Control Module (BCM) Failure",
+      "impact": "The failure of the BCM can cause a short circuit, leading to a range of electrical issues, including malfunctioning power locks, daytime running lights, and automatic indoor dome lights. This can lead to safety issues, such as the rear hatch unlocking and unlatching while driving, and reduced visibility due to disabled daytime running lights.",
+      "symptoms": [
+        "The rear hatch partially unlocks and unlatches itself while driving",
+        "power locks malfunction",
+        "daytime running lights and automatic indoor dome lights stop working",
+        "vehicle stalls without warning",
+        "difficulty steering when electrical power fails",
+        "only the engine symbol appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11242067",
+        "10711808",
+        "10621444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall without warning, making it difficult to steer, and potentially leading to accidents.",
+      "symptoms": [
+        "Vehicle stalls without warning",
+        "difficulty steering when electrical power fails",
+        "only the engine symbol appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "10711808",
+        "10621444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Pressure Control Shift Solenoid Failure",
+      "impact": "The failure of the pressure control shift solenoid can cause the vehicle to lose acceleration, leading to a loss of power and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle will not accelerate over 20 mph",
+        "the check engine warning indicator illuminates",
+        "the transmission slips out of gear while driving",
+        "the dashboard computer may change from drive to reverse",
+        "park",
+        "or neutral while the car is in motion."
+      ],
+      "odiNumbers": [
+        "11131013",
+        "10693259",
+        "10384111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Slipping Out of Gear",
+      "impact": "The transmission slipping out of gear can cause the vehicle to lose power and control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips out of gear while driving",
+        "the dashboard computer may change from drive to reverse",
+        "park",
+        "or neutral while the car is in motion."
+      ],
+      "odiNumbers": [
+        "10384111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of a crash, resulting in increased risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The airbag warning light illuminates on the instrument panel",
+        "the passenger side airbag warning light remains illuminated despite the passenger seat being occupied",
+        "the airbags fail to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10681597",
+        "10661176",
+        "10650864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

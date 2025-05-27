@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "AIR BAGS",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seat Belt Retractor Failure",
+      "impact": "The failure of the front seat belt retractor can cause the seat belt to become loose or stuck, which can lead to inadequate protection in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt does not lock or retract properly",
+        "the seat belt is loose",
+        "the seat belt will not pull out",
+        "the seat belt is stuck",
+        "the seat belt does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10054434",
+        "885540",
+        "785168",
+        "733478",
+        "836709",
+        "806857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Non-Deployment in Crash Situations",
+      "impact": "The failure of airbags to deploy in crash situations can increase the risk of serious injury or death to vehicle occupants, as they are not provided with the intended protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "even with significant damage to the vehicle",
+        "occupants may experience injuries that could have been mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "531817",
+        "523595"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Separation/Failure",
+      "impact": "Sudden tire separation or failure can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tires turn into an \"egg\" shape",
+        "become undrivable",
+        "and may cause the vehicle to be extremely difficult to control."
+      ],
+      "odiNumbers": [
+        "8023844",
+        "531817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

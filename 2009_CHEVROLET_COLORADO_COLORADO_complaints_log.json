@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 67,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent No-Start Condition due to Passlock Sensor Failure",
+      "impact": "The failure of the Passlock sensor can cause the vehicle to not start, leaving the driver stranded, which can be a safety concern, especially in remote areas or during emergency situations.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the Passlock security light will flash",
+        "and the vehicle will not crank until the light goes off",
+        "which can take around 10-15 minutes."
+      ],
+      "odiNumbers": [
+        "11074525",
+        "11055602",
+        "11055604",
+        "11021808",
+        "10967682",
+        "10967821",
+        "10933897",
+        "10926038",
+        "10925065",
+        "10668213",
+        "10662702",
+        "10653213",
+        "10628759",
+        "10628761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or lose power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle will stall or lose power",
+        "the instrument panel lights will dim",
+        "and the ABS and brake warning indicators will illuminate."
+      ],
+      "odiNumbers": [
+        "10853506",
+        "10812031",
+        "10786600",
+        "10780941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to not start, which can be a safety concern, especially in remote areas or during emergency situations.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the ignition switch will need to be replaced",
+        "and the Passlock security light will flash."
+      ],
+      "odiNumbers": [
+        "10713786",
+        "10668213"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Light Switch Failure",
+      "impact": "The failure of the brake light switch can cause the brake lights to malfunction, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake lights will not function properly",
+        "and the brake warning indicator will illuminate."
+      ],
+      "odiNumbers": [
+        "11099891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Control Module Failure",
+      "impact": "The failure of the fuel system control module can cause intermittent loss of power, stalling, and rapid acceleration, leading to hazardous driving conditions and increasing the risk of accidents.",
+      "symptoms": [
+        "Intermittent loss of power when pressing the gas pedal",
+        "bucking",
+        "stalling",
+        "sudden rapid acceleration",
+        "engine light illumination",
+        "failure to start",
+        "and water in the fuel module."
+      ],
+      "odiNumbers": [
+        "11288200",
+        "11066662",
+        "10734444",
+        "10715120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Line Corrosion",
+      "impact": "Corrosion of the fuel pump line can cause major fuel leakage, leading to an extreme fire hazard and toxic gas fumes inside the vehicle.",
+      "symptoms": [
+        "Fuel leakage",
+        "fuel pump module failure",
+        "and toxic gas fumes inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11288206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Gas pedal sticking wide open",
+        "sudden full acceleration",
+        "and loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11191731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag system fails to deploy in the event of a crash",
+        "wires fractured in the airbag wire harness",
+        "broken wire in the harness."
+      ],
+      "odiNumbers": [
+        "11526829",
+        "10790313",
+        "10783060",
+        "10683706",
+        "10321098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

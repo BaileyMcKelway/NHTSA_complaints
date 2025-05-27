@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences a lack of power",
+        "the alternator fails",
+        "spark plugs need to be replaced",
+        "the ignition coil fails",
+        "electrical wires short",
+        "fuses blow",
+        "and the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause loss of power steering assist, making it difficult to steer the vehicle, especially at low speeds, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering system makes a loud whining or grinding noise",
+        "the power steering fluid is leaking",
+        "the steering wheel feels stiff or hard to turn",
+        "the vehicle is difficult to steer",
+        "especially at low speeds."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Component Failure",
+      "impact": "The failure of steering system components, such as the tie rod, can cause loss of steering control, making it difficult to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel feels loose or wobbly",
+        "the vehicle pulls to one side while driving",
+        "the steering system makes a loud clunking or knocking noise",
+        "the tie rod is damaged or broken."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joint can cause loss of control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "The vehicle may experience uneven tire wear",
+        "loose or wandering steering",
+        "clunking or knocking sounds from the front suspension",
+        "and vibrations in the steering wheel."
+      ],
+      "odiNumbers": [
+        "10000731",
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Wear of Rear Brake Rotors and Pads",
+      "impact": "Premature wear of rear brake rotors and pads can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when braking",
+        "uneven brake pedal feel",
+        "excessive brake dust",
+        "and reduced braking performance."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure due to Electrical Short",
+      "impact": "The transmission failure can cause the vehicle to lose power, hesitate, or stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shift Solenoid Failure",
+      "impact": "The failure of the shift solenoid can cause the transmission to malfunction, leading to difficulty shifting gears, hesitation, or stalling, which can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the transmission warning light illuminates on the dashboard",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "483948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

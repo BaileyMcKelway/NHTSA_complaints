@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brake system can cause the vehicle to lose braking power, leading to accidents or near-miss situations, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake light comes on",
+        "the brake pedal feels weak or spongy",
+        "the brake pedal makes a rattling or grinding noise",
+        "the brakes are difficult to apply",
+        "the vehicle is hard to stop",
+        "and the ABS system may engage unnecessarily."
+      ],
+      "odiNumbers": [
+        "11219651",
+        "11113164",
+        "11101586",
+        "10991009",
+        "10884732",
+        "10860424",
+        "10749571",
+        "10628300",
+        "10626144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension and Control Arm Failure",
+      "impact": "The failure of the rear suspension and control arms can cause the vehicle to lose traction, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle jumps to the side when driving over bumps",
+        "rear end slipping or swaying",
+        "uneven tire wear",
+        "vibration and noise at low speeds",
+        "difficulty handling the vehicle."
+      ],
+      "odiNumbers": [
+        "11043591",
+        "10663295",
+        "10607532",
+        "10479359",
+        "10354310"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Horn and Electrical System Failure",
+      "impact": "The failure of the horn and electrical system can cause a lack of warning to other drivers, pedestrians, or cyclists, leading to potential accidents or injuries.",
+      "symptoms": [
+        "Horn failure",
+        "lights on the dash staying on for seatbelts",
+        "tire pressure",
+        "and other warning systems",
+        "fan on blower only working on high",
+        "passenger seat no longer adjusting."
+      ],
+      "odiNumbers": [
+        "10663295"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling while Driving",
+      "impact": "The sudden stalling of the engine while driving can cause loss of control, accidents, and leave the driver stranded, posing a significant risk to safety.",
+      "symptoms": [
+        "The engine shuts off while driving on the freeway or local roads",
+        "no warning codes or alerts",
+        "inability to accelerate",
+        "need to restart the vehicle in park or neutral",
+        "and revving the engine for several minutes to regain acceleration."
+      ],
+      "odiNumbers": [
+        "11271136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Malfunction affecting Horn and Seat Control",
+      "impact": "The electrical malfunction can cause the horn to malfunction, making it difficult to alert other drivers in emergency situations, and affect the driver's seat positioning, leading to potential safety risks.",
+      "symptoms": [
+        "The horn only works when the steering wheel is turned sideways",
+        "and the driver's seat positioning is affected."
+      ],
+      "odiNumbers": [
+        "11271137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Instrument Panel Cluster Failure",
+      "impact": "The failure of the instrument panel cluster can cause the speedometer and tachometer to display incorrect readings, making it difficult for the driver to gauge the vehicle's speed and engine performance, which can lead to accidents.",
+      "symptoms": [
+        "The speedometer and tachometer fail to display correct readings",
+        "and the instrument panel fails to illuminate at night."
+      ],
+      "odiNumbers": [
+        "10995321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

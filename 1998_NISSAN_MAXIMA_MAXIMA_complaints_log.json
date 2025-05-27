@@ -1,0 +1,237 @@
+{
+  "totalComplaints": 118,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall, leading to accidents or leaving the driver stranded. In some cases, it can also cause a fire, which can result in serious damage or injury.",
+      "symptoms": [
+        "Smoke or fire coming from the engine compartment",
+        "grinding noise",
+        "burning smell",
+        "vehicle stalling",
+        "alternator failure."
+      ],
+      "odiNumbers": [
+        "10652680",
+        "10175744",
+        "10155508",
+        "10153235",
+        "10145292",
+        "10099275",
+        "10060625",
+        "8016277",
+        "8016200",
+        "8014276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the vehicle to stall or misfire, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling",
+        "misfiring",
+        "difficulty starting the engine",
+        "rough engine idle."
+      ],
+      "odiNumbers": [
+        "10415428",
+        "10240927",
+        "10189817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or catch fire, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Battery drain",
+        "dim interior lights",
+        "headlight harness connectors burning out",
+        "electrical fire."
+      ],
+      "odiNumbers": [
+        "10017327",
+        "10008142",
+        "760916",
+        "608874",
+        "606449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Bag System Failure",
+      "impact": "The failure of the air bag system can cause the air bags to malfunction, leading to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "Air bag light blinking",
+        "faulty side air bags",
+        "uncertainty about front air bag functionality."
+      ],
+      "odiNumbers": [
+        "10150580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of a crash, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates or flashes",
+        "the airbag module is faulty",
+        "the passenger side airbag shows a fault",
+        "the side airbag modules need to be replaced",
+        "the airbag sensor warning indicator continues to illuminate",
+        "the airbag light blinks in the front panel."
+      ],
+      "odiNumbers": [
+        "10493315",
+        "10366739",
+        "10362489",
+        "10327080",
+        "10322489",
+        "10254044",
+        "10237293",
+        "10133203",
+        "10102893",
+        "10060183",
+        "10071274",
+        "10012284",
+        "861001",
+        "721447",
+        "719227",
+        "718717",
+        "710230",
+        "843673",
+        "545594",
+        "706193",
+        "608163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Side Airbag Module Failure",
+      "impact": "The failure of the side airbag module can cause the airbag warning light to illuminate, and in the event of a crash, the side airbags may not deploy, which can result in serious injury or death.",
+      "symptoms": [
+        "The side airbag module is faulty",
+        "the airbag warning light illuminates or flashes",
+        "the passenger side airbag shows a fault",
+        "the side airbag modules need to be replaced."
+      ],
+      "odiNumbers": [
+        "10327080",
+        "10322489",
+        "10254044",
+        "10133203",
+        "10071274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag warning light to illuminate, and in the event of a crash, the airbags may not deploy, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag sensor warning indicator continues to illuminate",
+        "the airbag light blinks in the front panel."
+      ],
+      "odiNumbers": [
+        "10327080",
+        "10254044",
+        "10133203",
+        "10060183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Cable Failure",
+      "impact": "The failure of the rear brake cable can cause the brakes to malfunction, leading to reduced stopping power, increased stopping distance, and potentially accidents.",
+      "symptoms": [
+        "Grinding or humming noise from the rear of the vehicle when releasing the brake pedal",
+        "brake pedal travels too far",
+        "brakes fail to hold",
+        "smoke comes from the rear brakes."
+      ],
+      "odiNumbers": [
+        "10060006",
+        "8008671",
+        "742537",
+        "864212",
+        "861059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the wheels to lock up, leading to loss of control, increased stopping distance, and potentially accidents.",
+      "symptoms": [
+        "Instant and complete ABS activation",
+        "wheels lock up when brakes are applied",
+        "brakes don't hold",
+        "grinding or humming noise from the brakes."
+      ],
+      "odiNumbers": [
+        "10005471",
+        "8024167",
+        "730370",
+        "722380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal Travel Issues",
+      "impact": "Excessive brake pedal travel can cause the driver to lose confidence in the brakes, leading to delayed reaction times, increased stopping distance, and potentially accidents.",
+      "symptoms": [
+        "Brake pedal travels too far",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10060006",
+        "609117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Noise Issues",
+      "impact": "Unusual brake noises can be a sign of underlying brake problems, which if left unaddressed, can lead to brake failure and potentially accidents.",
+      "symptoms": [
+        "Squeaky brakes",
+        "grinding or humming noise from the brakes."
+      ],
+      "odiNumbers": [
+        "8008671",
+        "864212",
+        "861059",
+        "609117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

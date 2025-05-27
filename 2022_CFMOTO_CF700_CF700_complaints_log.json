@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gear Position Sensor Failure and Cruise Control Disengagement",
+      "impact": "The failure of the gear position sensor can cause the cruise control to disengage randomly, leading to sudden engine braking and rapid deceleration, which can increase the risk of rear-end collisions at high speeds.",
+      "symptoms": [
+        "The gear indicator displays incorrect gear positions",
+        "flickering between 1st and 6th gear",
+        "cruise control disengages",
+        "engine shuts off",
+        "and the motorcycle loses power and slows down rapidly."
+      ],
+      "odiNumbers": [
+        "11540962",
+        "11539590",
+        "11538969",
+        "11539007",
+        "11533759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The malfunctioning fuel gauge can cause confusion and uncertainty about the fuel level, leading to potential safety risks if the motorcycle runs out of fuel unexpectedly.",
+      "symptoms": [
+        "The fuel gauge displays incorrect fuel levels",
+        "jumping from full to 1/4 tank or displaying random values."
+      ],
+      "odiNumbers": [
+        "11538969",
+        "11539007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Gear Shifter Malfunction",
+      "impact": "The malfunctioning gear shifter can cause the motorcycle to jump into incorrect gears, leading to potential safety risks, especially when starting the bike or shifting up to sixth gear.",
+      "symptoms": [
+        "The gear shifter becomes inoperable",
+        "displaying \"--\" on the screen",
+        "misreads neutral and other gears",
+        "and causes the motorcycle to jump into incorrect gears."
+      ],
+      "odiNumbers": [
+        "11538969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the transmission to malfunction, leading to unexpected gear shifts, loss of cruise control, and potentially even engine stalling, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission shifts unexpectedly",
+        "the gear indicator displays incorrectly",
+        "the cruise control system malfunctions",
+        "the engine stalls or dies",
+        "trouble codes are displayed."
+      ],
+      "odiNumbers": [
+        "11585577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Switch Failure",
+      "impact": "The failure of the rear brake switch can cause the brake fluid to leak, leading to a loss of braking performance, and potentially increasing the risk of accidents.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "rear brake light does not activate",
+        "spongy brake pedal",
+        "reduced braking performance."
+      ],
+      "odiNumbers": [
+        "11573053"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "An inaccurate fuel gauge can lead to unexpected fuel depletion, causing the vehicle to run out of fuel, potentially leaving the driver stranded or causing an accident.",
+      "symptoms": [
+        "The fuel gauge does not read correctly or reliably",
+        "the fuel gauge does not move from the \"full\" position until the tank is almost empty",
+        "the fuel gauge suddenly drops to empty or near-empty",
+        "the vehicle runs out of fuel unexpectedly."
+      ],
+      "odiNumbers": [
+        "11538944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Fuel Level Sensor",
+      "impact": "A faulty fuel level sensor can cause the fuel gauge to malfunction, leading to inaccurate fuel level readings and potentially causing the vehicle to run out of fuel unexpectedly.",
+      "symptoms": [
+        "The fuel gauge does not read correctly or reliably",
+        "the fuel gauge does not move from the \"full\" position until the tank is almost empty",
+        "the fuel gauge suddenly drops to empty or near-empty",
+        "the vehicle runs out of fuel unexpectedly."
+      ],
+      "odiNumbers": [
+        "11538944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Sensor Malfunction",
+      "impact": "The malfunctioning gear sensor can cause the vehicle to suddenly shift between 6th and 1st gear while cruise control is active, resulting in a loss of power and deactivation of cruise control, which can lead to a loss of control and potential accidents.",
+      "symptoms": [
+        "The gear sensor randomly switches between 6th and 1st gear while cruise control is active",
+        "cutting power to the vehicle",
+        "and deactivating cruise control."
+      ],
+      "odiNumbers": [
+        "11535269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

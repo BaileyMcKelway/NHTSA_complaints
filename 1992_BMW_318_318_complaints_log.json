@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "PARKING BRAKE",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Engine Gasket Failure",
+      "impact": "The failure of the engine gasket can cause a sudden loss of coolant, leading to engine overheating, damage, and potentially a loss of visibility due to steam fog, which can increase the risk of accidents.",
+      "symptoms": [
+        "Sudden loss of coolant",
+        "coolant leak",
+        "white steam fog impairing visibility",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "700360",
+        "814141",
+        "517919",
+        "515317",
+        "514334",
+        "512156",
+        "510498",
+        "968899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unintentionally, leading to accidents or property damage.",
+      "symptoms": [
+        "The parking brake does not engage or disengage properly",
+        "the vehicle rolls or moves while parked on an incline",
+        "the parking brake pedal or lever feels soft or spongy",
+        "the parking brake warning light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "886964",
+        "959802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Front Door Latch Failure",
+      "impact": "The failure of the driver's side front door latch can cause the door to open while the vehicle is in motion, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The driver's side front door will not latch properly",
+        "the door will not hold",
+        "the door opens while driving",
+        "the door is difficult to close",
+        "the door makes a loud noise when closing."
+      ],
+      "odiNumbers": [
+        "10073413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure - Crossover Valve Malfunction",
+      "impact": "The malfunction of the crossover valve can cause fuel to leak excessively, leading to a potential fire hazard, and in extreme cases, accidents or injuries.",
+      "symptoms": [
+        "Fuel leaks from the gas tank",
+        "fuel pours out while filling up",
+        "strong fuel odor inside and outside the vehicle",
+        "fuel tank overflows."
+      ],
+      "odiNumbers": [
+        "11376845",
+        "11245823",
+        "11062392",
+        "10836254",
+        "10820107",
+        "10721405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Leak/Fuel Tank Overflow",
+      "impact": "Fuel leaks and tank overflows can cause fuel to spill on the ground, creating a fire hazard, and potentially leading to accidents or injuries. In addition, fuel fumes can enter the vehicle, posing a risk to occupants.",
+      "symptoms": [
+        "Fuel leaks from one tank to another",
+        "fuel spills out of the fuel filler tube",
+        "fuel fumes emitted into the vehicle",
+        "fuel tank overflows",
+        "fuel gauge shows incorrect readings."
+      ],
+      "odiNumbers": [
+        "11329223",
+        "10625850",
+        "10420709",
+        "10061626",
+        "10000356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Wiring Harness/Plug Connection Failure",
+      "impact": "The failure of the alternator wiring harness/plug connection can cause vehicle fires, which can lead to serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Burning",
+        "arcing",
+        "or melting of the wiring harness/plug connection",
+        "vehicle fires",
+        "alternator failure."
+      ],
+      "odiNumbers": [
+        "10018585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause vehicle fires, which can lead to serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Ignition switch catching on fire",
+        "burning smell",
+        "electrical issues."
+      ],
+      "odiNumbers": [
+        "727540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "TFI (Thick Film Integrated) Module Assembly Failure",
+      "impact": "The failure of the TFI module assembly can cause engine performance issues, stalling, or failure to start, which can lead to accidents or strand the driver.",
+      "symptoms": [
+        "Engine stalling",
+        "failure to start",
+        "poor engine performance",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "550319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

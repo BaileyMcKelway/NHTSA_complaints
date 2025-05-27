@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "VISIBILITY",
+    "STRUCTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "No Safety Defect",
+      "impact": "No safety defect reported, no impact on vehicle operation and safety.",
+      "symptoms": [
+        "None reported."
+      ],
+      "odiNumbers": [
+        "750038",
+        "750038"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause coolant leakage, potentially leading to injuries, engine damage, and overheating.",
+      "symptoms": [
+        "Coolant leakage",
+        "injuries",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "531204"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Lock and Handle Failure",
+      "impact": "The failure of door locks and handles can cause difficulties in opening and closing doors, potentially leading to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "Sticky or difficult-to-open doors",
+        "broken or lost plastic door lock knobs",
+        "inability to open doors from the inside (especially rear doors)."
+      ],
+      "odiNumbers": [
+        "729511",
+        "516291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Ingress and Seat Belt Retractor Failure",
+      "impact": "Water entering the vehicle can cause the seat belt retractor to fail, potentially leading to accidents or injuries in the event of a crash.",
+      "symptoms": [
+        "Water entering the vehicle",
+        "seat belt retractor failure."
+      ],
+      "odiNumbers": [
+        "531747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Clutch Disc Failure",
+      "impact": "The premature failure of the clutch disc can cause the clutch to malfunction, leading to difficulty shifting gears, and potentially resulting in accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The clutch disc falls apart",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "549772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Leak and Failure",
+      "impact": "The transmission leak can cause the transmission to fail, leading to a loss of vehicle control and potentially resulting in accidents.",
+      "symptoms": [
+        "Transmission fluid leaks from the transmission",
+        "the transmission makes unusual noises",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear",
+        "the transmission completely fails."
+      ],
+      "odiNumbers": [
+        "549772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "totalComplaints": 200,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fires, loss of dashboard lights, and other electrical malfunctions, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Dashboard lights not working",
+        "smoke or flames coming from the dashboard",
+        "electrical shorts",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "10100070",
+        "10117369",
+        "10121921",
+        "10126073",
+        "10130001",
+        "10130311",
+        "10135432",
+        "10136174",
+        "10171337",
+        "10181394",
+        "10192584",
+        "10209111",
+        "10239575",
+        "10343622",
+        "10441440",
+        "10452386",
+        "10471289",
+        "10486592",
+        "10521164",
+        "10578422",
+        "10654593",
+        "10702907",
+        "10724871",
+        "10734988",
+        "10763771",
+        "10790334",
+        "10790783",
+        "10876259",
+        "10894359",
+        "10966445",
+        "11323894",
+        "11327498",
+        "11339374",
+        "11496863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the battery to drain, leading to loss of power, and potentially cause electrical fires.",
+      "symptoms": [
+        "Battery draining",
+        "loss of power",
+        "electrical shorts",
+        "and alternator failure."
+      ],
+      "odiNumbers": [
+        "10196424",
+        "10198617",
+        "10239575",
+        "10343622",
+        "10452386",
+        "10471289",
+        "10486592",
+        "10521164",
+        "10578422",
+        "10654593",
+        "10702907",
+        "10724871",
+        "10734988",
+        "10763771",
+        "10790334",
+        "10790783",
+        "10876259",
+        "10894359",
+        "10966445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch and Hydraulic System Failure",
+      "impact": "The failure of the clutch and hydraulic system can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10734988",
+        "10763771",
+        "10790334",
+        "10790783",
+        "10876259",
+        "10894359",
+        "10966445",
+        "11323894",
+        "11327498",
+        "11339374",
+        "11496863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not be adequately protected.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag does not deploy in a crash",
+        "injuries or fatalities occur due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "10994535",
+        "10908243",
+        "10816934",
+        "10703609",
+        "10238435",
+        "10238032",
+        "10230243",
+        "10173713",
+        "10134390",
+        "10118756",
+        "10081530",
+        "10031242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag False Deployment",
+      "impact": "The sudden and unexpected deployment of an airbag can cause injuries, distractions, and loss of control of the vehicle, leading to accidents.",
+      "symptoms": [
+        "The airbag deploys without warning or impact",
+        "the airbag light illuminates on the dashboard",
+        "injuries or accidents occur due to airbag deployment."
+      ],
+      "odiNumbers": [
+        "10994535",
+        "10238435"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "SRS Light Illumination",
+      "impact": "The illumination of the SRS (Supplemental Restraint System) light on the dashboard can indicate a problem with the airbag system, which may lead to failure to deploy in a crash.",
+      "symptoms": [
+        "The SRS light illuminates on the dashboard",
+        "the airbag system may not function properly in a crash."
+      ],
+      "odiNumbers": [
+        "10766465",
+        "10762620",
+        "10659437",
+        "10574514",
+        "10519484",
+        "10454770",
+        "10264364",
+        "10171887",
+        "10132873",
+        "10057556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to injuries or fatalities in a crash, as the occupants may not be adequately restrained.",
+      "symptoms": [
+        "The seat belt buckle fails to latch or unlatch",
+        "the airbag light illuminates on the dashboard",
+        "injuries or accidents occur due to seat belt buckle failure."
+      ],
+      "odiNumbers": [
+        "10574514",
+        "10519484",
+        "10454770",
+        "10264364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Stalling",
+      "impact": "Engine failure and stalling can cause accidents, leave drivers stranded, and lead to costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "bucking",
+        "backfiring",
+        "loud noises",
+        "and difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10355030",
+        "10342082",
+        "10298004",
+        "10269907",
+        "10250930",
+        "10170183",
+        "10179569",
+        "10160097",
+        "10112027",
+        "10038549",
+        "10029947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Cooling system failure can cause engine overheating, damage, and failure, leading to costly repairs and potential accidents.",
+      "symptoms": [
+        "Leaking coolant",
+        "corrosion of heater cooling pipes",
+        "and overheating."
+      ],
+      "odiNumbers": [
+        "10389788",
+        "10356088",
+        "10250930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fire Hazards",
+      "impact": "Fire hazards can cause vehicle damage, injuries, and fatalities.",
+      "symptoms": [
+        "Fires originating from the engine",
+        "exhaust system",
+        "or electrical components."
+      ],
+      "odiNumbers": [
+        "10342555",
+        "10250930",
+        "10044228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission and Clutch Issues",
+      "impact": "Transmission and clutch issues can cause accidents, leave drivers stranded, and lead to costly repairs.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "clutch pedal sticking to the floor",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "10355030",
+        "10298004",
+        "10170183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical and Accessory Issues",
+      "impact": "Electrical and accessory issues can cause inconvenience, distraction, and potential accidents.",
+      "symptoms": [
+        "Radio malfunctioning",
+        "sudden loud volume",
+        "and faulty oxygen sensor."
+      ],
+      "odiNumbers": [
+        "10269907",
+        "10250930",
+        "10181374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Fuel System Issues",
+      "impact": "Fuel system issues can cause engine failure, stalling, and potential accidents.",
+      "symptoms": [
+        "Fuel fumes in the passenger compartment",
+        "heavy fuel fumes uphill",
+        "and oil sludge buildup."
+      ],
+      "odiNumbers": [
+        "10239712",
+        "10160097",
+        "10029947",
+        "10030515"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

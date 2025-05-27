@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion-Induced Brake Line Failure",
+      "impact": "The failure of brake lines due to corrosion can cause a loss of braking power, leading to accidents or near-misses, especially at high speeds or when towing heavy loads.",
+      "symptoms": [
+        "Brake pedal travels to the floor",
+        "brake fluid leaks",
+        "loss of braking power",
+        "ABS warning light illuminates",
+        "rust or corrosion on brake lines and other components."
+      ],
+      "odiNumbers": [
+        "10992072",
+        "10823307",
+        "10763849",
+        "10721311",
+        "10660000",
+        "10648287",
+        "10622436",
+        "10502170",
+        "10471706",
+        "10433658",
+        "10422710",
+        "10342314",
+        "10261969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion of Brake Lines",
+      "impact": "Corrosion of brake lines can cause sudden brake failure, leading to accidents and loss of control.",
+      "symptoms": [
+        "Brake line rupture",
+        "corrosion on brake lines",
+        "rust on components beneath the vehicle and in the engine compartment."
+      ],
+      "odiNumbers": [
+        "10629913"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transfer Case Malfunction",
+      "impact": "The malfunctioning transfer case can cause sudden loss of control, leading to accidents, especially at high speeds.",
+      "symptoms": [
+        "Transfer case switches modes (e.g.",
+        "from 2 Hi to 4 Hi or 2 Lo) without warning",
+        "at high speeds",
+        "and by itself."
+      ],
+      "odiNumbers": [
+        "10169167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Failure (Speedometer and Fuel Gauge)",
+      "impact": "The failure of the instrument cluster can lead to inaccurate speed readings, which can cause accidents, and incorrect fuel level readings, which can lead to unexpected engine stalling, stranding the driver, and potentially causing accidents.",
+      "symptoms": [
+        "The speedometer needle pegs or reads incorrectly",
+        "the speedometer shows inconsistent or erratic readings",
+        "the fuel gauge reads incorrectly or shows empty when the tank is not empty",
+        "the instrument cluster displays faulty or inconsistent readings."
+      ],
+      "odiNumbers": [
+        "10218121",
+        "10213765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

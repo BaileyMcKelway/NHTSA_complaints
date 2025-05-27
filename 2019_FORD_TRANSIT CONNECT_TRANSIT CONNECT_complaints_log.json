@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or become stuck in gear, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "The transmission exhibits difficulty shifting in lower gears",
+        "the vehicle loses power",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear",
+        "the transmission locks up",
+        "the vehicle goes into \"limp\" mode",
+        "the transmission fluid pressure sensor malfunctions",
+        "the vehicle moves in reverse when the gear selector is in \"drive\" and vice versa."
+      ],
+      "odiNumbers": [
+        "11579844",
+        "11568876",
+        "11548288",
+        "11538588",
+        "11533258",
+        "11527080",
+        "11523550",
+        "11516671",
+        "11500460",
+        "11473673",
+        "11427554",
+        "11415135",
+        "11408093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Converter Failure",
+      "impact": "The failure of the transmission converter can cause the transmission to malfunction, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "The transmission converter fails",
+        "the RPM needle goes up and down on stealth mode",
+        "the wiper hose keeps coming off",
+        "the back-up camera keeps going black",
+        "the AC goes out",
+        "the software will not update",
+        "the eco system will not work properly",
+        "the passenger bag is not detected."
+      ],
+      "odiNumbers": [
+        "11568876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Fluid Pressure Sensor Failure",
+      "impact": "The failure of the transmission fluid pressure sensor can cause the transmission to malfunction, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "The transmission fluid pressure sensor malfunctions",
+        "the vehicle goes into \"limp\" mode",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11548288",
+        "11415135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Hydraulic Control Unit Failure",
+      "impact": "The failure of the ABS hydraulic control unit can cause the brakes to suddenly engage, leading to sudden deceleration, wheel lock-up, and loss of control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden slowing or stopping of the vehicle",
+        "wheel hop",
+        "brake pedal feels soft or spongy",
+        "brakes lock up",
+        "burning smell from brakes",
+        "vehicle decelerates quickly when lifting foot off the gas pedal",
+        "steering shakes or vibrates."
+      ],
+      "odiNumbers": [
+        "11588605",
+        "11571553",
+        "11556683",
+        "11549283",
+        "11520140",
+        "11518580",
+        "11325112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the occupants, especially in severe impacts.",
+      "symptoms": [
+        "Airbags do not deploy despite the severity of the crash",
+        "occupants experience injuries that could have been mitigated by airbag deployment",
+        "onboard collision sensor is triggered but airbags do not deploy."
+      ],
+      "odiNumbers": [
+        "11465266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

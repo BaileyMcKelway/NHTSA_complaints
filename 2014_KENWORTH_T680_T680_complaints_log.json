@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "VISIBILITY/WIPER",
+    "VISIBILITY",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Wiring Harness Failure",
+      "impact": "The failure of the electrical wiring harness can cause a short circuit, leading to a fire, which can result in significant damage to the vehicle, potentially causing a total loss. This issue can also cause problems with the DEF system and prevent the truck from shutting off with the key.",
+      "symptoms": [
+        "The truck's electrical system malfunctions",
+        "the truck is unable to shut off with the key",
+        "problems with the DEF system",
+        "burning smell or visible signs of fire",
+        "melted plastic and rubber wire insulation",
+        "fuel flame."
+      ],
+      "odiNumbers": [
+        "11450487",
+        "11099334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Vibration",
+      "impact": "The vibration can cause discomfort and distraction to the driver, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "Vibration felt during warm-up",
+        "vibration becomes more noticeable after shifting into 8th gear",
+        "vibration increases when the air compressor kicks in while the engine is below 1300 RPM."
+      ],
+      "odiNumbers": [
+        "11220806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Misbuild and Traction Control Failure",
+      "impact": "The misbuild of the brake system can cause the traction control to lock up the front drive axle brakes, leading to loss of control, damage to the differential, and potential accidents.",
+      "symptoms": [
+        "Traction control locks up the front drive axle brakes when the truck spins a tire",
+        "causing the engine to stall and loss of power steering control",
+        "blown apart front differential units",
+        "inability to move the truck."
+      ],
+      "odiNumbers": [
+        "10958529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defrost Door Failure",
+      "impact": "The failure of the defrost door can cause decreased visibility, leading to unsafe driving conditions, as the driver is unable to clear fog or frost from the windshield. This can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The defrost door breaks",
+        "leaving the driver without defrost",
+        "causing decreased visibility",
+        "fog or frost on the windshield",
+        "and an inability to clear the windshield."
+      ],
+      "odiNumbers": [
+        "10950084",
+        "10948718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defrost Door Failure in Kenworth T680",
+      "impact": "The failure of the defrost doors can cause a significant decrease in visibility, leading to unsafe driving conditions, and potentially causing accidents.",
+      "symptoms": [
+        "The defrost doors break while the vehicle is in motion",
+        "leaving the driver without defrost and ability to safely drive the vehicle",
+        "fogged-up windows",
+        "decreased visibility."
+      ],
+      "odiNumbers": [
+        "10948720",
+        "10948723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure in Cummins ISX15 Motor",
+      "impact": "The failure of the fuel pump in the Cummins ISX15 motor can cause the truck to shut down on the highway, potentially leading to accidents, and can also send metal shavings into the rest of the motor, resulting in catastrophic engine damage.",
+      "symptoms": [
+        "The truck shuts down suddenly while driving",
+        "the engine fails to start",
+        "the fuel pump fails to provide adequate pressure",
+        "metal shavings are present in the engine oil."
+      ],
+      "odiNumbers": [
+        "11315835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure Causing Vehicle Fires",
+      "impact": "The failure of the ignition switch can cause a vehicle fire, potentially leading to serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "often while parked",
+        "with smoke and flames emanating from the underhood area or steering column. In some cases",
+        "the horn may sound before the fire is noticed."
+      ],
+      "odiNumbers": [
+        "800685",
+        "800372",
+        "983687",
+        "979422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Linkage Grommet Deterioration",
+      "impact": "The deterioration of the transmission linkage grommet can cause a loss of power to the transmission's third and overdrive gears, resulting in the inability to shift into high speeds, which can lead to reduced vehicle performance and potentially cause accidents.",
+      "symptoms": [
+        "Loss of power to transmission's third and overdrive gears",
+        "inability to shift into high speeds",
+        "reduced vehicle performance."
+      ],
+      "odiNumbers": [
+        "828441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Sticking",
+      "impact": "The accelerator pedal sticking in an open position can cause unintended acceleration, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal feels stuck or stuck in an open position",
+        "the engine RPMs increase unexpectedly",
+        "the vehicle surges forward unexpectedly",
+        "difficulty braking or slowing down."
+      ],
+      "odiNumbers": [
+        "801226"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

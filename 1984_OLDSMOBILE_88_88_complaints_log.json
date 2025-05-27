@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "STRUCTURE",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, and even injuries or fatalities.",
+      "symptoms": [
+        "The engine catches on fire",
+        "the vehicle's speed reduces or stalls",
+        "smoke or flames are visible from the engine compartment",
+        "a burning smell or noise is present."
+      ],
+      "odiNumbers": [
+        "550597",
+        "826653",
+        "514686"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become stuck, making it difficult or impossible to restrain a child or adult, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt retractor is locked and won't release the seat",
+        "the seat belt buckle sticks",
+        "the seat belt is unable to be fastened or unfastened."
+      ],
+      "odiNumbers": [
+        "858296",
+        "487874"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Overhead Upholstery Failure",
+      "impact": "The detachment of the overhead upholstery can cause particles of glue, dust, and cloth to fall on the occupants, leading to skin irritation, itching, and sores, which can be a distraction while driving and affect the overall comfort and safety of the vehicle.",
+      "symptoms": [
+        "The overhead upholstery is sagging or detached",
+        "particles of glue",
+        "dust",
+        "and cloth are falling on the occupants",
+        "skin irritation",
+        "itching",
+        "and sores are experienced."
+      ],
+      "odiNumbers": [
+        "567439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control Servo Failure",
+      "impact": "The unexpected slippage of the cruise control servo can cause unintended acceleration, making it difficult or impossible to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Sudden increase in speed",
+        "inability to stop or slow down the vehicle",
+        "loss of control over the vehicle's acceleration."
+      ],
+      "odiNumbers": [
+        "862759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can increase the risk of accidents, especially on slippery or uneven road surfaces, as the vehicle may lose traction and stability.",
+      "symptoms": [
+        "The ABS warning light is illuminated on the dashboard",
+        "the anti-skid system is inoperative",
+        "the vehicle's brakes may lock up or vibrate",
+        "the vehicle may pull to one side while braking",
+        "the vehicle's stopping distance is increased."
+      ],
+      "odiNumbers": [
+        "816135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

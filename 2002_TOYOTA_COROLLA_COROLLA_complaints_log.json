@@ -1,0 +1,171 @@
+{
+  "totalComplaints": 149,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of the vehicle occupants.",
+      "symptoms": [
+        "Airbags did not deploy during a crash",
+        "airbag warning light illuminated",
+        "airbag did not deploy despite meeting deployment criteria",
+        "passenger airbag disabled",
+        "airbag squib missing."
+      ],
+      "odiNumbers": [
+        "10781515",
+        "10714687",
+        "10704075",
+        "10693173",
+        "10680241",
+        "10508592",
+        "10347344",
+        "10344841",
+        "10280059",
+        "10161158",
+        "10142096",
+        "10120728",
+        "10118179",
+        "10088192",
+        "10057358",
+        "10033533",
+        "764028",
+        "564858",
+        "759955"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a problem with the airbag system, which may lead to airbag failure in the event of a crash.",
+      "symptoms": [
+        "Airbag warning light illuminated",
+        "airbag warning light stays on",
+        "airbag warning light flashes."
+      ],
+      "odiNumbers": [
+        "10781515",
+        "10704075",
+        "10693173",
+        "10508592",
+        "10088192",
+        "8004431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Component Failure",
+      "impact": "The failure of airbag system components, such as the passenger airbag or airbag squib, can lead to airbag failure in the event of a crash.",
+      "symptoms": [
+        "Passenger airbag disabled",
+        "airbag squib missing",
+        "airbag module failure."
+      ],
+      "odiNumbers": [
+        "10161158",
+        "10142096",
+        "764028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle vibrates or shakes when applying the brakes",
+        "the vehicle accelerates suddenly",
+        "the airbags fail to deploy."
+      ],
+      "odiNumbers": [
+        "10316574",
+        "10095165",
+        "10046704",
+        "766205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corroded Brake Lines",
+      "impact": "Corroded brake lines can cause the brake system to fail, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Difficulty stopping the vehicle",
+        "brake pedal feels soft or spongy",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "10293487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ECU Failure",
+      "impact": "The failure of the ECU can cause the VSC, TRAC, and ABS systems to malfunction, leading to loss of vehicle control and accidents.",
+      "symptoms": [
+        "VSC",
+        "TRAC",
+        "and ABS lights come on",
+        "loss of vehicle control",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "10209150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Undersized Brake Calipers and Rotor Issues",
+      "impact": "Undersized brake calipers and rotor issues can cause the brake system to overheat, leading to warped rotors, vibration, and loss of vehicle control.",
+      "symptoms": [
+        "Vibrations when applying the brakes",
+        "warped rotors",
+        "overheating brake system."
+      ],
+      "odiNumbers": [
+        "10121251",
+        "10120968",
+        "10107970",
+        "10104251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pad and Rotor Quality Issues",
+      "impact": "Poor-quality brake pads and rotors can cause the brake system to fail, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vibrations when applying the brakes",
+        "warped rotors",
+        "overheating brake system",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10157991",
+        "10043539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

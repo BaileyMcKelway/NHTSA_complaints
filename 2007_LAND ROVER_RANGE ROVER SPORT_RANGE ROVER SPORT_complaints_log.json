@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of replacement parts for the Takata airbag recall can leave vehicles with defective airbags, which can lead to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair",
+        "rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "11184863",
+        "11057002",
+        "10968193",
+        "10956831",
+        "10950459",
+        "10939933",
+        "10925346",
+        "10920216",
+        "10894484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to sag or lean to one side, affecting its stability and handling, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle sits lower on one side",
+        "unusual noises (knocking",
+        "clunking) while driving",
+        "uneven ride height",
+        "loss of electrical functions on one side of the vehicle."
+      ],
+      "odiNumbers": [
+        "10733008",
+        "10396751",
+        "10284708",
+        "10216396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause multiple warning indicators to illuminate, potentially distracting the driver and increasing the risk of accidents. It can also lead to the failure of various systems, such as suspension, brakes, and traction control, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Multiple warning indicators illuminate continuously",
+        "including tire pressure",
+        "suspension",
+        "bonnet",
+        "brake",
+        "transmission",
+        "dynamic stability control",
+        "and electronic traction control warnings. The indicators may only shut off when the vehicle is turned off."
+      ],
+      "odiNumbers": [
+        "11218063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall and Related Electrical System Issues",
+      "impact": "The Takata airbag recall can cause the passenger airbag to deploy improperly, potentially leading to injuries or fatalities. Additionally, the recall may be related to electrical system issues, which can cause problems with other vehicle systems, such as GPS and dashboard systems.",
+      "symptoms": [
+        "Failure of the GPS dashboard system",
+        "potential issues with the electrical system",
+        "and the risk of improper airbag deployment."
+      ],
+      "odiNumbers": [
+        "10934431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

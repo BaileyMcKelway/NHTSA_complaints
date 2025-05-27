@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or refuse to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The brake light and battery warning lights illuminate on the dashboard",
+        "the vehicle refuses to start or stalls",
+        "the vehicle requires jumping to start",
+        "the engine revs extremely high when the gas pedal is pressed",
+        "the vehicle jerks or lurches forward when the gas pedal is depressed."
+      ],
+      "odiNumbers": [
+        "10399487",
+        "10236370",
+        "10057615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Alternator Recall (02V171000)",
+      "impact": "The defective alternator can cause the vehicle to stall or refuse to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle revs extremely high when the gas pedal is pressed",
+        "the vehicle refuses to start or stalls",
+        "the engine warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "10057615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to refuse to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle refuses to start",
+        "the battery warning light illuminates on the dashboard",
+        "the vehicle requires jumping to start."
+      ],
+      "odiNumbers": [
+        "10399487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadvertent Airbag Deployment",
+      "impact": "The sudden and unexpected deployment of airbags can cause accidents, injuries, and fatalities, especially if the vehicle is in motion. It can also lead to a loss of control, sudden stops, or collisions.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbag warning light illuminates",
+        "airbag system malfunction indicator",
+        "sudden smoke or fog in the vehicle",
+        "unexpected loud noise."
+      ],
+      "odiNumbers": [
+        "10588094",
+        "705134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to inadequate protection in the event of a crash, increasing the risk of injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "airbag system malfunction indicator",
+        "airbag failure signal",
+        "repeated repairs or rebuilding of airbags",
+        "uncertainty about airbag deployment in the event of an accident."
+      ],
+      "odiNumbers": [
+        "705134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front End Suspension Vibration",
+      "impact": "The severe vibration in the front end suspension can cause uneven tire wear, leading to tire blowouts, and loss of control, which can result in accidents.",
+      "symptoms": [
+        "Severe vibration in the front end suspension while driving at 40-60 mph",
+        "uneven severe wear on the inside of tires",
+        "tire blowouts."
+      ],
+      "odiNumbers": [
+        "784372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hydroplaning due to Design Flaw",
+      "impact": "The design flaw can cause the vehicle to hydroplane, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle hydroplanes",
+        "loss of control",
+        "near accidents."
+      ],
+      "odiNumbers": [
+        "542789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "TIRES",
+    "POWER TRAIN",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Malfunction",
+      "impact": "The malfunction of the rear brakes can cause the vehicle to lose control, leading to accidents, especially in wet weather conditions.",
+      "symptoms": [
+        "The rear brakes do not adjust properly",
+        "the front right caliper fails to release",
+        "the brakes lock up",
+        "the vehicle experiences loss of control",
+        "the vehicle fails to stop in wet weather."
+      ],
+      "odiNumbers": [
+        "605688",
+        "514289"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the driver to lose control of the vehicle, leading to accidents.",
+      "symptoms": [
+        "The brake pedal travels all the way to the floorboard",
+        "the brakes fail to engage",
+        "the vehicle experiences loss of control."
+      ],
+      "odiNumbers": [
+        "836370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injection Pump Failure (VE Pump)",
+      "impact": "The failure of the fuel injection pump can cause the vehicle to suddenly accelerate out of control, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "Sudden unintended acceleration",
+        "loss of control",
+        "engine racing or revving",
+        "failure of the injection pump",
+        "presence of metal debris in the fuel system."
+      ],
+      "odiNumbers": [
+        "10453941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Belt Separation and Tread Failure",
+      "impact": "The sudden separation of the tire belt and tread can cause loss of control, accidents, and damage to surrounding vehicles and property, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Sudden shimmy or vibration while driving",
+        "tire belt separation",
+        "tread coming apart",
+        "rubber debris thrown onto the road",
+        "air leakage from the tire",
+        "loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10135026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "5-Speed Manual Transmission Failure",
+      "impact": "The failure of the 5-speed manual transmission can cause the vehicle to lose power, making it difficult to control, and potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting",
+        "the transmission makes unusual noises or grinding sounds",
+        "the transmission leaks fluid",
+        "the vehicle loses power or acceleration",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "551290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Rust and Structural Integrity Failure",
+      "impact": "The rusting of the frame can cause it to crack or rip, leading to a loss of structural integrity, which can result in accidents, injuries, or fatalities, especially when towing.",
+      "symptoms": [
+        "The frame is rusted",
+        "the frame is cracked",
+        "the frame is ripped",
+        "the vehicle is unstable while towing",
+        "the vehicle's towing capacity is reduced",
+        "unusual noises or vibrations while driving."
+      ],
+      "odiNumbers": [
+        "519011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

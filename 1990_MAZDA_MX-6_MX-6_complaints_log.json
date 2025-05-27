@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STRUCTURE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt can cause the driver or passenger to be unrestrained, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt is stuck in the forward position",
+        "the shoulder belt will not retract",
+        "the belt does not reach around the driver or passenger",
+        "the belt operates slowly",
+        "the retractor sticks halfway",
+        "the belt does not hold the driver or passenger in place during an accident."
+      ],
+      "odiNumbers": [
+        "8023175",
+        "813269",
+        "980696",
+        "980698",
+        "986071",
+        "979631",
+        "961640"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Leak into Passenger Compartment",
+      "impact": "Water leaks into the passenger compartment can cause damage to electrical components, rust, and corrosion, leading to safety hazards and costly repairs.",
+      "symptoms": [
+        "Water accumulation on the front passenger floor board",
+        "water accumulation on the driver-side floor of the trunk",
+        "water spots or stains on the interior carpets and upholstery."
+      ],
+      "odiNumbers": [
+        "500086",
+        "500086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Handle Failure",
+      "impact": "Broken door handles can make it difficult or impossible to enter or exit the vehicle, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Door handles break off from the vehicle",
+        "difficulty opening or closing doors",
+        "doors become stuck or jammed."
+      ],
+      "odiNumbers": [
+        "960736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Bracket Failure",
+      "impact": "The failure of the metal bracket attached to the body of the vehicle, above the fuel tank, can cause a hole to wear into the top of the tank, leading to fuel leakage, which can result in a fire or explosion.",
+      "symptoms": [
+        "Fuel leakage from the top of the tank",
+        "fuel smell or odor",
+        "decreased fuel efficiency",
+        "potential fire or explosion."
+      ],
+      "odiNumbers": [
+        "805662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sluggish Acceleration",
+      "impact": "Sluggish acceleration can increase the stopping distance, making it difficult to merge or change lanes, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "Vehicle hesitates or lags when accelerating",
+        "slow response to throttle input",
+        "difficulty merging or changing lanes",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "485584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

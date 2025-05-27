@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dynamic Power Steering (DPS) Failure",
+      "impact": "The failure of the DPS system can cause the steering wheel to become firm or difficult to turn, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The power steering and parking brake warning lights illuminate",
+        "the steering wheel becomes firm or difficult to turn",
+        "the vehicle enters \"Limp Home Mode\"",
+        "the vehicle's speed suddenly drops",
+        "the vehicle is difficult to steer",
+        "especially at high speeds."
+      ],
+      "odiNumbers": [
+        "11545404",
+        "10722855",
+        "10626682",
+        "10620923",
+        "10452937",
+        "10451530",
+        "10356851",
+        "10355774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Semi-Automatic Transmission (SE5) Failure",
+      "impact": "The failure of the SE5 transmission can cause the vehicle to lurch forward, rapidly decelerate, or stall, which can lead to accidents, rear-end collisions, or loss of control.",
+      "symptoms": [
+        "The vehicle stalls while operating",
+        "the transmission drops to neutral suddenly",
+        "the vehicle rapidly decelerates",
+        "the transmission lurches forward",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor."
+      ],
+      "odiNumbers": [
+        "10386930",
+        "10382068",
+        "10335135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Assembly Failure",
+      "impact": "The failure of the clutch assembly can cause the vehicle to stall, jerk, or hesitate, which can lead to accidents, loss of control, or difficulty shifting gears.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle stalls",
+        "the vehicle jerks or hesitates",
+        "abnormal squealing sounds when accelerating."
+      ],
+      "odiNumbers": [
+        "10346769",
+        "10341238",
+        "10330359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Bearing Failure",
+      "impact": "The failure of the clutch bearings can cause the vehicle to stall, jerk, or hesitate, which can lead to accidents, loss of control, or difficulty shifting gears.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle stalls",
+        "the vehicle jerks or hesitates",
+        "abnormal squealing sounds when accelerating."
+      ],
+      "odiNumbers": [
+        "10346769",
+        "10330359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Recall Part Unavailability",
+      "impact": "The unavailability of recall parts for the brake system can increase the risk of a crash, possibly resulting in injury or death.",
+      "symptoms": [
+        "Brake failure",
+        "inability to stop the vehicle",
+        "vehicle stalling without warning."
+      ],
+      "odiNumbers": [
+        "10461655",
+        "10457183",
+        "10456683",
+        "10456710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

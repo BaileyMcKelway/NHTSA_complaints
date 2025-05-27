@@ -1,0 +1,159 @@
+{
+  "totalComplaints": 68,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, engine stalling, and loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "smoke is emitted from the engine compartment",
+        "the engine stalls while driving",
+        "the headlights remain on after turning off the ignition",
+        "the ignition switch becomes warm or hot",
+        "the power goes off and on",
+        "and the electrical wires melt or burn."
+      ],
+      "odiNumbers": [
+        "10096849",
+        "734188",
+        "871335",
+        "844180",
+        "831099",
+        "983240",
+        "826542",
+        "536247",
+        "823324",
+        "512584",
+        "805537",
+        "511686",
+        "804533",
+        "507316",
+        "506980",
+        "987098",
+        "505471",
+        "984779",
+        "984190",
+        "983388",
+        "503805",
+        "983040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failures can cause fires, engine stalling, and loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ignition switch becomes warm or hot",
+        "the ignition switch sticks",
+        "the ignition switch fails",
+        "and the electrical wires melt or burn."
+      ],
+      "odiNumbers": [
+        "536247",
+        "823324",
+        "512584",
+        "507316",
+        "505471",
+        "984190",
+        "503805",
+        "983040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failures can cause fires, engine stalling, and loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The alternator plug melts",
+        "the alternator causes an underhood fire",
+        "and the electrical wires melt or burn."
+      ],
+      "odiNumbers": [
+        "844180",
+        "805537",
+        "987098",
+        "984779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to a loss of restraint, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle fails to latch",
+        "the seat belt buckle breaks",
+        "the seat belt buckle comes loose while driving",
+        "the seat belt buckle does not hold",
+        "the seat belt buckle fails to stay latched",
+        "the seat belt retractor falls out of track."
+      ],
+      "odiNumbers": [
+        "899397",
+        "511204",
+        "507714",
+        "490455",
+        "973364",
+        "972745",
+        "972447",
+        "488219",
+        "971884",
+        "971367",
+        "971187",
+        "971207",
+        "970826",
+        "478502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Switch Failure",
+      "impact": "The failure of the cruise control switch can cause the vehicle to catch fire, resulting in property damage and potentially serious injury or death.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often under the hood",
+        "even when turned off and parked."
+      ],
+      "odiNumbers": [
+        "10136339",
+        "781471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Acceleration due to Cruise Control or TPS Switch Failure",
+      "impact": "The sudden acceleration of the vehicle can cause accidents, injuries, and fatalities, as well as property damage.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without warning",
+        "even when the brakes are applied",
+        "and may cause loss of control or collision."
+      ],
+      "odiNumbers": [
+        "781471",
+        "528441",
+        "521437",
+        "813361",
+        "506980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

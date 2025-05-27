@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Assembly Failure",
+      "impact": "The failure of the motorized seat belt assembly can lead to difficulties in exiting the vehicle in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belts will not retract or tighten while in use",
+        "the seat belt buckle is inoperable",
+        "the seat belt buckle cannot be easily removed",
+        "the seat belt is stuck in the locking position",
+        "the seat belt intermittently stays in the locking position before releasing."
+      ],
+      "odiNumbers": [
+        "10450506",
+        "9006474",
+        "750412",
+        "750424",
+        "10006471",
+        "880436",
+        "865304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Front Automatic Shoulder Belt Retractors",
+      "impact": "The failure of the front automatic shoulder belt retractors can prevent the seat belts from being extracted, compromising the safety of the driver and passengers in the event of an accident.",
+      "symptoms": [
+        "The seat belt cannot be extracted from the retractor",
+        "the seat belt retractor system is inoperative."
+      ],
+      "odiNumbers": [
+        "10291690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Fuel Feed Hose",
+      "impact": "A defective fuel feed hose can cause gas to leak onto the engine block, increasing the risk of a fire or engine failure, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Gas leaks onto the engine block",
+        "fuel smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10291690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Malfunctioning Fuel Pump Connectors",
+      "impact": "Malfunctioning fuel pump connectors can cause the vehicle to shut down while driving, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "loss of power",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "8014345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

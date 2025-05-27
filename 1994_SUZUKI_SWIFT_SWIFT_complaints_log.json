@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "VISIBILITY",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause multiple critical systems to malfunction, including the radio and headlights, which can lead to reduced visibility and increased risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Radio stops working",
+        "headlights fail to turn on",
+        "multiple electrical accessories malfunction simultaneously."
+      ],
+      "odiNumbers": [
+        "848077",
+        "514888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Fuel Tank",
+      "impact": "A defective fuel tank can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to the safety of the vehicle's occupants and other road users.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell inside the vehicle",
+        "fuel gauge malfunction",
+        "difficulty starting the engine",
+        "engine stalling",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "514888",
+        "10734988",
+        "10588926",
+        "10567062",
+        "10561132",
+        "10421832",
+        "10388926",
+        "10385118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Malfunction",
+      "impact": "The malfunction of the power window system can cause inconvenience, distraction, and potentially lead to accidents due to obstructed visibility.",
+      "symptoms": [
+        "The power window does not roll up or down",
+        "the power window rolls up or down intermittently",
+        "the power window is stuck in the open or closed position",
+        "the power window makes a strange noise while operating",
+        "the power window switch is unresponsive."
+      ],
+      "odiNumbers": [
+        "514888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Restraint",
+      "impact": "The failure of the seat belt to properly restrain the driver during a collision can lead to serious injuries, including head trauma, lacerations, and potentially even fatalities.",
+      "symptoms": [
+        "The seat belt fails to hold the driver in place during a collision",
+        "allowing the driver's head to make contact with the windshield or other objects",
+        "resulting in injuries."
+      ],
+      "odiNumbers": [
+        "506826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fading and Excessive Pedal Travel",
+      "impact": "Brake fading and excessive pedal travel can lead to extended stopping distances, increased risk of accidents, and reduced vehicle control, potentially resulting in serious injury or fatalities.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels excessively before engaging",
+        "brakes feel like they're not functioning properly",
+        "brakes overheat",
+        "brake fade occurs during normal driving conditions."
+      ],
+      "odiNumbers": [
+        "982699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Brake System Diagnosis",
+      "impact": "Failure to properly diagnose brake system issues can lead to continued operation of a vehicle with compromised brakes, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Dealer or mechanic fails to identify brake system problems",
+        "brake system issues are misdiagnosed",
+        "brake system repairs are ineffective or incomplete."
+      ],
+      "odiNumbers": [
+        "982699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

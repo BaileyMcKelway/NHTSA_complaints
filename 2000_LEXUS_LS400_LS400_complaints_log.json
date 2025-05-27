@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, potentially leading to fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "often when the brake pedal is depressed",
+        "and may lurch forward or accelerate rapidly",
+        "making it difficult to control."
+      ],
+      "odiNumbers": [
+        "10463436",
+        "10170134",
+        "10138104",
+        "10101511",
+        "10074925",
+        "10063297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the loss of critical vehicle information, such as speed, leading to potential accidents or safety risks.",
+      "symptoms": [
+        "The instrument cluster fails to display information",
+        "the speedometer dial remains on zero",
+        "the instrument cluster intermittently fails",
+        "the instrument cluster fails to function after hitting a pothole or experiencing a minor impact."
+      ],
+      "odiNumbers": [
+        "10622431",
+        "10250578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Master Key Causing Ignition Damage",
+      "impact": "The use of a defective master key can cause damage to the ignition system, leading to stalling, difficulty removing the key, and potential safety risks.",
+      "symptoms": [
+        "The key cannot be removed from the ignition",
+        "the ignition locks",
+        "the vehicle stalls",
+        "the vehicle experiences intermittent ignition issues."
+      ],
+      "odiNumbers": [
+        "10621909",
+        "10621534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Inspect and Replace Rotten Tires",
+      "impact": "Failure to properly inspect and replace rotten tires can lead to tire blowouts, accidents, and loss of vehicle control.",
+      "symptoms": [
+        "Cracks appear on the sidewalls of the tires",
+        "tires are deemed unsafe to use as a spare",
+        "tires are rotten and need to be replaced."
+      ],
+      "odiNumbers": [
+        "10621909"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Fluid Overflow",
+      "impact": "Transmission fluid overflow can cause damage to the transmission, leading to costly repairs and potential safety risks.",
+      "symptoms": [
+        "Transmission fluid overflows",
+        "transmission fluid leaks",
+        "transmission malfunctions."
+      ],
+      "odiNumbers": [
+        "10621534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

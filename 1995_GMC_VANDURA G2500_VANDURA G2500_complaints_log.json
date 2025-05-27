@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "SUSPENSION",
+    "AIR BAGS",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS system malfunctions",
+        "causing the front wheels to lock",
+        "the vehicle to skid or pull to one side",
+        "and the brakes to fail to engage properly",
+        "especially on wet roads."
+      ],
+      "odiNumbers": [
+        "10177769",
+        "844393",
+        "803405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Seat Belt Buckle",
+      "impact": "The failure of the seat belt buckle can lead to a lack of restraint in the event of an accident, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The seat belt buckle is inoperative",
+        "the plastic components in the buckle mechanism have crystallized and crumbled",
+        "the seat belt bunches up or locks up at the guide",
+        "causing excessive wear or fraying."
+      ],
+      "odiNumbers": [
+        "10049136",
+        "10036911",
+        "504033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Differential Noise",
+      "impact": "The unusual noise from the rear differential can be a sign of a more serious underlying issue, potentially leading to premature wear or failure of the rear axle components, which can affect vehicle stability and safety.",
+      "symptoms": [
+        "Roaring",
+        "howling",
+        "or whining noise from the rear end of the vehicle",
+        "typically between 45-50 mph."
+      ],
+      "odiNumbers": [
+        "717224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality to the occupants, as they are not provided with the necessary protection to absorb the impact.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite meeting the deployment criteria",
+        "occupants may experience injuries or fatalities that could have been prevented or mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "833577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sliding Door Latch Mechanism Failure",
+      "impact": "The failure of the sliding door latch mechanism can cause the door to become stuck, making it difficult or impossible to open or close the door, which can lead to inconvenience, frustration, and potential safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The sliding door is extremely difficult to close properly",
+        "the door gets stuck and can only be opened from the outside",
+        "the door latch does not engage properly",
+        "the door does not close smoothly",
+        "the door requires excessive force to close or open."
+      ],
+      "odiNumbers": [
+        "504033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

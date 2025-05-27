@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle's electrical systems to malfunction, leading to loss of critical functions such as headlights, turn signals, and wipers, which can increase the risk of accidents. In some cases, it can also cause fires.",
+      "symptoms": [
+        "The key turns too far and gets stuck",
+        "the ignition switch does not return to the normal position",
+        "the starter motor continues to run",
+        "lights and blower motors fail to come on",
+        "the key has to be manually turned back to the run position",
+        "the ignition switch feels soft or spongy",
+        "the electrical systems malfunction",
+        "and the vehicle loses power while driving."
+      ],
+      "odiNumbers": [
+        "10557136",
+        "10349494",
+        "10143460",
+        "10143400",
+        "10136287",
+        "10081110",
+        "10058251",
+        "10036702",
+        "761179",
+        "761163",
+        "752895",
+        "895412",
+        "718426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Compartment Fire Hazard",
+      "impact": "The proximity of the battery to the rear seat suspension wires can cause a fire hazard, which can lead to serious injury or death.",
+      "symptoms": [
+        "The rear seat was shifted",
+        "causing the spring wires to contact the battery posts",
+        "igniting a fire",
+        "and spreading through the entire rear seat of the car."
+      ],
+      "odiNumbers": [
+        "10522252",
+        "10321958",
+        "752895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Valve Nipple Failure",
+      "impact": "The failure of the fuel tank valve nipple can cause fuel leaks, which can lead to fires, explosions, or other accidents, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "Fuel leaks under the vehicle",
+        "strong fuel odor",
+        "fuel puddles near the rear end of the vehicle",
+        "fuel dripping onto the exhaust system",
+        "fuel traveling up the exhaust system towards the engine."
+      ],
+      "odiNumbers": [
+        "10947506"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Housing Ice Accumulation",
+      "impact": "The accumulation of ice in the throttle housing can cause unintended acceleration, making it difficult to control the vehicle, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the throttle becomes stuck",
+        "the vehicle is difficult to control",
+        "the vehicle continues to move even when the brake is applied."
+      ],
+      "odiNumbers": [
+        "10181977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

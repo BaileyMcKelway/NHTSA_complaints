@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Leak Due to Faulty Quick Disconnect Fitting",
+      "impact": "A fuel leak can cause a fire, potentially leading to serious injury or death. Even if a fire does not occur, the fuel leak can still cause damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Fuel smell",
+        "fuel stains on the engine",
+        "fuel leaking from the fuel line",
+        "fuel pouring onto the exhaust piping",
+        "fuel collecting on the cylinder head."
+      ],
+      "odiNumbers": [
+        "10582823",
+        "10398391",
+        "10345266",
+        "10227198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corroded Fuel Cutoff Valve",
+      "impact": "A corroded fuel cutoff valve can cause a fuel leak, leading to a fire hazard and potentially serious injury or death.",
+      "symptoms": [
+        "Fuel leaking from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10166367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Fuel Tank",
+      "impact": "A defective fuel tank can cause fuel leaks, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Fuel smell",
+        "fuel leaks",
+        "discoloration of surrounding paint",
+        "weeping or seeping of fuel from the tank."
+      ],
+      "odiNumbers": [
+        "10507137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Line Failure",
+      "impact": "Failure of the fuel lines can cause fuel leaks, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping from the fuel lines."
+      ],
+      "odiNumbers": [
+        "10459084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Quick Disconnect Failure",
+      "impact": "Failure of the quick disconnect can cause fuel leaks, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping from the quick disconnect."
+      ],
+      "odiNumbers": [
+        "10459084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Unit Failure",
+      "impact": "The failure of the ABS unit can lead to a loss of vehicle stability and control, increasing the risk of accidents, especially during hard braking or slippery road conditions.",
+      "symptoms": [
+        "The ABS warning light illuminates on the dashboard",
+        "the ABS system does not function properly",
+        "the vehicle's brakes may lock up or vibrate",
+        "the vehicle may pull to one side while braking."
+      ],
+      "odiNumbers": [
+        "10419900"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spline Input Shaft Wear and Clutch Plate Failure",
+      "impact": "The wear on the spline input shaft and failure of the clutch plate can cause grinding noises, difficulty shifting gears, and loss of acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Grinding noise when shifting gears",
+        "difficulty shifting gears",
+        "loss of acceleration",
+        "clutch plate stripped."
+      ],
+      "odiNumbers": [
+        "10405347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Control Module Failure",
+      "impact": "A malfunctioning seat belt control module can cause the seat belt to become inoperable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt is stuck",
+        "the seat belt will not retract",
+        "the seat belt unbuckles when pressure is applied",
+        "the automatic shoulder belt does not move back and forth."
+      ],
+      "odiNumbers": [
+        "10373175",
+        "705623",
+        "809350",
+        "803587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Flywheel Causing Clutch Failure",
+      "impact": "A warped flywheel can cause the clutch release bearings to fail prematurely, leading to difficulty shifting gears, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "clutch failure",
+        "premature wear on clutch components."
+      ],
+      "odiNumbers": [
+        "488841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Black Smoke Emission on Cold Start-up",
+      "impact": "The emission of black smoke on cold start-up can indicate a problem with the engine's combustion process, potentially causing decreased fuel efficiency, increased emissions, and decreased engine performance.",
+      "symptoms": [
+        "Black smoke emitted from the exhaust on cold start-up."
+      ],
+      "odiNumbers": [
+        "10016983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The sudden failure of the automatic transmission can cause the vehicle to lose power or become stuck in gear, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission stops working while driving",
+        "the vehicle will not shift out of first gear",
+        "the vehicle will not shift into higher gears",
+        "the transmission slips or hesitates",
+        "the vehicle loses power or acceleration."
+      ],
+      "odiNumbers": [
+        "702702",
+        "536403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Design Flaw",
+      "impact": "The design flaw in the transmission can cause premature wear or failure, leading to unexpected transmission failure, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails unexpectedly",
+        "the transmission requires frequent repairs or rebuilding",
+        "the transmission exhibits unusual behavior or hesitation."
+      ],
+      "odiNumbers": [
+        "702702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Damage to Transmission",
+      "impact": "Water damage to the transmission can cause corrosion or electrical failure, leading to transmission failure, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails after exposure to water",
+        "the transmission will not shift out of first gear",
+        "the transmission will not shift into higher gears",
+        "the transmission slips or hesitates."
+      ],
+      "odiNumbers": [
+        "536403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Leaky Fuel Injectors",
+      "impact": "Leaky fuel injectors can cause a fire hazard, as fuel can leak onto hot engine components, potentially igniting and causing a vehicle fire. Additionally, leaky injectors can lead to poor engine performance, decreased fuel efficiency, and increased emissions.",
+      "symptoms": [
+        "Engine misfires",
+        "rough engine idle",
+        "decreased fuel efficiency",
+        "engine hesitation or stumbling",
+        "fuel odor or leak",
+        "engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "704893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

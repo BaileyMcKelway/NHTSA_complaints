@@ -1,0 +1,308 @@
+{
+  "totalComplaints": 99,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Valve Cable Failure",
+      "impact": "The failure of the throttle valve cable can cause unintended acceleration, making it difficult or impossible to control the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The throttle pedal sticks to the floor",
+        "the engine idles at high RPM",
+        "the vehicle accelerates suddenly",
+        "the vehicle accelerates without pressing the gas pedal",
+        "the vehicle is unable to stop",
+        "the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "10030489",
+        "704450",
+        "834851",
+        "781220",
+        "523651",
+        "815183",
+        "813487",
+        "812952",
+        "509644",
+        "601565",
+        "800393",
+        "982687",
+        "525933",
+        "503195",
+        "971599",
+        "969491",
+        "968079",
+        "967943",
+        "965688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idle Speed Control Valve Failure",
+      "impact": "The failure of the idle speed control valve can cause the engine to idle at high RPM, making it difficult to control the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The engine idles at high RPM",
+        "the vehicle accelerates suddenly",
+        "the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "509644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "The failure of the cruise control system can cause unintended acceleration, making it difficult or impossible to control the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly",
+        "the vehicle accelerates without pressing the gas pedal",
+        "the vehicle is unable to stop",
+        "the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "982687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "The failure of the seatbelt can lead to ejection or improper restraint in the event of an accident, increasing the risk of injury or death.",
+      "symptoms": [
+        "The seatbelt buckle fails to latch",
+        "the seatbelt buckle unlatches by itself",
+        "the seatbelt retractor fails to lock",
+        "the seatbelt gets stuck in cold weather",
+        "the seatbelt is loose when wearing bulky clothes",
+        "the seatbelt motor is faulty",
+        "the teeth on the seatbelt motor are chewed up",
+        "the seatbelt release button fails to pop back out",
+        "the passive restraint system fails to move along the rail."
+      ],
+      "odiNumbers": [
+        "10007854",
+        "8002629",
+        "885953",
+        "559209",
+        "870612",
+        "784764",
+        "802329",
+        "985030",
+        "981132",
+        "977686",
+        "487833",
+        "971680",
+        "971594",
+        "970842",
+        "484067",
+        "966728",
+        "962654"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Seatbelt Failure",
+      "impact": "The failure of the automatic seatbelt can lead to ejection or improper restraint in the event of an accident, increasing the risk of injury or death.",
+      "symptoms": [
+        "The automatic seatbelt gets stuck in cold weather",
+        "the automatic seatbelt motor is faulty",
+        "the automatic seatbelt fails to retract",
+        "the automatic seatbelt locks up",
+        "the automatic seatbelt causes injuries."
+      ],
+      "odiNumbers": [
+        "885953",
+        "559209",
+        "870612",
+        "784764",
+        "802329",
+        "971594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Buckle Failure",
+      "impact": "The failure of the seatbelt buckle can lead to ejection or improper restraint in the event of an accident, increasing the risk of injury or death.",
+      "symptoms": [
+        "The seatbelt buckle fails to latch",
+        "the seatbelt buckle unlatches by itself",
+        "the seatbelt release button fails to pop back out."
+      ],
+      "odiNumbers": [
+        "487833",
+        "971680",
+        "985030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause a range of issues, including fires, stalling, and loss of critical vehicle functions, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Burning odor",
+        "digital dashboard lights going out",
+        "wiring catching on fire",
+        "alternator fire",
+        "ignition switch fire",
+        "intermittent stalling",
+        "vehicle stalling",
+        "steering wheel locking",
+        "and vehicle fires."
+      ],
+      "odiNumbers": [
+        "10029786",
+        "535075",
+        "821465",
+        "511222",
+        "510675",
+        "509914",
+        "506319",
+        "984318",
+        "983726",
+        "503236",
+        "973775",
+        "476741",
+        "476029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "Wiring harness failure can cause electrical fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Wiring catching on fire",
+        "electrical wiring fire",
+        "vehicle fires",
+        "and burning odors."
+      ],
+      "odiNumbers": [
+        "535075",
+        "984318",
+        "983726",
+        "503236",
+        "476741",
+        "476029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause electrical system failure, leading to fires, stalling, and loss of critical vehicle functions, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Alternator fire",
+        "vehicle fires",
+        "and electrical system failure."
+      ],
+      "odiNumbers": [
+        "511222",
+        "983726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failure can cause electrical system failure, leading to fires, stalling, and loss of critical vehicle functions, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Ignition switch fire",
+        "vehicle fires",
+        "and electrical system failure."
+      ],
+      "odiNumbers": [
+        "506319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Failure",
+      "impact": "Steering system failure can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Steering wheel locking and vehicle stalling."
+      ],
+      "odiNumbers": [
+        "973775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the vehicle to lose control, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The ABS system fails to function",
+        "causing the vehicle to come to an abrupt stop",
+        "sporadic braking",
+        "or failure to stop the vehicle from accelerating backward. In some cases",
+        "the brake pedal continues to depress on its own until it comes to a complete stop."
+      ],
+      "odiNumbers": [
+        "10001373",
+        "759414",
+        "604396",
+        "524499",
+        "509914",
+        "969491",
+        "482930",
+        "478659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad/Rotor Failure",
+      "impact": "The failure of brake pads and rotors can cause the vehicle to vibrate or shudder upon braking, leading to reduced braking performance and increased stopping distances, which can result in accidents.",
+      "symptoms": [
+        "Noise from the brakes",
+        "vibration or shuddering upon braking",
+        "and failure of the brake pads and rotors."
+      ],
+      "odiNumbers": [
+        "524499",
+        "523651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to continue to depress on its own until it comes to a complete stop, leading to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal continues to depress on its own until it comes to a complete stop",
+        "and the vehicle may stall at low or no speed."
+      ],
+      "odiNumbers": [
+        "10001373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

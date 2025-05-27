@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose control, leading to accidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Extended stopping",
+        "uneven braking",
+        "noise coming from the brakes when applied",
+        "locking up of the back wheels",
+        "vehicle pulling to one side",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "10156503",
+        "567779",
+        "819821",
+        "504528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Pump Failure",
+      "impact": "The failure of the ABS pump can cause the ABS system to malfunction, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "ABS light comes on",
+        "extended stopping",
+        "uneven braking",
+        "noise coming from the brakes when applied."
+      ],
+      "odiNumbers": [
+        "10156503",
+        "819821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can cause the airbag light to come on, and potentially lead to failure of the airbag to deploy in the event of an accident, resulting in injuries or fatalities.",
+      "symptoms": [
+        "Airbag light comes on",
+        "need to replace safety seat belt buckle."
+      ],
+      "odiNumbers": [
+        "10156503"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Malfunction",
+      "impact": "The airbag warning light staying on can indicate a faulty airbag system, which can lead to a failure to deploy airbags in the event of a crash, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light stays on for an extended period",
+        "typically 2 minutes",
+        "indicating a problem with the airbag system."
+      ],
+      "odiNumbers": [
+        "10264270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "The airbag(s) do not deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "504528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Shock Tower Failure",
+      "impact": "The failure of the rear shock tower can cause loss of vehicle control, leading to accidents, and potentially result in serious injury or death.",
+      "symptoms": [
+        "Stress cracks in the rear shock tower",
+        "torn out rear shock absorber from the shock tower",
+        "rattling or clunking noise from the rear suspension."
+      ],
+      "odiNumbers": [
+        "10039232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coil Spring Failure",
+      "impact": "The failure of the coil spring can cause loss of vehicle control, leading to accidents, and potentially result in serious injury or death.",
+      "symptoms": [
+        "Broken or failed coil spring",
+        "rattling or clunking noise from the suspension",
+        "loss of vehicle stability."
+      ],
+      "odiNumbers": [
+        "766279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Suspension Component Failure",
+      "impact": "The failure of rear suspension components, including shock towers and coil springs, can cause loss of vehicle control, leading to accidents, and potentially result in serious injury or death.",
+      "symptoms": [
+        "Stress cracks in the rear shock tower",
+        "torn out rear shock absorber from the shock tower",
+        "broken or failed coil spring",
+        "rattling or clunking noise from the suspension",
+        "loss of vehicle stability."
+      ],
+      "odiNumbers": [
+        "10039232",
+        "766279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

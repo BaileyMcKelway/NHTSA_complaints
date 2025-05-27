@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure (Surging and Hesitation)",
+      "impact": "The transmission failure can cause the vehicle to surge forward unexpectedly, leading to loss of control and potential accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The vehicle surges forward",
+        "hesitates from a cold start",
+        "clunks into gear at low speeds",
+        "and almost cuts out when idling at stop lights."
+      ],
+      "odiNumbers": [
+        "10463134",
+        "10281105"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Fluid Failure (Burnt Transmission Fluid)",
+      "impact": "The failure of the transmission fluid can cause the transmission to malfunction, leading to unexpected disengagement, engine roaring, and stalling, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fluid is completely burnt up",
+        "the transmission disengages",
+        "and the engine roars."
+      ],
+      "odiNumbers": [
+        "10281105"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "CV Joint Failure (Right Rear CV Joint)",
+      "impact": "The failure of the CV joint can cause loss of control and accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "A clicking noise from the rear right CV joint",
+        "grease and oil leakage from the right rear CV joint",
+        "and the right rear CV joint breaks."
+      ],
+      "odiNumbers": [
+        "10067255"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration/Loss of Brake Function",
+      "impact": "The sudden acceleration or loss of brake function can cause accidents, injuries, or fatalities, especially when the vehicle is traveling at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the brakes fail to engage or hold",
+        "the vehicle continues to move despite applying the brakes",
+        "the gas pedal becomes unresponsive",
+        "the vehicle slows down or loses power suddenly."
+      ],
+      "odiNumbers": [
+        "10094617",
+        "766925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Throttle Control Failure",
+      "impact": "The intermittent failure of the throttle control can cause the vehicle to accelerate or decelerate unexpectedly, leading to loss of control, accidents, or near-misses.",
+      "symptoms": [
+        "The vehicle accelerates or decelerates unexpectedly",
+        "the gas pedal becomes unresponsive",
+        "the vehicle slows down or loses power suddenly",
+        "the vehicle hesitates or lags when accelerating."
+      ],
+      "odiNumbers": [
+        "766925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Loss of Engine Power",
+      "impact": "The sudden loss of engine power can cause the vehicle to slow down or stall, increasing the risk of accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine fails to respond to the accelerator pedal",
+        "the vehicle's speed is limited to a low speed (e.g.",
+        "20 mph)",
+        "the \"Reduced Performance\" and \"Check Engine\" lights illuminate on the dashboard",
+        "the vehicle may stall or hesitate when accelerating."
+      ],
+      "odiNumbers": [
+        "10088830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

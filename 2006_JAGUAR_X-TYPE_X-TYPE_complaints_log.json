@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Leak/Failure",
+      "impact": "A fuel tank leak or failure can cause a hazardous condition, potentially leading to fires, explosions, or accidents, which can result in serious injury or death.",
+      "symptoms": [
+        "Gasoline smell inside or outside the vehicle",
+        "gasoline leaking from underneath the vehicle",
+        "fuel tank leak of unknown origin",
+        "fuel tank warped or damaged",
+        "flange seal failure."
+      ],
+      "odiNumbers": [
+        "10615443",
+        "10171197",
+        "10168085",
+        "10165264",
+        "10164555",
+        "10160591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Notify Owners of Fuel Tank Defect",
+      "impact": "Jaguar's failure to notify owners of the fuel tank defect can lead to a delay in repairs, increasing the risk of accidents or fires.",
+      "symptoms": [
+        "Owners not informed of fuel tank defect",
+        "no recall or technical service bulletin issued",
+        "dealerships aware of the problem but not notifying owners."
+      ],
+      "odiNumbers": [
+        "10171197",
+        "10165264",
+        "10164555",
+        "10160591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Repair of Fuel Tank Leak",
+      "impact": "Inadequate repair of the fuel tank leak can lead to recurring problems, increasing the risk of accidents or fires.",
+      "symptoms": [
+        "Temporary repairs",
+        "such as replacing the flange seal",
+        "do not address the underlying issue",
+        "fuel tank leak persists after repair",
+        "dealerships unable to guarantee the repair."
+      ],
+      "odiNumbers": [
+        "10165264",
+        "10164555",
+        "10160591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration When Braking",
+      "impact": "The unintended acceleration of the vehicle when braking can lead to accidents, injuries, and even fatalities, as the driver loses control of the vehicle.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly when the brake pedal is applied",
+        "the vehicle takes off suddenly",
+        "the vehicle fails to stop or slow down when braking",
+        "the engine revs at high speed."
+      ],
+      "odiNumbers": [
+        "11459269",
+        "10713294",
+        "10660432",
+        "10640301",
+        "10407794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Continental Tire Failure",
+      "impact": "The sudden and catastrophic failure of Continental tires can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire tread separation",
+        "sidewall bulging",
+        "cord separation",
+        "vibration",
+        "and sudden blowout failure",
+        "often at high speeds."
+      ],
+      "odiNumbers": [
+        "10608226",
+        "10564118",
+        "10330970",
+        "10252999",
+        "10250378"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

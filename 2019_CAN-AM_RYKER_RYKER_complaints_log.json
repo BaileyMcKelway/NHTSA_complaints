@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "WHEELS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stability Control System Malfunction",
+      "impact": "The malfunction of the Stability Control System can cause the vehicle to wobble, lose traction, and engage the brakes unexpectedly, leading to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle wobbles or shakes",
+        "especially during left turns; the rear brake and front right brake engage unexpectedly; the vehicle slows down suddenly; the vehicle goes into limp mode; the YAW sensor and SAS system malfunction; error codes C006C",
+        "C0063C",
+        "C0052",
+        "and C0063 are displayed."
+      ],
+      "odiNumbers": [
+        "11548894",
+        "11538615",
+        "11538248",
+        "11528711",
+        "11523137",
+        "11520841",
+        "11510104",
+        "11468234",
+        "11467897",
+        "11464707",
+        "11464610",
+        "11461346",
+        "11454204",
+        "11451516",
+        "11433278",
+        "11282582"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pitman Arm Bearing Failure",
+      "impact": "The failure of the pitman arm bearings can cause the vehicle's steering to bind, leading to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's steering binds or becomes difficult to turn; the VSS fault code is displayed; the vehicle goes into limp mode; the bearings in the pitman arm wear out quickly due to poor design."
+      ],
+      "odiNumbers": [
+        "11454204",
+        "11433278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "YAW Sensor and SAS System Malfunction",
+      "impact": "The malfunction of the YAW sensor and SAS system can cause the vehicle's Stability Control System to engage unexpectedly, leading to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The YAW sensor and SAS system malfunction; error codes C006C",
+        "C0063C",
+        "C0052",
+        "and C0063 are displayed; the vehicle wobbles or shakes",
+        "especially during left turns; the rear brake and front right brake engage unexpectedly."
+      ],
+      "odiNumbers": [
+        "11538248",
+        "11528711",
+        "11520841",
+        "11464610",
+        "11433278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Lug Nut Failure",
+      "impact": "The failure of the wheel lug nut can cause the wheel to fall off while driving, leading to a loss of control, accidents, and potential fatalities.",
+      "symptoms": [
+        "Cracked or fractured wheel lug nut",
+        "wheel nut failure",
+        "wheel falling off while driving",
+        "unusual noise or vibration while driving."
+      ],
+      "odiNumbers": [
+        "11387781",
+        "11266090",
+        "11252786",
+        "11252647",
+        "11246293",
+        "11244179",
+        "11244244",
+        "11241191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause gasoline to spit out, leading to a fire hazard, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Gasoline spitting out",
+        "fuel fault warning",
+        "unusual noise or smell while driving."
+      ],
+      "odiNumbers": [
+        "11352404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Noise",
+      "impact": "The unusual noise from the brakes can indicate a potential failure, leading to a loss of braking power and increasing the risk of accidents.",
+      "symptoms": [
+        "Unusual noise from the brakes",
+        "grinding or screeching sound while braking."
+      ],
+      "odiNumbers": [
+        "11352404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Stability System (VSS) Failure",
+      "impact": "The VSS failure can cause the vehicle to apply brake pressure to one wheel, leading to loss of control, fishtailing, and potentially causing accidents or collisions.",
+      "symptoms": [
+        "The vehicle's VSS system engages unnecessarily while making left-hand turns at speeds of 30 MPH or more",
+        "causing the vehicle to brake or slow down without driver input",
+        "pulling the vehicle to the right",
+        "and potentially leading to loss of control or fishtailing."
+      ],
+      "odiNumbers": [
+        "11510105",
+        "11432530",
+        "11432532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

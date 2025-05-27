@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can lead to increased stopping distances, accidents, and injuries, as the vehicle may not respond as expected to braking input.",
+      "symptoms": [
+        "The vehicle does not slow down or stop when the brake pedal is depressed",
+        "the brake pedal feels soft or spongy",
+        "the vehicle takes longer than expected to come to a stop",
+        "the vehicle does not respond immediately to braking input."
+      ],
+      "odiNumbers": [
+        "11055203",
+        "11003466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Body Control Module (BCM) Failure due to Water Ingress",
+      "impact": "The failure of the BCM can cause various electrical systems in the vehicle to malfunction, leading to safety issues, inconvenience, and costly repairs.",
+      "symptoms": [
+        "Multiple electrical systems malfunction",
+        "such as lights",
+        "wipers",
+        "and mirrors",
+        "the vehicle's computer systems may shut down",
+        "the vehicle may experience intermittent electrical issues."
+      ],
+      "odiNumbers": [
+        "11559402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sunroof Drainage System Failure",
+      "impact": "The failure of the sunroof drainage system can cause water to accumulate and leak into the vehicle's electrical components, leading to corrosion, malfunction, and failure of critical systems.",
+      "symptoms": [
+        "Water leaks into the vehicle",
+        "water accumulates in the sunroof drainage system",
+        "electrical systems malfunction",
+        "musty odor or water spots in the vehicle."
+      ],
+      "odiNumbers": [
+        "11559402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Passenger Front Seat Bottom Assembly Causing Airbag Light and SRS System Failure",
+      "impact": "The failure of the Passenger Front Seat Bottom Assembly can cause the airbag light to illuminate, indicating a critical safety issue, and potentially leading to airbag deployment failures in the event of an accident.",
+      "symptoms": [
+        "The airbag light on the dashboard illuminates",
+        "indicating a problem with the Supplemental Restraint System (SRS)",
+        "and the vehicle's diagnostic system generates a code (B00AO-02) indicating a fault with the Passenger Front Seat Bottom Assembly."
+      ],
+      "odiNumbers": [
+        "11505254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Moon Roof Glass Shattering",
+      "impact": "The sudden shattering of the moon roof glass can cause a distraction to the driver, potentially leading to an accident, and may also cause physical harm to occupants from falling glass shards.",
+      "symptoms": [
+        "The moon roof glass shatters without any impact or warning",
+        "glass shards fall into the vehicle",
+        "no warning lights are illuminated."
+      ],
+      "odiNumbers": [
+        "11425711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

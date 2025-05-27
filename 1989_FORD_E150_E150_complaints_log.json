@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the engine to stall, leading to a loss of power and potentially causing accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the ignition module fails",
+        "the module needs to be replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "735288",
+        "504981",
+        "504914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stalling Issues",
+      "impact": "The stalling of the vehicle can cause a loss of control, leading to accidents, especially when driving at high speeds or crossing intersections.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine loses power",
+        "the vehicle stalls while driving at high speeds",
+        "the vehicle stalls while crossing intersections."
+      ],
+      "odiNumbers": [
+        "734638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure (Air Conditioning Blower Motor Switch)",
+      "impact": "The failure of the air conditioning blower motor switch can cause a fire, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The air conditioning blower motor switch melts",
+        "the wiring gets hot",
+        "the switch fails repeatedly."
+      ],
+      "odiNumbers": [
+        "729257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Harness Plug Connector Failure",
+      "impact": "The failure of the alternator harness plug connector can cause a short circuit, leading to a fire, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The alternator harness plug connector short circuits",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "839489",
+        "986064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure (General)",
+      "impact": "The failure of the electrical system can cause a fire, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "A fire starts in the engine compartment",
+        "a fire starts near the steering wheel and dashboard."
+      ],
+      "odiNumbers": [
+        "960587",
+        "545870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Fuel Tank Selector Valve Failure",
+      "impact": "The failure of the dual fuel tank selector valve can cause fuel leakage, which can lead to a fire when exposed to a source of ignition, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Fuel leakage from the fuel tank",
+        "fuel spillage when filling the main tank",
+        "inability to switch to the main tank",
+        "vehicle stalls when the selector switch is on the front tank",
+        "limited range due to reliance on the auxiliary fuel tank."
+      ],
+      "odiNumbers": [
+        "10232970",
+        "10225733",
+        "825116",
+        "817969",
+        "809635",
+        "986943",
+        "969509",
+        "966899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

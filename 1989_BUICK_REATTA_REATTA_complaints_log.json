@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Braking System Failure",
+      "impact": "The failure of the ABS braking system can cause the brakes to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes fail without warning",
+        "the brakes feel spongy or soft",
+        "the brakes go to the floor when pressed hard or at a stop",
+        "the vehicle pulls to one side when braking",
+        "the ABS accumulator fails",
+        "the master cylinder fails."
+      ],
+      "odiNumbers": [
+        "737205",
+        "725641",
+        "725206",
+        "724138",
+        "722930",
+        "719667",
+        "967561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes fail without warning",
+        "the brakes feel spongy or soft",
+        "the brakes go to the floor when pressed hard or at a stop",
+        "the master cylinder needs to be replaced at a high cost."
+      ],
+      "odiNumbers": [
+        "725641",
+        "722930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accumulator Failure",
+      "impact": "The failure of the accumulator can cause the brakes to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes fail without warning",
+        "the brakes feel spongy or soft",
+        "the brakes go to the floor when pressed hard or at a stop",
+        "the accumulator fails",
+        "the ABS system malfunctions."
+      ],
+      "odiNumbers": [
+        "719667",
+        "725641"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Valve Block Malfunction",
+      "impact": "The malfunction of the ABS valve block can cause the vehicle to pull to one side when braking, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to one side when braking",
+        "the ABS system malfunctions."
+      ],
+      "odiNumbers": [
+        "967561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "The failure of the headlights can significantly reduce visibility, increasing the risk of accidents, especially at night or during inclement weather.",
+      "symptoms": [
+        "Headlights suddenly stop working",
+        "headlight doors or flaps fail to open",
+        "reduced visibility while driving at night or during inclement weather."
+      ],
+      "odiNumbers": [
+        "964536",
+        "478540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Headlight Door Flap Failure",
+      "impact": "The failure of the headlight door flaps can impair visibility, making it difficult to see the road ahead, especially at night or during inclement weather.",
+      "symptoms": [
+        "Headlight doors or flaps fail to open",
+        "reduced visibility while driving at night or during inclement weather."
+      ],
+      "odiNumbers": [
+        "478540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Headlining Failure",
+      "impact": "The deterioration of the metal supporting the sunroof can cause the sunroof headlining to drop down, obstructing the driver's view and potentially leading to accidents.",
+      "symptoms": [
+        "The sunroof headlining is sagging or drooping",
+        "the sunroof headlining is coming apart",
+        "the metal supporting the sunroof is corroded or rusted",
+        "the sunroof headlining is making noise while driving."
+      ],
+      "odiNumbers": [
+        "830670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

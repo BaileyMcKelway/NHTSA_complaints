@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant Leak due to Engine Heat Sensor Failure",
+      "impact": "The failure of the engine heat sensor can cause coolant to leak from the vehicle, leading to engine overheating, which can result in engine damage, costly repairs, and potentially cause accidents due to loss of vehicle control.",
+      "symptoms": [
+        "Massive amounts of antifreeze leaking from the vehicle",
+        "engine smoking",
+        "engine overheating",
+        "coolant leaking onto the road and tires."
+      ],
+      "odiNumbers": [
+        "10522740",
+        "608690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Door Unlocking and Window Roll-Down",
+      "impact": "This issue can cause unintended access to the vehicle, potentially leading to theft or unauthorized entry, and may also lead to water damage or other issues if windows are left open.",
+      "symptoms": [
+        "Vehicle doors unlock and windows roll down automatically without being touched",
+        "regardless of key presence in the ignition."
+      ],
+      "odiNumbers": [
+        "10120998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Illumination and Faulty Seat Belt Wiring",
+      "impact": "This issue can lead to inaccurate airbag deployment, which can increase the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Airbag warning light illuminates while the vehicle is in motion",
+        "indicating a potential issue with the airbag system."
+      ],
+      "odiNumbers": [
+        "10096812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermediate Shaft Bearing (IMS Bearing) Failure",
+      "impact": "The failure of the IMS bearing can cause the engine to seize, resulting in sudden and catastrophic engine failure, which can lead to accidents, strand the driver, and result in costly repairs.",
+      "symptoms": [
+        "Engine failure without warning",
+        "engine will not turn over or crank",
+        "sudden loss of engine power",
+        "unusual engine noise or vibrations."
+      ],
+      "odiNumbers": [
+        "11179953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Module and Sensor Failure",
+      "impact": "The failure of the airbag module and sensor can cause the SRS indicator to illuminate, indicating a potential safety risk, and may prevent the airbags from deploying in the event of an accident.",
+      "symptoms": [
+        "The SRS indicator illuminates",
+        "the seat belts fail to function properly",
+        "the airbag module fails",
+        "the sensor fails."
+      ],
+      "odiNumbers": [
+        "11011282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "IMS Bearing Failure",
+      "impact": "The failure of the IMS (Intermediate Shaft Bearing) can cause the engine to stall suddenly, leading to a loss of power steering and power brakes, making it difficult to stop safely, and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine loses power and stalls without warning",
+        "the check engine light flashes",
+        "the vehicle is difficult to stop safely",
+        "the power steering and power brakes are not functioning when the engine is stopped."
+      ],
+      "odiNumbers": [
+        "10507046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

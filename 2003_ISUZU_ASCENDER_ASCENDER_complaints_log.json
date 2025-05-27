@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the key to become stuck in the ignition, making it difficult or impossible to remove, which can lead to safety risks such as carjacking or theft. Additionally, it can cause intermittent issues with the vehicle's electrical systems, including the headlights and accessories.",
+      "symptoms": [
+        "The key becomes stuck in the ignition",
+        "the key is difficult to remove from the ignition",
+        "the ignition switch clicks or makes an electronic sound",
+        "the vehicle's electrical systems malfunction intermittently",
+        "the headlights dim or go out",
+        "the speedometer becomes stuck or inaccurate."
+      ],
+      "odiNumbers": [
+        "10353980",
+        "10283411",
+        "10173971",
+        "10141841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Electrical System Failures",
+      "impact": "The intermittent failures of the electrical system can cause safety risks, such as the headlights going out while driving, and inconvenience, such as the speedometer becoming stuck or inaccurate.",
+      "symptoms": [
+        "The headlights dim or go out",
+        "the speedometer becomes stuck or inaccurate",
+        "the heater/AC fan malfunctions",
+        "the ignition switch clicks or makes an electronic sound."
+      ],
+      "odiNumbers": [
+        "10284659",
+        "10103238",
+        "10136124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Leaks and Fuel Odor",
+      "impact": "Fuel tank leaks can cause fuel odors, which can lead to fires or explosions, posing a significant risk to vehicle occupants and bystanders.",
+      "symptoms": [
+        "Gasoline smell",
+        "fuel dripping underneath the rear of the fuel tank",
+        "SES (Service Engine Soon) light comes on",
+        "inaccurate gas gauge readings."
+      ],
+      "odiNumbers": [
+        "10248047",
+        "10238528",
+        "10196280",
+        "10141880",
+        "10134665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Filler Neck Failure",
+      "impact": "Failure of the filler neck can cause fuel leaks, leading to fires or explosions, and posing a significant risk to vehicle occupants and bystanders.",
+      "symptoms": [
+        "Broken filler neck at the fuel tank",
+        "fuel leakage at the filler neck to tank connection",
+        "gasoline smell."
+      ],
+      "odiNumbers": [
+        "10141880",
+        "10134665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Module Failure",
+      "impact": "Failure of the fuel pump module can cause fuel leaks, leading to fires or explosions, and posing a significant risk to vehicle occupants and bystanders.",
+      "symptoms": [
+        "Smell of gasoline",
+        "fuel dripping underneath the rear of the fuel tank",
+        "SES (Service Engine Soon) light comes on."
+      ],
+      "odiNumbers": [
+        "10248047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Headlight Failure",
+      "impact": "Intermittent headlight failure can significantly reduce visibility, increasing the risk of accidents, especially at night.",
+      "symptoms": [
+        "Low beams turn off and then back on",
+        "high beams work when low beams fail",
+        "daytime running lights are unaffected",
+        "headlights blink",
+        "headlights dim down and then turn off",
+        "and then back on again."
+      ],
+      "odiNumbers": [
+        "10224904",
+        "10208477",
+        "10109608",
+        "10011147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tail Light Malfunction",
+      "impact": "A malfunctioning tail light can reduce the vehicle's visibility to other drivers, increasing the risk of accidents.",
+      "symptoms": [
+        "Passenger side tail light works intermittently."
+      ],
+      "odiNumbers": [
+        "10198980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

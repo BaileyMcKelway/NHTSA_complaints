@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause a loss of critical information, such as speed and RPM, which can lead to accidents or leave the driver stranded. Additionally, the failure of the instrument cluster can also cause the battery and electrical system to malfunction, leading to further safety risks.",
+      "symptoms": [
+        "The instrument cluster fails to illuminate",
+        "the gauges are unable to be read",
+        "the dashboard goes black",
+        "limited visibility",
+        "dimming of lights",
+        "sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11461445",
+        "10871216",
+        "10845957",
+        "10745510",
+        "10735836",
+        "10643633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the battery to drain quickly, leading to a loss of power and potentially leaving the driver stranded. This can also lead to further safety risks, such as accidents or fires.",
+      "symptoms": [
+        "The battery drains quickly",
+        "the electrical system quits",
+        "the connections are tight but the system fails."
+      ],
+      "odiNumbers": [
+        "11461445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sunroof Glass Shattering",
+      "impact": "The sudden shattering of the sunroof glass can cause a distraction to the driver, leading to accidents or injuries. Additionally, the shattered glass can also cause damage to the vehicle's interior and potentially injure occupants.",
+      "symptoms": [
+        "The sunroof glass shatters suddenly",
+        "without any apparent cause",
+        "potentially due to heat or cold temperatures."
+      ],
+      "odiNumbers": [
+        "11461445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Body Control (ABC) System Failure",
+      "impact": "The failure of the Active Body Control system can cause the vehicle's suspension to malfunction, leading to uneven ride height, reduced stability, and potentially affecting vehicle safety.",
+      "symptoms": [
+        "The vehicle's front or rear suspension lowers abnormally",
+        "fluid leaks from the ABC module",
+        "smoke emits from the rear of the vehicle",
+        "the \"Drive Careful\" warning light remains illuminated."
+      ],
+      "odiNumbers": [
+        "10853432",
+        "10820291",
+        "10670896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the driver to lose vital information about the vehicle's speed, fuel level, and other essential systems, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The lights in the speedometer and background lights fail",
+        "the speedometer and gas gauge stop working",
+        "fuses need to be replaced to restore functionality."
+      ],
+      "odiNumbers": [
+        "10853432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Shift Lock Failure",
+      "impact": "The failure of the transmission shift lock can cause the vehicle to become stuck in park, making it difficult or impossible to shift into gear, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to shift out of park",
+        "the vehicle is stuck in park",
+        "the transmission does not engage",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "10722921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of the airbags to deploy in the event of a crash, increasing the risk of injury or death to vehicle occupants.",
+      "symptoms": [
+        "Unknown warning lights illuminated",
+        "airbag warning light illuminated",
+        "front passenger side airbags malfunctioning."
+      ],
+      "odiNumbers": [
+        "11394436",
+        "11437647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various malfunctions, including door locking/unlocking issues, tailgate latch malfunction, and battery drain, which can lead to safety risks, inconvenience, and potential accidents.",
+      "symptoms": [
+        "Front passenger door does not unlock unless opened from the inside",
+        "front passenger door does not lock",
+        "automatic liftgate not working",
+        "rear tailgate latch unlocks by itself",
+        "battery drain",
+        "constant 12-volt draw on the battery."
+      ],
+      "odiNumbers": [
+        "11162259",
+        "11353880",
+        "10721719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can lead to loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "ABS inactive",
+        "no stability control",
+        "message saying \"ABS inactive no stability control\"."
+      ],
+      "odiNumbers": [
+        "11180838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Flange Assembly Cracking",
+      "impact": "The cracking of the fuel tank flange assembly can lead to fuel leaks, increasing the risk of fires and explosions.",
+      "symptoms": [
+        "Fuel tank flange assembly cracking."
+      ],
+      "odiNumbers": [
+        "11469338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion/Failure",
+      "impact": "Corrosion or failure of the brake line can cause the brake pedal to go to the floor, leading to a loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "brake fluid warning light is illuminated",
+        "vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "11494744",
+        "11437831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Emergency Brake Actuator Failure",
+      "impact": "Failure of the emergency brake actuator can cause the emergency brake to become non-functional, leading to a loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Emergency brake fails to engage",
+        "emergency brake becomes locked on",
+        "wheel components are damaged."
+      ],
+      "odiNumbers": [
+        "11080092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Warped Rotors",
+      "impact": "Warped rotors can cause the vehicle to vibrate or shimmy when braking, leading to a loss of control, which can result in accidents or injuries.",
+      "symptoms": [
+        "Vehicle vibrates or shimmies when braking",
+        "brake pedal pulsates",
+        "warped rotors cause uneven braking",
+        "brake pads wear unevenly."
+      ],
+      "odiNumbers": [
+        "10893842",
+        "10872515"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to stall, leak gasoline, and potentially catch fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the check engine warning light illuminates",
+        "a strong gasoline odor is present",
+        "gasoline leaks underneath the vehicle",
+        "abnormal sounds come from the fuel tank",
+        "the warning message \"Check Gas Fuel Tank head cap\" appears",
+        "the vehicle fails to respond to accelerator pedal input."
+      ],
+      "odiNumbers": [
+        "11534901",
+        "11441307",
+        "11438083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "The delay in recall repair can lead to prolonged exposure to potential safety risks, such as fuel system failure, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The dealer is unable to perform the recall repair due to part unavailability",
+        "the manufacturer exceeds a reasonable amount of time for the recall repair",
+        "the contact receives notification of the recall but is unable to have the repair performed."
+      ],
+      "odiNumbers": [
+        "11465962",
+        "11457130",
+        "11441307",
+        "11438083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

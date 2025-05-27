@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the motorcycle to stall or shut off while in operation, leading to a loss of control and increased risk of accidents, especially at night when the headlights fail.",
+      "symptoms": [
+        "Headlights shut off without warning",
+        "dashboard lights dim",
+        "buzzing sound from the dashboard",
+        "motorcycle shuts off during operation",
+        "battery not charging",
+        "electrical system overheating",
+        "melted wiring insulation",
+        "burnt fuse block",
+        "melted connectors."
+      ],
+      "odiNumbers": [
+        "10509240",
+        "10201965",
+        "10195932",
+        "10147164",
+        "10142627",
+        "10125706",
+        "10118171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause electrical system malfunctions, leading to stalling or shutting off of the motorcycle, which can result in accidents or leave the rider stranded.",
+      "symptoms": [
+        "Burnt connectors and wiring",
+        "electrical system overheating",
+        "melted wiring insulation",
+        "burnt fuse block",
+        "melted connectors."
+      ],
+      "odiNumbers": [
+        "10147164",
+        "10118171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ground Wire Corrosion",
+      "impact": "Corrosion of the ground wire can cause electrical system malfunctions, leading to stalling or shutting off of the motorcycle, which can result in accidents or leave the rider stranded.",
+      "symptoms": [
+        "Motorcycle engine dies after the starter button is released",
+        "headlight fuse removal allows the motorcycle to start and run fine",
+        "corrosion of the ground wire pin inside the main wiring connector block."
+      ],
+      "odiNumbers": [
+        "10118171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to shut off at higher speeds, leading to a loss of control and increasing the risk of accidents. Additionally, the failure of the fuel pump can cause the vehicle to not start, leaving the driver stranded.",
+      "symptoms": [
+        "Buzzing noise coming from the front of the vehicle",
+        "wires becoming hot and melting",
+        "fuel pump failure",
+        "vehicle not starting",
+        "vehicle shutting off at higher speeds."
+      ],
+      "odiNumbers": [
+        "10124600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to not start, leaving the driver stranded, and can also cause the vehicle to shut off at higher speeds, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle not starting",
+        "fuel pump failure",
+        "vehicle shutting off at higher speeds."
+      ],
+      "odiNumbers": [
+        "10124600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

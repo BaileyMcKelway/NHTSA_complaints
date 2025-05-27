@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 147,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injury or fatality, as the occupants are not adequately protected.",
+      "symptoms": [
+        "Airbags do not deploy during a crash",
+        "despite meeting the deployment criteria",
+        "resulting in occupant injury or fatality."
+      ],
+      "odiNumbers": [
+        "10045179",
+        "785460",
+        "862660",
+        "849290",
+        "838500",
+        "835395",
+        "822768",
+        "822425",
+        "517016",
+        "806070",
+        "977713",
+        "964972",
+        "961793",
+        "958663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to accidents, injuries, and fatalities, as the vehicle may accelerate rapidly and uncontrollably, making it difficult for the driver to maintain control.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often with the brake pedal depressed",
+        "the vehicle surges or lurches forward",
+        "the accelerator pedal becomes stuck",
+        "the vehicle accelerates in reverse while in park",
+        "the cruise control fails to disengage."
+      ],
+      "odiNumbers": [
+        "746992",
+        "549370",
+        "829362",
+        "828532",
+        "804982",
+        "511246",
+        "512674",
+        "507582",
+        "506167",
+        "505911",
+        "974188",
+        "969866",
+        "963006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Shortage in Multiple Function Lever",
+      "impact": "An electrical shortage in the multiple function lever can cause unintended acceleration, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle experiences high acceleration when the speed control is engaged",
+        "the cruise control fails to disengage",
+        "the accelerator pedal becomes stuck."
+      ],
+      "odiNumbers": [
+        "828532",
+        "511246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Idle Air Control Motor",
+      "impact": "A faulty idle air control motor can cause unintended acceleration, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates uncontrollably",
+        "the accelerator pedal becomes stuck",
+        "the vehicle surges or lurches forward."
+      ],
+      "odiNumbers": [
+        "804982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

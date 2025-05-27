@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "810880",
+        "803282",
+        "504325",
+        "964126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of an airbag can cause distractions, injuries, or accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Airbag deploys without a crash or impact",
+        "causing surprise",
+        "distraction",
+        "or injury."
+      ],
+      "odiNumbers": [
+        "703150",
+        "486453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Malfunction",
+      "impact": "Airbag malfunctions can lead to injuries or fatalities, as the airbag may not provide the necessary protection in the event of a crash, or may deploy unexpectedly, causing distractions or injuries.",
+      "symptoms": [
+        "Airbag deploys incorrectly",
+        "fails to deploy",
+        "or deploys without a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "703150",
+        "810880",
+        "803282",
+        "504325",
+        "486453",
+        "964126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause a blowout, leading to a loss of control, accidents, and potential serious injuries or fatalities.",
+      "symptoms": [
+        "The tire blows out suddenly",
+        "often at high speeds",
+        "causing the vehicle to lose control or become difficult to maneuver."
+      ],
+      "odiNumbers": [
+        "10241572",
+        "832867",
+        "535473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Sudden Stop",
+      "impact": "The sudden stalling of the engine can cause the vehicle to come to an abrupt stop, increasing the risk of accidents, injuries, and fatalities, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle suddenly stops",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "10125857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manufacturer's Lack of Responsibility and Blame-Shifting",
+      "impact": "The manufacturer's failure to acknowledge and take responsibility for the defective engine can lead to frustration, financial loss, and a lack of trust among consumers.",
+      "symptoms": [
+        "The manufacturer denies responsibility",
+        "blames the consumer for the problem",
+        "fails to provide compensation or assistance."
+      ],
+      "odiNumbers": [
+        "10125857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

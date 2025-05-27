@@ -1,0 +1,51 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation Failure of Firestone SteelTex R4S Tires",
+      "impact": "The tread separation failure of Firestone SteelTex R4S tires can cause sudden and complete loss of tire pressure, leading to loss of vehicle control, accidents, and potential fatalities.",
+      "symptoms": [
+        "Sudden and complete tire failure",
+        "tire tread separation",
+        "vibration",
+        "shaking",
+        "and loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10088725",
+        "10052873",
+        "8019124",
+        "899326",
+        "895919",
+        "748091",
+        "747275",
+        "556672",
+        "872001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Cruise Control System",
+      "impact": "A malfunctioning cruise control system can cause the vehicle to accelerate uncontrollably, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The cruise control system fails to disengage when applying the brakes or pressing the button on the steering wheel",
+        "the vehicle continues to accelerate despite attempts to slow down",
+        "the vehicle's speed increases unexpectedly."
+      ],
+      "odiNumbers": [
+        "855083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

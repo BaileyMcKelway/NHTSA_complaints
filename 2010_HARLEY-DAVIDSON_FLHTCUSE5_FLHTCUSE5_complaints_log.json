@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to malfunction, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The anti-lock warning light illuminates",
+        "the front brake lever fails to depress",
+        "the brakes fail to engage",
+        "the vehicle is difficult to stop."
+      ],
+      "odiNumbers": [
+        "10883927",
+        "10551156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Master Cylinder Failure",
+      "impact": "The failure of the rear brake master cylinder can cause the rear brakes to fail, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The rear brakes fail to engage",
+        "the vehicle is difficult to stop",
+        "the rear brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10636988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Light Switch Wire Failure",
+      "impact": "The failure of the rear brake light switch wires can cause a fire, leading to complete rear brake failure and increased risk of accidents.",
+      "symptoms": [
+        "The rear brake lights fail to function",
+        "the wires catch on fire",
+        "the rear brakes fail to engage."
+      ],
+      "odiNumbers": [
+        "10432822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brakes do not work at all",
+        "the brake pedal feels hard",
+        "the rear tire locks up",
+        "the ABS module fails",
+        "the brakes are unresponsive",
+        "the motorcycle is difficult to control or stops suddenly."
+      ],
+      "odiNumbers": [
+        "11080131",
+        "11010610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Management System Failure",
+      "impact": "The failure of the engine management system can cause the vehicle to go into limp mode, resulting in reduced power and performance, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine indicator illuminates",
+        "the vehicle goes into limp mode",
+        "reduced power and performance",
+        "difficulty maintaining speed."
+      ],
+      "odiNumbers": [
+        "11196701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Chrome Plating Defect",
+      "impact": "The defective chrome plating on the motorcycle's components can cause cuts and injuries due to the sharp edges of the peeling chrome, and the pitted rough areas can exacerbate injuries in the event of a collision.",
+      "symptoms": [
+        "Numerous areas of pitting and peeling of chrome on the motorcycle's components",
+        "sharp edges of peeling chrome that can inflict cuts",
+        "rough surfaces that can cause injuries."
+      ],
+      "odiNumbers": [
+        "10355108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

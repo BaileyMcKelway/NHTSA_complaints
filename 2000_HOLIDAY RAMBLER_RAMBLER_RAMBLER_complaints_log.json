@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "STRUCTURE",
+    "EQUIPMENT",
+    "UNKNOWN OR OTHER",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "bubble formation on the sidewall",
+        "sudden loss of air pressure",
+        "vehicle vibration or shaking",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "10087874",
+        "10010015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incomplete Recall Repair - Floor Truss Assembly",
+      "impact": "Failure to complete the recall repair for the floor truss assembly can increase the risk of a fire, which can cause damage to the vehicle and potentially harm occupants.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to an incomplete recall repair."
+      ],
+      "odiNumbers": [
+        "10015766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Exceeding Maximum Weight Capacity in Rear Seats",
+      "impact": "Exceeding the maximum weight capacity in the rear seats can compromise the structural integrity of the vehicle, leading to potential safety risks, including accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a design or manufacturing flaw."
+      ],
+      "odiNumbers": [
+        "887378"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dometic Refrigerator Failure",
+      "impact": "The failure of the Dometic refrigerator can cause food spoilage, inconvenience, and potentially lead to health risks due to contaminated food. In this case, the presence of a yellow liquid in the burner tube and the smell of ammonia indicate a potential safety hazard.",
+      "symptoms": [
+        "The refrigerator stops working",
+        "a strong smell of ammonia is present",
+        "a yellow liquid is visible in the burner tube."
+      ],
+      "odiNumbers": [
+        "10236363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Repair of Floor Truss Network Chassis Recall",
+      "impact": "The delayed repair of the Floor Truss Network Chassis recall can lead to a potential safety risk, as the recall aims to address a critical issue that can affect the structural integrity of the vehicle.",
+      "symptoms": [
+        "The dealership has the necessary parts for the recall repair but is not completing the work",
+        "leaving the vehicle in an unsafe condition for an extended period."
+      ],
+      "odiNumbers": [
+        "10004264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair Service",
+      "impact": "The delay in performing recall repairs can lead to prolonged exposure to potential safety risks, causing inconvenience and stress to vehicle owners.",
+      "symptoms": [
+        "Vehicle owners experience extended wait times for recall repairs",
+        "dealerships fail to provide timely updates on repair status",
+        "vehicle owners are left without their vehicles for an extended period",
+        "dealerships fail to prioritize recall repairs."
+      ],
+      "odiNumbers": [
+        "10003714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

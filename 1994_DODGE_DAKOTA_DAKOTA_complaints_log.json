@@ -1,0 +1,380 @@
+{
+  "totalComplaints": 233,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "STEERING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause sudden near-complete brake failure, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Metallic noise when depressing the brake pedal",
+        "significantly reduced brake performance",
+        "brake pedal feels soft or spongy",
+        "brake pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10120936",
+        "898871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion of Brake Rotors",
+      "impact": "Corrosion of brake rotors can cause uneven brake pad wear, pulsing brake sensation, and reduced braking capability, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Pulsing brake sensation",
+        "uneven brake pad wear",
+        "corrosion on brake rotors."
+      ],
+      "odiNumbers": [
+        "732833",
+        "500903",
+        "970777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Brake Caliper Failure",
+      "impact": "Failure of the front brake caliper can cause brake overheating, reduced braking capability, violent shaking upon brake application, and near fire, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Brake overheating",
+        "reduced braking capability",
+        "violent shaking upon brake application",
+        "near fire",
+        "uneven brake pad wear",
+        "corrosion on brake rotors."
+      ],
+      "odiNumbers": [
+        "714126",
+        "535038",
+        "524713",
+        "504358",
+        "977163",
+        "976962",
+        "976640",
+        "973925",
+        "973036",
+        "488830",
+        "970580",
+        "966127",
+        "963683",
+        "959923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "Failure of the ABS system can cause loss of vehicle control, accidents, or skidding, leading to injuries or fatalities.",
+      "symptoms": [
+        "ABS light remains on",
+        "failure to stop the vehicle",
+        "pulsing brake sensation",
+        "uneven brake pad wear",
+        "corrosion on brake rotors",
+        "rear brakes not activating",
+        "skidding."
+      ],
+      "odiNumbers": [
+        "829284",
+        "977163",
+        "976962",
+        "976640",
+        "973925",
+        "973036",
+        "488830",
+        "970580",
+        "966127",
+        "963683",
+        "959923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission shifts improperly",
+        "transmission seizes up",
+        "vehicle jumps out of park into drive",
+        "transmission pops out of overdrive into drive",
+        "transmission fails without warning",
+        "transmission locks up in park and reverse",
+        "transmission will not go into reverse and jumps gear."
+      ],
+      "odiNumbers": [
+        "10017520",
+        "897337",
+        "741570",
+        "739435",
+        "734193",
+        "833156",
+        "701692",
+        "539799",
+        "821421",
+        "809025",
+        "546878",
+        "984343",
+        "986028",
+        "986036",
+        "487607",
+        "971277",
+        "967752",
+        "966500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "964027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Drivetrain Failure",
+      "impact": "Drivetrain failure can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Universal joint broke",
+        "rear axle broke",
+        "causing rear tire to fall off",
+        "driveshaft fell off from under the car",
+        "speedometer pinion undersized",
+        "causing speedometer to register wrong speed",
+        "and odometer to register incorrect mileage."
+      ],
+      "odiNumbers": [
+        "821421",
+        "509572",
+        "488671",
+        "500813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Cooling System Failure",
+      "impact": "Transmission cooling system failure can cause the transmission to overheat, leading to premature wear and failure.",
+      "symptoms": [
+        "Automatic transmission coolant lines connectors failed",
+        "owner noticed leakage on floor."
+      ],
+      "odiNumbers": [
+        "529616"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Differential Failure",
+      "impact": "Differential failure can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Differential bearings failed."
+      ],
+      "odiNumbers": [
+        "479415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Wheel Lockup",
+      "impact": "The sudden lockup of the steering wheel can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the vehicle loses control",
+        "the airbag fails to deploy",
+        "the steering column breaks",
+        "the vehicle stalls",
+        "the keys get stuck in the steering wheel",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "980276",
+        "505566",
+        "973036",
+        "963683",
+        "974773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering column breaks",
+        "the steering wheel locks up",
+        "the keys get stuck in the steering wheel",
+        "the vehicle loses control",
+        "the airbag fails to deploy."
+      ],
+      "odiNumbers": [
+        "10094568",
+        "843503",
+        "833486",
+        "821775",
+        "802128",
+        "971982",
+        "971487",
+        "971400",
+        "968152",
+        "959923",
+        "959815",
+        "478762",
+        "479296",
+        "476930",
+        "479189",
+        "477912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS system fails to stop the vehicle",
+        "the brakes feel spongy",
+        "the brakes lock up",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "972488",
+        "963683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front End Alignment Issues",
+      "impact": "The failure of the front end alignment can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle pulls to one side",
+        "the front end falls out",
+        "the idler arm breaks",
+        "the tie rods wear out excessively."
+      ],
+      "odiNumbers": [
+        "972488",
+        "974773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbag can cause injuries and fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag fails to deploy",
+        "the steering wheel breaks",
+        "the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "10094568",
+        "980276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the occupant is not provided with the necessary protection.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "despite the severity of the impact",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10173364",
+        "864309",
+        "781495",
+        "534482",
+        "810934",
+        "810949",
+        "810233",
+        "987112",
+        "985338",
+        "978158",
+        "978037",
+        "971421",
+        "484851",
+        "965410",
+        "962500",
+        "962180",
+        "958546",
+        "478500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of the airbag can cause injuries, distractions, and accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "without a crash or impact",
+        "causing injuries or distractions."
+      ],
+      "odiNumbers": [
+        "10362526",
+        "8009922",
+        "803160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of the airbag to deploy in a crash, or the unintended deployment of the airbag, resulting in injuries or fatalities.",
+      "symptoms": [
+        "The airbag light appears on the dashboard",
+        "the cruise control fails to work",
+        "or the clock spring needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10098997",
+        "8009922"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

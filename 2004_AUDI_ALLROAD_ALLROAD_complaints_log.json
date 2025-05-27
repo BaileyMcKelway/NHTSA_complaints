@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often when the brake pedal is depressed",
+        "the engine RPMs increase rapidly",
+        "the vehicle feels like it's going to lurch forward",
+        "the vehicle fails to stop when the brake pedal is pressed."
+      ],
+      "odiNumbers": [
+        "10629613",
+        "10621341",
+        "10379663",
+        "10323748",
+        "10150332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Moon Roof/Sunroof Explosion",
+      "impact": "The sudden and unexpected explosion of the moon roof/sunroof can cause injury to occupants from shattered glass, and potentially lead to accidents or loss of control while driving.",
+      "symptoms": [
+        "The moon roof/sunroof explodes suddenly",
+        "without any prior impact or damage",
+        "often accompanied by a loud",
+        "hollow-sounding pop. Occupants may be showered with glass fragments",
+        "and the explosion can occur at any time",
+        "including while driving at high speeds."
+      ],
+      "odiNumbers": [
+        "10633244",
+        "10161179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Suspension Failure",
+      "impact": "The repeated failure of the front suspension can lead to loss of vehicle control, accidents, and damage to other components.",
+      "symptoms": [
+        "The front tires wear out prematurely",
+        "the vehicle pulls to one side",
+        "the vehicle vibrates or shakes excessively",
+        "the vehicle's alignment is affected."
+      ],
+      "odiNumbers": [
+        "10456964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Wheel Ice Buildup Causing Alignment Issues",
+      "impact": "The buildup of ice in the wheels can cause faulty vehicle alignment, leading to loss of vehicle control, accidents, and damage to other components.",
+      "symptoms": [
+        "The vehicle shakes or vibrates excessively",
+        "the vehicle pulls to one side",
+        "the wheel alignment is affected",
+        "the vehicle's handling is compromised."
+      ],
+      "odiNumbers": [
+        "10113194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag to Deploy in Crash",
+      "impact": "The failure of the airbag to deploy in a crash can increase the risk of serious injury or death to the vehicle occupants.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "despite the severity of the impact meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "895662",
+        "837976",
+        "964142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to feel spongy or go to the floor, leading to extended stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "extended stopping distances",
+        "loss of control when applying the brakes."
+      ],
+      "odiNumbers": [
+        "845826",
+        "818432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Overheating-Related Brake Failure",
+      "impact": "Overheating can cause the brake system to malfunction, leading to a loss of brake effectiveness and increased risk of accidents.",
+      "symptoms": [
+        "The exterior temperature gauge reaches the red line",
+        "the brake pedal becomes very spongy",
+        "loss of control when applying the brakes."
+      ],
+      "odiNumbers": [
+        "845826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to speed out of control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without input from the driver",
+        "the engine does not decelerate after releasing the accelerator pedal",
+        "the vehicle accelerates to high speed without warning",
+        "the driver must apply the brakes to avoid high speed."
+      ],
+      "odiNumbers": [
+        "813582",
+        "963707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "Cruise control malfunction can cause the vehicle to accelerate or decelerate unexpectedly, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The cruise control disengages while driving",
+        "the vehicle accelerates or decelerates without input from the driver",
+        "the cruise control system does not function as intended."
+      ],
+      "odiNumbers": [
+        "963707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Suspension Weakness",
+      "impact": "The weakness in the rear suspension can cause the vehicle to bottom out, leading to a loss of control, uneven tire wear, and potential accidents.",
+      "symptoms": [
+        "The rear suspension bottoms out when there are passengers in the rear seat",
+        "the vehicle sags or leans to one side",
+        "the vehicle makes squeaking or creaking noises when driving over bumps",
+        "the ride is rough and uncomfortable."
+      ],
+      "odiNumbers": [
+        "963707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Modulation Controller (EMC) Failure",
+      "impact": "The failure of the EMC can cause the vehicle to hesitate or not immediately accelerate when the accelerator pedal is depressed, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle hesitates or does not immediately accelerate when the accelerator pedal is depressed",
+        "the VSC and Check Engine sensor indicators illuminate."
+      ],
+      "odiNumbers": [
+        "11278609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Slipping and Rolling Backwards",
+      "impact": "The transmission slipping and rolling backwards can cause loss of control, accidents, or near-miss accidents, especially when driving uphill or on inclines.",
+      "symptoms": [
+        "The vehicle rolls backwards when taking foot off the brake pedal",
+        "especially on inclines",
+        "the vehicle surges forward when accelerating",
+        "the vehicle hesitates or does not smoothly accelerate."
+      ],
+      "odiNumbers": [
+        "10383477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Internal Failure",
+      "impact": "The internal failure of the transmission can cause loss of power, loud noises, and hesitation when shifting gears, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle loses power",
+        "makes a loud noise when shifting gears",
+        "hesitates or does not smoothly accelerate."
+      ],
+      "odiNumbers": [
+        "10368368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, leading to a loss of control, accidents, or near-miss incidents.",
+      "symptoms": [
+        "Squeaking noise when turning the steering wheel",
+        "difficulty turning the steering wheel",
+        "loose or wandering steering",
+        "shaking steering wheel",
+        "requiring excessive effort to turn the wheel."
+      ],
+      "odiNumbers": [
+        "10669103",
+        "10021104",
+        "10002766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Accelerator Pedal Failure",
+      "impact": "The failure of the accelerator pedal can cause unintended acceleration, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle surges forward",
+        "increases speed without driver input",
+        "and requires excessive braking to slow down."
+      ],
+      "odiNumbers": [
+        "10312249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction on Slick/Poor Road Surfaces",
+      "impact": "The malfunction of the cruise control system on slick or poor road surfaces can cause the vehicle to spin out of control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle attempts to accelerate to the set speed despite lack of traction",
+        "causing the vehicle to spin out of control",
+        "including 360-degree turns."
+      ],
+      "odiNumbers": [
+        "10110101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Adjuster and Pedal Sensor Failure",
+      "impact": "The failure of the throttle adjuster and pedal sensor can cause engine bucking and engine cut-out, leading to a potentially dangerous situation, especially when driving at high speeds.",
+      "symptoms": [
+        "Engine bucking",
+        "engine cut-out",
+        "loss of power",
+        "stalling",
+        "hesitation."
+      ],
+      "odiNumbers": [
+        "10098878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rodent-Related Damage to Engine Components",
+      "impact": "Rodent damage to engine components, such as hoses, harnesses, and plastic covers, can cause fluid leaks, engine overheating, and potentially lead to engine failure, posing a risk to vehicle safety and occupant well-being.",
+      "symptoms": [
+        "Fluid leaks",
+        "engine overheating",
+        "engine stalling",
+        "unusual noises",
+        "burning smells."
+      ],
+      "odiNumbers": [
+        "757796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

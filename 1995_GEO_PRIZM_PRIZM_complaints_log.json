@@ -1,0 +1,257 @@
+{
+  "totalComplaints": 113,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbags to deploy unexpectedly, leading to injuries or accidents, or fail to deploy in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbags fail to deploy in a crash",
+        "SRS light appears on the dashboard",
+        "airbag warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10135125",
+        "10093680",
+        "10083585",
+        "10082469",
+        "8003067",
+        "860746",
+        "857475",
+        "848437",
+        "841326",
+        "704448",
+        "835674",
+        "829887",
+        "828127",
+        "826595",
+        "816270",
+        "811749",
+        "812647",
+        "812313",
+        "804063",
+        "986040",
+        "982516",
+        "975004",
+        "972134",
+        "483716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Deployment without Crash",
+      "impact": "The unexpected deployment of airbags can cause injuries, accidents, or distractions while driving, leading to a loss of control or crash.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbags deploy while driving",
+        "airbags deploy while stopping",
+        "airbags deploy without warning."
+      ],
+      "odiNumbers": [
+        "10135125",
+        "860746",
+        "857475",
+        "829887",
+        "826595",
+        "986040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality, as the occupants may not be properly protected.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "airbags do not deploy in a frontal collision",
+        "airbags do not deploy in a side impact."
+      ],
+      "odiNumbers": [
+        "863908",
+        "848437",
+        "841326",
+        "704448",
+        "816270",
+        "811749",
+        "812647",
+        "812313",
+        "982516",
+        "975004",
+        "972134",
+        "483716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can cause unexpected deployments, failures to deploy, or false warnings, leading to a loss of confidence in the safety features of the vehicle.",
+      "symptoms": [
+        "SRS light appears on the dashboard",
+        "airbag warning light is illuminated",
+        "airbag sensor needs to be replaced",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "10083585",
+        "10082469",
+        "8003067",
+        "511221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to a loss of protection in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The seat belt does not retract",
+        "the seat belt sticks or jams",
+        "the seat belt buckle gets stuck in the housing",
+        "the seat belt retractor mechanism fails to lock or retract",
+        "the seat belt is unable to be pulled out far enough to be buckled."
+      ],
+      "odiNumbers": [
+        "10547892",
+        "8015910",
+        "8001865",
+        "753306",
+        "747477",
+        "879762",
+        "739766",
+        "878283",
+        "734211",
+        "719128",
+        "853532",
+        "706930",
+        "542362",
+        "531398",
+        "817642",
+        "984428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, leading to a loss of protection in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The seat belt buckle sticks or jams",
+        "the seat belt buckle gets stuck in the housing",
+        "the seat belt is unable to be buckled."
+      ],
+      "odiNumbers": [
+        "879762",
+        "601533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Locking Failure",
+      "impact": "The failure of the seat belt locking mechanism can cause the seat belt to malfunction, leading to a loss of protection in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The seat belt does not lock",
+        "the seat belt retractor mechanism fails to lock or retract",
+        "the seat belt is unable to provide proper protection."
+      ],
+      "odiNumbers": [
+        "878283",
+        "524920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to loss of control, accidents, and injuries. In some cases, it can also cause airbag failure to deploy, further increasing the risk of harm.",
+      "symptoms": [
+        "Brakes lock up without being applied",
+        "brakes make high-pitched sounds",
+        "brake pedal depresses lower than usual",
+        "loss of brakes",
+        "inability to stop the vehicle",
+        "and airbag failure to deploy."
+      ],
+      "odiNumbers": [
+        "8008339",
+        "785684",
+        "889588",
+        "889589",
+        "867331",
+        "846601",
+        "531106",
+        "823209",
+        "533606",
+        "524487",
+        "524920",
+        "512230",
+        "510973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "ABS failure can cause the brakes to lock up, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Brakes lock up",
+        "inability to stop the vehicle",
+        "and airbag failure to deploy."
+      ],
+      "odiNumbers": [
+        "531106",
+        "524487",
+        "524920",
+        "512230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Brake Cylinder Failure",
+      "impact": "Master brake cylinder failure can cause the brake pedal to depress lower than usual, leading to loss of brakes and increasing the risk of accidents.",
+      "symptoms": [
+        "Brake pedal depresses lower than usual",
+        "loss of brakes."
+      ],
+      "odiNumbers": [
+        "867331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Interlock System Failure",
+      "impact": "Transmission interlock system failure can cause the brakes to fail, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Brake failure",
+        "transmission interlock system failure."
+      ],
+      "odiNumbers": [
+        "510973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Automatic Seatbelt Failure",
+      "impact": "The failure of the driver's side automatic seatbelt can increase the risk of injury or death in the event of an accident, as the seatbelt may not properly restrain the driver.",
+      "symptoms": [
+        "The driver's side seatbelt is inoperable",
+        "the seatbelt track motor is broken",
+        "the seatbelt stitching is unraveled",
+        "the seatbelt retractor works intermittently",
+        "the motorized seatbelt only comes back halfway to the chest when the door is closed."
+      ],
+      "odiNumbers": [
+        "783680",
+        "838689",
+        "703680",
+        "808341",
+        "806363",
+        "968604"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause the engine to stall or die, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or dies immediately after starting",
+        "the timing chain breaks",
+        "the engine makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "10209905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Valves",
+      "impact": "Faulty valves can cause engine performance issues, leading to decreased power, reduced fuel efficiency, and potentially causing engine damage.",
+      "symptoms": [
+        "The engine has poor performance",
+        "the engine has reduced power",
+        "the engine has decreased fuel efficiency",
+        "the valves are faulty or malfunctioning."
+      ],
+      "odiNumbers": [
+        "706571"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headliner Detachment",
+      "impact": "The sudden detachment of the headliner while driving can obstruct the driver's vision, causing a distraction and increasing the risk of accidents.",
+      "symptoms": [
+        "The headliner falls down into the driver's face or obstructs their vision while driving",
+        "causing a sudden and unexpected distraction."
+      ],
+      "odiNumbers": [
+        "750016",
+        "750016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatback Failure in Rear-End Collisions",
+      "impact": "The failure of the seatback can lead to serious injuries or fatalities in the event of a rear-end collision, as the seatback may not provide adequate support and protection to the occupants.",
+      "symptoms": [
+        "The seatback breaks or bends",
+        "allowing the seat to recline or collapse",
+        "potentially causing injuries to the occupants."
+      ],
+      "odiNumbers": [
+        "838515",
+        "975320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

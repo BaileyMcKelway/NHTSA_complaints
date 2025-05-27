@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VISIBILITY",
+    "PARKING BRAKE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, increased risk of accidents, and loss of vehicle control, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the brakes pulsate or make a grinding noise when applied",
+        "the vehicle takes longer to stop",
+        "the brakes lock up",
+        "the ABS control unit does not shut off",
+        "a noise continues from under the vehicle after shutting off the engine."
+      ],
+      "odiNumbers": [
+        "10135208",
+        "10048727",
+        "10045950",
+        "10045569",
+        "897368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "The brake noise and vibration can be a sign of worn-out brake components, which can lead to reduced braking performance and increased risk of accidents.",
+      "symptoms": [
+        "The brakes pulsate or make a grinding noise when applied",
+        "the brakes vibrate when applied."
+      ],
+      "odiNumbers": [
+        "897368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Window Cable Failure",
+      "impact": "The failure of the electric window cable can cause the window to malfunction, leading to inconvenience and potential safety issues, such as obstructed visibility or increased risk of theft.",
+      "symptoms": [
+        "The electric window does not work",
+        "the window drops down unexpectedly",
+        "loose bolts on the guide track."
+      ],
+      "odiNumbers": [
+        "10116989",
+        "8023897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Emergency/Parking Brake Pedal",
+      "impact": "The failure of the emergency/parking brake pedal can cause the vehicle to roll back or move unintentionally, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The emergency/parking brake pedal feels soft or spongy",
+        "the pedal has no resistance",
+        "the pedal goes all the way to the floor",
+        "the vehicle rolls back or moves unintentionally when the emergency/parking brake is applied."
+      ],
+      "odiNumbers": [
+        "8004293",
+        "874380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Light Switch Failure",
+      "impact": "The failure of the rear brake light switch can cause the loss of rear brake function, leading to accidents or near-misses, especially when braking on the highway.",
+      "symptoms": [
+        "The brake pedal goes to the full down position with no effect on braking",
+        "fluid leaks from the switch area",
+        "the wiring connector is charred from heat."
+      ],
+      "odiNumbers": [
+        "11193282",
+        "10452039"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the loss of front brake function, leading to accidents or near-misses, especially when braking on busy roads.",
+      "symptoms": [
+        "The front brakes fail to respond without warning",
+        "the brake pedal is hard to pull",
+        "the ABS module closes and the front brakes cannot be applied."
+      ],
+      "odiNumbers": [
+        "11054639",
+        "10945268",
+        "10855689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the loss of brake function, leading to accidents or near-misses, especially when braking on busy roads.",
+      "symptoms": [
+        "The brake pedal is depressed",
+        "but the vehicle fails to respond",
+        "the vehicle sideswipes another vehicle or crashes into an obstacle."
+      ],
+      "odiNumbers": [
+        "10983141",
+        "10888720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Body Sensor Failure",
+      "impact": "The failure of the throttle body sensor can cause the vehicle to stall and lose power without warning, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "The vehicle stalls and loses power without warning",
+        "the vehicle hesitates or stumbles while riding",
+        "the throttle response is delayed or erratic."
+      ],
+      "odiNumbers": [
+        "11242860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Spark Plugs",
+      "impact": "Faulty spark plugs can cause the vehicle to stall and lose power, leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The vehicle stalls and loses power",
+        "the engine misfires",
+        "the vehicle hesitates or stumbles while riding."
+      ],
+      "odiNumbers": [
+        "11242860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Seizure",
+      "impact": "The sudden seizure of the rear brakes can cause loss of control, accidents, or injuries, especially at high speeds.",
+      "symptoms": [
+        "The rear brakes seize without warning",
+        "the motorcycle experiences sudden and unexpected braking",
+        "the rear wheel locks up",
+        "the motorcycle becomes unstable or difficult to control."
+      ],
+      "odiNumbers": [
+        "11071624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electronic Stability Control (ESC) Failure",
+      "impact": "The failure of the Electronic Stability Control (ESC) system can increase the risk of accidents, especially at high speeds, as it can cause the motorcycle to lose traction or stability.",
+      "symptoms": [
+        "The motorcycle experiences loss of traction",
+        "instability",
+        "or difficulty controlling the vehicle",
+        "especially during cornering or sudden maneuvers."
+      ],
+      "odiNumbers": [
+        "11071624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

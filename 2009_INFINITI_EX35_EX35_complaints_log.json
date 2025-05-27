@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Occupant Classification System (OCS) Sensor",
+      "impact": "The malfunctioning OCS sensor can cause the passenger airbag warning light to flash or remain on, indicating that the passenger airbag may not deploy in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The passenger airbag warning light flashes or remains on",
+        "the passenger airbag is disabled",
+        "the light turns on and off intermittently",
+        "the sensor fails to detect occupants correctly",
+        "the system fails to reset after attempts to correct the issue."
+      ],
+      "odiNumbers": [
+        "11170249",
+        "11163651",
+        "10290697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dashboard Cracks",
+      "impact": "Cracks in the dashboard can lead to aesthetic and functional issues, potentially affecting the overall safety and performance of the vehicle.",
+      "symptoms": [
+        "Cracks appear on the dashboard",
+        "the cracks spread over time",
+        "the dashboard becomes brittle and prone to further damage."
+      ],
+      "odiNumbers": [
+        "11170249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Lock Box Failure",
+      "impact": "The failure of the steering lock box can prevent the vehicle from starting, leaving the driver stranded and potentially causing safety issues.",
+      "symptoms": [
+        "The vehicle will not start",
+        "no warning indicators are illuminated",
+        "the steering lock box needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11074493",
+        "11074499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Occupant Classification System (OCS) Sensor Failure",
+      "impact": "The faulty OCS sensor can cause the passenger airbag to be suppressed, which can fail to provide adequate protection in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light is flashing non-stop",
+        "the passenger airbag may not deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11092101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration due to Transmission Failure",
+      "impact": "The failure of the transmission can cause unintended acceleration, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates forward when shifted into reverse",
+        "the vehicle accelerates without pressing the accelerator pedal",
+        "the vehicle fails to respond to braking inputs."
+      ],
+      "odiNumbers": [
+        "10763965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion of Aluminum Locking Nut/Sleeve for TPMS Valve Stem",
+      "impact": "The corrosion of the aluminum locking nut/sleeve for the TPMS valve stem can cause the valve stem to detach, leading to tire pressure monitoring system failure, and potentially resulting in tire blowouts, accidents, and injuries.",
+      "symptoms": [
+        "Tire blowout",
+        "loss of tire pressure",
+        "TPMS warning light illumination",
+        "valve stem detachment",
+        "corrosion or cracking of the aluminum locking nut/sleeve."
+      ],
+      "odiNumbers": [
+        "10596063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

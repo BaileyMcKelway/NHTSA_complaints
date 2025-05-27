@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to slow down abruptly, especially when accelerating, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission grinds when upshifting",
+        "the vehicle slows down abruptly",
+        "the transmission fails to accelerate",
+        "the transmission fails to decelerate",
+        "the vehicle stalls",
+        "the transmission needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "10311404",
+        "756047",
+        "755923",
+        "754184",
+        "752983",
+        "745170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Differential Failure",
+      "impact": "The failure of the rear differential can cause the vehicle to make noise, leak oil, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The rear differential leaks oil",
+        "the vehicle makes a noise",
+        "the rear differential needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "10008798",
+        "10006857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the deactivation of the airbags, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The SRS (Supplemental Restraint System) light comes on",
+        "the airbag system disables itself",
+        "the airbag system fails to reactivate after disabling",
+        "the airbag system malfunctions in heavy rain or specific driving conditions."
+      ],
+      "odiNumbers": [
+        "10259711",
+        "10251604",
+        "10237807",
+        "757713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Transparency and Cooperation from Manufacturer",
+      "impact": "The lack of transparency and cooperation from the manufacturer can lead to a delay in addressing safety concerns, potentially putting drivers and passengers at risk.",
+      "symptoms": [
+        "The manufacturer fails to provide information about the type of airbag inflator used",
+        "the manufacturer does not provide a clear timeline for the availability of replacement parts",
+        "the manufacturer does not acknowledge the safety concern."
+      ],
+      "odiNumbers": [
+        "11363527",
+        "10722868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Repair and Diagnostic Procedures",
+      "impact": "Inadequate repair and diagnostic procedures can lead to a failure to identify and address underlying safety issues, potentially causing further safety risks.",
+      "symptoms": [
+        "The dealer resets the SRS light without identifying the underlying issue",
+        "the dealer fails to replace the faulty SRS control unit",
+        "the dealer suggests changing driving habits instead of addressing the safety defect."
+      ],
+      "odiNumbers": [
+        "10259711",
+        "10251604",
+        "10237807",
+        "757713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Front Rotors due to Metallic Brake Pads",
+      "impact": "Warped front rotors can cause increased stopping distances, leading to a higher risk of accidents, and potentially result in loss of control or collision.",
+      "symptoms": [
+        "Increased braking distance",
+        "spongy brake pedal",
+        "vibrating steering wheel or brake pedal",
+        "grinding or screeching noise when applying brakes."
+      ],
+      "odiNumbers": [
+        "749744",
+        "10355493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the ABS system can cause loss of braking power, leading to accidents or loss of control, especially when driving at high speeds or in emergency braking situations.",
+      "symptoms": [
+        "Illuminated ABS warning light",
+        "loss of braking power",
+        "rear wheels spinning abnormally at different rates",
+        "spongy brake pedal",
+        "vibrating steering wheel or brake pedal."
+      ],
+      "odiNumbers": [
+        "10355493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause a short circuit, leading to a potential fire hazard.",
+      "symptoms": [
+        "The electrical panel gets hot",
+        "wires start to burn",
+        "and the vehicle is not wired according to the manufacturer's specifications."
+      ],
+      "odiNumbers": [
+        "860405",
+        "860417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Fuses in Main Electrical Circuits",
+      "impact": "The absence of fuses in the main electrical circuits can cause a fire when using the air conditioner.",
+      "symptoms": [
+        "The electrical panel gets hot",
+        "wires start to burn",
+        "and the vehicle is not wired according to the manufacturer's specifications."
+      ],
+      "odiNumbers": [
+        "860405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Plumbing Issues",
+      "impact": "The malfunction of the plumbing system can cause odors and water damage.",
+      "symptoms": [
+        "The gray water tank overflows into the bathtub",
+        "and the vent pipe gets covered with water",
+        "causing odors."
+      ],
+      "odiNumbers": [
+        "860405",
+        "860417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuse Failure",
+      "impact": "The failure of a fuse can cause the emergency brake to disable, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle feels like it downshifted from one gear to first gear",
+        "and the emergency brake is disabled."
+      ],
+      "odiNumbers": [
+        "834821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Auto Park Brake Failure",
+      "impact": "The failure of the auto park brake can cause the vehicle to roll or move while parked, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle rolls or moves while parked",
+        "the brake shoes are worn out",
+        "the brake cable is burned and broken",
+        "the brake cable is improperly located and touching the exhaust system."
+      ],
+      "odiNumbers": [
+        "568038"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Overheating",
+      "impact": "Brake overheating can cause the brakes to fail, leading to loss of control and increased stopping distances, which can result in accidents or injuries.",
+      "symptoms": [
+        "The brakes overheat while descending grades",
+        "the brakes smoke or emit a burning smell",
+        "the brakes make a loud noise or grinding sound."
+      ],
+      "odiNumbers": [
+        "554783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto-Apply Parking Brake Malfunction",
+      "impact": "The malfunction of the auto-apply parking brake can cause the vehicle to roll freely, leading to accidents, injuries, or fatalities, especially when the vehicle is on an incline or in heavy traffic.",
+      "symptoms": [
+        "The auto-park brake applies itself while the vehicle is in motion",
+        "the emergency parking brake fails to hold the vehicle",
+        "the vehicle rolls freely after engaging the parking brake."
+      ],
+      "odiNumbers": [
+        "753695",
+        "868453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Parking Brake System",
+      "impact": "The inadequate parking brake system can cause the vehicle to roll freely, leading to accidents, injuries, or fatalities, especially when the vehicle is on an incline or in heavy traffic.",
+      "symptoms": [
+        "The parking brake fails to hold the vehicle",
+        "the vehicle rolls freely after engaging the parking brake",
+        "the transmission does not have a \"park\" gear",
+        "the vehicle is heavy for the type of parking brake used."
+      ],
+      "odiNumbers": [
+        "868453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Failure - Carbon Monoxide Infiltration",
+      "impact": "The failure of the exhaust system can cause carbon monoxide to infiltrate the vehicle, leading to poisoning, which can result in serious health problems, including respiratory issues, and even death.",
+      "symptoms": [
+        "Dizziness",
+        "headaches",
+        "nausea",
+        "vomiting",
+        "confusion",
+        "disorientation",
+        "and respiratory problems."
+      ],
+      "odiNumbers": [
+        "542725"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust System Failure - Exhaust Hanger Strap Breakage",
+      "impact": "The breakage of the exhaust hanger strap can cause damage to the tailpipe, leading to exhaust leaks, which can result in carbon monoxide infiltration into the vehicle, posing a risk to the health and safety of occupants.",
+      "symptoms": [
+        "Loud noises from the exhaust system",
+        "vibrations",
+        "and visible damage to the tailpipe."
+      ],
+      "odiNumbers": [
+        "536886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

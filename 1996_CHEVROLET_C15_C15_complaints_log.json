@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the wheels to lock up, leading to loss of control, accidents, and increased stopping distances, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the back wheels slide",
+        "the vehicle swerves or loses control",
+        "the brakes fail to function properly",
+        "the ABS system locks up",
+        "and the vehicle experiences increased stopping distances."
+      ],
+      "odiNumbers": [
+        "814402",
+        "809690",
+        "985768",
+        "980285",
+        "972117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The premature failure of brake pads can cause the brakes to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pads fail before their expected lifespan",
+        "the brakes malfunction",
+        "and the vehicle is involved in an accident."
+      ],
+      "odiNumbers": [
+        "825406",
+        "515621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Malfunction",
+      "impact": "The malfunction of the transmission can cause the vehicle to lose power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The transmission shifts hard",
+        "makes noise",
+        "and the vehicle experiences power loss."
+      ],
+      "odiNumbers": [
+        "825406",
+        "807786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Vibration",
+      "impact": "The vibration of the vehicle can cause discomfort, distraction, and loss of control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The passenger's side seat vibrates",
+        "and the vehicle makes noise when applying the brakes."
+      ],
+      "odiNumbers": [
+        "807786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment in Frontal Collisions",
+      "impact": "The failure of airbag deployment in frontal collisions can lead to increased risk of injury or fatality to the driver and passengers, as the airbag is designed to provide crucial protection in such scenarios.",
+      "symptoms": [
+        "Airbag does not deploy in frontal collisions",
+        "despite meeting the deployment threshold",
+        "potentially resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "842786",
+        "515621",
+        "801368",
+        "987257",
+        "985296",
+        "979287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Sticking and Unintended Acceleration",
+      "impact": "The throttle sticking and unintended acceleration can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The throttle sticks and does not slow down when releasing the gas",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle accelerates at high speed when starting on a cold start",
+        "the cruise control does not disengage",
+        "the vehicle continues to accelerate even when applying brakes."
+      ],
+      "odiNumbers": [
+        "986493",
+        "983906",
+        "979887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

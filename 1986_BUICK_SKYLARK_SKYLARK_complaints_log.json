@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE",
+    "EQUIPMENT",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractors can render the seatbelts unusable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelts remain locked and cannot be extended",
+        "the seatbelts will not come out of their housing",
+        "the seatbelts are inoperable."
+      ],
+      "odiNumbers": [
+        "706329",
+        "968990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure (Water Pump)",
+      "impact": "A failed water pump can cause the engine to overheat, leading to damage to the engine, cylinder head, and other components, resulting in costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The temperature gauge rises to the red zone",
+        "the coolant level drops",
+        "the vehicle overheats",
+        "the water pump leaks coolant",
+        "the engine makes a loud whining or grinding noise."
+      ],
+      "odiNumbers": [
+        "534466",
+        "510203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "A defective engine head gasket can cause the engine to overheat, leading to damage to the engine, cylinder head, and other components, resulting in costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The temperature gauge rises to the red zone",
+        "the coolant level drops",
+        "the vehicle overheats",
+        "white smoke comes out of the exhaust pipe",
+        "the engine oil becomes contaminated with coolant."
+      ],
+      "odiNumbers": [
+        "510203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intake Gasket Failure",
+      "impact": "The failure of the intake gasket can cause coolant leaks, leading to overheating, engine damage, and potentially causing the vehicle to stall or catch fire, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Smoke coming out of the hood",
+        "excessive coolant consumption",
+        "engine overheating",
+        "engine stalling",
+        "or loss of power."
+      ],
+      "odiNumbers": [
+        "10078537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Dashboard Failure",
+      "impact": "The failure of the electronic dashboard can cause the loss of critical vehicle information, such as speed, fuel level, and warning lights, which can lead to accidents or leave the driver unaware of potential safety issues.",
+      "symptoms": [
+        "The dashboard display is blank or unresponsive",
+        "the dashboard display is dim or flickering",
+        "the dashboard display is showing incorrect or erratic information",
+        "the dashboard warning lights are not functioning",
+        "the dashboard is experiencing intermittent or complete failure."
+      ],
+      "odiNumbers": [
+        "10071285",
+        "10432119",
+        "10394218",
+        "10385139",
+        "10374219",
+        "10364118",
+        "10358139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Failure",
+      "impact": "A failed battery can cause the vehicle to stall or not start, leaving the driver stranded and potentially causing accidents or inconvenience.",
+      "symptoms": [
+        "The vehicle won't start",
+        "the battery is dead",
+        "the battery is not holding a charge",
+        "the battery is swollen or bloated",
+        "the vehicle's electrical systems are malfunctioning."
+      ],
+      "odiNumbers": [
+        "534466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

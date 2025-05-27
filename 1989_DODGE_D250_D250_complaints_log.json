@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Failure",
+      "impact": "The failure of the front brakes can cause the vehicle to skid or pull to one side, increasing the risk of accidents, especially on wet roads.",
+      "symptoms": [
+        "The vehicle takes longer to stop",
+        "the front brakes do not hold",
+        "the vehicle skids or pulls to one side when braking",
+        "unusual sounds from the front end",
+        "visible damage to the upper frame or A-frame."
+      ],
+      "odiNumbers": [
+        "819668",
+        "813779",
+        "514398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The brakes lock up",
+        "the vehicle becomes difficult to control",
+        "the ABS warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "514952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to fail or lock up, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brakes lock up",
+        "the brake pedal feels soft or spongy",
+        "the vehicle takes longer to stop",
+        "the brakes fail to respond."
+      ],
+      "odiNumbers": [
+        "514398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Cooling System Capacity",
+      "impact": "The insufficient cooling system capacity can cause the engine to overheat, leading to damage to engine components, reduced engine performance, and potentially causing a breakdown or accident.",
+      "symptoms": [
+        "The engine temperature gauge rises to the red zone",
+        "the temperature warning light illuminates",
+        "the engine overheats",
+        "the coolant level drops",
+        "the coolant leaks",
+        "the vehicle loses power or stalls."
+      ],
+      "odiNumbers": [
+        "707471",
+        "707471",
+        "707414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Manual Transmission Failure in Diesel Engine Trucks",
+      "impact": "The failure of the manual transmission can cause the vehicle to lose power, stall, or become difficult to shift, leading to accidents, loss of control, or strandings, especially when towing or hauling heavy loads.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting",
+        "the transmission grinds or makes unusual noises when shifting",
+        "the transmission fails to engage into gear",
+        "the transmission jumps out of gear",
+        "the vehicle loses power or stalls",
+        "difficulty shifting into gear",
+        "especially when cold."
+      ],
+      "odiNumbers": [
+        "977225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Deteriorated Fuel Line Causing Engine Compartment Fire",
+      "impact": "A deteriorated fuel line can cause fuel leakage, leading to an engine compartment fire, which can result in serious injury, fatalities, or significant vehicle damage.",
+      "symptoms": [
+        "Fuel smell or leak in the engine compartment",
+        "visible signs of fuel leakage",
+        "engine compartment fire",
+        "warning lights or alarms indicating a fuel system issue."
+      ],
+      "odiNumbers": [
+        "969606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Seat Belt Buckle Failure",
+      "impact": "The failure of the front seat belt buckle can prevent the seat belt from properly restraining the occupant, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle fails to latch or unlatch",
+        "the seat belt buckle is stuck",
+        "the seat belt buckle is loose",
+        "the seat belt warning light is illuminated",
+        "the seat belt is unable to be secured."
+      ],
+      "odiNumbers": [
+        "964379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

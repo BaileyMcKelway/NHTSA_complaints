@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the engine to malfunction, leading to engine smoke and fire, which can result in a loss of vehicle control, accidents, and potentially even loss of life.",
+      "symptoms": [
+        "The engine starts spurring or missing",
+        "the engine starts smoking",
+        "the engine catches fire",
+        "the main fuse box ignites."
+      ],
+      "odiNumbers": [
+        "10137800",
+        "711313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "Battery failure can cause electrical system malfunctions, leading to potential fires, and damage to other vehicle components.",
+      "symptoms": [
+        "Battery leaks",
+        "acid spills",
+        "burning holes in nearby components (e.g. charcoal canister)."
+      ],
+      "odiNumbers": [
+        "711313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can lead to a lack of warning to other drivers or pedestrians, potentially causing accidents or injuries.",
+      "symptoms": [
+        "The horn fails to sound or is inaudible."
+      ],
+      "odiNumbers": [
+        "608778"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Lock-Up",
+      "impact": "The sudden lock-up of the steering column can cause loss of steering control, leading to accidents, injuries, and property damage.",
+      "symptoms": [
+        "The steering wheel locks up while driving",
+        "the steering wheel vibrates or makes a popping noise",
+        "the vehicle veers off course or crashes",
+        "the driver is unable to turn the wheel."
+      ],
+      "odiNumbers": [
+        "8013226",
+        "743499",
+        "822429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Window Motor Failure",
+      "impact": "The failure of the window motor can cause the windows to malfunction, making it difficult or impossible to operate the windows, which can lead to safety issues, such as reduced visibility, and inconvenience.",
+      "symptoms": [
+        "The windows do not roll up or down",
+        "the windows are stuck in a particular position",
+        "the windows make unusual noises or vibrations when operating."
+      ],
+      "odiNumbers": [
+        "609471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sun Roof Malfunctions",
+      "impact": "The malfunction of the sun roof can cause the sun roof to become stuck or fall, which can lead to safety issues, such as distraction or injury, and inconvenience.",
+      "symptoms": [
+        "The sun roof does not open or close",
+        "the sun roof is stuck in a particular position",
+        "the sun roof makes unusual noises or vibrations when operating."
+      ],
+      "odiNumbers": [
+        "609421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can cause reduced visibility while driving, which can lead to accidents, especially in heavy rain or snow conditions.",
+      "symptoms": [
+        "The windshield wipers stop working",
+        "the windshield wipers work intermittently",
+        "the windshield wipers make unusual noises or vibrations when operating."
+      ],
+      "odiNumbers": [
+        "820695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

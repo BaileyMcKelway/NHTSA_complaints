@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause loss of control, extended stopping distance, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The anti-lock brakes fail to engage",
+        "the brake pedal goes to the floor",
+        "the vehicle loses control",
+        "the vehicle takes longer to stop",
+        "the vehicle is involved in an accident."
+      ],
+      "odiNumbers": [
+        "515449",
+        "800587",
+        "969940",
+        "486204"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of control, extended stopping distance, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the vehicle loses control",
+        "the vehicle is involved in an accident."
+      ],
+      "odiNumbers": [
+        "800587",
+        "969940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Conditioner Compressor Failure",
+      "impact": "The failure of the air conditioner compressor can cause discomfort and distraction to the driver, which can lead to accidents.",
+      "symptoms": [
+        "The air conditioner compressor fails",
+        "the air conditioner does not work",
+        "the air conditioner is noisy."
+      ],
+      "odiNumbers": [
+        "526232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Pad Failure",
+      "impact": "The failure of the front brake pads can cause loss of control, extended stopping distance, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The front brake pads wear out prematurely",
+        "the brake pedal vibrates",
+        "the vehicle takes longer to stop",
+        "the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "526232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver's Side Airbag to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in the event of a crash can increase the risk of injury or fatality to the driver.",
+      "symptoms": [
+        "The airbag does not deploy during an accident",
+        "resulting in injury or potential fatality."
+      ],
+      "odiNumbers": [
+        "823392",
+        "983841",
+        "983841",
+        "961464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Idle Speed Monitor Malfunction",
+      "impact": "The unintended acceleration can lead to accidents, injuries, or fatalities, especially if the vehicle is in motion or in heavy traffic.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "the engine RPM increases suddenly",
+        "the vehicle surges forward",
+        "the battery indicator shows low voltage",
+        "the vehicle starts to cut off",
+        "flooding occurs."
+      ],
+      "odiNumbers": [
+        "873943",
+        "960116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a loss of power, leading to a loss of vehicle control, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle experiences a loss of power",
+        "the electrical system fails",
+        "the vehicle's systems malfunction."
+      ],
+      "odiNumbers": [
+        "517669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

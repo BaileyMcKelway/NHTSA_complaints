@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING",
+    "POWER TRAIN",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Mount Failure",
+      "impact": "The failure of the driver's side seat belt mount can lead to a complete loss of seat belt functionality, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt mount is broken or frayed",
+        "the seat belt fails to buckle",
+        "the seat belt mechanism appears to be broken",
+        "the seat belt is rendered unsafe to use."
+      ],
+      "odiNumbers": [
+        "11447959",
+        "10907128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver's Side Seat Belt Buckle Failure",
+      "impact": "The failure of the driver's side seat belt buckle can prevent the seat belt from functioning properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to buckle",
+        "the seat belt mechanism appears to be broken",
+        "the seat belt is rendered unsafe to use."
+      ],
+      "odiNumbers": [
+        "10907128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality to occupants, as they are not provided with the necessary protection to mitigate the impact of the collision.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "10907130",
+        "10650608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Turn Signal Indicator Failure",
+      "impact": "The failure of the front turn signal indicators can increase the risk of accidents, as other drivers may not be aware of the vehicle's intentions to turn, which can lead to collisions.",
+      "symptoms": [
+        "The front turn signal indicators do not illuminate",
+        "the turn signal indicators do not function properly",
+        "the turn signal indicators fail to operate without warning."
+      ],
+      "odiNumbers": [
+        "11110785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure to Shift due to Moisture",
+      "impact": "The transmission's failure to shift gears, especially on highways and parkways, can cause the vehicle to lose power and potentially lead to accidents or strand the driver. The occurrence of this issue in elevated ambient moisture conditions suggests a design or manufacturing flaw.",
+      "symptoms": [
+        "The transmission goes into \"three bars\" mode",
+        "the transmission fails to shift gears",
+        "the vehicle loses power",
+        "the transmission shifts into neutral",
+        "the vehicle coasts to the side of the road."
+      ],
+      "odiNumbers": [
+        "10966517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Body Panel Detachment",
+      "impact": "The sudden detachment of a body panel while driving can cause a loss of control, increasing the risk of accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The body panel suddenly disengages or falls off while driving",
+        "creating a loud noise",
+        "and potentially causing damage to surrounding components or other vehicles."
+      ],
+      "odiNumbers": [
+        "10874568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

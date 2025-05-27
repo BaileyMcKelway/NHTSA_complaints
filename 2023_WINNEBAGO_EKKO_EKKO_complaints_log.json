@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "LANE DEPARTURE",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blind Spot Monitoring System Failure",
+      "impact": "The failure of the Blind Spot Monitoring System can lead to accidents or near-misses, as drivers may not be aware of vehicles in their blind spot, especially during lane changes or merging.",
+      "symptoms": [
+        "The system fails to provide warnings or alerts",
+        "provides false warnings",
+        "or detects vehicles only on one side of the vehicle. In some cases",
+        "the system may flash lights randomly or present a safety hazard due to bright indicators during night driving."
+      ],
+      "odiNumbers": [
+        "11551488",
+        "11546902",
+        "11544962",
+        "11541048",
+        "11534883",
+        "11534807",
+        "11534864",
+        "11533967",
+        "11523807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Balmar Alternator Failure",
+      "impact": "The failure of the Balmar alternator can cause heavy smoke, a strong smell, and potentially lead to a fire, which can put the occupants' lives at risk.",
+      "symptoms": [
+        "Heavy smoke",
+        "strong smell",
+        "no visible fire",
+        "loud high-pitched whine",
+        "alternator overheating."
+      ],
+      "odiNumbers": [
+        "11591405",
+        "11588042",
+        "11534875",
+        "11534830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inaccurate Floor Liner Tray Design",
+      "impact": "The incorrect design of the floor liner tray can cause it to slip out of place, potentially interfering with the driver's ability to operate the vehicle safely.",
+      "symptoms": [
+        "The floor liner tray does not match the fastener locations in the vehicle's floor",
+        "the tray slips under the gas and brake pedals",
+        "the tray does not fit securely in place."
+      ],
+      "odiNumbers": [
+        "11570065"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Propane Line Damage and Safety Hazard",
+      "impact": "The worn and frayed propane line can cause a safety hazard, potentially leading to a fire or explosion, and compromising the overall safety of the vehicle's occupants.",
+      "symptoms": [
+        "The propane line is worn and frayed",
+        "the line rubs against the rear tires",
+        "the line is damaged and needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11549721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration when braking",
+        "vehicle accelerates without input from the driver",
+        "engine revving up when stepping on the brake pedal",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "11020170",
+        "10534872",
+        "10365088",
+        "10330094"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the vehicle fails to respond when the brake pedal is depressed",
+        "the engine revs when the brake pedal is depressed",
+        "the emergency brake must be applied to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10840237",
+        "10633596",
+        "10364637",
+        "10342918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Shaft Fracture",
+      "impact": "A fractured steering shaft can cause the steering wheel to seize or become difficult to turn, leading to a loss of vehicle control and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel seizes or becomes difficult to turn",
+        "the vehicle sways to one side without warning",
+        "the steering wheel feels stiff or hard to turn."
+      ],
+      "odiNumbers": [
+        "11404636",
+        "10790163",
+        "10562609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially at low speeds.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "often when tapping the brake pedal or pressing the accelerator pedal",
+        "and can only be stopped by turning off the ignition or shifting into neutral."
+      ],
+      "odiNumbers": [
+        "10806229",
+        "10329225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Locking/Unlocking Issue",
+      "impact": "The unexpected locking and unlocking of doors can cause distraction, inconvenience, and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "The front driver-side door independently locks and unlocks while driving",
+        "without any warning or apparent cause."
+      ],
+      "odiNumbers": [
+        "10894409"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause accidents, injuries, and even fatalities, as the vehicle may accelerate unexpectedly, making it difficult for the driver to control.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without pressing the throttle",
+        "the vehicle accelerates hard even when tapping the brake",
+        "the vehicle rolls backwards or forwards unexpectedly",
+        "the vehicle crashes into other objects or vehicles."
+      ],
+      "odiNumbers": [
+        "10949532",
+        "10272364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, making it difficult to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle rolls backwards or forwards unexpectedly",
+        "the vehicle fails to engage into gear",
+        "the vehicle slips out of gear",
+        "the vehicle makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "10272364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

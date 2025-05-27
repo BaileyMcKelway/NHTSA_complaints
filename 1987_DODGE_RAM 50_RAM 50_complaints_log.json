@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to a higher risk of injury or fatality in the event of an accident, as the seat belt may not properly restrain the occupant.",
+      "symptoms": [
+        "The seat belt buckle does not latch",
+        "the seat belt buckle breaks",
+        "the seat belt buckle has broken pieces inside",
+        "the seat belt buckle will not buckle",
+        "the seat belt buckle has a latching deficiency."
+      ],
+      "odiNumbers": [
+        "530964",
+        "816098",
+        "815744",
+        "810762",
+        "986627",
+        "985838",
+        "966338",
+        "966028",
+        "965703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dealership Failure to Address Recall",
+      "impact": "The failure of dealerships to address the recall can lead to a delay in repairing the defective seat belt buckle, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Dealership claims to have completed the recall work but did not",
+        "dealership claims parts are not available",
+        "dealership is not aware of the recall."
+      ],
+      "odiNumbers": [
+        "816098",
+        "815744",
+        "810762",
+        "986627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Box Gear Failure",
+      "impact": "The failure of the steering box gear can cause loss of power steering assist, making it difficult to steer the vehicle, which can increase the risk of accidents, especially at low speeds.",
+      "symptoms": [
+        "Unusual noise or grinding sound when turning the steering wheel",
+        "difficulty steering the vehicle",
+        "loss of power steering assist",
+        "feeling of tightness or stiffness in the steering wheel."
+      ],
+      "odiNumbers": [
+        "966338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Leak",
+      "impact": "An engine oil leak can cause engine damage, overheating, and potentially lead to engine failure, which can result in costly repairs, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Oil droplets or puddles under the vehicle",
+        "oil stains on the garage floor or driveway",
+        "increased engine noise",
+        "decreased engine performance",
+        "low oil pressure warning light illumination",
+        "oil smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "966338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

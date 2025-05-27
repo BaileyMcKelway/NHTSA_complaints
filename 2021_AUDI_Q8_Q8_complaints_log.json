@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "POWER TRAIN",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to lose all electrical power, leading to a sudden loss of critical safety systems, including turn signals, emergency blinkers, and propulsion, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Warning indicators transition from yellow to red",
+        "error messages display on the dashboard",
+        "loss of availability of various electrical and safety systems",
+        "battery icon glows yellow or red",
+        "transmission warning messages",
+        "sudden loss of power",
+        "inability to restart the vehicle."
+      ],
+      "odiNumbers": [
+        "11576760",
+        "11565007",
+        "11559071",
+        "11554630",
+        "11546514",
+        "11546114",
+        "11502819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Fuel System Issue",
+      "impact": "The delay in repairing the fuel system issue can lead to a potential safety risk, as the recall aims to address a problem that could cause fuel leaks, fires, or other hazards.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall and the contact has not experienced a failure."
+      ],
+      "odiNumbers": [
+        "11503676",
+        "11499018",
+        "11495244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Audi Quattro Electronic All-Wheel Drive System Malfunction",
+      "impact": "The malfunction of the Audi Quattro Electronic all-wheel drive system can cause the vehicle to stutter or shake, making it difficult to control, especially when navigating curves or changing lanes, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle feels like it's hitting a patch of black ice or an oil slick",
+        "the vehicle stutters or shakes",
+        "the tires seem to lower when changing lanes or going around curves",
+        "the front and rear axles are not in sync with the Audi Quattro Electronic all-wheel drive system."
+      ],
+      "odiNumbers": [
+        "11573249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to shut off while driving, resulting in a loss of power and control, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle shuts off while driving",
+        "a warning message appears on the instrument panel indicating an electrical problem",
+        "the vehicle loses power and control."
+      ],
+      "odiNumbers": [
+        "11432422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear-View Camera and Parking Assist System Failure",
+      "impact": "The failure of the rear-view camera and parking assist system can increase the risk of accidents or injuries while reversing, as the driver may not have visibility of obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "The rear-view camera fails to operate",
+        "the screen displays a white blinking screen",
+        "the parking assist system does not provide warnings or visibility",
+        "the system is activated but does not function properly."
+      ],
+      "odiNumbers": [
+        "11491633",
+        "11470373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

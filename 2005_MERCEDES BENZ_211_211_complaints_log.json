@@ -1,0 +1,72 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sensotronic Brake Control (SBC) System Failure",
+      "impact": "The failure of the SBC system can cause a sudden loss of brake power, leading to increased stopping distance, which can result in accidents or near-miss situations.",
+      "symptoms": [
+        "Sudden loss of brake power",
+        "increased stopping distance",
+        "red warning light on the dashboard",
+        "beeping or warning messages",
+        "feeling of no brakes or reduced braking power",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "11067330",
+        "11044436",
+        "11000927",
+        "10943757",
+        "10812021",
+        "10788820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Leak/Vapor Issue",
+      "impact": "The fuel system leak or vapor issue can cause a strong smell of gasoline in the garage or passenger compartment, potentially leading to a fire hazard or explosion.",
+      "symptoms": [
+        "Strong smell of gasoline or fuel vapors in the garage or passenger compartment",
+        "especially when the fuel tank is full; smell subsides when fuel tank level reaches 3/4 to 1/2 full; smell detectable near the left rear of the vehicle; smell coming from underneath the rear passenger seat; vehicle takes longer to start",
+        "turning over several times before starting."
+      ],
+      "odiNumbers": [
+        "10899135",
+        "10776088",
+        "10650389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank and Fuel Filter Module Leaks",
+      "impact": "The leakage of fuel from the fuel tank and fuel filter modules can cause a strong gasoline odor, which can lead to health risks, fire hazards, and environmental pollution. If left unchecked, it can also cause fuel to accumulate under the vehicle, posing a significant safety risk.",
+      "symptoms": [
+        "Strong gasoline odor inside and outside the vehicle",
+        "especially after refueling",
+        "fuel smell coming from under the back seat",
+        "fuel smell in the garage",
+        "fuel fumes noticed inside the house",
+        "puddle of gas under the back seat."
+      ],
+      "odiNumbers": [
+        "10604600",
+        "10578964",
+        "10563327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "ENGINE",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Manifold Failure",
+      "impact": "The failure of the intake manifold can cause the engine light to come on, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Engine light comes on",
+        "P2015 code",
+        "soft or spongy clutch pedal",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11242974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant System Failure",
+      "impact": "The failure of the coolant system can cause the coolant level to drop, leading to engine damage and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Coolant level drops",
+        "coolant light comes on",
+        "vehicle overheats",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "10809407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Response Failure",
+      "impact": "The failure of the throttle response can cause the vehicle to stall or hesitate, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "Zero throttle response",
+        "vehicle hesitates or stalls",
+        "engine speed indicator shows idle speed for an extended period."
+      ],
+      "odiNumbers": [
+        "10582830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure - Lag, Jolt, and Unintended Neutral Shift",
+      "impact": "The transmission failure can cause the vehicle to lag or jolt when shifting, leading to loss of control, accidents, or leaving the driver stranded. Unintended shifting into neutral can cause the vehicle to lose power, leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle experiences a lag or delay when shifting into gear",
+        "the engine revs before the transmission engages",
+        "the vehicle shakes or jerks abnormally",
+        "the vehicle revs loudly before shifting into the next gear",
+        "the check engine light is illuminated",
+        "the vehicle unexpectedly shifts into neutral while in motion."
+      ],
+      "odiNumbers": [
+        "11510891",
+        "11463091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure Due to Low Oil Level",
+      "impact": "The engine failure due to low oil level can cause the vehicle to stall or die while driving, leading to a loss of control and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The engine slows down",
+        "the engine light flashes",
+        "and the vehicle dies; the vehicle stalls without warning; the vehicle makes a loud sound before stalling; white smoke emitting from the engine compartment."
+      ],
+      "odiNumbers": [
+        "11217360",
+        "10575421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Oil Level Warning",
+      "impact": "The absence of an oil level warning light can lead to engine failure due to low oil level, causing the vehicle to stall or die while driving, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "No warning lights or indicators before engine failure; no oil level warning light; sudden engine failure without warning."
+      ],
+      "odiNumbers": [
+        "11217360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Fire",
+      "impact": "The engine fire can cause damage to the vehicle and surrounding property, and can lead to injuries or fatalities.",
+      "symptoms": [
+        "White smoke emitting from the engine compartment; loud sound before the vehicle stalls; vehicle becomes engulfed in flames."
+      ],
+      "odiNumbers": [
+        "10575421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Wheel Electrical Connector Failure",
+      "impact": "The failure of the steering wheel electrical connector can cause a range of issues, including airbag malfunction, non-functional horn, and loss of cruise control, which can increase the risk of accidents and compromise vehicle safety.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "horn does not function",
+        "cruise control is inoperable",
+        "other steering wheel-mounted controls may malfunction."
+      ],
+      "odiNumbers": [
+        "11559334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Stability Control (ESC) and Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ESC and ABS systems can cause a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS light",
+        "Electronic Stability Control light",
+        "Steering Wheel Fault warning light",
+        "and Check Engine light illuminate on the dashboard",
+        "accompanied by a fault description message \"FAULT: ABS/ELECTRONIC STABILIZATION CONTROL\"."
+      ],
+      "odiNumbers": [
+        "11062173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "totalComplaints": 78,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "Unintended vehicle movement can cause accidents, injuries, or fatalities, especially if the vehicle is on a slope or in a confined space.",
+      "symptoms": [
+        "The vehicle moves forward or backward without the driver's input",
+        "even when the transmission is in park or the parking brake is engaged."
+      ],
+      "odiNumbers": [
+        "11524046",
+        "11476279",
+        "11474914",
+        "11473524",
+        "11471854"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of vehicle control, accidents, or strand the driver, especially if it occurs while driving at high speeds or on inclines.",
+      "symptoms": [
+        "The transmission shifts erratically",
+        "hesitates",
+        "or fails to engage",
+        "causing the vehicle to lose power or stall. Error messages may appear on the dashboard",
+        "and the vehicle may be unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11541462",
+        "11490981",
+        "11484301",
+        "11467606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Throttle and Cruise Control Issues",
+      "impact": "Electronic throttle and cruise control issues can cause unintended acceleration, loss of vehicle control, or accidents, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The vehicle surges or accelerates unexpectedly",
+        "or the cruise control malfunctions",
+        "causing the vehicle to speed up or slow down without the driver's input."
+      ],
+      "odiNumbers": [
+        "11533124",
+        "11519405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can cause accidents, injuries, or fatalities, especially if the vehicle is traveling at high speeds or on inclines.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "or the vehicle experiences a hard downshift",
+        "causing the rear tires to slip or the vehicle to lose control."
+      ],
+      "odiNumbers": [
+        "11490981",
+        "11484301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Power Train Recall Issues",
+      "impact": "Power train recall issues can cause unintended vehicle movement, transmission failure, or loss of vehicle control, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle experiences issues related to the power train recall",
+        "such as unintended acceleration",
+        "transmission failure",
+        "or loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11500898",
+        "11491586",
+        "11491665",
+        "11474914",
+        "11473524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Seat Adjustment Issues",
+      "impact": "Seat adjustment issues can cause discomfort or distraction while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The driver's seat lays back on its own",
+        "requiring the driver to adjust it manually."
+      ],
+      "odiNumbers": [
+        "11551652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause the backup camera and navigation system to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The screen that displays the backup camera and navigation system turns off randomly",
+        "the backup camera does not engage when in reverse gear",
+        "the infotainment screen stays in a normal state when switching to reverse gear."
+      ],
+      "odiNumbers": [
+        "11590466",
+        "11589279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "System Fault Warnings and Malfunctions",
+      "impact": "The system fault warnings and malfunctions can cause the loss of vital safety features, such as ABS, traction control, and forward collision warning, leading to increased risk of accidents.",
+      "symptoms": [
+        "Sudden \"SYSTEM FAULT\" warning",
+        "check engine light",
+        "collision avoidance and braking disabled",
+        "TCS OFF",
+        "ABS",
+        "and other warning lights",
+        "loss of traction control",
+        "and increased sliding around."
+      ],
+      "odiNumbers": [
+        "11533471",
+        "11504618",
+        "11480478",
+        "11475504",
+        "11451765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the malfunction of various systems, including the door locks, alarm system, and fuel mileage reading, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "Doors will not lock or unlock properly",
+        "incorrect fuel mileage reading",
+        "doors can be opened despite being locked",
+        "and car alarm can be triggered."
+      ],
+      "odiNumbers": [
+        "11468856",
+        "11461177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sensor and Camera Malfunctions",
+      "impact": "The sensor and camera malfunctions can cause the malfunction of various safety features, including the forward collision avoidance system, backup camera, and AEB sensor, leading to increased risk of accidents.",
+      "symptoms": [
+        "Forward collision avoidance system suddenly activates",
+        "backup camera stops working",
+        "AEB sensor is not working",
+        "and unexpected AEB lock engagement."
+      ],
+      "odiNumbers": [
+        "11480478",
+        "11442197",
+        "11451765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Trailer Wiring Issue",
+      "impact": "The trailer wiring issue can cause a fire hazard, leading to potential accidents and injuries.",
+      "symptoms": [
+        "Smoke and fire blown fuse when connecting trailer wiring",
+        "screw goes between ground and hot wire",
+        "causing a short circuit."
+      ],
+      "odiNumbers": [
+        "11502980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Delay",
+      "impact": "The delay in the infotainment system turning on can cause inconvenience and distraction to the driver, potentially leading to accidents.",
+      "symptoms": [
+        "The infotainment system takes up to a minute to turn on",
+        "sometimes requiring multiple updates from the dealer."
+      ],
+      "odiNumbers": [
+        "11587379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Camera System Failure",
+      "impact": "The failure of the camera system, including the rearview camera, can cause a safety concern, particularly when reversing, and may lead to accidents.",
+      "symptoms": [
+        "All cameras stop working",
+        "including the rearview camera",
+        "even when in reverse gear."
+      ],
+      "odiNumbers": [
+        "11552556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause significant damage and pose a risk to the occupants' safety.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "resulting in significant damage",
+        "with unknown causes."
+      ],
+      "odiNumbers": [
+        "11534569",
+        "11513062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Poor Gas Mileage and Transmission Issues",
+      "impact": "Inaccurate gas mileage readings and transmission issues can cause inconvenience, increased fuel costs, and potentially lead to accidents.",
+      "symptoms": [
+        "The vehicle's gas mileage reading is inaccurate",
+        "showing higher mileage than actual; transmission shifting issues",
+        "lagging",
+        "and slipping when driving from a stop."
+      ],
+      "odiNumbers": [
+        "11506848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "False Safety Alarms and Braking Issues",
+      "impact": "False safety alarms and unexpected braking can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The backup alarm goes off and brakes lock up unexpectedly",
+        "even when there are no obstacles; seatbelt alarm goes off while wearing a seatbelt; and dash lights flash with system failure messages."
+      ],
+      "odiNumbers": [
+        "11490067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unresponsive Manufacturer and Dealership",
+      "impact": "Unresponsive manufacturers and dealerships can lead to delayed or unresolved safety issues, putting drivers at risk.",
+      "symptoms": [
+        "Difficulty in getting assistance from the manufacturer's consumer affairs number",
+        "dealerships being restricted by the manufacturer",
+        "and lack of resolution to safety issues."
+      ],
+      "odiNumbers": [
+        "11485150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Automatic Braking Issues",
+      "impact": "Automatic braking issues can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle's brakes are applied automatically when using cruise control at highway speeds",
+        "particularly when going under an underpass with strong shadows."
+      ],
+      "odiNumbers": [
+        "11482097"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can cause accidents, injuries, and fatalities due to reduced traction and control.",
+      "symptoms": [
+        "Tires wear out prematurely",
+        "with excessive wear on certain spots",
+        "despite being within the warranty period."
+      ],
+      "odiNumbers": [
+        "11481324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "POWER TRAIN",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Knocking or Pinging",
+      "impact": "The engine knocking or pinging can lead to premature engine wear, increased oil consumption, and potentially cause engine failure, which can result in costly repairs and compromise vehicle safety.",
+      "symptoms": [
+        "Excessive engine knocking or pinging at high RPM",
+        "engine knocking or pinging under load",
+        "engine noise or vibration."
+      ],
+      "odiNumbers": [
+        "751997",
+        "752030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Oil Consumption",
+      "impact": "Excessive engine oil consumption can lead to premature engine wear, engine failure, and potentially cause engine overheating, which can result in costly repairs and compromise vehicle safety.",
+      "symptoms": [
+        "Engine using excessive amounts of oil",
+        "engine oil level dropping rapidly",
+        "engine oil leaks."
+      ],
+      "odiNumbers": [
+        "10023108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of vehicle control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling without warning",
+        "engine shutting off while driving",
+        "difficulty restarting the engine."
+      ],
+      "odiNumbers": [
+        "10213642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Warping of Rotors and Brake Pads",
+      "impact": "The premature warping of rotors and brake pads can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Vibrations or pulsations when applying the brakes",
+        "uneven brake pad wear",
+        "warped or uneven rotor surfaces",
+        "squealing or grinding noises when braking."
+      ],
+      "odiNumbers": [
+        "10024623",
+        "735103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Sensor Failure",
+      "impact": "The failure of the fuel sensor can cause inaccurate fuel level readings, leading to fuel pump failure, which can result in engine stalling, loss of power, and potential accidents.",
+      "symptoms": [
+        "Inaccurate fuel level readings",
+        "fuel pump failure",
+        "engine stalling",
+        "loss of power",
+        "sudden shutdown of the engine."
+      ],
+      "odiNumbers": [
+        "10100150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping or Jumping Out of Gear",
+      "impact": "The transmission slipping or jumping out of gear can cause loss of control, accidents, or leave the driver stranded, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle jumps out of gear while driving",
+        "the transmission slips or hesitates",
+        "the vehicle experiences sudden loss of power",
+        "the vehicle makes unusual noises or vibrations",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10009098",
+        "10966445",
+        "10734988",
+        "10588926",
+        "10585118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Explosion",
+      "impact": "The sudden explosion of the sunroof can cause serious injury to the driver and passengers, including lacerations and potentially life-threatening harm.",
+      "symptoms": [
+        "The sunroof shatters or explodes suddenly",
+        "causing broken glass and debris to fall into the vehicle",
+        "and potentially causing injuries to occupants."
+      ],
+      "odiNumbers": [
+        "894599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to fail to start, leading to inconvenience, delays, and potential safety risks, especially if the vehicle is stranded in a hazardous location.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "grinding or buzzing noise when attempting to start",
+        "loud screeching or winding noise when turning the key",
+        "multiple attempts required to start the engine",
+        "warning indicators illuminated on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11431030",
+        "11364268",
+        "11325141",
+        "11204549",
+        "11203397",
+        "11109610",
+        "11080930",
+        "10995329",
+        "10935428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the vehicle to fail to start, leading to inconvenience and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Grinding or spinning noise on start-up",
+        "vehicle fails to start",
+        "multiple attempts required to start the vehicle."
+      ],
+      "odiNumbers": [
+        "11528506",
+        "11281503",
+        "11234106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents and injuries.",
+      "symptoms": [
+        "Vehicle accelerates more than intended",
+        "failure to stop when braking",
+        "crash resulting in injuries and damage."
+      ],
+      "odiNumbers": [
+        "11433384"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Vibration and Stalling",
+      "impact": "Engine vibration and stalling can cause loss of vehicle control, leading to accidents and injuries, as well as inconvenience and frustration.",
+      "symptoms": [
+        "Engine vibration or shake while in drive mode",
+        "stalling at high speeds",
+        "hesitation when accelerating",
+        "low oil level",
+        "engine ticking."
+      ],
+      "odiNumbers": [
+        "10606087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Misaligned Starter Motor",
+      "impact": "The misalignment of the starter motor can cause intermittent grinding, failure to engage, or spinning without starting the engine, leaving the driver stranded and potentially causing safety issues.",
+      "symptoms": [
+        "The starter motor grinds intermittently",
+        "the starter motor spins without starting the engine",
+        "the starter motor does not engage when the start button is pressed",
+        "the vehicle fails to start."
+      ],
+      "odiNumbers": [
+        "11480351",
+        "11053317"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

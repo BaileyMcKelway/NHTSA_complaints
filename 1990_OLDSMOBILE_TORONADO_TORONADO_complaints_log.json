@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Starting Issue",
+      "impact": "The malfunctioning computer chip can cause the vehicle to fail to start, leaving the driver stranded.",
+      "symptoms": [
+        "The dashboard displays \"Starting Disabled\"",
+        "the vehicle fails to start intermittently."
+      ],
+      "odiNumbers": [
+        "8020889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Short in Wiring Harness",
+      "impact": "The electrical short in the wiring harness can cause the dashboard lights and indicators to malfunction, leading to reduced visibility and potential safety risks.",
+      "symptoms": [
+        "Dashboard lights and indicators do not work in damp or cold weather",
+        "electrical short in the wiring harness under the dash."
+      ],
+      "odiNumbers": [
+        "783803",
+        "800655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Analog Instrument Panel Failure",
+      "impact": "The failure of the analog instrument panel can cause the driver to lose access to critical information, such as speed, fuel level, and engine performance, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Analog instrument panel fails to display information",
+        "dealer recommends replacement of the analog cluster."
+      ],
+      "odiNumbers": [
+        "806296",
+        "95"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Fire",
+      "impact": "The electrical fire can cause significant damage to the vehicle, potentially leading to a total loss, and poses a risk to the driver and occupants.",
+      "symptoms": [
+        "Electrical fire",
+        "potentially caused by a faulty catalytic converter or electrical system",
+        "resulting in a total loss of the vehicle."
+      ],
+      "odiNumbers": [
+        "982553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause a loss of braking power, leading to extended stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "844703",
+        "530453",
+        "530461",
+        "517802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to pull to one side when braking, reducing braking effectiveness and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle pulls to one side when braking",
+        "the vehicle experiences reduced braking effectiveness",
+        "the ABS system fails to operate properly."
+      ],
+      "odiNumbers": [
+        "517802",
+        "972223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Latch Failure",
+      "impact": "The failure of the seat belt latch can cause the seat belt to unlock or become stuck, potentially leading to accidents or injuries, especially in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The seat belt unlocks by itself while the vehicle is in motion or stationary",
+        "the seat belt becomes stuck and cannot be unlatched",
+        "the seat belt over-tightens and becomes difficult to remove."
+      ],
+      "odiNumbers": [
+        "10790380",
+        "969590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "TIRES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to extended stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The brakes lock up",
+        "the vehicle experiences extended stopping distances",
+        "the ABS warning light illuminates",
+        "the vehicle vibrates when applying the brakes",
+        "the brakes fail to catch",
+        "the vehicle goes into a spin."
+      ],
+      "odiNumbers": [
+        "8014972",
+        "830123",
+        "534920",
+        "984375",
+        "973837",
+        "479223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Box Mounting Failure",
+      "impact": "The failure of the steering box mounting can cause complete loss of steering ability, leading to accidents, injuries, or fatalities, especially at high speeds or on winding roads.",
+      "symptoms": [
+        "Sudden loss of steering control",
+        "steering wheel becomes difficult to turn or feels loose",
+        "steering box separates from the frame",
+        "sheared bolts",
+        "and cracking in the frame."
+      ],
+      "odiNumbers": [
+        "10452953",
+        "10437766",
+        "10254031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to stall, leading to accidents or leaving the driver stranded, especially on highways.",
+      "symptoms": [
+        "Transmission failure",
+        "stalling",
+        "check engine light illumination",
+        "and ABS light illumination."
+      ],
+      "odiNumbers": [
+        "872764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Steering Hose Failure",
+      "impact": "The failure of the power steering hose can cause loss of power steering assist, making it difficult to steer the vehicle, especially at low speeds.",
+      "symptoms": [
+        "Power steering hose failure",
+        "loss of power steering assist",
+        "and difficulty steering the vehicle."
+      ],
+      "odiNumbers": [
+        "479223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Miscellaneous Issues",
+      "impact": "Various issues, such as faulty door motors, regulator/alternator failure, and radiator failure, can cause inconvenience, discomfort, and safety risks to the driver and passengers.",
+      "symptoms": [
+        "Intermittent door lock issues",
+        "heat coming from the rear air conditioner",
+        "squeaking steering wheel",
+        "tire noise",
+        "and oil smell inside the passenger compartment."
+      ],
+      "odiNumbers": [
+        "872764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Failure",
+      "impact": "Tire tread separation and failure can cause loss of control, accidents, and rollovers, resulting in injuries and fatalities.",
+      "symptoms": [
+        "Tire tread separation",
+        "tire blowout",
+        "tire losing air",
+        "tire taking on an oval shape",
+        "loss of vehicle control",
+        "vehicle leaving the roadway",
+        "and rollover."
+      ],
+      "odiNumbers": [
+        "10067124",
+        "554981",
+        "554995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fused Jump Harness Failure (Recall 08S01)",
+      "impact": "The failure of the fused jump harness can cause electrical system malfunctions, leading to vehicle fires, which can result in property damage and pose a risk to occupants.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "vehicle fire",
+        "electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10128166",
+        "10218871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure (Unintended Acceleration)",
+      "impact": "The transmission failure can cause unintended acceleration, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle suddenly accelerates from 0 to 45 mph or faster",
+        "vehicle goes into fast gear without warning",
+        "starter failure",
+        "engine can be cold or hot when the issue occurs."
+      ],
+      "odiNumbers": [
+        "713945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

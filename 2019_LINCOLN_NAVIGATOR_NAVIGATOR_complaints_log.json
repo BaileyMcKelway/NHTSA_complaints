@@ -1,0 +1,151 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical systems to malfunction, including lighting, instrumentation, and safety features, which can increase the risk of accidents or leave the driver without essential information.",
+      "symptoms": [
+        "Failure of exterior lights (e.g.",
+        "front Lincoln emblem",
+        "rear brake lights)",
+        "failure of interior features (e.g.",
+        "heated seats)",
+        "failure of instrumentation (e.g.",
+        "speedometer",
+        "fuel gauge)",
+        "failure of safety features (e.g.",
+        "backup camera)."
+      ],
+      "odiNumbers": [
+        "11574535",
+        "11572663",
+        "11489383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "TCU (Telematics Control Unit) Failure",
+      "impact": "The failure of the TCU can prevent the vehicle from reporting critical safety information, which can compromise the safety of the vehicle and its occupants.",
+      "symptoms": [
+        "Failure of the Lincoln Way app",
+        "inability to connect to the vehicle's communication system."
+      ],
+      "odiNumbers": [
+        "11510106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Auto Start/Stop System Failure",
+      "impact": "The failure of the auto start/stop system can cause the vehicle to die while in drive, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle dies while in drive",
+        "message displays \"AUTO STARTSTOP SHIFT TO P",
+        "THEN RESTART ENGINE\"",
+        "low battery voltage warning."
+      ],
+      "odiNumbers": [
+        "11483353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The transmission shifting issues can cause the vehicle to jerk, hesitate, or stall, leading to a loss of control, accidents, or rear-end collisions.",
+      "symptoms": [
+        "The transmission revs or hesitates to shift gears",
+        "shifts gears aggressively",
+        "causes jerking or whiplash",
+        "displays unknown transmission messages",
+        "shudders and vibrates badly",
+        "gets stuck in high gears",
+        "hesitates to accelerate",
+        "RPMs suddenly increase before speed is reduced."
+      ],
+      "odiNumbers": [
+        "11567881",
+        "11537165",
+        "11514140",
+        "11471303",
+        "11457693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Mechanism Failure",
+      "impact": "The failure of the seat belt mechanism can cause the seat belt to bind or lock in place, potentially leading to injuries or accidents. In some cases, the seat belt pretensioner may explode, causing physical harm to the passenger.",
+      "symptoms": [
+        "The seat belt locks in place",
+        "the seat belt does not recoil properly",
+        "the seat belt pretensioner explodes",
+        "minor injuries to the chest area."
+      ],
+      "odiNumbers": [
+        "11580205",
+        "11541165",
+        "11242084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control System Malfunction",
+      "impact": "The malfunction of the cruise control system can cause unusual noises from the brakes, which can be distracting and potentially lead to accidents.",
+      "symptoms": [
+        "The brakes make an odd noise when using the cruise control",
+        "similar to the sound of getting up from a leather couch."
+      ],
+      "odiNumbers": [
+        "11242084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Window Washer System Failure",
+      "impact": "The failure of the window washer system can reduce visibility while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The window washers have failed multiple times",
+        "with video evidence available."
+      ],
+      "odiNumbers": [
+        "11242084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver Seat Malfunction",
+      "impact": "The malfunction of the driver seat can cause distractions while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The driver seat makes a loud noise",
+        "similar to something being loose",
+        "requiring multiple repairs."
+      ],
+      "odiNumbers": [
+        "11242084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

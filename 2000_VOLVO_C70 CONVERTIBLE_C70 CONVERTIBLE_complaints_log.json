@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Control Module Failure",
+      "impact": "The failure of the electronic throttle control module can cause sudden loss of power, deceleration, and reduced speed, which can lead to accidents or near-accidents, especially when driving on highways or uphill slopes.",
+      "symptoms": [
+        "Sudden loss of power",
+        "deceleration",
+        "reduced speed",
+        "engine and electronic throttle system warning indicators illuminated on the instrument panel",
+        "RPMs fluctuating",
+        "cruise control system malfunctioning",
+        "sluggish vehicle performance."
+      ],
+      "odiNumbers": [
+        "10460820",
+        "10324343",
+        "10141439",
+        "10137103",
+        "10131579",
+        "10130367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle System (ETS) Failure",
+      "impact": "The failure of the Electronic Throttle System (ETS) can cause sudden loss of power, loss of braking power, and loss of steering control, leading to dangerous emergency stops and potential accidents.",
+      "symptoms": [
+        "The ETS light illuminates on the dashboard",
+        "the cruise control disengages",
+        "the vehicle intermittently loses power",
+        "the vehicle's performance declines dramatically."
+      ],
+      "odiNumbers": [
+        "10132310",
+        "10131404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a fire or electrical short, leading to a loss of critical vehicle functions, such as air conditioning, and potentially causing a safety hazard.",
+      "symptoms": [
+        "A burning or electrical smell is present",
+        "a hole or melted plastic is found in the supplemental fuse box",
+        "a row of fuses is burnt to a crisp."
+      ],
+      "odiNumbers": [
+        "10196835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Rear Window Seal",
+      "impact": "The defective rear window seal can cause the rear window to loosen and dislodge, obstructing the rear view and potentially leading to accidents.",
+      "symptoms": [
+        "The rear window seal loosens",
+        "the rear window dislodges",
+        "the rear window obstructs the rear view."
+      ],
+      "odiNumbers": [
+        "10080354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Visor Pin Failure",
+      "impact": "The failure of the visor pin can cause the visor to hang down and obstruct the driver's view, potentially leading to accidents.",
+      "symptoms": [
+        "The visor pin shears",
+        "the visor hangs down",
+        "the visor obstructs the driver's view."
+      ],
+      "odiNumbers": [
+        "10016480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

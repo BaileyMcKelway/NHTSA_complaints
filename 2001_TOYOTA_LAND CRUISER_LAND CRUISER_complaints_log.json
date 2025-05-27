@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER",
+    "TIRES",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Actuator System Failure",
+      "impact": "The failure of the ABS actuator system can cause a sudden loss of power assist in the braking system, leading to increased stopping distances and increased risk of accidents, potentially resulting in fatalities.",
+      "symptoms": [
+        "Loud noise or buzzing from the dashboard",
+        "brake light",
+        "ABS",
+        "and VSC lights come on simultaneously",
+        "complete loss of braking power",
+        "brake pedal goes to the floor",
+        "and the vehicle may not stop or slow down."
+      ],
+      "odiNumbers": [
+        "11111799",
+        "10351106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Brake Booster Failure",
+      "impact": "The failure of the hydraulic brake booster can cause a sudden loss of brake function, leading to increased stopping distances, accidents, or even fatalities.",
+      "symptoms": [
+        "Sudden loss of brake function",
+        "requiring extreme force to slow down the vehicle",
+        "buzzer alarm sounds",
+        "numerous dashboard lights illuminate",
+        "including ABS",
+        "VSC",
+        "and brake lights."
+      ],
+      "odiNumbers": [
+        "10521473",
+        "10061901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, or even fatalities.",
+      "symptoms": [
+        "Sudden acceleration when pressing the brakes",
+        "especially when going down an incline."
+      ],
+      "odiNumbers": [
+        "10061901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spare Tire Steel Cable Failure",
+      "impact": "The sudden failure of the spare tire steel cable can cause the spare tire to fall off the vehicle, creating a road hazard and potentially leading to serious accidents, especially if it occurs on the highway.",
+      "symptoms": [
+        "The spare tire falls off the vehicle",
+        "the spare tire is no longer securely held in place",
+        "the steel cable is broken or damaged."
+      ],
+      "odiNumbers": [
+        "10723042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Spare Tire Mounting System",
+      "impact": "A faulty spare tire mounting system can cause the spare tire to become dislodged, creating a road hazard and potentially leading to serious accidents.",
+      "symptoms": [
+        "The spare tire is not securely held in place",
+        "the spare tire falls off the vehicle",
+        "the spare tire mounting system is damaged or broken."
+      ],
+      "odiNumbers": [
+        "10723042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spare Tire Cable Failure",
+      "impact": "The failure of the spare tire cable can cause the spare tire to separate from the vehicle, potentially leading to accidents or injuries, especially if the spare tire becomes a road hazard or obstructs traffic.",
+      "symptoms": [
+        "The spare tire suddenly detaches from the vehicle",
+        "often with a loud noise or sudden jolt",
+        "and may fall off while driving",
+        "potentially causing damage to the vehicle or other objects."
+      ],
+      "odiNumbers": [
+        "10400059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Skid Control System Malfunction",
+      "impact": "The malfunction of the vehicle skid control system can cause the front wheel to lock up at low speeds, making it difficult to control the vehicle, and potentially leading to accidents, injuries, or even rollovers.",
+      "symptoms": [
+        "The front wheel locks up at low speeds",
+        "making it impossible to clear intersections",
+        "objects and passengers are violently thrown forward",
+        "warning lights for ABS and VSC come on",
+        "wheels lock up at highway speeds",
+        "putting the vehicle in danger of rollover accidents."
+      ],
+      "odiNumbers": [
+        "10245599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

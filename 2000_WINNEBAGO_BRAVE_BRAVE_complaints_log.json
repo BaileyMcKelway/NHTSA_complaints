@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "FUEL SYSTEM",
+    "PARKING BRAKE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure due to Overheating",
+      "impact": "The brake failure due to overheating can cause the brakes to fail, leading to accidents or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal becomes hard",
+        "the brakes fail to respond",
+        "the brakes overheat",
+        "the vehicle is unable to stop",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10546181",
+        "10348343",
+        "8015869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Failure due to Caliper Issues",
+      "impact": "The brake failure due to caliper issues can cause the brakes to fail, leading to accidents or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes fail to respond",
+        "the brakes are difficult to apply",
+        "the vehicle is unable to stop",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10546181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Loose Steering and Wandering",
+      "impact": "The loose steering and wandering issues can cause the vehicle to drift or veer off course, making it difficult to control, especially on uneven surfaces, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "The vehicle's steering feels loose",
+        "the vehicle wanders or drifts from side to side",
+        "the vehicle requires oversteering to maintain direction",
+        "the vehicle exhibits excessive play in the steering system",
+        "the vehicle is difficult to control on uneven surfaces."
+      ],
+      "odiNumbers": [
+        "562298",
+        "874837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Wear of Steering System Components",
+      "impact": "The premature wear of steering system components can cause the vehicle to lose stability and control, making it difficult to steer, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "The steering system components",
+        "such as the idler arm and bell crank",
+        "wear out prematurely",
+        "the vehicle's steering feels loose",
+        "the vehicle wanders or drifts from side to side",
+        "the vehicle requires frequent replacement of steering system components."
+      ],
+      "odiNumbers": [
+        "874837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Line Connector Failure",
+      "impact": "The failure of the fuel line connector can cause fuel leaks, which can lead to engine stalling, fires, and accidents, posing a significant risk to vehicle safety and occupants.",
+      "symptoms": [
+        "Fuel odor inside the vehicle",
+        "fuel leaking from the fuel lines",
+        "engine stalling",
+        "vehicle breakdown."
+      ],
+      "odiNumbers": [
+        "747794",
+        "747794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Design Flaw - Lack of Parking Pawl",
+      "impact": "The absence of a parking pawl in the transmission design can cause the vehicle to roll away unexpectedly, even when parked on a level surface, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle rolls backward or forward without warning when parked",
+        "the emergency parking brake is not strong enough to hold the vehicle in place",
+        "the vehicle moves unexpectedly when the transmission is in park."
+      ],
+      "odiNumbers": [
+        "8021346"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

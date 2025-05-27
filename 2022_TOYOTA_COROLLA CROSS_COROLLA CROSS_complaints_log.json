@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Loss of Power",
+      "impact": "The sudden loss of power while driving can lead to accidents, especially when attempting to accelerate quickly or merge into traffic.",
+      "symptoms": [
+        "The vehicle stops or hesitates to move forward",
+        "despite the engine still being on",
+        "with no warning lights or indicators. The vehicle may not respond to the gas pedal for several seconds."
+      ],
+      "odiNumbers": [
+        "11583841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause a loud noise, distraction, and potential injury to occupants.",
+      "symptoms": [
+        "The sunroof shatters with a loud explosion sound while driving",
+        "without any apparent cause or warning."
+      ],
+      "odiNumbers": [
+        "11528935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Over-Sensitive Pre-Collision System",
+      "impact": "The over-sensitive pre-collision system can cause the vehicle to brake unnecessarily, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle's pre-collision system brakes or takes control of the vehicle when it's not necessary",
+        "causing sudden stops or hesitation."
+      ],
+      "odiNumbers": [
+        "11525770"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "The intermittent stalling of the vehicle can cause accidents, especially when it occurs at intersections or while merging into traffic.",
+      "symptoms": [
+        "The vehicle stalls intermittently when coming to a full stop",
+        "with the check engine light and power steering light illuminating",
+        "and a message on the dashboard indicating \"Engine Stopped.\""
+      ],
+      "odiNumbers": [
+        "11480998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "12-Volt Battery Charging System Malfunction",
+      "impact": "The malfunction of the 12-volt battery charging system can cause the vehicle to shut down while driving, leading to a loss of power steering and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The dashboard displays a warning message \"12-Volt Battery Charging; System Malfunction Stop in a Safe Place; See Owner's Manual\"",
+        "the vehicle shuts down while driving",
+        "the power steering system malfunctions",
+        "the vehicle is unable to restart."
+      ],
+      "odiNumbers": [
+        "11575285",
+        "11516143",
+        "11515110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Airbag Deployment Failure",
+      "impact": "The failure of the passenger airbag to deploy in the event of a crash can increase the risk of injury or fatality to the passenger, particularly children, and compromise the overall safety of the vehicle.",
+      "symptoms": [
+        "The passenger airbag may not deploy as designed in the event of a crash",
+        "potentially leading to injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11538066",
+        "11532279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

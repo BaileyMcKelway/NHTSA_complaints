@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or lose power, leading to a loss of control and increasing the risk of accidents. Additionally, it can cause electrical system malfunctions, including failure of essential systems like air conditioning, heating, and lighting.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the battery warning light illuminates",
+        "the electrical system malfunctions",
+        "the air conditioning or heating system fails",
+        "the lights in the vehicle flicker or go out",
+        "smoke appears under the hood or in the vehicle."
+      ],
+      "odiNumbers": [
+        "11504743",
+        "11205018",
+        "11053426",
+        "11030141",
+        "11018929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause a range of problems, including loss of power, failure of essential systems, and increased risk of accidents.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "the electrical system malfunctions",
+        "the air conditioning or heating system fails",
+        "the lights in the vehicle flicker or go out",
+        "the vehicle stalls or loses power",
+        "the windows roll up and down on their own",
+        "the doors lock and unlock on their own."
+      ],
+      "odiNumbers": [
+        "11417564",
+        "11221541",
+        "11053426",
+        "11030141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tipm Module Failure",
+      "impact": "The failure of the Tipm module can cause a range of problems, including loss of power, failure of essential systems, and increased risk of accidents.",
+      "symptoms": [
+        "The windows roll up and down on their own",
+        "the doors lock and unlock on their own",
+        "the air conditioning or heating system fails",
+        "the electrical system malfunctions",
+        "the vehicle stalls or loses power."
+      ],
+      "odiNumbers": [
+        "11221541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "The delay in repairing recalled vehicles can leave owners at risk of accidents or other safety issues due to faulty components.",
+      "symptoms": [
+        "The owner is unable to get the recalled part repaired due to unavailability",
+        "the dealer is unable to provide a timeline for repair",
+        "the owner is forced to continue driving a vehicle with a known safety issue."
+      ],
+      "odiNumbers": [
+        "11045288",
+        "11030141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Mounting Bracket Failure",
+      "impact": "The failure of the fuel pump mounting bracket can cause fuel vapors to leak into the cabin, posing a risk of explosion or fire, and potentially harming occupants.",
+      "symptoms": [
+        "Strong odor of gasoline in the cabin",
+        "fuel vapor coming out of AC vents",
+        "fuel smell fading when fuel level reaches about 7/8 of a tank",
+        "fuel leak on top of the starboard fuel pump."
+      ],
+      "odiNumbers": [
+        "11430911",
+        "11355384",
+        "11045286",
+        "11033005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hydraulic Lifter Failure",
+      "impact": "The failure of hydraulic lifters can cause the engine to produce loud ticking or tapping noises, lead to poor engine performance, and potentially damage the camshaft, resulting in costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Loud ticking or tapping noises from the engine",
+        "especially when parked or on startup",
+        "flashing check engine light",
+        "bad fuel fumes",
+        "engine shutting off while driving",
+        "difficulty driving due to worry of breakdown."
+      ],
+      "odiNumbers": [
+        "11221044",
+        "11217629",
+        "11521088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

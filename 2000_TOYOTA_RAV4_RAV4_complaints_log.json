@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and potentially fatal injuries.",
+      "symptoms": [
+        "Sudden and unexpected acceleration",
+        "rapid increase in speed",
+        "engine revving up on its own",
+        "vehicle moving forward without pressing the accelerator pedal",
+        "difficulty slowing down",
+        "and inability to control the vehicle."
+      ],
+      "odiNumbers": [
+        "10384256",
+        "10324682",
+        "10320022",
+        "10319375",
+        "10304547",
+        "8017561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Engine Failure (1ZZ-FE Engine)",
+      "impact": "Premature engine failure can lead to sudden and unexpected loss of power, causing accidents or leaving the driver stranded. This can also result in costly repairs and downtime.",
+      "symptoms": [
+        "Engine failure",
+        "main bearings failure",
+        "cylinder wall damage",
+        "water pump leakage",
+        "engine failure at low mileage (average 21",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "10066392",
+        "10033481",
+        "10033480",
+        "10003571",
+        "10003574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Dry Rot and Cracking",
+      "impact": "Tire dry rot and cracking can lead to tire failure, loss of control, and accidents, posing a significant safety hazard to drivers and passengers.",
+      "symptoms": [
+        "Cracking in between the treads",
+        "dry rot",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "10267612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Blowout and Failure",
+      "impact": "Tire blowout and failure can cause loss of control, accidents, and fatalities, especially at high speeds.",
+      "symptoms": [
+        "Smoke coming from the tire",
+        "tire blowout",
+        "loss of control",
+        "and accidents."
+      ],
+      "odiNumbers": [
+        "730850",
+        "730851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tire Wear and Inflation Issues",
+      "impact": "Tire wear and inflation issues can lead to tire failure, loss of control, and accidents, posing a safety hazard to drivers and passengers.",
+      "symptoms": [
+        "Thumping noise",
+        "excessive wear",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "727339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

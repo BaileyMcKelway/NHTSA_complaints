@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "No deployment of airbags during a collision",
+        "uneven deployment of airbags (e.g.",
+        "passenger airbag deploys but driver's airbag does not)",
+        "airbag compartment lid shatters windshield during deployment."
+      ],
+      "odiNumbers": [
+        "513864",
+        "806329",
+        "801737",
+        "977705",
+        "977408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coil Spring Failure",
+      "impact": "The failure of the coil spring can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Loud clunking noise coming from the front of the vehicle",
+        "uneven tire wear",
+        "vehicle pulling to one side",
+        "reduced handling and stability",
+        "loss of control while driving."
+      ],
+      "odiNumbers": [
+        "10194745",
+        "825510",
+        "806131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Suspension Problems",
+      "impact": "Suspension problems can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Uneven tire wear",
+        "vehicle pulling to one side",
+        "reduced handling and stability",
+        "loss of control while driving",
+        "frequent need to replace tires."
+      ],
+      "odiNumbers": [
+        "825510",
+        "806131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure in Wet Conditions",
+      "impact": "The sudden and unexpected locking of the brakes while driving in rainy conditions can cause the vehicle to lose traction, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brakes lock up or seize when driving in rainy or wet conditions",
+        "the vehicle pulls to one side or loses traction",
+        "the brakes make a grinding or screeching noise",
+        "the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "521296",
+        "10511441",
+        "10493419",
+        "10485139",
+        "10474491",
+        "10467421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Malfunction upon Brake Application",
+      "impact": "The malfunction can cause a sudden loss of power to essential systems, potentially leading to accidents or loss of control, especially when braking.",
+      "symptoms": [
+        "When the brakes are applied",
+        "the following electrical items dim or lose power: headlights",
+        "dashboard lights",
+        "radio",
+        "and other accessories; the vehicle's electrical system experiences a sudden voltage drop; the brake lights may not function properly."
+      ],
+      "odiNumbers": [
+        "976431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Light Switch Failure",
+      "impact": "The failure of the brake light switch can cause the brake lights to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The brake lights do not illuminate when the brake pedal is pressed; the brake lights remain illuminated even when the brake pedal is released; the brake lights flicker or dim."
+      ],
+      "odiNumbers": [
+        "10431499",
+        "10393441",
+        "10384915",
+        "10374421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Pedal Sensor Malfunction",
+      "impact": "The malfunction can cause the brake lights to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The brake lights do not illuminate when the brake pedal is pressed; the brake lights remain illuminated even when the brake pedal is released; the brake lights flicker or dim; the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "10812451",
+        "10754419",
+        "10723419",
+        "10693411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

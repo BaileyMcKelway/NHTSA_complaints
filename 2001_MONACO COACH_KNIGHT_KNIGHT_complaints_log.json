@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Assembly Failure",
+      "impact": "The failure of the brake assembly can cause the brakes to overheat, seize, or lock up, leading to loss of control, accidents, or fires, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The brakes overheat",
+        "seize",
+        "or lock up",
+        "causing the vehicle to lose control or become difficult to stop; smoke or burning odors emanate from the brakes; the calipers crack or leak brake fluid; the ABS sensors disconnect or fail; the rotors and wheel seals need to be repaired."
+      ],
+      "odiNumbers": [
+        "11166020",
+        "10971613",
+        "10468797",
+        "10453554",
+        "10347286",
+        "10276547",
+        "10245104",
+        "10121342",
+        "10034129",
+        "10032907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Caliper Failure",
+      "impact": "The failure of the calipers can cause the brakes to overheat, seize, or lock up, leading to loss of control, accidents, or fires, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The calipers seize",
+        "crack",
+        "or leak brake fluid; the brakes overheat or lock up; smoke or burning odors emanate from the brakes; the ABS sensors disconnect or fail; the rotors and wheel seals need to be repaired."
+      ],
+      "odiNumbers": [
+        "10971613",
+        "10453554",
+        "10347286",
+        "10245104",
+        "10121342",
+        "10034129",
+        "10032907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to overheat, seize, or lock up, leading to loss of control, accidents, or fires, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The brake fluid leaks or is low; the brakes overheat or lock up; smoke or burning odors emanate from the brakes; the calipers crack or leak brake fluid; the ABS sensors disconnect or fail; the rotors and wheel seals need to be repaired."
+      ],
+      "odiNumbers": [
+        "10971613",
+        "10468797",
+        "10347286",
+        "10276547",
+        "10245104",
+        "10121342",
+        "10034129",
+        "10032907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "LP Line Rupture due to Proximity to Left Rear Inner Tire",
+      "impact": "The rupture of the LP line can cause a significant release of propane gas, which can lead to a fire hazard, explosion, or asphyxiation, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "Sudden loss of propane gas",
+        "strong propane smell",
+        "hissing sound from the LP line",
+        "inability to use propane-powered appliances."
+      ],
+      "odiNumbers": [
+        "10131491"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Venting System Failure",
+      "impact": "The failure of the fuel tank venting system can cause fuel to discharge from the vent with force, resulting in environmental pollution and a high risk of ignition, which can lead to catastrophic consequences, including destruction of the vehicle, injury, or loss of life.",
+      "symptoms": [
+        "Pulsing noise in the fuel tank when refueling",
+        "fuel discharging from the fuel tank vent with force",
+        "discharge continues as long as the pulsing noise continues",
+        "discharged amount measures from 1/2 pint to 1&1/2 gallons."
+      ],
+      "odiNumbers": [
+        "10086709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

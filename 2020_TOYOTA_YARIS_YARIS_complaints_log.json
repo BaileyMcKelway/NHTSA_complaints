@@ -1,0 +1,166 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of Recall Parts for Fuel System, Gasoline (NHTSA Campaign Number: 21V617000)",
+      "impact": "The unavailability of recall parts for the fuel system, gasoline can lead to a delay in the necessary repairs, potentially causing a safety risk to the vehicle occupants and other road users.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11444019",
+        "11443092",
+        "11438478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System, Gasoline Issues (Related to NHTSA Campaign Number: 21V617000)",
+      "impact": "The fuel system, gasoline issues can cause the vehicle to buck and jerk while driving at slower speeds, fail to respond to accelerator pedal input, and produce an abnormal growling sound, which can lead to a loss of control and increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle bucks and jerks while driving at slower speeds",
+        "the vehicle fails to respond to accelerator pedal input",
+        "the vehicle produces an abnormal growling sound when the accelerator pedal is depressed to the floor."
+      ],
+      "odiNumbers": [
+        "11438478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to stall or not start, leading to a safety hazard, especially if the vehicle is driven at high speeds or in heavy traffic. It can also cause warning lights to illuminate, which can be distracting for the driver.",
+      "symptoms": [
+        "Unknown warning lights illuminate",
+        "engine laboring to start",
+        "battery drain",
+        "P2610 code (\"Engine Control Module",
+        "ECM/PCM Engine Off Timer Performance\")",
+        "failure of the front passenger's seat belt to securely fasten",
+        "detachment of the front passenger's side mirror cover."
+      ],
+      "odiNumbers": [
+        "11544389",
+        "11328487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Drain and Engine Starting Issues",
+      "impact": "The battery drain and engine starting issues can cause the vehicle to stall or not start, leading to a safety hazard, especially if the vehicle is driven at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Engine laboring to start",
+        "battery drain",
+        "P2610 code (\"Engine Control Module",
+        "ECM/PCM Engine Off Timer Performance\")",
+        "failure to start the vehicle."
+      ],
+      "odiNumbers": [
+        "11544389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt and Mirror Failure",
+      "impact": "The failure of the front passenger's seat belt to securely fasten and the detachment of the front passenger's side mirror cover can cause injuries or accidents in the event of a crash.",
+      "symptoms": [
+        "Front passenger's seat belt fails to securely fasten",
+        "front passenger's side mirror cover detaches from the vehicle."
+      ],
+      "odiNumbers": [
+        "11328487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Engine Shutdown and ABS Activation",
+      "impact": "The unintended shutdown of the engine and activation of the anti-lock braking system (ABS) can cause a loss of power and control, increasing the risk of accidents, especially in heavy traffic or when driving at high speeds.",
+      "symptoms": [
+        "The engine shuts down unexpectedly",
+        "the ABS system activates unnecessarily",
+        "the vehicle comes to an abrupt stop",
+        "the driver experiences a loss of power and control",
+        "the vehicle requires restarting."
+      ],
+      "odiNumbers": [
+        "11433853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incorrect Oil Capacity Specification",
+      "impact": "The incorrect oil capacity specification in the owner's manual can lead to overfilling of the engine, which can cause premature engine failure, engine damage, or even engine fires.",
+      "symptoms": [
+        "The oil level on the dipstick shows overfilling by close to 1 quart despite following the instructions in the owner's manual",
+        "confusion and uncertainty among owners and dealerships about the correct oil capacity."
+      ],
+      "odiNumbers": [
+        "11405045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Owner's Manual Information",
+      "impact": "The inaccurate information in the owner's manual can lead to incorrect maintenance practices, which can cause premature engine failure, engine damage, or other safety issues.",
+      "symptoms": [
+        "Discrepancies between the owner's manual and actual vehicle specifications",
+        "confusion and uncertainty among owners and dealerships about correct maintenance procedures."
+      ],
+      "odiNumbers": [
+        "11405045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Low Idle Causing Intense Vibration",
+      "impact": "The low idle issue can cause intense vibrations that can be felt throughout the vehicle, making it uncomfortable and potentially distracting for the driver, which can lead to accidents.",
+      "symptoms": [
+        "Intense vibration when coming to a full stop",
+        "vibration felt in seats",
+        "steering wheel",
+        "dash",
+        "brake pedal",
+        "doors",
+        "and windows",
+        "engine shaking intensely",
+        "vibration only occurs in Drive/Reverse and when stopped",
+        "vibration stops when the car is in Park/Neutral or moving",
+        "vibration only happens when the car is warm",
+        "vibration occurs at 500 RPM and stops when RPM increases to 600 or more",
+        "vibration stops when the A/C compressor is turned on."
+      ],
+      "odiNumbers": [
+        "11395251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

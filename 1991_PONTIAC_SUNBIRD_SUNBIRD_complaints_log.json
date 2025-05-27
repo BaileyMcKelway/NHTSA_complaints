@@ -1,0 +1,234 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to inadequate restraint during an accident, resulting in injuries or fatalities.",
+      "symptoms": [
+        "The seat belt buckle breaks or fails to latch",
+        "allowing the occupant to move freely during an accident."
+      ],
+      "odiNumbers": [
+        "807706",
+        "964570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shoulder Belt Failure",
+      "impact": "The failure of the shoulder belt can cause inadequate restraint of the upper body during an accident, leading to injuries or fatalities.",
+      "symptoms": [
+        "The shoulder belt fails to restrain the upper body",
+        "allowing contact with the steering wheel or other objects",
+        "cracked or broken shoulder belt guide loops."
+      ],
+      "odiNumbers": [
+        "802893",
+        "500536",
+        "500536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Seat Belt Restraint",
+      "impact": "Inadequate seat belt restraint can lead to injuries or fatalities during an accident.",
+      "symptoms": [
+        "The seat belt fails to lock up during impact",
+        "resulting in injuries to the driver or occupant",
+        "the driver's head hits the seat belt molding during an accident."
+      ],
+      "odiNumbers": [
+        "476748",
+        "971106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause the vehicle to shut down, leading to a potential loss of control and increased risk of accidents. Additionally, it can cause engine damage, oil and coolant leaks, and even fires.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "oil leaks",
+        "engine shutdown",
+        "loss of acceleration",
+        "engine damage",
+        "fire."
+      ],
+      "odiNumbers": [
+        "836532",
+        "834661",
+        "700722",
+        "513228",
+        "515876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "The failure of the engine head gasket can cause oil and coolant to mix, leading to engine damage, leaks, and potentially fires. It can also cause the engine to shut down, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Oil and coolant leaks",
+        "engine overheating",
+        "engine shutdown",
+        "loss of acceleration",
+        "engine damage",
+        "fire."
+      ],
+      "odiNumbers": [
+        "834661",
+        "700722",
+        "513228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Malfunction/Loss of Acceleration",
+      "impact": "The malfunction of the engine can cause a loss of acceleration, making it difficult to maintain speed, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Loss of acceleration",
+        "engine malfunction",
+        "difficulty maintaining speed."
+      ],
+      "odiNumbers": [
+        "820646",
+        "700722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when the vehicle is in reverse or when the brakes are applied.",
+      "symptoms": [
+        "The throttle sticks",
+        "the accelerator pedal jams",
+        "the vehicle takes off unexpectedly",
+        "the wheels spin",
+        "the vehicle accelerates suddenly while applying the brakes."
+      ],
+      "odiNumbers": [
+        "846259",
+        "823386",
+        "807540",
+        "978301",
+        "970930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to not stop within a reasonable distance, leading to accidents or near-miss situations, which can result in serious injury or death.",
+      "symptoms": [
+        "Soft brake pedal",
+        "brake pedal goes to the floor",
+        "excessive premature wear to brake pads",
+        "vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "523063",
+        "960124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the vehicle to lose braking power, leading to accidents or near-miss situations, which can result in serious injury or death.",
+      "symptoms": [
+        "Worn-out brake calipers",
+        "uneven brake wear",
+        "reduced braking power."
+      ],
+      "odiNumbers": [
+        "501069",
+        "501069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Slipping/Lurching",
+      "impact": "The transmission slipping or lurching can cause the vehicle to lose power or stall, leading to accidents or near-miss situations, which can result in serious injury or death.",
+      "symptoms": [
+        "Transmission hesitates or lurches when shifting into gear",
+        "especially when cold or after a period of inactivity",
+        "vehicle takes longer than usual to shift into gear."
+      ],
+      "odiNumbers": [
+        "523063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fires",
+      "impact": "The failure of the electrical system can cause vehicle fires, which can lead to serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle catches on fire under the dashboard or in the engine compartment",
+        "often originating from the wiring harness or electrical components."
+      ],
+      "odiNumbers": [
+        "814461",
+        "969585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the battery to drain, leading to vehicle stalling or failure to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Alternator failure",
+        "battery drain",
+        "vehicle stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "510251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to stall or fail to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Battery failure",
+        "vehicle stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "510251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

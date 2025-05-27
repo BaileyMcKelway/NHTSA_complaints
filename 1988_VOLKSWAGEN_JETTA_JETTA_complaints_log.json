@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Design",
+      "impact": "The absence of front lap belts and malfunctioning shoulder belts can increase the risk of injury or fatality in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "No front lap belts",
+        "shoulder belts do not lock properly during sudden stops",
+        "occupants may not be properly restrained in the event of an accident."
+      ],
+      "odiNumbers": [
+        "837156",
+        "966910",
+        "489369",
+        "478663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration Due to Gas Pedal Malfunction",
+      "impact": "Sudden acceleration can cause loss of vehicle control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "The gas pedal sticks",
+        "sudden acceleration",
+        "vehicle surges forward",
+        "difficulty stopping the vehicle",
+        "open throttle position at high speeds."
+      ],
+      "odiNumbers": [
+        "507126",
+        "982530",
+        "966508",
+        "486466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Sudden acceleration or unintended acceleration",
+        "inability to stop the vehicle",
+        "brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "966508",
+        "966405",
+        "513556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Vehicle suddenly accelerates without input from the driver",
+        "vehicle takes off without warning",
+        "inability to stop the vehicle",
+        "brake pedal feels soft or spongy",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "966508",
+        "966405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Handle Failure",
+      "impact": "The failure of the door handles can cause inconvenience, difficulty, or impossibility in entering or exiting the vehicle, which can lead to safety issues, especially in emergency situations.",
+      "symptoms": [
+        "The door handles break off",
+        "the trigger breaks in the door handle",
+        "the door handles are unable to open the door",
+        "the door handles are loose or fragile."
+      ],
+      "odiNumbers": [
+        "982181",
+        "980716",
+        "971832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause coolant to leak into the passenger compartment, creating a hazardous environment for occupants due to the potential for scalding and reduced visibility from fogged windows.",
+      "symptoms": [
+        "Smoke or steam emanates from the vents",
+        "windows fog up or steam up",
+        "coolant leaks into the passenger compartment",
+        "sweet or burning smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "978222",
+        "486087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

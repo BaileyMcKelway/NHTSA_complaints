@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SUSPENSION",
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Passenger Seatbelt Sensor",
+      "impact": "The faulty passenger seatbelt sensor can lead to the failure of the seatbelt warning system, which can increase the risk of injury or fatality in the event of an accident, as the passenger may not be alerted to wear their seatbelt.",
+      "symptoms": [
+        "The SRS light on the dashboard is illuminated",
+        "the passenger seatbelt does not trigger the warning alert when a passenger is not wearing their seatbelt",
+        "the passenger seatbelt sensor is not functioning properly."
+      ],
+      "odiNumbers": [
+        "11473787",
+        "10230028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Subframe Rust and Failure",
+      "impact": "The rust and failure of the rear subframe can cause loss of vehicle control, accidents, and potentially lead to the vehicle being deemed a total loss.",
+      "symptoms": [
+        "Rust or corrosion on the rear subframe",
+        "broken or cracked subframe",
+        "uneven or sagging rear suspension",
+        "uneven tire wear",
+        "abnormal noises or vibrations from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "11359811",
+        "11329317"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak",
+      "impact": "A fuel system leak can cause fuel to leak onto the ground, creating a fire hazard, and potentially lead to an engine stall or failure, which can increase the risk of an accident.",
+      "symptoms": [
+        "Fuel leaking from the vehicle",
+        "strong odor of fuel around the vehicle",
+        "check engine indicator illuminated."
+      ],
+      "odiNumbers": [
+        "11254752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idle Stall and Difficulty Restarting",
+      "impact": "The vehicle's tendency to die while idling or at low speeds can cause loss of control, increase the risk of an accident, and leave the driver stranded.",
+      "symptoms": [
+        "The vehicle dies while idling or at low speeds",
+        "difficulty restarting the vehicle",
+        "multiple attempts to restart the vehicle",
+        "acceleration required to get the vehicle moving again."
+      ],
+      "odiNumbers": [
+        "11192112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure ( Ignition System)",
+      "impact": "The failure of the electrical system, specifically the ignition system, can cause the vehicle to fail to start, and in some cases, roll away while in park, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the accelerator pedal must be depressed to start the vehicle",
+        "the key becomes stuck in the ignition off position",
+        "the vehicle rolls away while in park."
+      ],
+      "odiNumbers": [
+        "11240869",
+        "10671848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The air conditioner produces warmer air",
+        "no warning indicators are illuminated."
+      ],
+      "odiNumbers": [
+        "11240869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "HVAC Drainage Failure",
+      "impact": "The failure of the HVAC drainage system can cause water to accumulate in the floorboards, leading to slippery pedals, mold, and mildew growth, and potentially electrical issues or even a fire.",
+      "symptoms": [
+        "Water accumulation in the driver and passenger floorboards",
+        "slippery pedals",
+        "musty odor",
+        "mold and mildew growth",
+        "water sloshing sound when turning",
+        "and electrical issues."
+      ],
+      "odiNumbers": [
+        "11073558",
+        "11010091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Engine Oil Consumption and Engine Failure",
+      "impact": "Excessive engine oil consumption can lead to premature engine failure, stalling, and loss of power, which can cause accidents or leave the driver stranded. Engine failure can also result in costly repairs or even require replacement.",
+      "symptoms": [
+        "Excessive oil consumption",
+        "frequent need to add oil",
+        "oil light illumination",
+        "stalling",
+        "loss of power",
+        "white smoke or black smoke from the exhaust",
+        "milky residue in the oil",
+        "rattling or unusual engine noises."
+      ],
+      "odiNumbers": [
+        "11589405",
+        "11573695",
+        "11526075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trunk Latch Failure",
+      "impact": "The failure of the trunk latch can cause the trunk to become stuck or difficult to open, which can lead to inconvenience and potential safety issues, such as being unable to access emergency equipment or luggage.",
+      "symptoms": [
+        "The trunk fails to open",
+        "a clicking noise is heard when attempting to open the trunk",
+        "the trunk latch is broken."
+      ],
+      "odiNumbers": [
+        "11421816",
+        "11442870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

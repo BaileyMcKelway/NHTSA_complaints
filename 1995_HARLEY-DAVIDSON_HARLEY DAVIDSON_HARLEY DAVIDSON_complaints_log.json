@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The ignition switch fails to function properly",
+        "the engine stalls or dies while riding",
+        "the motorcycle stops charging while in operation",
+        "the ignition switch must be repeatedly replaced or repaired."
+      ],
+      "odiNumbers": [
+        "564101",
+        "539021",
+        "538202",
+        "825271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Ground Cable Loosening",
+      "impact": "The repeated need to retighten the battery ground cable can cause electrical system malfunctions, leading to engine stalling or failure to start, which can cause accidents or leave the rider stranded.",
+      "symptoms": [
+        "The battery ground cable becomes loose",
+        "requiring frequent retightening",
+        "the electrical system malfunctions",
+        "the engine stalls or fails to start."
+      ],
+      "odiNumbers": [
+        "564101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Turn Signal Failure",
+      "impact": "The irregular operation of turn signal indicators can lead to accidents or near-misses, as other drivers may not be aware of the vehicle's intentions, especially during lane changes or turns.",
+      "symptoms": [
+        "Turn signal indicators sometimes work and sometimes do not",
+        "turn signals may not function consistently",
+        "turn signals may not illuminate at all",
+        "or may flash erratically."
+      ],
+      "odiNumbers": [
+        "564101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Headlight Performance",
+      "impact": "Inadequate headlight coverage and intensity can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights provide inadequate illumination",
+        "headlights do not provide sufficient coverage",
+        "headlights are not bright enough",
+        "difficulty seeing the road ahead at night."
+      ],
+      "odiNumbers": [
+        "564101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Difficulty Reading Indicator LEDs in Daytime Lighting",
+      "impact": "The inability to read the indicator LEDs in strong daytime lighting can lead to driver distraction, confusion, and potentially cause accidents, as drivers may not be aware of important vehicle information, such as turn signals, hazard lights, or warning lights.",
+      "symptoms": [
+        "The indicator LEDs are difficult or impossible to read in strong daytime lighting",
+        "the LEDs appear dim or washed out",
+        "the driver has to strain to see the LEDs",
+        "the LEDs are not visible in bright sunlight."
+      ],
+      "odiNumbers": [
+        "564101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

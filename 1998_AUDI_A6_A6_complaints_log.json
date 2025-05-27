@@ -1,0 +1,224 @@
+{
+  "totalComplaints": 134,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The malfunctioning fuel gauge can cause the vehicle to run out of fuel without warning, leading to unexpected stops, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The fuel gauge indicates full or incorrect levels of fuel",
+        "the vehicle runs out of fuel despite the gauge showing fuel remaining",
+        "the gauge needle jumps erratically",
+        "the computer display shows incorrect mileage until empty."
+      ],
+      "odiNumbers": [
+        "10314095",
+        "10097980",
+        "10089806",
+        "10045459",
+        "871150",
+        "858748",
+        "858187",
+        "855706",
+        "717193",
+        "854294",
+        "715732",
+        "841833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Leaks",
+      "impact": "Fuel tank leaks can cause fuel to spill onto the ground, creating a fire hazard and potential environmental damage.",
+      "symptoms": [
+        "Gasoline smell in the garage",
+        "fuel dripping under the car",
+        "fuel spraying out of the tank filler neck when refueling."
+      ],
+      "odiNumbers": [
+        "10139846",
+        "10038807",
+        "566829",
+        "558243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Back Pressure During Refueling",
+      "impact": "Back pressure during refueling can cause fuel to spray out of the tank filler neck, creating a fire hazard and potential environmental damage.",
+      "symptoms": [
+        "Fuel spraying out of the tank filler neck when refueling",
+        "fuel spillage on the ground",
+        "risk of injury or death from fire or explosion."
+      ],
+      "odiNumbers": [
+        "10087047",
+        "713566",
+        "558243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "PCV Valve Failure",
+      "impact": "PCV valve failure can cause the throttle to stick, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Throttle stuck at high RPM",
+        "sudden acceleration",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "10097980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective ABS Control Unit",
+      "impact": "The failure of the ABS control unit can cause the ABS system to malfunction, leading to reduced braking performance, increased stopping distance, and potentially loss of control, which can result in accidents.",
+      "symptoms": [
+        "The ABS warning light and brake light on the dashboard illuminate",
+        "accompanied by loud warning tones; the brake pedal feels soft or spongy; the brake pedal goes to the floor; the vehicle slows down or stops unexpectedly; the vehicle spins out of control on slippery surfaces."
+      ],
+      "odiNumbers": [
+        "10291873",
+        "10166093",
+        "10144564",
+        "10114825",
+        "10115903",
+        "10114409",
+        "10112501",
+        "10110954",
+        "10100104",
+        "10098425",
+        "875293",
+        "722926",
+        "720353",
+        "720353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Vacuum Failure",
+      "impact": "The failure of the brake booster vacuum can cause the brakes to malfunction, leading to increased stopping distance and potentially loss of control, which can result in accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy; the brake pedal goes to the floor; the vehicle slows down or stops unexpectedly."
+      ],
+      "odiNumbers": [
+        "550671"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Malfunction on Slippery Surfaces",
+      "impact": "The malfunction of the braking system on slippery surfaces can cause the vehicle to spin out of control, leading to accidents.",
+      "symptoms": [
+        "A single brake locks up",
+        "causing the car to spin out of control; the brake pedal feels soft or spongy; the brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "720353",
+        "720353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "The grinding noise from the brakes can indicate worn-out brake pads or other brake component failures, which can lead to reduced braking performance and potentially accidents.",
+      "symptoms": [
+        "Grinding noise from the brakes; vibration when applying the brakes."
+      ],
+      "odiNumbers": [
+        "784355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to accidents, injuries, and fatalities, especially if the vehicle is unable to be stopped or controlled.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "even when the accelerator pedal is not pressed",
+        "the engine RPMs increase",
+        "the vehicle speeds up without warning",
+        "the brakes are ineffective",
+        "and the vehicle may not respond to attempts to shift into neutral or turn off the engine."
+      ],
+      "odiNumbers": [
+        "10184569",
+        "10156037",
+        "10065163",
+        "10066002",
+        "10062780",
+        "10063549",
+        "10062388",
+        "10063351",
+        "10062407",
+        "10055196",
+        "10006990",
+        "10005404",
+        "10005282",
+        "10003352",
+        "8008412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Sticking",
+      "impact": "A stuck throttle can cause the vehicle to accelerate unexpectedly, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The throttle pedal feels stuck or stuck open",
+        "the vehicle accelerates without warning",
+        "the engine RPMs increase",
+        "and the brakes may be ineffective."
+      ],
+      "odiNumbers": [
+        "10062780",
+        "10063351",
+        "10062407",
+        "10006990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cold Weather-Related Acceleration Issues",
+      "impact": "Acceleration issues in cold weather can lead to accidents, injuries, and fatalities, especially if the vehicle is unable to be stopped or controlled.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly in cold weather (typically between 13-17°F)",
+        "the engine RPMs increase",
+        "and the brakes may be ineffective."
+      ],
+      "odiNumbers": [
+        "10062407",
+        "10055196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

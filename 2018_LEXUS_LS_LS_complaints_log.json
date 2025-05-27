@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "WHEELS",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Battery Failure",
+      "impact": "The sudden and unexpected failure of the battery can leave the driver stranded, especially in remote locations, which can be a safety risk.",
+      "symptoms": [
+        "The vehicle fails to start without warning",
+        "no indication of low battery voltage or battery failure."
+      ],
+      "odiNumbers": [
+        "11446122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Pre-Collision System",
+      "impact": "The malfunctioning pre-collision system can lead to unexpected hood release, which can cause accidents or injuries, and the lack of warning indicators can make it difficult for drivers to diagnose the issue.",
+      "symptoms": [
+        "The pre-collision system activates unnecessarily",
+        "releasing the hood of the vehicle",
+        "no warning indicators or error messages when the system is offline",
+        "false indication of system functionality."
+      ],
+      "odiNumbers": [
+        "11288488",
+        "11209751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Collision Avoidance System Failure",
+      "impact": "The failure of the collision avoidance system can increase the risk of accidents, and the lack of warning indicators can make it difficult for drivers to diagnose the issue.",
+      "symptoms": [
+        "The collision avoidance system stops working",
+        "fuses blow",
+        "no warning indicators or error messages when the system is offline",
+        "false indication of system functionality."
+      ],
+      "odiNumbers": [
+        "11209751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incomplete GPS Navigation System",
+      "impact": "The inability to enter coordinates in the GPS navigation system can lead to difficulties in navigating, especially in areas with limited or no cell service, such as state and national parks, which can cause frustration, inconvenience, and potentially lead to accidents.",
+      "symptoms": [
+        "Unable to enter coordinates in the GPS navigation system",
+        "limited navigation functionality",
+        "difficulties navigating in areas with limited or no cell service."
+      ],
+      "odiNumbers": [
+        "11582292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Infotainment System Design",
+      "impact": "The omission of a critical feature like coordinate entry in the GPS navigation system can render the entire system ineffective, leading to user frustration and potentially causing safety issues.",
+      "symptoms": [
+        "Incomplete or missing features in the infotainment system",
+        "limited functionality",
+        "difficulties using the navigation system."
+      ],
+      "odiNumbers": [
+        "11582292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Inner Tire Wear",
+      "impact": "Premature wear on the inner side of all four tires can lead to reduced traction, increased stopping distance, and a higher risk of accidents, especially on wet or slippery roads.",
+      "symptoms": [
+        "Uneven tire wear",
+        "excessive wear on the inner side of the tire",
+        "reduced tire tread depth",
+        "vibration while driving",
+        "pulling to one side while driving."
+      ],
+      "odiNumbers": [
+        "11565489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Fuel Pump Recall Repair",
+      "impact": "The hesitation of the vehicle while driving can cause accidents, injuries, or even death, especially if the vehicle stalls or loses power while in motion. The delay in repairing the fuel pump recall can lead to a safety risk for the driver and passengers.",
+      "symptoms": [
+        "Vehicle hesitates while driving",
+        "vehicle stalls or loses power while in motion."
+      ],
+      "odiNumbers": [
+        "11366701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Gear Shifts",
+      "impact": "Unintended gear shifts can cause loss of control, increase the risk of accidents, and lead to unexpected acceleration or deceleration, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle shifts gears without warning",
+        "the vehicle downshifts to a lower gear",
+        "the RPMs rev up",
+        "the vehicle hesitates or jerks when shifting gears."
+      ],
+      "odiNumbers": [
+        "11316040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

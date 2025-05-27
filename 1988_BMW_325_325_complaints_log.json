@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "EQUIPMENT",
+    "POWER TRAIN",
+    "VISIBILITY",
+    "SEAT BELTS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Factory-Provided Jack Failure",
+      "impact": "The failure of the factory-provided jack can cause serious injury, including broken bones, and damage to the vehicle.",
+      "symptoms": [
+        "The jack collapses while in use",
+        "causing the vehicle to fall off the jack",
+        "resulting in injury to the person working underneath the vehicle."
+      ],
+      "odiNumbers": [
+        "847183",
+        "979699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transfer Case Failure",
+      "impact": "The failure of the transfer case can cause the vehicle to stop abruptly while driving, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops or loses power while driving",
+        "the transfer case freezes up",
+        "the vehicle is unable to move",
+        "the vehicle experiences sudden loss of traction."
+      ],
+      "odiNumbers": [
+        "978112",
+        "978112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, slip, or hesitate, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power",
+        "the vehicle experiences sudden jerking or hesitation",
+        "the transmission makes unusual noises",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "484448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant System Failure",
+      "impact": "The failure of the coolant system can cause engine overheating, leading to engine damage, breakdowns, and potentially even engine failure, which can result in costly repairs, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle overheats",
+        "the coolant level drops",
+        "the coolant leaks",
+        "the temperature gauge is in the red zone",
+        "the vehicle stalls or shuts down",
+        "the engine makes unusual noises or smells."
+      ],
+      "odiNumbers": [
+        "554493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Fuel Pump",
+      "impact": "A faulty fuel pump can cause the vehicle to stall, particularly in traffic, which can increase the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "especially in heavy traffic or when accelerating",
+        "the engine sputters or hesitates before stalling",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the vehicle has difficulty starting or has a long crank time."
+      ],
+      "odiNumbers": [
+        "962818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

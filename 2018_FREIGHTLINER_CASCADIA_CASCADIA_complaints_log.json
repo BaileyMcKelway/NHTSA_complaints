@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Light Malfunction",
+      "impact": "The malfunctioning brake lights can cause confusion to other drivers on the road, potentially leading to accidents or near-misses, as they may not be aware of the truck's intentions to slow down or stop.",
+      "symptoms": [
+        "The brake lights remain illuminated even when the vehicle is turned off",
+        "the brake lights stay on continuously while the truck is moving",
+        "the brake lights do not turn off when the brake pedal is released."
+      ],
+      "odiNumbers": [
+        "11505821",
+        "11434795",
+        "11366178",
+        "11291975"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Fire",
+      "impact": "The sudden and unexpected failure of the electrical system can cause a fire, which can lead to serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "Loud pop sound from the tractor",
+        "fire starting under the hood",
+        "no warning lamps or messages",
+        "or symptoms reported in advance of the incident."
+      ],
+      "odiNumbers": [
+        "11519920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loose Wear Ring Bolts in Jost 5th Wheels",
+      "impact": "The loose wear ring bolts can cause the wear ring to move in the 5th wheel plate, leading to an unsafe connection between the truck and trailer, which can affect the drivetrain and cause accidents.",
+      "symptoms": [
+        "Trailer king pin feels loose in the 5th wheel",
+        "hit/push on start/stop when driven in combination",
+        "excessive 5th wheel free play",
+        "drivers feeling unsafe and distracted."
+      ],
+      "odiNumbers": [
+        "11472396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Chassis Harness Rubbing and Failure",
+      "impact": "The rubbing of the chassis harness against the transmission and metal bracket can cause electrical faults, leading to issues with the coolant level, TCS, and transmission ECU, which can result in loss of vehicle control, accidents, and strandings.",
+      "symptoms": [
+        "Active fault codes for coolant level",
+        "TCS",
+        "and transmission ECU; inability to drive in automatic mode; only manual mode available; inability to start the truck; harness repair required."
+      ],
+      "odiNumbers": [
+        "11366557"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of vehicle control, accidents, and fatalities, especially if the airbag does not deploy and the seatbelt alarm continues to sound even when the belt is connected.",
+      "symptoms": [
+        "Brake system malfunction; airbag failure to deploy; seatbelt alarm continues to sound even when connected; loss of vehicle control; accidents; fatalities."
+      ],
+      "odiNumbers": [
+        "11140059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Safety System Failure",
+      "impact": "The failure of multiple safety systems, including the brake system, airbag, and seatbelt, can increase the risk of accidents and fatalities.",
+      "symptoms": [
+        "Brake system malfunction; airbag failure to deploy; seatbelt alarm continues to sound even when connected; loss of vehicle control; accidents; fatalities."
+      ],
+      "odiNumbers": [
+        "11140059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Activation of Automatic Emergency Braking System",
+      "impact": "The false activation of the Automatic Emergency Braking System can cause the vehicle to suddenly stop or slam on the brakes, increasing the risk of accidents or near-collisions with other vehicles, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops or slams on the brakes without any obstacles or hazards in the roadway",
+        "a red collision warning light appears in the gauge cluster",
+        "and a warning beep sounds at the time of the event."
+      ],
+      "odiNumbers": [
+        "11526068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

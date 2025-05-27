@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Reverse Gear in ZF 5HP19 Transmission",
+      "impact": "The failure of the reverse gear can cause the vehicle to suddenly lose the ability to reverse, leading to potential accidents or near-misses, especially when reversing out of driveways or parking spaces.",
+      "symptoms": [
+        "The vehicle refuses to engage in reverse gear",
+        "the vehicle will only move in reverse at idle on a flat surface but will not accelerate",
+        "the transmission fails without warning while driving",
+        "the vehicle reduces speed unexpectedly."
+      ],
+      "odiNumbers": [
+        "10396567",
+        "10372183",
+        "10360847",
+        "10257526",
+        "10237553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unexpected airbag deployment, which can cause injuries or distractions while driving, or failure to deploy in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag indicator light illuminates",
+        "airbags deploy unexpectedly",
+        "airbags fail to deploy in the event of a crash",
+        "injuries or near-misses due to airbag malfunction."
+      ],
+      "odiNumbers": [
+        "11157108",
+        "10312742",
+        "10155969",
+        "10090595"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Radiator Fan Failure",
+      "impact": "The failure of the radiator fan can cause loud noises, excessive current draw, and battery drain, leading to overheating, engine failure, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The radiator fan makes a loud noise",
+        "draws current even when the engine is off",
+        "causes battery drain",
+        "and may result in repeated battery replacements."
+      ],
+      "odiNumbers": [
+        "10266048",
+        "10227423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radiator Failure",
+      "impact": "The failure of the radiator can cause engine overheating, coolant leaks, and potentially lead to engine failure, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The radiator top housing detaches",
+        "causing engine failure",
+        "smoke under the hood",
+        "and water spraying from the radiator. The vehicle may overheat",
+        "and the radiator may explode."
+      ],
+      "odiNumbers": [
+        "10255034",
+        "10214090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lack of Pressure Release System",
+      "impact": "The absence of a pressure release system in the radiator design can cause the radiator to explode, leading to engine overheating, coolant leaks, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The radiator explodes",
+        "causing engine overheating",
+        "coolant leaks",
+        "and potentially leading to engine failure."
+      ],
+      "odiNumbers": [
+        "10255034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

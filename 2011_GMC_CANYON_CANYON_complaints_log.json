@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag-Related Issues",
+      "impact": "Failure of the airbag system can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Airbag light is on",
+        "vehicle shuts down while driving",
+        "safety belt light comes on",
+        "cracked dashboard near airbag compartment",
+        "fear of airbag deployment causing injury from dashboard fragments."
+      ],
+      "odiNumbers": [
+        "11186002",
+        "11144862",
+        "11045231",
+        "11042678",
+        "10991678",
+        "10983003"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dashboard Cracking near Airbag Compartment",
+      "impact": "Cracked dashboard near airbag compartment can cause injury from dashboard fragments if the airbag deploys.",
+      "symptoms": [
+        "Cracked dashboard near airbag compartment",
+        "fear of airbag deployment causing injury from dashboard fragments."
+      ],
+      "odiNumbers": [
+        "11111694",
+        "10991678",
+        "10983003"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "Failure of Takata airbags can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Manufacturer unable to replace airbag",
+        "conflicting information from dealerships and manufacturers",
+        "delay in replacing airbags."
+      ],
+      "odiNumbers": [
+        "11045231",
+        "11042678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dashboard Cracking",
+      "impact": "The cracking of the dashboard can lead to a compromised airbag system, increasing the risk of injury or fatality in the event of an accident. Additionally, sharp edges or shards of plastic can cause harm to occupants.",
+      "symptoms": [
+        "Cracks or fractures on the dashboard",
+        "particularly around the passenger airbag or instrument panel",
+        "vibration",
+        "chattering",
+        "or rattling noises from the dashboard."
+      ],
+      "odiNumbers": [
+        "11327166",
+        "11113269",
+        "11043730",
+        "11015318",
+        "10991686",
+        "10970954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Indicator Malfunction",
+      "impact": "The intermittent illumination of the airbag warning indicator can cause confusion and distraction for the driver, potentially leading to an accident.",
+      "symptoms": [
+        "The airbag warning indicator illuminates on and off at various times",
+        "especially when the vehicle is started."
+      ],
+      "odiNumbers": [
+        "10919122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall without warning, leading to a loss of control and potentially causing an accident.",
+      "symptoms": [
+        "The vehicle stalls without warning while driving at various speeds",
+        "the ignition switch fails to function properly."
+      ],
+      "odiNumbers": [
+        "10700627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Light Failure",
+      "impact": "The intermittent failure of the brake lights can increase the risk of a rear-end collision, as other drivers may not be aware of the vehicle's braking intentions.",
+      "symptoms": [
+        "The brake lights fail intermittently",
+        "multiple warning lights illuminate on the instrument panel when starting the vehicle."
+      ],
+      "odiNumbers": [
+        "10593479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

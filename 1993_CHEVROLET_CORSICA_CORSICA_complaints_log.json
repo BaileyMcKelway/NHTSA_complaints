@@ -1,0 +1,362 @@
+{
+  "totalComplaints": 129,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake (ABS) System Failure",
+      "impact": "Failure of the ABS system can lead to extended stopping distances, loss of control, and increased risk of accidents, especially in wet weather conditions.",
+      "symptoms": [
+        "ABS system fails to activate",
+        "ABS light comes on",
+        "extended stopping distance",
+        "loss of brake power",
+        "vehicle lunges ahead",
+        "clutch jerks ahead when coming to a stop."
+      ],
+      "odiNumbers": [
+        "871935",
+        "547938",
+        "843708",
+        "535003",
+        "973417",
+        "972218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure (Non-ABS)",
+      "impact": "Failure of the brake system can lead to loss of control, extended stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "vehicle will not stop",
+        "brake wear out",
+        "brake pads need to be replaced frequently",
+        "brake rotors and drums malfunction."
+      ],
+      "odiNumbers": [
+        "821908",
+        "817238",
+        "521087",
+        "806881",
+        "985859",
+        "985096",
+        "485934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Drag and Overheating",
+      "impact": "Brake drag and overheating can cause the brakes to lock up, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Brakes drag",
+        "brakes overheat",
+        "brakes lock up",
+        "brake fluid loss."
+      ],
+      "odiNumbers": [
+        "561616",
+        "739495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Axle Assembly and Brake Line Failure",
+      "impact": "Failure of the rear axle assembly and brake line can cause loss of brake fluid and diminished braking, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Loose bolts attaching rear axle assembly",
+        "brake line failure",
+        "loss of brake fluid."
+      ],
+      "odiNumbers": [
+        "739495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Warped Brake Drums",
+      "impact": "Warped brake drums can cause the brakes to malfunction, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Brake drums get warped out of round",
+        "brake drums need to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "735847"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Steering Column Fires)",
+      "impact": "Electrical system failures can cause fires in the steering column, resulting in injuries, vehicle damage, and potentially life-threatening situations.",
+      "symptoms": [
+        "Smoke coming from the steering column",
+        "flames",
+        "burning smell",
+        "electrical short or shock",
+        "wiring melting",
+        "turn signal switch malfunction",
+        "brake light and ABS system malfunction."
+      ],
+      "odiNumbers": [
+        "826771",
+        "826757",
+        "824557",
+        "823660",
+        "514990",
+        "982991",
+        "981304",
+        "960649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Battery Drain)",
+      "impact": "Electrical system malfunctions can cause the battery to drain, leading to unexpected stalls and potential safety risks.",
+      "symptoms": [
+        "Battery dies out",
+        "vehicle won't start",
+        "electrical malfunction."
+      ],
+      "odiNumbers": [
+        "826420",
+        "485934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure (Accessory Malfunction)",
+      "impact": "Electrical system failures can cause accessory malfunctions, such as faulty horn operation, which can lead to safety issues.",
+      "symptoms": [
+        "Difficulty accessing horn in a timely manner."
+      ],
+      "odiNumbers": [
+        "509292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure (Fuse Failure)",
+      "impact": "Electrical system malfunctions can cause fuse failures, leading to system failures and potential safety risks.",
+      "symptoms": [
+        "Fuse controlling the blower for the HVAC fails."
+      ],
+      "odiNumbers": [
+        "531950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure (Wiring Issues)",
+      "impact": "Electrical system failures can cause wiring issues, leading to fires, smoke, and potential safety risks.",
+      "symptoms": [
+        "Smoke coming from the wiring",
+        "electrical short",
+        "wiring melting."
+      ],
+      "odiNumbers": [
+        "824995",
+        "986195",
+        "961865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Turn Signal Switch and Steering Column Design Issues",
+      "impact": "The design of the turn signal switch and steering column can cause difficulties in switching between high and low beams, leading to poor visibility and potential accidents. Additionally, electrical shorts and malfunctions can cause smoke and sparks, posing a fire hazard.",
+      "symptoms": [
+        "Unable to switch from high to low beams while turning",
+        "turn signal switch hits the steering wheel",
+        "smoke and sparks coming from the steering column area",
+        "intermittent smoke from the hazard light switch",
+        "burning plastic smell/smoke from the steering column",
+        "turn signal indicator shorts out",
+        "and the switch that turns lights from low to high sometimes turns lights completely off."
+      ],
+      "odiNumbers": [
+        "560724",
+        "718287",
+        "847093",
+        "547948",
+        "838539",
+        "837781",
+        "542229",
+        "529675",
+        "529520",
+        "816184",
+        "521839",
+        "523090",
+        "521087",
+        "500904",
+        "487813",
+        "971992",
+        "965205",
+        "961370",
+        "480055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Shorts and Malfunctions in the Steering Column",
+      "impact": "Electrical shorts and malfunctions in the steering column can cause smoke and sparks, posing a fire hazard and potentially leading to accidents.",
+      "symptoms": [
+        "Smoke and sparks coming from the steering column area",
+        "intermittent smoke from the hazard light switch",
+        "burning plastic smell/smoke from the steering column",
+        "turn signal indicator shorts out",
+        "and the flasher unit within the steering column fails."
+      ],
+      "odiNumbers": [
+        "838539",
+        "837781",
+        "816184",
+        "521839",
+        "523090",
+        "521087",
+        "487813",
+        "961370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "The failure of the engine head gasket can cause engine overheating, misfires, and damage to other engine components, leading to costly repairs and potential safety hazards.",
+      "symptoms": [
+        "Engine overheating",
+        "misfires",
+        "loss of power",
+        "rough idling",
+        "and white smoke coming from the exhaust."
+      ],
+      "odiNumbers": [
+        "820229",
+        "817736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motor Mount Failure",
+      "impact": "The failure of the motor mounts can cause vibrations, noise, and potential safety hazards, such as engine damage or loss of control.",
+      "symptoms": [
+        "Vibrations",
+        "noise",
+        "and engine movement when idling or in reverse."
+      ],
+      "odiNumbers": [
+        "846755",
+        "828882",
+        "801123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Temperature Gauge Malfunction",
+      "impact": "The malfunction of the temperature gauge can cause engine overheating, damage to engine components, and potential safety hazards.",
+      "symptoms": [
+        "Inaccurate or intermittent temperature readings",
+        "engine overheating",
+        "and warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "837212",
+        "514469"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Idling Issues",
+      "impact": "The engine idling issues can cause loss of control, accidents, and potential safety hazards.",
+      "symptoms": [
+        "Engine idling without indication",
+        "engine running out of control",
+        "and difficulty stopping the engine."
+      ],
+      "odiNumbers": [
+        "834689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Fire",
+      "impact": "The engine fire can cause serious safety hazards, including injury or death.",
+      "symptoms": [
+        "Engine fire",
+        "smoke",
+        "and flames."
+      ],
+      "odiNumbers": [
+        "538643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Intake Manifold Gasket Failure",
+      "impact": "The failure of the intake manifold gasket can cause engine misfires, overheating, and loss of power.",
+      "symptoms": [
+        "Engine misfires",
+        "overheating",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "521839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Muffler and Pipe Failure",
+      "impact": "The failure of the muffler and pipe can cause noise, vibrations, and potential safety hazards.",
+      "symptoms": [
+        "Noise",
+        "vibrations",
+        "and exhaust leaks."
+      ],
+      "odiNumbers": [
+        "521839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

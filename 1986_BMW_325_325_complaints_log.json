@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "ENGINE AND ENGINE COOLING",
+    "EQUIPMENT",
+    "ENGINE",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Heater/Defroster System",
+      "impact": "A malfunctioning heater/defroster system can cause hot fluid to leak into the passenger compartment, resulting in burns or injuries to the driver or passengers. Additionally, a weak heater can compromise visibility during cold weather, increasing the risk of accidents.",
+      "symptoms": [
+        "Hot fluid enters the passenger compartment",
+        "burns or injuries to the driver or passengers",
+        "inadequate heating performance",
+        "reduced visibility during cold weather."
+      ],
+      "odiNumbers": [
+        "965140",
+        "8020942",
+        "482280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, rod knocking, and potentially catastrophic engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine overheats",
+        "the temperature gauge rises to the red zone",
+        "the engine makes a knocking or tapping noise",
+        "the engine stalls or shuts down",
+        "steam or coolant leaks from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10193975",
+        "725281",
+        "93"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Repair or Diagnosis by Dealership",
+      "impact": "The failure of the dealership to properly diagnose and repair the cooling system issue can lead to continued engine damage, safety risks, and financial losses for the vehicle owner.",
+      "symptoms": [
+        "The dealership fails to diagnose the cooling system issue",
+        "the dealership claims there is no recall for the vehicle",
+        "the dealership does not provide a proper repair or solution."
+      ],
+      "odiNumbers": [
+        "10193975",
+        "725281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Jacking System Failure",
+      "impact": "The failure of the jacking system can cause the vehicle to roll or fall, resulting in serious injury or death to individuals nearby.",
+      "symptoms": [
+        "The vehicle rolls or falls while being lifted by a jack",
+        "the jack footing slips",
+        "the vehicle is unstable when lifted."
+      ],
+      "odiNumbers": [
+        "523106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Insufficient Air Conditioning Performance",
+      "impact": "The inadequate performance of the air conditioning system can cause discomfort and distraction to the driver, potentially leading to accidents or decreased vehicle safety.",
+      "symptoms": [
+        "The air conditioning is not cooling the vehicle effectively",
+        "the air conditioning is not blowing cold air",
+        "the air conditioning is not powerful enough."
+      ],
+      "odiNumbers": [
+        "482280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, breakdowns, and potentially even engine failure, which can result in costly repairs and pose a safety risk to the driver and passengers.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the engine overheats",
+        "the coolant level is low",
+        "the coolant is leaking",
+        "the radiator fan is not working properly."
+      ],
+      "odiNumbers": [
+        "11006294"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Locking Device Failure",
+      "impact": "The failure of the electronic locking device can cause the passenger doors to become stuck, making it difficult or impossible to open them, which can lead to inconvenience, safety risks, and potential entrapment.",
+      "symptoms": [
+        "The passenger doors (front and rear) cannot be opened manually from the inside or with the key from the outside",
+        "the doors are stuck and cannot be opened."
+      ],
+      "odiNumbers": [
+        "10156139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

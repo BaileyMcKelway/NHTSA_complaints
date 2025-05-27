@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Coolant Leak Due to Intake Manifold Gasket Failure",
+      "impact": "A coolant leak can cause engine overheating, which can lead to engine damage, failure, or even a catastrophic engine failure, potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant level dropping",
+        "coolant leaking onto the engine or ground",
+        "engine warning lights or messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "10061990",
+        "10065330",
+        "10069942",
+        "10014253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure Due to Coolant Contamination",
+      "impact": "Transmission failure can cause loss of vehicle control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Transmission slipping or hesitation",
+        "unusual transmission noises",
+        "transmission warning lights or messages on the dashboard",
+        "overheating engine."
+      ],
+      "odiNumbers": [
+        "10014253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "Head gasket failure can cause engine overheating, loss of engine performance, and potentially lead to engine failure, causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant level dropping",
+        "coolant leaking onto the engine or ground",
+        "engine warning lights or messages on the dashboard",
+        "poor engine performance."
+      ],
+      "odiNumbers": [
+        "10061990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seatbelt Retractor Mounting",
+      "impact": "The improper mounting of the seatbelt retractor can cause the seatbelt to malfunction in the event of a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "Seatbelt does not lock or restrain the occupant during a crash",
+        "seatbelt comes unlocked during a crash",
+        "occupants may experience injuries or fatalities due to inadequate restraint."
+      ],
+      "odiNumbers": [
+        "10154440",
+        "9005150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Sliding Door Latch Failure",
+      "impact": "The failure of the rear sliding door latch can cause the door to open unexpectedly while the vehicle is in motion, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The rear sliding door opens unexpectedly while the vehicle is in motion",
+        "the door fails to latch properly",
+        "the door is difficult to close or latch",
+        "the door makes unusual noises or vibrations when closing or latching."
+      ],
+      "odiNumbers": [
+        "562656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

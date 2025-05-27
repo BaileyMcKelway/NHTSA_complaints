@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage or failure, which can result in costly repairs, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "blown hoses",
+        "cracked heater core",
+        "foggy windows",
+        "antifreeze smell in the cabin",
+        "engine stalling",
+        "repeated repairs",
+        "and replacement of cooling system components."
+      ],
+      "odiNumbers": [
+        "561909",
+        "870254",
+        "547534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Thermostat Failure",
+      "impact": "The failure of the thermostat can cause the engine to overheat, leading to engine damage or failure, which can result in costly repairs, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Thermostat breakage",
+        "blown hoses",
+        "engine overheating",
+        "coolant leaks",
+        "foggy windows",
+        "antifreeze smell in the cabin."
+      ],
+      "odiNumbers": [
+        "870254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "oxygen sensor failure",
+        "control unit failure",
+        "repeated repairs."
+      ],
+      "odiNumbers": [
+        "547534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The repeated electrical failures can cause the vehicle to stall, leading to a loss of control and increased risk of accidents, especially on high-speed roads. Additionally, the shorting out of components can lead to a fire hazard.",
+      "symptoms": [
+        "The vehicle experiences repeated electrical failures",
+        "the vehicle stalls",
+        "components short out",
+        "repairs are ineffective",
+        "and the issue persists despite multiple attempts to fix it."
+      ],
+      "odiNumbers": [
+        "547534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor and Pad Failure",
+      "impact": "The failure of brake rotors and pads can cause vibration, noise, and reduced braking performance, increasing the risk of accidents and compromising vehicle safety.",
+      "symptoms": [
+        "Vibration when applying the brakes",
+        "noise when applying the brakes",
+        "spongy brake pedal",
+        "brake pedal pulsation",
+        "reduced braking performance",
+        "uneven brake wear."
+      ],
+      "odiNumbers": [
+        "547534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

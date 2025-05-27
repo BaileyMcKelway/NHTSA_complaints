@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 61,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "Engine mount failure can cause the engine to move excessively, leading to premature wear on other components, noise, and vibration, which can affect vehicle performance and safety.",
+      "symptoms": [
+        "Engine mounts become loose",
+        "causing the engine to move excessively",
+        "leading to noise",
+        "vibration",
+        "and stalling."
+      ],
+      "odiNumbers": [
+        "10202775",
+        "10194208",
+        "10006096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall or hesitate, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle hesitates or stalls while driving",
+        "transmission slips out of gear",
+        "and the check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "8018086",
+        "10006096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or hesitate, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "no compression in cylinders",
+        "engine knock",
+        "grinding sound",
+        "difficulty starting",
+        "and stalling."
+      ],
+      "odiNumbers": [
+        "757736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust System Issues",
+      "impact": "Exhaust system issues can cause unpleasant odors and potentially harmful emissions, affecting the driver's comfort and health.",
+      "symptoms": [
+        "Rotten egg smell coming from the exhaust of the vehicle."
+      ],
+      "odiNumbers": [
+        "761644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of replacement parts for the Takata airbag recall can leave vehicles without functional airbags, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "notification of NHTSA recall campaign",
+        "inability to repair or replace airbag due to parts unavailability."
+      ],
+      "odiNumbers": [
+        "11509494",
+        "11321734",
+        "11319134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair Due to Parts Distribution Disconnect",
+      "impact": "The delay in recall repair due to parts distribution disconnect can leave vehicles without functional airbags for an extended period, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Notification of NHTSA recall campaign",
+        "inability to repair or replace airbag due to parts unavailability",
+        "extended wait time for repair",
+        "manufacturer's failure to provide timely repair."
+      ],
+      "odiNumbers": [
+        "11321734",
+        "11319134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

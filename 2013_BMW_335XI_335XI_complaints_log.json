@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden and unintended acceleration can cause loss of vehicle control, accidents, and injuries, as well as damage to property.",
+      "symptoms": [
+        "The vehicle rapidly and uncontrollably accelerates from a standstill or low speed",
+        "often without warning",
+        "making it difficult or impossible to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11091941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Power Loss",
+      "impact": "Loss of engine power can cause the vehicle to stall or struggle to accelerate, leading to accidents, especially when merging onto highways or crossing intersections.",
+      "symptoms": [
+        "The engine fails to rev past a certain RPM (e.g.",
+        "3",
+        "000 RPM)",
+        "the vehicle lacks power",
+        "and no fault codes are displayed on the dashboard."
+      ],
+      "odiNumbers": [
+        "10553052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Malfunction",
+      "impact": "The failure of the airbag system can lead to a lack of protection in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "smoke coming from the dashboard",
+        "seatbelts lock up and no longer function."
+      ],
+      "odiNumbers": [
+        "10980984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed Recall Repairs for Airbag Defects",
+      "impact": "The delay in repairing airbag defects can leave vehicles vulnerable to airbag malfunction, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are unavailable",
+        "manufacturer exceeds a reasonable amount of time for repair."
+      ],
+      "odiNumbers": [
+        "10949142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Interior Door Handle Malfunction",
+      "impact": "The malfunction of the interior door handle can prevent occupants from exiting the vehicle in a timely manner, potentially leading to safety risks in emergency situations, especially if there is an electrical failure.",
+      "symptoms": [
+        "The interior door handle feels stuck and cannot be fully pulled",
+        "the door does not unlock from the inside",
+        "requires pressing the electronic central locking switch to unlock",
+        "double pulling on the interior handle sometimes unlocks and opens the door."
+      ],
+      "odiNumbers": [
+        "11066551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High-Pitched Brake Squeal",
+      "impact": "The high-pitched brake squeal can be a nuisance and a distraction while driving, potentially leading to decreased driver attention and increased risk of accidents.",
+      "symptoms": [
+        "High-pitched squealing or screeching noise when applying the brakes",
+        "especially when slowing down or coming to a stop."
+      ],
+      "odiNumbers": [
+        "10763354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Air Suspension Failure",
+      "impact": "The sudden collapse of the front air suspension can cause loss of vehicle control, leading to accidents, injuries, or fatalities. The failure can also result in costly repairs and downtime.",
+      "symptoms": [
+        "The front passenger's side of the vehicle collapses without warning",
+        "the drive slow warning light illuminates",
+        "the vehicle sags or leans to one side",
+        "uneven tire wear",
+        "difficulty steering or handling."
+      ],
+      "odiNumbers": [
+        "10586583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

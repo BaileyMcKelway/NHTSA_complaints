@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unavailable Recall Repairs for Fuel System",
+      "impact": "The inability to complete recall repairs on the fuel system can lead to potential safety risks, such as fuel leaks or fires, which can cause accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the inability to complete recall repairs rather than a specific symptom or malfunction."
+      ],
+      "odiNumbers": [
+        "10130469",
+        "10130470",
+        "10130471",
+        "10130472",
+        "10130473",
+        "10130475",
+        "10130476",
+        "10130478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose braking ability, leading to accidents or near-miss incidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels \"rock-hard\" or difficult to depress",
+        "the brake pedal does not completely depress",
+        "the brakes do not stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10155354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Line Failure due to Starter Ground Strap",
+      "impact": "The rubbing of the starter ground strap against the steel brake line can cause a hole to form, leading to a loss of brake fluid and brake pressure, which can result in a loss of braking ability and increase the risk of accidents.",
+      "symptoms": [
+        "Loss of brake fluid",
+        "loss of brake pressure",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "10049737",
+        "10049739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Roof Leaks and Water Ingress",
+      "impact": "The roof leak can cause unsafe driving conditions, impaired visibility, and damage to the vehicle's interior, leading to accidents or near-misses.",
+      "symptoms": [
+        "Water leaks into the interior of the vehicle through the roof",
+        "causing water to drop onto the driver's clothes",
+        "seat",
+        "steering wheel",
+        "and vision",
+        "making it wet and impaired."
+      ],
+      "odiNumbers": [
+        "10002108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

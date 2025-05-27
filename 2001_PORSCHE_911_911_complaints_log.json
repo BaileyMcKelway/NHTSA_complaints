@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "IMS Bearing Failure",
+      "impact": "The failure of the IMS bearing can cause engine failure, leading to a loss of vehicle control and potentially causing accidents.",
+      "symptoms": [
+        "Brass flakes visible in the oil filter",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "11011277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant Fitting Failure",
+      "impact": "The failure of the coolant fittings can cause coolant leaks, leading to a loss of traction and potentially causing accidents. The coolant leak can also cause engine damage and overheating.",
+      "symptoms": [
+        "Coolant leak from the rear of the vehicle",
+        "coolant light does not come on",
+        "coolant fluid on the rear tires",
+        "engine coolant blows all over the engine and onto the ground."
+      ],
+      "odiNumbers": [
+        "10564718",
+        "10520214",
+        "10510113",
+        "10508590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Side Airbag Failure to Deploy",
+      "impact": "The failure of the side airbag to deploy in a side impact collision can increase the risk of serious injury or death to the occupants, particularly to the head and torso.",
+      "symptoms": [
+        "Side airbag fails to deploy in a side impact collision",
+        "no airbag warning lights or notifications",
+        "occupants may experience severe injuries or fatalities in a crash."
+      ],
+      "odiNumbers": [
+        "10431168",
+        "10010030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cloudy Headlight Lens Failure",
+      "impact": "The cloudy headlight lens can significantly reduce the visibility of the road, increasing the risk of accidents, especially at night or in low-light conditions. This can lead to costly repairs, injuries, or even fatalities.",
+      "symptoms": [
+        "Cloudy or hazy headlight lenses",
+        "reduced visibility",
+        "decreased light output",
+        "difficulty seeing the road at night or in low-light conditions."
+      ],
+      "odiNumbers": [
+        "10463053"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

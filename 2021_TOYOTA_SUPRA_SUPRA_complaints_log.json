@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to premature engine wear, increased emissions, and potentially cause engine failure, which can result in costly repairs or even accidents.",
+      "symptoms": [
+        "The vehicle consumes an excessive amount of oil",
+        "often exceeding one quart per 1",
+        "000 miles",
+        "triggering warning messages to add oil",
+        "and requiring frequent oil changes."
+      ],
+      "odiNumbers": [
+        "11554244",
+        "11468260",
+        "11468271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "The sudden failure of the passenger side low beam headlight can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The passenger side low beam headlight suddenly stops working",
+        "displaying an error message \"Right low beam malfunction\"."
+      ],
+      "odiNumbers": [
+        "11554572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unpredictable Throttle Behavior",
+      "impact": "The unresponsive and unpredictable throttle behavior can cause the vehicle to stall or suddenly accelerate, increasing the risk of accidents, especially when reversing on a slope or when traction control is engaged.",
+      "symptoms": [
+        "The vehicle experiences unresponsive or unpredictable throttle behavior on cold start",
+        "when reversing on a slope",
+        "and when traction control is engaged",
+        "resulting in delayed or sudden acceleration",
+        "engine stalling",
+        "or wheel spin."
+      ],
+      "odiNumbers": [
+        "11490226"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Assist System Failure",
+      "impact": "The failure of the brake assist system can cause the vehicle to fail to decelerate as needed, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Inadvertent engagement of the anti-lock braking system",
+        "failure to decelerate when braking",
+        "feeling of accelerating while braking",
+        "loss of brake assist",
+        "needing to stand on the brake pedal to slow down",
+        "swerving to avoid accidents."
+      ],
+      "odiNumbers": [
+        "11460072",
+        "11372651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal Malfunction",
+      "impact": "The malfunction of the brake pedal can cause the vehicle to fail to stop or slow down, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Soft or spongy brake pedal",
+        "needing to press the brake pedal harder than usual",
+        "brake pedal feeling like it's not responding",
+        "lack of brake assist",
+        "feeling of accelerating while braking."
+      ],
+      "odiNumbers": [
+        "11372651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Absence of Warning Lights or Malfunction Indicators",
+      "impact": "The absence of warning lights or malfunction indicators can prevent the driver from being aware of a brake system failure, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "No warning lights or malfunction indicators illuminated on the dashboard",
+        "despite brake system failure."
+      ],
+      "odiNumbers": [
+        "11372651",
+        "11460072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Vehicle Hesitation and Stalling",
+      "impact": "The intermittent hesitation and stalling of the vehicle can cause a safety hazard, particularly when merging into oncoming traffic, as it can increase the risk of accidents and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle hesitates or stalls when accelerating from a complete stop",
+        "resulting in a slow crawl for 3-4 seconds before returning to normal acceleration",
+        "with no warning lamps or messages appearing on the dashboard."
+      ],
+      "odiNumbers": [
+        "11525442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Sluggishness and Neutral Shift",
+      "impact": "The transmission's sluggish response and unexpected shift into neutral can cause loss of power, making it difficult to accelerate, which can increase the risk of accidents, especially when merging or crossing intersections.",
+      "symptoms": [
+        "Sluggish or hesitant acceleration from a dead stop",
+        "transmission shifts into neutral",
+        "engine shuts off",
+        "difficulty pulling out of an intersection",
+        "especially after applying brakes."
+      ],
+      "odiNumbers": [
+        "11489558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

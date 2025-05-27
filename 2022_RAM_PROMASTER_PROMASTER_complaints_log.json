@@ -1,0 +1,235 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Adaptive Cruise Control (ACC) with Traffic Sign Assist (TSA)",
+      "impact": "The faulty implementation of ACC with TSA can cause sudden and unexpected braking, leading to loss of control, accidents, or near-miss situations, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle suddenly applies the brakes without warning",
+        "often when detecting a speed limit sign on an exit ramp or parallel service road",
+        "even when the driver is not expecting it. The system flashes a warning message",
+        "but automatically applies the brakes instead of allowing the driver to respond."
+      ],
+      "odiNumbers": [
+        "11495877",
+        "11493375",
+        "11492218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inconsistent Units for Speedometer and Cruise Control",
+      "impact": "Although not a safety risk, the random change in units from MPH to km/h can cause confusion and inconvenience for the driver.",
+      "symptoms": [
+        "The speedometer and cruise control units randomly switch from MPH to km/h when the vehicle is started",
+        "without any warning lamps or error messages."
+      ],
+      "odiNumbers": [
+        "11486078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Complete brake failure",
+        "brake pedal vibrating and smashing down to the floor",
+        "grinding or metal-on-metal sound when pressing the brake pedal",
+        "brake actuator failure",
+        "warning lights on the dash",
+        "and disabled emergency braking and cruise control."
+      ],
+      "odiNumbers": [
+        "11585568",
+        "11539056",
+        "11526234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Actuator Failure",
+      "impact": "The failure of the brake actuator can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brake actuator falling apart",
+        "warning lights on the dash",
+        "and disabled emergency braking and cruise control."
+      ],
+      "odiNumbers": [
+        "11539056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parts Availability Issues",
+      "impact": "The lack of availability of critical safety parts, such as brake components, can leave vehicles inoperable and pose a safety risk to drivers.",
+      "symptoms": [
+        "Unavailability of brake rotors",
+        "brake pads",
+        "and caliper assemblies",
+        "leading to extended downtime and rental costs."
+      ],
+      "odiNumbers": [
+        "11526234",
+        "11539056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Parking Brake Malfunction",
+      "impact": "The malfunction of the electronic parking brake can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Electronic parking brake automatically applies when the vehicle is in gear",
+        "limiting the driver's ability to control the vehicle when driving up or down hilly terrain."
+      ],
+      "odiNumbers": [
+        "11486075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Braking Due to Forward Collision System Malfunction",
+      "impact": "The unintended braking can cause loss of control, accidents, or near-miss situations, posing a significant safety risk to the driver and other road users.",
+      "symptoms": [
+        "The vehicle brakes unexpectedly",
+        "often without warning",
+        "and may not accelerate when this occurs. The Forward Collision Warning (FCW) system may shut down during operation",
+        "and the FCW Off dash warning light may come on."
+      ],
+      "odiNumbers": [
+        "11550041",
+        "11543827",
+        "11483158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Forward Collision System Sensor Blindness",
+      "impact": "The sensor blindness can cause the Forward Collision System to malfunction, leading to unintended braking, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The Forward Collision System may shut down",
+        "and the FCW Off dash warning light may come on. Error codes such as C14A5-92 sensor blinded may be displayed."
+      ],
+      "odiNumbers": [
+        "11543827",
+        "11550041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intelligent Speed Assist Malfunction",
+      "impact": "The malfunction can cause the vehicle to aggressively brake on the highway, potentially leading to accidents or near-miss situations.",
+      "symptoms": [
+        "The vehicle's Intelligent Speed Assist feature may automatically change the set speed without user input",
+        "causing the vehicle to brake unexpectedly."
+      ],
+      "odiNumbers": [
+        "11493382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cowl and Windshield Water Ingress",
+      "impact": "Water ingress into the engine compartment can cause electrical failures, engine damage, and potentially lead to fires, posing a serious safety risk to occupants.",
+      "symptoms": [
+        "Water floods the engine compartment during rainfall",
+        "causing electrical failures",
+        "transmission and engine part damage",
+        "and potentially leading to fires. Electronic messages of failure appear on the dashboard",
+        "and headlights may flood."
+      ],
+      "odiNumbers": [
+        "11592093",
+        "11555711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sliding Van Side Door Failure",
+      "impact": "The inability to open the sliding van side door from the inside can trap occupants in emergency situations, posing a serious safety risk.",
+      "symptoms": [
+        "The plastic lever on the sliding van side door fails to catch",
+        "making it difficult or impossible to open the door from the inside",
+        "especially when the front seats are turned around for camping."
+      ],
+      "odiNumbers": [
+        "11489179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Battery Drainage)",
+      "impact": "The battery drainage issue can cause the vehicle to become stranded, leading to safety concerns, especially when combined with other issues like the awning opening unexpectedly.",
+      "symptoms": [
+        "The chassis battery keeps dying after a few days",
+        "requiring frequent replacements."
+      ],
+      "odiNumbers": [
+        "11574757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "The engine compartment fire can cause significant damage to the vehicle, posing a risk to the occupants and other road users.",
+      "symptoms": [
+        "Sudden and unexpected smoke and flames from the engine area",
+        "with no warning signs or odors."
+      ],
+      "odiNumbers": [
+        "11558177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Keyless Malfunction and Safety Issues",
+      "impact": "The keyless malfunction can cause the vehicle to remain running, leading to safety concerns, especially when combined with other issues like low fuel levels.",
+      "symptoms": [
+        "The vehicle refuses to turn off",
+        "requiring the occupants to take risks like adding fuel to a running vehicle",
+        "and potentially leading to exhaust exposure and vulnerability to safety risks."
+      ],
+      "odiNumbers": [
+        "11527739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

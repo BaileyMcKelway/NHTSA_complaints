@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "TIRES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion of Fuel Filler Pipe/Tank",
+      "impact": "Corrosion of the fuel filler pipe or tank can cause fuel leaks, which can lead to a fire hazard, especially in the engine compartment.",
+      "symptoms": [
+        "Fuel leakage in the engine compartment",
+        "fuel filler pipe/tube rusted",
+        "corrosion of metal filler tube",
+        "fuel leaks from tank",
+        "fuel leaks onto rear brakes",
+        "fuel leaks from top of filler tube."
+      ],
+      "odiNumbers": [
+        "852716",
+        "508843",
+        "969058",
+        "968274",
+        "967254",
+        "964883",
+        "963907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Delamination",
+      "impact": "Tire delamination can cause a loss of control, leading to accidents, injuries, or fatalities. The sudden failure of a tire can also cause the vehicle to pull to one side, making it difficult to steer.",
+      "symptoms": [
+        "Unusual noises",
+        "such as flapping or thumping",
+        "coming from the tire",
+        "loss of air pressure",
+        "visible signs of tire damage",
+        "such as bulges or cracks."
+      ],
+      "odiNumbers": [
+        "877452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Seat Belt Length",
+      "impact": "The insufficient length of the seat belts can lead to discomfort, difficulty, or impossibility of wearing the seat belts, compromising the safety of the occupants in the event of an accident.",
+      "symptoms": [
+        "The seat belts are too short",
+        "making it difficult or impossible to wear them comfortably",
+        "the seat belts do not fit properly",
+        "the seat belts cause discomfort or constraint."
+      ],
+      "odiNumbers": [
+        "708759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Seat Belt Extender Availability",
+      "impact": "The unavailability of seat belt extenders can force occupants to compromise on their safety by not wearing the seat belts, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The manufacturer does not provide seat belt extenders",
+        "the dealership does not offer seat belt extenders",
+        "the occupants are unable to find seat belt extenders compatible with the vehicle."
+      ],
+      "odiNumbers": [
+        "708759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

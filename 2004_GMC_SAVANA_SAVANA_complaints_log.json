@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to take longer to stop, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floorboard",
+        "the brake pedal extends to the floor",
+        "the brake pedal requires maximum effort to engage",
+        "the ABS and brake lights illuminate",
+        "the ABS does not work when the brake pedal is depressed",
+        "the vehicle takes a long time to stop when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "11491736",
+        "10260707",
+        "10244516",
+        "10186342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Brake Performance",
+      "impact": "The inadequate brake performance can cause the vehicle to take longer to stop, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle takes a long time to stop when the brakes are applied",
+        "the brakes require extended stopping distance",
+        "the vehicle may not stop in time to avoid accidents."
+      ],
+      "odiNumbers": [
+        "10186342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The ABS and brake lights illuminate",
+        "the ABS does not work when the brake pedal is depressed",
+        "the chime constantly sounds in the vehicle indicating that the ABS does not work."
+      ],
+      "odiNumbers": [
+        "10244516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure: Fuel Line Corrosion and Leaks",
+      "impact": "Fuel line corrosion and leaks can cause fuel to spill during refueling, increasing the risk of fire in the presence of an ignition source.",
+      "symptoms": [
+        "Strong smell of gasoline after refueling",
+        "fuel leaks under the vehicle",
+        "fuel spills during refueling",
+        "corrosion of the fuel filler pipe."
+      ],
+      "odiNumbers": [
+        "10497641",
+        "10195969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Failure: Fuel Line Splitting",
+      "impact": "Fuel line splitting can cause fuel to leak under the vehicle, increasing the risk of fire in the presence of an ignition source.",
+      "symptoms": [
+        "Strong smell of gasoline",
+        "fuel leaks under the vehicle",
+        "fuel spills during refueling",
+        "splitting of the fuel line near the muffler."
+      ],
+      "odiNumbers": [
+        "10195969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Belt Separation and Tread Loss",
+      "impact": "The separation of the tire belt and loss of tread can cause excessive vibration, loss of control, and potentially lead to accidents, especially at high speeds.",
+      "symptoms": [
+        "The vehicle makes a thumping noise",
+        "the tire tread is missing",
+        "the tire has a blister or bulge",
+        "the vehicle vibrates excessively",
+        "the tire experiences belt separation",
+        "the rear belt fractures."
+      ],
+      "odiNumbers": [
+        "10401507",
+        "10346849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Uncontrollable shaking of the vehicle",
+        "noise coming from the front of the vehicle",
+        "difficulty steering",
+        "loose or uneven steering."
+      ],
+      "odiNumbers": [
+        "10167157",
+        "10101111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

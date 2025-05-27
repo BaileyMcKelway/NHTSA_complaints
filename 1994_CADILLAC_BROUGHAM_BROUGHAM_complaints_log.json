@@ -1,0 +1,146 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the vehicle has difficulty starting",
+        "the vehicle has poor engine performance."
+      ],
+      "odiNumbers": [
+        "542197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Sensing Element Failure",
+      "impact": "The failure of the fuel sensing element can cause inaccurate fuel level readings, leading to unexpected engine stalling or running out of fuel, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The fuel gauge is inaccurate",
+        "the fuel gauge fluctuates or is erratic",
+        "the vehicle runs out of fuel despite the gauge indicating otherwise",
+        "the fuel sensing element wiring is frayed or charred."
+      ],
+      "odiNumbers": [
+        "542197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the driver to be unaware of the actual fuel level, leading to unexpected engine stalling or running out of fuel, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The fuel gauge is inaccurate",
+        "the fuel gauge does not move or respond",
+        "the fuel gauge is stuck on a particular reading."
+      ],
+      "odiNumbers": [
+        "478561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause brake fluid to leak, leading to a loss of brake pressure, which can result in extended stopping distances, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "Brake fluid leaking from the brake line",
+        "smoke or burning smell coming from the engine compartment",
+        "binding",
+        "grinding",
+        "squealing",
+        "or dragging noises from the rear brakes",
+        "vehicle pulling to one side while braking."
+      ],
+      "odiNumbers": [
+        "10662855",
+        "478561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Brake Binding/Grinding/Squealing/Dragging",
+      "impact": "The binding, grinding, squealing, or dragging of the rear brakes can cause uneven brake wear, reduced brake performance, and potentially lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Binding",
+        "grinding",
+        "squealing",
+        "or dragging noises from the rear brakes",
+        "vehicle pulling to one side while braking",
+        "uneven brake wear on the rear brake pads or rotors."
+      ],
+      "odiNumbers": [
+        "478561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of serious injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite meeting deployment criteria",
+        "resulting in potential injury or harm to occupants."
+      ],
+      "odiNumbers": [
+        "975413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, slip, or hesitate, leading to reduced acceleration, difficulty shifting gears, and potential accidents.",
+      "symptoms": [
+        "The vehicle hesitates or slips when shifting gears",
+        "the transmission makes unusual noises",
+        "the vehicle loses power or acceleration",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "478561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Differential Failure",
+      "impact": "The failure of the rear differential can cause the vehicle to lose traction, vibrate, or make unusual noises, leading to reduced vehicle stability, difficulty controlling the vehicle, and potential accidents.",
+      "symptoms": [
+        "The vehicle vibrates or shakes",
+        "especially at high speeds",
+        "the rear differential makes unusual noises",
+        "the vehicle loses traction or stability",
+        "the rear differential warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "478561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden acceleration when no force is applied to the gas pedal can lead to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without the driver's input",
+        "the engine RPM increases unexpectedly",
+        "the vehicle surges forward without warning."
+      ],
+      "odiNumbers": [
+        "980426",
+        "980426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idle Air Control System Malfunction",
+      "impact": "A malfunctioning idle air control system can cause the engine to stall or run rough, leading to decreased vehicle performance and potential safety hazards.",
+      "symptoms": [
+        "The engine idle speed is not stable",
+        "the engine stalls frequently",
+        "the engine runs rough or hesitates",
+        "the idle speed cannot be adjusted."
+      ],
+      "odiNumbers": [
+        "966821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Non-Free Wheeling Design and Timing Belt Failure",
+      "impact": "The failure of the timing belt can cause the engine to stall or seize, leading to sudden loss of power and potentially causing accidents or leaving the driver stranded. The non-free wheeling design of the engine can exacerbate the issue, causing parts to bind and leading to catastrophic engine failure.",
+      "symptoms": [
+        "The engine stalls or seizes",
+        "the vehicle loses power",
+        "the timing belt breaks or fails",
+        "the engine makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "480870",
+        "958948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Seatbelt Retractor Failure",
+      "impact": "The failure of the rear seatbelt retractor can cause the seatbelt to stick or not extend, making it difficult or impossible to properly secure rear passengers, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The rear seatbelt sticks",
+        "the rear seatbelt will not extend",
+        "the rear seatbelt does not latch properly."
+      ],
+      "odiNumbers": [
+        "814603",
+        "968811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure to Engage",
+      "impact": "The failure of the clutch to engage can cause the vehicle to lose power, leading to a loss of control, and potentially resulting in accidents or near-misses.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle is unable to shift into gear",
+        "the vehicle loses power",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "979648",
+        "979648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "Intermittent stalling can cause the vehicle to suddenly lose power, leading to a loss of control and increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the vehicle loses power suddenly",
+        "the engine dies while driving",
+        "the vehicle hesitates or stutters before stalling."
+      ],
+      "odiNumbers": [
+        "484071"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Carburetor",
+      "impact": "A defective carburetor can cause the engine to idle high, leading to poor fuel efficiency, increased emissions, and potentially causing the engine to stall or overheat.",
+      "symptoms": [
+        "The engine idles high",
+        "the vehicle experiences poor fuel efficiency",
+        "the vehicle emits excessive exhaust fumes",
+        "the engine overheats",
+        "the vehicle stalls or hesitates."
+      ],
+      "odiNumbers": [
+        "485214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

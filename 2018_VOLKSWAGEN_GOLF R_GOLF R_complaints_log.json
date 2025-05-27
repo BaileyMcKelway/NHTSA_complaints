@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure to Engage/Slipping into Neutral",
+      "impact": "The transmission's failure to engage or slipping into neutral can cause loss of power and acceleration, leading to dangerous situations, especially when merging into traffic or crossing intersections.",
+      "symptoms": [
+        "The transmission falls into neutral when it should shift from 1st to 2nd gear",
+        "requiring the driver to stop accelerating and wait for the RPMs to drop before the transmission re-engages; the transmission slips into neutral when it should be making the 1st to 2nd shift",
+        "resulting in loss of power and acceleration."
+      ],
+      "odiNumbers": [
+        "11579064",
+        "11437660",
+        "11437081"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Moisture Accumulation",
+      "impact": "The accumulation of moisture inside the headlight housing can cause the headlights to become dim, reducing visibility while driving at night, which can increase the risk of accidents.",
+      "symptoms": [
+        "Headlights appear dim or foggy",
+        "reduced visibility while driving at night",
+        "moisture or condensation visible inside the headlight housing."
+      ],
+      "odiNumbers": [
+        "11567348"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Front Park Assist Sensor Behavior",
+      "impact": "The unpredictable behavior of the front park assist sensors can cause the vehicle to suddenly apply brakes, leading to unexpected stops, potentially causing accidents or near-misses, especially when merging into traffic.",
+      "symptoms": [
+        "The front park assist sensors beep or alert unnecessarily",
+        "the vehicle automatically applies brakes instead of accelerating",
+        "the engine stalls",
+        "the vehicle comes to an unexpected stop",
+        "especially when driving at low speeds (below 3mph) or navigating inclines."
+      ],
+      "odiNumbers": [
+        "11278045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ParkPilot System Misreading Road as Obstacle",
+      "impact": "The ParkPilot system's tendency to misread the road as an obstacle can cause the vehicle to unnecessarily apply brakes, leading to unexpected stops, potentially causing accidents or near-misses, especially when merging into traffic.",
+      "symptoms": [
+        "The vehicle applies brakes on its own",
+        "especially at low speeds (below 3mph)",
+        "the ParkPilot system beeps or alerts unnecessarily",
+        "the vehicle comes to an unexpected stop",
+        "especially when navigating parking lots or inclines."
+      ],
+      "odiNumbers": [
+        "11278045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Activation of Front Collision Warning and Emergency Braking System",
+      "impact": "The false activation of the front collision warning and emergency braking system can cause sudden and unexpected stops, which can lead to accidents, especially when entering a roadway from a parking lot.",
+      "symptoms": [
+        "The front collision warning sounds or alerts when there is no obstacle",
+        "the emergency brakes activate unnecessarily",
+        "the vehicle suddenly stops or slows down without warning",
+        "the system mistakenly identifies a road dip or incline as an obstacle."
+      ],
+      "odiNumbers": [
+        "11210352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sensitive or Overly Cautious Advanced Driver-Assistance Systems (ADAS)",
+      "impact": "Overly sensitive or cautious ADAS can cause unnecessary activations of safety features, leading to sudden stops, alerts, or warnings, which can be distracting, annoying, and potentially dangerous.",
+      "symptoms": [
+        "Frequent false alarms or warnings",
+        "unnecessary activations of emergency braking or collision warning systems",
+        "the system is overly cautious or sensitive",
+        "the system mistakes road features or shadows for obstacles."
+      ],
+      "odiNumbers": [
+        "11210352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera Malfunction with Android Auto",
+      "impact": "The failure of the backup camera to display when shifting to reverse can increase the risk of accidents or injuries, especially when reversing in tight spaces or with pedestrians or obstacles nearby.",
+      "symptoms": [
+        "The backup camera does not display when shifting to reverse",
+        "the infotainment system displays a media screen instead of the backup camera",
+        "the infotainment system displays an error message such as \"Parkpilot is currently not available\"."
+      ],
+      "odiNumbers": [
+        "11208209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wiring Harness Failure and Insulation Degradation",
+      "impact": "The failure of the wiring harness can cause electrical system malfunctions, leading to stalling, loss of brakes, and even fires, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Exposed copper wires",
+        "crumbling wire harness insulation",
+        "sparks when the harness is agitated",
+        "stalling at low speeds",
+        "loss of brakes",
+        "and fires."
+      ],
+      "odiNumbers": [
+        "8010430",
+        "712726",
+        "527502",
+        "963638",
+        "961600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Cable Failure Due to Improper Design",
+      "impact": "The failure of the clutch cable can cause the clutch pedal to malfunction, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels stiff or hard to press",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "549424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Stalling at Low Speeds with Loss of Brake Function",
+      "impact": "The sudden stalling of the vehicle at low speeds, accompanied by a loss of brake function, can increase the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle stalls at low speeds (e.g.",
+        "when stopping or turning)",
+        "the brakes fail to respond or are unresponsive",
+        "the vehicle is unable to slow down or stop",
+        "the driver may experience a sudden loss of control."
+      ],
+      "odiNumbers": [
+        "963638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Brake Pedal Position Sensor",
+      "impact": "A faulty brake pedal position sensor can cause the vehicle to stall or lose brake function, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle stalls at low speeds",
+        "the brakes fail to respond or are unresponsive",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal does not return to its normal position",
+        "the vehicle's anti-lock braking system (ABS) light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10567062",
+        "10561132",
+        "10454999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electronic Throttle Control (ETC) System Failure",
+      "impact": "Failure of the ETC system can cause the vehicle to stall or lose power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the throttle pedal feels unresponsive",
+        "the engine RPM fluctuates or surges",
+        "the vehicle's \"check engine\" light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10966445",
+        "10734988",
+        "10650766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

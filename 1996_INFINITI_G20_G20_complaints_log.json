@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Separation/Failure",
+      "impact": "Tire separation or failure can cause loss of vehicle control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire separation",
+        "sudden loss of air pressure",
+        "vibrations or uneven tire wear",
+        "and difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10783868",
+        "10125525"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Failure of Engine Mounts",
+      "impact": "The premature failure of engine mounts can cause excessive engine vibration, noise, and movement, leading to potential damage to surrounding components, decreased vehicle performance, and compromised safety.",
+      "symptoms": [
+        "Excessive engine vibration",
+        "noise",
+        "or movement",
+        "cracked or broken engine mounts",
+        "difficulty shifting gears",
+        "rough idling",
+        "or uneven engine performance."
+      ],
+      "odiNumbers": [
+        "736750",
+        "723389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak",
+      "impact": "A fuel system leak can cause a fire hazard, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Strong smell of gasoline while driving",
+        "fuel odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "859638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Recall Service",
+      "impact": "Failure to provide timely and adequate service for recalled vehicles can lead to continued safety risks for drivers and passengers.",
+      "symptoms": [
+        "Difficulty scheduling an appointment for recall repairs",
+        "lack of loaner vehicles available",
+        "inadequate communication from dealerships."
+      ],
+      "odiNumbers": [
+        "816059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Abnormal Brake Noise and Pedal Compression",
+      "impact": "The abnormal brake noise and pedal compression can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Squeaky or unusual noise from the brakes",
+        "brake pedal compresses or feels soft",
+        "brake pedal vibrates or pulsates when pressed."
+      ],
+      "odiNumbers": [
+        "826117",
+        "490564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Dealer Misdiagnosis and Lack of Repair",
+      "impact": "The dealer's failure to properly diagnose and repair the issue can lead to continued safety risks and potentially cause accidents.",
+      "symptoms": [
+        "Dealer informs consumer that the issue is normal or not a problem",
+        "despite the consumer's reports of abnormal brake noise and pedal compression."
+      ],
+      "odiNumbers": [
+        "826117",
+        "490564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "PARKING BRAKE",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Suspension Misalignment",
+      "impact": "Front suspension misalignment can cause uneven tire wear, reduced traction, and loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Excessive tire wear",
+        "uneven tire wear",
+        "tire blowouts",
+        "vibration while driving",
+        "loss of control",
+        "rough ride."
+      ],
+      "odiNumbers": [
+        "8011875",
+        "537375",
+        "524547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front End Weight Distribution Issue",
+      "impact": "An uneven weight distribution at the front end of the vehicle can cause excessive wear on tires and suspension components, leading to premature failure and potentially causing loss of control.",
+      "symptoms": [
+        "Excessive tire wear",
+        "uneven tire wear",
+        "rough ride",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "537375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Autobrake and Parking Brake Failure",
+      "impact": "The failure of the autobrake and parking brake can cause the vehicle to move unexpectedly, potentially leading to accidents or collisions, especially when parking on inclines.",
+      "symptoms": [
+        "The autobrake and parking brake fail to engage",
+        "the vehicle moves forward when in park position",
+        "the brakes overheat",
+        "the brake pedal feels soft or spongy",
+        "the brake switch malfunctions."
+      ],
+      "odiNumbers": [
+        "557893",
+        "822733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gross Vehicle Weight Rating (GVWR) Exceedance",
+      "impact": "Exceeding the GVWR can lead to premature wear on tires, overloaded front axle, and compromised vehicle stability, increasing the risk of accidents, tire blowouts, and structural damage.",
+      "symptoms": [
+        "None reported",
+        "as this issue is related to the vehicle's design and weight capacity."
+      ],
+      "odiNumbers": [
+        "837081"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Slide-Out Unit Malfunction",
+      "impact": "The sudden opening of the slide-out unit while driving can cause loss of vehicle control, leading to accidents, structural damage, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The slide-out unit opens unexpectedly while driving",
+        "causing the walls to separate and slide out",
+        "resulting in extensive structural damage."
+      ],
+      "odiNumbers": [
+        "526051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

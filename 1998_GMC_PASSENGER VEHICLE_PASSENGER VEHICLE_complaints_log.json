@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can reduce visibility during rainy or snowy conditions, increasing the risk of accidents and compromising driver safety.",
+      "symptoms": [
+        "Windshield wipers work only intermittently",
+        "fail to start",
+        "or quit while turned on; wipers may start working again after a few minutes or may not work at all; wipers may need to be manually started by moving the wiper arm; wiper failure is more frequent in warm weather."
+      ],
+      "odiNumbers": [
+        "10090996",
+        "10067640",
+        "10039486",
+        "10028850",
+        "10023303"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Linkage Failure",
+      "impact": "The failure of the steering linkage can cause a loss of steering control, leading to accidents, especially at high speeds.",
+      "symptoms": [
+        "Hard turning to the left",
+        "loss of steering control",
+        "idler arm failure",
+        "steering linkage failure."
+      ],
+      "odiNumbers": [
+        "10118705",
+        "10078645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intake Manifold Gasket Leak",
+      "impact": "The intake manifold gasket leak can cause coolant to mix with engine oil, leading to engine damage, overheating, and potentially causing the engine to seize or fail, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant in oil",
+        "oil in coolant",
+        "engine overheating",
+        "engine noise or knocking",
+        "decreased engine performance",
+        "white smoke from the exhaust."
+      ],
+      "odiNumbers": [
+        "10105883",
+        "10030492"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dex-Cool Coolant System Deterioration",
+      "impact": "The deterioration of the Dex-Cool coolant system can cause corrosion and damage to engine components, leading to engine failure, overheating, and potentially causing the engine to seize or fail, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leakage",
+        "engine overheating",
+        "engine noise or knocking",
+        "decreased engine performance",
+        "white smoke from the exhaust",
+        "coolant level drops."
+      ],
+      "odiNumbers": [
+        "10030492"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

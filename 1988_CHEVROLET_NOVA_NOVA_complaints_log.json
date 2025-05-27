@@ -1,0 +1,72 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become stuck in gear, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops or loses power",
+        "the vehicle rolls backwards while in park",
+        "the transmission fails to engage or disengage",
+        "the vehicle is unable to move in any gear",
+        "the key can be removed from the ignition while the car is in drive",
+        "and the car starts to move."
+      ],
+      "odiNumbers": [
+        "9005280",
+        "601917",
+        "500929",
+        "969991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "A faulty seat belt buckle can lead to accidents or injuries, as it may not provide adequate protection in the event of a crash, or even trap occupants, including children, in their car seats.",
+      "symptoms": [
+        "The seat belt buckle breaks",
+        "the seat belt will not open",
+        "the seat belt gets stuck",
+        "the seat belt is difficult to release",
+        "occupants",
+        "including children",
+        "are trapped in their car seats."
+      ],
+      "odiNumbers": [
+        "604429",
+        "971264",
+        "965828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Lighting System Failure due to Electrical Short",
+      "impact": "The failure of the rear lighting system can cause a loss of visibility, increasing the risk of accidents, especially at night or in low-light conditions. In severe cases, an electrical short can lead to a fire, posing a risk to the vehicle's occupants and other road users.",
+      "symptoms": [
+        "Rear lights do not function",
+        "tail lights are dim or flickering",
+        "burning smell or smoke from the rear of the vehicle",
+        "melted or burned wiring harness",
+        "visible signs of electrical arcing or burning."
+      ],
+      "odiNumbers": [
+        "999999999",
+        "513371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

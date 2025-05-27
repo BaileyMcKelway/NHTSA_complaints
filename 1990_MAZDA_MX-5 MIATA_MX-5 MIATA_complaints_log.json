@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to occupants. Additionally, faulty airbag systems can cause unexpected deployments, resulting in injuries or distractions while driving.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "airbags fail to deploy in a crash",
+        "airbags deploy unexpectedly",
+        "violent deployment of airbags",
+        "and difficulty finding replacement parts."
+      ],
+      "odiNumbers": [
+        "11474624",
+        "10026258",
+        "850681",
+        "542056",
+        "980945",
+        "967761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure: Unintended Gear Engagement",
+      "impact": "The transmission failure can cause the vehicle to unexpectedly shift into reverse gear, leading to accidents, injuries, or property damage. This issue can also result in loss of vehicle control, especially when the vehicle is on an incline.",
+      "symptoms": [
+        "The transmission shifts into reverse gear unexpectedly",
+        "the vehicle rolls backwards when in neutral gear",
+        "the gear gets stuck in reverse",
+        "the vehicle surges when shifting into neutral or reverse gear."
+      ],
+      "odiNumbers": [
+        "10168563",
+        "887176",
+        "874291",
+        "524362",
+        "961154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Differential Failure: Pinion Failure",
+      "impact": "The failure of the pinion inside the differential can cause the rear wheels to lock up, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The rear wheels lock up",
+        "the vehicle loses traction",
+        "the differential makes unusual noises."
+      ],
+      "odiNumbers": [
+        "713498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Latch Failure",
+      "impact": "The failure of the driver's side seat belt latch can increase the risk of injury or death in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt fails to latch",
+        "takes multiple attempts to latch",
+        "does not lock in place",
+        "operates intermittently",
+        "fails to click or hold",
+        "and the buckle is broken."
+      ],
+      "odiNumbers": [
+        "10041445",
+        "10026256",
+        "724541",
+        "532828",
+        "513369",
+        "965914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crankshaft Failure",
+      "impact": "The failure of the crankshaft can cause the engine to seize or stall, leading to a loss of power and potentially causing an accident or leaving the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "engine seizure",
+        "engine stalling",
+        "loss of power",
+        "unusual engine noise."
+      ],
+      "odiNumbers": [
+        "736703",
+        "724598",
+        "717720",
+        "518509"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

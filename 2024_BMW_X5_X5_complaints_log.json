@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High Voltage Hybrid System Failure",
+      "impact": "The failure of the high voltage hybrid system can cause a sudden loss of power, making it difficult or impossible to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Check Engine light",
+        "Drivetrain Malfunction warning",
+        "High Voltage System warning",
+        "loss of power",
+        "inability to drive",
+        "hot electrical smell",
+        "coolant smell in the ventilation system."
+      ],
+      "odiNumbers": [
+        "11591036",
+        "11576435",
+        "11566082",
+        "11566088",
+        "11565852",
+        "11543045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High Voltage Battery Control Module Failure",
+      "impact": "The failure of the high voltage battery control module can cause the vehicle to halt suddenly, leaving the driver stranded, and potentially leading to accidents.",
+      "symptoms": [
+        "The vehicle halts suddenly",
+        "the \"check engine\" light comes on",
+        "drivetrain faults",
+        "high voltage warnings",
+        "and the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "11584824",
+        "11578230",
+        "11567738",
+        "11565719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Combined Charging Unit Failure",
+      "impact": "The failure of the combined charging unit can cause the vehicle to halt suddenly, leaving the driver stranded, and potentially leading to accidents.",
+      "symptoms": [
+        "The vehicle halts suddenly",
+        "the vehicle is unable to move",
+        "and drivetrain faults."
+      ],
+      "odiNumbers": [
+        "11584824",
+        "11565719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Drivetrain Malfunction",
+      "impact": "The drivetrain malfunction can cause the vehicle to halt suddenly, leaving the driver stranded, and potentially leading to accidents.",
+      "symptoms": [
+        "The vehicle halts suddenly",
+        "drivetrain faults",
+        "high voltage warnings",
+        "and the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "11584824",
+        "11567738",
+        "11565719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Assistance Package Failure",
+      "impact": "The failure of the parking assistance package can cause the vehicle to crash into objects without warning, potentially leading to accidents and injuries.",
+      "symptoms": [
+        "The vehicle fails to stop as needed",
+        "crashes into objects without warning",
+        "and the air bags do not deploy upon impact."
+      ],
+      "odiNumbers": [
+        "11545185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Transparency and Recalls",
+      "impact": "The lack of transparency and recalls can lead to owners being unaware of potential safety issues with their vehicles, potentially leading to accidents and injuries.",
+      "symptoms": [
+        "Owners are not informed of recalls",
+        "and the manufacturer's website does not provide accurate information on recalls."
+      ],
+      "odiNumbers": [
+        "11531876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) and Service Brakes Failure",
+      "impact": "The failure of the Electronic Stability Control (ESC) and Service Brakes can cause the vehicle to lose traction, making it difficult to control, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Abnormal sounds while accelerating",
+        "delayed or failed braking response",
+        "unknown warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11581064",
+        "11577966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

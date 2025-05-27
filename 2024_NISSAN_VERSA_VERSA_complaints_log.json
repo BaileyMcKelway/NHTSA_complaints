@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cam Position Signal Output Circuit Low (P2615) - Power Loss",
+      "impact": "The failure of the cam position signal output circuit can cause the vehicle to lose power, making it difficult or impossible to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Delayed throttle input",
+        "zero power",
+        "inability to accelerate",
+        "revving without acceleration",
+        "loss of power",
+        "inability to climb hills",
+        "reduced power output",
+        "inability to reach highway speeds."
+      ],
+      "odiNumbers": [
+        "11591458",
+        "11589597",
+        "11588442",
+        "11585812",
+        "11585524",
+        "11583090",
+        "11582520",
+        "11582085",
+        "11580679",
+        "11576827",
+        "11574575",
+        "11560500",
+        "11552937",
+        "11552341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch and Transmission Issues",
+      "impact": "The failure of the clutch and transmission can cause the vehicle to stall, lose power, and make it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear",
+        "rattling sound under the shifter and center console",
+        "engine revving high between shifting."
+      ],
+      "odiNumbers": [
+        "11591301",
+        "11552341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Limp Mode Engagement",
+      "impact": "The engagement of limp mode can cause the vehicle to lose power, making it difficult or impossible to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle enters limp mode",
+        "restricting acceleration and RPMs",
+        "inability to accelerate normally",
+        "inability to climb hills",
+        "no warning lights or messages",
+        "onset of limp mode can occur at any time",
+        "including during initial start-up and while driving."
+      ],
+      "odiNumbers": [
+        "11585812",
+        "11585524",
+        "11580679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Power Loss and Limp Mode",
+      "impact": "The sudden loss of engine power and entry into limp mode can cause a significant reduction in vehicle speed, making it difficult to merge into traffic or maintain safe speeds, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle loses power",
+        "struggles to accelerate",
+        "and may only reach speeds of 25-30 mph; the engine may stall and then enter limp mode after restarting; the vehicle may not respond to accelerator pedal input; the check engine light may or may not be illuminated."
+      ],
+      "odiNumbers": [
+        "11587295",
+        "11586235",
+        "11582781",
+        "11582306",
+        "11581459",
+        "11577848",
+        "11574806",
+        "11570947",
+        "11566190",
+        "11564381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "LIMP Mode and Reduced Power Issue",
+      "impact": "The vehicle's sudden loss of power and acceleration can lead to accidents, especially when merging onto highways or climbing hills, and can cause inconvenience and frustration to the driver.",
+      "symptoms": [
+        "The vehicle stalls and goes into LIMP Mode",
+        "the vehicle fails to respond to accelerator pedal input",
+        "the vehicle accelerates extremely slowly",
+        "the vehicle's speed is limited to around 40 mph",
+        "the vehicle's power is significantly reduced."
+      ],
+      "odiNumbers": [
+        "11590123",
+        "11586372",
+        "11575662",
+        "11567588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

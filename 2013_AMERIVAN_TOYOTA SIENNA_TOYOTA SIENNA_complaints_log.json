@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Intermediate Shaft Failure",
+      "impact": "The failure of the steering intermediate shaft can cause abnormal noises, vibrations, or clunking sounds while steering, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "Abnormal noise coming from the steering wheel",
+        "clunking or knocking sound while steering",
+        "vibration while steering."
+      ],
+      "odiNumbers": [
+        "10838906",
+        "10811883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature wear of the front tires can cause loss of traction, skidding, and accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "Rapid tire wear",
+        "skidding or loss of control",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10713977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Keyless Ignition System Failure",
+      "impact": "The keyless ignition system can cause the engine to remain running in an enclosed space, such as a garage, potentially leading to toxic fume buildup and carbon monoxide poisoning.",
+      "symptoms": [
+        "Engine remains running after leaving the vehicle",
+        "failure to automatically turn off the engine after a certain period of inactivity."
+      ],
+      "odiNumbers": [
+        "10779838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Parasitic Battery Drain",
+      "impact": "The parasitic battery drain can cause the battery to drain excessively, leading to difficulty or failure to start the engine, which can leave the driver stranded.",
+      "symptoms": [
+        "Battery drains quickly",
+        "even when the vehicle is not in use",
+        "difficulty or failure to start the engine",
+        "repeated instances of dead battery."
+      ],
+      "odiNumbers": [
+        "10638042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor Warping and Vibration",
+      "impact": "Warped brake rotors can cause the vehicle to vibrate violently while braking, leading to brake fading and reduced stopping power, which can increase the risk of accidents.",
+      "symptoms": [
+        "Vehicle vibrates violently while braking",
+        "brake fading",
+        "uneven brake rotor wear",
+        "pulsating brake pedal."
+      ],
+      "odiNumbers": [
+        "10633747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate without driver input, leading to loss of control and increased risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle accelerates without applying pressure to the gas pedal",
+        "vehicle continues to accelerate despite depressing the brake pedal",
+        "sudden and unexpected acceleration."
+      ],
+      "odiNumbers": [
+        "10632757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

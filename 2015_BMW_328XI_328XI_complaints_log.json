@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Electronic Module (FEM) Failure",
+      "impact": "The failure of the Front Electronic Module (FEM) can cause a sudden loss of power to the vehicle, resulting in a loss of steering, brakes, and throttle control, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "loss of steering",
+        "brakes",
+        "and throttle control",
+        "inability to start the vehicle",
+        "failure of hazard lights",
+        "windows",
+        "door locks",
+        "and hood latch",
+        "transmission failure warnings",
+        "engine warnings",
+        "brake lamp control malfunction warnings."
+      ],
+      "odiNumbers": [
+        "11231555",
+        "10747673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can lead to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brakes do not respond or respond slowly",
+        "the vehicle does not slow down or stop even when pressing the brake pedal firmly",
+        "the ABS brakes do not engage",
+        "the vehicle is unable to stop in a safe distance."
+      ],
+      "odiNumbers": [
+        "11057684",
+        "10654431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trunk Closure Sensor Malfunction",
+      "impact": "The malfunctioning trunk closure sensor can cause the trunk to close unexpectedly, potentially causing injury to individuals in the area.",
+      "symptoms": [
+        "The trunk closes unexpectedly",
+        "even when the sensor is activated accidentally by a foot or an animal",
+        "resulting in potential injury to individuals in the area."
+      ],
+      "odiNumbers": [
+        "10926833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause injury to the driver and occupants, as well as distract the driver and potentially lead to accidents.",
+      "symptoms": [
+        "The sunroof explodes or shatters suddenly",
+        "without warning",
+        "while driving",
+        "potentially causing injury to the driver and occupants."
+      ],
+      "odiNumbers": [
+        "10786956"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Loss of Brake Control",
+      "impact": "The sudden and unexpected acceleration of the vehicle, accompanied by a loss of brake control, can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The engine revs and races to high RPM",
+        "the vehicle accelerates unintentionally",
+        "the brake pedal is unresponsive or fails to slow the vehicle",
+        "the vehicle fails to stop or slow down",
+        "the vehicle swerves or loses control."
+      ],
+      "odiNumbers": [
+        "10722107",
+        "10705648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond to pressure",
+        "the vehicle takes longer to stop than expected",
+        "the vehicle pulls to one side while braking",
+        "the brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10722107",
+        "10705648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

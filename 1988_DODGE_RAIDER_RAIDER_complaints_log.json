@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure and Recall Issues",
+      "impact": "The failure of the seat belt buckle can lead to accidents or injuries due to the inability to properly secure the occupant. The recall issues and unavailability of parts can cause frustration and delay in getting the problem resolved.",
+      "symptoms": [
+        "The seat belt buckle is cracked and jammed",
+        "the seat belt buckle is hard to buckle",
+        "the seat belt buckle has broken again after being replaced under recall."
+      ],
+      "odiNumbers": [
+        "816801",
+        "510587",
+        "802334",
+        "980615",
+        "980615",
+        "980615",
+        "980152",
+        "980152",
+        "960448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "The sudden separation of the tire tread can cause the vehicle to jerk or lose control, leading to accidents or loss of vehicle stability, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle jerks or pulls to one side",
+        "loss of control",
+        "sudden noise or vibration",
+        "tire tread peeling off",
+        "tire failure",
+        "damage to surrounding components such as wheels or body panels."
+      ],
+      "odiNumbers": [
+        "870517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Wheel Well or Body Panel Damage due to Tire Failure",
+      "impact": "The damage to the wheel well or body panels can compromise the structural integrity of the vehicle, leading to further safety issues or costly repairs.",
+      "symptoms": [
+        "Damage to wheel wells",
+        "body panels",
+        "or surrounding components",
+        "noise or vibration while driving",
+        "visible signs of damage or deformation."
+      ],
+      "odiNumbers": [
+        "870517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Head Cracking",
+      "impact": "A cracked engine head can cause the engine to overheat, leading to engine damage, stalling, or even engine failure, which can increase the risk of accidents, especially when driving on high-speed roads.",
+      "symptoms": [
+        "The vehicle overheats",
+        "the temperature gauge rises",
+        "the coolant level drops",
+        "the engine makes a loud knocking or tapping noise",
+        "white smoke or steam comes from the exhaust pipe",
+        "the engine stalls or shuts down."
+      ],
+      "odiNumbers": [
+        "515828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

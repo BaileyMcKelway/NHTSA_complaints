@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "FUEL/PROPULSION SYSTEM",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Pressure Monitoring System (TPMS) Sensor Failure",
+      "impact": "The failure of the TPMS sensor can cause the tire pressure warning light to illuminate, leading to sudden tire deflation, loss of control, and potentially catastrophic accidents.",
+      "symptoms": [
+        "The tire pressure warning light illuminates on the instrument panel",
+        "tires become deflated",
+        "tire valves break off",
+        "and the tire pressure monitoring sensor fails."
+      ],
+      "odiNumbers": [
+        "10632524",
+        "10606555",
+        "10597442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Corrosion of TPMS Valve Stems",
+      "impact": "The corrosion of TPMS valve stems can cause them to break off, leading to sudden tire deflation, loss of control, and potentially catastrophic accidents.",
+      "symptoms": [
+        "Tire valves break off",
+        "tire pressure monitoring sensor fails",
+        "and the tire becomes deflated."
+      ],
+      "odiNumbers": [
+        "10632524",
+        "10606555",
+        "10597442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Inadequate Replacement Parts",
+      "impact": "The use of inadequate replacement parts can lead to repeated failures, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The replacement parts are identical to the original faulty parts",
+        "lacking corrosion resistance or rubber covering to protect them."
+      ],
+      "odiNumbers": [
+        "10632524",
+        "10606555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure Causing Vehicle Stalling",
+      "impact": "The failure of the fuel system can cause the vehicle to stall, resulting in a loss of power and control, which can lead to accidents, especially when traveling at high speeds.",
+      "symptoms": [
+        "The vehicle shuts down as if it is not getting fuel",
+        "stalls",
+        "and shuts off; the vehicle will restart after sitting for a while but will only go a short distance before stalling again; the vehicle stalls while in motion",
+        "both on city streets and highways."
+      ],
+      "odiNumbers": [
+        "11316997",
+        "11302645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Rack and Pinion Failure",
+      "impact": "The failure of the power steering rack and pinion can cause a loud noise when turning the steering wheel, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loud noise when turning the steering wheel",
+        "difficulty steering",
+        "power steering fluid leaks",
+        "steering rack failure."
+      ],
+      "odiNumbers": [
+        "10958672",
+        "10283440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Power Steering Hose Failure",
+      "impact": "The failure of the power steering hose can cause a loud noise when turning the steering wheel, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loud noise when turning the steering wheel",
+        "power steering fluid leaks",
+        "steering rack failure."
+      ],
+      "odiNumbers": [
+        "10283440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The electrical system malfunction can cause the speedometer and fuel gauge to stop working, leaving the driver unaware of the vehicle's speed and fuel level, which can lead to accidents or other safety risks.",
+      "symptoms": [
+        "The speedometer and fuel gauge stop working",
+        "the electrical system malfunctions",
+        "the battery causes the entire electrical system to malfunction."
+      ],
+      "odiNumbers": [
+        "10374757",
+        "10283901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

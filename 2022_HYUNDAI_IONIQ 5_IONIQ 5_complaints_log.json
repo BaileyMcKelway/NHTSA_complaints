@@ -1,0 +1,210 @@
+{
+  "totalComplaints": 205,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Integrated Charging Control Unit (ICCU) Failure",
+      "impact": "The failure of the ICCU can cause the vehicle to lose power, stall, or become unable to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle may display warning messages such as \"Check Electric Vehicle System\"",
+        "\"Stop Vehicle and Check Power Supply\"",
+        "or \"Electric Power Failure\". The vehicle may also experience a sudden loss of power",
+        "slow acceleration",
+        "or become unable to charge."
+      ],
+      "odiNumbers": [
+        "11591277",
+        "11589593",
+        "11588154",
+        "11586590",
+        "11585522",
+        "11582647",
+        "11581623",
+        "11574690",
+        "11574394",
+        "11573813",
+        "11571105",
+        "11570100",
+        "11569668",
+        "11568843",
+        "11567790",
+        "11564294",
+        "11563681",
+        "11563080",
+        "11563183",
+        "11562734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose power, stall, or become unable to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle may display warning messages such as \"Check Electric Vehicle System\"",
+        "\"Stop Vehicle and Check Power Supply\"",
+        "or \"Electric Power Failure\". The vehicle may also experience a sudden loss of power",
+        "slow acceleration",
+        "or become unable to charge."
+      ],
+      "odiNumbers": [
+        "11591280",
+        "11581623",
+        "11563080",
+        "11562734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Level 2 Charging Issue",
+      "impact": "The failure of the Level 2 charging system can cause the vehicle to not charge properly, which can lead to inconvenience and reduced vehicle utility.",
+      "symptoms": [
+        "The vehicle may display warning messages such as \"Charging Unsuccessful\" or may not charge at all."
+      ],
+      "odiNumbers": [
+        "11562494",
+        "11570100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Integrated Charge Control Unit (ICCU) Failure",
+      "impact": "The failure of the ICCU can cause the vehicle to suddenly lose power, slow down, or come to a complete stop, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "slows down",
+        "or comes to a complete stop; warning lights and messages appear on the dashboard",
+        "such as \"Check Electric Vehicle System\"",
+        "\"Stop vehicle and check power supply\"",
+        "or \"12V battery voltage low. Stop safely\"; the vehicle may not exceed a certain speed",
+        "such as 25mph; the 12V battery may not be recharging."
+      ],
+      "odiNumbers": [
+        "11581526",
+        "11572251",
+        "11560193",
+        "11558382",
+        "11553133",
+        "11547813",
+        "11539696",
+        "11538850",
+        "11537767",
+        "11532987",
+        "11532470",
+        "11527747",
+        "11527794",
+        "11527539",
+        "11527547",
+        "11524915",
+        "11523849",
+        "11523423",
+        "11522548",
+        "11521543",
+        "11520754",
+        "11520367",
+        "11518168",
+        "11515756",
+        "11514095",
+        "11511572",
+        "11509776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Regenerative Braking Issue",
+      "impact": "The failure of the regenerative braking system can cause the brake lights to not function properly, leading to potential rear-end collisions.",
+      "symptoms": [
+        "The brake lights do not come on when using regenerative braking; the vehicle may slow down rapidly without warning."
+      ],
+      "odiNumbers": [
+        "11523849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Software Update Issues",
+      "impact": "The software update may not resolve the ICCU failure issue, leading to continued problems with the vehicle's power and charging system.",
+      "symptoms": [
+        "The vehicle may still experience power loss or charging issues after the software update; the update may not resolve the underlying ICCU failure issue."
+      ],
+      "odiNumbers": [
+        "11581526",
+        "11572251",
+        "11560193",
+        "11547813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Vehicle System Failure",
+      "impact": "The failure of the electric vehicle system can cause the vehicle to limit its speed, making it difficult or impossible to drive safely, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's speed is limited to 20-25 mph",
+        "the vehicle displays an error message \"Check Electric Vehicle System\"",
+        "the vehicle displays an error message \"Stop vehicle and check power supply\"",
+        "the vehicle's acceleration is reduced."
+      ],
+      "odiNumbers": [
+        "11581037",
+        "11534410",
+        "11509784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Onboard AC Charger Overheating",
+      "impact": "The overheating of the onboard AC charger can cause the vehicle to stop charging, making it difficult or impossible to fully charge the vehicle, which can lead to inconvenience and reduced vehicle range.",
+      "symptoms": [
+        "The vehicle stops charging at a certain level",
+        "the vehicle reduces charging speed",
+        "the vehicle displays an error message",
+        "the onboard AC charger overheats",
+        "the vehicle is unable to charge at its maximum capacity."
+      ],
+      "odiNumbers": [
+        "11535399",
+        "11534120",
+        "11530608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Level 2 Charging Issues",
+      "impact": "The issues with Level 2 charging can cause the vehicle to stop charging randomly, making it difficult or impossible to fully charge the vehicle, which can lead to inconvenience and reduced vehicle range.",
+      "symptoms": [
+        "The vehicle stops charging randomly",
+        "the vehicle is unable to fully charge",
+        "the vehicle reduces charging speed",
+        "the vehicle displays an error message",
+        "the issue occurs with different types of chargers."
+      ],
+      "odiNumbers": [
+        "11498694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

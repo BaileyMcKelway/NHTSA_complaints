@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "POWER TRAIN",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, loss of control, and accidents, especially on slippery or uneven road surfaces.",
+      "symptoms": [
+        "The ABS light on the dashboard illuminates",
+        "the brakes fail to engage",
+        "the vehicle takes longer to stop",
+        "the vehicle continues to roll or slide after applying the brakes",
+        "the brakes do not respond properly on dry or slippery surfaces."
+      ],
+      "odiNumbers": [
+        "10095232",
+        "565719",
+        "559914",
+        "862832",
+        "819840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause a loss of brake pressure, making it difficult or impossible to stop the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the brakes have no pressure",
+        "the vehicle takes longer to stop",
+        "the brakes do not respond properly."
+      ],
+      "odiNumbers": [
+        "10095232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, and fatalities. It can also result in costly repairs and downtime.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "vibration while driving",
+        "noise while driving",
+        "tire blowout",
+        "tire tread separation",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10105136",
+        "10094858"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Transmission Interlock System Failure",
+      "impact": "The failure of the automatic transmission interlock system can cause the vehicle to fail to engage into gear, leading to difficulty or impossibility of driving, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle will not shift into gear",
+        "the vehicle will not shift out of park",
+        "the brakes must be applied before shifting into gear but the vehicle still will not shift",
+        "the vehicle requires restarting and shifting into neutral before shifting into drive."
+      ],
+      "odiNumbers": [
+        "860073",
+        "810397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Separation",
+      "impact": "The sudden separation of the wheel from the vehicle while driving can cause loss of control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "The wheel comes off or detaches from the vehicle while driving",
+        "often accompanied by a loud noise",
+        "vibration",
+        "or loss of control."
+      ],
+      "odiNumbers": [
+        "852266",
+        "852267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

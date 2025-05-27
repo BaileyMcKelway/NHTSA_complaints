@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause a complete loss of brakes, leading to accidents or injuries, especially on motorcycles where the rider's safety is heavily dependent on the braking system.",
+      "symptoms": [
+        "The front brake lever becomes hard or unmovable",
+        "the rear brake pedal becomes stuck or frozen",
+        "the brake pedal has no movement",
+        "the ABS system fails to function",
+        "the brake system fails to respond",
+        "the vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11071756",
+        "11067139",
+        "11040388",
+        "11035954",
+        "10991284",
+        "10903400",
+        "10883712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Switch Failure and Recall",
+      "impact": "The failure of the brake switch can cause a fire, which can lead to accidents, injuries, or damage to the vehicle.",
+      "symptoms": [
+        "The brake switch starts on fire",
+        "the brake switch malfunctions",
+        "the vehicle is unable to start while in gear."
+      ],
+      "odiNumbers": [
+        "11120579",
+        "10509791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Observe and Repair Recall",
+      "impact": "The failure to observe and repair a recall can lead to accidents, injuries, or damage to the vehicle, and can also result in financial losses for the owner.",
+      "symptoms": [
+        "The dealership fails to observe and repair a recall",
+        "the owner is not reimbursed for repairs",
+        "the owner is left with a defective vehicle."
+      ],
+      "odiNumbers": [
+        "10509791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation on Kenda Cataclysm Tires",
+      "impact": "Tread separation on the front tire can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Vibrations in the handlebars",
+        "visible signs of tread separation on the front tire."
+      ],
+      "odiNumbers": [
+        "11389379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

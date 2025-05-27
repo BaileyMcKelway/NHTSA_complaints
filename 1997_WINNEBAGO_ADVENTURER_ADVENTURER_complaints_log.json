@@ -1,0 +1,76 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "PARKING BRAKE",
+    "EQUIPMENT",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unexpectedly, even when the parking brake is engaged, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle rolls or moves when the parking brake is engaged",
+        "the parking brake light illuminates",
+        "the vehicle will not shift into gear",
+        "the parking brake does not hold as well as it should."
+      ],
+      "odiNumbers": [
+        "10044794",
+        "10019993",
+        "9004368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spare Tire Carrier Hoist Failure",
+      "impact": "The failure of the spare tire carrier hoist can cause the spare tire to drop down, potentially causing damage to the vehicle's underside, and creating a road hazard, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The spare tire drops down below the chassis",
+        "the spare tire carrier hoist becomes loose",
+        "the spare tire is not properly secured."
+      ],
+      "odiNumbers": [
+        "828177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tag Axle to Frame Fastener Failure",
+      "impact": "The failure of the bolt and self-locking nut assembly holding the tag axle to the frame can cause the tag axle to become loose, potentially leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The bolt and self-locking nut assembly becomes loose",
+        "the tag axle becomes loose",
+        "unusual noises or vibrations from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "540431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Parking Brake System Failure",
+      "impact": "The failure of the automatic parking brake system can cause the vehicle to roll unexpectedly, potentially leading to accidents, injuries, or fatalities, especially if the vehicle rolls into traffic.",
+      "symptoms": [
+        "The vehicle rolls unexpectedly while in auto park",
+        "the auto brake light comes on",
+        "the auto brake fails to engage",
+        "the vehicle moves without driver input."
+      ],
+      "odiNumbers": [
+        "10574153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

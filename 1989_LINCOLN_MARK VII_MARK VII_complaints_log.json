@@ -1,0 +1,189 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hydraulic Vacuum Switch Failure",
+      "impact": "The failure of the hydraulic vacuum switch can cause the brakes to malfunction, leading to a loss of braking power, especially in cold weather, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brakes do not operate when the brake pedal is pressed",
+        "the brake pedal feels hard or spongy",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "8001304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Electric Pump Failure",
+      "impact": "The failure of the ABS electric pump can cause the vehicle to lose all braking power while driving, leading to a hard brake pedal and an inability to stop the vehicle, which can result in accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard",
+        "the vehicle does not stop when the brake pedal is pressed",
+        "loss of braking power while driving."
+      ],
+      "odiNumbers": [
+        "869673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause a significant reduction in braking power, leading to an increased risk of accidents.",
+      "symptoms": [
+        "The vehicle takes longer to stop than usual",
+        "the brakes do not operate properly",
+        "the ABS system warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "977928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Failure",
+      "impact": "The sudden failure of headlights can cause reduced visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights shut off unexpectedly",
+        "all lights fail",
+        "including fog lights",
+        "headlights do not turn on in automatic mode",
+        "especially in cold temperatures (<20°F)."
+      ],
+      "odiNumbers": [
+        "10052554",
+        "604630"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Automatic Headlight System Failure",
+      "impact": "The failure of the automatic headlight system can cause reduced visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights do not turn on in automatic mode",
+        "especially in cold temperatures (<20°F)",
+        "headlights shut off unexpectedly",
+        "lack of predictable pattern in headlight failure."
+      ],
+      "odiNumbers": [
+        "10052554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping/Failed Engagement",
+      "impact": "Transmission slipping or failed engagement can cause loss of power, hesitation, or sudden acceleration, leading to accidents or decreased vehicle control.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting gears",
+        "the vehicle hesitates or lags when accelerating",
+        "the engine RPMs surge or fluctuate",
+        "the transmission makes unusual noises",
+        "such as grinding or whining sounds."
+      ],
+      "odiNumbers": [
+        "713131",
+        "604630",
+        "10894359",
+        "10790783",
+        "10790334",
+        "10763771",
+        "10734988",
+        "10730600",
+        "10726352",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Voltage Regulator Failure",
+      "impact": "The failure of the voltage regulator can cause an electrical failure in the engine compartment, leading to a fire, even when the vehicle is turned off, resulting in significant damage or total loss of the vehicle.",
+      "symptoms": [
+        "Sudden electrical failure",
+        "smoke or flames from the engine compartment",
+        "battery explosion",
+        "acid spillage from the battery."
+      ],
+      "odiNumbers": [
+        "710696",
+        "829759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause an explosion, leading to acid spillage and damage to the engine compartment, potentially resulting in a fire or total loss of the vehicle.",
+      "symptoms": [
+        "Sudden battery explosion",
+        "acid spillage from the battery",
+        "smoke or flames from the engine compartment."
+      ],
+      "odiNumbers": [
+        "829759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Starting Issue",
+      "impact": "The intermittent engine starting issue can cause inconvenience, delay, and potentially strand the driver, especially in emergency situations. This issue can also lead to increased wear and tear on the starter motor and battery.",
+      "symptoms": [
+        "The engine starts sporadically",
+        "sometimes the vehicle starts and sometimes it doesn't",
+        "difficulty starting the engine",
+        "inconsistent engine cranking."
+      ],
+      "odiNumbers": [
+        "818714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. It can also result in costly repairs or even total vehicle loss.",
+      "symptoms": [
+        "Visible flames or smoke coming from the engine compartment",
+        "burning smell",
+        "overheating engine",
+        "engine warning lights or alarms."
+      ],
+      "odiNumbers": [
+        "516873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Strip Sensor Failure",
+      "impact": "The failure of the fuel strip sensor can cause the fuel level indicator on the dash to become unreliable, leading to unsafe riding conditions when the engine suddenly dies unexpectedly from lack of fuel.",
+      "symptoms": [
+        "The fuel level reads full permanently even though fuel has been completely depleted",
+        "no warning lamps",
+        "messages",
+        "or other symptoms prior to the issue."
+      ],
+      "odiNumbers": [
+        "11528242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Leak from Gas Tank Flange",
+      "impact": "Fuel leaks from the gas tank flange can cause a fire hazard, especially when combined with hot engine components.",
+      "symptoms": [
+        "Fuel leaking from the gas tank flange onto the hot engine",
+        "fuel puddle on the floor while the motorcycle is idling",
+        "fuel gushing out of the fuel pump area."
+      ],
+      "odiNumbers": [
+        "11363130",
+        "11351212",
+        "11300592",
+        "10543701",
+        "10487932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump and Auxiliary Fuel Pump Failure",
+      "impact": "The failure of the fuel pump and auxiliary fuel pump can cause fuel leaks, leading to a fire hazard, and engine stalling, which can cause accidents.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump and auxiliary fuel pump",
+        "engine stalling",
+        "fuel level indicator not working."
+      ],
+      "odiNumbers": [
+        "11351212",
+        "11300592",
+        "10587579"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure (Leaking Fuel)",
+      "impact": "The failure of the fuel system can cause fuel to leak, which can lead to a fire hazard, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The motorcycle is leaking fuel without warning",
+        "fuel smell is present",
+        "fuel pours onto the rider while driving",
+        "the fuel tank reads empty when it is full or empty."
+      ],
+      "odiNumbers": [
+        "11555710",
+        "11439387",
+        "11364332",
+        "10471518",
+        "10417320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Sensor Strip Failure",
+      "impact": "The failure of the fuel sensor strip can cause the fuel tank to read empty when it is full or empty, leading to inconvenience and potential safety issues.",
+      "symptoms": [
+        "The fuel tank reads empty when it is full or empty."
+      ],
+      "odiNumbers": [
+        "11383357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Final Drive Unit and Drive Shaft Failure",
+      "impact": "The failure of the final drive unit and drive shaft can cause the rear wheel to wobble excessively, leading to loss of control and accidents.",
+      "symptoms": [
+        "The rear wheel wobbles excessively",
+        "oil is leaking from the final drive unit and drive shaft."
+      ],
+      "odiNumbers": [
+        "10471518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Body Plastic Cam Failure",
+      "impact": "The failure of the plastic cam on the throttle body can cause a loss of power and engine control, leading to reduced vehicle performance, decreased fuel efficiency, and potentially increased risk of accidents.",
+      "symptoms": [
+        "Sudden loss of power",
+        "reduced engine performance",
+        "hesitation or stumbling when accelerating",
+        "difficulty maintaining speed",
+        "engine stalling or hesitation."
+      ],
+      "odiNumbers": [
+        "11466015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

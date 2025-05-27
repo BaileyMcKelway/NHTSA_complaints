@@ -1,0 +1,233 @@
+{
+  "totalComplaints": 46,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The unreliable backup camera can cause accidents or injuries when reversing, as the driver may not be able to see obstacles or people behind the vehicle.",
+      "symptoms": [
+        "The backup camera flickers",
+        "blacks out for multiple seconds",
+        "freezes",
+        "or displays an error code \"Camera is temporarily unavailable.\""
+      ],
+      "odiNumbers": [
+        "11587335",
+        "11587086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Braking System Issues",
+      "impact": "The overly sensitive automatic braking system can cause sudden, unexpected braking, leading to accidents or loss of control.",
+      "symptoms": [
+        "The automatic braking system slams the brakes when parking or in other situations",
+        "making the driver think they've hit something."
+      ],
+      "odiNumbers": [
+        "11587335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Network Connectivity Issues",
+      "impact": "Loss of network connectivity can disable essential safety features, such as SOS and emergency services, and make it difficult to navigate or access important vehicle functions.",
+      "symptoms": [
+        "The vehicle loses LTE connectivity",
+        "GPS signal",
+        "and SOS functionality",
+        "causing issues with navigation",
+        "emergency services",
+        "and other features."
+      ],
+      "odiNumbers": [
+        "11532579",
+        "11494339",
+        "11491106",
+        "11491225",
+        "11491074",
+        "11486065",
+        "11475833",
+        "11475596",
+        "11474010",
+        "11462686",
+        "11459792",
+        "11458563",
+        "11455935",
+        "11455766",
+        "11452923",
+        "11451202",
+        "11451207",
+        "11451287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "TCAM (Telematics Control Module) Failure",
+      "impact": "TCAM failure can cause a range of issues, including loss of connectivity, disabling SOS and emergency services, and preventing keyless entry and start functions.",
+      "symptoms": [
+        "The TCAM module stops working",
+        "causing loss of LTE connectivity",
+        "GPS signal",
+        "and SOS functionality",
+        "and preventing keyless entry and start functions."
+      ],
+      "odiNumbers": [
+        "11494339",
+        "11491106",
+        "11491225",
+        "11491074",
+        "11486065",
+        "11475833",
+        "11475596",
+        "11474010",
+        "11462686",
+        "11459792",
+        "11458563",
+        "11455935",
+        "11455766",
+        "11452923",
+        "11451202",
+        "11451207",
+        "11451287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lane Keeping Assistance Issues",
+      "impact": "Malfunctioning lane keeping assistance can cause the vehicle to steer unexpectedly, leading to accidents or loss of control.",
+      "symptoms": [
+        "The lane keeping assistance function steers the vehicle onto freeway exits or other unexpected paths."
+      ],
+      "odiNumbers": [
+        "11452552",
+        "11461740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Propulsion System Issues",
+      "impact": "Propulsion system failures can cause unexpected loss of power or acceleration, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle loses motive power or acceleration",
+        "causing unexpected slowdowns or stalls."
+      ],
+      "odiNumbers": [
+        "11459117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear View Camera System Malfunction",
+      "impact": "The malfunctioning rear view camera system can cause a safety hazard, particularly when the screen goes black or the camera cuts out, increasing the risk of accidents or injuries to pedestrians or other vehicles.",
+      "symptoms": [
+        "The rear view camera system switches between rear view and 360-degree view",
+        "the screen goes black for several seconds",
+        "the camera cuts out multiple times while backing up",
+        "the camera displays a delayed or 360-degree view when putting the vehicle in reverse",
+        "the system takes a long time to boot up."
+      ],
+      "odiNumbers": [
+        "11588708",
+        "11588110",
+        "11568401",
+        "11568046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Navigation System Failure (TCAM)",
+      "impact": "The failure of the navigation system can cause confusion and safety concerns, particularly when the GPS location becomes inaccurate, leading to incorrect turn-by-turn directions and potential accidents.",
+      "symptoms": [
+        "The GPS location becomes flaky and jumps all over the map",
+        "the navigation system stops working altogether",
+        "the system provides incorrect turn-by-turn directions."
+      ],
+      "odiNumbers": [
+        "11456896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unusual Noises (Windows Rattling)",
+      "impact": "The unusual noises, such as windows rattling, can be a distraction to the driver and potentially cause a safety hazard.",
+      "symptoms": [
+        "Windows rattling noises",
+        "other unusual noises."
+      ],
+      "odiNumbers": [
+        "11507727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can reduce visibility while reversing, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The backup camera display fails to display an image",
+        "flickers on and off",
+        "or displays intermittent images."
+      ],
+      "odiNumbers": [
+        "11592491",
+        "11587063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause sudden stops, leading to accidents, injuries, or whiplash.",
+      "symptoms": [
+        "The vehicle suddenly stops or brakes without warning",
+        "accompanied by a loud noise",
+        "even when there are no obstacles or hazards present."
+      ],
+      "odiNumbers": [
+        "11453599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parking Sensor Malfunction",
+      "impact": "The malfunction of parking sensors can reduce the effectiveness of parking assistance systems, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Parking sensors are susceptible to water ingress",
+        "causing malfunctions or false alarms."
+      ],
+      "odiNumbers": [
+        "11452924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brakes to overheat, lock up, or fail to release, leading to extended stopping distances, accidents, or even fires.",
+      "symptoms": [
+        "The brakes overheat",
+        "the brakes lock up",
+        "the brake pedal extends to the floor",
+        "the ABS warning light comes on",
+        "the vehicle pulls to one side",
+        "the brakes take longer to stop",
+        "the vehicle catches on fire."
+      ],
+      "odiNumbers": [
+        "10273909",
+        "10249044",
+        "10200997",
+        "10053377",
+        "10022797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake calipers can cause the brakes to overheat, stick, or fail to release, leading to extended stopping distances, accidents, or even fires.",
+      "symptoms": [
+        "The brake calipers overheat",
+        "the brake calipers stick",
+        "the brake pedal extends to the floor",
+        "the ABS warning light comes on",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "10200997",
+        "10249044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Fluid Issues",
+      "impact": "The failure of the brake fluid system can cause the brakes to overheat, lock up, or fail to release, leading to extended stopping distances, accidents, or even fires.",
+      "symptoms": [
+        "The brake fluid overheats",
+        "the brake fluid leaks",
+        "the brake pedal extends to the floor",
+        "the ABS warning light comes on."
+      ],
+      "odiNumbers": [
+        "10249044",
+        "10053377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Chafed Wire in Engine Compartment",
+      "impact": "A chafed wire in the engine compartment can cause engine failure, stalling, and even fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine stalling while driving",
+        "smoke coming from the engine compartment",
+        "blown fuses (specifically the PCM/TCM fuse)",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "10034248",
+        "10022320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Leak above Fuel Tank",
+      "impact": "A fuel line leak above the fuel tank can cause fuel to spill onto the road or surrounding area, increasing the risk of a fire or explosion, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "Fuel leaking from the fuel line above the fuel tank",
+        "fuel smell or odor",
+        "fuel droplets or puddles on the ground near the fuel tank."
+      ],
+      "odiNumbers": [
+        "10180831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cracked Fuel Tank",
+      "impact": "A cracked fuel tank can cause fuel to leak out, increasing the risk of a fire or explosion, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "Fuel leaking from the fuel tank",
+        "fuel smell or odor",
+        "fuel droplets or puddles on the ground near the fuel tank",
+        "visible cracks or damage on the fuel tank."
+      ],
+      "odiNumbers": [
+        "10180831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Angle Causing Glare in Rear View Mirror",
+      "impact": "The unique angle of the front windshield can cause sunlight to reflect onto the windshield, resulting in glare in the exterior rear view mirror, which can reduce or eliminate visibility, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "Sunlight reflection on the windshield causes glare in the exterior rear view mirror",
+        "poor or no visibility in the rear view mirror",
+        "difficulty seeing traffic or obstacles behind the vehicle."
+      ],
+      "odiNumbers": [
+        "10071963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

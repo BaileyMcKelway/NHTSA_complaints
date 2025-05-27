@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Parking Brake (EPB) and Auto Hold System Failure",
+      "impact": "The failure of the EPB and Auto Hold system can cause the vehicle to unexpectedly stop or lose cruise control, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The EPB and Auto Hold indicator lights illuminate on the dashboard",
+        "the cruise control system shuts off",
+        "the vehicle slows down or stops unexpectedly",
+        "warning lights appear on the dashboard",
+        "including the check cruise system light",
+        "triangle with an exclamation point",
+        "and smart cruise control system notices."
+      ],
+      "odiNumbers": [
+        "11541595",
+        "11536725",
+        "11480581",
+        "11480269",
+        "11466017",
+        "11439759",
+        "11438067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the electronic parking brake warning light and other warning lights to illuminate, potentially leading to a loss of braking performance, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "Illumination of the electronic parking brake warning light",
+        "illumination of the auto-hold feature warning light",
+        "illumination of other unknown warning lights",
+        "inability to brake properly",
+        "spongy brake pedal",
+        "grinding or screeching noise when applying the brakes."
+      ],
+      "odiNumbers": [
+        "11484263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Infotainment System Failure - Apple CarPlay",
+      "impact": "The failure of the Apple CarPlay system can cause inconvenience and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The Apple CarPlay system quits or freezes when using maps",
+        "the Apple CarPlay system is unresponsive",
+        "the Apple CarPlay system disconnects from the iPhone",
+        "the Apple CarPlay system does not display maps or navigation."
+      ],
+      "odiNumbers": [
+        "11480584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto-Dimming Rearview Mirror Malfunction",
+      "impact": "The malfunction of the auto-dimming rearview mirror can cause distraction and obstruction of the driver's rearview, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The backup mirror remains on while driving",
+        "the auto-dimming rearview mirror does not dim or adjust properly",
+        "the mirror is stuck in a certain position or mode."
+      ],
+      "odiNumbers": [
+        "11480586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

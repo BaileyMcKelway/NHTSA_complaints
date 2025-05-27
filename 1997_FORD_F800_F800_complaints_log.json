@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "SUSPENSION",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hydraulic Emergency Back-up Brake System Failure",
+      "impact": "The failure of the hydraulic emergency back-up brake system can cause the warning lights, buzzer, and electric motor to malfunction, leading to potential brake failure, accidents, or electrical system damage.",
+      "symptoms": [
+        "The hydraulic emergency back-up brake system warning lights",
+        "buzzer",
+        "and electric motor come on intermittently",
+        "even when the main braking system is fully operational; the electrical back-up brake system runs even when the car is off",
+        "causing problems with wiring."
+      ],
+      "odiNumbers": [
+        "522966",
+        "813047",
+        "524556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Refused Recall Repair",
+      "impact": "Failure to complete recall repairs in a timely manner can leave vehicles in an unsafe condition, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Dealerships refusing to perform recall repairs",
+        "lack of communication from service centers",
+        "delayed scheduling of repairs",
+        "unnecessary forms and procedures required before repairs can be scheduled."
+      ],
+      "odiNumbers": [
+        "10462659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fan Mounting Failure",
+      "impact": "Loose fan mountings can cause the fan to come loose and potentially damage other engine components, leading to engine failure or accidents.",
+      "symptoms": [
+        "Fan mountings do not stay flush with engine brackets",
+        "pulleys are not adequate",
+        "noise or vibration from the engine area",
+        "overheating engine",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "9001106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Axle Shaft Failure",
+      "impact": "The failure of the axle shaft can cause the brakes to lock up, leading to loss of vehicle control, increased stopping distances, and potential accidents.",
+      "symptoms": [
+        "Sudden and unexpected brake lock-up",
+        "difficulty stopping the vehicle",
+        "unusual noises or vibrations from the wheels or brakes",
+        "visible signs of axle shaft damage or failure."
+      ],
+      "odiNumbers": [
+        "524556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Shock Mounting Bolt Failure",
+      "impact": "The failure of the shock mounting bolts can cause the shock absorbers to become loose, leading to reduced vehicle stability, compromised handling, and increased risk of accidents.",
+      "symptoms": [
+        "Unusual noises or clunking sounds from the suspension",
+        "uneven tire wear",
+        "reduced vehicle stability",
+        "vibration while driving",
+        "loose or broken shock mounting bolts."
+      ],
+      "odiNumbers": [
+        "524556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Cable Failure",
+      "impact": "A faulty throttle cable can cause the throttle to stick or malfunction, leading to unexpected acceleration or deceleration, which can increase the risk of accidents.",
+      "symptoms": [
+        "The throttle pedal sticks or is hard to press",
+        "the engine RPM surges or drops unexpectedly",
+        "the vehicle accelerates or decelerates suddenly",
+        "the throttle pedal has a rough or binding feel."
+      ],
+      "odiNumbers": [
+        "524556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "WHEELS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cylinder Head Failure",
+      "impact": "The failure of the engine cylinder head can cause engine failure, leading to a loss of power, overheating, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine heads blow out",
+        "cracked head",
+        "engine failure",
+        "temperature gauge failure",
+        "air pockets in engine head",
+        "water entering engine cylinders",
+        "emitting fog/steam."
+      ],
+      "odiNumbers": [
+        "721303",
+        "805939",
+        "502911",
+        "480309",
+        "478816"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Weak Wheel Lug Studs",
+      "impact": "The failure of wheel lug studs can cause the wheel to fall off while driving, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Wheel lug studs shear off or break during routine tire removal or replacement",
+        "multiple wheel studs fail simultaneously",
+        "lug nuts disintegrate or strip",
+        "wheel becomes loose or falls off while driving."
+      ],
+      "odiNumbers": [
+        "521812",
+        "521745",
+        "965958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure and Fire",
+      "impact": "The failure of the fuel pump can cause a fire, potentially leading to a vehicle explosion, which can result in serious injury or fatalities.",
+      "symptoms": [
+        "Fuel pump failure",
+        "fuel pump overheating",
+        "fuel pump catching fire",
+        "explosion",
+        "strong fuel smell",
+        "rusted vent pump on the gas tank."
+      ],
+      "odiNumbers": [
+        "529966",
+        "802277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

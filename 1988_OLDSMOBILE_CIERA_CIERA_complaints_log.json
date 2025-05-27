@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause the vehicle to lose power and stall, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle dies while in motion",
+        "the vehicle dies at a stop",
+        "the vehicle will not restart",
+        "the engine shuts off without warning."
+      ],
+      "odiNumbers": [
+        "704068",
+        "505850",
+        "802993"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Flywheel Failure",
+      "impact": "The failure of the flywheel can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The flywheel breaks or fails",
+        "the engine stalls or fails to start",
+        "the vehicle will not restart."
+      ],
+      "odiNumbers": [
+        "510059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Harmonic Balancer Failure",
+      "impact": "The failure of the harmonic balancer can cause the loss of power steering and accessories powered by the belt, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The harmonic balancer outer ring pulley separates from the pulley",
+        "loss of power steering",
+        "loss of accessories powered by the belt."
+      ],
+      "odiNumbers": [
+        "981424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Valve Failure",
+      "impact": "The failure of the transmission valve can cause the transmission to malfunction, leading to engine stalling, difficulty shifting gears, and potentially causing accidents.",
+      "symptoms": [
+        "The transmission valve fails",
+        "the transmission cannot be restarted",
+        "the vehicle drifts backward while in park",
+        "the shift indicator is difficult to see in daytime."
+      ],
+      "odiNumbers": [
+        "514142",
+        "510059",
+        "961989",
+        "961963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Solenoid Failure",
+      "impact": "The failure of the torque converter solenoid can cause the engine to stall and shut off, making it difficult or impossible to restart, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls and shuts off while bringing the vehicle to a stop",
+        "the vehicle cannot be restarted",
+        "a faulty solenoid in the torque converter housing is suspected."
+      ],
+      "odiNumbers": [
+        "826022"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Seat Belt Buckle",
+      "impact": "A faulty seat belt buckle can lead to a failure of the restraint system, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle falls apart",
+        "no longer latches",
+        "or deteriorates slowly",
+        "making it inoperable."
+      ],
+      "odiNumbers": [
+        "850338",
+        "980370",
+        "488264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

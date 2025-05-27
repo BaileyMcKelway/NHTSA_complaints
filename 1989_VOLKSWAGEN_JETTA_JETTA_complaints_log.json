@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "VISIBILITY",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt System",
+      "impact": "The absence of lap belts and the use of only shoulder belts can increase the risk of injury or death in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "Vehicle is equipped with only shoulder belts",
+        "no lap belts",
+        "shoulder belts are attached to the door",
+        "knee bolsters are inadequate for securing children."
+      ],
+      "odiNumbers": [
+        "718598",
+        "714356",
+        "831487",
+        "524504",
+        "814391",
+        "514013",
+        "962682",
+        "476267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "Broken or malfunctioning seat belts can fail to restrain occupants in the event of a crash, leading to increased risk of injury or death.",
+      "symptoms": [
+        "Broken seat belts",
+        "splitting seat belts",
+        "failed shoulder belts."
+      ],
+      "odiNumbers": [
+        "532450",
+        "476267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause hot coolant to leak into the engine compartment, potentially leading to engine damage, overheating, and fires. Additionally, the leakage can cause property damage and create a hazardous environment for the driver and passengers.",
+      "symptoms": [
+        "The heater core is leaking coolant",
+        "coolant is pouring onto the engine compartment",
+        "the heater core plastic neck is cracked",
+        "the dashboard is damaged due to coolant leakage."
+      ],
+      "odiNumbers": [
+        "10017420",
+        "720282",
+        "852918",
+        "852574",
+        "976028",
+        "975859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Honor Recall",
+      "impact": "The failure to honor the recall can lead to continued operation of a vehicle with a faulty heater core, potentially causing accidents, injuries, or property damage.",
+      "symptoms": [
+        "The dealer refuses to honor the recall",
+        "the vehicle identification number is not included in the recall",
+        "the part appears to be the original despite the recall being completed."
+      ],
+      "odiNumbers": [
+        "10017420",
+        "852918",
+        "976028",
+        "975859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Fuel Recall Repair",
+      "impact": "Failure to properly repair fuel system defects can lead to fuel leaks, fires, and potentially life-threatening accidents.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel fires",
+        "inadequate or incomplete recall repairs",
+        "manufacturer's failure to respond to recall notifications."
+      ],
+      "odiNumbers": [
+        "976036",
+        "975060",
+        "965963",
+        "961853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Line Fires",
+      "impact": "Fuel line fires can cause damage to the vehicle, surrounding property, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Fuel line fires",
+        "fuel leaks",
+        "burning smell",
+        "smoke or flames visible under the hood or near the fuel tank."
+      ],
+      "odiNumbers": [
+        "965963",
+        "961853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer's Failure to Respond to Recall Notifications",
+      "impact": "Failure to respond to recall notifications can lead to delays in necessary repairs, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Manufacturer's failure to respond to recall notifications",
+        "inadequate communication",
+        "lack of repair instructions or guidance."
+      ],
+      "odiNumbers": [
+        "975060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Sticking Open Due to Condensation",
+      "impact": "The throttle sticking open can cause sudden acceleration, loss of control, and accidents, especially at high speeds on icy roads.",
+      "symptoms": [
+        "Throttle sticks open",
+        "sudden acceleration",
+        "engine RPMs approaching redline",
+        "loss of control",
+        "especially in cold weather (below 5°F)."
+      ],
+      "odiNumbers": [
+        "702970",
+        "502739",
+        "959733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

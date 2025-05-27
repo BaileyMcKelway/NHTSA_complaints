@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "TIRES",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can obstruct the driver's view, especially during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers become inoperable",
+        "windshield wipers stop working suddenly",
+        "windshield wipers fail to work in rain or snow."
+      ],
+      "odiNumbers": [
+        "8001075",
+        "552345",
+        "860907",
+        "834060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unstable Side Mirrors",
+      "impact": "The movement of side mirrors from their adjusted positions can cause distraction and obstruct the driver's view, increasing the risk of accidents.",
+      "symptoms": [
+        "Side mirrors move from adjusted positions at speeds over 50 mph."
+      ],
+      "odiNumbers": [
+        "552345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation/Failure",
+      "impact": "Tire tread separation or failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tread separation",
+        "delamination",
+        "or rupture",
+        "often accompanied by a loud noise",
+        "loss of air pressure",
+        "and vibration."
+      ],
+      "odiNumbers": [
+        "10025531",
+        "887177",
+        "812957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rust-Related Tire Failure",
+      "impact": "Rust-related tire failure can cause sudden tire blowouts, loss of vehicle control, and accidents, potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "Tire failure due to rusted components",
+        "such as a rusted wire holding the tire in place",
+        "leading to sudden tire drop or blowout."
+      ],
+      "odiNumbers": [
+        "812957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to go to the floor, leading to a loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "especially during quick stops",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "552345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the ABS system can cause the wheels to lock up, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The left rear wheel locks up during normal braking",
+        "the ABS system engages unnecessarily",
+        "the vehicle pulls to one side during braking."
+      ],
+      "odiNumbers": [
+        "817773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure Leading to Vehicle Fire",
+      "impact": "Engine failure can cause a vehicle fire, which can result in serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The engine suddenly stops running",
+        "the vehicle loses power",
+        "the vehicle begins to overheat",
+        "smoke or flames are visible from the engine compartment",
+        "the vehicle's warning lights or alarm systems activate."
+      ],
+      "odiNumbers": [
+        "539062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

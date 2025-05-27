@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Control Module Failure",
+      "impact": "The failure of the ABS control module can cause the front brake lever to become rock hard and unusable, leading to a complete loss of brakes, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The front brake lever becomes stiff or hard to pull",
+        "the front brake lever is unable to be pulled",
+        "the brakes fail to engage",
+        "the brakes lock out",
+        "the ABS system fails to revert to non-ABS mode."
+      ],
+      "odiNumbers": [
+        "11489040",
+        "11390099",
+        "11338998",
+        "11229574",
+        "11219337",
+        "11155622",
+        "11132203",
+        "11074540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Foot Shifter Arm Failure",
+      "impact": "The failure of the foot shifter arm can cause the shifter to become loose or fall off, leading to loss of control of the vehicle, especially when downshifting or braking, which can result in accidents or serious injuries.",
+      "symptoms": [
+        "The shifter arm feels loose",
+        "the shifter arm slips away from the transmission",
+        "the shifter arm slides up and down the splined shaft",
+        "the entire foot shifter is missing",
+        "the vehicle is stuck in gear",
+        "difficulty downshifting or braking."
+      ],
+      "odiNumbers": [
+        "10979112",
+        "10735887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Sidewall Cracking on Harley-Davidson Dunlop Tires",
+      "impact": "Premature sidewall cracking on the front tires can lead to a loss of tire pressure, reduced traction, and increased risk of tire failure, which can cause accidents or injuries.",
+      "symptoms": [
+        "Cracking on the sidewall of the front tire",
+        "typically between 1000-1500 miles of wear",
+        "despite proper maintenance and storage."
+      ],
+      "odiNumbers": [
+        "10597700",
+        "10474276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

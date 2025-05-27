@@ -1,0 +1,63 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration and Loss of Control",
+      "impact": "Sudden acceleration and loss of control can lead to accidents, injuries, and fatalities, as the driver may lose control of the vehicle and be unable to stop or steer.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the vehicle surges forward without input from the driver",
+        "the vehicle's speed increases rapidly without warning",
+        "the driver loses control of the vehicle",
+        "the vehicle is difficult to stop or steer."
+      ],
+      "odiNumbers": [
+        "504361",
+        "483371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. The failure of the braking system to stop the vehicle can further exacerbate the situation.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the vehicle surges forward or backward without input from the driver",
+        "the brakes fail to stop the vehicle",
+        "the vehicle is difficult to control or stops suddenly."
+      ],
+      "odiNumbers": [
+        "540424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Door Lock Failure",
+      "impact": "The failure of the automatic door locks can cause inconvenience, discomfort, and potentially lead to safety issues, such as unintended door opening while driving or difficulty exiting the vehicle in an emergency.",
+      "symptoms": [
+        "The doors lock and unlock randomly",
+        "the doors fail to lock or unlock",
+        "the doors lock while driving",
+        "the doors unlock while driving",
+        "the door lock switch does not respond."
+      ],
+      "odiNumbers": [
+        "483371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

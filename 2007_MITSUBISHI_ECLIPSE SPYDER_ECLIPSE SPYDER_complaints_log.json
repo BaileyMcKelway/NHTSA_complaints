@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to fail, leading to loss of stopping power, which can result in accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal does not respond",
+        "the brake pedal has to be pumped to get pressure back",
+        "the vehicle hesitates to stop",
+        "the brake sensor light illuminates."
+      ],
+      "odiNumbers": [
+        "10786964",
+        "10766706",
+        "10762397",
+        "10746098",
+        "10732789",
+        "10610567",
+        "10585172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unavailable Recall Parts",
+      "impact": "The unavailability of recall parts can cause a delay in repairing the vehicle, leaving the owner at risk of experiencing a brake failure, which can result in accidents or injuries.",
+      "symptoms": [
+        "None",
+        "as this issue is related to the unavailability of parts for a recall repair."
+      ],
+      "odiNumbers": [
+        "10823591",
+        "10810720",
+        "10806201",
+        "10780737",
+        "10758871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "The excessive brake noise and vibration can be a sign of a more serious underlying issue, which can lead to brake failure if not addressed.",
+      "symptoms": [
+        "Squealing and squeaking brakes",
+        "loud noise when in reverse."
+      ],
+      "odiNumbers": [
+        "10232984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to remain open while driving, which can lead to accidents or injuries, especially if the door opens suddenly while the vehicle is in motion.",
+      "symptoms": [
+        "The door latch holds the door open and will not close",
+        "the plastic part inside the door is broken",
+        "the door will not shut properly",
+        "the door opens unexpectedly while driving."
+      ],
+      "odiNumbers": [
+        "10743683",
+        "10302314"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause loss of control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes do not respond when pressed",
+        "the vehicle takes longer to stop than usual",
+        "the vehicle pulls to one side when braking",
+        "the brakes make unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "11005399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbags to deploy in a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "The airbags do not deploy in a crash",
+        "the airbag warning light is illuminated on the dashboard",
+        "the airbag module is faulty or malfunctioning."
+      ],
+      "odiNumbers": [
+        "11005399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

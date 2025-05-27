@@ -1,0 +1,311 @@
+{
+  "totalComplaints": 61,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "WHEELS",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the vehicle to lose control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear",
+        "the vehicle remains in gear at high speeds."
+      ],
+      "odiNumbers": [
+        "10000741",
+        "8012237",
+        "8007337",
+        "888091",
+        "872735",
+        "871741",
+        "865604",
+        "552422",
+        "851558",
+        "850344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Hydraulic System Failure",
+      "impact": "The failure of the clutch hydraulic system can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10004355",
+        "8007337",
+        "850344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's gears get stuck",
+        "the vehicle is unable to downshift",
+        "the vehicle is unable to stop",
+        "the vehicle rolls away",
+        "the vehicle stalls or shuts off."
+      ],
+      "odiNumbers": [
+        "890190",
+        "882933",
+        "853058",
+        "848997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transfer Case Failure",
+      "impact": "The failure of the transfer case can cause the vehicle to lose control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's gears get stuck",
+        "the vehicle is unable to shift into gear",
+        "the vehicle stalls or shuts off",
+        "the vehicle rolls away."
+      ],
+      "odiNumbers": [
+        "853058",
+        "848997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Stud Failure",
+      "impact": "The failure of wheel studs can cause the loss of dual rear wheels, leading to a loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The dual rear wheels fall off the vehicle",
+        "loss of vehicle control",
+        "wheels become loose or detached",
+        "unusual noises or vibrations while driving."
+      ],
+      "odiNumbers": [
+        "10064373",
+        "10064382",
+        "10064383",
+        "10064385",
+        "10064386",
+        "10064387",
+        "10064251",
+        "10064259",
+        "10064260",
+        "8002028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Valve Stem Failure",
+      "impact": "The failure of the tire valve stem can cause tire blowouts, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tire valve stem cracks and leaks",
+        "causing tire pressure loss",
+        "blowouts",
+        "or bulges in the sidewall."
+      ],
+      "odiNumbers": [
+        "8023599",
+        "888298",
+        "706316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The failure of the tire sidewall can cause tire blowouts, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Bulges in the sidewall",
+        "tire blowouts",
+        "or loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10001283",
+        "8023596",
+        "8023599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Recall Repair",
+      "impact": "Inadequate recall repairs can lead to continued tire failures, accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Valve stems not replaced",
+        "stickers placed on the vehicle without proper inspection",
+        "or lack of provision of inflation devices."
+      ],
+      "odiNumbers": [
+        "885512",
+        "885514",
+        "888298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Tire Failure",
+      "impact": "The failure of dual tires can cause accidents, injuries, or fatalities, especially when towing a trailer.",
+      "symptoms": [
+        "Sheared-off tires",
+        "tire blowouts",
+        "or loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10147578",
+        "8023596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spark Plug Wire Failure",
+      "impact": "The failure of the spark plug wires can cause the engine to misfire, leading to air pollution and potential engine damage.",
+      "symptoms": [
+        "Engine misfires",
+        "spark plug wires are crossed",
+        "sending spark to the wrong area."
+      ],
+      "odiNumbers": [
+        "10144702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission stops shifting gears",
+        "transmission failure",
+        "oil leaks through the fuel system."
+      ],
+      "odiNumbers": [
+        "10083472",
+        "10037570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Oil Leaks",
+      "impact": "Engine oil leaks can cause damage to the engine and other components, leading to premature wear and potential engine failure.",
+      "symptoms": [
+        "Major oil leaks through the fuel system",
+        "oil leaks from the cylinder head",
+        "oil leaks from the high-pressure oil line."
+      ],
+      "odiNumbers": [
+        "10037570",
+        "852461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, engine overheating, and other safety issues.",
+      "symptoms": [
+        "Wire harness failure",
+        "engine overheating",
+        "switches in the door latch malfunction",
+        "electrical fires."
+      ],
+      "odiNumbers": [
+        "10037570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Turbo-Charger Failure",
+      "impact": "Turbo-charger failure can cause loss of power, making it difficult to control the vehicle.",
+      "symptoms": [
+        "\"Hot pipe\" to the turbo-charger blows off",
+        "causing loss of power."
+      ],
+      "odiNumbers": [
+        "557701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, leading to engine damage and potential failure.",
+      "symptoms": [
+        "Water pump failure every 18",
+        "000 miles or two months",
+        "exhaust leaks."
+      ],
+      "odiNumbers": [
+        "723891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to lose power, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Clutch burns out prematurely",
+        "clutch pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "852461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can cause engine damage and premature wear.",
+      "symptoms": [
+        "Vehicle consumes excessive amounts of oil within short periods",
+        "cause unknown."
+      ],
+      "odiNumbers": [
+        "831762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

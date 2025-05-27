@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose braking ability, leading to increased stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The ABS system fails to engage",
+        "the vehicle does not stop when the brake is applied",
+        "the vehicle's brakes malfunction",
+        "the ABS system activates unnecessarily",
+        "the vehicle's stopping distance is increased."
+      ],
+      "odiNumbers": [
+        "530652",
+        "601551",
+        "973840",
+        "489487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of the ball joint can cause the vehicle to lose stability and control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The vehicle's rear end sways or wanders",
+        "the vehicle rides too low",
+        "uneven tire wear",
+        "loose or clunking sounds from the suspension",
+        "difficulty steering or maintaining a straight line."
+      ],
+      "odiNumbers": [
+        "508546",
+        "485299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Door Lock Failure",
+      "impact": "The failure of the power door locks can cause inconvenience, safety risks, and potential security breaches, as occupants may be unable to lock or unlock the doors.",
+      "symptoms": [
+        "The power door locks do not respond to commands",
+        "the doors lock or unlock unintentionally",
+        "the doors cannot be locked or unlocked using the key fob or door switches."
+      ],
+      "odiNumbers": [
+        "539332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Seat Belt Failure",
+      "impact": "The failure of the rear seat belts can increase the risk of injury or fatality in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The rear seat belts do not latch or unlatch properly",
+        "the rear seat belts are stuck or jammed",
+        "the rear seat belts do not retract or extend correctly."
+      ],
+      "odiNumbers": [
+        "479599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Repeated Computer Failure",
+      "impact": "Repeated computer failure can cause a range of issues, including engine stalling, loss of power, and failure of critical systems, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "failure of critical systems",
+        "warning lights or error messages on the dashboard",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "964799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the battery to drain, leading to engine stalling, loss of power, and failure of critical systems, which can leave the driver stranded or cause accidents.",
+      "symptoms": [
+        "Dim or flickering headlights",
+        "slow engine crank",
+        "difficulty starting the engine",
+        "dead battery",
+        "warning lights or error messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "964799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A malfunctioning fuel gauge can lead to inaccurate fuel level readings, causing the vehicle to run out of fuel unexpectedly, which can result in engine stalling, loss of power, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The fuel gauge displays incorrect or erratic readings",
+        "the fuel gauge does not move or respond to changes in fuel level",
+        "the vehicle runs out of fuel unexpectedly",
+        "fuel sprays out of the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "964799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injection Pump Failure",
+      "impact": "A failed fuel injection pump can cause the engine to stall or lose power, leading to reduced vehicle performance, decreased fuel efficiency, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or loses power",
+        "the vehicle has difficulty starting",
+        "the engine misfires or runs rough",
+        "the fuel gauge displays incorrect or erratic readings."
+      ],
+      "odiNumbers": [
+        "964799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

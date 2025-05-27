@@ -1,0 +1,74 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Length",
+      "impact": "Insufficient seat belt length can compromise the safety of occupants, particularly those with larger waist sizes, by failing to provide adequate restraint in the event of a crash.",
+      "symptoms": [
+        "Seat belts are too short",
+        "unable to fit around larger waist sizes (e.g.",
+        "38\" waist)",
+        "difficulty or impossibility of securing the seat belt."
+      ],
+      "odiNumbers": [
+        "705266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "A failed seat belt can lead to serious injury or fatality in the event of a crash, as it may not provide adequate restraint or protection to the occupant.",
+      "symptoms": [
+        "Seat belt fails to function",
+        "unable to secure the occupant",
+        "breaks or malfunctions during use."
+      ],
+      "odiNumbers": [
+        "503117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Buckle Malfunction",
+      "impact": "A malfunctioning seat belt buckle can prevent the occupant from securing themselves properly, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Seat belt buckle locks or jams",
+        "unable to open or release the buckle",
+        "difficulty or impossibility of securing the seat belt."
+      ],
+      "odiNumbers": [
+        "966212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden noise",
+        "such as a \"popping\" or \"booming\" sound",
+        "while driving",
+        "followed by loss of traction and potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "882517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

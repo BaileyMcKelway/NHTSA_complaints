@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag to Deploy in Crash",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the airbag is designed to provide critical protection to the driver and passengers in the event of a collision.",
+      "symptoms": [
+        "The airbag does not deploy during an accident",
+        "despite the severity of the crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "806188",
+        "979851",
+        "482305",
+        "960710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, or fatalities, as the sudden deployment of the airbag can distract the driver, obstruct their vision, or cause them to lose control of the vehicle.",
+      "symptoms": [
+        "The airbag deploys without a crash or any apparent reason",
+        "causing unexpected and potentially dangerous situations."
+      ],
+      "odiNumbers": [
+        "979851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure in Wet Conditions",
+      "impact": "The failure of the brake system in wet conditions can cause the vehicle to lose stopping power, increasing the risk of accidents and potentially leading to serious injury or death.",
+      "symptoms": [
+        "The brakes fail to respond or feel spongy",
+        "the vehicle takes longer than usual to stop",
+        "the vehicle pulls to one side when braking",
+        "the brake pedal feels soft or goes to the floor",
+        "the vehicle is unable to stop in wet conditions."
+      ],
+      "odiNumbers": [
+        "968381",
+        "968379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trunk Water Leak",
+      "impact": "Water leaking into the trunk can cause damage to the vehicle's electrical components, rust, and corrosion, leading to safety issues and expensive repairs.",
+      "symptoms": [
+        "Water accumulation in the trunk",
+        "wet or damp carpeting",
+        "rust or corrosion on trunk components",
+        "electrical malfunctions",
+        "musty or mildew odor in the trunk."
+      ],
+      "odiNumbers": [
+        "725904"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

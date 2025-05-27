@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure in Wet Weather",
+      "impact": "The sudden loss of power steering in wet weather conditions can cause loss of vehicle control, increasing the risk of accidents and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The power steering fails or becomes very stiff when driving in wet weather",
+        "making it difficult to steer the vehicle",
+        "losing control of the vehicle",
+        "and experiencing wandering or drifting while driving."
+      ],
+      "odiNumbers": [
+        "10714828",
+        "10488929",
+        "10358553",
+        "10341123",
+        "10166947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Lock Cylinder Failure",
+      "impact": "The failure of the ignition lock cylinder can cause the engine to hesitate or fail to start, leaving the driver stranded and potentially causing safety issues.",
+      "symptoms": [
+        "The engine hesitates or fails to start",
+        "the vehicle is difficult to start",
+        "the ignition key becomes stuck or difficult to turn."
+      ],
+      "odiNumbers": [
+        "10655392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Dashboard Warning Lights",
+      "impact": "The faulty dashboard warning lights can cause confusion and distraction for the driver, potentially leading to accidents or overlooking actual safety issues.",
+      "symptoms": [
+        "Various dashboard warning lights illuminate without a corresponding issue",
+        "the lights remain on even after the issue is resolved",
+        "the lights are intermittent or flicker."
+      ],
+      "odiNumbers": [
+        "10187307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Headlight Design",
+      "impact": "The defective headlight design can cause reduced visibility during night driving, leading to increased risk of accidents and compromised safety.",
+      "symptoms": [
+        "Excessive glare from blue headlights",
+        "blind paths or opaque areas in the headlights",
+        "reduced visibility during night driving",
+        "obstructed view while driving."
+      ],
+      "odiNumbers": [
+        "10093197",
+        "10079487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

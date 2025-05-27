@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of the airbag to deploy in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light remains illuminated",
+        "the airbag is protruding out of the dashboard",
+        "the airbag is no longer operational."
+      ],
+      "odiNumbers": [
+        "11078268",
+        "11039770",
+        "10984358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed or Unavailable Recall Repairs",
+      "impact": "The delay or unavailability of recall repairs can leave vehicles with potentially life-threatening defects on the road, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Notification of recall received",
+        "but parts are unavailable",
+        "manufacturer exceeds a reasonable amount of time for recall repair",
+        "dealer claims no issue with airbag system despite warning light illumination."
+      ],
+      "odiNumbers": [
+        "11039770",
+        "10984358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fault: Unintended Gear Shifts",
+      "impact": "The unintended shifting of the transmission into 3rd gear at high speeds can cause a sudden loss of power and speed, increasing the risk of accidents, especially on highways. The malfunction can also lead to a loss of control, as the vehicle becomes stuck in a single gear.",
+      "symptoms": [
+        "The vehicle suddenly shifts into 3rd gear at high speeds",
+        "the vehicle gets stuck in 3rd gear",
+        "the vehicle's speed is drastically reduced",
+        "the transmission fault warning message \"Transmission Fault; Limited Gears\" appears",
+        "the problem resets when the engine is turned off and back on",
+        "but reoccurs with greater frequency as the vehicle warms up."
+      ],
+      "odiNumbers": [
+        "11078395",
+        "11074066",
+        "11041374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brake pedal to travel to the floorboard, leading to a loss of braking ability, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal travels to the floorboard",
+        "the brake warning light illuminates",
+        "the vehicle stalls or hesitates",
+        "the tire pressure light stays on",
+        "the vehicle jumps to the side when hitting a bump."
+      ],
+      "odiNumbers": [
+        "10894762",
+        "10763076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Hesitation",
+      "impact": "The engine stalling and hesitation can cause the vehicle to lose power, leading to a loss of control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle starts and cuts off",
+        "the engine hesitates",
+        "the vehicle stalls",
+        "oil leaks into the valves."
+      ],
+      "odiNumbers": [
+        "10894762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Suspension System Failure",
+      "impact": "The failure of the suspension system can cause the vehicle to lose stability, leading to a loss of control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The suspension low warning light illuminates",
+        "the vehicle jumps to the side when hitting a bump."
+      ],
+      "odiNumbers": [
+        "10763076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

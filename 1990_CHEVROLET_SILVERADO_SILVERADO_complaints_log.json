@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of brake lines can cause a loss of brake fluid, leading to extended stopping distances, increased risk of accidents, and potential loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal does not respond under panic stop conditions",
+        "vehicle takes longer to stop",
+        "brake fluid leaks",
+        "rear brake line pinched under a hot rivet",
+        "hole in brake line near fuel tank."
+      ],
+      "odiNumbers": [
+        "10310887",
+        "9000908",
+        "728635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake system eats drums and shoes",
+        "rotors crack",
+        "brakes feel spongy",
+        "vehicle unable to stop at higher speeds",
+        "brake pedal does not respond under panic stop conditions",
+        "brake booster can failure."
+      ],
+      "odiNumbers": [
+        "873772",
+        "728635",
+        "550832",
+        "852979",
+        "851244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Drum Failure",
+      "impact": "The failure of rear brake drums can cause the vehicle to lose braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Rear brake drums go out of shape",
+        "rear brake drums need to be replaced frequently",
+        "rear wheel locks up",
+        "vehicle slides or loses control."
+      ],
+      "odiNumbers": [
+        "851244",
+        "842951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Latching Mechanism Failure",
+      "impact": "The failure of the seatbelt latching mechanism can cause the seatbelt to malfunction, leading to occupant ejection or failure to restrain, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt buckle falls apart",
+        "the seatbelt fails to lock",
+        "the seatbelt releases upon impact",
+        "little plastic pieces break inside the female part of the latching device",
+        "the seatbelt is unable to restrain the occupant."
+      ],
+      "odiNumbers": [
+        "10072499",
+        "869424",
+        "550832",
+        "522889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Loud banging sound",
+        "vehicle shaking",
+        "tire blowout",
+        "tire tread separation",
+        "tire shredding",
+        "tire failure without deflation."
+      ],
+      "odiNumbers": [
+        "10272478",
+        "10204797",
+        "732856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Bubble or Blister Formation",
+      "impact": "Tire bubbles or blisters can lead to sudden tire failure, causing loss of vehicle control, accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tire bubble or blister formation on the inside or outside of the tire",
+        "tire failure without warning",
+        "tire blowout."
+      ],
+      "odiNumbers": [
+        "10272478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

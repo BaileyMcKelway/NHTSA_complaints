@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Valve Cover Leak",
+      "impact": "The valve cover leak can cause oil to spill on the road, creating a slippery surface that can lead to accidents, and potentially cause engine failure if not addressed.",
+      "symptoms": [
+        "Oil leak on the left side of the engine",
+        "valve cover leak",
+        "oil dripping from the valve cover area."
+      ],
+      "odiNumbers": [
+        "10244175",
+        "10242732",
+        "10240857",
+        "10240282",
+        "10240108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Camshaft and Tappet Failure",
+      "impact": "The failure of the camshaft and tappets can cause the engine to lock up, leading to a loss of control and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Audible valve ticking noise",
+        "excessive noise from the cam area",
+        "camshaft chain tensioner failure",
+        "bending of valves."
+      ],
+      "odiNumbers": [
+        "10241120",
+        "10240988",
+        "10240180",
+        "10240056",
+        "10240090",
+        "10239894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause the engine to malfunction, leading to a loss of power and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Ticking noise from the engine",
+        "timing chain failure."
+      ],
+      "odiNumbers": [
+        "10240857",
+        "10240090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Camshaft and Tappet Failure",
+      "impact": "The premature failure of the camshaft and tappets can cause engine damage, leading to costly repairs, and potentially resulting in engine seizure or failure, which can cause accidents or leave the rider stranded.",
+      "symptoms": [
+        "Engine noise or rattling",
+        "loss of engine power",
+        "engine stalling",
+        "difficulty starting the engine",
+        "excessive oil consumption",
+        "engine warning lights or error codes."
+      ],
+      "odiNumbers": [
+        "10239807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

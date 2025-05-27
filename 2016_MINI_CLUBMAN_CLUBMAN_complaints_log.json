@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Environmental Air Catalyst (EAC) Sensor Failure",
+      "impact": "The failure of the EAC sensor can cause the vehicle's emissions system to malfunction, leading to decreased fuel efficiency, increased emissions, and potentially causing damage to other engine components.",
+      "symptoms": [
+        "Loss of LIN-Bus communication (signal) from the EAC sensor",
+        "corrosion on the EAC sensor",
+        "contamination of the EAC sensor due to the chemical composition of the fan shroud."
+      ],
+      "odiNumbers": [
+        "11552704",
+        "11542884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Infotainment System Failure (Head Unit Inoperability)",
+      "impact": "The failure of the head unit can cause the loss of critical vehicle information, including backup camera, oil pressure, tire pressure, maintenance schedules, and emergency call roadside assistance, making it difficult for the driver to operate the vehicle safely.",
+      "symptoms": [
+        "The head unit displays \"No Signal\"",
+        "making it impossible to access vehicle information",
+        "backup camera",
+        "and other essential features."
+      ],
+      "odiNumbers": [
+        "11454288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Emergency Brake Malfunction",
+      "impact": "The malfunction of the emergency brake can cause the vehicle to become stuck, making it difficult or impossible to drive, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The emergency brake does not release even on level pavement",
+        "taking up to 30 minutes or more to release",
+        "making it difficult to operate the vehicle."
+      ],
+      "odiNumbers": [
+        "11454288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Stop Light Failure",
+      "impact": "The failure of the rear stop lights can increase the risk of rear-end collisions, as other drivers may not be aware of the vehicle's braking activity.",
+      "symptoms": [
+        "Rear stop lights do not illuminate when braking",
+        "rear stop lights are dim or flickering",
+        "bulb holder is damaged."
+      ],
+      "odiNumbers": [
+        "11405112",
+        "11281598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Block Failure",
+      "impact": "The catastrophic failure of the engine block can cause the engine to overheat, leading to a potential vehicle fire, which can result in serious injury or fatalities.",
+      "symptoms": [
+        "The engine suddenly stops",
+        "the engine overheats",
+        "antifreeze",
+        "oil",
+        "and possibly fuel mix",
+        "the vehicle stalls or loses power while driving."
+      ],
+      "odiNumbers": [
+        "11589969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to engine damage, stalling, or loss of power, which can increase the risk of accidents or strand the driver.",
+      "symptoms": [
+        "The engine overheats",
+        "the temperature gauge rises",
+        "the coolant level drops",
+        "the vehicle stalls or loses power while driving."
+      ],
+      "odiNumbers": [
+        "11589969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction while driving, potentially leading to accidents or decreased vehicle safety.",
+      "symptoms": [
+        "The air conditioning system malfunctions",
+        "the air conditioning blows warm air",
+        "the air conditioning does not turn on",
+        "the air conditioning has reduced airflow."
+      ],
+      "odiNumbers": [
+        "11589969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

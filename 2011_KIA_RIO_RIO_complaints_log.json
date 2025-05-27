@@ -1,0 +1,196 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the driver and passengers may not be adequately protected from the impact.",
+      "symptoms": [
+        "The airbag warning lamp illuminates",
+        "the airbag does not deploy in a crash",
+        "the driver or passenger hits their head on the steering wheel or dashboard",
+        "resulting in injuries."
+      ],
+      "odiNumbers": [
+        "11320026",
+        "10664814",
+        "10608963",
+        "10423937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Airbag Sensor",
+      "impact": "A defective airbag sensor can cause the airbag to malfunction or not deploy in a crash, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning lamp illuminates",
+        "the airbag sensor is diagnosed as defective",
+        "the airbag may not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "10460156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the engine to shut down without warning, leading to a loss of power steering and power brakes, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stops running",
+        "electrical components turn off",
+        "power steering and power brakes are lost",
+        "the car is completely dead with no response when the ignition key is turned",
+        "no dash lights",
+        "no starter",
+        "no power."
+      ],
+      "odiNumbers": [
+        "11542347",
+        "10761064",
+        "10631575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Random Misfire and Engine Stalling",
+      "impact": "The random misfire and engine stalling can cause the vehicle to lose power, vibrate, and stall, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine sputters",
+        "vibrates",
+        "and stalls",
+        "the check engine light flashes or stays on",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "10761064",
+        "10631575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the engine to stall, leading to a loss of power and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine stalls",
+        "the check engine light illuminates",
+        "the vehicle sputters",
+        "vibrates",
+        "and stalls."
+      ],
+      "odiNumbers": [
+        "10631575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle surges in speed without pressing the accelerator",
+        "the throttle sticks",
+        "the engine continues to rev even after shifting into neutral",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle is slow to reach minimum speed",
+        "the vehicle rolls backward or stops on hills."
+      ],
+      "odiNumbers": [
+        "11498472",
+        "11280415",
+        "11118042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Throttle Cable and Throttle Body",
+      "impact": "A faulty throttle cable and throttle body can cause unintended acceleration, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The throttle cable is stuck",
+        "the throttle body is faulty",
+        "the engine continues to rev even after shifting into neutral",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "11280415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "A faulty catalytic converter can cause reduced vehicle performance, decreased fuel efficiency, and potentially toxic fuel emissions, which can be hazardous to drivers and passengers.",
+      "symptoms": [
+        "The vehicle is loud and slow",
+        "especially when driving uphill",
+        "the vehicle rolls backward or stops on hills",
+        "the vehicle is slow to reach minimum speed",
+        "the vehicle cuts off while driving."
+      ],
+      "odiNumbers": [
+        "11118042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the engine to stall or shut off, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls or shuts off",
+        "the engine light flashes",
+        "the engine loses power",
+        "the engine makes a knocking sound",
+        "the antifreeze reservoir is empty."
+      ],
+      "odiNumbers": [
+        "11182851",
+        "10939893",
+        "10610220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brakes lock up",
+        "the brakes pulsate",
+        "the steering wheel jerks from left to right when the brakes are depressed",
+        "the brakes smoke",
+        "the vehicle is unable to stop or slow down as expected."
+      ],
+      "odiNumbers": [
+        "11014958",
+        "10549821",
+        "10425285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "totalComplaints": 120,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of a crash, which can result in serious injury or death to occupants.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag warning light flashes or chimes",
+        "the airbag system warning light remains on constantly",
+        "the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11438747",
+        "11350300",
+        "11318630",
+        "11278544",
+        "11076408",
+        "10926776",
+        "10821502",
+        "10806246",
+        "10562492",
+        "10549262",
+        "10473253",
+        "10451191",
+        "10383082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver Airbag Emblem Recall",
+      "impact": "The failure to replace the driver airbag emblem can cause the airbag to malfunction, leading to potential injury or death to occupants.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag warning light flashes or chimes",
+        "the airbag system warning light remains on constantly."
+      ],
+      "odiNumbers": [
+        "11438747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

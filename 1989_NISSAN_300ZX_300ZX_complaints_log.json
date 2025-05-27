@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "EQUIPMENT",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure and Leaks",
+      "impact": "Fuel injector failure and leaks can cause gasoline odors, fuel leaks, and even vehicle fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Gasoline odors inside and outside the vehicle",
+        "fuel leaks",
+        "fuel injector failure",
+        "vehicle fires."
+      ],
+      "odiNumbers": [
+        "10220901",
+        "874395",
+        "865538",
+        "724720",
+        "552634",
+        "800705",
+        "953919",
+        "947955",
+        "908679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Jack Stand Failure",
+      "impact": "The sudden failure of the jack stands can cause the vehicle to fall, resulting in potential injury or death to the person underneath, as well as damage to the vehicle.",
+      "symptoms": [
+        "The jack stands collapse or fail",
+        "causing the vehicle to fall or crash to the ground",
+        "potentially trapping or crushing the person underneath."
+      ],
+      "odiNumbers": [
+        "11445075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Fuel Injectors",
+      "impact": "The defective fuel injectors can cause a fuel rich condition, leading to poor engine performance, decreased fuel efficiency, and potentially even engine damage or failure. Additionally, the fuel odor and leakage can pose a fire hazard.",
+      "symptoms": [
+        "Fuel odor",
+        "fuel rich condition",
+        "engine idling poorly",
+        "sudden appearance of issues after normal operation."
+      ],
+      "odiNumbers": [
+        "10972185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Recall Notification and Repair",
+      "impact": "The failure to notify owners of the recall and perform the necessary repairs can lead to continued operation of the vehicle with a defective component, potentially causing safety issues and engine damage.",
+      "symptoms": [
+        "Owners not notified of recall",
+        "lack of repair documentation",
+        "continued operation of vehicle with defective component."
+      ],
+      "odiNumbers": [
+        "10972185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without pressing the accelerator pedal",
+        "the engine RPM increases rapidly",
+        "the vehicle surges forward without warning",
+        "the vehicle takes off without application of the accelerator."
+      ],
+      "odiNumbers": [
+        "847394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

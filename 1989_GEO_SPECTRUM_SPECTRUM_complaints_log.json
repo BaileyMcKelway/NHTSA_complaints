@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corroded Engine Block to Body Ground Wire",
+      "impact": "A corroded engine block to body ground wire can cause electrical system malfunctions, leading to engine stalling, poor performance, and in extreme cases, fires.",
+      "symptoms": [
+        "Engine stalling",
+        "poor engine performance",
+        "smoke or fire from the engine compartment",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "515295",
+        "546765",
+        "977478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Body Structure Failure",
+      "impact": "The failure of the body structure, including the floor, roof, and pillars, can compromise the vehicle's integrity and safety in the event of a crash, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Unusual noises or creaking sounds from the body",
+        "visible signs of rust or corrosion",
+        "doors or windows that are difficult to open or close",
+        "sagging or uneven roofline",
+        "loose or broken trim and molding."
+      ],
+      "odiNumbers": [
+        "512366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Hinge Failure",
+      "impact": "The failure of the door hinges can cause the doors to fall off or become difficult to open or close, which can lead to accidents or injuries, especially when entering or exiting the vehicle.",
+      "symptoms": [
+        "Doors that are difficult to open or close",
+        "doors that fall off or sag",
+        "unusual noises or creaking sounds from the door hinges",
+        "visible signs of rust or corrosion on the door hinges."
+      ],
+      "odiNumbers": [
+        "512366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Anchor Failure",
+      "impact": "The failure of the seat anchor can cause the seat to become loose or detach from the floor, leading to a loss of control while driving, increased risk of injury or death in the event of an accident, and compromised vehicle safety.",
+      "symptoms": [
+        "The seat feels loose or unstable",
+        "the seat moves unexpectedly while driving",
+        "the seat does not remain in its adjusted position",
+        "the seatbelt is not securely attached to the seat",
+        "unusual noises or vibrations are coming from the seat area."
+      ],
+      "odiNumbers": [
+        "512366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

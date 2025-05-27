@@ -1,0 +1,259 @@
+{
+  "totalComplaints": 57,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Stalling",
+      "impact": "The failure of the engine can cause the vehicle to stall, leading to a loss of motive power, which can increase the risk of accidents and leave the driver stranded.",
+      "symptoms": [
+        "The engine makes an abnormal ticking or knocking sound",
+        "the vehicle stalls or loses power",
+        "the check engine warning light is illuminated",
+        "the vehicle shakes or vibrates",
+        "and the accelerator pedal is unresponsive."
+      ],
+      "odiNumbers": [
+        "11584421",
+        "11508408",
+        "11502815",
+        "11482465",
+        "11453412",
+        "11452463",
+        "11431422",
+        "11422860",
+        "11417828",
+        "11404829",
+        "11399715",
+        "11399733",
+        "11398768",
+        "11398397",
+        "11396752",
+        "11390271",
+        "11206144",
+        "11205896",
+        "11182141",
+        "11180233",
+        "11061129",
+        "10873672"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to lose power, leading to a loss of motive power, which can increase the risk of accidents and leave the driver stranded.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "the \"Check Hybrid System",
+        "Turn Off the Engine\" message is displayed",
+        "the vehicle shakes or vibrates",
+        "and the accelerator pedal is unresponsive."
+      ],
+      "odiNumbers": [
+        "11584421",
+        "11061129",
+        "10873672"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Leaks and Engine Damage",
+      "impact": "Oil leaks can cause engine damage, leading to a loss of motive power, which can increase the risk of accidents and leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks from the engine compartment",
+        "the check engine warning light is illuminated",
+        "and the engine makes an abnormal noise."
+      ],
+      "odiNumbers": [
+        "11453412",
+        "11205896",
+        "11180233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parts Distribution Disconnect and Recall Repairs",
+      "impact": "The unavailability of parts for recall repairs can cause delays in fixing safety issues, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "None",
+        "as this is a parts distribution issue rather than a vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11404829",
+        "11399715",
+        "11399733",
+        "11398397",
+        "11396752",
+        "11390271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to stall or fail to start, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the engine and hybrid indicators illuminate",
+        "the steering is locked",
+        "the engine loses total power",
+        "the \"Check Hybrid System\" warning light comes on."
+      ],
+      "odiNumbers": [
+        "11209538",
+        "11144245",
+        "11098766",
+        "11093719",
+        "11089970"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to malfunction, leading to a loss of critical systems, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle is unable to start",
+        "the master warning light illuminates",
+        "the trunk fails to open or latch closed",
+        "intermittent and unreliable trunk open/closed warnings in the driver information center."
+      ],
+      "odiNumbers": [
+        "11472959",
+        "11141130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fire Hazard",
+      "impact": "The failure of the vehicle's electrical system can cause a fire, which can lead to serious injury or death.",
+      "symptoms": [
+        "The vehicle starts to smoke",
+        "the vehicle catches fire",
+        "the vehicle explodes."
+      ],
+      "odiNumbers": [
+        "11209538"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brake pedal to feel rigid or unresponsive, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels rigid or unresponsive",
+        "the \"Stop Car",
+        "Check Brakes\" message is displayed",
+        "the ABS and traction control warning lights are illuminated",
+        "a whooshing or \"pooook\" sound is heard when the brake pedal is depressed",
+        "the brake pedal has a slow release."
+      ],
+      "odiNumbers": [
+        "11518028",
+        "11441089",
+        "11176637",
+        "11002078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parking Brake System Failure",
+      "impact": "The failure of the parking brake system can cause the parking brake to engage unexpectedly, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The parking brake engages automatically",
+        "the vehicle comes to an unexpected stop",
+        "the parking brake sensor and motor need to be replaced."
+      ],
+      "odiNumbers": [
+        "11025430",
+        "11024261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Lockup",
+      "impact": "The lockup of the rear brakes can cause the vehicle to lose control, especially when turning, and increase the risk of accidents.",
+      "symptoms": [
+        "The rear brakes lock up",
+        "the vehicle is hard to control",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "10899075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Loss of Power",
+      "impact": "The intermittent loss of power can cause the vehicle to stall or lose speed, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences a sudden loss of power",
+        "often accompanied by a solid malfunction indicator light (MIL). Releasing the throttle can clear the condition",
+        "and the MIL goes out. The vehicle drives normally with no warning indicators until the next occurrence."
+      ],
+      "odiNumbers": [
+        "11230694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause startle, distraction, and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "The sunroof suddenly shatters or explodes while driving",
+        "often without any warning or apparent cause. The outside temperature is usually moderate",
+        "and there are no known road hazards that could have caused the incident."
+      ],
+      "odiNumbers": [
+        "11196109",
+        "11184973",
+        "10936440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose control, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The brakes and emergency brake fail",
+        "accompanied by warning lights. The lights may turn off and then come back on again",
+        "indicating a malfunction. The vehicle may lose braking ability",
+        "even at high speeds."
+      ],
+      "odiNumbers": [
+        "10883368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

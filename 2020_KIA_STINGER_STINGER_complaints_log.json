@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to lose power, stall, or fail to start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalls",
+        "loses power",
+        "or fails to start",
+        "check engine light illuminates",
+        "code P0088 (fuel rail/system pressure - too high) appears on the code reader."
+      ],
+      "odiNumbers": [
+        "11562645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, leading to accidents or leaving the driver stranded, and potentially causing a fire.",
+      "symptoms": [
+        "Vehicle's entire electrical system shuts down",
+        "rear window defroster stops working",
+        "fuse block melts",
+        "check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "11549927",
+        "11387157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Poor Assembly/Quality Control",
+      "impact": "Poor assembly or quality control can lead to safety issues, such as fuel leaks or electrical fires, and can cause accidents or injuries.",
+      "symptoms": [
+        "Loose nuts",
+        "missing bolts",
+        "unsecured fuel line connections",
+        "and other signs of poor assembly or quality control."
+      ],
+      "odiNumbers": [
+        "11341840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to jerk, hesitate, and stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle jerks or hesitates when accelerating",
+        "the check engine light appears on the instrument panel",
+        "the vehicle stalls when depressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "11509804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Warped Rotors and Brake Pulsation",
+      "impact": "Warped rotors and brake pulsation can cause severe shaking and rattling of the vehicle, especially the steering wheel, while slowing down, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "Severe shaking or rattling of the vehicle",
+        "especially the steering wheel",
+        "while slowing down",
+        "brake pedal pulsation",
+        "warbled or uneven braking sensation",
+        "deposits or scoring on the rotors."
+      ],
+      "odiNumbers": [
+        "11469956"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure (GDI Pump)",
+      "impact": "The failure of the GDI pump can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The vehicle shudders or vibrates while driving",
+        "the engine stalls",
+        "the gas pedal becomes unresponsive",
+        "strong smell of gas and smoke emanates from underneath the vehicle",
+        "engine lights illuminate on the dashboard",
+        "hesitation to start the engine when cold",
+        "requiring multiple attempts to start."
+      ],
+      "odiNumbers": [
+        "11467020"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when the vehicle is in close proximity to obstacles or other vehicles.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "even when the driver's foot is on the brake pedal",
+        "the vehicle surges forward without input from the driver",
+        "the vehicle fails to respond to braking input."
+      ],
+      "odiNumbers": [
+        "11421197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

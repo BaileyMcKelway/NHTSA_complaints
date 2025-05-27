@@ -1,0 +1,199 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. It can also cause engine damage due to high revving.",
+      "symptoms": [
+        "Transmission will not shift into higher gears",
+        "falls out of proper gear and into a lower gear",
+        "engine revs too high",
+        "transmission light flashes on and off",
+        "vehicle bucks violently when shifting."
+      ],
+      "odiNumbers": [
+        "10113868",
+        "10113852",
+        "10067685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. It can also cause damage to the transmission and other components.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "702039",
+        "702199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Clutch System Failure",
+      "impact": "Failure of the transmission and clutch system can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. It can also cause damage to the engine and other components.",
+      "symptoms": [
+        "Transmission and clutch system failure",
+        "vehicle has trouble shifting into gear",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "transmission light flashes on and off."
+      ],
+      "odiNumbers": [
+        "10006664",
+        "752896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The faulty ignition switch can cause the starter to continue sending start signals even after the car has already started, leading to electrical system malfunctions and potentially causing accidents or fires.",
+      "symptoms": [
+        "The ignition switch continues to send start signals to the starter after the car has already started",
+        "the ignition switch fails to turn off",
+        "electrical problems",
+        "blown fuses",
+        "and smoke or odor coming from the steering column."
+      ],
+      "odiNumbers": [
+        "10000788",
+        "750653",
+        "733016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring and Electrical System Issues",
+      "impact": "The defective wiring and electrical system can cause fuses to blow repeatedly, leaving the car inoperable, and potentially leading to electrical fires or other safety hazards.",
+      "symptoms": [
+        "Fuses blow repeatedly",
+        "electrical problems",
+        "bad wiring under the rear seats and trunk",
+        "and smoke or odor coming from the steering column."
+      ],
+      "odiNumbers": [
+        "750653",
+        "733016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Horn Malfunction",
+      "impact": "The faulty horn can cause difficulty in locating the horn when the wheel is turned, potentially leading to safety issues in emergency situations.",
+      "symptoms": [
+        "The horn cannot be located when the wheel is turned."
+      ],
+      "odiNumbers": [
+        "525395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause loud noises, decreased engine performance, and potentially lead to more severe problems such as manifold damage.",
+      "symptoms": [
+        "Loud noise coming from the exhaust pipe",
+        "loose exhaust down pipe",
+        "oxygen sensor failure",
+        "gasket failure",
+        "flex pipe failure."
+      ],
+      "odiNumbers": [
+        "865947",
+        "725972",
+        "723836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "The failure of the oxygen sensor can cause poor engine performance, decreased fuel efficiency, and potentially lead to more severe problems such as engine damage.",
+      "symptoms": [
+        "Oxygen sensor failure",
+        "poor engine performance",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "725972",
+        "723836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Hydrolock due to Airbox Design",
+      "impact": "The design of the airbox can cause the engine to hydrolock, leading to engine damage and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Engine hydrolock",
+        "water ingestion through the airbox",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "709507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause accidents, injuries, and damage to the vehicle, as well as emotional distress to the occupants.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy in the absence of a crash or impact",
+        "airbag warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "8003683",
+        "757246",
+        "700211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a lack of protection in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light illuminates on the dashboard",
+        "airbag system no longer functional",
+        "passenger side airbag no longer functional."
+      ],
+      "odiNumbers": [
+        "700211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

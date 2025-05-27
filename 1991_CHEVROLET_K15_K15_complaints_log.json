@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "PARKING BRAKE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause loss of vehicle control, increased stopping distances, and accidents, especially on steep and bumpy roads.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the ABS system fails to engage",
+        "the vehicle experiences dangerous driving conditions",
+        "the ABS system engages unnecessarily",
+        "the vehicle's braking performance is compromised."
+      ],
+      "odiNumbers": [
+        "808010",
+        "488370",
+        "971731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Seatbelt Retractor",
+      "impact": "The faulty seatbelt retractor can cause the seatbelt to become stuck in a locked position, making it difficult or impossible to use the seatbelt properly, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatbelt retractor locks in position",
+        "the seatbelt will not extend or retract",
+        "the seatbelt requires considerable manipulation to extend or retract",
+        "the seatbelt is stuck in a locked position."
+      ],
+      "odiNumbers": [
+        "703875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Parking Brake Release",
+      "impact": "The unintended release of the parking brake can cause the vehicle to roll or move unexpectedly, potentially leading to accidents, injuries, or damage to property.",
+      "symptoms": [
+        "The parking brake releases on its own after the driver has left the vehicle",
+        "without any warning or indication; the vehicle rolls or moves unexpectedly; the parking brake light on the dashboard may not illuminate."
+      ],
+      "odiNumbers": [
+        "701457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Bolt Failure",
+      "impact": "The failure of the steering column bolts can cause the steering wheel to jam or lock up, resulting in loss of vehicle control, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The steering wheel suddenly locks up or becomes difficult to turn",
+        "the steering column becomes loose or wobbly",
+        "the bolts backing out of the tilt steering column",
+        "no warning signs or symptoms before the failure."
+      ],
+      "odiNumbers": [
+        "805225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

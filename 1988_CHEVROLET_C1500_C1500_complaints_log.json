@@ -1,0 +1,168 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal travels too far down",
+        "the brake pedal goes to the floor",
+        "the brake pedal has low pressure",
+        "the brake pedal is spongy or soft",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "547176",
+        "823421",
+        "817532",
+        "809115",
+        "514276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of the brake pads can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pads wear out excessively",
+        "the brake pads disintegrate",
+        "the lining on the pads comes off",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "823421",
+        "524253",
+        "817532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotors can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake rotors wear out excessively",
+        "the brake rotors warp or crack",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "524253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake calipers can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake calipers malfunction",
+        "the brake calipers leak fluid",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "524253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The ABS malfunctions",
+        "the ABS light flashes or stays on continuously",
+        "the vehicle takes longer to stop than usual",
+        "the vehicle experiences loss of power when the ABS kicks in."
+      ],
+      "odiNumbers": [
+        "547176",
+        "810106",
+        "809115",
+        "808992",
+        "513670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to not properly restrain the occupant, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not retract properly",
+        "the seat belt does not take up slack",
+        "the seat belt cannot be extended for use",
+        "the latch on the seat belt breaks",
+        "the seat belt does not function properly."
+      ],
+      "odiNumbers": [
+        "10327153",
+        "883655",
+        "842433",
+        "518210",
+        "515833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Failure to Restart",
+      "impact": "The sudden stalling of the engine can cause loss of power, leading to accidents or leaving the driver stranded. The failure to restart the engine can lead to further inconvenience and potential safety risks.",
+      "symptoms": [
+        "The engine cuts off while sitting at a light or while driving",
+        "the vehicle loses power and dies",
+        "the engine fails to restart."
+      ],
+      "odiNumbers": [
+        "832730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fire",
+      "impact": "An engine fire can cause significant damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming from underneath the passenger's side",
+        "smoke coming from the engine compartment",
+        "the engine compartment catching on fire."
+      ],
+      "odiNumbers": [
+        "523586",
+        "801625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Pressure Issues",
+      "impact": "Low oil pressure can cause engine damage, leading to premature wear and potentially causing the engine to seize or fail.",
+      "symptoms": [
+        "Oil pressure gauge decreases",
+        "smoke coming from underneath the passenger's side",
+        "smoke coming from the engine compartment."
+      ],
+      "odiNumbers": [
+        "801625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

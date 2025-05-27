@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VISIBILITY",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion-Induced Brake Line Failure",
+      "impact": "The failure of the brake line can cause a loss of braking power, leading to accidents or near-misses.",
+      "symptoms": [
+        "Sudden loss of brake pressure",
+        "brake pedal feels soft or spongy",
+        "brake line failure at the bend where it joins with the rear brake hose."
+      ],
+      "odiNumbers": [
+        "10212644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Computer Failure",
+      "impact": "The failure of the ABS computer can cause a total loss of brakes, leading to accidents or near-misses.",
+      "symptoms": [
+        "Total loss of brakes",
+        "no braking action",
+        "ABS activation at low speeds",
+        "failure of the ABS system to function properly."
+      ],
+      "odiNumbers": [
+        "10171255",
+        "10161186",
+        "10135002",
+        "10037566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Wheel Speed Sensors",
+      "impact": "Faulty wheel speed sensors can cause the ABS system to malfunction, leading to extended stopping distances or loss of braking power.",
+      "symptoms": [
+        "ABS activation at low speeds",
+        "extended stopping distances",
+        "faulty wheel speed sensor readings."
+      ],
+      "odiNumbers": [
+        "10135002",
+        "10037566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Poor Brake System Design",
+      "impact": "Poor brake system design can lead to corrosion-induced brake line failure, ABS computer failure, or faulty wheel speed sensors, causing a loss of braking power or accidents.",
+      "symptoms": [
+        "Corrosion-induced brake line failure",
+        "ABS computer failure",
+        "faulty wheel speed sensors",
+        "poor brake system performance."
+      ],
+      "odiNumbers": [
+        "10212644",
+        "10171255",
+        "10161186",
+        "10135002",
+        "10037566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can reduce visibility during rainy or snowy conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "wipers stop working during rain",
+        "wipers quit without warning",
+        "wipers may or may not come back on",
+        "wipers fail to turn on",
+        "wipers stop while in use."
+      ],
+      "odiNumbers": [
+        "10198401",
+        "10156146",
+        "10040409",
+        "10032310",
+        "10019225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "An inaccurate fuel gauge can cause the driver to run out of fuel unexpectedly, leading to engine stalling, loss of power, and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The fuel gauge displays an incorrect reading",
+        "showing more fuel than is actually in the tank",
+        "the fuel gauge is erratic",
+        "the fuel gauge does not move from a specific position",
+        "the fuel gauge does not respond to changes in fuel level."
+      ],
+      "odiNumbers": [
+        "10132760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

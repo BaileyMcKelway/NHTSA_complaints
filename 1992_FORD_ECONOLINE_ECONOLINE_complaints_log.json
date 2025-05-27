@@ -1,0 +1,528 @@
+{
+  "totalComplaints": 270,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 24,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "The failure of the cruise control system can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the cruise control does not disengage",
+        "the brakes become hard to press",
+        "the engine runs high",
+        "and the speed increases."
+      ],
+      "odiNumbers": [
+        "10430375",
+        "801168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes are hard to press",
+        "the brake pedal goes to the floor",
+        "the vehicle slides or locks up",
+        "the brake pads wear prematurely",
+        "and the ABS light stays on."
+      ],
+      "odiNumbers": [
+        "10168625",
+        "8017306",
+        "752215",
+        "858267",
+        "834391",
+        "529371",
+        "525176",
+        "524560",
+        "526112",
+        "818955",
+        "519407",
+        "601955",
+        "973218",
+        "973057",
+        "972765",
+        "483568",
+        "969371",
+        "964431",
+        "958773",
+        "478932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS light stays on",
+        "the brakes lock up",
+        "the vehicle slides or vibrates",
+        "and the brake pads wear prematurely."
+      ],
+      "odiNumbers": [
+        "8017306",
+        "752215",
+        "858267",
+        "834391",
+        "529371",
+        "525176",
+        "524560",
+        "526112",
+        "818955",
+        "519407",
+        "601955",
+        "973218",
+        "973057",
+        "972765",
+        "483568",
+        "969371",
+        "964431",
+        "958773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes are hard to press",
+        "and the brake pads wear prematurely."
+      ],
+      "odiNumbers": [
+        "858267",
+        "834391",
+        "601955"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Stalling",
+      "impact": "The stalling of the engine can cause the vehicle to lose power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine dies",
+        "the vehicle stops running",
+        "and the brake pads wear prematurely."
+      ],
+      "odiNumbers": [
+        "10134198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Speed Control: Cruise Control Failure",
+      "impact": "Failure of the cruise control system can cause unintended acceleration, loss of vehicle control, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Cruise control fails to disengage",
+        "vehicle accelerates suddenly",
+        "stuck throttle",
+        "inability to release cruise control",
+        "and sudden acceleration when braking."
+      ],
+      "odiNumbers": [
+        "10235999",
+        "10223411",
+        "10220392",
+        "10220137",
+        "10216911",
+        "10214884",
+        "10214923",
+        "10213462",
+        "10203786",
+        "10202900",
+        "10097003",
+        "10095354",
+        "10073986",
+        "10043452",
+        "754317",
+        "843047",
+        "835684",
+        "544415",
+        "543729",
+        "533251",
+        "521633",
+        "987360",
+        "984640",
+        "973057",
+        "961614",
+        "485547",
+        "481301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Speed Control: Throttle Positioning Switch Failure",
+      "impact": "Failure of the throttle positioning switch can cause sudden acceleration, loss of vehicle control, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "stuck throttle",
+        "inability to release throttle",
+        "and sudden acceleration when braking."
+      ],
+      "odiNumbers": [
+        "550175",
+        "987360",
+        "973057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Speed Control: Wiring Harness Failure",
+      "impact": "Failure of the wiring harness can cause unintended acceleration, loss of vehicle control, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Cruise control fails to disengage",
+        "vehicle accelerates suddenly",
+        "stuck throttle",
+        "and sudden acceleration when braking."
+      ],
+      "odiNumbers": [
+        "10576710",
+        "961614"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Delays",
+      "impact": "Delays in recall repairs can leave vehicles with potentially hazardous defects on the road, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Unavailability of parts",
+        "long wait times for repairs",
+        "and lack of communication from dealerships and manufacturers."
+      ],
+      "odiNumbers": [
+        "10223411",
+        "10220392",
+        "10220137",
+        "10216911",
+        "10214884",
+        "10214923",
+        "10213462",
+        "10203786",
+        "10202900"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Yellow flickering lights",
+        "flames coming from the engine compartment",
+        "smoke",
+        "and burning smells."
+      ],
+      "odiNumbers": [
+        "10299075",
+        "10232072",
+        "10201493",
+        "10048308",
+        "845556",
+        "482470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Pan Rust and Leaks",
+      "impact": "Oil pan rust and leaks can cause engine damage, leading to costly repairs, and potentially resulting in engine failure, accidents, or fires.",
+      "symptoms": [
+        "Oil leaks",
+        "rusted oil pan",
+        "bubbles on the oil pan",
+        "and engine failure."
+      ],
+      "odiNumbers": [
+        "729152",
+        "851563",
+        "526112",
+        "523031",
+        "985691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failures",
+      "impact": "Exhaust system failures can cause fumes to enter the vehicle, leading to health risks, and potentially causing accidents or fires.",
+      "symptoms": [
+        "Fumes entering the vehicle",
+        "broken exhaust manifold",
+        "and loud noises from the muffler."
+      ],
+      "odiNumbers": [
+        "893735",
+        "830970",
+        "815838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failures",
+      "impact": "Fuel system failures can cause fuel leaks, fires, and engine failure, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel vent line hose cracks",
+        "fuel tank leaks",
+        "and engine failure."
+      ],
+      "odiNumbers": [
+        "8014720",
+        "880726",
+        "863128",
+        "815838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause accidents, injuries, or fatalities due to loss of vehicle control.",
+      "symptoms": [
+        "Engine stalling",
+        "rough engine idle",
+        "engine failure",
+        "and overheating."
+      ],
+      "odiNumbers": [
+        "8007631",
+        "8004490",
+        "854770",
+        "548398",
+        "827476"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Belt and Pulley Failures",
+      "impact": "Belt and pulley failures can cause engine damage, leading to costly repairs, and potentially resulting in engine failure, accidents, or fires.",
+      "symptoms": [
+        "Drive belt failure",
+        "water pump pulley failure",
+        "and radiator failure."
+      ],
+      "odiNumbers": [
+        "526112",
+        "9001554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Filler Hose Failure",
+      "impact": "The failure of the fuel filler hose can cause fuel leaks, which can lead to fires, personal injury, or death.",
+      "symptoms": [
+        "Gasoline dripping on the ground while fueling",
+        "fuel leaks when parked",
+        "strong fuel odor",
+        "cracked or split fuel filler hose."
+      ],
+      "odiNumbers": [
+        "10137049",
+        "10051086",
+        "10018808",
+        "887494",
+        "880969",
+        "738864",
+        "731000",
+        "717003",
+        "823577",
+        "530816",
+        "521633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Accelerator Pedal Malfunction",
+      "impact": "The malfunction of the accelerator pedal can cause unintended acceleration, leading to accidents, personal injury, or death.",
+      "symptoms": [
+        "Accelerator pedal stuck",
+        "vehicle traveling at high speed without driver control",
+        "horn blowing constantly",
+        "brakes worn down."
+      ],
+      "odiNumbers": [
+        "10082423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank and Filler Neck Assembly Failure",
+      "impact": "The failure of the fuel tank and filler neck assembly can cause fuel leaks, which can lead to fires, personal injury, or death.",
+      "symptoms": [
+        "Gasoline leaking from the fuel tank",
+        "fuel filler neck assembly cracked or broken",
+        "strong fuel odor."
+      ],
+      "odiNumbers": [
+        "849564",
+        "842970",
+        "708689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump and Fuel System Failure",
+      "impact": "The failure of the fuel pump and fuel system can cause stalling, hesitation, or loss of power, leading to accidents, personal injury, or death.",
+      "symptoms": [
+        "Vehicle stalling",
+        "hesitation",
+        "or loss of power",
+        "fuel pump noise",
+        "fuel leaks",
+        "electrical short circuits."
+      ],
+      "odiNumbers": [
+        "816508",
+        "801229",
+        "980474",
+        "973084",
+        "972765",
+        "483278",
+        "489339",
+        "962281",
+        "961608",
+        "478932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Leaf Spring Failure",
+      "impact": "The failure of the leaf springs can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Severe swaying motion",
+        "loss of control",
+        "vibration",
+        "and noise."
+      ],
+      "odiNumbers": [
+        "8013980",
+        "706445",
+        "971918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of the ball joints can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Worn-out ball joints",
+        "loose ball joints",
+        "vibration",
+        "noise",
+        "and uneven tire wear."
+      ],
+      "odiNumbers": [
+        "878697",
+        "526112",
+        "525447",
+        "515088",
+        "800395",
+        "481632",
+        "478932",
+        "461778",
+        "473201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Axle Failure",
+      "impact": "The failure of the rear axle can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Snapped rear axle",
+        "broken rear tire and rim",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "544710",
+        "529371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Suspension System Failure",
+      "impact": "The failure of the suspension system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vibration",
+        "noise",
+        "uneven tire wear",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "708887",
+        "530599",
+        "523650",
+        "482016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Misalignment",
+      "impact": "Misalignment can cause the vehicle to pull to one side, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle pulls to one side",
+        "uneven tire wear",
+        "and vibration."
+      ],
+      "odiNumbers": [
+        "519550",
+        "480421",
+        "478932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

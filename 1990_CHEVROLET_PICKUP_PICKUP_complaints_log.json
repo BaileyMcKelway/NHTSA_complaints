@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose stopping power, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Soft brake pedal",
+        "brake pedal must be pumped multiple times to stop the vehicle",
+        "vehicle takes longer to stop than usual",
+        "vehicle does not stop when brakes are applied."
+      ],
+      "odiNumbers": [
+        "738079",
+        "870398",
+        "718996",
+        "817522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rusting of Brake Lines and Fuel Lines",
+      "impact": "The rusting of brake lines and fuel lines can cause brake failure, fuel leaks, and potentially lead to accidents or fires.",
+      "symptoms": [
+        "Brake lines rusted",
+        "fuel lines rusted",
+        "fuel leakage underneath the vehicle",
+        "soft brake pedal",
+        "brake pedal must be pumped multiple times to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "870398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Tire Failure",
+      "impact": "Premature tire failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tire separation",
+        "tire failure at low mileage (less than 20",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "765899",
+        "869378",
+        ""
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Wheel Column/Spindle Failure",
+      "impact": "The sudden loosening of the steering wheel column or failure of the steering wheel spindle can cause loss of steering control, making it difficult or impossible to maneuver the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The steering wheel shifts from side to side",
+        "the steering wheel feels loose",
+        "the vehicle is difficult to steer",
+        "the front wheels do not turn properly",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "761312",
+        "892258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

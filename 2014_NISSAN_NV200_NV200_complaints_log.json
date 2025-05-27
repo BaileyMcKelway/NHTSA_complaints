@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Airbag Sensor Malfunction",
+      "impact": "The malfunction of the passenger airbag sensor can cause the airbag to be disabled, potentially leading to serious injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The passenger airbag warning light is illuminated",
+        "the airbag is disabled",
+        "the airbag warning light stays on when an adult is in the passenger seat",
+        "the airbag warning light is intermittent."
+      ],
+      "odiNumbers": [
+        "11431696",
+        "11431056",
+        "11045141",
+        "10910230",
+        "10778829",
+        "10701154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Air Conditioner Failure",
+      "impact": "The failure of the rear air conditioner can cause discomfort and heat stress for passengers, especially vulnerable individuals such as children, elderly, and people with medical conditions. Prolonged exposure to high temperatures can lead to heat-related illnesses.",
+      "symptoms": [
+        "Little to no air coming out of the rear air vents",
+        "rear air conditioner not cooling",
+        "temperature inside the vehicle reaching extreme levels (e.g.",
+        "104°F) even with the AC running on its highest setting."
+      ],
+      "odiNumbers": [
+        "11389860",
+        "11327129",
+        "11265316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear AC Blower Motor Failure",
+      "impact": "The failure of the rear AC blower motor can cause the rear air conditioner to malfunction, leading to discomfort and heat stress for passengers.",
+      "symptoms": [
+        "Rear AC blower motor dying",
+        "rear air conditioner not cooling",
+        "repeated failures of the rear AC blower motor."
+      ],
+      "odiNumbers": [
+        "11327129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Dash Light Reflection Interference",
+      "impact": "The reflection of dash lights on the driver's left side window can cause glare and obstruct the driver's view of the left rearview mirror, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "Dash lights reflecting on the driver's left side window",
+        "interfering with the ability to see images in the left rearview mirror at night",
+        "turning down the intensity of the dash lights does not remove the problem."
+      ],
+      "odiNumbers": [
+        "10638925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Software Issue",
+      "impact": "The malfunctioning airbag system can lead to false warnings, potentially distracting the driver and increasing the risk of accidents. Additionally, the need for software updates to comply with airbag standards may indicate a systemic problem with the vehicle's safety features.",
+      "symptoms": [
+        "The airbag light flashes or stays on",
+        "indicating a potential problem with the airbag system."
+      ],
+      "odiNumbers": [
+        "11138982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loss of Power and Acceleration",
+      "impact": "The sudden loss of power and acceleration can increase the risk of accidents, especially in heavy traffic conditions. This issue can also lead to a loss of control and potentially cause harm to the driver and passengers.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the engine runs but the vehicle does not respond to accelerator input",
+        "the vehicle stalls or hesitates when accelerating."
+      ],
+      "odiNumbers": [
+        "10721924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Front Tire Wear",
+      "impact": "Premature wear on front tires can lead to reduced traction, increased stopping distances, and a higher risk of tire failure, which can cause accidents and put drivers at risk.",
+      "symptoms": [
+        "Excessive wear on front tires",
+        "particularly on the tread",
+        "with little to no tread remaining",
+        "tires showing metal",
+        "uneven tire wear",
+        "tire wear rate inconsistent with normal operating conditions."
+      ],
+      "odiNumbers": [
+        "10760173",
+        "10660738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

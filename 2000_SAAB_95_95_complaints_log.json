@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "EXTERIOR LIGHTING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Discharge Module (IDM) Failure",
+      "impact": "The failure of the IDM can cause the vehicle to lose power, making it difficult to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the engine light illuminates intermittently",
+        "the check engine light starts blinking",
+        "the vehicle has poor performance",
+        "the vehicle is unable to start",
+        "the ignition discharge module overheats."
+      ],
+      "odiNumbers": [
+        "10341441",
+        "10208447",
+        "10201274",
+        "10181200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection to prevent harm.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "occupants sustain injuries that could have been prevented or minimized by airbag deployment",
+        "vehicle damage is extensive."
+      ],
+      "odiNumbers": [
+        "10173380",
+        "10132823",
+        "757636"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, and accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "occupants sustain injuries",
+        "vehicle is damaged",
+        "airbag deployment is triggered by non-crash events such as adjusting the seat."
+      ],
+      "odiNumbers": [
+        "10132823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Body Failure",
+      "impact": "The sudden failure of the electronic throttle body can cause the vehicle to stall immediately, even at high speeds, leading to a loss of control and increasing the risk of accidents. The vehicle may enter a \"limp home\" mode, making it undrivable and requiring a long tow.",
+      "symptoms": [
+        "The vehicle stalls suddenly",
+        "even at high speeds",
+        "and enters a \"limp home\" mode."
+      ],
+      "odiNumbers": [
+        "10141656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Fuel Tank Design",
+      "impact": "The defective fuel tank design can cause fuel to rush to the front of the tank upon braking, leading to a loud thudding noise and potentially causing stress on the fuel tank. This could pose a threat of fuel explosion in the event of a crash.",
+      "symptoms": [
+        "A loud thudding noise is heard when braking",
+        "especially when the fuel tank is 1/2 to 3/4 full."
+      ],
+      "odiNumbers": [
+        "722584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight/Parking Light Assembly Retention Clip Failure",
+      "impact": "The failure of the retention clips can cause the headlight or parking light assembly to fall out of its socket, potentially obstructing the driver's view and increasing the risk of accidents.",
+      "symptoms": [
+        "The headlight or parking light assembly falls out of its socket",
+        "the assembly is retained by the wiring harness",
+        "the plastic clips break off",
+        "the bracket that holds the screw to retain the lamp breaks."
+      ],
+      "odiNumbers": [
+        "752697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headlight Assembly Failure",
+      "impact": "The repeated failure of the headlight assembly can cause reduced visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights keep blowing out",
+        "the dealer cannot determine the cause",
+        "the headlight assembly needs to be replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "875194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Noise and Sloshing",
+      "impact": "The unusual noise and sloshing of fuel in the tank can be a concern for safety, as it may indicate a potential risk of fuel tank rupture or damage to connecting components, which can lead to fuel leaks or fires.",
+      "symptoms": [
+        "Unusual noise",
+        "such as thunking",
+        "banging",
+        "or sloshing sounds",
+        "coming from the fuel tank when it is 1/2 to 3/4 full",
+        "loud noise from the fuel tank",
+        "fuel banging against the walls of the tank."
+      ],
+      "odiNumbers": [
+        "722998",
+        "716927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

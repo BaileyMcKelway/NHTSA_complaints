@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "TRAILER HITCHES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes fail to stop the vehicle",
+        "the brakes catch on fire",
+        "the brakes need to be repaired multiple times",
+        "the brakes do not respond as expected."
+      ],
+      "odiNumbers": [
+        "542878",
+        "542879",
+        "542880",
+        "542884",
+        "542888",
+        "536794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Axle Failure in Trailers",
+      "impact": "Axle failure can cause premature wear of tires, leading to reduced traction and increased risk of accidents, as well as potential damage to the trailer and its components.",
+      "symptoms": [
+        "Premature wear of tires",
+        "axle locking up",
+        "unusual noise or vibration from the axle or wheels."
+      ],
+      "odiNumbers": [
+        "530828",
+        "521708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incorrect Assembly of Leaf Springs in Trailers",
+      "impact": "Incorrect assembly of leaf springs can cause the axle to lock up, leading to loss of control, accidents, and potential damage to the trailer and its components.",
+      "symptoms": [
+        "Axle locking up",
+        "unusual noise or vibration from the axle or wheels",
+        "difficulty steering or controlling the trailer."
+      ],
+      "odiNumbers": [
+        "521708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trailer Hitch Latch Failure",
+      "impact": "A loose trailer hitch latch can cause the trailer to sway, leading to loss of control, broken chains, and potentially severe accidents or collisions.",
+      "symptoms": [
+        "The trailer hitch latch feels loose or insecure",
+        "the trailer sways or wobbles while in motion",
+        "the chains or straps connecting the trailer to the vehicle break",
+        "loss of control while towing the trailer."
+      ],
+      "odiNumbers": [
+        "548816"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "A faulty fuel gauge can cause the driver to run out of fuel, leading to unexpected stops, accidents, or strandings, which can be a safety risk, especially on highways or in remote areas.",
+      "symptoms": [
+        "The fuel gauge does not display the correct fuel level",
+        "the fuel gauge is stuck on empty or full",
+        "the fuel gauge fluctuates erratically",
+        "the fuel gauge does not move at all."
+      ],
+      "odiNumbers": [
+        "607608",
+        "607749",
+        "606410",
+        "609286"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gas Tank Failure",
+      "impact": "A failed gas tank can cause fuel leaks, fires, or other safety hazards, and may lead to costly repairs or even vehicle replacement.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "difficulty filling the tank",
+        "unusual noises or vibrations from the tank area."
+      ],
+      "odiNumbers": [
+        "607265",
+        "609286"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Air Suspension Failure",
+      "impact": "The failure of the electronic air suspension can cause the vehicle to become unstable, making it difficult to control, and potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The rear of the vehicle lifts up",
+        "the vehicle is hard to control",
+        "the vehicle drives erratically",
+        "the suspension fails."
+      ],
+      "odiNumbers": [
+        "10145744",
+        "10126310",
+        "857259",
+        "606862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure (Steam Entering Vehicle)",
+      "impact": "The failure of the cooling system can cause steam to enter the vehicle, impairing the driver's vision and potentially leading to accidents.",
+      "symptoms": [
+        "Steam suddenly enters the vehicle through the vents",
+        "distorting the driver's vision."
+      ],
+      "odiNumbers": [
+        "10286530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Self-Dimming Rear View Mirror",
+      "impact": "The faulty self-dimming rear view mirror can cause a strong ring or halo to develop on the glass, making it difficult for the driver to see behind them, which can lead to accidents.",
+      "symptoms": [
+        "A strong ring or halo develops on the glass of the self-dimming rear view mirror",
+        "making it near impossible to see through."
+      ],
+      "odiNumbers": [
+        "10098733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Windshield Leak",
+      "impact": "The windshield leak can cause water to enter the vehicle, impairing the driver's vision and potentially leading to accidents.",
+      "symptoms": [
+        "Water leaks into the vehicle through the front windshield",
+        "impairing the driver's vision."
+      ],
+      "odiNumbers": [
+        "861164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

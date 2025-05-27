@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Failure",
+      "impact": "The failure of motorized seat belts can lead to occupants being unrestrained in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt locks down or fails to retract",
+        "the seat belt only moves a couple of inches",
+        "the seat belt fails to secure the latch",
+        "the seat belt track does not slide properly",
+        "the motorized shoulder belt fails."
+      ],
+      "odiNumbers": [
+        "10074438",
+        "891237",
+        "743730",
+        "735686",
+        "714319",
+        "711409",
+        "528675",
+        "529618",
+        "529528",
+        "517677",
+        "812231",
+        "983132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Battery Failure",
+      "impact": "The repeated failure of the battery can cause the vehicle to stall or leave the driver stranded, leading to safety concerns and inconvenience.",
+      "symptoms": [
+        "The battery drains rapidly",
+        "the vehicle stalls",
+        "the battery dies frequently",
+        "the battery needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "855821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Wiring Issues Under the Hood",
+      "impact": "Faulty electrical wiring under the hood can cause electrical system malfunctions, leading to safety risks and potential engine damage.",
+      "symptoms": [
+        "None reported",
+        "but potential symptoms may include: intermittent electrical system failures",
+        "engine stalling",
+        "or unusual electrical system behavior."
+      ],
+      "odiNumbers": [
+        "715404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatback Frame Failure",
+      "impact": "The failure of the seatback frame can cause the seat to collapse or recline unexpectedly, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The seatback frame bends or collapses",
+        "the reclining catch releases",
+        "the seatback moves unexpectedly",
+        "the driver or passenger loses support or control."
+      ],
+      "odiNumbers": [
+        "513637",
+        "503962",
+        "700883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

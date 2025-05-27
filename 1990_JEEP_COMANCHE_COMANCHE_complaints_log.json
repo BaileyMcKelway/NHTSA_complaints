@@ -1,0 +1,143 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to slowly go down, leading to a loss of braking power, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal slowly goes down",
+        "the brake pedal feels soft or spongy",
+        "the pump motor keeps running",
+        "the injection system throttle control sticks at idle."
+      ],
+      "odiNumbers": [
+        "10001957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake lines can cause a complete loss of braking power, leading to accidents or near-misses.",
+      "symptoms": [
+        "The brakes do not respond when applied",
+        "the brake lines are rusted out",
+        "the vehicle has no other signs of rust."
+      ],
+      "odiNumbers": [
+        "827983",
+        "533987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Failure due to Rust and Corrosion",
+      "impact": "The failure of the rear brakes due to rust and corrosion can cause a loss of braking power, leading to accidents or near-misses.",
+      "symptoms": [
+        "The rear brakes fail to function",
+        "the brake lines are rusted out",
+        "the brake system is corroded."
+      ],
+      "odiNumbers": [
+        "533987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Foot-Operated Parking Brake Failure",
+      "impact": "The failure of the foot-operated parking brake can cause the vehicle to roll or move unintentionally, especially on steep inclines, which can lead to accidents or property damage.",
+      "symptoms": [
+        "The parking brake disengages unexpectedly",
+        "the vehicle rolls or moves while parked",
+        "difficulty holding the vehicle on steep inclines",
+        "the brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "730017",
+        "730017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion-Related Failure of Emergency Brake Cable System",
+      "impact": "The corrosion-related failure of the emergency brake cable system can cause the parking brake to fail, leading to unintended vehicle movement, which can result in accidents or property damage.",
+      "symptoms": [
+        "The parking brake fails to engage",
+        "the parking brake disengages unexpectedly",
+        "the vehicle rolls or moves while parked",
+        "rust or corrosion visible on the brake cable system."
+      ],
+      "odiNumbers": [
+        "533987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Position Sensor Failure",
+      "impact": "The malfunctioning throttle position sensor can cause unintended acceleration, leading to accidents or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Unintended acceleration",
+        "sudden acceleration",
+        "vehicle surges forward",
+        "loss of control",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "730020",
+        "703906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or collisions, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "soft brake pedal",
+        "brakes fail to engage",
+        "difficulty stopping the vehicle",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "730020"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries, especially when towing trailers.",
+      "symptoms": [
+        "Parking brake fails to engage",
+        "parking brake fails to hold",
+        "vehicle rolls or moves unexpectedly",
+        "difficulty parking on inclines."
+      ],
+      "odiNumbers": [
+        "730020"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

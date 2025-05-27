@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 59,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to a increased risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt gets stuck in its harness",
+        "the seat belt does not retract after buckling",
+        "the seat belt does not pull out or put back",
+        "the seat belt becomes tangled",
+        "the seat belt folds in by itself",
+        "the seat belt jams in the guide",
+        "the seat belt stays loose after buckling",
+        "the seat belt does not tighten after latching."
+      ],
+      "odiNumbers": [
+        "11315314",
+        "10414780",
+        "567729",
+        "8003257",
+        "897045",
+        "745177",
+        "885451",
+        "884471",
+        "741286",
+        "738283",
+        "876232",
+        "737273",
+        "731194",
+        "858195"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants of the vehicle are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbag warning light on the dashboard",
+        "airbags fail to deploy in a crash",
+        "severe crash damage to the vehicle without airbag deployment."
+      ],
+      "odiNumbers": [
+        "10096641",
+        "10089038",
+        "10042530",
+        "10016551",
+        "8015374",
+        "899132",
+        "872166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause unexpected distractions while driving, leading to accidents or injuries.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "minor injuries sustained due to unexpected airbag deployment."
+      ],
+      "odiNumbers": [
+        "885334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Headlight Bulb Failure",
+      "impact": "The frequent failure of headlight bulbs can significantly reduce visibility, increasing the risk of accidents, especially during evening or night driving.",
+      "symptoms": [
+        "Headlight bulbs burn out frequently",
+        "requiring replacement every few weeks or months",
+        "dim or reduced light output",
+        "difficulty seeing while driving at night."
+      ],
+      "odiNumbers": [
+        "10000681",
+        "766603",
+        "8008949",
+        "759774",
+        "759344",
+        "757132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headlight Alignment Issues",
+      "impact": "Misaligned headlights can reduce visibility, making it difficult to see the road ahead, and potentially leading to accidents.",
+      "symptoms": [
+        "Headlights are not adjusted properly",
+        "difficulty seeing while driving at night",
+        "headlight beams are not aligned correctly."
+      ],
+      "odiNumbers": [
+        "759344",
+        "757132",
+        "897050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

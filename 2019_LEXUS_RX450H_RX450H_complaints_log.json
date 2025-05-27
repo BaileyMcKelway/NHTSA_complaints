@@ -1,0 +1,209 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Actuator Failure",
+      "impact": "The failure of the brake actuator can cause unusual noises, vibrations, and soft brake pedals, which can lead to reduced braking performance and increased stopping distances, potentially causing accidents.",
+      "symptoms": [
+        "Noise when pressing the brake pedal",
+        "vibrations when driving downhill with adaptive cruise control",
+        "soft brake pedal",
+        "brake pedal needs to be pushed further to achieve braking."
+      ],
+      "odiNumbers": [
+        "11557753",
+        "11524511",
+        "11318819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brake pedal to go to the floorboard, leading to loss of braking control, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal goes to the floorboard",
+        "failure to respond to brake pedal input",
+        "emergency brake failure to engage."
+      ],
+      "odiNumbers": [
+        "11435037"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "Vehicle accelerates unexpectedly",
+        "loss of control",
+        "airbag deployment."
+      ],
+      "odiNumbers": [
+        "11521927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Adaptive Cruise Control (ACC) and Brake System Interaction",
+      "impact": "The interaction between the ACC and brake system can cause vibrations, noise, and reduced braking performance, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Vibrations when driving downhill with ACC",
+        "noise when pressing the brake pedal",
+        "ACC applies brakes to slow down",
+        "but brakes seem normal when ACC is turned off."
+      ],
+      "odiNumbers": [
+        "11524511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause delayed or inadequate braking response, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Noise issues",
+        "delayed or disproportionate braking response",
+        "lack of warning lights",
+        "and traction control not engaging."
+      ],
+      "odiNumbers": [
+        "11591735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden acceleration without driver input",
+        "failure of automatic emergency braking",
+        "and no system warning lamps visible prior to the episode."
+      ],
+      "odiNumbers": [
+        "11556298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause loss of power, stumbling, and lurching, which can lead to accidents or injuries, especially in traffic.",
+      "symptoms": [
+        "Check engine light comes on",
+        "warning indicators for electrical system failure",
+        "loss of power",
+        "stumbling",
+        "and lurching."
+      ],
+      "odiNumbers": [
+        "11424669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rodent Damage to Electrical Wires",
+      "impact": "Rodent damage to electrical wires can cause electrical system failure, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Electrical system failure",
+        "rodent damage to soy-based electrical wires",
+        "and sudden failure of the vehicle's electrical systems."
+      ],
+      "odiNumbers": [
+        "11172657"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to lose motive power, stall, or experience irregular acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power while driving",
+        "the vehicle stalls",
+        "the engine light turns on",
+        "the \"TRAC OFF\" message appears",
+        "the vehicle experiences irregular acceleration",
+        "the vehicle thumps or humps when accelerating",
+        "the vehicle shakes when accelerating."
+      ],
+      "odiNumbers": [
+        "11429906",
+        "11426584",
+        "11424232",
+        "11422345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort, distraction, and potentially lead to heat-related illnesses, especially for vulnerable passengers such as babies or older adults, while driving in hot weather conditions.",
+      "symptoms": [
+        "The air conditioning stops blowing cool air",
+        "the air becomes warmer",
+        "and there is no way to adjust the air volume or temperature; condensation in the footwell",
+        "black mold in the carpet and footwell insulation."
+      ],
+      "odiNumbers": [
+        "11579882",
+        "11486149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioning Drainage System Malfunction",
+      "impact": "The malfunction of the air conditioning drainage system can cause water accumulation, leading to mold growth, unpleasant odors, and damage to the vehicle's interior, which can be costly to repair.",
+      "symptoms": [
+        "Condensation in the footwell",
+        "black mold in the carpet and footwell insulation",
+        "clogged AC drainage line."
+      ],
+      "odiNumbers": [
+        "11486149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Navigation System Glitch",
+      "impact": "The malfunction of the navigation system can cause distraction, confusion, and potentially lead to accidents or getting lost, especially when relying on the system for directions.",
+      "symptoms": [
+        "The navigation system randomly marks places of interest without driver input",
+        "cancels navigation information",
+        "provides incorrect directions."
+      ],
+      "odiNumbers": [
+        "11441151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

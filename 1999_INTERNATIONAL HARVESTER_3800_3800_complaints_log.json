@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Overheating and Warping",
+      "impact": "Overheating front brakes can cause warping of rotors, excessive drag, and damage to ABS sensors, leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "Front brakes overheating",
+        "warped rotors",
+        "excessive drag on front brakes",
+        "ABS sensor damage",
+        "intermittent ABS light on the dashboard."
+      ],
+      "odiNumbers": [
+        "10032452",
+        "10031910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Overheating",
+      "impact": "Overheating rear brakes can cause reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "Rear brakes overheating",
+        "no brake drag found by mechanic."
+      ],
+      "odiNumbers": [
+        "10031908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent ABS Light and System Failure",
+      "impact": "An intermittent ABS light can indicate a malfunctioning anti-lock brake system, which can lead to reduced braking performance and increased stopping distances, increasing the risk of accidents.",
+      "symptoms": [
+        "Intermittent ABS light on the dashboard",
+        "indicating the anti-lock brake system is not functioning."
+      ],
+      "odiNumbers": [
+        "755207",
+        "755220",
+        "755221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Instrument Panel Gauge Failure",
+      "impact": "The intermittent failure of the instrument panel gauges can cause the driver to lose critical information about the vehicle's speed, fuel level, and other vital systems, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The gauges on the instrument panel fail to function intermittently",
+        "the speedometer",
+        "fuel gauge",
+        "or other gauges may not work properly",
+        "the gauges may malfunction while the vehicle is in motion or at a stop",
+        "the failure may occur randomly with no apparent pattern."
+      ],
+      "odiNumbers": [
+        "10234962",
+        "10234961",
+        "10048398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

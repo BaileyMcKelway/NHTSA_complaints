@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut off while driving, leading to a loss of power, including brakes, steering, and airbags, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Warning lights or messages appear on the dashboard",
+        "including \"Electrical Malfunction\" or \"Stop Vehicle",
+        "\" followed by a complete loss of power",
+        "including engine shut-off",
+        "loss of brakes",
+        "steering",
+        "and airbags."
+      ],
+      "odiNumbers": [
+        "11592205",
+        "11584456",
+        "11563287",
+        "11561563",
+        "11505771",
+        "11497328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Forward Collision Warning System Malfunction",
+      "impact": "The malfunction of the Forward Collision Warning system can cause the vehicle to brake suddenly without warning, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The Forward Collision Warning system activates without any apparent reason",
+        "causing concern that the vehicle may brake suddenly without warning."
+      ],
+      "odiNumbers": [
+        "11560590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Pump and Fuse Issue",
+      "impact": "The malfunction of the portable air pump can cause the fuse to blow, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The portable air pump blows the fuse to the 12V cigarette lighter",
+        "requiring frequent replacement of fuses."
+      ],
+      "odiNumbers": [
+        "11384175"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Squeaking",
+      "impact": "The squeaking of the rear brakes can be a nuisance and may indicate a potential safety issue.",
+      "symptoms": [
+        "The rear brakes squeak when backing up",
+        "especially during cold or hot temperatures."
+      ],
+      "odiNumbers": [
+        "11384175"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Recall Parts Availability Issue",
+      "impact": "The unavailability of parts for the fuel system recall can lead to delays in repairing the vehicle, potentially causing safety risks and inconvenience to the owner.",
+      "symptoms": [
+        "Owners receive notification of the recall but are informed by dealers that parts are on backorder",
+        "preventing them from having the necessary repairs made."
+      ],
+      "odiNumbers": [
+        "11500134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Adaptive Cruise Control Behavior",
+      "impact": "The malfunctioning adaptive cruise control system can cause sudden and unexpected braking, which can lead to accidents, especially on high-speed roads, and create a hazardous situation for the driver and surrounding vehicles.",
+      "symptoms": [
+        "The vehicle's cruise control system suddenly and automatically adjusts speed to the speed limit of a cross street or intersection",
+        "even when the vehicle is traveling at a different speed",
+        "resulting in sudden braking or acceleration."
+      ],
+      "odiNumbers": [
+        "11400113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inability to Disable Adaptive Cruise Control",
+      "impact": "The inability to turn off the adaptive cruise control system can lead to a loss of control over the vehicle's speed, potentially causing accidents or near-misses, especially in situations where the system is malfunctioning.",
+      "symptoms": [
+        "The adaptive cruise control system cannot be disabled or turned off",
+        "even when the driver wants to regain manual control over the vehicle's speed."
+      ],
+      "odiNumbers": [
+        "11400113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Tension Spring Failure",
+      "impact": "The failure of the seat belt tension springs can cause the seat belts to remain loose, which can lead to inadequate protection in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belts do not retract or lock-up properly",
+        "the seat belts remain slack",
+        "the seat belts do not tighten automatically",
+        "the seat belts require manual adjustment to remove slack",
+        "the seat belts do not function correctly."
+      ],
+      "odiNumbers": [
+        "10185731",
+        "10163739",
+        "10162753",
+        "10161887",
+        "10158508",
+        "10155100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transfer Case Failure",
+      "impact": "The failure of the transfer case can cause the wheels to lock, leading to a loss of control and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The wheels lock",
+        "the vehicle slides to a stop",
+        "the vehicle feels like it has been rear-ended."
+      ],
+      "odiNumbers": [
+        "10206014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Poor Syncro Design in Reverse Gear",
+      "impact": "The poor syncro design in reverse gear can cause grinding noises, leading to premature wear and potential failure of the transmission components.",
+      "symptoms": [
+        "Grinding noises when reversing",
+        "poor transmission performance."
+      ],
+      "odiNumbers": [
+        "760938"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Engine Transfer Issue in Crank Case",
+      "impact": "The failure of the oil engine transfer system can cause the engine to lack sufficient oil lubrication, leading to premature wear, damage, and potentially catastrophic engine failure, which can result in costly repairs, accidents, or even engine seizure.",
+      "symptoms": [
+        "Engine oil drains back into the oil pan",
+        "engine lacks oil lubrication",
+        "engine noise or knocking sounds",
+        "difficulty starting the engine",
+        "engine stalling or failure."
+      ],
+      "odiNumbers": [
+        "10871210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

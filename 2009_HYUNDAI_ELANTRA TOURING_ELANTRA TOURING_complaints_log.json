@@ -1,0 +1,215 @@
+{
+  "totalComplaints": 266,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause the loss of power steering assist, making it difficult or impossible to steer the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The EPS warning light is illuminated",
+        "the steering wheel becomes difficult to turn or feels loose",
+        "the vehicle is hard to steer",
+        "the power steering assist fails",
+        "the steering wheel jerks or pulls to one side",
+        "the vehicle is unable to make turns",
+        "the steering column has excessive play."
+      ],
+      "odiNumbers": [
+        "11574834",
+        "11573185",
+        "11561035",
+        "11552733",
+        "11552342",
+        "11550968",
+        "11544023",
+        "11535613",
+        "11533888",
+        "11517443",
+        "11508932",
+        "11493069",
+        "11485191",
+        "11483677",
+        "11479135",
+        "11476333",
+        "11469235",
+        "11461361",
+        "11451005",
+        "11443534",
+        "11428755",
+        "11428762",
+        "11422176",
+        "11418767",
+        "11408138",
+        "11404454",
+        "11395888",
+        "11390894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light on the dashboard stays illuminated",
+        "the passenger airbag light fails to illuminate",
+        "the airbag deploys unexpectedly",
+        "or the airbag fails to deploy in an accident."
+      ],
+      "odiNumbers": [
+        "11590750",
+        "11582091",
+        "11506466",
+        "11503090",
+        "11483583",
+        "11480165",
+        "11440160",
+        "11398287",
+        "11366404",
+        "11323502",
+        "11289997",
+        "11282481",
+        "11255854",
+        "11243314",
+        "11222819",
+        "11155603",
+        "11115577",
+        "11114694",
+        "11058540",
+        "11040316",
+        "11018690",
+        "10990695",
+        "10927565",
+        "10896125",
+        "10874472",
+        "10850169",
+        "10820497",
+        "10736089",
+        "10733056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Uncommanded Airbag Deployment",
+      "impact": "The unexpected deployment of airbags can cause accidents, injuries, or fatalities, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "The airbag deploys without any apparent reason",
+        "such as a collision or impact."
+      ],
+      "odiNumbers": [
+        "11483583",
+        "10896125",
+        "11114694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of airbag sensors can prevent the airbags from deploying in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light on the dashboard stays illuminated",
+        "the passenger airbag light fails to illuminate",
+        "or the airbag fails to deploy in an accident."
+      ],
+      "odiNumbers": [
+        "11506466",
+        "11483583",
+        "11243314",
+        "10874472",
+        "10850169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or injuries.",
+      "symptoms": [
+        "Soft or spongy brake pedal",
+        "brake pedal sticks to the floor",
+        "brake lights on the instrument panel",
+        "ABS lights on the instrument panel",
+        "smoking or burning smell from the brakes."
+      ],
+      "odiNumbers": [
+        "11584866",
+        "11416595",
+        "10424186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can cause the airbags to deploy unexpectedly or not deploy at all in the event of a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light on the dashboard",
+        "passenger seat weight classification sensor failure",
+        "airbag system shutdown",
+        "no airbag deployment in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11165660",
+        "10733106",
+        "10712599",
+        "10649697",
+        "10577621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fires, loss of vehicle control, or other safety hazards.",
+      "symptoms": [
+        "Smoking or burning smell from the vehicle",
+        "electrical shorts",
+        "blown fuses",
+        "malfunctioning lights",
+        "alarm system malfunctions."
+      ],
+      "odiNumbers": [
+        "11162908",
+        "11140848",
+        "10819930",
+        "10704919",
+        "10692433",
+        "10507155",
+        "10406398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction or stability, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS lights on the instrument panel",
+        "smoking or burning smell from the brakes",
+        "brake pedal pulsation or vibration."
+      ],
+      "odiNumbers": [
+        "11308683",
+        "10373388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

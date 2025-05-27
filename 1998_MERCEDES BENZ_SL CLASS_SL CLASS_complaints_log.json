@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Vacuum Booster Failure",
+      "impact": "The failure of the brake system vacuum booster can cause a loss of braking power, leading to increased stopping distances and potentially causing accidents.",
+      "symptoms": [
+        "Hissing noise when the brakes are applied",
+        "grinding and squeaking sounds when braking."
+      ],
+      "odiNumbers": [
+        "10011478",
+        "608018",
+        "539699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Connection Failure",
+      "impact": "The failure of electrical connections can cause a range of issues, including malfunctioning accessories, warning lights, and engine performance problems.",
+      "symptoms": [
+        "Phone not working",
+        "check engine light coming on",
+        "low fuel light blinking",
+        "door locks malfunctioning."
+      ],
+      "odiNumbers": [
+        "539699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Sending Unit Failure",
+      "impact": "The failure of the fuel sending unit can cause inaccurate fuel level readings, leading to unexpected fuel exhaustion, engine stalling, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The fuel gauge is not accurate",
+        "the fuel level reading is inconsistent",
+        "the fuel gauge is stuck on empty",
+        "the fuel gauge is stuck on full",
+        "the vehicle runs out of fuel unexpectedly."
+      ],
+      "odiNumbers": [
+        "609610",
+        "609631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or hesitates",
+        "the vehicle loses power",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump is not priming properly",
+        "the vehicle is difficult to start."
+      ],
+      "odiNumbers": [
+        "607968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Suspension Pressure Cell Failure",
+      "impact": "The failure of the front suspension pressure cells can cause excessive and dangerous bouncing of the front end, leading to loss of vehicle control, accidents, and potential injuries.",
+      "symptoms": [
+        "Excessive and dangerous bouncing of the front end",
+        "uneven ride",
+        "unstable vehicle handling."
+      ],
+      "odiNumbers": [
+        "10272355",
+        "539699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure - Heating, A/C, and Radio",
+      "impact": "The failure of the electrical system can cause the heating, air conditioning, and radio systems to malfunction, leading to discomfort and distraction while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "The heating",
+        "air conditioning",
+        "or radio systems do not function properly",
+        "the systems malfunction intermittently",
+        "the systems fail to turn on or off",
+        "unusual noises or odors are present",
+        "the dashboard lights or controls are inoperable."
+      ],
+      "odiNumbers": [
+        "609470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Window Regulator Failure",
+      "impact": "The failure of the window regulator can cause the windows to malfunction, leading to noise, vibration, and distraction while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "The windows squeak or chatter when rolled up or down",
+        "the windows do not roll up or down smoothly",
+        "the windows are difficult to operate",
+        "the windows are stuck in an open or closed position."
+      ],
+      "odiNumbers": [
+        "539699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "STEERING",
+    "STRUCTURE",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the radiator can cause engine overheating, leading to engine damage, stalling, or even engine fires, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the coolant level is low",
+        "the engine is overheating",
+        "the vehicle is stalling or shutting down",
+        "steam or smoke is coming from the hood."
+      ],
+      "odiNumbers": [
+        "548652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Thermostat Failure",
+      "impact": "The failure of the thermostat can cause engine overheating or overcooling, leading to engine damage, stalling, or decreased fuel efficiency, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the engine is overheating or overcooling",
+        "the vehicle is stalling or shutting down",
+        "the engine is running rough or misfiring."
+      ],
+      "odiNumbers": [
+        "548652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause damage to the vehicle, injuries, or even fatalities, and can occur suddenly and without warning.",
+      "symptoms": [
+        "Flames or smoke are coming from the engine compartment",
+        "the vehicle is experiencing a loss of power or stalling",
+        "the engine is making unusual noises or smells."
+      ],
+      "odiNumbers": [
+        "507468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "MAP Sensor Failure",
+      "impact": "The failure of the MAP sensor can cause issues with engine performance, leading to stalling, decreased fuel efficiency, or decreased engine power, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine is stalling or running rough",
+        "the vehicle is experiencing a loss of power or hesitation",
+        "the check engine light is illuminated",
+        "the engine is misfiring or having trouble starting."
+      ],
+      "odiNumbers": [
+        "548652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rack & Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering can cause loss of control of the vehicle, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The steering feels loose or wobbly",
+        "the steering wheel/column has excessive play",
+        "the vehicle is difficult to steer",
+        "the rack and pinion steering needs to be replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "520192",
+        "973336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tilt Steering Column Failure",
+      "impact": "The failure of the tilt steering column can cause loss of control of the vehicle, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The steering column has excessive play",
+        "the steering wheel/column has an excessive wobble",
+        "the bearings inside the steering column become loose."
+      ],
+      "odiNumbers": [
+        "800405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Seatbelt Issues",
+      "impact": "The short rear seatbelts can cause injuries or fatalities in the event of an accident, as they may not provide adequate restraint for adult passengers.",
+      "symptoms": [
+        "The rear seatbelts are too short",
+        "the buckle on the driver's side comes apart."
+      ],
+      "odiNumbers": [
+        "973336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cold Power Steering Issues",
+      "impact": "The cold power steering issue can cause difficulty steering the vehicle, especially at low speeds, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering is difficult to use when the engine is cold",
+        "the steering feels stiff or heavy."
+      ],
+      "odiNumbers": [
+        "471549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cradle Failure",
+      "impact": "The failure of the engine cradle can cause the control arm to crack, leading to uneven tire wear, loss of vehicle control, and potentially fatal accidents.",
+      "symptoms": [
+        "Cracked engine cradle",
+        "uneven tire wear",
+        "separation of bolts",
+        "frame damage",
+        "and engine wear."
+      ],
+      "odiNumbers": [
+        "10061825",
+        "10062917",
+        "961237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration (SUA)",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "often when shifting into gear or when the vehicle is stationary",
+        "resulting in unexpected and uncontrolled movement."
+      ],
+      "odiNumbers": [
+        "548652",
+        "829173",
+        "973122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure (Rear Brake Locking and Vehicle Spin)",
+      "impact": "The failure of the brake system can cause the rear wheels to lock, leading to loss of control, spinning, and potential accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Rear brake locking",
+        "vehicle spinning",
+        "hard braking",
+        "brake fluid leakage inside the vehicle",
+        "brake pedal feels hard",
+        "and requiring excessive force to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "702270",
+        "830485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Fluid Leakage",
+      "impact": "Brake fluid leakage can cause the brake system to malfunction, leading to reduced braking performance, increased stopping distances, and potential accidents.",
+      "symptoms": [
+        "Brake fluid leakage inside the vehicle",
+        "brake pedal feels hard",
+        "and requiring excessive force to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "830485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Brake System Failure (Secondary Pump Failure)",
+      "impact": "The failure of the power brake system can cause the vehicle to lose braking power, leading to increased stopping distances and potential accidents.",
+      "symptoms": [
+        "Brake pedal feels hard",
+        "and requiring excessive force to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "505874"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "LATCHES/LOCKS/LINKAGES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exterior Lighting Failure",
+      "impact": "The failure of exterior lights, including brake lights, running lights, and tail lights, can reduce the visibility of the vehicle, especially at night or in low-light conditions, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "Brake lights do not illuminate",
+        "running lights do not illuminate",
+        "tail lights do not illuminate",
+        "dim or flickering lights",
+        "failure of individual light bulbs."
+      ],
+      "odiNumbers": [
+        "605427",
+        "600362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Door Lock Design",
+      "impact": "The door lock design can cause inconvenience and potentially lead to safety issues, as doors can only be unlocked by opening a door, making it difficult to exit the vehicle in emergency situations.",
+      "symptoms": [
+        "Doors can only be unlocked by opening a door",
+        "unable to unlock doors remotely or using the central locking system."
+      ],
+      "odiNumbers": [
+        "503651",
+        "503654"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Wiring Failure",
+      "impact": "The failure of the electrical wiring can cause a range of issues, including faulty electrical systems, engine stalling, and increased risk of electrical fires, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences electrical system malfunctions",
+        "the engine stalls or dies",
+        "the vehicle's lights or accessories malfunction",
+        "the vehicle's warning lights or alarms activate",
+        "the vehicle's electrical systems fail."
+      ],
+      "odiNumbers": [
+        "567089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

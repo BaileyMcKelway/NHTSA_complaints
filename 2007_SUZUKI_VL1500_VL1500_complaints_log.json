@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stator Failure",
+      "impact": "The failure of the stator can cause the motorcycle to lose power, stall, or become uncontrollable, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine sputtering",
+        "gauges moving sporadically",
+        "engine backfiring",
+        "vehicle dying and being able to be restarted",
+        "loss of power and regaining full power intermittently."
+      ],
+      "odiNumbers": [
+        "11515235",
+        "10427102",
+        "10424426",
+        "10421045",
+        "10420818",
+        "10419925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Steering Head Bearings",
+      "impact": "The failure of the steering head bearings can cause the front wheel to wobble violently, leading to a loss of control and increased risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The front wheel wobbles or shakes violently",
+        "the handlebars vibrate or shake from side to side",
+        "the motorcycle is difficult to control or steer",
+        "the rider experiences a loss of confidence or safety while riding."
+      ],
+      "odiNumbers": [
+        "10443722",
+        "10420836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Rotor Rivet Failure",
+      "impact": "The failure of the rear rotor rivets can cause the rotor to work its way loose, leading to a loss of braking power, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The rear rotor becomes loose",
+        "the rear rotor rivets come loose",
+        "the rear rotor fails",
+        "the vehicle experiences reduced braking power",
+        "the vehicle is difficult to control",
+        "especially during turns or when braking."
+      ],
+      "odiNumbers": [
+        "10421049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "WHEELS",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the accelerator pedal gets stuck down",
+        "the vehicle surges forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "10957304",
+        "10187370",
+        "10064603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Throttle Cable or Accelerator Pedal Assembly",
+      "impact": "A faulty throttle cable or accelerator pedal assembly can cause unintended acceleration, making it difficult for the driver to control the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The accelerator pedal gets stuck down",
+        "the vehicle surges forward unexpectedly",
+        "the throttle cable is damaged or malfunctioning."
+      ],
+      "odiNumbers": [
+        "10187370",
+        "10064603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clogged A/C Condenser Drain Hose",
+      "impact": "A clogged A/C condenser drain hose can cause water to overflow onto the Engine Control Unit (ECU), leading to unpredictable and dangerous behavior, such as stalling, loss of electrical systems, and reduced speed, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "electrical systems (lights",
+        "stereo",
+        "etc.) turn off and on randomly",
+        "the vehicle reduces speed ignoring accelerator position",
+        "and the passenger floor becomes wet."
+      ],
+      "odiNumbers": [
+        "10809846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lug Nut Failure",
+      "impact": "The failure of lug nuts can cause the wheel to come loose while driving, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Lug nuts are missing",
+        "lug nuts shear off the bolt",
+        "wheels come loose while driving",
+        "unusual noises or vibrations while driving."
+      ],
+      "odiNumbers": [
+        "10283299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Seal Failure and Related Issues",
+      "impact": "The failure of transmission seals and related components can cause the transmission to malfunction, leading to loss of power, stalling, and potentially causing accidents. The repeated failures and repairs can also lead to a significant financial burden and inconvenience for the vehicle owner.",
+      "symptoms": [
+        "Transmission seal failure",
+        "repeated replacement of shift cables and seals",
+        "transmission malfunction",
+        "roaring or whistling sounds from the transmission",
+        "check engine light illumination",
+        "AC compressor malfunction",
+        "vehicle stalling or stopping suddenly",
+        "especially at high speeds."
+      ],
+      "odiNumbers": [
+        "10208365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Malfunction and Stalling",
+      "impact": "The malfunction of the transmission can cause the vehicle to stall or lose power, especially at high speeds, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission malfunction",
+        "vehicle stalling or stopping suddenly",
+        "especially at high speeds",
+        "loss of power",
+        "roaring or whistling sounds from the transmission",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "10208365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Wear and Unintended Brake Engagement",
+      "impact": "Premature brake wear can lead to reduced stopping power, increasing the risk of accidents, and unintended brake engagement can cause the vehicle to slow or stop unexpectedly, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Emergency brake light comes on",
+        "brakes wear down excessively",
+        "vehicle does not accelerate as expected",
+        "feeling of brakes being engaged while driving."
+      ],
+      "odiNumbers": [
+        "10125380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dealer Misdiagnosis and Warranty Denial",
+      "impact": "Dealership misdiagnosis and warranty denial can lead to delayed or lack of necessary repairs, potentially causing further damage to the vehicle and putting the driver's safety at risk.",
+      "symptoms": [
+        "Dealer refuses to repair issue under warranty",
+        "dealer blames driver for problem",
+        "dealer provides inadequate diagnosis or explanation for issue."
+      ],
+      "odiNumbers": [
+        "10125380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

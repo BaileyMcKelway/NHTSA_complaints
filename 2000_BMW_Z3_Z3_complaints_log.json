@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 41,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, damage to the vehicle, and potentially lead to accidents.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbag warning lights are illuminated",
+        "airbags deploy while the vehicle is parked or stationary."
+      ],
+      "odiNumbers": [
+        "11354641",
+        "11348677",
+        "11316436",
+        "10246665",
+        "10048281",
+        "767390",
+        "764970",
+        "745500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbag warning lights are illuminated",
+        "seat belt tensioner faults."
+      ],
+      "odiNumbers": [
+        "11111226",
+        "11102371",
+        "10360272",
+        "891756",
+        "10112682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Airbag system malfunctions can cause unintended airbag deployments, failure of airbags to deploy, or false warnings, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Airbag warning lights are illuminated",
+        "airbag system faults",
+        "seat belt tensioner faults",
+        "airbag deployments without a crash or impact."
+      ],
+      "odiNumbers": [
+        "11018864",
+        "10061995",
+        "767945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Subframe Suspension Weld Bolt Failure",
+      "impact": "The failure of the rear subframe suspension weld bolts can cause the subframe to tear apart from the frame, leading to a loss of structural integrity, which can result in accidents or injuries.",
+      "symptoms": [
+        "Creaking or unusual noises from the rear of the vehicle",
+        "visible cracks or tears in the floor pan or body metal around the differential mount",
+        "vibration in the back wheels."
+      ],
+      "odiNumbers": [
+        "11553671",
+        "11383581",
+        "10433570",
+        "763483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

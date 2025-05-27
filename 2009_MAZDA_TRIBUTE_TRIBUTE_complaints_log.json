@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to maneuver, making it hard to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the power steering assist fails to operate",
+        "the steering wheel vibrates or clunks",
+        "the vehicle is hard to steer",
+        "the power steering warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11566885",
+        "11500777",
+        "11455916",
+        "11449558",
+        "11447600",
+        "11430710",
+        "11319462",
+        "11289149",
+        "11256394",
+        "11241068",
+        "11175960",
+        "11171675",
+        "11078894",
+        "11073164",
+        "10947925",
+        "10945458",
+        "10836628",
+        "10608377",
+        "10595034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, leading to accidents, injuries, and potentially fatalities.",
+      "symptoms": [
+        "The brakes fail to stop the vehicle",
+        "the vehicle jerks forward and swerves before coming to a stop",
+        "the brake pedal feels spongy or soft",
+        "the brakes make a squeaking noise."
+      ],
+      "odiNumbers": [
+        "11160560",
+        "10837849",
+        "10335469"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Control Module Failure",
+      "impact": "The failure of the ABS control module can cause the brakes to malfunction, leading to loss of control and accidents.",
+      "symptoms": [
+        "The vehicle jerks forward and swerves before coming to a stop",
+        "the brake pedal feels spongy or soft",
+        "the brakes make a squeaking noise",
+        "the engine light stays on due to a gas cap error (even though the vehicle has a cap-less tank)."
+      ],
+      "odiNumbers": [
+        "11160560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose control, leading to accidents, injuries, and potentially fatalities.",
+      "symptoms": [
+        "The brake pedal feels spongy or soft",
+        "the brakes fail to stop the vehicle",
+        "the vehicle jerks forward and swerves before coming to a stop."
+      ],
+      "odiNumbers": [
+        "10837849",
+        "10335469"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Angle Sensor Failure",
+      "impact": "The failure of the steering angle sensor can cause the vehicle to lock up, preventing acceleration and steering, which can lead to accidents or leave the driver stranded in traffic.",
+      "symptoms": [
+        "The vehicle accelerates the engine but does not move",
+        "the steering wheel locks up",
+        "the vehicle turns on in the middle of traffic without warning."
+      ],
+      "odiNumbers": [
+        "11486133"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle Body Failure",
+      "impact": "The failure of the electronic throttle body can cause the vehicle to go into limp mode, resulting in a loss of power while traveling at any speed, which can be dangerous for the driver and passengers.",
+      "symptoms": [
+        "The vehicle goes into limp mode",
+        "the vehicle loses all power while traveling at any speed",
+        "the throttle body is considered closed by the SUV's computer despite being clean and functioning properly."
+      ],
+      "odiNumbers": [
+        "10873842"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

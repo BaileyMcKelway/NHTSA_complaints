@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "ELECTRONIC STABILITY CONTROL",
+    "WHEELS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Speed Sensor Failure",
+      "impact": "The failure of the wheel speed sensor can cause increased braking distance, affecting the ABS brakes, and potentially leading to accidents. Additionally, it can affect the cruise control, causing unintended acceleration, and the ESP, increasing the risk of skidding and accidents.",
+      "symptoms": [
+        "Increased braking distance",
+        "unintended acceleration",
+        "loss of cruise control",
+        "and increased risk of skidding."
+      ],
+      "odiNumbers": [
+        "11508752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Acid Leak Due to Internal Pressure",
+      "impact": "The acid leak from the battery can cause a hazardous situation, potentially leading to respiratory issues, eye irritation, and headaches for occupants. It can also lead to electrical system failures, causing the vehicle to stall or become inoperable.",
+      "symptoms": [
+        "Abnormal sulfur odor coming from the engine",
+        "acid leak from the battery",
+        "burning eyes",
+        "headaches."
+      ],
+      "odiNumbers": [
+        "11466047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Stability Control (ESC) System Failure",
+      "impact": "The failure of the Electronic Stability Control (ESC) system can cause the vehicle to lose traction and stability, increasing the risk of accidents, especially at high speeds or in adverse weather conditions.",
+      "symptoms": [
+        "Illumination of the ABS",
+        "check engine",
+        "and cruise control warning lights",
+        "loss of traction",
+        "loss of stability",
+        "vehicle drift or skid."
+      ],
+      "odiNumbers": [
+        "11440922"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Misrepresentation of Tire Pressure Monitoring System (TPMS) Feature",
+      "impact": "The misrepresentation of the TPMS feature can lead to a false sense of security, potentially causing drivers to neglect checking tire pressure, which can result in tire failure, accidents, and safety risks, especially for vehicles converted to RVs or carrying multiple passengers.",
+      "symptoms": [
+        "The vehicle's window sticker and owner's manual indicate the presence of a TPMS",
+        "but the vehicle does not have the feature",
+        "leading to a lack of low tire pressure warning lamp indicator on the dashboard."
+      ],
+      "odiNumbers": [
+        "11440080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Steering and Electronic Stability Control",
+      "impact": "The delay in recall repair for the steering and electronic stability control systems can increase the risk of accidents, injuries, and fatalities due to potential loss of vehicle control.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in recall repair rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "11434749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

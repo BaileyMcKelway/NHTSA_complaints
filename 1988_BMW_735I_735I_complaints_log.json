@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SEATS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to damage to the engine and other components, and potentially causing a loss of vehicle control or an accident.",
+      "symptoms": [
+        "Antifreeze odor coming from the vents",
+        "film build-up of antifreeze on the front glass",
+        "engine overheating",
+        "radiator cap failure",
+        "radiator failure."
+      ],
+      "odiNumbers": [
+        "10253562",
+        "884581",
+        "878934",
+        "551420",
+        "542449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Frame Failure",
+      "impact": "The failure of the seat frame can cause the seat to tilt or move unexpectedly, which can lead to driver distraction, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The driver and/or passenger seat tilts or moves unexpectedly",
+        "the seat feels unstable or loose",
+        "the seat does not stay in its adjusted position."
+      ],
+      "odiNumbers": [
+        "549223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tail Light Assembly Failure",
+      "impact": "The failure of the tail light assembly can reduce the vehicle's visibility to other drivers, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The tail lights do not function",
+        "the tail lights are dim or flickering",
+        "the tail lights are completely dark",
+        "the turn signals do not function."
+      ],
+      "odiNumbers": [
+        "716228",
+        "540576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Solder Point Failure in Tail Light Assembly",
+      "impact": "The failure of the solder points in the tail light assembly can cause the tail lights to malfunction, reducing the vehicle's visibility to other drivers and increasing the risk of accidents.",
+      "symptoms": [
+        "The tail lights do not function",
+        "the tail lights are dim or flickering",
+        "the tail lights are completely dark",
+        "the turn signals do not function."
+      ],
+      "odiNumbers": [
+        "716228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

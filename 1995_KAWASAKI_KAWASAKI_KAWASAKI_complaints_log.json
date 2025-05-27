@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Overheating and Stalling",
+      "impact": "Engine overheating can cause damage to engine components, leading to costly repairs, and stalling can increase the risk of accidents, especially when driving on highways.",
+      "symptoms": [
+        "Engine temperature gauge rises above normal",
+        "engine stalls or shuts off without warning",
+        "engine hesitation or loss of power",
+        "coolant leaks or low coolant levels."
+      ],
+      "odiNumbers": [
+        "546374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cylinder Failure",
+      "impact": "Cylinder failure can cause engine damage, leading to costly repairs, and can also cause the engine to stall or lose power, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine misfires",
+        "engine hesitation or loss of power",
+        "oil leaks or low oil pressure",
+        "engine noise or knocking sounds."
+      ],
+      "odiNumbers": [
+        "601467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Cam Tensioner Failure",
+      "impact": "Cam tensioner failure can cause engine damage, leading to costly repairs, and can also cause the engine to stall or lose power, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine noise or tapping sounds",
+        "engine hesitation or loss of power",
+        "oil leaks or low oil pressure",
+        "engine misfires."
+      ],
+      "odiNumbers": [
+        "601467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Restrictions",
+      "impact": "Restrictions in the fuel system can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine hesitates or misfires",
+        "the fuel line breather tube is blocked",
+        "the fuel line is clogged",
+        "the vehicle has difficulty starting."
+      ],
+      "odiNumbers": [
+        "601467",
+        "546374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Light Sensor Failure",
+      "impact": "The failure of the brake light sensor can cause the brake lights to stay on continuously, leading to confusion for other drivers and potentially causing accidents.",
+      "symptoms": [
+        "The brake lights remain on even when the brake pedal is not pressed",
+        "the brake lights do not turn off after the brake pedal is released."
+      ],
+      "odiNumbers": [
+        "527840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headlight Failure",
+      "impact": "The failure of the headlights can cause poor visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "One or both headlights do not turn on",
+        "headlights are dim or flickering",
+        "headlights have a reduced beam pattern."
+      ],
+      "odiNumbers": [
+        "527840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

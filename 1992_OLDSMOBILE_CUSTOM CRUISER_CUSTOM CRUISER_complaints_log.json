@@ -1,0 +1,181 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to inadequate restraint in the event of an accident, which can result in serious injury or fatality.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt becomes twisted and cannot be retracted",
+        "the seat belt strap catches in the seat back hinge and becomes damaged",
+        "the seat belt breaks or falls apart",
+        "the retractor casing falls apart."
+      ],
+      "odiNumbers": [
+        "702962",
+        "980688",
+        "484254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Damage due to Seat Mechanism",
+      "impact": "The design of the rear seat folding mechanism can cause damage to the seat belt, leading to a malfunction and increasing the risk of injury in the event of an accident.",
+      "symptoms": [
+        "The seat belt is cut or damaged by the seat folding mechanism",
+        "the seat belt breaks or fails due to the seat mechanism."
+      ],
+      "odiNumbers": [
+        "802738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Seat Belt Maintenance Information",
+      "impact": "The lack of clear instructions on seat belt maintenance and inspection in the owner's manual can lead to neglect of regular checks, increasing the risk of seat belt failure.",
+      "symptoms": [
+        "The owner's manual does not provide instructions on seat belt maintenance and inspection",
+        "the owner is unaware of the need for regular seat belt checks."
+      ],
+      "odiNumbers": [
+        "702962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Bracket Failure",
+      "impact": "The failure of the brake line bracket can cause a loss of brake fluid, leading to a failure of the braking system, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake fluid leakage",
+        "loss of braking power."
+      ],
+      "odiNumbers": [
+        "10044947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Brake Pressure Modulator Valve Failure",
+      "impact": "The failure of the ABS brake pressure modulator valve can cause the brake pedal to go to the floor, leading to a loss of braking power, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake fluid leakage",
+        "loss of braking power."
+      ],
+      "odiNumbers": [
+        "536224",
+        "809817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause a loss of braking power, leading to an increased risk of accidents.",
+      "symptoms": [
+        "Anti-lock brakes fail",
+        "loss of braking power",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "515190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Module Failure",
+      "impact": "The failure of the hydraulic module can cause a loss of brake fluid, leading to a failure of the braking system, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake fluid leakage",
+        "loss of braking power."
+      ],
+      "odiNumbers": [
+        "809817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Missing or Incorrectly Labeled Fuse",
+      "impact": "The absence of a fuse or incorrect labeling can lead to electrical system malfunctions, potentially causing fires, short circuits, or other safety hazards.",
+      "symptoms": [
+        "Fuse panel indicates a 30AMP fuse for the heater blower",
+        "but the fuse is missing; confusion about the location of the fuse."
+      ],
+      "odiNumbers": [
+        "10056420"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Short Circuit Causing Fire",
+      "impact": "Electrical short circuits can cause fires, which can lead to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Power seats and locks fail; short circuit causes fire in the front passenger seat",
+        "destroying the interior; excessive smoke inside the vehicle",
+        "making it undrivable."
+      ],
+      "odiNumbers": [
+        "531231",
+        "964074"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Retractable Seat Belt Failure due to Spring Breakage",
+      "impact": "The failure of the small spring (resembling a clock spring) in the retractable seat belt mechanism can cause the driver's front and front/rear seat/passenger retractable housing to become inoperative, potentially leading to injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not retract",
+        "the seat belt housing becomes stuck",
+        "the seat belt is unable to be pulled out or retracted."
+      ],
+      "odiNumbers": [
+        "819281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Collapse and Airbag Failure",
+      "impact": "The collapse of the steering column and failure of the airbag to deploy in the event of a crash can increase the risk of serious injury or fatality to the driver.",
+      "symptoms": [
+        "The steering column collapses",
+        "the airbag does not deploy in a crash",
+        "the hood of the vehicle is difficult or impossible to open after a crash."
+      ],
+      "odiNumbers": [
+        "985651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without pressing the accelerator pedal",
+        "the vehicle fails to slow down or stop when the brake pedal is pressed",
+        "the vehicle moves on its own without driver input."
+      ],
+      "odiNumbers": [
+        "10285912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Odometer Fraud",
+      "impact": "Odometer fraud can lead to the sale of vehicles with hidden defects or excessive wear, potentially causing safety issues or financial losses for buyers.",
+      "symptoms": [
+        "Discrepancies in the odometer reading",
+        "incorrect or altered odometer readings",
+        "failure to disclose accurate mileage information."
+      ],
+      "odiNumbers": [
+        "543227"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Undersized Electrical Wiring to Fuel Injection Relay",
+      "impact": "The use of undersized electrical wiring to the fuel injection relay can cause the relay to overheat, leading to failure, and subsequent stalling of the vehicle, which can increase the risk of accidents, especially in hot weather conditions.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the fuel injection relay overheats",
+        "the electrical line to the relay is excessively hot",
+        "the relay fails",
+        "the engine dies while driving."
+      ],
+      "odiNumbers": [
+        "10027141",
+        "540352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to sudden loss of control, accidents, and potential rollover, which can result in serious injury or fatalities.",
+      "symptoms": [
+        "The tire tread separates from the sidewall",
+        "causing a loud noise",
+        "vibration",
+        "and loss of control; the vehicle may pull to one side or wobble; the tire may disintegrate",
+        "leaving the driver with no choice but to replace it with a spare tire."
+      ],
+      "odiNumbers": [
+        "10274378"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

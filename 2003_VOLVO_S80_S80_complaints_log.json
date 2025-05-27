@@ -1,0 +1,203 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall or experience sudden acceleration, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle stalls or experiences sudden acceleration",
+        "the fuel pump makes a loud noise",
+        "the fuel pump leaks fuel",
+        "the vehicle has a strong odor of gasoline",
+        "the vehicle has difficulty starting",
+        "the vehicle has a slow or long crank start."
+      ],
+      "odiNumbers": [
+        "10521782",
+        "10230258",
+        "10206798",
+        "10122130",
+        "10051289"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Component Failure",
+      "impact": "The failure of fuel system components, such as the fuel pump hose nipple, can cause the vehicle to experience fuel injection problems, leading to stalling, loss of power, and potential accidents.",
+      "symptoms": [
+        "The vehicle experiences fuel injection problems",
+        "the vehicle stalls or loses power",
+        "the fuel pump hose nipple is cracked",
+        "the vehicle has a strong odor of gasoline",
+        "the vehicle has difficulty starting."
+      ],
+      "odiNumbers": [
+        "10206798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause the vehicle to lose control, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly",
+        "the vehicle is difficult to control",
+        "the vehicle hits objects or other vehicles",
+        "the vehicle's occupants experience minor injuries or trauma."
+      ],
+      "odiNumbers": [
+        "10122130",
+        "10051289"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission shifts oddly",
+        "the vehicle revs and won't shift where it needs to",
+        "causing trouble with acceleration and deceleration",
+        "warning lights appear",
+        "and the vehicle goes into limp mode."
+      ],
+      "odiNumbers": [
+        "11486582",
+        "10335976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Angle Gear Failure",
+      "impact": "The failure of the angle gear can cause vibration, noise, and loss of power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "A whooping crane sound when stepping on the foot feed and releasing",
+        "knocking noise coming from underneath the vehicle."
+      ],
+      "odiNumbers": [
+        "10212492",
+        "10205035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Pressure Switch Lock-Up Failure",
+      "impact": "The failure of the transmission pressure switch lock-up can cause the transmission to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Codes appear",
+        "such as DTC 0053",
+        "transmission shifts oddly",
+        "vehicle revs and won't shift where it needs to",
+        "causing trouble with acceleration and deceleration."
+      ],
+      "odiNumbers": [
+        "10335976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of parts for the airbag recall can leave the vehicle in an unsafe condition, potentially leading to injuries or fatalities in the event of a crash.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the recall repair process."
+      ],
+      "odiNumbers": [
+        "11456300",
+        "11570036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inconvenient Recall Repair Location",
+      "impact": "The lack of local dealerships authorized to perform recall repairs can cause inconvenience and undue hardship to vehicle owners, potentially leading to delays or neglect of critical safety repairs.",
+      "symptoms": [
+        "Vehicle owners are required to travel long distances to authorized dealerships for recall repairs",
+        "causing inconvenience and hardship."
+      ],
+      "odiNumbers": [
+        "11444009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "In-Tank Fuel Pump Failure",
+      "impact": "The failure of the in-tank fuel pump can cause fuel leaks, which can lead to fires, explosions, and serious injuries or fatalities, especially if the vehicle is occupied.",
+      "symptoms": [
+        "Fuel smell or fumes inside the vehicle",
+        "fuel leaks from the top of the pump",
+        "cracks in the plastic mold",
+        "faulty inlet",
+        "outlet",
+        "or return valve."
+      ],
+      "odiNumbers": [
+        "11526377",
+        "11419916",
+        "10849576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure - Dashboard and Instrument Cluster Malfunction",
+      "impact": "The failure of the electrical system, specifically the dashboard and instrument cluster, can cause a loss of critical information, such as speed, fuel level, and warning lights, which can lead to accidents or increase the risk of accidents, especially at night or in low-visibility conditions.",
+      "symptoms": [
+        "Dashboard lights not working",
+        "instrument cluster malfunctioning",
+        "speedometer not functioning",
+        "tachometer not functioning",
+        "fuel gauge not functioning",
+        "temperature gauge not functioning",
+        "signal lights working but no dash indicators."
+      ],
+      "odiNumbers": [
+        "10820957",
+        "10495014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure - Battery Compartment Fire",
+      "impact": "The failure of the electrical system, specifically the battery compartment, can cause a fire, which can lead to vehicle destruction, injury, or even death.",
+      "symptoms": [
+        "Battery compartment catching fire without warning",
+        "fire department intervention required."
+      ],
+      "odiNumbers": [
+        "10915723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

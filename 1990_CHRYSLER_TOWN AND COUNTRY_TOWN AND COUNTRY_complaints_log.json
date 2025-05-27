@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "STRUCTURE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Axle Assembly Failure",
+      "impact": "The failure of the rear axle assembly can cause the vehicle to stop suddenly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Unusual bumping noise",
+        "vehicle stops suddenly",
+        "rear axle assembly is damaged or rusted."
+      ],
+      "odiNumbers": [
+        "10200134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Transmission failure",
+        "vehicle stops suddenly",
+        "transmission needs to be replaced multiple times",
+        "no prior warning."
+      ],
+      "odiNumbers": [
+        "892744",
+        "874937",
+        "722997",
+        "506194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crimped Fuel Supply Line Failure",
+      "impact": "A crimped fuel supply line can cause fuel to leak, leading to a potential engine fire, which can result in serious injury or death.",
+      "symptoms": [
+        "Fuel smell or odor",
+        "fuel dripping or spraying from the fuel supply line connection",
+        "difficulty starting the engine",
+        "engine stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "10120215",
+        "739431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "A failed fuel pump can cause the engine to stall or fail to start, leaving the driver stranded and potentially causing an accident.",
+      "symptoms": [
+        "Engine stalling or failure to start",
+        "difficulty starting the engine",
+        "loss of power or performance."
+      ],
+      "odiNumbers": [
+        "503584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Hatch Support Bar Failure",
+      "impact": "The failure of the rear hatch support bar can cause the top hatch to fall, resulting in injury to people, particularly those standing nearby or attempting to access the rear cargo area.",
+      "symptoms": [
+        "The rear hatch support bar fails to hold the top hatch up",
+        "the top hatch falls suddenly",
+        "people are hit in the head or injured by the falling hatch."
+      ],
+      "odiNumbers": [
+        "980095",
+        "980095",
+        "980258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Lock-Up",
+      "impact": "The rear brakes locking up under abnormal foot pressure can cause the vehicle to skid or lose control, leading to accidents or near-misses.",
+      "symptoms": [
+        "The rear brakes lock up or grab suddenly",
+        "the vehicle skids or loses traction",
+        "the brake pedal feels spongy or soft",
+        "the brake pedal pulsates or vibrates."
+      ],
+      "odiNumbers": [
+        "502830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Erratic ABS System Behavior",
+      "impact": "The ABS system being active all the time and pulsing constantly can cause the vehicle to vibrate or shake, leading to driver distraction and potentially affecting vehicle control.",
+      "symptoms": [
+        "The ABS system is active even on dry roads",
+        "the brake pedal pulsates or vibrates",
+        "the vehicle shakes or vibrates when braking",
+        "the ABS warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "966866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

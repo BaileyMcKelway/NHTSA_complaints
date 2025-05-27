@@ -1,0 +1,164 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator/Battery System Failure",
+      "impact": "The failure of the alternator/battery system can cause the vehicle to suddenly lose power, leading to a loss of electrical systems, transmission, and steering, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly loses power while driving",
+        "error codes appear on the dashboard (e.g.",
+        "\"electrical system maintenance malfunction\" and \"vehicle starting system malfunction\")",
+        "the transmission and steering wheel lock up",
+        "the vehicle shuts down abruptly."
+      ],
+      "odiNumbers": [
+        "11560026",
+        "11545716",
+        "11505278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Fuel System Issue",
+      "impact": "The delayed availability of parts for the recall repair can lead to a prolonged period of driving a vehicle with a potentially faulty fuel system, which can increase the risk of fuel leaks, fires, and accidents.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the recall repair process rather than a specific vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11519110",
+        "11496212",
+        "11486873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Central Locking System Malfunction",
+      "impact": "The malfunctioning central locking system can lead to unauthorized access to the vehicle, compromising the safety of occupants and their belongings, and increasing the risk of accidents and theft.",
+      "symptoms": [
+        "The door locking system indicates either open doors or locked doors that can still be opened",
+        "inconsistent door locking behavior",
+        "failure to lock or unlock doors",
+        "compromising the security of the vehicle."
+      ],
+      "odiNumbers": [
+        "11578769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Backup Camera and 360 Camera Failure",
+      "impact": "The inconsistent operation of the rear backup camera and 360 cameras can cause difficulty in backing up the vehicle, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The rear backup camera and 360 cameras do not work consistently",
+        "resulting in incomplete visibility while backing up",
+        "making it difficult to maneuver the vehicle safely."
+      ],
+      "odiNumbers": [
+        "11574008"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel suddenly turns to the right",
+        "the vehicle pulls hard to the right",
+        "the vehicle jumps the curb",
+        "the vehicle crashes",
+        "the passenger side air pressure monitoring system randomly becomes activated",
+        "the instrument panel lights up indicating a low tire warning or damage on the right front tire",
+        "but no flat tire or damage is found."
+      ],
+      "odiNumbers": [
+        "11450839",
+        "11438589"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Pressure Monitoring System (TPMS) Malfunction",
+      "impact": "The malfunction of the TPMS can cause the driver to be distracted, leading to accidents, and can also cause the vehicle to lose control due to incorrect tire pressure.",
+      "symptoms": [
+        "The instrument panel lights up indicating a low tire warning or damage on the right front tire",
+        "but no flat tire or damage is found",
+        "the TPMS randomly becomes activated."
+      ],
+      "odiNumbers": [
+        "11438589"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Steering Shaft Bolt Loosening",
+      "impact": "The loosening of the steering shaft bolt can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel suddenly turns to the right",
+        "the vehicle pulls hard to the right",
+        "the vehicle jumps the curb",
+        "the vehicle crashes."
+      ],
+      "odiNumbers": [
+        "11438589"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Driver Assistance System",
+      "impact": "The malfunctioning driver assistance system can cause sudden and unnecessary braking or acceleration, which can lead to accidents, rear-end collisions, or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly slams on the brakes without reason",
+        "the vehicle accelerates heavily without warning",
+        "the system fails to provide distance warnings or adaptive cruise control",
+        "the system malfunctions when towing a trailer."
+      ],
+      "odiNumbers": [
+        "11423494",
+        "11388712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radar System Calibration Issue with Trailer Towing",
+      "impact": "The radar system calibration issue can cause the pre-sense warning system to malfunction, disabling distance warnings and adaptive cruise control, which can increase the risk of accidents when towing a trailer.",
+      "symptoms": [
+        "The pre-sense warning system activates unnecessarily after 45 minutes of driving with a trailer",
+        "the system fails to provide distance warnings or adaptive cruise control",
+        "the issue persists even after removing the trailer",
+        "the issue requires a new calibration of the radar system at an Audi dealer."
+      ],
+      "odiNumbers": [
+        "11388712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Pedal or Cable Failure",
+      "impact": "The failure of the accelerator pedal or cable can cause sudden acceleration, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The accelerator pedal sticks",
+        "the vehicle does not return to idle",
+        "sudden acceleration occurs",
+        "the vehicle accelerates unintentionally",
+        "loss of control while driving."
+      ],
+      "odiNumbers": [
+        "819910",
+        "979213",
+        "490525",
+        "487336",
+        "478074",
+        "478137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crank Sensor Loosening",
+      "impact": "The constant loosening of the crank sensor can cause the vehicle to become inoperable, leading to unexpected breakdowns and potential safety risks.",
+      "symptoms": [
+        "The crank sensor comes loose",
+        "requiring realignment and retightening",
+        "which can occur frequently due to temperature changes in the engine."
+      ],
+      "odiNumbers": [
+        "10068953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure and Fire",
+      "impact": "Engine failure can cause a loss of power, leading to accidents or fires, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's speed decreases",
+        "accompanied by a popping noise",
+        "followed by smoke filling the car and potentially leading to a fire."
+      ],
+      "odiNumbers": [
+        "564041",
+        "511532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Camshaft Failure",
+      "impact": "Camshaft failure can cause engine damage, leading to unexpected breakdowns and potential safety risks.",
+      "symptoms": [
+        "The camshaft fails",
+        "potentially due to the installation of a redesigned front cover."
+      ],
+      "odiNumbers": [
+        "474851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

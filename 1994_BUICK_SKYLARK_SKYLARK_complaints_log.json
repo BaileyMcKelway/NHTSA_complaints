@@ -1,0 +1,295 @@
+{
+  "totalComplaints": 81,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling/Hesitation",
+      "impact": "Engine stalling or hesitation can cause loss of power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalls",
+        "hesitation",
+        "loss of power",
+        "difficulty accelerating",
+        "bucking or jerking when trying to accelerate."
+      ],
+      "odiNumbers": [
+        "10166235",
+        "10029728",
+        "889055",
+        "886468",
+        "512034",
+        "508783",
+        "479519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Cooling system failure can cause engine overheating, leading to damage, stalling, or seizure.",
+      "symptoms": [
+        "Temperature gauge rises",
+        "smoke from tailpipe",
+        "coolant leaks",
+        "overheating."
+      ],
+      "odiNumbers": [
+        "10151838",
+        "8011289",
+        "762512",
+        "715619",
+        "711886",
+        "533299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cylinder Head Cracking",
+      "impact": "Cylinder head cracking can cause engine damage, stalling, or seizure, leading to costly repairs.",
+      "symptoms": [
+        "Cracked cylinder head",
+        "power loss",
+        "water introduction into crankcase",
+        "rod bearing failure."
+      ],
+      "odiNumbers": [
+        "762512",
+        "715619",
+        "711886",
+        "533299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Leaks",
+      "impact": "Oil leaks can cause engine damage, stalling, or seizure, leading to costly repairs.",
+      "symptoms": [
+        "Oil leaks onto hot engine",
+        "moisture in crankcase",
+        "whitish/glue-like substance in oil."
+      ],
+      "odiNumbers": [
+        "490944",
+        "481898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lower Intake Manifold Gasket Failure",
+      "impact": "Lower intake manifold gasket failure can cause coolant leaks, leading to engine damage or stalling.",
+      "symptoms": [
+        "Coolant leaks",
+        "lower intake manifold gasket failure."
+      ],
+      "odiNumbers": [
+        "10151838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can lead to extended stopping distances, accidents, and loss of control, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Soft brake pedal",
+        "extended stopping distance",
+        "brake pedal goes to the floor",
+        "brake failure",
+        "ABS light comes on",
+        "brakes fade or delay when pedal is pushed",
+        "vibration while braking."
+      ],
+      "odiNumbers": [
+        "879343",
+        "542557",
+        "826462",
+        "815220",
+        "510179",
+        "803425",
+        "800867",
+        "800502",
+        "979790",
+        "963459",
+        "481898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Wear of Brake Pads/Rotors",
+      "impact": "Premature wear of brake pads and rotors can lead to reduced braking performance, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Premature wear of front brake pads",
+        "warping of rotors",
+        "vibration while braking."
+      ],
+      "odiNumbers": [
+        "542557",
+        "803425",
+        "963459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "Brake hydraulic system failure can cause brake pedal to go to the floor, leading to extended stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake failure",
+        "ABS light comes on."
+      ],
+      "odiNumbers": [
+        "826462",
+        "800502",
+        "481898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Adjuster Failure",
+      "impact": "Rear brake adjuster failure can lead to reduced braking performance and increased risk of accidents.",
+      "symptoms": [
+        "Rear brake adjusters sticking."
+      ],
+      "odiNumbers": [
+        "963459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Failure",
+      "impact": "Battery failure can cause the vehicle to not start, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The battery dies suddenly",
+        "the vehicle won't start",
+        "the battery needs to be jumped multiple times",
+        "the battery is completely dead after a short period."
+      ],
+      "odiNumbers": [
+        "10507409",
+        "559410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause electrical problems, leading to safety risks, inconvenience, and potential accidents.",
+      "symptoms": [
+        "The alternator fails",
+        "causing electrical problems",
+        "wires shorting out",
+        "lights coming on",
+        "horn not working",
+        "etc."
+      ],
+      "odiNumbers": [
+        "564639",
+        "564639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failure can cause the vehicle to suddenly stall while driving, leading to safety risks and potential accidents.",
+      "symptoms": [
+        "The ignition switch fails",
+        "causing the vehicle to stall suddenly",
+        "the horn to go off unexpectedly",
+        "the key and ignition switch to become extremely hot."
+      ],
+      "odiNumbers": [
+        "560707",
+        "880364",
+        "826942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Failure",
+      "impact": "Starter failure can cause the vehicle to not start, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The starter fails",
+        "causing the vehicle to not start",
+        "the starter needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "559410",
+        "848388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause fires, leading to safety risks, property damage, and potential accidents.",
+      "symptoms": [
+        "The electrical system fails",
+        "causing a short in the wire harness",
+        "electrical fires",
+        "and major damages."
+      ],
+      "odiNumbers": [
+        "848388",
+        "705737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tilt Steering Wheel Assembly Failure",
+      "impact": "The failure of the tilt steering wheel assembly can cause the steering wheel to become detached from the steering column, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The steering wheel becomes loose or detached from the steering column",
+        "the pins holding the tilt mechanism fall out",
+        "the steering wheel vibrates or drops down to the floor",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "10441798",
+        "10079632",
+        "10070104",
+        "10032033",
+        "10036739",
+        "8002099",
+        "891302",
+        "888909",
+        "736469",
+        "717418",
+        "545263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

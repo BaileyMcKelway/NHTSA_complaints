@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Message and Ignition Issues",
+      "impact": "The failure to recognize the vehicle is in park position can cause the vehicle to remain in an \"on\" state, draining the battery and preventing the driver from turning off accessories, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "The vehicle displays a \"shift to park\" message despite being in park position",
+        "preventing the driver from turning off lights",
+        "radio",
+        "or accessories; the vehicle's battery drains; the vehicle cannot be started; the instrument panel is blank; no clicking sounds from the ignition."
+      ],
+      "odiNumbers": [
+        "11582852",
+        "11430256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System and Battery Failure",
+      "impact": "The failure of the electrical system and battery can cause the vehicle to stall or not start, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "The vehicle's battery is dead; no clicking sounds from the ignition; the instrument panel is blank; the vehicle operates normally after jump-starting; the check engine warning light illuminates; an abnormal whistling noise comes from the engine compartment."
+      ],
+      "odiNumbers": [
+        "11509002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Infotainment and Climate Control System Malfunctions",
+      "impact": "The malfunction of the infotainment and climate control systems can cause distractions, discomfort, and safety risks while driving.",
+      "symptoms": [
+        "The radio screen goes black or freezes; the air conditioner system malfunctions",
+        "blowing air on high; the SOS system malfunctions",
+        "making emergency calls; the head unit screen stays on the service screen and cannot be changed; the screens switch without being touched."
+      ],
+      "odiNumbers": [
+        "11310082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Reduced Engine Power and Accelerator Pedal Issues",
+      "impact": "The reduced engine power and accelerator pedal issues can cause the vehicle to slow down or stall, leading to safety risks and accidents.",
+      "symptoms": [
+        "The vehicle slows down and stops in the middle of the street; the screen displays \"reduced engine power\"; the accelerator pedal position sensors need to be replaced."
+      ],
+      "odiNumbers": [
+        "11310082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vacuum-Brake Assist Pressure Loss",
+      "impact": "The partial or full loss of vacuum-brake assist pressure can increase the risk of a crash, as it affects the vehicle's braking performance.",
+      "symptoms": [
+        "None explicitly mentioned",
+        "but the loss of brake assist pressure can lead to increased stopping distances",
+        "making it more difficult to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11480960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Auto Start/Stop Functionality Issues",
+      "impact": "The unexpected activation of the auto start/stop function can cause the engine to shut off unexpectedly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine shutting off unexpectedly",
+        "often at intersections or when coming to a complete stop",
+        "causing the driver to feel startled or lose control of the vehicle."
+      ],
+      "odiNumbers": [
+        "11312213"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent \"Place in Park\" Message",
+      "impact": "The intermittent \"Place in Park\" message can lead to uncertainty about the vehicle's safety when parked, potentially causing accidents or rollaways if the vehicle is not properly secured.",
+      "symptoms": [
+        "The \"Place in Park\" message appears on the dashboard despite the shifter being in the park position",
+        "the message is intermittent and does not occur consistently",
+        "the dealership is unable to replicate the issue."
+      ],
+      "odiNumbers": [
+        "11538901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Shifter Malfunction",
+      "impact": "The malfunction of the transmission shifter can cause the vehicle to roll away or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The transmission shifter does not engage properly",
+        "the vehicle rolls away or moves unexpectedly",
+        "the \"Place in Park\" message appears despite the shifter being in the park position",
+        "the shifter feels loose or sloppy."
+      ],
+      "odiNumbers": [
+        "11538901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

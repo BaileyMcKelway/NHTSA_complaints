@@ -1,0 +1,256 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FORWARD COLLISION AVOIDANCE",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking System",
+      "impact": "The false activation of the automatic emergency braking system can cause sudden and unexpected braking, which can lead to accidents, rear-end collisions, or loss of control, especially at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly brakes without warning",
+        "the brake warning light flashes",
+        "the vehicle slows down or stops unexpectedly",
+        "the adaptive cruise control system fails to recognize vehicles ahead",
+        "the vehicle brakes aggressively or erratically",
+        "the system mistakes oncoming traffic or road features for obstacles."
+      ],
+      "odiNumbers": [
+        "11591124",
+        "11584117",
+        "11579290",
+        "11535628",
+        "11535630",
+        "11529014",
+        "11500508",
+        "11488039",
+        "11480591",
+        "11474902",
+        "11466329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inaccurate Object Detection by Forward Collision Warning System",
+      "impact": "The inaccurate object detection by the forward collision warning system can cause false warnings, unnecessary braking, or failure to detect actual obstacles, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle detects obstacles when there are none",
+        "the system mistakes oncoming traffic or road features for obstacles",
+        "the system fails to detect actual obstacles",
+        "the forward collision warning system activates unnecessarily",
+        "the adaptive cruise control system fails to adapt to changing traffic conditions."
+      ],
+      "odiNumbers": [
+        "11584117",
+        "11535628",
+        "11535630",
+        "11529014",
+        "11474902",
+        "11466329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Loss of Power",
+      "impact": "The sudden loss of power while driving can cause accidents, especially when the vehicle is unable to start at a busy intersection, putting the driver and passengers at risk.",
+      "symptoms": [
+        "Complete loss of power while driving",
+        "inability to start the vehicle",
+        "traffic stopping due to the vehicle's inability to move."
+      ],
+      "odiNumbers": [
+        "11577687",
+        "11556771",
+        "11532626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle's computer to freeze, leading to issues with the vehicle's performance and safety features.",
+      "symptoms": [
+        "Computer freezing",
+        "speedometer malfunctioning",
+        "inability to pass inspection."
+      ],
+      "odiNumbers": [
+        "11574517",
+        "11484965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Drainage Issues",
+      "impact": "The battery drainage issues can cause the vehicle to die suddenly, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "Vehicle dying suddenly",
+        "battery drainage",
+        "error codes appearing on the dashboard."
+      ],
+      "odiNumbers": [
+        "11532626",
+        "11556771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "The malfunction of the infotainment system can cause distractions while driving, potentially leading to accidents.",
+      "symptoms": [
+        "Dash and infotainment screen going black",
+        "loss of functionality."
+      ],
+      "odiNumbers": [
+        "11527481"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Door Lock Malfunction",
+      "impact": "The malfunction of the door locks can cause safety concerns, especially if passengers are unable to exit the vehicle in an emergency.",
+      "symptoms": [
+        "Rear door locks not operating properly",
+        "passengers unable to unlock and exit the vehicle."
+      ],
+      "odiNumbers": [
+        "11496848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Automatic Braking System Malfunction",
+      "impact": "The malfunction of the automatic braking system can cause accidents, especially if the vehicle brakes suddenly without reason.",
+      "symptoms": [
+        "Vehicle braking suddenly without reason",
+        "flashing \"BRAKE\" warning on the dashboard."
+      ],
+      "odiNumbers": [
+        "11484965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Door Opening While Driving",
+      "impact": "The door opening while driving can cause accidents, especially if the driver is distracted or loses control of the vehicle.",
+      "symptoms": [
+        "Doors opening suddenly while driving",
+        "vehicle still in motion."
+      ],
+      "odiNumbers": [
+        "11470449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Gear Shifts due to Paddle Switch Malfunction",
+      "impact": "The sudden and unintended downshift to low gear can cause the vehicle to stall or lose power, increasing the risk of accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The gear paddle switch on the steering wheel accidentally engages during turns",
+        "downshifting the vehicle to low gear",
+        "and causing the vehicle to stall or lose power."
+      ],
+      "odiNumbers": [
+        "11580369"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause a loud noise, distraction, and potential injury from broken glass, increasing the risk of accidents.",
+      "symptoms": [
+        "The sunroof shatters suddenly",
+        "often with a loud noise",
+        "while driving",
+        "without any apparent cause or debris."
+      ],
+      "odiNumbers": [
+        "11515819",
+        "11514126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Engine Shutdown",
+      "impact": "The sudden shutdown of the engine while driving can cause a loss of power, increasing the risk of accidents, and leaving the driver stranded.",
+      "symptoms": [
+        "The engine shuts down without warning",
+        "often with dashboard lights and warning messages",
+        "and may not restart",
+        "leaving the driver stranded."
+      ],
+      "odiNumbers": [
+        "11509915",
+        "11499702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Brake System Malfunction",
+      "impact": "The erratic brake system malfunction can cause unintended braking, loss of power, and unpredictable stopping, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes engage unnecessarily",
+        "the vehicle abruptly reduces speed",
+        "the brake lights flash randomly",
+        "the vehicle loses power after releasing the brake pedal",
+        "the vehicle hesitates or stutters while braking."
+      ],
+      "odiNumbers": [
+        "11570788",
+        "11568168",
+        "11545521",
+        "11454041",
+        "11448719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unreliable Brake Performance",
+      "impact": "The unreliable brake performance can cause accidents, injuries, or fatalities due to the inability to make prompt and controlled stops.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes do not engage properly",
+        "the vehicle vibrates when braking",
+        "the emergency brake does not respond."
+      ],
+      "odiNumbers": [
+        "11568168",
+        "11545521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure due to Insufficient Lubrication",
+      "impact": "The failure of the transmission due to insufficient lubrication can cause the transmission to overheat, leading to massive damage, failure, and potentially a fire, property damage, or a crash resulting in injuries or death.",
+      "symptoms": [
+        "Sudden metallic noises and rumbling",
+        "transmission leaks",
+        "hard shifting",
+        "jerking",
+        "loud bang",
+        "loss of control",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "10098621",
+        "512568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Fuel Tank Selector Valve Malfunction",
+      "impact": "The malfunction of the dual fuel tank selector valve can cause an overfill condition in one of the fuel tanks, leading to fuel spillage and potentially causing a fire hazard.",
+      "symptoms": [
+        "Fuel spillage from the main fuel tank",
+        "fuel spillage from the reserve fuel tank",
+        "fuel overflowing from the main tank into the reserve tank",
+        "and fuel overflowing from the reserve tank into the main tank."
+      ],
+      "odiNumbers": [
+        "10396997",
+        "8022712",
+        "8022031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, and fatalities. The intense vibration caused by the separation can also lead to loss of control, especially at high speeds.",
+      "symptoms": [
+        "Sudden and intense vibration while driving",
+        "loss of control",
+        "tire tread separating from the tire",
+        "blowout",
+        "and loud noise."
+      ],
+      "odiNumbers": [
+        "871932",
+        "9003327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rust Damage to Steel Belts",
+      "impact": "Rust damage to steel belts can weaken the tire's structural integrity, leading to tire failure, loss of control, and accidents.",
+      "symptoms": [
+        "Rust or corrosion on the steel belts",
+        "tire puncture",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "9003327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Failure to Engage Gears",
+      "impact": "The failure of the transmission to engage gears properly can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The gear lever needs to be shifted into neutral for the overdrive to activate",
+        "the gear lever is unable to engage into park",
+        "the transmission slips or hesitates when shifting gears",
+        "the vehicle will not start",
+        "the transmission needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10667662",
+        "721584",
+        "836795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Parking Gear Failure to Engage",
+      "impact": "The failure of the parking gear to engage can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The parking gear does not engage even though the gear shift lever is placed in the park position",
+        "the vehicle rolls or moves unexpectedly when in park."
+      ],
+      "odiNumbers": [
+        "836795",
+        "10667662"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioner Malfunction",
+      "impact": "The emission of a powdery substance from the air conditioner can cause respiratory issues and discomfort for the occupants, and potentially lead to further system failures.",
+      "symptoms": [
+        "The air conditioner emits a powdery substance while the vehicle is stationary."
+      ],
+      "odiNumbers": [
+        "11093170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause loss of power, loss of control, and potentially lead to accidents, especially when it occurs while driving or approaching intersections.",
+      "symptoms": [
+        "The engine dies when the vehicle gets hot",
+        "but not overheated; the engine starts again when it cools down; the engine dies when idling for 15-20 minutes during winter; the engine dies when pulling up to a stop sign or traffic light; the engine dies when restarting within 5-10 minutes of shutting off."
+      ],
+      "odiNumbers": [
+        "742844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Window Wind Noise and Water Leaks",
+      "impact": "The wind noise and water leaks in the rear windows can cause discomfort, distraction, and reduced visibility while driving, potentially leading to accidents. Additionally, water leaks can lead to interior damage, corrosion, and electrical system failures.",
+      "symptoms": [
+        "Wind noise or whistling sound coming from the rear windows",
+        "water leaks or moisture accumulation in the rear windows",
+        "fogging or misting on the rear windows",
+        "difficulty seeing out of the rear windows due to water or moisture accumulation."
+      ],
+      "odiNumbers": [
+        "483079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Heater Failure",
+      "impact": "The failure of the heater can cause discomfort, distraction, and reduced visibility while driving, potentially leading to accidents. In extreme temperatures, it can also lead to hypothermia or heatstroke.",
+      "symptoms": [
+        "No heat or reduced heat output from the vents",
+        "failure to defrost or defog the windshield",
+        "cold air blowing from the vents",
+        "malfunctioning or non-functional heater controls."
+      ],
+      "odiNumbers": [
+        "483079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

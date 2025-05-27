@@ -1,0 +1,188 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or shift erratically, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Delayed shifting",
+        "sudden downshifting",
+        "loss of power",
+        "speedometer dropping to zero",
+        "vehicle going into failsafe mode",
+        "wrench symbol appearing on the screen",
+        "vibration while idling."
+      ],
+      "odiNumbers": [
+        "11287944",
+        "11191301",
+        "11128251",
+        "11115513",
+        "11114254",
+        "11020681"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Sensor Failure",
+      "impact": "Failure of the transmission sensor can cause the vehicle to downshift suddenly, leading to loss of control, accidents, or near-misses.",
+      "symptoms": [
+        "Sudden downshifting",
+        "loss of power",
+        "speedometer dropping to zero",
+        "vehicle going into failsafe mode",
+        "PO722-00 code output shaft speed sensor circuit no signal."
+      ],
+      "odiNumbers": [
+        "11191301",
+        "11115513",
+        "11114254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Reprogramming Issues",
+      "impact": "Inadequate transmission reprogramming can cause the vehicle to continue experiencing transmission problems, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Continued transmission problems after reprogramming",
+        "sudden downshifting",
+        "loss of power",
+        "speedometer dropping to zero",
+        "vehicle going into failsafe mode."
+      ],
+      "odiNumbers": [
+        "11191301",
+        "11020681"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Remediation Issues",
+      "impact": "Inadequate recall remediation can cause the vehicle to continue experiencing transmission problems, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Continued transmission problems after recall repair",
+        "sudden downshifting",
+        "loss of power",
+        "speedometer dropping to zero",
+        "vehicle going into failsafe mode."
+      ],
+      "odiNumbers": [
+        "11191301",
+        "11189926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Power Loss and Limp Home Mode",
+      "impact": "The sudden loss of engine power and entry into limp home mode can cause a loss of control, especially in high-traffic areas, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle loses power",
+        "goes into limp home mode",
+        "the orange wrench warning indicator appears on the dash panel",
+        "the vehicle shakes or vibrates",
+        "and loss of acceleration."
+      ],
+      "odiNumbers": [
+        "11074936",
+        "10978497",
+        "10860746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Antifreeze Leak and Engine Seizure",
+      "impact": "The antifreeze leak can cause the engine to seize, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle is leaking antifreeze",
+        "the engine may seize up",
+        "and the temporary fix may break",
+        "causing further damage."
+      ],
+      "odiNumbers": [
+        "11062861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Spark Plug Ejection",
+      "impact": "Ejected spark plugs can cause engine damage, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Spark plugs are ejected from the engine",
+        "which can cause engine damage and failure."
+      ],
+      "odiNumbers": [
+        "10905014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping",
+      "impact": "Transmission slipping can cause the vehicle to lose power, hesitate, or jerk while accelerating, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting gears",
+        "particularly in third gear",
+        "the vehicle loses power or acceleration",
+        "the vehicle jerks or hesitates while moving."
+      ],
+      "odiNumbers": [
+        "11156575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Drive Train Failure",
+      "impact": "Drive train failure can cause the vehicle to lose power, stall, or become inoperable, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's drive train fails",
+        "the engine stalls or dies",
+        "the vehicle is unable to move",
+        "the vehicle requires a new engine or transmission."
+      ],
+      "odiNumbers": [
+        "11139664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Water Pump and Vacuum Pump Failure",
+      "impact": "Failure of the water pump and vacuum pump can cause engine overheating, coolant leaks, and loss of engine performance, which can lead to engine damage or failure.",
+      "symptoms": [
+        "Coolant leaks from the water pump or vacuum pump",
+        "the engine overheats",
+        "the vehicle's temperature gauge rises",
+        "the engine loses power or performance."
+      ],
+      "odiNumbers": [
+        "11004215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

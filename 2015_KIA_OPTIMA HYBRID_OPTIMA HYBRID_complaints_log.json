@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Battery Failure",
+      "impact": "Hybrid battery failure can cause the vehicle to stall or lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle stalls or loses power",
+        "\"Hybrid Battery Issue\" warning message displays",
+        "failure to start the vehicle."
+      ],
+      "odiNumbers": [
+        "11197210",
+        "11170569",
+        "11163271",
+        "11150361",
+        "11099834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause the vehicle to stall or lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle stalls or loses power",
+        "warning lights or messages display",
+        "failure to start the vehicle."
+      ],
+      "odiNumbers": [
+        "11197210",
+        "11163271",
+        "11099834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Coolant Reservoir Leaks",
+      "impact": "Coolant reservoir leaks can cause damage to the Hybrid Electric Control Unit (HECU) and lead to hybrid battery failure, resulting in a loss of power and increasing the risk of accidents.",
+      "symptoms": [
+        "Coolant leaks",
+        "hybrid battery failure",
+        "warning lights or messages display."
+      ],
+      "odiNumbers": [
+        "11170569"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fire Risk",
+      "impact": "Hybrid battery failure can cause a fire, resulting in damage to the vehicle and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Vehicle catches fire",
+        "warning lights or messages display."
+      ],
+      "odiNumbers": [
+        "11150361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure with Abnormal Noises and Fire Risk",
+      "impact": "The engine failure can cause the vehicle to stall or catch fire, leading to a loss of control and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Abnormal knocking sounds coming from the engine",
+        "smoke appearing from the engine compartment",
+        "flames underneath the hood."
+      ],
+      "odiNumbers": [
+        "11435565",
+        "11115359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering (EPS) System Failure",
+      "impact": "The failure of the EPS system can cause the steering wheel to stick or seize, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel gets stuck in a particular position",
+        "the steering wheel is difficult to turn",
+        "the steering wheel seizes",
+        "the electronic stability control warning indicator illuminates",
+        "hesitation when switching between fuel and electric modes."
+      ],
+      "odiNumbers": [
+        "11091290",
+        "11078279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

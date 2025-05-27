@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "LANE DEPARTURE",
+    "STEERING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blind Spot Monitoring System Failure",
+      "impact": "The failure of the blind spot monitoring system can cause false positives or false negatives, leading to uncertainty during lane changes, which can increase the risk of accidents.",
+      "symptoms": [
+        "The blind spot monitoring system indicator stays on constantly without any vehicles in the blind spot",
+        "fails to detect vehicles in the blind spot",
+        "or provides false warnings of vehicles in the blind spot."
+      ],
+      "odiNumbers": [
+        "11463669",
+        "11450901",
+        "11450903",
+        "11443141",
+        "11442800",
+        "11442880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High Pressure Fuel Pump Failure",
+      "impact": "The failure of the high pressure fuel pump can cause the vehicle to stall unexpectedly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls suddenly",
+        "the engine shuts off without warning",
+        "the vehicle loses power while driving."
+      ],
+      "odiNumbers": [
+        "11478090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the steering wheel to lock up or freeze, leading to a loss of control and increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The steering wheel freezes or locks up",
+        "the vehicle veers off course",
+        "the steering wheel is difficult to turn",
+        "an icon appears on the screen indicating a steering system malfunction."
+      ],
+      "odiNumbers": [
+        "11455279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Depletion and Engine Stalling",
+      "impact": "The sudden loss of oil and engine stalling can cause the vehicle to die while in motion, leading to accidents or stranding the driver. This issue can also lead to engine damage and costly repairs.",
+      "symptoms": [
+        "The vehicle stalls or dies while in motion",
+        "the engine cuts out",
+        "the vehicle has no oil",
+        "the engine is difficult to start",
+        "the engine tries to turn over repeatedly",
+        "gas leaks from the vehicle."
+      ],
+      "odiNumbers": [
+        "11461262",
+        "11456521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause the engine to stall or die, leading to accidents or stranding the driver. This issue can also lead to fuel leaks and costly repairs.",
+      "symptoms": [
+        "The engine stalls or dies",
+        "the vehicle has difficulty starting",
+        "the engine tries to turn over repeatedly",
+        "gas leaks from the vehicle",
+        "the fuel pump has been replaced multiple times."
+      ],
+      "odiNumbers": [
+        "11456521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lack of Disclosure and Recall Issues",
+      "impact": "The failure to disclose previous repairs and recall issues can lead to a lack of trust in the manufacturer and dealerships, and can also lead to further safety issues if the problems are not properly addressed.",
+      "symptoms": [
+        "The vehicle has previous repairs or recall issues that were not disclosed to the buyer",
+        "the buyer experiences repeated problems with the vehicle",
+        "the manufacturer or dealership fails to properly address the issues."
+      ],
+      "odiNumbers": [
+        "11461262",
+        "11456521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

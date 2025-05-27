@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Seat Belt and Door Latch Switch",
+      "impact": "The failure of the seat belt and door latch switch can cause the seat belt to malfunction, leading to a lack of restraint for the passenger or driver, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt cannot be utilized",
+        "the passenger's seat belt intermittently fails to engage when closing the door",
+        "the seat belt does not work at all",
+        "the motorized shoulder belt remains in the forward position",
+        "the cable is compressed and forced out of its track",
+        "the belt fails to retract",
+        "the belt locks up and will not release."
+      ],
+      "odiNumbers": [
+        "10083239",
+        "8012020",
+        "717323",
+        "702689",
+        "811740",
+        "808408",
+        "808346",
+        "980867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motorized Shoulder Belt Failure",
+      "impact": "The failure of the motorized shoulder belt can cause the belt to remain in the forward position, leading to a lack of restraint for the passenger or driver, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The motorized shoulder belt remains in the forward position",
+        "the cable is compressed and forced out of its track",
+        "the belt fails to retract."
+      ],
+      "odiNumbers": [
+        "702689",
+        "811740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Belt Retractors Failure",
+      "impact": "The failure of the belt retractors can cause the seat belt to malfunction, leading to a lack of restraint for the passenger or driver, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The belt retractors fail",
+        "the belt does not retract",
+        "the belt locks up and will not release."
+      ],
+      "odiNumbers": [
+        "808408",
+        "808346",
+        "980867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Brake Rotors",
+      "impact": "Warped brake rotors can cause poor braking performance, leading to increased stopping distances and potentially accidents.",
+      "symptoms": [
+        "Vehicle labors under acceleration",
+        "front brakes smell after being parked",
+        "vehicle struggles to move under its own power",
+        "noise or stress sounds when braking",
+        "warped rotors."
+      ],
+      "odiNumbers": [
+        "743665",
+        "541667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Contaminated Hydraulic Brake Fluid",
+      "impact": "Contaminated hydraulic brake fluid can cause brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Vehicle labors under acceleration",
+        "front brakes smell after being parked",
+        "vehicle struggles to move under its own power",
+        "rubber components need to be replaced."
+      ],
+      "odiNumbers": [
+        "541667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Component Failure (Rubber Components)",
+      "impact": "Failure of rubber components in the brake system can cause brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Vehicle labors under acceleration",
+        "front brakes smell after being parked",
+        "vehicle struggles to move under its own power",
+        "rubber components need to be replaced."
+      ],
+      "odiNumbers": [
+        "541667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Latch Malfunction",
+      "impact": "The malfunction of the door latch can cause the shoulder belt anchorage to remain at the A-pillar when the door is closed, leading to the failure of the automatic seat belts to engage when the vehicle is started, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not slide on the rail properly",
+        "the automatic seat belts do not engage when the vehicle is started",
+        "the shoulder belt anchorage remains at the A-pillar when the door is closed."
+      ],
+      "odiNumbers": [
+        "10067406"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

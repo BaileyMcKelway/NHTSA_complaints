@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SEAT BELTS",
+    "AIR BAGS",
+    "TIRES",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tie Rod Failure",
+      "impact": "The failure of the tie rod can cause loss of vehicle control, especially during turns, which can lead to accidents and injuries.",
+      "symptoms": [
+        "The vehicle pulls to one side",
+        "the vehicle wanders or drifts during turns",
+        "the vehicle is difficult to steer",
+        "the vehicle goes out of control during turns",
+        "abnormal noises or vibrations are present during turns."
+      ],
+      "odiNumbers": [
+        "514260",
+        "972417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "A faulty seat belt buckle can lead to the seat belt being inoperable, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The plastic press release button breaks off",
+        "the seat belt buckle does not latch",
+        "the seat belt buckle is difficult to latch",
+        "the seat belt buckle is stuck",
+        "the seat belt is inoperable."
+      ],
+      "odiNumbers": [
+        "960395",
+        "960280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Horn System",
+      "impact": "A malfunctioning horn can lead to reduced safety on the road, as the driver may not be able to alert other drivers or pedestrians in emergency situations.",
+      "symptoms": [
+        "The horn is inoperative",
+        "the horn is stuck and cannot be turned off",
+        "the horn emits a continuous or intermittent sound without being pressed."
+      ],
+      "odiNumbers": [
+        "10099055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure (Horn Circuit)",
+      "impact": "An electrical system failure in the horn circuit can cause the horn to malfunction, leading to reduced safety on the road.",
+      "symptoms": [
+        "The horn is inoperative",
+        "the horn is stuck and cannot be turned off",
+        "the horn emits a continuous or intermittent sound without being pressed",
+        "the horn connector needs to be disconnected to stop the horn from operating."
+      ],
+      "odiNumbers": [
+        "10099055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure Due to Ply Separation",
+      "impact": "Tire failure due to ply separation can cause loss of control, accidents, and potentially result in serious injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Tire blowouts",
+        "tire vibration",
+        "tire damage indicating imminent ply separation",
+        "sudden loss of air pressure",
+        "unusual tire noise."
+      ],
+      "odiNumbers": [
+        "731203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Tire Design or Manufacturing",
+      "impact": "Defective tires can lead to sudden and unexpected tire failures, which can cause accidents, injuries, and fatalities, especially at high speeds.",
+      "symptoms": [
+        "Tire blowouts",
+        "tire vibration",
+        "tire damage",
+        "sudden loss of air pressure",
+        "unusual tire noise",
+        "tire failure without warning."
+      ],
+      "odiNumbers": [
+        "731203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

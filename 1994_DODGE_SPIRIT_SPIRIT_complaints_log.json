@@ -1,0 +1,210 @@
+{
+  "totalComplaints": 111,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seatbelt Failure",
+      "impact": "The failure of the motorized seatbelt can cause injury or death in the event of an accident, as well as discomfort and difficulty breathing due to excessive tightening.",
+      "symptoms": [
+        "The seatbelt tightens around the passenger's chest or neck",
+        "making it difficult to breathe or move",
+        "the seatbelt retracts too tightly",
+        "the seatbelt separates from the panel",
+        "the seatbelt locks the passenger in",
+        "the seatbelt chokes the passenger",
+        "the seatbelt fails to latch",
+        "the seatbelt becomes detached during an accident."
+      ],
+      "odiNumbers": [
+        "10224159",
+        "861493",
+        "713370",
+        "836466",
+        "540342",
+        "813528",
+        "808690",
+        "806901",
+        "980001",
+        "486307",
+        "963627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Buckle Failure",
+      "impact": "The failure of the seatbelt buckle can cause injury or death in the event of an accident, as well as difficulty releasing the buckle.",
+      "symptoms": [
+        "The seatbelt buckle will not release",
+        "the seatbelt buckle is faulty",
+        "the seatbelt buckle catches fingers",
+        "causing injuries."
+      ],
+      "odiNumbers": [
+        "836466",
+        "962456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Seatbelt Failure",
+      "impact": "The failure of the rear seatbelt can cause injury or death in the event of an accident, as well as difficulty securing car seats.",
+      "symptoms": [
+        "The rear seatbelts do not properly retain car seats",
+        "allowing free side-to-side movement while driving."
+      ],
+      "odiNumbers": [
+        "960130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Release Button Failure",
+      "impact": "The failure of the seatbelt release button can cause injury or discomfort.",
+      "symptoms": [
+        "The driver's thumb is cut when depressing the release button of the driver's shoulder belt."
+      ],
+      "odiNumbers": [
+        "482744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Failure",
+      "impact": "The transmission slipping and failure can cause sudden loss of power, unexpected slowing, and difficulty shifting gears, which can lead to accidents, loss of control, and strand the driver.",
+      "symptoms": [
+        "The transmission slips upon takeoff and hard acceleration",
+        "harsh downshifting",
+        "sudden loss of power",
+        "unexpected slowing",
+        "difficulty shifting gears",
+        "transmission failure at low mileage."
+      ],
+      "odiNumbers": [
+        "10047688",
+        "756622",
+        "745749",
+        "709872",
+        "707826",
+        "541394",
+        "807925",
+        "805959",
+        "960646",
+        "960099",
+        "958202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure due to Defective Factory Parts",
+      "impact": "The use of defective factory parts can cause premature transmission failure, leading to unexpected repair costs, loss of vehicle use, and potential safety risks.",
+      "symptoms": [
+        "Transmission failure at low mileage",
+        "repeated transmission failures",
+        "need for multiple transmission replacements",
+        "transmission failure despite regular maintenance."
+      ],
+      "odiNumbers": [
+        "745749",
+        "707826",
+        "960646",
+        "960099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Electronic Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the transmission to malfunction, leading to unexpected shifting, loss of power, and potential safety risks.",
+      "symptoms": [
+        "Transmission failure to shift into reverse",
+        "transmission downshifting on its own",
+        "transmission popping back into gear",
+        "transmission failure to engage gears."
+      ],
+      "odiNumbers": [
+        "707826",
+        "807925",
+        "805959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or not start, leading to potential accidents or leaving the driver stranded. In some cases, it can also cause electrical system failures, including fires, which can result in injuries or damage.",
+      "symptoms": [
+        "The key gets stuck in the ignition switch",
+        "the key cannot be removed or turned in the ignition",
+        "the vehicle will not start",
+        "the vehicle stalls or shuts down while driving",
+        "smoke comes from the steering column or dash."
+      ],
+      "odiNumbers": [
+        "876346",
+        "713912",
+        "518092",
+        "514857",
+        "801564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to potential accidents or leaving the driver stranded. In some cases, it can also cause electrical system failures, including fires, which can result in injuries or damage.",
+      "symptoms": [
+        "Smoke comes from the steering column or dash",
+        "the vehicle's electrical systems malfunction",
+        "including the airbag warning lights",
+        "dash lights",
+        "trunk lights",
+        "radio",
+        "and battery."
+      ],
+      "odiNumbers": [
+        "713912",
+        "987183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause potential accidents or leave the driver stranded, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "The vehicle engine shuts down while driving",
+        "the vehicle stalls or hesitates",
+        "the vehicle experiences intermittent stalling."
+      ],
+      "odiNumbers": [
+        "876346",
+        "801564",
+        "978274",
+        "479617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

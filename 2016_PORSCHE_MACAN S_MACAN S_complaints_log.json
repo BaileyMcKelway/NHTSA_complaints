@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "STEERING",
+    "VISIBILITY/WIPER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure and Recall Delay",
+      "impact": "The failure of the airbag sensor can cause the airbag to malfunction, leading to potential injuries or fatalities in the event of an accident. Delays in recalling and repairing the affected vehicles can further increase the risk of accidents.",
+      "symptoms": [
+        "Illuminated passenger airbag warning light",
+        "faulty airbag sensor",
+        "potential failure of the passenger airbag to deploy in an accident."
+      ],
+      "odiNumbers": [
+        "11452771",
+        "11447024",
+        "11434180",
+        "11429621",
+        "11423813",
+        "11390945",
+        "11310999",
+        "11016109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect and Recall Delay",
+      "impact": "The unavailability of parts for recall repairs can lead to delays in fixing safety-critical issues, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "None",
+        "as this issue is related to the recall process rather than a specific vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11452771",
+        "11447024",
+        "11434180",
+        "11429621",
+        "11423813",
+        "11016109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Hose Rupture due to Rubbing against Steering Knuckle and Suspension Fork",
+      "impact": "The rupture of the brake hose can cause complete brake failure, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Visible wear on the brake hose on both sides",
+        "brake failure",
+        "sudden loss of brake pressure",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11532435"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Line Rupture due to Faulty Rubber Securing Grommet",
+      "impact": "The rupture of the brake line can cause complete brake failure, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Brake line rupture",
+        "complete failure of brakes",
+        "wear on the brake line",
+        "sudden loss of brake pressure",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11495307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause a loss of steering control, making it difficult or impossible to control the vehicle, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The steering column moves up and down",
+        "the vehicle is unable to steer",
+        "a warning message appears on the dashboard indicating an electronic steering failure",
+        "the vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "11497891",
+        "11233415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Windshield Wipers",
+      "impact": "The malfunctioning windshield wipers can impair the driver's visibility, leading to accidents or near-misses, especially during inclement weather conditions.",
+      "symptoms": [
+        "The windshield wipers do not clear the windows properly",
+        "leaving streaks or residue on the windshield",
+        "obstructing the driver's view."
+      ],
+      "odiNumbers": [
+        "11119210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause injury to occupants, especially if the glass shards fall on them, and may lead to accidents due to the sudden distraction and loss of control.",
+      "symptoms": [
+        "The sunroof explodes or shatters without any apparent cause",
+        "resulting in broken glass and potential injury to occupants."
+      ],
+      "odiNumbers": [
+        "11066494"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

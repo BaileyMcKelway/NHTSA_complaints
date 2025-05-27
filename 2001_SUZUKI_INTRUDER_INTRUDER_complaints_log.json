@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping or Jumping Out of Gear",
+      "impact": "The transmission slipping or jumping out of gear can cause a sudden loss of acceleration, leading to accidents or loss of control, especially when passing other vehicles or climbing steep grades.",
+      "symptoms": [
+        "The transmission slips out of gear",
+        "especially fourth gear",
+        "when under load",
+        "such as when passing another vehicle or going over a hill; the transmission jumps out of gear",
+        "resulting in a sudden loss of acceleration; the transmission grinds or makes a noise when shifting; the vehicle goes into neutral unexpectedly; false neutral between gears."
+      ],
+      "odiNumbers": [
+        "10072546",
+        "10050969",
+        "8018399",
+        "8014041",
+        "758193",
+        "881673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Crack and Leak",
+      "impact": "A cracked fuel tank can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to the rider's safety.",
+      "symptoms": [
+        "Fuel leaks from the tank",
+        "particularly near the right front mount or flange",
+        "cracks in the tank",
+        "fuel smell or spillage."
+      ],
+      "odiNumbers": [
+        "10100812",
+        "10100519",
+        "10100054",
+        "10053233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Pair Valve Failure",
+      "impact": "The failure of the pair valve can cause backfiring, which can lead to a loss of engine power, decreased fuel efficiency, and potentially cause damage to the engine or exhaust system.",
+      "symptoms": [
+        "Backfiring or loud popping sounds from the engine or exhaust system",
+        "decreased engine performance",
+        "decreased fuel efficiency",
+        "engine hesitation or stumbling."
+      ],
+      "odiNumbers": [
+        "749917",
+        "749917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

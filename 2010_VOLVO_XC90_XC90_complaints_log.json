@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to lock or become difficult to control, making it challenging to navigate roads and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel locks or becomes stuck",
+        "the steering wheel is hard to turn",
+        "the steering wheel shakes or vibrates",
+        "the steering column sticks or feels stiff",
+        "the steering wheel feels wobbly or loose."
+      ],
+      "odiNumbers": [
+        "11360982",
+        "11209692",
+        "11123456",
+        "10987654",
+        "10876543",
+        "10765432",
+        "10654321",
+        "10543210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause the steering wheel to become stuck or difficult to control, making it challenging to navigate roads and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel is hard to turn",
+        "the steering column sticks or feels stiff",
+        "the steering wheel feels wobbly or loose",
+        "the steering wheel has a sudden loss of power assist."
+      ],
+      "odiNumbers": [
+        "11209692",
+        "10987654",
+        "10876543",
+        "10765432",
+        "10654321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Leak/Failure",
+      "impact": "A fuel system leak or failure can cause a strong gas smell inside the vehicle, potentially leading to a fire hazard or explosion. In severe cases, the vehicle may stall or shut down while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Strong gas smell inside the vehicle",
+        "especially when filling the gas tank",
+        "fuel smell coming from under the floor by the backseats",
+        "vehicle stalling or shutting down while driving",
+        "difficulty restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "11256965",
+        "11144238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "A faulty fuel pump can cause the vehicle to stall or shut down while driving, leading to a loss of power and control, which can result in accidents or injuries.",
+      "symptoms": [
+        "Vehicle stalling or shutting down while driving",
+        "difficulty restarting the vehicle",
+        "shaking or stalling upon start",
+        "burning smell from the fuel pump."
+      ],
+      "odiNumbers": [
+        "11144238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Leak",
+      "impact": "A fuel line leak can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of an accident, especially at high speeds.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the check engine warning light illuminates",
+        "difficulty restarting the vehicle",
+        "fuel smell or leak."
+      ],
+      "odiNumbers": [
+        "11516504"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Chassis Frame Attachment Failure",
+      "impact": "The repeated loss of grade 8 chassis frame attachment can lead to a loss of structural integrity, compromising the vehicle's safety and potentially causing accidents.",
+      "symptoms": [
+        "Loose or broken chassis frame attachments",
+        "rattling or clunking noises",
+        "uneven vehicle ride",
+        "reduced vehicle stability."
+      ],
+      "odiNumbers": [
+        "10066985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Preheat Tube Failure",
+      "impact": "The overheating of the preheat tube can cause fires, potentially spreading to other components and posing a significant risk to vehicle occupants and bystanders.",
+      "symptoms": [
+        "Burning smell",
+        "smoke or flames from the engine compartment",
+        "overheating engine",
+        "burning of interior components such as wood floor and carpet."
+      ],
+      "odiNumbers": [
+        "812582"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Shock Absorber Mounting",
+      "impact": "The failure to secure the shock absorbers with bushings and nuts can cause the vehicle to bounce excessively, leading to damage to the brake wires and potentially causing loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle experiences a violent shake or bounce",
+        "especially when going over bumps",
+        "the brake wires are damaged or cut",
+        "the vehicle's ride is rough and unstable."
+      ],
+      "odiNumbers": [
+        "531746",
+        "800745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Emissions Monitoring System",
+      "impact": "The failure of the emissions monitoring system can lead to undetected engine problems, potentially causing increased emissions, decreased fuel efficiency, and engine damage.",
+      "symptoms": [
+        "The \"SMOG\" or \"CHECK ENGINE\" warning indicator fails to illuminate",
+        "despite the presence of an engine problem",
+        "or remains illuminated even after the issue has been resolved."
+      ],
+      "odiNumbers": [
+        "601520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

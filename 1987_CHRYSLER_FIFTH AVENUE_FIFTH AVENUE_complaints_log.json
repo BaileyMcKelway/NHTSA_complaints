@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "PARKING BRAKE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Failure",
+      "impact": "The failure of rear suspension components, such as leaf springs and ball joints, can cause vibrations while driving, loss of vehicle control, and increased stopping distances, which can lead to accidents.",
+      "symptoms": [
+        "Vibrations while driving",
+        "uneven tire wear",
+        "clunking or rattling noises from the rear of the vehicle",
+        "sagging or uneven ride height."
+      ],
+      "odiNumbers": [
+        "510049",
+        "503133",
+        "504012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parking Gear Failure",
+      "impact": "The failure of the parking gear can cause the vehicle to roll or move unexpectedly, even when the parking brake is engaged, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle rolls or moves after being put into park",
+        "the parking brake does not hold",
+        "the vehicle starts moving unexpectedly",
+        "the parking gear fails to engage properly."
+      ],
+      "odiNumbers": [
+        "830748",
+        "510049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Speedometer and Odometer Failure",
+      "impact": "The failure of the speedometer and odometer can cause the driver to be unaware of their speed, which can lead to accidents, and also make it difficult to track maintenance and repair schedules.",
+      "symptoms": [
+        "The speedometer does not work",
+        "the odometer does not work",
+        "the mileage indicator does not display the correct mileage."
+      ],
+      "odiNumbers": [
+        "830748"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a total loss, and can also pose a risk to the safety of the occupants and bystanders.",
+      "symptoms": [
+        "Flames or smoke visible from the engine compartment",
+        "burning smell",
+        "engine overheating",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "975645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Carburetor Failure",
+      "impact": "A faulty carburetor can cause fuel leaks, engine performance issues, and potentially lead to a fire hazard.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel spills",
+        "engine stalling",
+        "poor engine performance",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "969098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

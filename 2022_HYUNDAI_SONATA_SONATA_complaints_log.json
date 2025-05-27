@@ -1,0 +1,326 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 18,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of drive power, increasing the risk of a crash, and potentially lead to a fire due to fuel leaks.",
+      "symptoms": [
+        "Delayed shifting",
+        "hard shifting",
+        "loss of power while accelerating",
+        "hesitation when shifting to the next gear",
+        "complete loss of drive power",
+        "engine overheat notification",
+        "high oil temperature",
+        "and sudden shutdown of the engine."
+      ],
+      "odiNumbers": [
+        "11566587",
+        "11539763",
+        "11538551",
+        "11534058",
+        "11517823",
+        "11503855",
+        "11501402",
+        "11498094",
+        "11497596",
+        "11495857",
+        "11495315",
+        "11494349",
+        "11494231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of control, increasing the risk of a crash, and potentially lead to accidents.",
+      "symptoms": [
+        "Frequent stalling",
+        "engine shutdown",
+        "loss of power",
+        "and inability to accelerate."
+      ],
+      "odiNumbers": [
+        "11582369",
+        "11538551",
+        "11503855",
+        "11495315",
+        "11494231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ITMS (Intelligent Temperature Management System) Failure",
+      "impact": "ITMS failure can cause engine overheating, leading to engine damage and potentially increasing the risk of a crash.",
+      "symptoms": [
+        "Engine overheating",
+        "fan runs constantly",
+        "and high oil temperature."
+      ],
+      "odiNumbers": [
+        "11526905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shifter System Malfunction",
+      "impact": "Shifter system malfunction can cause loss of control, increasing the risk of a crash, and potentially lead to accidents.",
+      "symptoms": [
+        "Shifter system malfunction service immediately warning",
+        "inability to shift gears",
+        "and sudden shutdown of the engine."
+      ],
+      "odiNumbers": [
+        "11495857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Low 12V Battery Alert and Difficulty Unlocking",
+      "impact": "The issue can cause inconvenience, safety concerns, and potential disability access issues.",
+      "symptoms": [
+        "Low 12V battery alert",
+        "difficulty unlocking the car",
+        "requiring physical key access",
+        "and potentially breaking the cover over the door latch."
+      ],
+      "odiNumbers": [
+        "11591850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Drain and Power Management Issues",
+      "impact": "The issue can cause inconvenience, safety concerns, and potential fire hazards.",
+      "symptoms": [
+        "Battery drain",
+        "self-resetting",
+        "and loss of power while parked",
+        "requiring manual access and battery reset."
+      ],
+      "odiNumbers": [
+        "11551501",
+        "11476867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failures and Safety Feature Malfunctions",
+      "impact": "The issue can cause safety concerns, loss of critical safety features, and potential accidents.",
+      "symptoms": [
+        "Dashboard warning lights",
+        "audible alarms",
+        "loss of speedometer",
+        "lane departure",
+        "lane assist",
+        "and blind spot indicators",
+        "and faulty E Brake Module."
+      ],
+      "odiNumbers": [
+        "11551216",
+        "11500216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Junction Box Failure and Electrical System Malfunctions",
+      "impact": "The issue can cause safety concerns, loss of critical functions, and potential accidents.",
+      "symptoms": [
+        "Car will not lock",
+        "signal lights do not function",
+        "cannot open gas door",
+        "cannot unlock trunk",
+        "and hazard lights are on."
+      ],
+      "odiNumbers": [
+        "11534010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Computer and Infotainment System Failures",
+      "impact": "The issue can cause inconvenience, safety concerns, and potential loss of critical safety features.",
+      "symptoms": [
+        "Voice resignation issues",
+        "affecting messages",
+        "navigation",
+        "phone",
+        "lane assist",
+        "and radar",
+        "and requiring dashboard removal for repair."
+      ],
+      "odiNumbers": [
+        "11530231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Solar Panel Roof Failure and Overcharging",
+      "impact": "The issue can cause safety concerns, potential electrical system failures, and vehicle shutdowns.",
+      "symptoms": [
+        "Solar panel roof explosion without impact",
+        "vehicle shutdown due to overcharging."
+      ],
+      "odiNumbers": [
+        "11560765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unexplained Engine Deceleration and Stalling",
+      "impact": "The sudden and unexplained deceleration and stalling of the engine can cause a loss of control, increasing the risk of accidents, and potentially leaving the driver stranded in unsafe locations.",
+      "symptoms": [
+        "The vehicle suddenly decelerates while driving",
+        "the engine stalls",
+        "the vehicle loses motive power",
+        "the accelerator pedal does not respond",
+        "error messages appear on the dashboard",
+        "such as \"auto stop is off; to restart engine shift to P or N\"."
+      ],
+      "odiNumbers": [
+        "11565639",
+        "11559134",
+        "11507159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Overheating",
+      "impact": "Engine overheating can cause damage to the engine and other components, leading to costly repairs, and potentially causing a loss of control or stalling, which can increase the risk of accidents.",
+      "symptoms": [
+        "Engine overheating warning messages appear on the dashboard",
+        "the engine temperature gauge rises",
+        "the fans run on high after the car is shut off",
+        "the engine overheats under acceleration."
+      ],
+      "odiNumbers": [
+        "11526915",
+        "11526894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Battery Failure",
+      "impact": "The failure of the hybrid battery can cause the vehicle to shut down while driving, leading to a loss of power and potentially causing accidents.",
+      "symptoms": [
+        "The hybrid battery meter drops below a quarter",
+        "the Head-Up Display (HUD) flashes red",
+        "the vehicle shuts off",
+        "and the vehicle may not start again for an extended period."
+      ],
+      "odiNumbers": [
+        "11541156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the vehicle to lose power while driving, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The engine dies while driving",
+        "the vehicle shuts off",
+        "and the check engine light comes on. The vehicle may also have consistent idling issues",
+        "shutting off when parked for too long."
+      ],
+      "odiNumbers": [
+        "11503065"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Jack Failure",
+      "impact": "The failure of the included jack can cause injuries and damage to the vehicle during tire changes.",
+      "symptoms": [
+        "The jack falls over during tire changes",
+        "potentially pinning hands or causing other injuries."
+      ],
+      "odiNumbers": [
+        "11493387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Panoramic Sunroof Failure",
+      "impact": "The sudden explosion of the panoramic sunroof can cause injuries and damage to the vehicle.",
+      "symptoms": [
+        "The panoramic sunroof explodes unexpectedly",
+        "potentially causing injuries and damage."
+      ],
+      "odiNumbers": [
+        "11484249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission and Gear Shifting Issues",
+      "impact": "The transmission and gear shifting issues can cause the vehicle to lose power, stall, or shift gears unexpectedly, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle switches gears on its own",
+        "the transmission shifts gears unexpectedly",
+        "the vehicle shuts off at stop lights",
+        "and the vehicle may have difficulty shifting into gear."
+      ],
+      "odiNumbers": [
+        "11463578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Infotainment System Issues",
+      "impact": "The infotainment system issues can cause distractions while driving, leading to a loss of focus and potentially causing accidents.",
+      "symptoms": [
+        "The self-driving system is not accurate",
+        "the vehicle tries to play Bluetooth and Apple Play at the same time",
+        "and the infotainment system may malfunction."
+      ],
+      "odiNumbers": [
+        "11463578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

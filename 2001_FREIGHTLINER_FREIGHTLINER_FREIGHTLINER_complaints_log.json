@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High-Pressure Fuel Line Failure",
+      "impact": "The failure of the high-pressure fuel line can cause fuel to spray over the hot exhaust manifold, potentially leading to a fire, which can put the lives of children on a school bus at risk.",
+      "symptoms": [
+        "Fuel sprays over the hot exhaust manifold",
+        "fuel leaks onto the ground",
+        "high-pressure fuel line failure."
+      ],
+      "odiNumbers": [
+        "753821",
+        "753822",
+        "753823",
+        "753824",
+        "753825",
+        "753826",
+        "753828",
+        "753829",
+        "753721",
+        "753722",
+        "753727",
+        "753728",
+        "753730",
+        "753731",
+        "753733",
+        "753737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Routing Issue",
+      "impact": "The exhaust system's proximity to the rear air spring suspension can cause the heat from the exhaust pipe to burn a hole in the air spring bag, leading to air loss and compromised handling, which can increase the risk of accidents.",
+      "symptoms": [
+        "Slow air loss",
+        "air spring bag failure",
+        "compromised handling."
+      ],
+      "odiNumbers": [
+        "767944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Suspension System Failure",
+      "impact": "Failure of the suspension system, including broken half springs, loose spring hanger mounting bolts, and shifting axles, can cause the vehicle to sway or lean, compromising handling and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle sways or leans",
+        "broken half springs",
+        "loose spring hanger mounting bolts",
+        "shifting axles",
+        "chafing brake hoses."
+      ],
+      "odiNumbers": [
+        "564112",
+        "561124",
+        "557097",
+        "557096",
+        "557089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ineffective Service Brake Repair",
+      "impact": "The repeated failure of the service brake repair can lead to a loss of braking power, increasing the risk of accidents and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's brakes do not function properly",
+        "the brakes are spongy or soft",
+        "the brakes are unresponsive",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "10026172",
+        "10026169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

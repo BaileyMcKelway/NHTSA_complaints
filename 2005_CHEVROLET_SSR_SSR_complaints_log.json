@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "LATCHES/LOCKS/LINKAGES",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inside Door Mechanism Failure",
+      "impact": "The failure of the inside door mechanism can prevent the driver from exiting the vehicle in a safe and timely manner, which can lead to accidents, injuries, or fatalities in emergency situations such as fires or accidents.",
+      "symptoms": [
+        "The driver's side door handle is broken or inoperable",
+        "the door cannot be opened from the inside",
+        "the only way to exit the vehicle is to roll down the window and use the exterior handle",
+        "or crawl across the vehicle to exit through the passenger door."
+      ],
+      "odiNumbers": [
+        "10167626",
+        "10166416",
+        "10165720",
+        "10165449",
+        "10165023",
+        "10164285",
+        "10160414",
+        "10159505",
+        "10155452",
+        "10139853",
+        "10139800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the vehicle to shift gears on its own while in motion, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle shifts gears on its own",
+        "the vehicle is difficult to control",
+        "the vehicle's transmission malfunctions."
+      ],
+      "odiNumbers": [
+        "11399938"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine and radio to fail to turn off, even after the key is removed from the ignition, leading to battery drain and potential safety hazards.",
+      "symptoms": [
+        "The engine and radio do not turn off after the key is removed",
+        "the alarm buzzer continues to sound after the key is removed",
+        "the vehicle requires multiple attempts to turn off."
+      ],
+      "odiNumbers": [
+        "10838199",
+        "10579701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Malfunction",
+      "impact": "The malfunction of the speedometer can cause the driver to be unaware of their actual speed, leading to potential safety hazards and accidents.",
+      "symptoms": [
+        "The speedometer provides an inaccurate reading",
+        "the speedometer reads a high speed while the vehicle is stationary",
+        "the speedometer is unreliable."
+      ],
+      "odiNumbers": [
+        "10397143",
+        "10330949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Inside Door Handle Failure",
+      "impact": "The failure of the driver's inside door handle can cause the driver to become trapped inside the vehicle, which is a significant safety concern, especially in emergency situations.",
+      "symptoms": [
+        "The inside door handle breaks or fractures",
+        "making it impossible to open the door from the inside",
+        "the door handle feels loose or fragile",
+        "the door handle does not respond to attempts to open the door."
+      ],
+      "odiNumbers": [
+        "10436029",
+        "10419707",
+        "10163988",
+        "10140412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

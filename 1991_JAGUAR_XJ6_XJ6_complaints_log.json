@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SUSPENSION",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Retractable Seat Belt Failure",
+      "impact": "The failure of the retractable seat belts can cause safety risks, including entanglement with the steering wheel, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The seat belts do not operate",
+        "the seat belts do not retract",
+        "the motor winch gets stuck",
+        "a component of the assembly breaks off",
+        "the seat belts extend across the steering wheel while driving."
+      ],
+      "odiNumbers": [
+        "10928124",
+        "10501937",
+        "10342328",
+        "10267666",
+        "10133503",
+        "10029670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Failure",
+      "impact": "The failure of the rear suspension can cause the rear of the vehicle to drop, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The rear of the vehicle drops",
+        "uneven ride",
+        "difficulty steering",
+        "loss of vehicle stability",
+        "frequent replacement of rear shocks."
+      ],
+      "odiNumbers": [
+        "824734",
+        "801601",
+        "714277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Shift Lever Security Failure",
+      "impact": "The failure of the shift lever security system can allow unauthorized access to the vehicle's transmission, potentially leading to accidents or injuries, especially if a child or unauthorized person is able to shift the vehicle into gear.",
+      "symptoms": [
+        "The shift lever can be moved out of park without a key being present or locked",
+        "the vehicle can be shifted into gear without proper authorization."
+      ],
+      "odiNumbers": [
+        "753784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Differential Failure",
+      "impact": "The failure of the differential can cause loss of vehicle control, leading to accidents or injuries, and can also result in costly repairs.",
+      "symptoms": [
+        "The differential makes unusual noises",
+        "the differential leaks fluid",
+        "the vehicle vibrates or shakes while driving",
+        "the vehicle has difficulty turning or cornering."
+      ],
+      "odiNumbers": [
+        "501815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Malfunction",
+      "impact": "The malfunction of the ABS system can cause the brakes to lock up on a dry road, leading to loss of control and increased risk of accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brakes lock up on the driver's front wheel",
+        "even on dry roads",
+        "causing the vehicle to skid or lose control."
+      ],
+      "odiNumbers": [
+        "889689",
+        "501815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the brakes fail to stop the vehicle",
+        "the vehicle accelerates unexpectedly",
+        "loss of control while driving."
+      ],
+      "odiNumbers": [
+        "986042",
+        "486613"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

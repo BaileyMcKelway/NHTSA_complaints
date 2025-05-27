@@ -1,0 +1,470 @@
+{
+  "totalComplaints": 103,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 28,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, loss of motive power, and unexpected behavior of vehicle systems, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Sudden loss of power",
+        "electrical fires",
+        "unexpected warning lights or messages",
+        "loss of motive power",
+        "and unexpected behavior of vehicle systems."
+      ],
+      "odiNumbers": [
+        "11546461",
+        "11544009",
+        "11470128",
+        "11467687",
+        "11455561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Advanced Safety Features Malfunction",
+      "impact": "Malfunctioning advanced safety features, such as collision warning systems, automatic emergency braking, and blind spot monitoring, can increase the risk of accidents.",
+      "symptoms": [
+        "False warnings",
+        "unexpected activation of safety features",
+        "failure of safety features to activate when needed",
+        "and inconsistent behavior of safety features."
+      ],
+      "odiNumbers": [
+        "11577229",
+        "11574172",
+        "11484619",
+        "11494190",
+        "11398406",
+        "11319371",
+        "11307037"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "Infotainment system failures can cause distractions while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "Crashing or rebooting of the infotainment system",
+        "loss of navigation and audio functions",
+        "and unexpected behavior of the infotainment system."
+      ],
+      "odiNumbers": [
+        "11545173",
+        "11483594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Actuator Failure",
+      "impact": "Failure of door actuators can cause inconvenience and safety risks, such as being unable to lock or unlock doors.",
+      "symptoms": [
+        "Failure of doors to lock or unlock",
+        "inability to manually lock or unlock doors",
+        "and inconsistent behavior of door actuators."
+      ],
+      "odiNumbers": [
+        "11527486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause unexpected loss of power, hesitation, or sudden acceleration, which can increase the risk of accidents.",
+      "symptoms": [
+        "Unexpected loss of power",
+        "hesitation",
+        "sudden acceleration",
+        "and inconsistent behavior of the engine."
+      ],
+      "odiNumbers": [
+        "11504210",
+        "11463753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Bearing Failure",
+      "impact": "The failure of the wheel bearing can cause the wheel to come off during driving, leading to accidents or loss of control.",
+      "symptoms": [
+        "Abnormal noise coming from the right side of the car",
+        "low droning/humming/vibrating noise from the opposite side when turning",
+        "noise becomes more pronounced with speed and depth of turn."
+      ],
+      "odiNumbers": [
+        "11572340"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering can cause a loss of control, especially in emergency situations, at higher speeds, or if the driver is weaker or smaller.",
+      "symptoms": [
+        "Power steering cuts off while driving",
+        "warning lights show on the dash indicating ABS",
+        "etc.",
+        "but codes disappear when the car is turned off and back on."
+      ],
+      "odiNumbers": [
+        "11559839",
+        "11548052",
+        "11518324",
+        "11511403",
+        "11426991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tie Rod Ball Joint Failure",
+      "impact": "The failure of the tie rod ball joint can cause the vehicle to lose control, leading to accidents or loss of control.",
+      "symptoms": [
+        "Abnormal clicking and grinding sound coming from the front-end passenger's side tire",
+        "tie rod ball joint snapped and broke",
+        "causing the vehicle to lose control."
+      ],
+      "odiNumbers": [
+        "11552353",
+        "11539744",
+        "11452018",
+        "11511403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to lose control, leading to accidents or loss of control.",
+      "symptoms": [
+        "Steering wheel seized",
+        "power steering warning light was illuminated",
+        "abnormal sound coming from the vehicle while turning."
+      ],
+      "odiNumbers": [
+        "11548052",
+        "11511403",
+        "11426991",
+        "11389572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Forward Collision ADAS Failure",
+      "impact": "The failure of the forward collision ADAS can cause the vehicle to brake suddenly, leading to accidents or loss of control.",
+      "symptoms": [
+        "Forward collision ADAS kicked in",
+        "locking up the brakes",
+        "causing the vehicle to slide into a curb and nearly rear-end another vehicle."
+      ],
+      "odiNumbers": [
+        "11374757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Hub Bearing Failure",
+      "impact": "The failure of the hub bearing can cause the vehicle to lose control, leading to accidents or loss of control.",
+      "symptoms": [
+        "Abnormal noise coming from the vehicle",
+        "hub bearing failure diagnosed by a dealer."
+      ],
+      "odiNumbers": [
+        "11539744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Electric Power Steering Failure",
+      "impact": "The failure of the electric power steering can cause the vehicle to lose control, leading to accidents or loss of control.",
+      "symptoms": [
+        "Steering wheel seized",
+        "power steering warning light was illuminated",
+        "vehicle was designed with an electric power steering."
+      ],
+      "odiNumbers": [
+        "11548052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Lock Actuator Failure",
+      "impact": "The failure of the door lock actuators can cause inconvenience, discomfort, and potentially lead to safety issues if the doors become stuck or unable to lock properly.",
+      "symptoms": [
+        "All four door lock actuators failed",
+        "doors stuck or unable to lock."
+      ],
+      "odiNumbers": [
+        "11587610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Forward Collision Warning System Malfunction",
+      "impact": "The malfunction of the forward collision warning system can cause unnecessary panic, distraction, and potentially lead to accidents if the system fails to alert the driver of potential collisions.",
+      "symptoms": [
+        "Forward collision warning light comes on",
+        "stays on for a couple of days",
+        "and then goes away",
+        "only to come back again; no error codes displayed."
+      ],
+      "odiNumbers": [
+        "11528246",
+        "11512342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Malfunction Mode",
+      "impact": "The vehicle malfunction mode can cause inconvenience, discomfort, and potentially lead to safety issues if the vehicle becomes stuck in this mode.",
+      "symptoms": [
+        "Vehicle continually goes into malfunction mode",
+        "throws a code for mass air flow sensor",
+        "collision warning goes off for no reason."
+      ],
+      "odiNumbers": [
+        "11512342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause serious injury, death, and property damage.",
+      "symptoms": [
+        "Vehicle caught on fire",
+        "burst into flames within minutes of seeing smoke."
+      ],
+      "odiNumbers": [
+        "11505666"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Headlight and Electrical System Issues",
+      "impact": "Headlight and electrical system issues can cause inconvenience, discomfort, and potentially lead to safety issues if the headlights are not functioning properly.",
+      "symptoms": [
+        "Headlights on passenger side did not work",
+        "had to change the computer system",
+        "hood was off track",
+        "axle gears needed to be dropped and greased",
+        "fuel induction and injection service required."
+      ],
+      "odiNumbers": [
+        "11475640"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Window Shattering",
+      "impact": "The shattering of the rear window can cause injury, discomfort, and potentially lead to safety issues if the window is not properly secured.",
+      "symptoms": [
+        "Rear window shattered and was pushed outward",
+        "heard a loud bang",
+        "no prior cracks or chips in the window."
+      ],
+      "odiNumbers": [
+        "11434636",
+        "11344035",
+        "11331320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Rear Sensor Malfunction",
+      "impact": "The malfunction of the rear sensors can cause inconvenience, discomfort, and potentially lead to safety issues if the sensors are not functioning properly.",
+      "symptoms": [
+        "Rear sensors did not go off when backing up",
+        "alert on the dashboard",
+        "wiping the sensors did not resolve the issue."
+      ],
+      "odiNumbers": [
+        "11404032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Windshield Chips and Cracks",
+      "impact": "Windshield chips and cracks can cause inconvenience, discomfort, and potentially lead to safety issues if the windshield is not properly secured.",
+      "symptoms": [
+        "Chips and cracks on the top of the windshield",
+        "no prior damage or debris."
+      ],
+      "odiNumbers": [
+        "11352845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 9,
+      "issueCategory": "Infotainment System Issues",
+      "impact": "Infotainment system issues can cause inconvenience, discomfort, and potentially lead to distraction while driving.",
+      "symptoms": [
+        "Issues with Android Auto",
+        "music stuttering",
+        "software update did not resolve the issue."
+      ],
+      "odiNumbers": [
+        "11350518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 10,
+      "issueCategory": "Rattling Noise",
+      "impact": "A rattling noise can cause inconvenience, discomfort, and potentially lead to distraction while driving.",
+      "symptoms": [
+        "Car rattles when going over potholes",
+        "similar to a recall issue with a 2013 Nissan."
+      ],
+      "odiNumbers": [
+        "11350087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 11,
+      "issueCategory": "Navigation System Malfunction",
+      "impact": "The malfunction of the navigation system can cause inconvenience, discomfort, and potentially lead to safety issues if the driver becomes lost or distracted.",
+      "symptoms": [
+        "Navigation system sent driver in the wrong direction",
+        "alert appeared on the dashboard with no clear explanation."
+      ],
+      "odiNumbers": [
+        "11312084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Delayed acceleration",
+        "hesitation",
+        "stalling",
+        "jerking",
+        "vibration",
+        "and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11590784",
+        "11572332",
+        "11561957",
+        "11463946",
+        "11426927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unpredictable Vehicle Acceleration",
+      "impact": "The unpredictable acceleration of the vehicle can cause accidents or near-miss incidents, posing a great safety risk to occupants and other drivers/pedestrians.",
+      "symptoms": [
+        "Delayed acceleration",
+        "hesitation",
+        "sudden acceleration",
+        "and unpredictable power delivery."
+      ],
+      "odiNumbers": [
+        "11590784",
+        "11426927",
+        "11396918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose power, stall, or catch fire, leading to accidents or fires.",
+      "symptoms": [
+        "Loss of power",
+        "stalling",
+        "electrical shorts",
+        "and dashboard lights illuminating."
+      ],
+      "odiNumbers": [
+        "11529027",
+        "11489396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Lock System Failure",
+      "impact": "The failure of the door lock system can cause safety risks, especially for children sitting in the back seats.",
+      "symptoms": [
+        "Inability to lock or unlock doors using the key or button."
+      ],
+      "odiNumbers": [
+        "11538270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "The failure of the engine mount can cause electrical shorts, leading to fires or accidents.",
+      "symptoms": [
+        "Broken engine mount bolts",
+        "damaged wire harness",
+        "and electrical shorts."
+      ],
+      "odiNumbers": [
+        "11529027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

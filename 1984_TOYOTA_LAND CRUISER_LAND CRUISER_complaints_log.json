@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seat Belt Latch Failure",
+      "impact": "The failure of the front seat belt latch can cause the seat belt to jam, making it difficult or impossible to release, which can lead to injuries or accidents in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The front seat belt latch plastic cover/release button breaks",
+        "the release mechanism jams",
+        "the driver's seat belt cannot be released."
+      ],
+      "odiNumbers": [
+        "521487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to fail to retract, making it difficult or impossible to use the seat belt properly, which can lead to injuries or accidents in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The driver and front passenger's seat belt will not retract",
+        "the rear seat belts failed",
+        "the front/rear seat belt retractors failed."
+      ],
+      "odiNumbers": [
+        "968529",
+        "482236",
+        "476682",
+        "476554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Failure",
+      "impact": "The separation of the tire tread can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Bumpy ride",
+        "irregularity in the sidewall",
+        "loud pop",
+        "vibration",
+        "gaping hole in the tread."
+      ],
+      "odiNumbers": [
+        "749226",
+        "734675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Internal Pressure Sensor Failure",
+      "impact": "The failure of the fuel tank internal pressure sensor can cause the fuel tank to become highly pressurized, leading to a potential explosion or fire hazard when the gas cap is removed, which can result in serious injury or death.",
+      "symptoms": [
+        "The fuel tank becomes highly pressurized when the gas cap is removed",
+        "making it difficult to remove the cap",
+        "and potentially causing a loud hissing sound or a burst of pressure."
+      ],
+      "odiNumbers": [
+        "476682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unavailability of Fuel Tank Recall Repair Parts",
+      "impact": "The unavailability of parts for the fuel tank recall repair can leave vehicles in an unsafe condition, increasing the risk of fuel tank rupture, explosion, or fire, which can result in serious injury or death.",
+      "symptoms": [
+        "Vehicle owners are unable to have their fuel tank repaired due to a lack of available parts",
+        "leaving them with a potentially hazardous vehicle."
+      ],
+      "odiNumbers": [
+        "476524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

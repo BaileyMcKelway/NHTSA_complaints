@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Lock Actuator Failure",
+      "impact": "The failure of the door lock actuator can cause the doors to not open or unlock, potentially trapping occupants inside the vehicle, which is a serious safety concern.",
+      "symptoms": [
+        "The doors do not open or unlock when attempting to exit the vehicle",
+        "the doors only unlock but do not open",
+        "the central lock/unlock button is the only way to exit the vehicle."
+      ],
+      "odiNumbers": [
+        "11191736",
+        "11169906",
+        "11061217",
+        "10490036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can cause a lack of warning to other drivers in emergency situations, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The horn does not work when the ignition is turned off",
+        "the horn only works when the key is in the ignition and the dashboard display is activated."
+      ],
+      "odiNumbers": [
+        "10598385"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Error",
+      "impact": "The failure of the airbag deployment system can cause serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The airbag deployment error message appears on the display",
+        "the airbags do not deploy in an accident."
+      ],
+      "odiNumbers": [
+        "10513158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Start/Stop Function Malfunction",
+      "impact": "The malfunction of the auto start/stop function can cause the vehicle to stall or not start, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle does not start again after the auto start/stop function has malfunctioned",
+        "an error message appears on the display indicating \"ignition malfunction -- do not turn engine off.\""
+      ],
+      "odiNumbers": [
+        "10508639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "The failure to properly address the Takata airbag recall can lead to a significant risk of injury or death in the event of an accident, as the faulty airbag may not deploy correctly or may even explode, causing shrapnel to be ejected into the vehicle.",
+      "symptoms": [
+        "Delayed or incomplete recall repairs",
+        "lack of communication from the manufacturer or dealership",
+        "refusal to provide proof of recall work completion",
+        "concerns about vehicle safety",
+        "and requests for early lease termination."
+      ],
+      "odiNumbers": [
+        "11043583",
+        "10899248",
+        "10855404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

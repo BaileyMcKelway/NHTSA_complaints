@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "LANE DEPARTURE",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lane Keep Assist System Failure",
+      "impact": "The malfunctioning lane keep assist system can cause the vehicle to steer unexpectedly, leading to loss of control, accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The lane keep assist system engages unnecessarily",
+        "even when the vehicle is traveling in a straight line",
+        "and can cause the steering wheel to turn unexpectedly",
+        "especially in intersections or when lanes are missing or not visible. The system may also fail to detect lanes",
+        "leading to random steering corrections."
+      ],
+      "odiNumbers": [
+        "11590043",
+        "11585817",
+        "11585964",
+        "11579510"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Communication Box Issue",
+      "impact": "The communication box issue can cause the steering wheel adjustment to malfunction, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The steering wheel adjustment does not work",
+        "and the communication box may need to be unplugged and replugged to resolve the issue."
+      ],
+      "odiNumbers": [
+        "11590043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to stop in the middle of the road, leading to potential accidents and safety risks.",
+      "symptoms": [
+        "The vehicle stops suddenly",
+        "displaying an \"electrical system failure\" error message."
+      ],
+      "odiNumbers": [
+        "11590043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Adaptive Cruise Control Failure",
+      "impact": "The malfunctioning adaptive cruise control system can cause the vehicle to ignore traffic cones or obstacles, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The vehicle ignores traffic cones or obstacles",
+        "and the adaptive cruise control system may cause the vehicle to pull to the side of the road and fail to shift back into gear",
+        "resulting in errors."
+      ],
+      "odiNumbers": [
+        "11585964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lane Keeping Assist System Malfunction",
+      "impact": "The lane keeping assist system's erratic behavior can cause the vehicle to jerk into traffic, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle suddenly jerks into traffic",
+        "the lane keeping assist system does not function properly",
+        "the vehicle drifts to one side of the traffic even at moderate speeds."
+      ],
+      "odiNumbers": [
+        "11592279",
+        "11589119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Forward Collision Detection System Failure",
+      "impact": "The failure of the forward collision detection system to detect stopped objects and apply automatic brakes can increase the risk of accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The forward collision detection system rarely or never detects stopped objects",
+        "the system fails to apply automatic brakes",
+        "the system only displays a pop-up warning but does not take action."
+      ],
+      "odiNumbers": [
+        "11589119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Performance Issues",
+      "impact": "The brake system's poor performance at low speeds can increase the stopping distance, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal requires excessive force to stop the vehicle completely at low speeds (below 10mph)",
+        "the brake system feels unresponsive or sluggish at low speeds."
+      ],
+      "odiNumbers": [
+        "11589119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Collision Safety Features",
+      "impact": "The failure of collision safety features can increase the risk of accidents, injuries, and fatalities, compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "The collision safety features",
+        "such as automatic emergency braking",
+        "lane departure warning",
+        "and blind-spot detection",
+        "do not activate or function properly during driving",
+        "despite being advertised as standard features."
+      ],
+      "odiNumbers": [
+        "11589132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate or Misleading Advertising of Safety Features",
+      "impact": "The misrepresentation of safety features can lead to a false sense of security, causing drivers to be less vigilant and more prone to accidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The manufacturer's documentation and advertising claim the presence of certain safety features",
+        "but these features do not function as described or are not present in the vehicle."
+      ],
+      "odiNumbers": [
+        "11589132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

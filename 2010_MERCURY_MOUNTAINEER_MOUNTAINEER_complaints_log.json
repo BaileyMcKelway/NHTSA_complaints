@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Wheel Bearing Causing ABS Malfunction",
+      "impact": "A faulty wheel bearing can disrupt the Anti-lock Braking System (ABS) sensors, leading to sudden and unpredictable brake seizures, which can cause accidents, loss of control, or even result in fatalities.",
+      "symptoms": [
+        "The brakes lock up or seize while driving",
+        "often without warning",
+        "and can occur at random times and speeds."
+      ],
+      "odiNumbers": [
+        "10702320",
+        "10574800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure of ABS System Due to Defective Components",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to loss of control, accidents, or even fatalities.",
+      "symptoms": [
+        "The brakes lock up or seize while driving",
+        "often without warning",
+        "and can occur at random times and speeds."
+      ],
+      "odiNumbers": [
+        "10702320",
+        "10574800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission/ Ignition Interlock Failure",
+      "impact": "The failure of the transmission/ignition interlock system can cause the vehicle to roll backwards while in park, leading to accidents or injuries, and may also prevent the vehicle from starting, leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle rolls backwards while in park",
+        "the vehicle will not start",
+        "the shifter moves freely regardless of brake application",
+        "the parking brake must be engaged to hold the vehicle in place",
+        "the vehicle starts normally after a period of time (30 minutes to an hour) without any other action."
+      ],
+      "odiNumbers": [
+        "10460011",
+        "10641517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wheel Bearing Failure Causing Anti-lock Brake Sensor Malfunction",
+      "impact": "The failure of the wheel bearing can cause the anti-lock brake sensor to malfunction, leading to the brakes locking up while driving, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The brakes lock up while driving",
+        "the vehicle experiences an extremely dangerous driving scenario."
+      ],
+      "odiNumbers": [
+        "10641517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Engine Computer (PCM) Error Codes",
+      "impact": "The faulty engine computer can provide incorrect error codes, leading to misdiagnosis and potentially causing the vehicle to stall or fail to start, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "incorrect error codes are displayed",
+        "the vehicle stalls or fails to start",
+        "difficulty diagnosing the actual problem."
+      ],
+      "odiNumbers": [
+        "11468066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

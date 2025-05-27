@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CVT Transmission Software Failure",
+      "impact": "The failure of the CVT transmission software can cause the vehicle to hesitate or fail to accelerate, leading to a safety risk, especially when merging or crossing intersections.",
+      "symptoms": [
+        "The vehicle hesitates or fails to accelerate when pressing the gas pedal",
+        "gets stuck at a specific speed (30-45 MPH)",
+        "and the RPMs get stuck at 3-4 thousand RPMs."
+      ],
+      "odiNumbers": [
+        "11588792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioning Compressor Failure",
+      "impact": "The failure of the air conditioning compressor can cause the vehicle to stall, leading to a safety risk, especially when driving in heavy traffic or on the highway.",
+      "symptoms": [
+        "The air conditioning compressor stops working",
+        "makes noise",
+        "and the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11526076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Power Loss and Stalling",
+      "impact": "The intermittent power loss and stalling can cause the vehicle to lose speed and acceleration, increasing the risk of accidents, especially on high-speed roads. The failure can also lead to a loss of control and potentially cause a crash.",
+      "symptoms": [
+        "The vehicle's power fluctuates",
+        "the vehicle stalls",
+        "the vehicle will not accelerate above a certain speed (e.g.",
+        "30 MPH)",
+        "the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11535929",
+        "11488905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause the vehicle to suddenly stop, which can lead to accidents, injuries, and damage to the vehicle.",
+      "symptoms": [
+        "The vehicle comes to a hard stop without warning",
+        "the vehicle stops suddenly without any obstacles in front",
+        "the seatbelt tightens",
+        "and the body is thrown forward",
+        "causing discomfort or pain."
+      ],
+      "odiNumbers": [
+        "11488453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Stalling and Failure to Accelerate",
+      "impact": "The engine stalling and failure to accelerate can cause the vehicle to lose power and momentum, which can lead to accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the vehicle does not accelerate as needed",
+        "the check engine warning light is illuminated",
+        "the vehicle hesitates or struggles to move forward."
+      ],
+      "odiNumbers": [
+        "11483298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Catalytic Converter Failure",
+      "impact": "The premature failure of the catalytic converter can cause the vehicle to emit excessive pollutants, leading to environmental harm and potentially causing respiratory issues for individuals with pre-existing conditions. Additionally, the failure can trigger the Check Engine light, which can lead to decreased fuel efficiency and engine performance.",
+      "symptoms": [
+        "The Service Engine warning light illuminates",
+        "the vehicle emits excessive pollutants",
+        "decreased fuel efficiency",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "11588728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Driver-Side Seatbelt",
+      "impact": "A malfunctioning driver-side seatbelt can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The driver-side seatbelt does not lock or retract properly",
+        "the seatbelt warning light is illuminated",
+        "the seatbelt is stuck or jammed",
+        "the seatbelt buckle does not latch securely."
+      ],
+      "odiNumbers": [
+        "11565879"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

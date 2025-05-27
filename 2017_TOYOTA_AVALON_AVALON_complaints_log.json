@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lack of Auto-Stop Feature and Insufficient Warning Systems",
+      "impact": "The absence of an auto-stop feature and inadequate warning systems can lead to carbon monoxide poisoning, resulting in fatalities, when the vehicle is left idling in an enclosed space.",
+      "symptoms": [
+        "None",
+        "as this issue is related to a design flaw rather than a malfunctioning component."
+      ],
+      "odiNumbers": [
+        "11233544",
+        "11220141",
+        "11220206",
+        "11220211",
+        "11220224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Speed Sensor Failure",
+      "impact": "A faulty speed sensor can cause the vehicle to malfunction, resulting in unexpected gear shifts, grinding noises, and potentially leading to accidents or traffic violations. Inaccurate speed readings can also lead to misjudging speed, which can result in citations or accidents.",
+      "symptoms": [
+        "The vehicle jumps out of gear",
+        "grinding noises when shifting",
+        "check engine light comes on",
+        "inaccurate speed readings on the analog speedometer and digital display."
+      ],
+      "odiNumbers": [
+        "11490639",
+        "11062027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Takata Airbag Recall",
+      "impact": "The delay in repairing the Takata airbag recall can increase the risk of injury or death in the event of an accident, as the faulty airbag may not deploy properly or may deploy with excessive force.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in repair rather than a specific failure."
+      ],
+      "odiNumbers": [
+        "11323260",
+        "11301635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

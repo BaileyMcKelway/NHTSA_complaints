@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "STRUCTURE",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Gauge Failure",
+      "impact": "The failure of the RPM gauge and air pressure gauge can lead to a lack of critical information for the driver, potentially causing engine damage or safety issues.",
+      "symptoms": [
+        "The RPM gauge and/or air pressure gauge do not function or display incorrect readings",
+        "the gauges are stuck or frozen",
+        "the gauges are dim or difficult to read."
+      ],
+      "odiNumbers": [
+        "540067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sensor Failure for Holding Tanks",
+      "impact": "The failure of the sensors for the black holding tank and grey water tank can lead to inaccurate readings, causing issues with waste management and potentially leading to environmental hazards or health risks.",
+      "symptoms": [
+        "The sensors for the black holding tank and/or grey water tank do not function or display incorrect readings",
+        "the sensors are stuck or frozen",
+        "the sensors are dim or difficult to read",
+        "the waste management system malfunctions."
+      ],
+      "odiNumbers": [
+        "540067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate TV Mounting and Frame Structural Integrity",
+      "impact": "The failure of the TV mounting system and the frame's structural integrity can cause the TV to fall on the driver, potentially causing injury or distraction, which can lead to accidents.",
+      "symptoms": [
+        "The TV falls out of its enclosure while driving",
+        "the TV is held by weak or stripped screws",
+        "the frame has missing welds",
+        "the air suspension system is compromised."
+      ],
+      "odiNumbers": [
+        "736214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Missing Welds on Frame Outrigger",
+      "impact": "The missing welds on the frame outrigger can compromise the structural integrity of the vehicle, leading to potential safety issues, especially when combined with the air suspension system.",
+      "symptoms": [
+        "The frame has missing welds",
+        "the air suspension system is compromised",
+        "the vehicle's structural integrity is compromised."
+      ],
+      "odiNumbers": [
+        "736214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front End Misalignment",
+      "impact": "Front end misalignment can cause uneven tire wear, reduced handling and stability, and increased risk of loss of control, which can lead to accidents.",
+      "symptoms": [
+        "Abnormal noises while driving",
+        "such as clunking",
+        "creaking",
+        "or grinding sounds",
+        "coming from the front end of the vehicle",
+        "uneven tire wear",
+        "vibration in the steering wheel",
+        "difficulty steering or maintaining a straight line."
+      ],
+      "odiNumbers": [
+        "540067",
+        "10894359",
+        "10790783",
+        "10763771",
+        "10650766",
+        "10588926",
+        "10567062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

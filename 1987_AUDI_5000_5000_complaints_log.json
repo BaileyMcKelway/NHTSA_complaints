@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hydroboost Failure",
+      "impact": "The failure of the hydroboost system can cause a loss of braking power, leading to extended stopping distances, accidents, and potential injuries.",
+      "symptoms": [
+        "Violent shaking and vibration when applying the brakes",
+        "little to no stopping ability",
+        "smoke coming from the steering wheel",
+        "excessive heat emanating from the steering wheel."
+      ],
+      "odiNumbers": [
+        "863589",
+        "960950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Failure of Multi-Function Switch",
+      "impact": "The intermittent failure of the multi-function switch can cause unpredictable and sudden loss of critical vehicle functions, such as headlights, wipers, cruise control, and turn signals, which can lead to accidents or reduce visibility in low-light conditions.",
+      "symptoms": [
+        "Headlights",
+        "wipers",
+        "cruise control",
+        "and turn signals malfunction or work intermittently",
+        "sudden loss of function",
+        "unpredictable behavior of vehicle systems."
+      ],
+      "odiNumbers": [
+        "540823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or fail to start, leading to safety risks, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Vehicle fails to start",
+        "vehicle stalls while driving",
+        "ignition switch feels loose or worn out",
+        "difficulty turning the key in the ignition."
+      ],
+      "odiNumbers": [
+        "526879"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and even fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the accelerator pedal sticks or becomes stuck",
+        "the vehicle surges forward without input from the driver",
+        "the vehicle's speed increases rapidly without warning."
+      ],
+      "odiNumbers": [
+        "526489",
+        "483872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause a loss of steering control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle turns in an unexpected direction",
+        "the steering wheel does not respond to input",
+        "the steering column breaks or separates",
+        "the vehicle loses steering control",
+        "the vehicle crashes into a barrier or other objects."
+      ],
+      "odiNumbers": [
+        "979293",
+        "979293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

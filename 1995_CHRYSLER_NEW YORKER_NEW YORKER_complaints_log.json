@@ -1,0 +1,259 @@
+{
+  "totalComplaints": 79,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Complete steering failure",
+        "loose steering",
+        "vibration of the front end",
+        "noise when turning the wheel",
+        "difficulty steering",
+        "and loss of power steering."
+      ],
+      "odiNumbers": [
+        "10249348",
+        "10017595",
+        "562686",
+        "750984",
+        "747556",
+        "889411",
+        "873729",
+        "733459",
+        "859330",
+        "716813",
+        "715247",
+        "852815",
+        "844955",
+        "490715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tie Rod Failure",
+      "impact": "The failure of the tie rod can cause loss of steering, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Failure of the tie rod bushings",
+        "fracturing of the tie rod",
+        "and shearing of the bolts that hold the tie rod to the frame."
+      ],
+      "odiNumbers": [
+        "562686",
+        "750984",
+        "747556",
+        "889411",
+        "733459",
+        "716813",
+        "715247",
+        "852815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering can cause loss of steering, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Noise when turning the wheel",
+        "difficulty steering",
+        "and failure of the rack and pinion steering."
+      ],
+      "odiNumbers": [
+        "747556",
+        "859330",
+        "716813",
+        "844955"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Loss of power steering",
+        "fluid leakage",
+        "and difficulty steering."
+      ],
+      "odiNumbers": [
+        "490715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping or Jumping into Gear",
+      "impact": "The transmission slipping or jumping into gear without warning can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Transmission jumps from Park to Reverse or Drive",
+        "transmission slips into second gear when in Drive position",
+        "hard jerk when shifting from Park to Reverse",
+        "unable to shift into second gear."
+      ],
+      "odiNumbers": [
+        "8002252",
+        "828218",
+        "501508"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to become inoperable, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission failure",
+        "replacement of transmission required",
+        "shuddering when shifting gears."
+      ],
+      "odiNumbers": [
+        "717928",
+        "707655",
+        "605632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Interlock System Failure",
+      "impact": "The failure of the transmission interlock system can cause the key to become stuck in the ignition, making it difficult to remove.",
+      "symptoms": [
+        "Must jiggle and push back gear selector to remove key from ignition while in Park."
+      ],
+      "odiNumbers": [
+        "710118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Sinking or Failure to Stop",
+      "impact": "The failure of the brake system can cause extended stopping distances, loss of control, and accidents, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has to be pressed almost to the floor before the vehicle will stop",
+        "the brake pedal goes to the floor and the vehicle does not slow down",
+        "the vehicle vibrates or makes a thumping noise when applying the brakes."
+      ],
+      "odiNumbers": [
+        "10054012",
+        "8002251",
+        "836569",
+        "833660",
+        "803039",
+        "488210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause loss of control, accidents, and extended stopping distances, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "The ABS light comes on intermittently",
+        "the defroster comes on automatically when the ABS light is on",
+        "the vehicle vibrates or makes a thumping noise when applying the brakes",
+        "loss of effectiveness of the brakes."
+      ],
+      "odiNumbers": [
+        "10054012",
+        "803039",
+        "488210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause water to drain onto the brake lines, leading to rust and corrosion, which can cause brake failure and accidents.",
+      "symptoms": [
+        "Water drains onto the brake lines",
+        "air conditioning system failure",
+        "rust and corrosion on the brake lines."
+      ],
+      "odiNumbers": [
+        "8020686",
+        "712940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause fuel leaks, which can lead to fires, accidents, and serious injury or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel runs out into the fuel injectors",
+        "damaged tires."
+      ],
+      "odiNumbers": [
+        "8020686",
+        "833090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Rail Crack/Leakage",
+      "impact": "A cracked or leaking fuel rail can cause fuel to leak into the passenger compartment, creating a fire hazard and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Fuel odor smell coming from the vents",
+        "gas fumes in the passenger compartment",
+        "fuel leaking from under the hood onto the engine",
+        "fuel smell in the cabin."
+      ],
+      "odiNumbers": [
+        "10585105",
+        "10096675",
+        "10027098",
+        "857575",
+        "856387",
+        "544926",
+        "833176",
+        "831615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Recall Servicing",
+      "impact": "Failure to properly service recalled vehicles can lead to continued safety risks and potential accidents or injuries.",
+      "symptoms": [
+        "Manufacturer's inconsistent or incorrect information about recall status",
+        "delayed or unavailable repair parts",
+        "lack of communication about recall servicing."
+      ],
+      "odiNumbers": [
+        "10585105",
+        "857575",
+        "856387",
+        "544926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

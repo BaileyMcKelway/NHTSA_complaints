@@ -1,0 +1,146 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Body Control (ABC) System Failure",
+      "impact": "The failure of the ABC system can cause the vehicle to lower suddenly, making it difficult to control, and potentially leading to accidents or fires.",
+      "symptoms": [
+        "The ABC light illuminates",
+        "the vehicle lowers suddenly",
+        "the body touches the tires",
+        "the vehicle is difficult to control",
+        "hydraulic fluid leakage",
+        "loud bursts or noises."
+      ],
+      "odiNumbers": [
+        "10779507",
+        "10659246",
+        "10555449",
+        "10492850",
+        "10315650",
+        "10276261",
+        "10260674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Panel Cluster Failure",
+      "impact": "The failure of the instrument panel cluster can cause the gauges to malfunction, leading to inaccurate readings, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The instrument panel cluster fails to work",
+        "gauges intermittently short out",
+        "fuel gauge failure",
+        "vehicle runs out of fuel",
+        "instrument panel flickers."
+      ],
+      "odiNumbers": [
+        "10659246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic Suspension Line Failure",
+      "impact": "The failure of the hydraulic suspension line can cause the vehicle to lower suddenly, making it difficult to control, and potentially leading to accidents or fires.",
+      "symptoms": [
+        "Hydraulic suspension line fractures",
+        "ABC light illuminates",
+        "vehicle lowers suddenly",
+        "body touches the tires",
+        "loud bursts or noises."
+      ],
+      "odiNumbers": [
+        "10492850",
+        "10276261",
+        "10260674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause overheating, leading to engine damage, fires, and potentially life-threatening accidents.",
+      "symptoms": [
+        "Smoke or flames visible from under the vehicle",
+        "overheating engine",
+        "warning lights illuminated on the dashboard",
+        "loss of coolant",
+        "sweet or burning smell from the engine."
+      ],
+      "odiNumbers": [
+        "10521098",
+        "10422463"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABC Hydraulic System Failure",
+      "impact": "The failure of the ABC hydraulic system can cause loss of vehicle control, leading to accidents, and potentially life-threatening injuries.",
+      "symptoms": [
+        "Warning lights illuminated on the dashboard",
+        "loss of fluid",
+        "leaking hydraulic fluid onto the catalytic converter",
+        "unusual noises or vibrations from the engine or suspension."
+      ],
+      "odiNumbers": [
+        "10422463"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of issues, including airbag malfunctions, door panel detachment, and even fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "SRS warning light illumination",
+        "ABC warning light illumination",
+        "turning signals illumination",
+        "driver side window malfunction",
+        "black smoke emission from the exhaust",
+        "loud explosion",
+        "door panel detachment",
+        "airbag malfunction",
+        "fire eruption from the dashboard area."
+      ],
+      "odiNumbers": [
+        "10466780",
+        "10425555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Window Glass Separation",
+      "impact": "The separation of the window glass can cause visibility issues, water leaks, and potential safety hazards, especially during driving.",
+      "symptoms": [
+        "Bubbles or blisters appear on the window glass",
+        "the window glass is separating into two pieces",
+        "the window glass is delaminating",
+        "the window glass is cracking or shattering."
+      ],
+      "odiNumbers": [
+        "10167803",
+        "10151090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

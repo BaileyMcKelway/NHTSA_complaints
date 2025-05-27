@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Meter Fuse Failure)",
+      "impact": "The intermittent failure of the \"Meter\" fuse can cause the loss of essential vehicle functions, including turn signals, tachometer, gauges, and warning lights, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The \"Meter\" fuse fails intermittently",
+        "the \"Service Engine\" light is on",
+        "the fuse fails instantly when the ignition cylinder is cycled",
+        "loss of turn signals",
+        "tachometer",
+        "gauges",
+        "and warning lights."
+      ],
+      "odiNumbers": [
+        "10032778"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Interference (Cell Phone Usage)",
+      "impact": "The use of a cell phone in the vehicle can cause the battery to fail, leading to a loss of power and potentially stranding the driver.",
+      "symptoms": [
+        "Battery failure",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "607920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbags to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can lead to increased risk of injury or fatality to occupants, as the primary safety feature designed to cushion the impact is not functioning properly.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "occupants experience increased impact forces",
+        "increased risk of injury or fatality."
+      ],
+      "odiNumbers": [
+        "854008",
+        "542836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Failure",
+      "impact": "A loose or broken steering column can cause loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The steering column feels loose",
+        "the steering wheel wobbles",
+        "the steering column makes abnormal noises",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "762945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

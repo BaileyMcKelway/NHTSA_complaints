@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "The failure of the oxygen sensor can cause the vehicle to fail state emission inspections, leading to potential environmental hazards and costly repairs.",
+      "symptoms": [
+        "The oxygen sensor fails",
+        "causing the vehicle to fail state emission inspections",
+        "and may require rewiring of the entire system."
+      ],
+      "odiNumbers": [
+        "711064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS system fails",
+        "causing the ABS light to come on and remain on",
+        "and may result in the simultaneous failure of several wheel sensors",
+        "electronic dash panel failure",
+        "and rear axle shaft bearing failure."
+      ],
+      "odiNumbers": [
+        "711064",
+        "780630",
+        "808662",
+        "982965",
+        "973363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brakes fail",
+        "causing a loss of stopping power and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "539710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Buckle Failure",
+      "impact": "The failure of the rear seat belt buckle can lead to inadequate restraint of passengers, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The rear seat belt buckle does not latch or stay securely fastened",
+        "the male portion of the buckle does not fit into the female portion",
+        "the buckle feels loose or unstable",
+        "the buckle is difficult to operate."
+      ],
+      "odiNumbers": [
+        "976082",
+        "974203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

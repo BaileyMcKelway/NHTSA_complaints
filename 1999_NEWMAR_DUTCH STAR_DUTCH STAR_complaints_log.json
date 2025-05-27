@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure and Blowouts",
+      "impact": "Tire failure and blowouts can lead to accidents, loss of control, and damage to the vehicle, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowouts",
+        "sidewall failures",
+        "tread separation",
+        "and loss of tire pressure",
+        "often occurring at high speeds or while driving uphill."
+      ],
+      "odiNumbers": [
+        "10129481",
+        "10089232",
+        "10082963",
+        "10081843",
+        "10064993",
+        "10065000",
+        "10064627",
+        "10061109",
+        "8021369",
+        "8001200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure due to Water Contamination",
+      "impact": "Water contamination in the fuel system can cause the engine to stall, leading to a loss of power steering and brakes, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls unexpectedly while driving",
+        "losing all power steering and brakes",
+        "the engine stops running while in motion",
+        "the fuel filter becomes clogged due to water contamination."
+      ],
+      "odiNumbers": [
+        "10192968",
+        "874375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Filter Failure",
+      "impact": "The failure of the fuel filter can cause the engine to stall, leading to a loss of power steering and brakes, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls unexpectedly while driving",
+        "losing all power steering and brakes",
+        "the engine stops running while in motion",
+        "the fuel filter becomes clogged due to water contamination."
+      ],
+      "odiNumbers": [
+        "874375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Fuel Transfer (Lift) Pump Failure",
+      "impact": "The failure of the fuel transfer (lift) pump can cause fuel leaks, which can lead to engine stalling, loss of power steering and brakes, and increase the risk of accidents.",
+      "symptoms": [
+        "Fuel leaks",
+        "engine stalling",
+        "loss of power steering and brakes."
+      ],
+      "odiNumbers": [
+        "10192968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction/Fire Hazard",
+      "impact": "The malfunction of the electrical system can cause a fire, which can lead to serious damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "The shut-off switch for the electrical system malfunctions",
+        "wiring melts",
+        "and a fire occurs without warning."
+      ],
+      "odiNumbers": [
+        "10189367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Chassis Connector Water Ingress and Electrical Short",
+      "impact": "Water ingress into the chassis connector can cause electrical shorts, leading to uncontrolled acceleration, loss of braking, and increased risk of accidents.",
+      "symptoms": [
+        "Error code lights illuminate",
+        "engine RPM increases on its own",
+        "brakes become hot and smoking",
+        "and transmission shifting issues occur."
+      ],
+      "odiNumbers": [
+        "10138940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

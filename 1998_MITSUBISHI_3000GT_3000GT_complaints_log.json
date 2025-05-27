@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "WHEELS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Seat Belts",
+      "impact": "The failure of the seat belts to retract properly can lead to serious injury or even death in the event of an accident, as the slack in the belts can cause the passenger to be thrown forward.",
+      "symptoms": [
+        "The seat belts do not retract when there is slack",
+        "the seat belts do not lock into the receiver",
+        "the seat belts remain loose even after being pulled to lock into the receiver",
+        "the seat belts do not provide proper protection in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10200628",
+        "10165354",
+        "10158444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Corrosion and Plating Issues",
+      "impact": "The corrosion and plating issues on the wheels can cause slow air leaks, leading to unexplained flat tires, which can result in tire blowouts, accidents, and vehicle damage.",
+      "symptoms": [
+        "Unexplained flat tires",
+        "slow air leaks",
+        "peeling of plating on the wheels",
+        "corrosion between the tire and wheel",
+        "loosening of the seal between the tire and wheel."
+      ],
+      "odiNumbers": [
+        "10114082",
+        "728158",
+        "543091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Malfunction",
+      "impact": "The transmission malfunction can cause the vehicle's wheels to lock up, leading to an abrupt stop, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle's wheels lock up",
+        "the vehicle comes to an abrupt stop",
+        "the transmission slips or hesitates",
+        "the transmission makes unusual noises."
+      ],
+      "odiNumbers": [
+        "10111141",
+        "741533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

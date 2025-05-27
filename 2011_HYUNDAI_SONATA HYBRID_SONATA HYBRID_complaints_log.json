@@ -1,0 +1,269 @@
+{
+  "totalComplaints": 93,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STEERING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine makes a knocking or clunking noise",
+        "the vehicle stalls or loses power",
+        "the check engine warning light illuminates",
+        "smoke or flames come from the engine compartment",
+        "coolant leaks",
+        "the vehicle overheats."
+      ],
+      "odiNumbers": [
+        "11464527",
+        "11431194",
+        "11406895",
+        "11400398",
+        "11397944",
+        "11373645",
+        "11301915",
+        "11220047",
+        "11219486",
+        "11191044",
+        "11166706",
+        "11111318",
+        "11101897",
+        "11067202",
+        "11055781",
+        "11033984",
+        "10991137",
+        "10873718",
+        "10870889",
+        "10749855",
+        "10724369",
+        "10579596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "Delays in recall repairs can lead to continued driving of vehicles with potentially faulty engines, increasing the risk of accidents or engine failure.",
+      "symptoms": [
+        "The part to do the recall repair is unavailable",
+        "the manufacturer has exceeded a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11455903",
+        "11403464",
+        "11403068",
+        "11397944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Warning Lights",
+      "impact": "Ignoring engine warning lights can lead to engine failure, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "the service engine soon warning light illuminates",
+        "the charging system warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11406895",
+        "11220047",
+        "11166706",
+        "11055781",
+        "10749855",
+        "10579596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Coupler Failure",
+      "impact": "The failure of the steering column coupler can cause the steering wheel to shake, rattle, or vibrate, leading to a loss of control and increasing the risk of a crash.",
+      "symptoms": [
+        "The steering wheel rattles",
+        "clunks",
+        "or shakes when driving",
+        "turning",
+        "or going over bumps; the steering wheel makes a clicking or knocking sound; the steering column has play or looseness; the vehicle's airbag light may illuminate."
+      ],
+      "odiNumbers": [
+        "11194985",
+        "11153104",
+        "11111511",
+        "11111462",
+        "11102761",
+        "11090486",
+        "11088909",
+        "11006543",
+        "10954987",
+        "10950058",
+        "10934563",
+        "10927169",
+        "10916567",
+        "10898417",
+        "10883964",
+        "10808834",
+        "10558420"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, leading to a loss of control and increasing the risk of a crash.",
+      "symptoms": [
+        "The steering wheel becomes tight or difficult to turn; the vehicle's power steering warning light illuminates; the vehicle's EPS (Electric Power Steering) system fails to function properly."
+      ],
+      "odiNumbers": [
+        "10883964",
+        "10558420"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure (Hydraulic/ABS)",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal drops to the floor",
+        "the brake warning light illuminates",
+        "the vehicle experiences sudden and unexpected braking",
+        "the parking brake engages unexpectedly",
+        "the vehicle makes grinding noises",
+        "the vehicle swerves or loses control."
+      ],
+      "odiNumbers": [
+        "11541674",
+        "11228576",
+        "11099362",
+        "11040291",
+        "10850262",
+        "10556920",
+        "10547877"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure (Electronic)",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake warning light illuminates",
+        "the vehicle experiences sudden and unexpected braking",
+        "the parking brake engages unexpectedly",
+        "the vehicle makes grinding noises",
+        "the vehicle swerves or loses control."
+      ],
+      "odiNumbers": [
+        "11099362",
+        "10850262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Delays (Brake System)",
+      "impact": "The delay in receiving recall repair parts can leave the vehicle in an unsafe condition, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle owner receives notification of a recall but is unable to obtain the necessary repair parts",
+        "the vehicle owner experiences frustration and concern about the safety of their vehicle."
+      ],
+      "odiNumbers": [
+        "11587715",
+        "11584949",
+        "11566937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to lose power, stall, or become unable to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The \"Check Charging System\" warning light comes on",
+        "the vehicle hesitates or fails to accelerate",
+        "the battery level drops",
+        "the engine stalls",
+        "the vehicle loses power",
+        "the brakes malfunction",
+        "the dashboard lights flicker or go blank."
+      ],
+      "odiNumbers": [
+        "11205391",
+        "11174646",
+        "11162547",
+        "11073223",
+        "10908575",
+        "10822730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "The \"Check Brake\" warning light comes on",
+        "the brakes drop to the floor",
+        "the vehicle barely stops",
+        "the brakes make a grudging noise."
+      ],
+      "odiNumbers": [
+        "11172968",
+        "10822730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Acceleration Issues",
+      "impact": "The failure of the acceleration system can cause the vehicle to hesitate or fail to accelerate, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle hesitates or fails to accelerate",
+        "the vehicle suddenly gains speed without touching the gas pedal",
+        "the acceleration is slow or unresponsive."
+      ],
+      "odiNumbers": [
+        "11162831",
+        "11073223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to malfunction, leading to accidents or injuries.",
+      "symptoms": [
+        "Smoke comes out of the dash",
+        "wires smell like they're burning",
+        "the dashboard lights flicker or go blank",
+        "the vehicle's systems shut down completely."
+      ],
+      "odiNumbers": [
+        "11156361",
+        "10822730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

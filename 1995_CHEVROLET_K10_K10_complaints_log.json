@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEATS",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can lead to reduced visibility during rainy or snowy conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers stop working",
+        "windshield wipers work intermittently",
+        "windshield wipers quit working in the middle of operation",
+        "windshield wipers need to be turned off and back on to work",
+        "windshield wipers become inoperable."
+      ],
+      "odiNumbers": [
+        "898182",
+        "867439",
+        "9001780",
+        "854189",
+        "843019",
+        "842233",
+        "831394",
+        "528121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defroster/Defogger Malfunction",
+      "impact": "The malfunction of the defroster/defogger can lead to reduced visibility, increasing the risk of accidents.",
+      "symptoms": [
+        "Defroster/defogger does not clear the windshield properly",
+        "impeding proper driver visibility."
+      ],
+      "odiNumbers": [
+        "978283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Bracket Failure",
+      "impact": "The failure of the seat bracket can cause the driver's seat to move forward and backward without warning, which can lead to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The driver's seat moves forward and backward without warning",
+        "the seat rocks or shifts when braking",
+        "the seat is not firmly secured",
+        "the seat has a loose or unstable feeling."
+      ],
+      "odiNumbers": [
+        "859775",
+        "701683",
+        "960059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver's Side Airbag to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in a front-end collision can increase the risk of injury or fatality to the driver, compromising vehicle safety.",
+      "symptoms": [
+        "The airbag does not deploy in a front-end collision",
+        "despite the severity of the impact meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "800317",
+        "974707",
+        "960921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure to Respond",
+      "impact": "The failure of the brake pedal to respond can cause the vehicle to lose braking ability, leading to accidents or near-misses, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle does not stop or slow down when the brakes are applied",
+        "the ABS system fails to respond properly",
+        "the vehicle loses control or runs off the road."
+      ],
+      "odiNumbers": [
+        "843284",
+        "806950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

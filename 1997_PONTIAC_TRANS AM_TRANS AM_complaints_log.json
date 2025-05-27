@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Light Lead Contact Point Failure",
+      "impact": "The melting of the lead contact points for the brake lights can cause the brake lights to malfunction, which can lead to reduced visibility and increased risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The brake lights do not work",
+        "the lead contact points are melted",
+        "the tail fin brake light still works",
+        "but the actual brake lights do not."
+      ],
+      "odiNumbers": [
+        "757967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water-Induced Engine Misfire and Stalling",
+      "impact": "The engine misfire and stalling issue can cause the vehicle to lose power and stall, which can lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine misfires",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the issue occurs when the car gets wet",
+        "the vehicle has been in the shop multiple times for the same problem."
+      ],
+      "odiNumbers": [
+        "751324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Headlight Illumination",
+      "impact": "The insufficient illumination from the low beam headlights can lead to reduced visibility, increased eye strain, and potentially cause accidents, especially at high speeds.",
+      "symptoms": [
+        "Low beam headlights are too dim",
+        "do not illuminate the road sufficiently",
+        "forcing drivers to use high beams",
+        "high beams shine like low beams should",
+        "low beams are virtually useless",
+        "and require eye strain at highway speeds."
+      ],
+      "odiNumbers": [
+        "735843",
+        "735754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The sudden and unexpected deployment of airbags can cause accidents, injuries, or fatalities, especially if it occurs while the vehicle is in motion. It can also lead to unnecessary repair costs and downtime.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy while driving",
+        "airbags deploy while parking",
+        "airbags deploy without any apparent reason."
+      ],
+      "odiNumbers": [
+        "8021618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

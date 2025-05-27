@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Tensioner Failure",
+      "impact": "The failure of the timing chain tensioner can cause the timing chain to jump teeth, leading to engine damage, loss of power, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle surges or hesitates",
+        "the engine locks or stalls",
+        "the vehicle goes into limp mode",
+        "the vehicle experiences a loss of power",
+        "the vehicle jerks or hesitates during acceleration",
+        "the vehicle has difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10418468",
+        "10365875",
+        "10317111",
+        "10141897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Pedal Position Sensor Failure",
+      "impact": "The failure of the accelerator pedal position sensor can cause the engine to suddenly run at slow idle speed or accelerate uncontrollably, leading to a loss of vehicle control and increased risk of accidents.",
+      "symptoms": [
+        "The engine speed does not respond to the accelerator pedal",
+        "the engine suddenly runs at slow idle speed",
+        "the engine accelerates uncontrollably",
+        "the vehicle surges forward",
+        "the RPM increases to 4",
+        "000-6",
+        "000."
+      ],
+      "odiNumbers": [
+        "10310594",
+        "10258327",
+        "10198722",
+        "10165475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body Assembly Failure",
+      "impact": "The failure of the throttle body assembly can cause the engine to shut down unexpectedly, leading to a loss of vehicle control and increased risk of accidents.",
+      "symptoms": [
+        "The engine shuts down suddenly",
+        "the vehicle loses power",
+        "the engine speed does not respond to the accelerator pedal",
+        "the engine suddenly runs at slow idle speed."
+      ],
+      "odiNumbers": [
+        "10165475",
+        "10310594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unwanted Vehicle Acceleration",
+      "impact": "Unwanted vehicle acceleration can cause the vehicle to surge forward, leading to a loss of vehicle control and increased risk of accidents.",
+      "symptoms": [
+        "The vehicle accelerates uncontrollably",
+        "the RPM increases to 4",
+        "000-6",
+        "000",
+        "the vehicle surges forward",
+        "the back end of the vehicle starts to fishtail."
+      ],
+      "odiNumbers": [
+        "10258327",
+        "10198722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fault and Sudden Engine Shutdown",
+      "impact": "The sudden shutdown of the engine while driving can cause loss of control, increasing the risk of accidents, and potentially resulting in serious injury or death. Additionally, the failure can lead to costly repairs and towing fees.",
+      "symptoms": [
+        "The vehicle jerks or shudders while driving",
+        "the engine shuts down suddenly",
+        "the transmission fault warning appears on the dashboard",
+        "the vehicle cannot be started or jumpstarted",
+        "the vehicle stalls or loses power while driving."
+      ],
+      "odiNumbers": [
+        "11353244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

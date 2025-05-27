@@ -1,0 +1,50 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carlisle Tire Failure",
+      "impact": "The failure of Carlisle tires can cause sudden blowouts, leading to loss of control, accidents, and damage to the trailer and surrounding property.",
+      "symptoms": [
+        "Sudden blowout",
+        "tread separation",
+        "blistering",
+        "and loss of tire pressure",
+        "often accompanied by a loud popping sound."
+      ],
+      "odiNumbers": [
+        "10170078",
+        "10155411",
+        "10133727",
+        "10133176",
+        "10096392",
+        "10093773",
+        "10093137",
+        "10081130",
+        "10078920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Boiler Tube Crack",
+      "impact": "A cracked boiler tube can lead to a potential fire hazard, compromising the safety of the vehicle's occupants and other road users.",
+      "symptoms": [
+        "Visible crack on the boiler tube",
+        "potential for fire or overheating."
+      ],
+      "odiNumbers": [
+        "10229637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

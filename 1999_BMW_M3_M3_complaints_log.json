@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Passenger Air Bag Electronics",
+      "impact": "The faulty passenger air bag electronics can cause the air bag warning light to illuminate, potentially leading to air bag failure in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The air bag warning light is illuminated on the dashboard",
+        "the passenger air bag may not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10680819",
+        "10065963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Air Bag Deployment",
+      "impact": "The unintended deployment of the side air bag can cause the driver to lose control of the vehicle, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The side air bag deploys unexpectedly",
+        "often in response to a minor impact or road hazard",
+        "such as a pothole."
+      ],
+      "odiNumbers": [
+        "710172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Bag System Failure",
+      "impact": "The failure of the air bag system can cause the air bag warning light to illuminate, potentially leading to air bag failure in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The air bag warning light is illuminated on the dashboard",
+        "the air bag may not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10065963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Pedal Clearance",
+      "impact": "The close proximity of the brake and gas pedals can cause the driver's foot to become entangled, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Difficulty moving from the gas pedal to the brake pedal",
+        "foot becoming stuck under the brake pedal."
+      ],
+      "odiNumbers": [
+        "10322398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the wheels to lock, leading to loss of control and potential accidents, especially at high speeds.",
+      "symptoms": [
+        "ABS dash light on",
+        "wheels locking",
+        "loss of control",
+        "vehicle becoming unstable."
+      ],
+      "odiNumbers": [
+        "750954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure due to Tread Separation",
+      "impact": "Tire failure due to tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden tire deflation",
+        "tire blowout",
+        "loss of vehicle control",
+        "tire tread separation from the sidewall."
+      ],
+      "odiNumbers": [
+        "8004009",
+        "10181344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sale of Vehicles with Defective Tires",
+      "impact": "Selling vehicles with defective tires can lead to accidents, injuries, or fatalities, and is a violation of safety regulations.",
+      "symptoms": [
+        "Bald tires",
+        "tires with inadequate tread depth",
+        "tires with visible signs of wear or damage."
+      ],
+      "odiNumbers": [
+        "10181344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

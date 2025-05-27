@@ -1,0 +1,248 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Auto Start/Stop Malfunction",
+      "impact": "The malfunction of the auto start/stop system can cause the vehicle to hesitate, jerk, or stall while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or jerks while accelerating",
+        "the vehicle stalls completely and will not restart",
+        "the engine shuts off while driving",
+        "the engine shuts off at a light or when idling."
+      ],
+      "odiNumbers": [
+        "11581012",
+        "11565581",
+        "11542351",
+        "11513806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Brake System Malfunction",
+      "impact": "The malfunction of the electronic brake system can cause the vehicle to experience unintended braking, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The electronic brake activates during stops",
+        "the electronic brake does not deactivate until the gear selector is moved to park or the vehicle is restarted."
+      ],
+      "odiNumbers": [
+        "11581012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Instrument Panel and Screen Malfunction",
+      "impact": "The malfunction of the instrument panel and screen can cause a visibility hazard for the driver, which can lead to accidents.",
+      "symptoms": [
+        "The instrument panel and screen flash bright and then go dim on and off constantly",
+        "the navigation screen is black."
+      ],
+      "odiNumbers": [
+        "11548234",
+        "11513806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Various Electrical System Malfunctions",
+      "impact": "The malfunction of various electrical systems can cause a range of issues, including loss of functionality and safety risks.",
+      "symptoms": [
+        "The front USB port stops working",
+        "the interior blower motor makes noise",
+        "the buttons on the steering wheel work intermittently",
+        "the engine start/stop system activates even when turned off."
+      ],
+      "odiNumbers": [
+        "11581012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lane Departure Warning and Automatic Emergency Braking System Malfunctions",
+      "impact": "The malfunction of these safety features can increase the risk of accidents, as the driver may not be alerted to potential hazards or the vehicle may not automatically brake to avoid a collision.",
+      "symptoms": [
+        "The lane departure warning icon remains unlit when veering out of lane",
+        "the automatic emergency braking system icon shows as turned off randomly",
+        "requiring manual reactivation."
+      ],
+      "odiNumbers": [
+        "11589025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Delay and Loss of Power",
+      "impact": "The delay in transmission response can increase the risk of accidents, especially when merging into traffic or accelerating from a stop.",
+      "symptoms": [
+        "The vehicle hesitates when pressing the gas pedal",
+        "resulting in a loss of power",
+        "followed by a sudden jerk or surge of acceleration; the vehicle may not respond or move when accelerating from a stop or low speed."
+      ],
+      "odiNumbers": [
+        "11589025",
+        "11548707",
+        "11540709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Jerking and Vibration",
+      "impact": "The jerking and vibration of the vehicle can cause loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle jerks",
+        "shakes",
+        "and vibrates when accelerating",
+        "especially when the auto stop/start feature is activated; the vehicle may not automatically restart when releasing the brake pedal."
+      ],
+      "odiNumbers": [
+        "11548707",
+        "11540709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Loss of Power",
+      "impact": "The stalling of the engine can cause loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle pops and spudders when cranked",
+        "loses power and will not move",
+        "causing near-miss accidents; the vehicle jerks hard when shifting into gear."
+      ],
+      "odiNumbers": [
+        "11540709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Forward Collision Warning System Malfunction",
+      "impact": "The malfunction of the forward collision warning system can cause sudden and unnecessary braking, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The forward collision icon appears on the dashboard",
+        "the system displays a \"service not working\" or \"signal lost\" message",
+        "the system applies hard pressure on the brakes without any obstacles or vehicles in front of or beside the vehicle",
+        "the system fails to reconnect or reprogram through Uconnect."
+      ],
+      "odiNumbers": [
+        "11587116",
+        "11581878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sensor Failure or Misdiagnosis",
+      "impact": "The failure or misdiagnosis of sensors can lead to incorrect or false warnings, causing unnecessary braking or other safety issues.",
+      "symptoms": [
+        "The dealer recommends replacing a sensor",
+        "but the procedure seems invasive and time-consuming",
+        "involving the removal of the front bumper",
+        "grill",
+        "and other components."
+      ],
+      "odiNumbers": [
+        "11587116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Inconsistent Diagnostic Results",
+      "impact": "Inconsistent diagnostic results can lead to unresolved issues, causing continued safety risks and frustration for vehicle owners.",
+      "symptoms": [
+        "The dealership is unable to replicate the issue",
+        "despite the owner experiencing recurring problems with the forward collision warning system."
+      ],
+      "odiNumbers": [
+        "11581878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Malfunction",
+      "impact": "The malfunctioning backup camera can cause a significant safety risk, especially at night or in low-light conditions, as it may not provide a clear view of the area behind the vehicle, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The backup camera display is extremely dark and unusable at night or in low-light conditions",
+        "making it difficult to see objects or people behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11563670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent engine stalling can cause a loss of power and control, increasing the risk of accidents, especially when driving at higher speeds.",
+      "symptoms": [
+        "The engine dies or loses power while driving",
+        "often accompanied by the check engine light turning on",
+        "and may be followed by messages related to the emergency pedestrian braking system."
+      ],
+      "odiNumbers": [
+        "11544145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Panel and Center Display Panel Malfunction",
+      "impact": "The erratic flashing of the instrument panel and center display panel at night can cause driver distraction, visibility issues, and potentially lead to accidents.",
+      "symptoms": [
+        "The instrument panel and center display panel flash erratically at night when passing under overhead street lighting",
+        "regardless of driving speed",
+        "and are not affected by the Auto/Manual choices in the vehicle settings."
+      ],
+      "odiNumbers": [
+        "11554579"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hazard Light Button Failure",
+      "impact": "A stuck hazard light button can cause inconvenience and potentially lead to safety issues if the driver is unable to activate the hazard lights in emergency situations.",
+      "symptoms": [
+        "The hazard light button gets stuck",
+        "making it difficult or impossible to activate the hazard lights."
+      ],
+      "odiNumbers": [
+        "11515637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

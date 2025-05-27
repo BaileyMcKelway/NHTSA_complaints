@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Contamination due to Improper Repair",
+      "impact": "Oil contamination can cause severe engine damage, leading to a loss of power, stalling, and potentially leaving the vehicle inoperable.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "oil gasket leak",
+        "gas in the oil."
+      ],
+      "odiNumbers": [
+        "767617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "A faulty oxygen sensor can cause poor engine performance, decreased fuel efficiency, and increased emissions, potentially leading to premature engine wear.",
+      "symptoms": [
+        "Oxygen sensor failure",
+        "engine stalling",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "566173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling without Warning",
+      "impact": "Sudden engine stalling without warning can cause accidents, especially if it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "sudden loss of engine function."
+      ],
+      "odiNumbers": [
+        "894135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Torque Converter Lock-up Solenoid Failure",
+      "impact": "The failure of the torque converter lock-up solenoid can cause poor engine performance, decreased fuel efficiency, and driveability issues, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Poor engine performance",
+        "decreased fuel efficiency",
+        "difficulty shifting gears",
+        "inability to shift out of park",
+        "engine running rough."
+      ],
+      "odiNumbers": [
+        "763986",
+        "763816",
+        "566173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to become stuck in gear, making it difficult or impossible to shift, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Inability to shift gears",
+        "vehicle stuck in gear",
+        "difficulty shifting out of park."
+      ],
+      "odiNumbers": [
+        "566173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical components to malfunction, including turn signals, hazard lights, and airbag systems, increasing the risk of accidents and reducing vehicle safety.",
+      "symptoms": [
+        "Flickering or failed interior lights",
+        "blown-out marker lights",
+        "turn signal failure",
+        "hazard light failure",
+        "airbag light illumination."
+      ],
+      "odiNumbers": [
+        "566173",
+        "551757",
+        "549708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to total loss, and pose a risk to the safety of occupants and other road users.",
+      "symptoms": [
+        "Smoke or flames coming from the engine compartment",
+        "smoke or flames coming from under the hood",
+        "smoke or flames noticed from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "557982",
+        "541962",
+        "522189",
+        "523043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Pin Failure",
+      "impact": "The sudden failure of the front brake pin can cause loss of steering control, leading to accidents or near-misses, especially when reversing at low speeds.",
+      "symptoms": [
+        "The front brake pin snaps",
+        "loss of steering control",
+        "vehicle becomes difficult to maneuver",
+        "sudden and unexpected loss of braking performance."
+      ],
+      "odiNumbers": [
+        "10042286"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of steering control, leading to accidents or near-misses, especially when reversing at low speeds.",
+      "symptoms": [
+        "Loss of steering control",
+        "vehicle becomes difficult to maneuver",
+        "sudden and unexpected loss of steering performance."
+      ],
+      "odiNumbers": [
+        "10042286"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unstable Vehicle Handling and Pulling to One Side",
+      "impact": "The vehicle's unstable handling and pulling to one side can cause loss of control, accidents, and increased stopping distances, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to either side while driving",
+        "wandering or drifting from side to side",
+        "requiring the driver to slow down or make corrections to maintain control",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "830852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

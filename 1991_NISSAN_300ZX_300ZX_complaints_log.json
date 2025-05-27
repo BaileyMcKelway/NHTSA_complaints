@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor Warping",
+      "impact": "Warped brake rotors can cause the brakes to vibrate, pulsate, or seize, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Brake pedal pulsation",
+        "vibration",
+        "or spongy feeling",
+        "uneven brake wear",
+        "grinding or screeching noises when applying the brakes."
+      ],
+      "odiNumbers": [
+        "981143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Cylinder Brake Failure",
+      "impact": "Failure of the master cylinder brake can cause a loss of brake fluid, leading to a loss of braking power and increased risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "low brake pedal",
+        "brake fluid leak",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "490638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unpredictable Brake Failure",
+      "impact": "Unpredictable brake failure can cause the brakes to seize or fail without warning, leading to accidents or loss of control.",
+      "symptoms": [
+        "Sudden brake failure",
+        "brakes seize without warning",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "10732645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of the fuel injectors can cause fuel leaks, which can lead to a vehicle fire, posing a significant risk to the driver and occupants.",
+      "symptoms": [
+        "Constant fuel smell inside the vehicle",
+        "fuel leaks into the engine compartment",
+        "fuel sprays over the engine."
+      ],
+      "odiNumbers": [
+        "896116",
+        "850478",
+        "816747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

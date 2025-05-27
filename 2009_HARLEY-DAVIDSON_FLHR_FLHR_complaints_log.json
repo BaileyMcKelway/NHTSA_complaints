@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "FUEL/PROPULSION SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the front brake to fail to engage, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The front brake lever is unable to be squeezed",
+        "the front brake is frozen",
+        "the front brake fails to engage",
+        "the motorcycle is unable to come to a complete stop."
+      ],
+      "odiNumbers": [
+        "11048463",
+        "10887659",
+        "10701606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Position Sensor Failure",
+      "impact": "The failure of the throttle position sensor can cause the engine to die or lose power while in motion, leading to a loss of control and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The engine dies or loses power while in motion",
+        "the throttle position closes and does not accept inputs from the accelerator",
+        "the motorcycle goes into \"limp home\" mode",
+        "the motorcycle accelerates erratically",
+        "the motorcycle loses power while accelerating."
+      ],
+      "odiNumbers": [
+        "10611249",
+        "10523838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the motorcycle to lose power and control, leading to accidents or injuries, especially when traveling at high speeds.",
+      "symptoms": [
+        "The engine dies or stalls while in motion",
+        "the motorcycle loses power while accelerating",
+        "the motorcycle feels like it's running on one cylinder",
+        "the motorcycle will not accelerate."
+      ],
+      "odiNumbers": [
+        "10643722",
+        "10523838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ECM Plug Failure",
+      "impact": "The failure of the ECM plug can cause the vehicle to buck and run erratically, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle bucks or jerks",
+        "the vehicle runs erratically",
+        "the engine misfires or stumbles",
+        "the vehicle's performance is unstable."
+      ],
+      "odiNumbers": [
+        "10496114",
+        "10894042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Control Actuator Failure",
+      "impact": "The failure of the throttle control actuator can cause the vehicle to enter limp mode, resulting in a loss of throttle response, which can lead to accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle enters limp mode",
+        "idle only",
+        "with no throttle response",
+        "while driving at high speeds",
+        "sudden loss of power",
+        "inability to accelerate",
+        "vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "10520570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Tire Blowout",
+      "impact": "The sudden and unexpected blowout of the rear tire can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The rear tire suddenly blows out without warning",
+        "causing the vehicle to lose control",
+        "roll over",
+        "or crash",
+        "resulting in damage to the vehicle and potential harm to the rider."
+      ],
+      "odiNumbers": [
+        "10272852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Failure Due to Unknown Causes",
+      "impact": "Tire failure can lead to accidents, injuries, and fatalities, especially at high speeds.",
+      "symptoms": [
+        "The tire suddenly fails or blows out without warning",
+        "causing loss of vehicle control",
+        "accidents",
+        "or damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "10272852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

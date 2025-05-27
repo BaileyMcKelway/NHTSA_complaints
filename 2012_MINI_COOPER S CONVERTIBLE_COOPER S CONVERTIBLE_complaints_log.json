@@ -1,0 +1,168 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Footwell Control Module Failure)",
+      "impact": "The failure of the electrical system can cause the vehicle to shut off inadvertently, leading to a loss of control and increasing the risk of accidents. Additionally, it can cause various electrical components to malfunction, including the headlights, hazard lights, turn signals, power windows, and door locks, which can compromise safety and convenience.",
+      "symptoms": [
+        "The vehicle shuts off while driving",
+        "warning lights are illuminated",
+        "the message \"Light Malfunction",
+        "Contact Dealer\" is displayed",
+        "the windows fail to roll down",
+        "the headlights",
+        "hazard lights",
+        "and turn signals are inoperable",
+        "power switches to unlock or lock the doors are inoperable",
+        "and power window switches are inoperable."
+      ],
+      "odiNumbers": [
+        "11583792",
+        "11582965",
+        "11581682",
+        "11550772",
+        "11548359",
+        "11547806",
+        "11320446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the high-pressure fuel pump plausibility pressure is significantly low."
+      ],
+      "odiNumbers": [
+        "11583792",
+        "11301419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Ingress and Electrical Issues",
+      "impact": "Water ingress can cause electrical issues, leading to a loss of control and increasing the risk of accidents. Additionally, it can cause corrosion and damage to electrical components, compromising safety and reliability.",
+      "symptoms": [
+        "Water is present in the vehicle",
+        "the sound of water swishing around can be heard",
+        "the vehicle alarm activates independently",
+        "the front and rear driver-side carpet is wet."
+      ],
+      "odiNumbers": [
+        "11105132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant Pump Failure and Engine Compartment Fire",
+      "impact": "The failure of the coolant pump can cause a short circuit, leading to an engine compartment fire, which can result in a loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The engine compartment catches fire",
+        "the coolant pump is diagnosed as the source of the failure."
+      ],
+      "odiNumbers": [
+        "10958534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unrelated Issue - Takata Inflators",
+      "impact": "The failure of Takata inflators can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "A burning smell is present inside the vehicle",
+        "the windows roll down and sunroof opens independently."
+      ],
+      "odiNumbers": [
+        "11184760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Illegible Oil Dipstick Design",
+      "impact": "The illegible oil dipstick design can cause the engine to run out of oil without the driver's knowledge, leading to engine seizure, damage, or failure, especially when combined with the recommended 10,000-mile oil change interval and the vehicle's small oil capacity.",
+      "symptoms": [
+        "None",
+        "as the issue is with the design of the dipstick",
+        "but potential consequences include engine seizure",
+        "damage",
+        "or failure."
+      ],
+      "odiNumbers": [
+        "11514050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain and Tensioner Failure",
+      "impact": "The failure of the timing chain and tensioner can cause engine damage, failure, or seizure, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Rattling noise from the engine",
+        "especially at all times",
+        "even with low mileage (e.g.",
+        "50",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "10852609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the engine to misfire, leading to poor engine performance, decreased fuel efficiency, and increased emissions. In severe cases, it can also cause the engine to stall or fail to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine misfires",
+        "poor engine performance",
+        "decreased fuel efficiency",
+        "increased emissions",
+        "engine stalling",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "11372612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Thermostat Housing Failure",
+      "impact": "The failure of the thermostat housing can cause coolant leaks, leading to engine overheating, damage to engine components, and potentially catastrophic engine failure.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "temperature gauge fluctuates",
+        "engine damage",
+        "white smoke from the tailpipe."
+      ],
+      "odiNumbers": [
+        "11133584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

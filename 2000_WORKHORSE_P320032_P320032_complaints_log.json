@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "PARKING BRAKE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Fluid Boiling and Caliper Failure",
+      "impact": "The boiling of brake fluid can cause the brake pedal to soften, leading to increased stopping distance and potentially causing accidents. Additionally, the calipers can become stuck in the applied position, generating excessive heat and causing the brakes to drag.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "reduced braking performance",
+        "abnormal heat generation at the wheel end",
+        "and increased stopping distance."
+      ],
+      "odiNumbers": [
+        "10272932",
+        "10269851",
+        "10203416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Emergency Brake Malfunction due to Electrical Issues",
+      "impact": "The sudden and unexpected engagement of the emergency brake while driving can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The emergency brake engages unexpectedly while driving",
+        "often without warning",
+        "due to electrical contact issues or blown fuses."
+      ],
+      "odiNumbers": [
+        "10121905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure and Electrical Fire Hazard",
+      "impact": "The ignition switch failure can cause electrical fires, which can lead to vehicle damage, injuries, or fatalities.",
+      "symptoms": [
+        "The ignition switch burns or melts",
+        "causing damage to surrounding wires and potentially leading to an electrical fire."
+      ],
+      "odiNumbers": [
+        "8021748"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Parking Brake System Failure",
+      "impact": "The failure of the automatic parking brake system can cause the vehicle to become immobilized, leading to safety risks and potential accidents.",
+      "symptoms": [
+        "The automatic park warning light comes on",
+        "the brake locks up",
+        "the vehicle is immobilized",
+        "the parking brake fails to release."
+      ],
+      "odiNumbers": [
+        "10083072",
+        "10049629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The sudden failure of the fuel pump without warning can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of accidents, especially on highways or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine dies while driving",
+        "the fuel pump fails repeatedly",
+        "the vehicle experiences frequent stalling",
+        "the fuel pump is replaced multiple times without resolving the issue."
+      ],
+      "odiNumbers": [
+        "10006014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

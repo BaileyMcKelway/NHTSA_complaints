@@ -1,0 +1,247 @@
+{
+  "totalComplaints": 44,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, and fatalities. It can also lead to vehicle damage and leave the driver stranded.",
+      "symptoms": [
+        "Airbag deploys without warning",
+        "airbag deploys without a collision",
+        "airbag light comes on unexpectedly",
+        "airbag becomes inoperative after battery change."
+      ],
+      "odiNumbers": [
+        "11229675",
+        "986534",
+        "861501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "An illuminated airbag warning light can indicate a faulty airbag system, which can lead to unintended airbag deployment or failure to deploy in the event of a crash, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light comes on",
+        "airbag warning light stays on",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "10806915",
+        "10130743",
+        "861501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of the airbag to deploy in the event of a crash can lead to injuries or fatalities.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "airbag failure to deploy in a collision."
+      ],
+      "odiNumbers": [
+        "10064027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Issues",
+      "impact": "Electrical system issues can cause a range of problems, including airbag system malfunctions, which can lead to unintended airbag deployment or failure to deploy.",
+      "symptoms": [
+        "Electrical problems with dashboard lights",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "10130743",
+        "835327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Failure",
+      "impact": "Tire failure can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Tire blows out",
+        "tire failure leads to loss of control",
+        "vehicle damage."
+      ],
+      "odiNumbers": [
+        "10023599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Rotor Warping",
+      "impact": "Warped brake rotors can cause vibrations, uneven braking, and reduced stopping power, increasing the risk of accidents.",
+      "symptoms": [
+        "Rotors need to be replaced frequently",
+        "excessive wear on brake pads",
+        "vibrations when braking",
+        "warped rotors."
+      ],
+      "odiNumbers": [
+        "810656",
+        "802092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Wear and Failure",
+      "impact": "Excessive wear on brake pads can lead to reduced braking performance, increasing the risk of accidents.",
+      "symptoms": [
+        "Excessive wear on brake pads",
+        "vibrations when braking",
+        "brake noise (squeaking/squealing)."
+      ],
+      "odiNumbers": [
+        "857997",
+        "542016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Issues",
+      "impact": "A malfunctioning master cylinder can cause brake failure, leading to accidents and injuries.",
+      "symptoms": [
+        "Brake failure",
+        "brakes do not completely stop the vehicle",
+        "master cylinder out of adjustment."
+      ],
+      "odiNumbers": [
+        "542016",
+        "535173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake failure",
+        "inability to stop the vehicle",
+        "accidents resulting from brake failure."
+      ],
+      "odiNumbers": [
+        "535173",
+        "838554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire blowout",
+        "vehicle vibration",
+        "difficulty steering",
+        "loss of control",
+        "accidents",
+        "rollover."
+      ],
+      "odiNumbers": [
+        "10588466",
+        "10583608",
+        "10079099",
+        "10030260",
+        "8023844",
+        "738960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Manufacturing Defects in Tire Construction",
+      "impact": "Defects in tire construction can lead to tire failure, causing accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire separation",
+        "loss of tire pressure",
+        "vehicle vibration",
+        "difficulty steering",
+        "loss of control",
+        "accidents",
+        "rollover."
+      ],
+      "odiNumbers": [
+        "10588466",
+        "10583608",
+        "10079099",
+        "10030260",
+        "8023844",
+        "738960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Insufficient Quality Control",
+      "impact": "Insufficient quality control can lead to manufacturing defects, resulting in tire failure and accidents.",
+      "symptoms": [
+        "Tire blowout",
+        "tire separation",
+        "loss of tire pressure",
+        "vehicle vibration",
+        "difficulty steering",
+        "loss of control",
+        "accidents",
+        "rollover."
+      ],
+      "odiNumbers": [
+        "10588466",
+        "10583608",
+        "10079099",
+        "10030260",
+        "8023844",
+        "738960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lack of Manufacturer Response",
+      "impact": "Failure of manufacturers to respond to safety concerns can lead to continued production of defective tires, putting lives at risk.",
+      "symptoms": [
+        "Manufacturer indifference to safety concerns",
+        "lack of response to customer complaints",
+        "continued production of defective tires."
+      ],
+      "odiNumbers": [
+        "10588466",
+        "10583608",
+        "10079099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

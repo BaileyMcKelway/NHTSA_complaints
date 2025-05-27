@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "TIPM (Totally Integrated Power Module) Failure",
+      "impact": "The failure of the TIPM can cause a range of electrical system malfunctions, including loss of power locks, alarm system failures, and engine stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Intermittent or complete failure of power locks",
+        "alarm system malfunctions",
+        "engine stalling",
+        "windshield wipers and washer fluid malfunctioning",
+        "horn blaring",
+        "and smoke or fire from under the hood."
+      ],
+      "odiNumbers": [
+        "11360058",
+        "11161748",
+        "10824337",
+        "10575756",
+        "10561525",
+        "10275990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "Randomly clicking or humming sound when trying to start the vehicle",
+        "ESP and BAS lights illuminating on the dashboard",
+        "loss of braking ability."
+      ],
+      "odiNumbers": [
+        "11166143",
+        "11104650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Lock Actuator Failure",
+      "impact": "The failure of the door lock actuator can cause the doors to become stuck or unable to lock, which can lead to safety risks or inconvenience.",
+      "symptoms": [
+        "Intermittent or complete failure of door locks",
+        "inability to lock or unlock doors from the outside",
+        "passenger doors can only be unlocked from the inside."
+      ],
+      "odiNumbers": [
+        "11002063",
+        "10889025",
+        "10850085",
+        "10712753",
+        "10663696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion at Retaining Nut (Tire Valve Stem)",
+      "impact": "Corrosion at the retaining nut can cause the tire to lose air, leading to a loss of control or accidents.",
+      "symptoms": [
+        "Intermittent or complete loss of tire pressure",
+        "corrosion at the retaining nut."
+      ],
+      "odiNumbers": [
+        "10978684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Pressure Build-up and Backflow",
+      "impact": "The pressure build-up in the fuel tank can cause gasoline to backflow out of the tank, leading to a fire hazard, environmental damage, and health risks.",
+      "symptoms": [
+        "Gasoline backflows out of the tank while refueling",
+        "pressure builds up in the fuel tank",
+        "gasoline spills onto the ground and surrounding surfaces",
+        "gasoline gets on the driver's hands."
+      ],
+      "odiNumbers": [
+        "11500448",
+        "10428820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rusty Fuel Tank Cap Bolts",
+      "impact": "The rust on the fuel tank cap bolts can lead to corrosion and potentially cause the bolts to break, making it difficult or impossible to open the fuel tank cap, which can lead to fueling issues.",
+      "symptoms": [
+        "Rust or corrosion on the fuel tank cap bolts",
+        "difficulty opening the fuel tank cap",
+        "bolts may break or strip."
+      ],
+      "odiNumbers": [
+        "10300397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of the airbags to deploy in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning indicator illuminates",
+        "dash lights go out and then reappear",
+        "the airbag light comes on and stays on",
+        "the airbag light comes on sporadically."
+      ],
+      "odiNumbers": [
+        "11205320",
+        "11123989",
+        "10556825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

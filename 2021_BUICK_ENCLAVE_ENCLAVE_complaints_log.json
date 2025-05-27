@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Noise and Grinding Issue",
+      "impact": "The brake noise and grinding issue can lead to reduced braking performance, increasing the risk of accidents, and potentially causing harm to the driver and others on the road.",
+      "symptoms": [
+        "Grinding or metal-to-metal sound when applying the brakes",
+        "feeling of less traction",
+        "need to apply more pressure to slow down",
+        "vehicle may not slow down as expected",
+        "loud grinding type sound when applying brakes after the vehicle has been sitting for a while."
+      ],
+      "odiNumbers": [
+        "11430512",
+        "11426025",
+        "11423968",
+        "11419828",
+        "11419275",
+        "11415287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Stop-Start Feature Issues",
+      "impact": "The auto stop-start feature can cause hesitation when accelerating from a stop, potentially leading to accidents or near-misses, especially when making left turns or navigating heavy traffic. Additionally, the feature can create a dangerous situation if the driver forgets to shift into park and exits the vehicle, as the engine may start unexpectedly.",
+      "symptoms": [
+        "Engine hesitation when accelerating from a stop",
+        "engine shutting off when stopping to make a left turn",
+        "need to constantly tap the brake to keep the engine running at stop lights or signs",
+        "engine starts unexpectedly when exiting the vehicle."
+      ],
+      "odiNumbers": [
+        "11421887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Windshield or Window Noise",
+      "impact": "The unusual noise coming from the windshield or window can be distracting and annoying, potentially causing driver fatigue or loss of focus on the road.",
+      "symptoms": [
+        "Unusual noise coming from the windshield or window",
+        "similar to the sound of a cracked window",
+        "noise present at speeds above 45 mph",
+        "window does not move when attempting to roll it up or down."
+      ],
+      "odiNumbers": [
+        "11398571"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tailgate Switch Failure",
+      "impact": "The failure of the rear switch on the tailgate can cause the tailgate to open or close randomly, even when the vehicle is locked, which can lead to theft, property damage, or accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "The tailgate opens or closes randomly",
+        "the tailgate opens or closes while the vehicle is locked",
+        "the tailgate opens or closes while the vehicle is in motion",
+        "the vehicle's security system is compromised."
+      ],
+      "odiNumbers": [
+        "11573738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

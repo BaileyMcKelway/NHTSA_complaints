@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "Brake line failure can cause a loss of brake fluid, leading to a loss of braking ability, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Brake fluid leakage",
+        "brake lever feels soft or spongy",
+        "brake lever extends fully down",
+        "loss of brake pedal feel",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "10356518",
+        "10237897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "Brake pad failure can cause a loss of braking ability, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Brake pad material separates from the backing plate",
+        "brake pad falls apart",
+        "loss of brake pedal feel",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "10219389",
+        "10175580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corrosion of Brake Shaft Pivot Arm",
+      "impact": "Corrosion of the brake shaft pivot arm can cause rear brake failure, leading to a loss of braking ability, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Rear brake failure",
+        "corrosion of brake shaft pivot arm",
+        "loss of brake pedal feel",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "10166611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cam Chain Tensioner Failure",
+      "impact": "The failure of the cam chain tensioner can cause immediate loss of power, leading to deceleration, which can result in collisions, death, or severe injury to the rider, especially in high-speed conditions such as passing or merging onto a freeway.",
+      "symptoms": [
+        "Sudden loss of power",
+        "deceleration",
+        "smoking on startup when cold",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "10316874",
+        "10234473",
+        "10145151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inner Cam Bearing Failure",
+      "impact": "The failure of the inner cam bearing can cause engine failure, requiring a complete rebuild of the engine, including new bearings, oil pump, camshafts, cam cover, and gaskets.",
+      "symptoms": [
+        "Engine failure",
+        "smoking",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "10234473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Smoking",
+      "impact": "The engine smoking issue can be a sign of a more serious underlying problem, such as cam chain tensioner failure or inner cam bearing failure, which can lead to engine failure, loss of power, and potential accidents.",
+      "symptoms": [
+        "Smoking on startup when cold",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "10145151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to loss of control, accidents, and potentially severe injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected tire failure",
+        "tire tread separation from the inner core",
+        "flapping of the rubber tread against surrounding components",
+        "loss of tire pressure",
+        "and potential damage to surrounding components."
+      ],
+      "odiNumbers": [
+        "10198972",
+        "10169109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

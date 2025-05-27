@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (ACU Harness Grounding)",
+      "impact": "The electrical system failure can cause the truck to shut off suddenly, without warning, while in motion, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The truck shuts off suddenly",
+        "without warning",
+        "while in motion",
+        "error codes SPN 1231 FMI 9 are displayed."
+      ],
+      "odiNumbers": [
+        "11565071"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Water Ingress and Leaks)",
+      "impact": "Water ingress and leaks can cause electrical system failures, leading to a range of issues, including shutting off the truck while in motion, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Water leaks into the electrical system",
+        "electrical lines are damaged",
+        "windshield leaks",
+        "city horn goes off and won't turn off",
+        "windshield wipers run at full speed",
+        "windshield washer fluid motor runs non-stop."
+      ],
+      "odiNumbers": [
+        "11373290",
+        "10983117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defroster Blower Motor Failure",
+      "impact": "The failure of the defroster blower motor can cause reduced visibility, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The defroster blower motor stops working intermittently",
+        "throwing dash code SPN 523318 FMI 7",
+        "the motor quits working suddenly",
+        "the wiring harness melts."
+      ],
+      "odiNumbers": [
+        "10780250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, making it challenging to maintain lane control, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel is hard to turn",
+        "the vehicle has an unstable or swaying motion",
+        "the vehicle wanders over the center line or road edge",
+        "sudden shifts in the rear tandems",
+        "abnormal noises coming from underneath the vehicle."
+      ],
+      "odiNumbers": [
+        "10991640",
+        "10792615",
+        "10721639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pressure Switch Defect",
+      "impact": "The defective brake pressure switch can cause the brake lights to malfunction, failing to warn following motorists, and can also lead to cruise control malfunction, causing the brakes to fight the engine, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake lights do not activate under normal driving conditions",
+        "brake lights only work on heavy pedal application",
+        "cruise control does not deactivate when applying the brakes",
+        "brakes fight the engine until the cruise control is manually turned off."
+      ],
+      "odiNumbers": [
+        "10940211",
+        "11190964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Lock-Up Issue",
+      "impact": "The brake lock-up issue can cause the vehicle to lose control, increasing the risk of accidents, and can also lead to premature wear on the brakes and tires.",
+      "symptoms": [
+        "Driver front tire locks up",
+        "brake pedal feels spongy or soft",
+        "uneven brake wear",
+        "tire wear on one side."
+      ],
+      "odiNumbers": [
+        "11190964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

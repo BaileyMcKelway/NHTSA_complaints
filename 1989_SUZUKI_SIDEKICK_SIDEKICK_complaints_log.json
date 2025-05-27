@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Overpowering and Failure",
+      "impact": "The alternator overpowering the system can cause damage to the electrical components, including the battery, relays, and electronic control modules, leading to electrical system failures and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The battery is drained or fried",
+        "turn signal electrical relay is burned",
+        "electronic control module is burned",
+        "alternator failure",
+        "voltage regulator is stuck wide open."
+      ],
+      "odiNumbers": [
+        "968403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to the inability to secure the passenger or driver, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle breaks or explodes into small pieces",
+        "the seat belt buckle will not latch or pops out while driving",
+        "the seat belt does not unlock or release."
+      ],
+      "odiNumbers": [
+        "986721",
+        "965666",
+        "961502",
+        "960637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Oxygen Sensor",
+      "impact": "A faulty oxygen sensor can cause the check engine light to illuminate, leading to failed emissions tests and potentially causing damage to the vehicle's engine and exhaust system.",
+      "symptoms": [
+        "The check engine light is constantly illuminated on the instrument panel",
+        "failed emissions tests."
+      ],
+      "odiNumbers": [
+        "10266231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust System Leak",
+      "impact": "An exhaust system leak can cause carbon monoxide to enter the vehicle's cabin, posing a risk to the occupants' health and safety. It can also cause damage to the vehicle's interior and exterior components.",
+      "symptoms": [
+        "Burned or discolored interior components",
+        "such as seats",
+        "carpets",
+        "or trim",
+        "unusual noises or smells while driving",
+        "visible signs of exhaust leakage."
+      ],
+      "odiNumbers": [
+        "985487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

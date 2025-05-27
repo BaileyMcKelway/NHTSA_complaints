@@ -1,0 +1,310 @@
+{
+  "totalComplaints": 58,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 18,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The electrical system malfunction can cause various issues, including the vehicle starting and turning off unexpectedly, alarm and warning lights illuminating, and steering column failure, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle starts and turns off unexpectedly",
+        "alarm and warning lights illuminate",
+        "steering column failure",
+        "doors lock and unlock randomly."
+      ],
+      "odiNumbers": [
+        "11548629",
+        "10551722",
+        "11124518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The instrument cluster failure can cause inaccurate gauge readings, including speedometer malfunction, which can lead to accidents or traffic violations.",
+      "symptoms": [
+        "Speedometer sticks or displays inaccurate speeds",
+        "other gauges on the instrument panel display false or no readings",
+        "lamp assembly fading from the inside of the light housing."
+      ],
+      "odiNumbers": [
+        "11394897",
+        "10565964",
+        "10504162",
+        "10392466",
+        "10296129",
+        "10259224",
+        "10255601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The airbag system malfunction can cause the airbag light to illuminate unnecessarily, which can lead to driver distraction and increase the risk of accidents.",
+      "symptoms": [
+        "Airbag light illuminates unnecessarily",
+        "no collision or incident occurred to trigger the airbag light."
+      ],
+      "odiNumbers": [
+        "11288292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "The fuel system malfunction can cause issues with fueling, including limited fuel intake and gas spills, which can lead to accidents or fires.",
+      "symptoms": [
+        "Limited fuel intake",
+        "gas spills",
+        "fuel pump issues."
+      ],
+      "odiNumbers": [
+        "11288292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Heating and Cooling System Malfunction",
+      "impact": "The heating and cooling system malfunction can cause issues with the air conditioner, including hot air blowing and burning wire smells, which can lead to discomfort and potential fires.",
+      "symptoms": [
+        "Air conditioner blows hot air",
+        "burning wire smells",
+        "air conditioner malfunctions."
+      ],
+      "odiNumbers": [
+        "11288292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Seat Heater Malfunction",
+      "impact": "The seat heater malfunction can cause overheating and burning of the seat, which can lead to fires or injuries.",
+      "symptoms": [
+        "Seat heater overheats",
+        "burns a hole in the seat."
+      ],
+      "odiNumbers": [
+        "10712862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Horn Malfunction",
+      "impact": "The horn malfunction can cause the horn to fail to sound when needed, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Horn fails to sound when needed",
+        "horn malfunctions."
+      ],
+      "odiNumbers": [
+        "10144184"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Speaker Volume Malfunction",
+      "impact": "The speaker volume malfunction can cause the volume to increase to a deafening level, which can lead to driver distraction and increase the risk of accidents.",
+      "symptoms": [
+        "Speaker volume increases to a deafening level",
+        "volume malfunctions."
+      ],
+      "odiNumbers": [
+        "10151556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose braking ability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal feels soft or spongy",
+        "the vehicle does not stop or slow down when the brake pedal is pressed",
+        "the brake light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11241090",
+        "10762059",
+        "10629857",
+        "10547901",
+        "10542533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corroded Brake Lines",
+      "impact": "Corroded brake lines can cause the brake fluid to leak, leading to a loss of braking ability, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal feels soft or spongy",
+        "the vehicle does not stop or slow down when the brake pedal is pressed",
+        "brake fluid leaks from the brake lines",
+        "corrosion is visible on the brake lines."
+      ],
+      "odiNumbers": [
+        "10762059",
+        "10629857",
+        "10547901",
+        "10542533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Emergency/Parking Brake Failure",
+      "impact": "The failure of the emergency/parking brake can cause the vehicle to roll or move unexpectedly, leading to accidents or loss of control.",
+      "symptoms": [
+        "The emergency/parking brake release mechanism breaks",
+        "the emergency/parking brake fails to engage",
+        "the vehicle rolls or moves unexpectedly."
+      ],
+      "odiNumbers": [
+        "10523687",
+        "10438896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power or decelerate unexpectedly, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle decelerates or loses power",
+        "the transmission gears fail",
+        "the vehicle is unable to shift gears."
+      ],
+      "odiNumbers": [
+        "10256451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gear Shift Lever Position Indicator Failure",
+      "impact": "The failure of the gear shift lever position indicator can cause confusion and difficulty in shifting gears, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The gear shift lever position indicator light fails to illuminate",
+        "making it difficult to determine the current gear position."
+      ],
+      "odiNumbers": [
+        "11414146",
+        "11318254",
+        "11032027",
+        "11021549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause the vehicle to hesitate or fail to shift gears, leading to loss of control or accidents.",
+      "symptoms": [
+        "The vehicle hesitates or fails to shift gears",
+        "the transmission fluid level is low",
+        "the transmission active indicator light comes on."
+      ],
+      "odiNumbers": [
+        "11387336",
+        "10543999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Issues",
+      "impact": "Electrical system issues can cause various safety-critical systems to malfunction, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The HID headlights blink on and off",
+        "the active traction control system turns on unexpectedly",
+        "causing the vehicle to stall."
+      ],
+      "odiNumbers": [
+        "10478026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Differential Failure",
+      "impact": "Rear differential failure can cause the vehicle to lose traction and control, leading to potential accidents.",
+      "symptoms": [
+        "The rear differential locks up",
+        "causing the vehicle to lose traction and control."
+      ],
+      "odiNumbers": [
+        "10376405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of a crash, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag sensor light is on",
+        "the service airbag message appears",
+        "the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11129309",
+        "10915892",
+        "10762401",
+        "10746323",
+        "10663397",
+        "10359652",
+        "10152376",
+        "10143566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause inaccurate or false readings, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The speedometer displays incorrect information",
+        "the fuel gauge fluctuates showing incorrect fuel levels",
+        "other instrument cluster gauges malfunction."
+      ],
+      "odiNumbers": [
+        "10663397",
+        "10746323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "totalComplaints": 100,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded. In some cases, it can also cause a fire.",
+      "symptoms": [
+        "The vehicle refuses to start",
+        "the ignition switch short circuits",
+        "the vehicle stalls while driving",
+        "the dashboard lights do not come on",
+        "the vehicle makes a loud bursting sound when started",
+        "smoke appears from the steering wheel or dashboard."
+      ],
+      "odiNumbers": [
+        "10195018",
+        "10194090",
+        "10080435",
+        "10045977",
+        "10034395",
+        "568231",
+        "567083",
+        "565751",
+        "8009308",
+        "565467",
+        "565205",
+        "8007230",
+        "8007060",
+        "894386",
+        "876824",
+        "730042",
+        "865222",
+        "536015",
+        "503472",
+        "503473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pass Lock Security System Failure",
+      "impact": "The failure of the Pass Lock security system can cause the vehicle to not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The security light comes on and off",
+        "the vehicle refuses to start",
+        "the vehicle thinks it is being stolen and does not allow gasoline to flow to the fuel injectors."
+      ],
+      "odiNumbers": [
+        "10535676",
+        "10195018",
+        "10194090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The alternator overheats and burns",
+        "the serpentine belt is damaged",
+        "the vehicle cuts off while driving."
+      ],
+      "odiNumbers": [
+        "10080435",
+        "568231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, while unexpected deployment can cause accidents, injuries, or distractions.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "airbags deploy unexpectedly",
+        "airbag warning light stays on",
+        "airbag module failure",
+        "water damage to airbag system."
+      ],
+      "odiNumbers": [
+        "10222507",
+        "10215242",
+        "10180659",
+        "10171666",
+        "10057451",
+        "10050626",
+        "8021941",
+        "754939",
+        "719057",
+        "819665",
+        "533629",
+        "821902",
+        "523682",
+        "815733",
+        "522664",
+        "805760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "Malfunctioning airbag sensors can cause unexpected airbag deployment, leading to accidents, injuries, or distractions, or fail to deploy in the event of a crash, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Airbag deployment for no apparent reason",
+        "airbag failure to deploy in a crash",
+        "water damage to airbag sensor",
+        "faulty airbag module."
+      ],
+      "odiNumbers": [
+        "819665",
+        "815733",
+        "522664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Control Module Failure",
+      "impact": "Failure of the airbag control module can cause airbag deployment failures, unexpected deployments, or warning lights to stay on, leading to accidents, injuries, or distractions.",
+      "symptoms": [
+        "Airbag warning light stays on",
+        "airbag module failure",
+        "water damage to airbag module",
+        "airbag deployment failure."
+      ],
+      "odiNumbers": [
+        "10050626",
+        "10180659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Manifold Gasket Failure",
+      "impact": "The failure of the intake manifold gasket can cause coolant to leak into the engine, leading to engine damage, overheating, and potential engine failure.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "10069465",
+        "10041428",
+        "10008159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission failure",
+        "loss of power",
+        "inability to shift gears."
+      ],
+      "odiNumbers": [
+        "10125502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Conditioner Coolant Leak",
+      "impact": "The leakage of coolant from the air conditioner can cause the air conditioner to blow warm air, leading to discomfort and potential overheating.",
+      "symptoms": [
+        "Air conditioner blows warm air",
+        "repeated servicing required."
+      ],
+      "odiNumbers": [
+        "10079180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator and Serpentine Belt Tensioner Failure",
+      "impact": "The failure of the alternator and serpentine belt tensioner can cause damage to other engine components, leading to costly repairs.",
+      "symptoms": [
+        "Alternator failure",
+        "serpentine belt tensioner failure",
+        "damage to other engine components."
+      ],
+      "odiNumbers": [
+        "10068779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Stalling and Shutting Off",
+      "impact": "The engine stalling and shutting off without warning can cause accidents, leaving the driver stranded, and potentially leading to engine damage.",
+      "symptoms": [
+        "Engine stalling",
+        "engine shutting off without warning",
+        "inability to restart."
+      ],
+      "odiNumbers": [
+        "755846",
+        "742974",
+        "838425",
+        "782030",
+        "822026",
+        "535808"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Wear and Failure",
+      "impact": "Premature brake wear and failure can lead to reduced stopping power, increased risk of accidents, and potential loss of vehicle control.",
+      "symptoms": [
+        "Brake pads and rotors wear out excessively",
+        "drums require frequent replacement",
+        "brake lines crack and leak brake fluid",
+        "brake shoes need to be replaced."
+      ],
+      "odiNumbers": [
+        "8006581",
+        "550844",
+        "539085",
+        "535645",
+        "508249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "Failure of the ABS brake system can cause loss of vehicle control, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "ABS light is constantly on",
+        "ABS brakes fail",
+        "anti-lock brakes fail",
+        "failure of the ABS brake system causes accidents."
+      ],
+      "odiNumbers": [
+        "821626",
+        "523682",
+        "983913"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Line and Brake Fluid Issues",
+      "impact": "Brake line cracks and brake fluid leaks can cause loss of brake pressure, reduced stopping power, and increased risk of accidents.",
+      "symptoms": [
+        "Brake lines crack unexpectedly",
+        "brake fluid leaks",
+        "brake fluid loss."
+      ],
+      "odiNumbers": [
+        "878690",
+        "539085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "Brake noise and vibration can be a sign of underlying brake problems, which can lead to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Brakes grab at times",
+        "brakes bounce and create loud thumping noise at low speeds."
+      ],
+      "odiNumbers": [
+        "709853",
+        "707411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Brake Components",
+      "impact": "Defective brake components can cause premature brake wear, reduced stopping power, and increased risk of accidents.",
+      "symptoms": [
+        "Defective calipers stick",
+        "causing excessive wear and damage to brake parts."
+      ],
+      "odiNumbers": [
+        "503472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Suspension Failure",
+      "impact": "The failure of the front suspension can cause loss of vehicle control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Lower control arms break off from bushings",
+        "front end instability",
+        "extreme vibration at highway speeds",
+        "vehicle bottoms out and hits the pavement",
+        "noise from front struts when going over bumps."
+      ],
+      "odiNumbers": [
+        "761702",
+        "8008847",
+        "856779",
+        "550844",
+        "535808",
+        "818703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joint can cause the tire to come off while driving, leading to accidents and injuries.",
+      "symptoms": [
+        "Lower ball joint disengages",
+        "tire comes off while driving",
+        "damage to the front fender."
+      ],
+      "odiNumbers": [
+        "10117474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Malfunctions",
+      "impact": "The malfunction of the electrical system can cause distractions, accidents, and injuries.",
+      "symptoms": [
+        "Interior lights come on by themselves and stay on",
+        "key gets stuck in ignition",
+        "horn not working",
+        "gas gauge failure",
+        "vehicle jerks forward from stop position",
+        "air conditioning malfunction."
+      ],
+      "odiNumbers": [
+        "523007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

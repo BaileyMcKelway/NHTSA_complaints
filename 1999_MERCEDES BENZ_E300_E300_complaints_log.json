@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Suspension Failure due to Rust and Corrosion",
+      "impact": "The failure of the front suspension components due to rust and corrosion can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle's suspension collapses",
+        "the coil spring falls out",
+        "the control arm shears off",
+        "the steering feels strange",
+        "the vehicle bottoms out",
+        "the front wheel disconnects from the car."
+      ],
+      "odiNumbers": [
+        "10874486",
+        "10874484",
+        "10597179",
+        "10421040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS/ASR Hydraulic Unit Failure",
+      "impact": "The failure of the ABS/ASR hydraulic unit can cause the brake system to malfunction, leading to a loss of braking power, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake light illuminates on the dashboard",
+        "indicating low brake fluid levels",
+        "the brake pedal feels soft or spongy",
+        "the vehicle's brakes do not respond properly",
+        "the ABS system locks and unlocks",
+        "the tires spin on wet pavement",
+        "and the engine races to the redline when the gear selector is moved to neutral."
+      ],
+      "odiNumbers": [
+        "10232957",
+        "745838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Fluid Leak",
+      "impact": "A brake fluid leak can cause the brake system to malfunction, leading to a loss of braking power, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake light illuminates on the dashboard",
+        "indicating low brake fluid levels",
+        "the brake pedal feels soft or spongy",
+        "the vehicle's brakes do not respond properly."
+      ],
+      "odiNumbers": [
+        "10232957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, making it difficult to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Grinding noise when shifting gears",
+        "difficulty shifting into gear",
+        "inability to shift into gear",
+        "vibration when decelerating."
+      ],
+      "odiNumbers": [
+        "10232188",
+        "712004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Transmission Maintenance Information",
+      "impact": "The lack of clear transmission maintenance information can lead to transmission failure, which can cause the vehicle to lose power, making it difficult to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "None",
+        "as this is a concern about the lack of information rather than a specific symptom."
+      ],
+      "odiNumbers": [
+        "10232188"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Vibration",
+      "impact": "The vibration of the transmission can cause the vehicle to lose power, making it difficult to control, which can lead to accidents.",
+      "symptoms": [
+        "Vibration when decelerating",
+        "typically around 40mph."
+      ],
+      "odiNumbers": [
+        "712004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

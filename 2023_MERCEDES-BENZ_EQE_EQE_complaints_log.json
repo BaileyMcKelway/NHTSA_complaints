@@ -1,0 +1,243 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Stalling and Loss of Propulsion)",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or lose propulsion, which can lead to accidents, injuries, or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses propulsion while driving",
+        "unknown warning messages appear",
+        "the vehicle may be unable to restart."
+      ],
+      "odiNumbers": [
+        "11592912",
+        "11592597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Acceleration and Brake Failure",
+      "impact": "The sudden acceleration and brake failure can cause loss of control, accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly in reverse",
+        "the brakes do not function",
+        "the vehicle continues to move despite attempts to brake."
+      ],
+      "odiNumbers": [
+        "11572481"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical Fire Hazard (Thermal Runaway)",
+      "impact": "The electrical fire hazard can cause thermal runaway, leading to fires, property damage, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle explodes or catches fire",
+        "often in the garage",
+        "resulting in property damage and potential harm to occupants."
+      ],
+      "odiNumbers": [
+        "11571649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Charging Capacity Decline",
+      "impact": "The decline in battery charging capacity can reduce the vehicle's travel range, leading to inconvenience and potential safety issues.",
+      "symptoms": [
+        "The travel range declines",
+        "often without warning lights or notifications."
+      ],
+      "odiNumbers": [
+        "11567208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical Interference and Fire Hazard (USB Audio)",
+      "impact": "The electrical interference can cause a fire hazard, leading to property damage and potential harm to occupants.",
+      "symptoms": [
+        "The audio source suddenly disconnects",
+        "making a buzzing sound on the rear left speaker",
+        "and potentially causing a fire hazard due to loose connections."
+      ],
+      "odiNumbers": [
+        "11536718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Malfunction and Software Issue",
+      "impact": "The malfunction of the brake system and software issue can cause the vehicle to stop suddenly or unexpectedly, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The dashboard displays an alert to stop the vehicle",
+        "the vehicle stops suddenly",
+        "the vehicle requires towing to the dealership",
+        "the brake system malfunctions",
+        "the software update is necessary but not installed."
+      ],
+      "odiNumbers": [
+        "11590871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "UnAuthorized Remote Wipe of Driver Profile and Creep Function Malfunction",
+      "impact": "The unauthorized remote wipe of the driver profile can cause the vehicle to behave unexpectedly, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The driver profile is remotely wiped without authorization",
+        "the creep function is enabled by default",
+        "the vehicle continues to travel forward without accelerator input",
+        "the vehicle does not come to a stop as expected."
+      ],
+      "odiNumbers": [
+        "11570356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electric Vehicle (EV) Software Issue and Potential Safety Risks",
+      "impact": "The software issue in Electric Vehicles (EVs) can cause the vehicle to stop suddenly or unexpectedly, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle stops suddenly",
+        "the vehicle requires towing to the dealership",
+        "the software update is necessary but not installed",
+        "potential safety risks due to software issue."
+      ],
+      "odiNumbers": [
+        "11590871",
+        "11570356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration of the vehicle, despite the driver's attempts to brake, can lead to accidents, injuries, and fatalities. The failure of the brake system and the malfunction of safety features such as airbags and seatbelts can exacerbate the consequences of the accident.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "despite the driver's attempts to brake",
+        "the brakes fail to respond or are ineffective",
+        "the vehicle jumps over obstacles such as parking blocks",
+        "the tires spin or burn rubber",
+        "the dashboard and warning lights malfunction or go blank",
+        "the airbags fail to deploy",
+        "and the seatbelts fail to restrain the driver properly."
+      ],
+      "odiNumbers": [
+        "11579404",
+        "11579164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle's critical systems to malfunction, leading to accidents, injuries, and fatalities. The malfunction of the dashboard and warning lights can prevent the driver from receiving important safety alerts.",
+      "symptoms": [
+        "The dashboard and warning lights malfunction or go blank",
+        "the vehicle's systems fail to respond or respond erratically",
+        "the vehicle's safety features such as airbags and seatbelts fail to deploy or function properly."
+      ],
+      "odiNumbers": [
+        "11579404",
+        "11579164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Safety Feature Malfunction",
+      "impact": "The malfunction of safety features such as airbags and seatbelts can exacerbate the consequences of an accident, leading to injuries and fatalities.",
+      "symptoms": [
+        "The airbags fail to deploy",
+        "the seatbelts fail to restrain the driver properly",
+        "the safety features fail to respond or respond erratically."
+      ],
+      "odiNumbers": [
+        "11579404",
+        "11579164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Powertrain Control Module (PCM) Software Issue",
+      "impact": "The faulty PCM software can cause the vehicle to experience sudden loss of power, jerking, and shaking, which can lead to accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "Sudden loss of power",
+        "vehicle shudders",
+        "vehicle slows down rapidly",
+        "jerking or shaking behavior",
+        "limited acceleration",
+        "error messages such as \"rare steering malfunction\" and \"auto brake system malfunction\"."
+      ],
+      "odiNumbers": [
+        "11579179",
+        "11519132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Malfunction",
+      "impact": "The malfunctioning steering system can cause the vehicle to lose control, especially at low speeds, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Pulsing",
+        "shaking",
+        "or jerking behavior",
+        "especially at low speeds",
+        "difficulty steering",
+        "error messages such as \"rare steering malfunction\"."
+      ],
+      "odiNumbers": [
+        "11519132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Malfunction",
+      "impact": "The malfunctioning brake system can cause the vehicle to experience uneven or unpredictable braking, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Pulsing or vibrating when braking",
+        "difficulty stopping smoothly",
+        "error messages such as \"auto brake system malfunction\"."
+      ],
+      "odiNumbers": [
+        "11519132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

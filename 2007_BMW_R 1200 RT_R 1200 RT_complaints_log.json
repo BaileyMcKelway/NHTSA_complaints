@@ -1,0 +1,175 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Fuel pump failure can cause fuel leaks, leading to a fire hazard, and engine stalling, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump outlet connection",
+        "fuel smell",
+        "fuel running down the engine",
+        "engine stalling",
+        "fuel gauge malfunctioning",
+        "and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10558217",
+        "10503806",
+        "10494927",
+        "10491835",
+        "10485276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "Fuel gauge malfunction can cause the driver to run out of fuel, leading to engine stalling, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Fuel gauge stops responding",
+        "fuel gauge shows incorrect reading",
+        "sudden loss of power",
+        "and engine stalling."
+      ],
+      "odiNumbers": [
+        "10915030",
+        "10500553",
+        "10472852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Recall Remediation Issues",
+      "impact": "The lack of available replacement parts for the fuel system recall can cause delays in remediation, leaving drivers at risk of fuel leaks and engine stalling.",
+      "symptoms": [
+        "Dealers unable to remedy the issue due to lack of parts",
+        "and drivers experiencing fuel leaks and engine stalling."
+      ],
+      "odiNumbers": [
+        "11420714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure - Cracked Outlet Flange",
+      "impact": "The cracked outlet flange on the fuel pump can cause fuel leaks, which can lead to fires, accidents, or leave the rider stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping on the ground",
+        "fuel gauge malfunction",
+        "incorrect fuel level reading",
+        "sudden loss of fuel pressure."
+      ],
+      "odiNumbers": [
+        "10437222",
+        "10433589",
+        "10399423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Sensor Failure",
+      "impact": "The failure of the fuel sensor can cause the fuel gauge to malfunction, leading to incorrect fuel level readings, which can cause the rider to run out of fuel unexpectedly, potentially leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "Fuel gauge malfunction",
+        "incorrect fuel level reading",
+        "sudden loss of fuel pressure."
+      ],
+      "odiNumbers": [
+        "10399489",
+        "10453708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause fuel leaks, which can lead to fires, accidents, or leave the rider stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping on the ground",
+        "fuel gauge malfunction",
+        "incorrect fuel level reading",
+        "sudden loss of fuel pressure."
+      ],
+      "odiNumbers": [
+        "10437222",
+        "10433589",
+        "10399423",
+        "10399489",
+        "10453708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Pump Motor Failure",
+      "impact": "The failure of the ABS pump motor can cause the loss of anti-lock braking system (ABS) functionality, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "ABS warning light on the dashboard",
+        "loss of ABS functionality",
+        "brake failure warning lamp on instrument cluster",
+        "faulty brake operation."
+      ],
+      "odiNumbers": [
+        "10630521",
+        "10627087",
+        "10426535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the loss of anti-lock braking system (ABS) functionality, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "ABS warning light on the dashboard",
+        "loss of ABS functionality",
+        "faulty brake operation",
+        "error codes such as \"005 DFO PUMP MOTOR VOLTAGE SUPPLY\" and \"009309 KOMBI UNDER TENSION\"."
+      ],
+      "odiNumbers": [
+        "10627087",
+        "10426535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Final Drive Oil Leak onto Brake Rotor and Pads",
+      "impact": "The oil leak from the final drive onto the brake rotor and pads can cause reduced braking performance, leading to increased stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "Oil leak from final drive",
+        "oil on brake rotor and pads",
+        "reduced braking performance",
+        "possible lockup of rear wheel and loss of control."
+      ],
+      "odiNumbers": [
+        "10379234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

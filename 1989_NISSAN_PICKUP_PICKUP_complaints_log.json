@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can cause the occupant to be thrown from the vehicle or not be properly restrained, leading to serious injury or death.",
+      "symptoms": [
+        "The seat belt suddenly unbuckles while driving",
+        "the seat belt does not latch properly",
+        "the seat belt comes loose while driving",
+        "the seat belt buckle clicks as if it was locked but comes loose with pressure",
+        "the seat belt retracts slowly or not at all",
+        "the seat belt breaks or has broken pieces inside."
+      ],
+      "odiNumbers": [
+        "761893",
+        "742386",
+        "704745",
+        "828736",
+        "982739",
+        "975882",
+        "963572",
+        "961509",
+        "961244",
+        "960235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause unexpected shifting, hesitation, or failure to shift, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the transmission fails to shift",
+        "the transmission makes unusual noises",
+        "the transmission warning light illuminates."
+      ],
+      "odiNumbers": [
+        "564379",
+        "564379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incorrect Speedometer Readings",
+      "impact": "Incorrect speedometer readings can lead to inaccurate speed information, which can cause accidents, especially when merging or changing lanes.",
+      "symptoms": [
+        "The speedometer displays an incorrect speed",
+        "the speedometer is stuck or frozen",
+        "the speedometer fluctuates erratically."
+      ],
+      "odiNumbers": [
+        "471843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Rubber Seal Degradation",
+      "impact": "The premature degradation of rubber seals can lead to water ingress, corrosion, and damage to vehicle components, affecting the overall durability and reliability of the vehicle.",
+      "symptoms": [
+        "Rubber seals rot",
+        "crack",
+        "or deteriorate prematurely",
+        "often within 3-4 years of vehicle ownership."
+      ],
+      "odiNumbers": [
+        "725814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Paint Defects and Flaking",
+      "impact": "The flaking of paint on the hood and bed of the truck can lead to corrosion and damage to the underlying metal, affecting the vehicle's appearance and potentially compromising its structural integrity.",
+      "symptoms": [
+        "Paint on the top surfaces of the truck (hood and bed) flakes off",
+        "while the sides remain unaffected."
+      ],
+      "odiNumbers": [
+        "725814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

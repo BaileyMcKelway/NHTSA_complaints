@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "The failure of the Takata airbag inflator can cause the inflator housing to rupture, resulting in metal fragments striking the front passenger or other occupants, possibly causing serious injury or death.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a safety recall and not a specific malfunction or failure."
+      ],
+      "odiNumbers": [
+        "11350944",
+        "11291145",
+        "11287383",
+        "11269398",
+        "11267932",
+        "11267992",
+        "11202936",
+        "11155551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Speed Sensor Failure",
+      "impact": "The failure of the wheel speed sensor can cause the malfunction of various safety systems, including ABS, ESP, and traction control, which can lead to a loss of vehicle control, increased stopping distances, and a higher risk of accidents.",
+      "symptoms": [
+        "Multiple warning lights illuminate on the dashboard",
+        "including ESP",
+        "ABS",
+        "and brake force distribution warnings; cruise control",
+        "ABS",
+        "stability control",
+        "and 4WD systems become non-functional; vehicle accelerates on its own; transmission shifts erratically; vehicle surges; and inability to drive above 30mph."
+      ],
+      "odiNumbers": [
+        "11440448",
+        "11375781",
+        "11350382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Manifold Failure",
+      "impact": "A defective intake manifold can cause the vehicle to lose power, struggle to maintain speed, and potentially lead to accidents or traffic hazards.",
+      "symptoms": [
+        "Hissing noise from the engine when accelerating",
+        "loss of speed when driving on the highway",
+        "inability to keep up with traffic",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "11532688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "A malfunctioning EGR valve can cause intermittent power loss, leading to unpredictable and hazardous driving conditions, particularly when accelerating or merging into traffic.",
+      "symptoms": [
+        "Random power loss",
+        "jerking or loss of acceleration force when accelerating",
+        "difficulty driving uphill",
+        "unpredictable behavior",
+        "check engine light may not be illuminated."
+      ],
+      "odiNumbers": [
+        "11440452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

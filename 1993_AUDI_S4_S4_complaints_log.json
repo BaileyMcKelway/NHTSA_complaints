@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Cam Failure",
+      "impact": "The failure of the throttle cam can cause unintended acceleration, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The throttle pedal sticks open",
+        "the engine races uncontrollably",
+        "the throttle cabling mechanism sticks in the partially \"open\" position."
+      ],
+      "odiNumbers": [
+        "10329785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Line Failure",
+      "impact": "The failure of the fuel line can cause fuel leaks, which can lead to fires, explosions, or engine compartment fires.",
+      "symptoms": [
+        "Fuel smell",
+        "fuel leaks",
+        "fuel spraying onto the exhaust system",
+        "fuel line failure at the point where the fuel line goes through rubber isolation/mounting blocks."
+      ],
+      "odiNumbers": [
+        "10325567",
+        "770485",
+        "721260",
+        "713966",
+        "713398",
+        "712261",
+        "712129",
+        "712161",
+        "547760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the vehicle to vibrate, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Vibration in the front end",
+        "ABS brakes locking up",
+        "smoke coming from the front left wheel."
+      ],
+      "odiNumbers": [
+        "834585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "No Specific Defect Cited",
+      "impact": "No specific impact can be determined due to lack of information.",
+      "symptoms": [
+        "None reported."
+      ],
+      "odiNumbers": [
+        "703049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Recall Repair Process",
+      "impact": "The failure of dealerships to properly repair recalled vehicles can lead to continued safety risks for drivers and passengers, as well as frustration and inconvenience for vehicle owners.",
+      "symptoms": [
+        "Dealerships cancel or postpone repair appointments due to billing or reimbursement issues",
+        "leaving recalled vehicles unrepaired and potentially unsafe."
+      ],
+      "odiNumbers": [
+        "11149954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manufacturer-Dealer Communication Breakdown",
+      "impact": "Poor communication between manufacturers and dealerships can lead to delays or failures in recall repairs, putting vehicle owners at risk and causing frustration.",
+      "symptoms": [
+        "Dealerships lack proper billing codes or reimbursement information",
+        "leading to cancelled or postponed repair appointments",
+        "and vehicle owners are left to navigate the repair process."
+      ],
+      "odiNumbers": [
+        "11149954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

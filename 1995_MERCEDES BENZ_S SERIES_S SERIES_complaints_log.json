@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Wiring Harness Failure",
+      "impact": "The failure of the engine wiring harness can cause the engine to stall, misfire, and overheat, leading to a loss of power and control, which can increase the risk of accidents. Additionally, the faulty wiring harness can lead to electrical fires, putting the occupants and vehicle at risk.",
+      "symptoms": [
+        "Engine stalling",
+        "misfiring",
+        "and overheating; sudden loss of power and stalling while driving; burning smell; faulty indicators; cracked or disintegrated wiring harness insulation; exposed wires."
+      ],
+      "odiNumbers": [
+        "10336596",
+        "10307023",
+        "10208217",
+        "10200633",
+        "10199695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Malfunction",
+      "impact": "The malfunction of the ESC system can cause the vehicle to slow down or lose control, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The ASR light comes on",
+        "the vehicle slows down",
+        "the accelerator pedal must be pressed all the way to the floor to maintain speed."
+      ],
+      "odiNumbers": [
+        "862687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sulfur Smell Emanating from the Vehicle",
+      "impact": "The sulfur smell can be hazardous to the health and well-being of occupants, and substantially impairs the use of the vehicle.",
+      "symptoms": [
+        "A strong sulfur smell emanates from the vehicle",
+        "especially during warm weather conditions or after driving for an extended period",
+        "the smell is overwhelming and offensive",
+        "the smell enters the home or garage when the vehicle is parked."
+      ],
+      "odiNumbers": [
+        "700865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driveshaft Flex Disk Failure",
+      "impact": "The failure of the driveshaft flex disk can cause the engine to lock up, resulting in sudden loss of vehicle control, which can lead to accidents and potentially deploy airbags.",
+      "symptoms": [
+        "Sudden engine lockup",
+        "vehicle stops moving",
+        "airbag deployment without warning",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10361066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "Unintended airbag deployment can cause distractions, injuries, or accidents, and may also lead to unnecessary repair costs.",
+      "symptoms": [
+        "Airbag deploys without warning",
+        "airbag deploys in the absence of a crash",
+        "airbag warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "10361066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Slip Regulation (ASR) System Malfunction",
+      "impact": "The malfunction of the ASR system can cause the engine to stall without warning, leading to a loss of vehicle control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the ASR warning light illuminates on the instrument panel",
+        "difficulty restarting the engine."
+      ],
+      "odiNumbers": [
+        "10291621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of vehicle control, making it difficult to steer, which can increase the risk of accidents.",
+      "symptoms": [
+        "The steering box is leaking",
+        "the lower control arm bushings are worn out",
+        "difficulty steering the vehicle."
+      ],
+      "odiNumbers": [
+        "10291621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

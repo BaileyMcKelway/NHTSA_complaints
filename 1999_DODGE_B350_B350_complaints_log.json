@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Valve Stem Separation",
+      "impact": "The separation of the valve stem from the rubber and metal can cause tires to deflate faster, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tires deflate faster",
+        "valve stem separates from the rubber and metal",
+        "tire pressure loss."
+      ],
+      "odiNumbers": [
+        "8002658",
+        "8002661",
+        "8002667",
+        "8002670",
+        "8002674",
+        "8002675",
+        "8002676",
+        "8002565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Module Area Fire Hazard",
+      "impact": "The failure of the ABS module area can cause under-hood fires, which can lead to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Under-hood fires",
+        "malfunctioning speedometer",
+        "instrument cluster malfunction",
+        "melted ABS module connector",
+        "burnt ABS module wiring."
+      ],
+      "odiNumbers": [
+        "10243631",
+        "10243638",
+        "10243633",
+        "10243647",
+        "10243643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Seat Mount Failure",
+      "impact": "The failure of the front seat mount can cause the seat to become unstable, potentially leading to occupant injury or accident in the event of sudden braking or crash.",
+      "symptoms": [
+        "The front seat is loose or unstable",
+        "the seat is cracked or broken",
+        "the seat is detached from the floorboard",
+        "abnormal noise or vibration from the seat area."
+      ],
+      "odiNumbers": [
+        "10079460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

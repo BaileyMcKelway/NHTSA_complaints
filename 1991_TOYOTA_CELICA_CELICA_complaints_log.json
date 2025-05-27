@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Frontal Airbag Failure to Deploy",
+      "impact": "The failure of the driver's frontal airbag to deploy in a crash can lead to serious injuries or fatalities, as the airbag is designed to provide critical protection to the driver in the event of a collision.",
+      "symptoms": [
+        "The driver's frontal airbag does not deploy in a crash",
+        "resulting in injuries or fatalities",
+        "despite the vehicle's speed and impact severity meeting the airbag deployment threshold."
+      ],
+      "odiNumbers": [
+        "751904",
+        "557591",
+        "852890",
+        "809957",
+        "808651",
+        "505388",
+        "982580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, or fatalities, as the sudden and unexpected deployment of the airbag can startle the driver and cause loss of control.",
+      "symptoms": [
+        "The airbag deploys unexpectedly while driving at low speeds",
+        "without any crash or impact",
+        "causing the driver to lose control or resulting in injuries."
+      ],
+      "odiNumbers": [
+        "840511",
+        "517635",
+        "479124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "Failure of the airbag sensor can prevent the airbag from deploying in a crash, leading to injuries or fatalities, or cause unintended airbag deployment, leading to accidents or injuries.",
+      "symptoms": [
+        "The airbag sensor is damaged or destroyed",
+        "preventing the airbag from deploying in a crash",
+        "or causing unintended airbag deployment."
+      ],
+      "odiNumbers": [
+        "808651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to malfunction, leading to a safety risk in the event of an accident. This can result in injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt will not fasten",
+        "the seatbelt pulls out all the way and will not retract",
+        "the seatbelt tensioner fails."
+      ],
+      "odiNumbers": [
+        "889775",
+        "885552",
+        "539525",
+        "536634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Seatbelt Restraint",
+      "impact": "The failure of the seatbelt to restrain occupants during an accident can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt does not lock upon impact",
+        "the seatbelt does not restrain occupants during an accident."
+      ],
+      "odiNumbers": [
+        "813181",
+        "973876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Line Failure",
+      "impact": "Defective rear brake lines can cause brake fluid leaks, leading to reduced braking performance, increased stopping distances, and potentially causing accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake fluid leaks",
+        "reduced braking performance",
+        "increased stopping distances."
+      ],
+      "odiNumbers": [
+        "961354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

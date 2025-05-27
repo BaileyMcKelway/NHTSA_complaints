@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE",
+    "ENGINE AND ENGINE COOLING",
+    "SUSPENSION",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brake pedal to go to the floor, leading to a loss of braking ability, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "brake fluid leaks",
+        "brake pedal feels soft or spongy",
+        "chunks fall off the rotors",
+        "excessive pressure is required to stop the vehicle",
+        "vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "10462933",
+        "10107244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crankshaft Position Sensor Failure",
+      "impact": "The failure of the crankshaft position sensor can cause the engine to stall, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls",
+        "the battery/charging warning indicator illuminates",
+        "the vehicle is able to restart",
+        "the failure occurs on multiple occasions."
+      ],
+      "odiNumbers": [
+        "10643840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crankshaft Position Sensor Failure",
+      "impact": "The failure of the crankshaft position sensor can cause the engine to stall or fail to start, which can lead to accidents, especially if the vehicle stalls while in motion or at an intersection.",
+      "symptoms": [
+        "Difficulty starting the vehicle",
+        "engine stalling",
+        "vehicle shutting off while stopped",
+        "inability to restart the vehicle."
+      ],
+      "odiNumbers": [
+        "10239219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Bearing Sensor Failure",
+      "impact": "The failure of the wheel bearing sensors can cause the anti-lock braking system (ABS) to malfunction, leading to reduced braking performance, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates on the dashboard",
+        "the brakes feel spongy or soft",
+        "the vehicle takes longer to stop",
+        "the brakes make a grinding or screeching noise",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "10101381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermediate Steering Shaft Failure",
+      "impact": "The failure of the intermediate steering shaft can cause loss of steering control, making it difficult to maneuver the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Unusual noise coming from the steering column",
+        "loose or wobbly steering wheel",
+        "difficulty steering the vehicle",
+        "vibration in the steering wheel."
+      ],
+      "odiNumbers": [
+        "10101071"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

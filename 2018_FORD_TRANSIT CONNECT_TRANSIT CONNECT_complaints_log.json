@@ -1,0 +1,76 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Rack Failure",
+      "impact": "The sudden failure of the power steering rack can cause loss of steering control, increasing the risk of accidents and putting the driver and surrounding vehicles at risk.",
+      "symptoms": [
+        "Unexpected power steering failure while driving",
+        "loss of power steering assist",
+        "difficulty steering the vehicle",
+        "no warning lamps or messages before failure."
+      ],
+      "odiNumbers": [
+        "11467730",
+        "11467735",
+        "11464032",
+        "11464044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "The failure of the torque converter can cause the transmission to shudder, leading to reduced vehicle performance, decreased fuel efficiency, and potential accidents due to loss of control.",
+      "symptoms": [
+        "The transmission shudders or vibrates",
+        "the vehicle hesitates or lags when accelerating",
+        "the transmission slips or hesitates when shifting gears."
+      ],
+      "odiNumbers": [
+        "11582928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Body Control Module Failure",
+      "impact": "The failure of the Body Control Module can cause various electrical systems to malfunction, including the door locks, which can leave the vehicle and its occupants vulnerable to theft or attack.",
+      "symptoms": [
+        "The door locks do not function",
+        "the door locks make a noise but do not engage",
+        "the vehicle's electrical systems malfunction."
+      ],
+      "odiNumbers": [
+        "11463851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Sliding Door Latch Failure",
+      "impact": "The failure of the rear sliding door latch can cause the door to open unexpectedly while the vehicle is in motion, which can lead to accidents or injuries, especially if occupants or cargo are ejected from the vehicle.",
+      "symptoms": [
+        "The rear sliding door opens unintentionally while the vehicle is in motion",
+        "the door cannot be shut due to a defective latch",
+        "the door may be secured temporarily with makeshift measures such as zip ties."
+      ],
+      "odiNumbers": [
+        "11534789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

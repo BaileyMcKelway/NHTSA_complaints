@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "EQUIPMENT",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioner Motor Failure",
+      "impact": "The failure of the air conditioner motor can cause a fire, resulting in damage to the vehicle and potential harm to occupants.",
+      "symptoms": [
+        "The air conditioner motor catches fire",
+        "the air conditioner motor emits smoke",
+        "the air conditioner motor produces a burning smell",
+        "the air conditioner motor fails to operate."
+      ],
+      "odiNumbers": [
+        "505906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fan Clutch Failure",
+      "impact": "The failure of the fan clutch can cause the engine to overheat, leading to damage to the engine and other components, and potentially causing a loss of vehicle control.",
+      "symptoms": [
+        "The fan clutch fails",
+        "the engine overheats",
+        "the temperature gauge rises",
+        "the vehicle loses power",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "505906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, smoke, and potentially engine fires, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle overheats",
+        "the engine smokes",
+        "the temperature gauge is in the red zone",
+        "the coolant level is low",
+        "the coolant leaks",
+        "the engine makes a loud knocking or grinding noise",
+        "the vehicle stalls or shuts down."
+      ],
+      "odiNumbers": [
+        "505906",
+        "484833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden and unintended acceleration can cause loss of vehicle control, accidents, and injuries to the driver and passengers, as well as damage to other vehicles and property.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and without warning",
+        "often when the vehicle is in park or neutral gear",
+        "and may cause the vehicle to move unexpectedly."
+      ],
+      "odiNumbers": [
+        "8007157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Seatback Anchorage Loop Failure",
+      "impact": "The failure of the driver's side seatback anchorage loop can cause the seatback to become unstable, potentially leading to loss of control, accidents, or injuries to the driver and passengers.",
+      "symptoms": [
+        "The driver's side seatback is bent forward",
+        "the seatback anchorage loop is broken",
+        "the seatback is unstable or wobbly",
+        "the seatback does not stay in its upright position."
+      ],
+      "odiNumbers": [
+        "511445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

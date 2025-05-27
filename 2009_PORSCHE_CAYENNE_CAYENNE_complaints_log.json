@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Drive Shaft Failure",
+      "impact": "The sudden failure of the drive shaft can cause violent shaking of the vehicle and loss of control while in motion, leading to potential accidents.",
+      "symptoms": [
+        "The drive shaft goes off unexpectedly",
+        "causing violent shaking of the vehicle and loss of control",
+        "drive shaft mount failure."
+      ],
+      "odiNumbers": [
+        "11230616",
+        "11140269",
+        "10630319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Lock Fault and Transmission Issues",
+      "impact": "The ignition lock fault can prevent the vehicle from starting, and the transmission issues can cause the vehicle to become stuck in park, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The dash reads \"ignition lock fault\"",
+        "the vehicle won't start",
+        "the vehicle won't come out of park",
+        "the transmission gets stuck in park."
+      ],
+      "odiNumbers": [
+        "10628959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "PDK Transmission Issues",
+      "impact": "The PDK transmission issues can cause the vehicle to shift into neutral unexpectedly, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle shifts into neutral for a split second or two before engaging into first gear",
+        "especially in stop-and-go traffic."
+      ],
+      "odiNumbers": [
+        "10263958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Component Failure",
+      "impact": "The failure of electrical components can cause various systems to malfunction, including the suspension, radio, Bluetooth, and GPS, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The electronics on the car show a suspension issue",
+        "the electronics shut down and restart after 5-7 minutes",
+        "the radio turns on after restart."
+      ],
+      "odiNumbers": [
+        "10261287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Leakage",
+      "impact": "Fuel leakage from the fuel tank can cause a fire hazard, especially in the presence of an ignition source, which can lead to serious accidents or injuries.",
+      "symptoms": [
+        "Strong gas smell",
+        "fuel dripping or leaking from the fuel tank",
+        "fuel smell near the rear tire area",
+        "fuel smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11516582",
+        "11510169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Leak/Fuel Odor",
+      "impact": "A fuel leak or fuel odor can increase the risk of a fire, potentially causing injury or damage to the vehicle and its occupants.",
+      "symptoms": [
+        "Strong fuel odor inside the vehicle",
+        "typically emanating from the rear of the vehicle",
+        "often on the driver's side."
+      ],
+      "odiNumbers": [
+        "11337128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

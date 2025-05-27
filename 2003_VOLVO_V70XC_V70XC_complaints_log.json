@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to shift harshly or not shift at all, leading to a loss of vehicle control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle shifts hard",
+        "the vehicle won't shift at all",
+        "unusual noises or vibrations when shifting."
+      ],
+      "odiNumbers": [
+        "10555725"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Angle Gear Failure",
+      "impact": "Angle gear failure can cause the vehicle to lose power, leading to a loss of vehicle control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Leaking angle gear",
+        "unusual noises or vibrations from the transmission area."
+      ],
+      "odiNumbers": [
+        "10224771",
+        "10212492"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Noise and Vibration",
+      "impact": "Unusual transmission noises and vibrations can indicate a problem with the transmission, which can lead to a loss of vehicle control, accidents, or leaving the driver stranded if left unaddressed.",
+      "symptoms": [
+        "Whooping or crane-like sound when stepping on the accelerator and releasing",
+        "knocking noise coming from underneath the vehicle."
+      ],
+      "odiNumbers": [
+        "10205035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can lead to a loss of critical vehicle information, including speed, fuel level, and warning lights, which can compromise vehicle safety and increase the risk of accidents.",
+      "symptoms": [
+        "The dashboard and speedometer go blank",
+        "the SRS warning light is illuminated",
+        "the driver instrument module fails intermittently or completely",
+        "the instrument panel and dash lights flash on and off randomly",
+        "the vehicle's information system displays false warnings (e.g.",
+        "airbag problem)."
+      ],
+      "odiNumbers": [
+        "10477463",
+        "10456991",
+        "10446930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Light Failure",
+      "impact": "The failure of the brake lights can increase the risk of rear-end collisions, as other drivers may not be aware of the vehicle's intention to stop.",
+      "symptoms": [
+        "The left and right side brake lights do not illuminate when the pedal is depressed",
+        "even after replacing the bulbs."
+      ],
+      "odiNumbers": [
+        "10446930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to a failure of the airbags to deploy in the event of a crash, increasing the risk of injury or death.",
+      "symptoms": [
+        "The vehicle's information system displays a false warning of an airbag problem",
+        "even though the airbags have never been activated or deployed."
+      ],
+      "odiNumbers": [
+        "10446930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates independently without warning",
+        "the engine RPM increases suddenly",
+        "the vehicle surges forward while the brake pedal is pressed",
+        "the vehicle accelerates at a high rate even when the transmission is in reverse gear."
+      ],
+      "odiNumbers": [
+        "11404241",
+        "10627341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Latch/Catch Failure",
+      "impact": "The failure of the seat belt latch/catch can lead to the seat belt not connecting properly, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt will not connect",
+        "the seat belt catch assembly does not work",
+        "the seat belt latch/catch fails to operate correctly."
+      ],
+      "odiNumbers": [
+        "10373144",
+        "10373148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

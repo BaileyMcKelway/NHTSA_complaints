@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, leading to occupants being trapped or unable to use the seat belt, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle is inoperative",
+        "the seat belt buckle is stuck",
+        "the seat belt buckle is broken",
+        "the seat belt buckle jams",
+        "the seat belt release mechanism is chipped",
+        "pieces fall into the locking mechanism",
+        "the seat belt buckle is extremely difficult to use."
+      ],
+      "odiNumbers": [
+        "522235",
+        "500224",
+        "965986",
+        "961256",
+        "481341",
+        "960586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Seat Belt Malfunction",
+      "impact": "The malfunction of the rear seat belts can cause occupants to be unbuckled or unable to use the seat belt, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The rear seat belts occasionally fail to buckle",
+        "the rear seat belts stick",
+        "making them unusable",
+        "the rear seat belts are intermittent."
+      ],
+      "odiNumbers": [
+        "500224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of fuel injectors can cause poor engine performance, decreased fuel efficiency, and increased emissions, which can lead to engine stalling, decreased power, and potentially cause accidents.",
+      "symptoms": [
+        "The engine stalls or hesitates",
+        "the engine has a rough or misfiring idle",
+        "the engine has a lack of power or acceleration",
+        "the fuel economy is decreased",
+        "the check engine light is illuminated."
+      ],
+      "odiNumbers": [
+        "500224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to slip or hesitate when shifting gears, leading to loss of power, reduced acceleration, and increased risk of accidents.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting gears",
+        "the vehicle loses power or acceleration",
+        "the transmission makes unusual noises",
+        "the transmission warning light is illuminated",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "481045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

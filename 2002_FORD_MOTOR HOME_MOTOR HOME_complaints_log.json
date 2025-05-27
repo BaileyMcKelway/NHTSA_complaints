@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Speed Control System Failure",
+      "impact": "The failure of the vehicle speed control system can cause unintended acceleration, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "Unintended acceleration",
+        "smoking",
+        "self-contained fire",
+        "cruise control disconnection",
+        "inability to access repair services due to part unavailability."
+      ],
+      "odiNumbers": [
+        "10220604",
+        "10212238",
+        "10211311",
+        "10211129",
+        "10208440",
+        "10202382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Repair Services and Part Availability",
+      "impact": "The inability to access repair services and parts can leave vehicles with critical safety issues unrepaired, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Delayed or denied repair services",
+        "part unavailability",
+        "lack of communication from dealerships and manufacturers",
+        "frustration and inconvenience to vehicle owners."
+      ],
+      "odiNumbers": [
+        "10220604",
+        "10212238",
+        "10211311",
+        "10208440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sticking Front Brake Caliper Failure",
+      "impact": "The sticking front brake caliper can cause the brake pedal to lose pressure, leading to reduced braking performance, increased stopping distances, and potentially causing accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle experiences a loss of acceleration",
+        "the ABS warning light is illuminated intermittently",
+        "the brakes feel like they are sticking or dragging",
+        "the brake fluid overheats and boils",
+        "resulting in a loss of pedal pressure."
+      ],
+      "odiNumbers": [
+        "11547077",
+        "10927641"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Contamination and Engine Failure",
+      "impact": "Engine oil contamination can lead to premature engine failure, causing the engine to lock up or seize, resulting in a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Engine oil is dirty or contaminated",
+        "engine locks up or seizes",
+        "loss of power",
+        "engine failure",
+        "spark plugs blowing out."
+      ],
+      "odiNumbers": [
+        "10304794",
+        "10080570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Warranty Denial due to Oil Contamination",
+      "impact": "Warranty denial due to oil contamination can leave vehicle owners with significant repair costs, which can be a financial burden and may lead to delayed or neglected repairs, potentially causing further damage to the vehicle.",
+      "symptoms": [
+        "Warranty denied due to dirty or contaminated oil",
+        "repair costs not covered by warranty",
+        "delayed or neglected repairs."
+      ],
+      "odiNumbers": [
+        "10080570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

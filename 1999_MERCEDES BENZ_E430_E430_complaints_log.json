@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Coil Spring Failure",
+      "impact": "The failure of the front coil spring can cause the vehicle to collapse, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The front coil spring detaches from the vehicle",
+        "the front end of the vehicle collapses",
+        "the vehicle loses control",
+        "the spring perch fractures",
+        "the coil spring support falls off",
+        "the vehicle makes an abnormal loud noise."
+      ],
+      "odiNumbers": [
+        "10761131",
+        "10679314",
+        "10425082",
+        "10403809",
+        "10312239",
+        "10293676",
+        "10286566",
+        "10231289",
+        "10151644",
+        "10068295"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to improper deployment or non-deployment of airbags in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The passenger airbag light illuminates",
+        "cracks develop in the dashboard surrounding the airbag",
+        "airbag deploys without a collision",
+        "multiple airbags deploy simultaneously."
+      ],
+      "odiNumbers": [
+        "10610602",
+        "10058422",
+        "10032524",
+        "861004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The spontaneous deployment of airbags can cause accidents, injuries, or distractions while driving, and the failure to diagnose the issue can lead to a lack of trust in the vehicle's safety features.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "SRS warning light is on",
+        "difficulty diagnosing the issue."
+      ],
+      "odiNumbers": [
+        "10664648",
+        "10608241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of electrical systems can cause a range of issues, including safety concerns, comfort issues, and inconvenience, and can lead to costly repairs.",
+      "symptoms": [
+        "SRS warning light is on",
+        "AC blowing warm air",
+        "side power windows do not operate",
+        "front passenger seat cannot adjust",
+        "sensor fault indicated."
+      ],
+      "odiNumbers": [
+        "10608241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause a range of issues, including safety concerns, inconvenience, and property damage, and can lead to costly repairs.",
+      "symptoms": [
+        "Loud explosion of the original battery",
+        "dislodging of rear seat",
+        "acid spray."
+      ],
+      "odiNumbers": [
+        "745872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

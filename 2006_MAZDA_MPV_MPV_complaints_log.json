@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRONIC STABILITY CONTROL (ESC)",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Takata Airbag Recall Repairs due to Parts Unavailability",
+      "impact": "The delayed repair of the Takata airbag recall can increase the risk of airbag rupture, which can cause serious injury or death in the event of a crash.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair",
+        "rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "11111738",
+        "10969004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Spark Plug Failure",
+      "impact": "Premature spark plug failure can cause the check engine light to illuminate, leading to decreased engine performance, reduced fuel efficiency, and potentially causing engine misfires, which can lead to accidents or engine damage.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "engine misfires",
+        "poor engine performance",
+        "decreased fuel efficiency",
+        "spark plug fouling."
+      ],
+      "odiNumbers": [
+        "11089778"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "Windshield wiper failure can reduce visibility while driving, particularly during inclement weather, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wiper blades detach or break off while in use",
+        "windshield wiper motor failure",
+        "windshield wiper arm failure",
+        "reduced visibility while driving."
+      ],
+      "odiNumbers": [
+        "11089778"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Knocking Noise (Cylinder Number Six)",
+      "impact": "The engine knocking noise can lead to engine damage, decreased performance, and potentially cause the engine to stall or seize, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "A knocking or tapping noise coming from engine cylinder number six",
+        "often heard while driving at various speeds",
+        "idling",
+        "or driving uphill."
+      ],
+      "odiNumbers": [
+        "10994929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

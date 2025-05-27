@@ -1,0 +1,142 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "VISIBILITY/WIPER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Management System (BMS) Failure",
+      "impact": "The failure of the BMS can cause the vehicle to shut down, lose power, and enter limp mode, making it difficult or impossible to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Abnormal battery voltage warning",
+        "vehicle shutdown",
+        "loss of power",
+        "limp mode",
+        "incomplete high voltage battery charging",
+        "loss/fluctuating vehicle EV battery range",
+        "rapid decrease in range",
+        "circuit breaker tripping at home",
+        "and warning lights illumination."
+      ],
+      "odiNumbers": [
+        "11588840",
+        "11570798",
+        "11568210",
+        "11557872",
+        "11544293",
+        "11525858",
+        "11538354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, lose power, and enter limp mode, making it difficult or impossible to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Application of brakes causes complete vehicle shutdown",
+        "message to check electrical system",
+        "brakes appear to fail for a brief moment",
+        "then mechanical brakes kick in",
+        "car has zero power until stopped and restarted",
+        "and problem is reproducible a high percentage of the time."
+      ],
+      "odiNumbers": [
+        "11570798",
+        "11478888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Delay and Inadequate Response",
+      "impact": "The delay in recall repair and inadequate response from the manufacturer and dealerships can cause owners to continue driving vehicles with known safety issues, which can lead to accidents or fires.",
+      "symptoms": [
+        "Received recall notice",
+        "but repair is delayed or unavailable",
+        "dealerships are unresponsive or unwilling to schedule service",
+        "and owners are left without a solution or interim rental car."
+      ],
+      "odiNumbers": [
+        "11540923",
+        "11538354",
+        "11525858",
+        "11544293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Movement in Park",
+      "impact": "The vehicle rolling with the transmission gear in PARK can cause accidents, injuries, or damage to property, as the vehicle is not under the driver's control.",
+      "symptoms": [
+        "The vehicle moves or rolls with the transmission gear in PARK",
+        "no warning lights or messages",
+        "no other symptoms."
+      ],
+      "odiNumbers": [
+        "11480710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Loss of Power and Acceleration",
+      "impact": "The sudden loss of power and acceleration can cause accidents, especially when driving at high speeds, as the vehicle may not be able to maintain speed or respond to changing road conditions.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the accelerator pedal is depressed to the floorboard but the vehicle fails to accelerate",
+        "the vehicle fails to respond to accelerator input."
+      ],
+      "odiNumbers": [
+        "11278018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Rear Window Shattering",
+      "impact": "The sudden and unexpected shattering of the rear window can cause a loud noise, distract the driver, and potentially lead to loss of control or accidents, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "Rear window shatters suddenly",
+        "often accompanied by a loud noise",
+        "may occur during rainy or humid weather conditions",
+        "no apparent cause or warning signs",
+        "may not be related to any specific driver action (e.g.",
+        "defrost system)."
+      ],
+      "odiNumbers": [
+        "11585421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defrost System Malfunction",
+      "impact": "A malfunctioning defrost system can reduce visibility, especially during rainy or snowy conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "Defrost system turns on unexpectedly",
+        "defrost system does not turn off",
+        "rear window fogs up or ices up",
+        "reduced visibility while driving",
+        "especially during rainy or snowy conditions."
+      ],
+      "odiNumbers": [
+        "11585421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

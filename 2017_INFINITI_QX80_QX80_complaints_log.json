@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "SUSPENSION",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unintended airbag deployments, rendering the vehicle unsafe to operate, or failure to deploy in the event of an accident, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Unintended airbag deployments",
+        "airbag warning lights illuminating",
+        "airbag system malfunctioning",
+        "failure to deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11493017",
+        "11453090",
+        "11450775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sunroof Spontaneous Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause a loud noise, create a distraction while driving, and potentially lead to injuries from shattered glass or debris.",
+      "symptoms": [
+        "The sunroof suddenly and unexpectedly shatters or explodes while driving",
+        "often without any warning or apparent cause."
+      ],
+      "odiNumbers": [
+        "11366243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Vehicle Rollaway",
+      "impact": "The unintended rollaway of the vehicle can cause accidents, injuries, or fatalities, especially if the vehicle is on an incline or in close proximity to people or other objects.",
+      "symptoms": [
+        "The vehicle rolls backwards or forwards while in park",
+        "often when the engine is turned off or the transmission is in park",
+        "and may be accompanied by a failure of the parking pawl or other safety mechanisms."
+      ],
+      "odiNumbers": [
+        "11170060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Driver's Side Airbag Deployment",
+      "impact": "The failure of the driver's side airbag to deploy in a crash can increase the risk of serious injury or fatality to the driver, as the airbag is designed to provide critical protection in the event of a collision.",
+      "symptoms": [
+        "The driver's side airbag fails to deploy in a crash",
+        "while other airbags (such as passenger side or side airbags) deploy correctly",
+        "resulting in increased risk of injury to the driver."
+      ],
+      "odiNumbers": [
+        "11510390"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hydroplaning and Loss of Vehicle Control",
+      "impact": "Hydroplaning can cause the vehicle to lose traction and become difficult to control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle suddenly loses traction and becomes difficult to control",
+        "especially on wet or slippery roads",
+        "leading to loss of steering control and potential accidents."
+      ],
+      "odiNumbers": [
+        "11510390"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Control Module (TCM), Engine Control Module (ECM), and Transmission Control Unit (TCU) Failure",
+      "impact": "The failure of the TCM, ECM, and TCU can cause the vehicle to stall in traffic, leading to potential accidents, and result in poor gas mileage, lack of power, and RPM fluctuations, making it difficult to accelerate and avoid collisions.",
+      "symptoms": [
+        "The vehicle's RPMs fluctuate between 1000 RPMs to 2500 RPMs",
+        "the vehicle stalls in traffic",
+        "poor gas mileage",
+        "lack of power",
+        "RPMs stuck between 1020-500 RPMs",
+        "shifting issues",
+        "getting stuck in a higher gear with no power",
+        "and the need to turn the car off at stop signs or stop lights to restore normal function."
+      ],
+      "odiNumbers": [
+        "11458767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Telematics Communication Unit (TCU) and Engine Control Module (ECM) Failure",
+      "impact": "The failure of the TCU and ECM can cause the vehicle to lose motive power and stall, increasing the risk of accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "The vehicle loses power and stalls",
+        "the check engine warning light illuminates",
+        "the vehicle is unable to maintain speed",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "11454987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Auxiliary Cooling Fan Failure",
+      "impact": "The failure of the auxiliary cooling fan can cause the engine to overheat, leading to engine damage, fire, or even accidents, which can result in property damage, injury, or loss of life.",
+      "symptoms": [
+        "The fan does not run",
+        "the fan draws current constantly",
+        "the engine overheats",
+        "the engine catches fire."
+      ],
+      "odiNumbers": [
+        "750716",
+        "893103",
+        "748207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress into Electrical Fuse Panel",
+      "impact": "Water accumulation in the electrical fuse panel can cause a fire, resulting in significant damage to the vehicle's electrical system, interior, and potentially putting the occupants at risk of injury or death.",
+      "symptoms": [
+        "Water accumulation beneath the passenger footwell",
+        "electrical system malfunction",
+        "smoke or fire in the vehicle",
+        "deployment of airbags",
+        "melting of interior components",
+        "and soot covering the interior."
+      ],
+      "odiNumbers": [
+        "10985482",
+        "753120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, including concussions, and can lead to accidents or loss of vehicle control, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy while the vehicle is stationary",
+        "airbags deploy while the engine is starting",
+        "airbags deploy without any impact or crash",
+        "shattered windshield",
+        "injuries to occupants."
+      ],
+      "odiNumbers": [
+        "10934778",
+        "10047187"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Reverse Gear in Automatic Transmission",
+      "impact": "The failure of the reverse gear can cause the vehicle to become stuck or immobile, leading to safety risks, especially in situations where the vehicle needs to be backed up on an incline or in heavy traffic.",
+      "symptoms": [
+        "The vehicle fails to move in reverse",
+        "has limited power in reverse",
+        "or only rolls slowly in reverse",
+        "making it difficult or impossible to back up on an incline or in certain situations."
+      ],
+      "odiNumbers": [
+        "10434352",
+        "10281388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

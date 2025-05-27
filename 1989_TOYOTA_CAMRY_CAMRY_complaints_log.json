@@ -1,0 +1,215 @@
+{
+  "totalComplaints": 129,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Restraint Failure",
+      "impact": "The failure of the automatic seat belt restraints can lead to inadequate protection in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt or shoulder restraint does not lock when pulled",
+        "the seat belt does not retract into position",
+        "the seat belt does not engage when pulled abruptly",
+        "the seat belt guide breaks off",
+        "the seat belt binds the occupant into the seat with excessive pressure",
+        "the seat belt releases upon impact."
+      ],
+      "odiNumbers": [
+        "748590",
+        "880313",
+        "731566",
+        "831797",
+        "827930",
+        "604232",
+        "815033",
+        "812711",
+        "804412",
+        "801621",
+        "801298",
+        "507355",
+        "984878",
+        "971853",
+        "965749",
+        "961894",
+        "960619",
+        "958428",
+        "487694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motorized Safety Belt Retraction Failure",
+      "impact": "The failure of the motorized safety belt retraction can cause the seat belt to not properly secure the driver or passenger, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not retract along the rail",
+        "the seat belt does not retract into position when the door is opened or closed",
+        "the seat belt gets stuck in the track release."
+      ],
+      "odiNumbers": [
+        "10910499",
+        "831797",
+        "961894",
+        "507355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Ingress into Seat Belt Auto-Track",
+      "impact": "Water ingress into the seat belt auto-track can cause corrosion and damage to the seat belt mechanism, leading to failure and increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Water leaks into the driver's seat belt auto-track",
+        "the rear floor is soaked with water after driving in the rain."
+      ],
+      "odiNumbers": [
+        "731566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Leaks and Cracks",
+      "impact": "Fuel tank leaks and cracks can cause fuel to spill onto the ground, creating a fire hazard and potentially leading to accidents or injuries. The strong odor of gasoline can also cause discomfort and health issues for occupants.",
+      "symptoms": [
+        "Fuel leaks onto the garage floor",
+        "strong odor of gasoline in the garage or vehicle",
+        "fuel tank cracks or rusts",
+        "fuel leaks from the top of the tank",
+        "fuel leaks when the tank is more than half full",
+        "fuel leaks from the filler neck."
+      ],
+      "odiNumbers": [
+        "525294",
+        "520810",
+        "815718",
+        "521488",
+        "522941",
+        "814548",
+        "520325",
+        "814660",
+        "519363",
+        "814065",
+        "813812",
+        "519001",
+        "518978",
+        "813032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Filler Neck Rust and Corrosion",
+      "impact": "Rust and corrosion on the fuel filler neck can cause fuel leaks, leading to a fire hazard and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Rust or corrosion on the fuel filler neck",
+        "fuel leaks from the filler neck."
+      ],
+      "odiNumbers": [
+        "487727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A malfunctioning fuel gauge can cause uncertainty about the fuel level, leading to unexpected fuel exhaustion and potentially stranding the driver.",
+      "symptoms": [
+        "Fuel gauge malfunctions",
+        "inaccurate fuel level readings."
+      ],
+      "odiNumbers": [
+        "474404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cold Start Injector Time Switch Malfunction",
+      "impact": "A malfunctioning cold start injector time switch can cause difficulty starting the engine, leading to inconvenience and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Difficulty starting the engine",
+        "long start-up times."
+      ],
+      "odiNumbers": [
+        "972735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Sticking",
+      "impact": "The sticking of the throttle body can cause the engine to surge or accelerate uncontrollably, leading to loss of control, accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The throttle pedal gets stuck",
+        "the engine does not return to idle upon deceleration",
+        "the engine RPM remains high in a braking situation",
+        "the vehicle is hard to stop",
+        "sudden acceleration from park gear",
+        "loss of power",
+        "intermittent surging."
+      ],
+      "odiNumbers": [
+        "10323844",
+        "10055020",
+        "716453",
+        "501960",
+        "978056",
+        "974007",
+        "483709",
+        "483485",
+        "484493",
+        "486876",
+        "966043",
+        "485437",
+        "489464",
+        "481857",
+        "471760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Locks and Latches",
+      "impact": "The malfunctioning door locks and latches can cause the doors to become stuck, making it difficult or impossible to open or close them, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "Doors stuck in the locked or unlocked position",
+        "inability to open or close doors from the inside or outside",
+        "intermittent door lock failure",
+        "and failure of the unlock button."
+      ],
+      "odiNumbers": [
+        "10592605",
+        "10520730",
+        "10279474",
+        "10073676",
+        "8018016",
+        "8009617",
+        "893801",
+        "819726",
+        "819522",
+        "818897",
+        "814243",
+        "808337",
+        "962172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

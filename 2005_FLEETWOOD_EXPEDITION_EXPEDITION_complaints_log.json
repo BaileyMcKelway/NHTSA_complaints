@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "VISIBILITY/WIPER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Insulated Window Seals",
+      "impact": "The failure of the insulated window seals can cause reduced visibility, especially on the driver's side, which can lead to accidents or safety hazards, particularly when changing lanes or merging with traffic.",
+      "symptoms": [
+        "Foggy or cloudy windows",
+        "moisture seeping into the windows",
+        "window panes turning blue",
+        "reduced visibility",
+        "difficulty seeing outside",
+        "especially through the driver's side window."
+      ],
+      "odiNumbers": [
+        "10421146",
+        "10403309",
+        "10369532",
+        "10319933",
+        "10238872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Pane Window Seal Failure",
+      "impact": "The failure of the dual pane window seals can cause fogging and staining, reducing visibility and creating a safety hazard, especially when it affects the rearview and side mirrors.",
+      "symptoms": [
+        "Foggy or stained windows",
+        "moisture retention",
+        "glare due to sunlight",
+        "reduced visibility",
+        "difficulty seeing mirrors",
+        "defogger feature failure."
+      ],
+      "odiNumbers": [
+        "11415628",
+        "10894015",
+        "10862473",
+        "10521749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust System Design Flaw",
+      "impact": "The exhaust system design flaw can cause an electrical fire, which can lead to bodily injury or death.",
+      "symptoms": [
+        "Electrical odor",
+        "smoke in the rear bedroom",
+        "heat damage to electrical components",
+        "melted coating on wiring."
+      ],
+      "odiNumbers": [
+        "10551036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

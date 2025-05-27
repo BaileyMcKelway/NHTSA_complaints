@@ -1,0 +1,187 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure and Stalling",
+      "impact": "The transmission failure and stalling can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. This can also lead to a loss of power steering and brakes, making it difficult to control the vehicle.",
+      "symptoms": [
+        "The vehicle suddenly stalls without warning",
+        "the vehicle jerks or vibrates while driving",
+        "the vehicle fails to shift properly",
+        "the vehicle surges forward after a moment of hesitation",
+        "the tires screech due to sudden acceleration",
+        "the vehicle loses power steering and brakes."
+      ],
+      "odiNumbers": [
+        "11030971",
+        "11010543",
+        "10759258",
+        "10733272",
+        "10471261",
+        "10408643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Range Switch Failure",
+      "impact": "The failure of the transmission range switch can cause the vehicle to stall or hesitate, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the vehicle hesitates or fails to respond when the gas pedal is depressed",
+        "the vehicle surges forward after a moment of hesitation."
+      ],
+      "odiNumbers": [
+        "10471261",
+        "10408643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Vehicle accelerates suddenly without warning",
+        "no warning signs or symptoms before the incident."
+      ],
+      "odiNumbers": [
+        "11467512"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, loss of control, and potential accidents, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "Engine stalls while driving",
+        "may restart without issues",
+        "often occurs on hot days or after short stops",
+        "\"Engine Check\" light may be illuminated."
+      ],
+      "odiNumbers": [
+        "11258313",
+        "11025049",
+        "10598779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Loss of Power and Steering",
+      "impact": "Loss of power and steering can cause loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Vehicle suddenly shuts off while driving",
+        "steering wheel and brakes may also stop operating",
+        "may not be able to be duplicated or diagnosed by technicians."
+      ],
+      "odiNumbers": [
+        "11025049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Illumination of Warning Lamps",
+      "impact": "Illumination of warning lamps can indicate a potential issue with the vehicle's systems, which if ignored, can lead to more severe problems or accidents.",
+      "symptoms": [
+        "Check Engine",
+        "No Key",
+        "and Battery warning lamps illuminate",
+        "may be accompanied by engine stalling or loss of power."
+      ],
+      "odiNumbers": [
+        "10598779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling/Loss of Power",
+      "impact": "The sudden loss of engine power and power assist for steering and brakes can lead to accidents, especially when driving at high speeds or in heavy traffic conditions. This issue can also cause a loss of control, making it difficult to steer or brake the vehicle.",
+      "symptoms": [
+        "The engine stalls or loses power",
+        "the steering wheel becomes stiff",
+        "the power brakes are lost",
+        "the dashboard lights come on",
+        "the vehicle slows down or comes to a stop",
+        "the vehicle can be restarted without difficulty."
+      ],
+      "odiNumbers": [
+        "10839422",
+        "10762732",
+        "10621350",
+        "10459853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, or leave the driver stranded, especially when it occurs on the highway or at high speeds.",
+      "symptoms": [
+        "The engine suddenly stops or stalls while driving",
+        "idling",
+        "or accelerating",
+        "often accompanied by a loss of power or hesitation; the vehicle may restart without issue after stalling."
+      ],
+      "odiNumbers": [
+        "11204556",
+        "10467485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress into ABS Electronics",
+      "impact": "Water ingress into the ABS electronics can cause the system to malfunction, leading to a loss of anti-lock braking functionality, which can increase the risk of accidents, especially in emergency braking situations.",
+      "symptoms": [
+        "ABS system failure",
+        "loss of braking power",
+        "increased stopping distance",
+        "failure of the ABS system to operate as designed during emergency braking."
+      ],
+      "odiNumbers": [
+        "11080896",
+        "10449284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS System Failure",
+      "impact": "Failure of the ABS system can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "inability to slow down",
+        "increased stopping distance",
+        "failure of the ABS system to operate as designed during emergency braking."
+      ],
+      "odiNumbers": [
+        "10449284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

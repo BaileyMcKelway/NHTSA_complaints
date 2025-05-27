@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement/Start",
+      "impact": "The vehicle can move unexpectedly, even when in park and turned off, which can cause accidents, injuries, or damage to property. This issue can also lead to unexpected restarts, posing a risk to the public and potentially causing harm to people or property.",
+      "symptoms": [
+        "The vehicle rolls or moves unexpectedly",
+        "even when in park and turned off; the vehicle turns back on without cause or reason after being turned off properly; the vehicle starts unexpectedly",
+        "even when the ignition is turned off."
+      ],
+      "odiNumbers": [
+        "11517558",
+        "11517560",
+        "11517561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Jerking/Hesitation and Hard Shifting",
+      "impact": "The transmission jerking/hesitation and hard shifting can cause loss of confidence in the vehicle's ability to operate safely, and may lead to accidents or near-misses due to the startling reaction from the driver.",
+      "symptoms": [
+        "The vehicle jerks or hesitates when shifting from reverse to drive",
+        "or when driving at low speeds",
+        "the transmission shifts extremely hard",
+        "especially when coming to a stop",
+        "loud clunking noise when shifting gears",
+        "loss of power or hesitation when accelerating."
+      ],
+      "odiNumbers": [
+        "11430969",
+        "10936392",
+        "11280753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Address Known Transmission Issues",
+      "impact": "The failure to address known transmission issues can lead to continued safety risks and frustration for vehicle owners, as well as potential damage to the transmission and other components.",
+      "symptoms": [
+        "Dealerships or manufacturers failing to acknowledge or address known transmission issues",
+        "despite recall notices or software updates being available",
+        "lack of transparency or communication about potential fixes or solutions."
+      ],
+      "odiNumbers": [
+        "11280753",
+        "10936392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump System Failure",
+      "impact": "The failure of the fuel pump system can cause the vehicle to stall, making it difficult or impossible to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "difficulty pressing the gas pedal",
+        "hesitation or lack of power when accelerating",
+        "inability to complete gear shifts."
+      ],
+      "odiNumbers": [
+        "11590004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

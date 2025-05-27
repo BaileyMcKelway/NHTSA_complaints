@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailable Airbag Recall Parts",
+      "impact": "The unavailability of airbag recall parts can lead to delayed or incomplete repairs, leaving vehicles in an unsafe condition, which can result in injury or death to vehicle occupants.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for a recall repair."
+      ],
+      "odiNumbers": [
+        "11302603",
+        "10967765",
+        "10939233",
+        "10936359",
+        "10934851",
+        "10934141",
+        "10930222",
+        "10930052",
+        "10927859",
+        "10918475",
+        "10916539",
+        "10908547",
+        "10898769",
+        "10895307",
+        "10881213",
+        "10875540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "The malfunction of the airbag sensor can cause the airbag to deploy incorrectly or not deploy at all, which can result in injury or death to vehicle occupants.",
+      "symptoms": [
+        "The passenger airbag turns itself on and off while someone is sitting in the seat and the car is moving",
+        "the airbag sensor is not triggered correctly",
+        "the airbag does not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "10246609",
+        "10246389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or shut off while in motion, leading to a loss of power and control, which can increase the risk of accidents or injuries. Additionally, the ignition switch failure can also prevent the vehicle from turning off, leading to battery drain and potential electrical system damage.",
+      "symptoms": [
+        "The vehicle stalls or shuts off while in motion",
+        "the vehicle will not turn off when the key is removed",
+        "the airbag warning lamp illuminates sporadically."
+      ],
+      "odiNumbers": [
+        "10614735",
+        "10573937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Warning Lamp Illumination",
+      "impact": "The illumination of the airbag warning lamp can indicate a potential problem with the airbag system, which can increase the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The airbag warning lamp illuminates sporadically."
+      ],
+      "odiNumbers": [
+        "10573937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

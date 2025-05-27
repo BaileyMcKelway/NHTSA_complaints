@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Lock Module Failure",
+      "impact": "The failure of the steering lock module can cause the vehicle to not start, leaving the driver stranded, and potentially leading to accidents or safety risks.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the key indicator light on the dashboard remains lit",
+        "the steering wheel is locked",
+        "and the vehicle cannot be shifted into gear."
+      ],
+      "odiNumbers": [
+        "11515373",
+        "11302718",
+        "11205346",
+        "11065472",
+        "11010402",
+        "10948968",
+        "10948137",
+        "10937813",
+        "10929922",
+        "10862320",
+        "10820426",
+        "10818953",
+        "10806788",
+        "10723714",
+        "10704295",
+        "10683799",
+        "10670835",
+        "10663497",
+        "10577395",
+        "10562886",
+        "10558307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Concentric Slave Cylinder Failure",
+      "impact": "The failure of the concentric slave cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11063429",
+        "10925558",
+        "10895339",
+        "10807231",
+        "10763424",
+        "10736153",
+        "10730822",
+        "10730187",
+        "10724118",
+        "10678573",
+        "10654063",
+        "10593987",
+        "10565907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Lock Control Module Failure",
+      "impact": "The failure of the steering lock control module can cause the vehicle to become inoperable, leaving the driver stranded, and potentially causing safety concerns.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the key is not recognized",
+        "the steering wheel lock sensor fails",
+        "the vehicle is stuck in park position",
+        "and various electrical systems such as the radio and window controls may malfunction."
+      ],
+      "odiNumbers": [
+        "10970940",
+        "10825237",
+        "10794777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The malfunction of the fuel gauge can cause the driver to run out of fuel, leading to safety concerns and potential accidents.",
+      "symptoms": [
+        "The fuel gauge shows incorrect information",
+        "the fuel level sender malfunctions",
+        "and the tank is not full despite being filled up."
+      ],
+      "odiNumbers": [
+        "10476001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

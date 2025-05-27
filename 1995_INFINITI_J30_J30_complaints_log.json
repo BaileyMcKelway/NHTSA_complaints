@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, as the vehicle may suddenly accelerate without the driver's input, making it difficult to stop or maintain control.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the vehicle surges or lunges forward",
+        "the RPMs increase rapidly",
+        "the vehicle's wheels spin or lose traction",
+        "the vehicle becomes difficult to control or stop."
+      ],
+      "odiNumbers": [
+        "8003123",
+        "549357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can result in serious injuries or fatalities to the occupants, as well as increased damage to the vehicle.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "despite meeting the deployment threshold",
+        "occupants suffer injuries or fatalities as a result."
+      ],
+      "odiNumbers": [
+        "733258",
+        "810199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unnecessary Airbag Deployment",
+      "impact": "The unnecessary deployment of airbags can cause injuries to occupants, damage to the vehicle, and potentially lead to accidents or loss of control.",
+      "symptoms": [
+        "Airbag deploys in a minor collision or at low speed",
+        "causing injuries to occupants and damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "831537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Bushing Failure",
+      "impact": "The failure of the rear suspension bushings can cause loss of vehicle control, particularly on wet pavement, leading to accidents or near-misses.",
+      "symptoms": [
+        "Unusual noise from the rear suspension",
+        "vibration while driving",
+        "difficulty steering",
+        "rear end spinning out while accelerating."
+      ],
+      "odiNumbers": [
+        "604086",
+        "817902",
+        "966753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

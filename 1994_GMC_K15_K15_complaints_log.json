@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "STRUCTURE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Frame/Anchor Failure",
+      "impact": "The failure of the seat frame or anchor can cause the seat to become loose or detach while driving, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The seat rattles or feels loose",
+        "the seat falls backward or detaches while driving",
+        "the seat mounting bracket is faulty."
+      ],
+      "odiNumbers": [
+        "509700",
+        "800560",
+        "979614",
+        "963600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Hinge Failure",
+      "impact": "The failure of the door hinges can cause the doors to sag, not shut properly, and potentially swing open while the vehicle is in motion, which can lead to accidents, injuries, or ejection of occupants.",
+      "symptoms": [
+        "The door sags",
+        "the door does not shut properly",
+        "the door swings open while the vehicle is in motion",
+        "the door has a loose or wobbly feel",
+        "the door requires excessive force to close."
+      ],
+      "odiNumbers": [
+        "8009812",
+        "965474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Failure with ABS System",
+      "impact": "The premature wear of rear brakes and loss of braking ability can lead to reduced stopping power, increased stopping distances, and potentially cause accidents, especially when carrying heavy loads.",
+      "symptoms": [
+        "Brake loss",
+        "premature wear of rear brakes",
+        "reduced braking ability",
+        "increased stopping distances",
+        "spongy brake pedal",
+        "grinding or screeching noises when applying brakes."
+      ],
+      "odiNumbers": [
+        "982457",
+        "967775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

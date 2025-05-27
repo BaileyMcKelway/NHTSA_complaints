@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Design Flaw",
+      "impact": "The design of the master cylinder located above the left front wheel can cause brake fluid to overheat, leading to brake failure, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Total brake failure",
+        "brake fluid boiling",
+        "overheating of brake fluid",
+        "brake failure when driving downhill",
+        "brake failure at low speeds",
+        "repeated brake failures."
+      ],
+      "odiNumbers": [
+        "533991",
+        "819917",
+        "800762",
+        "968857",
+        "489663",
+        "475092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Instability and Body Roll",
+      "impact": "The vehicle's instability and body roll can cause loss of control, increasing the risk of accidents, rollovers, and injuries.",
+      "symptoms": [
+        "The vehicle shakes or vibrates while driving",
+        "the vehicle veers to the left or right while driving",
+        "the vehicle exhibits excessive body roll",
+        "making it difficult to maintain control."
+      ],
+      "odiNumbers": [
+        "976645",
+        "970801",
+        "489663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Impaired Visibility due to Steering Column Design",
+      "impact": "The steering column being too high up can obstruct the driver's view of the high beam indicator and odometer, forcing the driver to take their eyes off the road to see, which can increase the risk of accidents and reduce road safety.",
+      "symptoms": [
+        "The steering column blocks the view of the high beam indicator",
+        "the steering column blocks the view of the odometer",
+        "the driver has to take their eyes off the road to see the high beam indicator or odometer",
+        "the driver experiences difficulty seeing the dashboard instruments."
+      ],
+      "odiNumbers": [
+        "502976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

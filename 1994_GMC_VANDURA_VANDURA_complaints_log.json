@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the brakes to lock up, leading to extended stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The brakes lock up when applied",
+        "the brake pedal goes to the floor",
+        "extended stopping distance",
+        "loss of control",
+        "transmission problems",
+        "speedometer problems."
+      ],
+      "odiNumbers": [
+        "10006132",
+        "8001756",
+        "820350",
+        "808152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Seat Belt Buckle Failure",
+      "impact": "The failure of the rear seat belt buckle can lead to occupants not being properly restrained in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The rear seat belt buckle comes undone when the rear sofa seat is reclined",
+        "the seat belt buckle fails to lock when trying to relatch it",
+        "the belt becomes twisted and inoperable."
+      ],
+      "odiNumbers": [
+        "547157",
+        "836508",
+        "801162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Acceleration and Speed Control",
+      "impact": "The vehicle's failure to slow down when the accelerator pedal is softly released can lead to loss of control, increased stopping distances, and potential accidents, especially at speeds above 15mph and below 45mph.",
+      "symptoms": [
+        "The vehicle does not slow down when the accelerator pedal is softly released",
+        "the vehicle maintains speed or accelerates unexpectedly",
+        "the vehicle takes longer than usual to come to a stop."
+      ],
+      "odiNumbers": [
+        "506195",
+        "740815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or shut off while driving, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalls or shuts off while driving",
+        "loss of power",
+        "difficulty starting the engine",
+        "whining or grinding noise from the fuel pump."
+      ],
+      "odiNumbers": [
+        "841718",
+        "535952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

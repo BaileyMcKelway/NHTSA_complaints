@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or become stuck in gear, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle jerks or hesitates while shifting gears",
+        "the vehicle is unable to shift out of a particular gear",
+        "the vehicle stalls",
+        "the vehicle makes a grinding noise",
+        "the vehicle's wheels seize",
+        "unknown warning indicators illuminate."
+      ],
+      "odiNumbers": [
+        "11327898",
+        "11132178",
+        "10874027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Control Module Failure",
+      "impact": "The failure of the transmission control module can cause the vehicle to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle independently downshifts into a lower gear",
+        "the vehicle stalls",
+        "the vehicle's wheels seize",
+        "unknown warning indicators illuminate."
+      ],
+      "odiNumbers": [
+        "10874027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speed Sensor Failure",
+      "impact": "The failure of the speed sensor can cause the vehicle to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle independently downshifts into a lower gear",
+        "the vehicle stalls",
+        "the vehicle's wheels seize",
+        "unknown warning indicators illuminate."
+      ],
+      "odiNumbers": [
+        "10874027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The failure of various electrical components can cause safety features to malfunction, leading to potential accidents or injuries. The malfunction of the passenger seat belt, in particular, can increase the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The passenger seat belt is inoperable",
+        "the tire pressure monitoring system (TPMS) warning light is illuminated on the dashboard",
+        "the horn is inoperable",
+        "the overhead dome light is inoperable."
+      ],
+      "odiNumbers": [
+        "11534519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Pressure Monitoring System (TPMS) Failure",
+      "impact": "The failure of the TPMS can lead to underinflated tires, which can cause tire blowouts, accidents, and loss of vehicle control.",
+      "symptoms": [
+        "The TPMS warning light is illuminated on the dashboard",
+        "the tire pressure is not displayed on the dashboard",
+        "the system fails to alert the driver of low tire pressure."
+      ],
+      "odiNumbers": [
+        "11534519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can increase the risk of accidents, as the driver is unable to alert other road users of their presence.",
+      "symptoms": [
+        "The horn is inoperable",
+        "the horn button is unresponsive",
+        "the horn emits a weak or faint sound."
+      ],
+      "odiNumbers": [
+        "11534519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Interior Lighting Failure",
+      "impact": "The failure of the overhead dome light can reduce visibility inside the vehicle, making it difficult for occupants to see and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The overhead dome light is inoperable",
+        "the light is dim or flickering",
+        "the light does not turn on when the doors are opened or closed."
+      ],
+      "odiNumbers": [
+        "11534519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

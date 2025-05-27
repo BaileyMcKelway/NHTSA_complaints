@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Mechanical Failure",
+      "impact": "Engine mechanical failure can cause the vehicle to lose compression, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle starts to smoke",
+        "loses compression",
+        "and may experience a loss of power."
+      ],
+      "odiNumbers": [
+        "10005314"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Wiring Failure",
+      "impact": "Ignition wiring failure can cause the vehicle to lose all electrical power, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle loses all electrical power while in motion",
+        "may not start",
+        "or loses power when put into gear."
+      ],
+      "odiNumbers": [
+        "730414",
+        "730414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Shift Failure",
+      "impact": "Transmission shift failure can cause the vehicle to unexpectedly shift into gear, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle shifts out of park and into reverse without warning",
+        "potentially causing accidents or damage."
+      ],
+      "odiNumbers": [
+        "965366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause a fire, potentially leading to damage to the vehicle and surrounding property, as well as posing a risk to the safety of the occupants.",
+      "symptoms": [
+        "Smoke emanates from the ignition switch",
+        "the ignition switch starts smoking",
+        "a burning smell is present",
+        "the ignition switch fails to function properly",
+        "a cable next to the brake booster melts."
+      ],
+      "odiNumbers": [
+        "534456",
+        "534632",
+        "983161",
+        "601339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A faulty fuel gauge can lead to inaccurate fuel level readings, causing drivers to run out of fuel unexpectedly, which can result in accidents, especially on highways or in remote areas.",
+      "symptoms": [
+        "The fuel gauge needle fluctuates or sticks",
+        "the fuel gauge does not move",
+        "the fuel gauge reads inaccurately",
+        "the fuel gauge does not respond to changes in fuel level."
+      ],
+      "odiNumbers": [
+        "601573",
+        "601339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Leakage",
+      "impact": "Excessive fuel leakage from the fuel tank can cause fires, explosions, or environmental hazards, posing a significant risk to vehicle occupants, other road users, and the environment.",
+      "symptoms": [
+        "Fuel smell or odor inside or outside the vehicle",
+        "visible fuel leaks",
+        "fuel puddles under the vehicle",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "958974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headliner Fabric Sagging or Hanging",
+      "impact": "The sagging or hanging headliner fabric can obstruct the rearview, reducing visibility and increasing the risk of accidents.",
+      "symptoms": [
+        "The headliner fabric is hanging down",
+        "obstructing the rearview",
+        "the headliner fabric is sagging",
+        "reducing visibility",
+        "the headliner fabric is loose and obstructing vision."
+      ],
+      "odiNumbers": [
+        "601573",
+        "601339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

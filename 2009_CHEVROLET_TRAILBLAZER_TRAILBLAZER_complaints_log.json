@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Dimmer Module (HDM) Failure",
+      "impact": "The failure of the Headlight Dimmer Module (HDM) can cause the low beam headlights to fail, resulting in reduced visibility and increased risk of accidents, especially at night.",
+      "symptoms": [
+        "The low beam headlights fail to operate",
+        "the low beam headlights dim or flicker",
+        "the high beam headlights work normally",
+        "other lights on the vehicle remain functional",
+        "the failure occurs sporadically",
+        "and the failure may be intermittent."
+      ],
+      "odiNumbers": [
+        "11131077",
+        "11042969",
+        "10956853",
+        "10823568",
+        "10817166",
+        "10810878",
+        "10661488",
+        "10651180",
+        "10648336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical components to malfunction, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "Headlights fail",
+        "blink",
+        "or malfunction; doors fail to lock or unlock; tire pressure monitoring system fails; ignition switch failure causes stalling or engine cut-off; blower motor failure; and other electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10885231",
+        "10838940",
+        "10809609",
+        "10680598",
+        "10678191",
+        "10667258",
+        "10615771",
+        "10281578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to stall or cut off, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "Engine stalls or cuts off while driving; ignition switch burns or fails; vehicle becomes stuck in gear; and difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "10809609",
+        "10680598",
+        "10667258",
+        "10615771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Headlight Failure",
+      "impact": "The failure of the headlights can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights fail to illuminate; low beam headlights fail; high beam headlights function but low beam fails; and intermittent headlight failure."
+      ],
+      "odiNumbers": [
+        "10838940",
+        "10678191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Blower Motor Failure",
+      "impact": "The failure of the blower motor can cause discomfort and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "Blower motor stops working; wires melt together on the resistor; and the entire plug melts."
+      ],
+      "odiNumbers": [
+        "10281578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants of the vehicle are not adequately protected from the impact.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "resulting in injuries or fatalities to the occupants."
+      ],
+      "odiNumbers": [
+        "11184731",
+        "10944639",
+        "10704013",
+        "10402783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

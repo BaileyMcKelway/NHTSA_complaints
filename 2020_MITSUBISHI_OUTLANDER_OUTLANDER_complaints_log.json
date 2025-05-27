@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "LANE DEPARTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection to mitigate the impact.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "occupants sustain injuries",
+        "vehicle damage is severe."
+      ],
+      "odiNumbers": [
+        "11565755",
+        "11391077",
+        "11328690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause driver distraction, leading to accidents or near-miss situations, as the driver focuses on the unresponsive screen instead of the road.",
+      "symptoms": [
+        "The infotainment screen becomes insensitive to touch",
+        "eventually stops working",
+        "and may exhibit inconsistent behavior."
+      ],
+      "odiNumbers": [
+        "11563097",
+        "11538745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause sudden loss of acceleration, random activation of safety features, and failure of various systems, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle suddenly displays warning messages",
+        "such as \"EV System Required Stop Safely\" and \"RBS Service Required!\"",
+        "and the service engine soon light comes on. The vehicle may also experience sudden loss of acceleration",
+        "random activation of the forward collision mitigation system",
+        "and issues with the audio system and rear camera."
+      ],
+      "odiNumbers": [
+        "11405790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Blind Spot Monitoring System Malfunction",
+      "impact": "The malfunction of the blind spot monitoring system can reduce the driver's awareness of surrounding vehicles, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The \"Blind Spot Service Required\" warning light illuminates on the dashboard",
+        "the blind spot monitoring system fails to alert the driver of vehicles in the blind spot",
+        "the system provides false or erratic warnings."
+      ],
+      "odiNumbers": [
+        "11590695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

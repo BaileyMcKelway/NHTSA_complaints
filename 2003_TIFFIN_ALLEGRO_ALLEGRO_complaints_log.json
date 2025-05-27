@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Caliper Freeze and Brake Fluid Boil Over",
+      "impact": "The sudden loss of brakes can lead to accidents, injuries, or fatalities, especially when driving on downhill grades or in emergency braking situations.",
+      "symptoms": [
+        "Sudden loss of brakes",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "smoke or burning smell from the brakes",
+        "brake warning indicator illuminates on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11223000",
+        "10341010",
+        "10327796",
+        "10272530",
+        "10269886",
+        "10251084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause accidents, injuries, or fatalities, especially when driving at high speeds or in emergency braking situations.",
+      "symptoms": [
+        "Intermittent loss of brakes",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake warning indicator illuminates on the instrument panel",
+        "brake failure occurs after hard stops or prolonged braking."
+      ],
+      "odiNumbers": [
+        "10341010",
+        "10272530",
+        "10269886",
+        "10251084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure Due to Design Flaw",
+      "impact": "The design flaw in the brake system can cause brake failure, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Brake failure",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake warning indicator illuminates on the instrument panel",
+        "brake failure occurs after hard stops or prolonged braking."
+      ],
+      "odiNumbers": [
+        "10341010",
+        "10272530",
+        "10269886",
+        "10251084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "Intermittent engine stalling can cause the vehicle to lose power, leading to a loss of control, especially at high speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the vehicle loses power",
+        "the \"Reduce Power\" warning light illuminates",
+        "the vehicle experiences a severe jolt while traveling at high speeds."
+      ],
+      "odiNumbers": [
+        "10380063",
+        "10028746",
+        "8018558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Cooling System Failure (Heater Grid)",
+      "impact": "Failure of the engine cooling system can cause overheating, leading to engine damage, and potentially causing a fire.",
+      "symptoms": [
+        "The heater grid",
+        "part of the engine cooling system",
+        "fails to turn off",
+        "causing the wire to burn."
+      ],
+      "odiNumbers": [
+        "8018543"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall, potentially leading to accidents or leaving the driver stranded, especially if the stall occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "the vehicle is difficult to start",
+        "the vehicle experiences a loss of power",
+        "the fuel pump makes a loud whining or grinding noise."
+      ],
+      "odiNumbers": [
+        "10156080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

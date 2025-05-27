@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "PARKING BRAKE",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Park Brake Failure",
+      "impact": "The failure of the auto park brake can cause the vehicle to roll or move unexpectedly, even when the transmission is in park, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle rolls or moves forward when parked on an incline",
+        "the vehicle moves forward after shifting into park",
+        "the auto park brake engages unexpectedly while driving",
+        "the vehicle decelerates rapidly",
+        "the interior fills with smoke and heat due to overheated brake pads."
+      ],
+      "odiNumbers": [
+        "10040948",
+        "554653",
+        "522533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a loss of brake function, leading to increased stopping distances, accidents, and injuries.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake fluid leakage",
+        "low brake fluid level",
+        "unusual odors."
+      ],
+      "odiNumbers": [
+        "870020",
+        "548030",
+        "11327498",
+        "10894359",
+        "10876259",
+        "10790783",
+        "10790334",
+        "10763771",
+        "10734988",
+        "10730600",
+        "10726352",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front End Misalignment",
+      "impact": "Front end misalignment can cause uneven tire wear, reduced traction, and loss of control, increasing the risk of accidents and tire blowouts.",
+      "symptoms": [
+        "Uneven tire wear",
+        "tire blowouts",
+        "loss of control",
+        "pulling to one side while driving",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "607367",
+        "535530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Front Suspension System Failure",
+      "impact": "Failure of the front suspension system can cause loss of control, reduced traction, and uneven tire wear, increasing the risk of accidents.",
+      "symptoms": [
+        "Front suspension system sways",
+        "loss of control",
+        "uneven tire wear",
+        "pulling to one side while driving",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "535530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

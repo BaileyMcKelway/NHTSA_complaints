@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause engine overheating, leading to engine damage, cracking of the engine block or head, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Coolant light coming on",
+        "coolant level low or empty",
+        "coolant leak",
+        "radiator leak",
+        "engine making loud noise",
+        "temperature gauge not indicating overheating",
+        "smell of coolant or gasoline."
+      ],
+      "odiNumbers": [
+        "10134019",
+        "10012488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Temperature Gauge Malfunction",
+      "impact": "The malfunction of the temperature gauge can lead to engine overheating, causing engine damage, cracking of the engine block or head, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Temperature gauge not indicating overheating",
+        "even when coolant level falls below a certain level."
+      ],
+      "odiNumbers": [
+        "10134019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defrost System Failure",
+      "impact": "The failure of the defrost system can cause reduced visibility, leading to accidents or near-misses.",
+      "symptoms": [
+        "Front window would not defrost",
+        "even when wiped off."
+      ],
+      "odiNumbers": [
+        "10134019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gasoline Smell",
+      "impact": "The smell of gasoline can indicate a fuel leak, which can cause fires or explosions, leading to accidents or injuries.",
+      "symptoms": [
+        "Smell of gasoline."
+      ],
+      "odiNumbers": [
+        "10134019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when shifting gears or with the foot on the brake",
+        "reaching high speeds without driver input."
+      ],
+      "odiNumbers": [
+        "8011788",
+        "8011789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Disintegration",
+      "impact": "The disintegration of fuel lines can cause fuel leaks, which can lead to fires, personal injury, or even death.",
+      "symptoms": [
+        "Fuel lines degrade and spill gasoline on the engine",
+        "fuel leaks",
+        "fuel smell inside the vehicle",
+        "engine compartment fires."
+      ],
+      "odiNumbers": [
+        "10181821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Front Seat Belt Latch",
+      "impact": "The malfunctioning front seat belt latch can lead to accidents or injuries due to the belt coming unlatched while driving, compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "Difficulty latching the front seat belt",
+        "the seat belt latch comes undone by itself while driving",
+        "uncertainty about the reliability of the seat belt in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10053206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Failure (SI Board Battery Failure)",
+      "impact": "The failure of the instrument cluster, specifically the SI board batteries, can cause the engine temperature gauge, tachometer, and MPG gauge to stop working, which can lead to severe engine damage due to unknown engine temperatures.",
+      "symptoms": [
+        "The engine temperature gauge",
+        "tachometer",
+        "and MPG gauge stop working or are not displaying accurate readings",
+        "the instrument cluster is not functioning properly."
+      ],
+      "odiNumbers": [
+        "10042963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

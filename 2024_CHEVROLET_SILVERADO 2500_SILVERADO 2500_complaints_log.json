@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Trailer Brake Disconnection",
+      "impact": "The intermittent disconnection of the trailer brakes can cause loss of control, accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The \"Check Trailer Wiring\" or \"Trailer Brakes Disconnected\" warning message appears on the dashboard",
+        "the trailer brakes do not engage",
+        "and the system reconnects and disconnects repeatedly."
+      ],
+      "odiNumbers": [
+        "11557002",
+        "11554102",
+        "11553366",
+        "11549810",
+        "11548225",
+        "11547923",
+        "11542742",
+        "11540121",
+        "11539923",
+        "11539630",
+        "11536400",
+        "11534909",
+        "11534914",
+        "11532550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Malfunction",
+      "impact": "The malfunctioning instrument cluster can cause loss of critical information, such as speed, warnings, and gauges, which can lead to accidents and safety risks.",
+      "symptoms": [
+        "The instrument cluster screen blinks on and off",
+        "displaying \"Service Instrument Cluster\" messages",
+        "and all indications of speed",
+        "warnings",
+        "and gauges are lost."
+      ],
+      "odiNumbers": [
+        "11550556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Turn Signal Malfunction",
+      "impact": "The malfunctioning turn signal can cause confusion and accidents, especially when the hyperflash feature is activated.",
+      "symptoms": [
+        "The \"Check Right Front Turn Lamp\" or \"Check Left Front Turn Lamp\" warning message appears",
+        "and the turn signal goes into hyperflash mode",
+        "rendering it non-functional."
+      ],
+      "odiNumbers": [
+        "11538407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Software and Computer System Issues",
+      "impact": "The software and computer system issues can cause various malfunctions, including loss of communication with other components, which can lead to safety risks and accidents.",
+      "symptoms": [
+        "The main computer system loses communication with other components",
+        "the brake system control module loses communication",
+        "and the engine control module loses communication."
+      ],
+      "odiNumbers": [
+        "11565866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Trailer Brake Failure",
+      "impact": "The intermittent failure of the trailer brake system can cause loss of control, accidents, and potentially life-threatening situations while towing a trailer.",
+      "symptoms": [
+        "The trailer brake system randomly connects and disconnects",
+        "the \"Check Trailer Wiring\" message appears on the instrument panel",
+        "the \"Trailer Brakes Connected\" and \"Trailer Brakes Disconnected\" messages display frequently",
+        "the brake pedal is depressed but the brakes fail to function",
+        "the vehicle experiences a sudden jolt or skid."
+      ],
+      "odiNumbers": [
+        "11585777",
+        "11585043",
+        "11580125",
+        "11547098",
+        "11536895",
+        "11532273",
+        "11531543",
+        "11529117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trailer Brake Controller Failure",
+      "impact": "The intermittent failure of the trailer brake controller can cause the loss of trailer brakes while towing, leading to a high risk of accidents and potential harm to the driver, passengers, and other road users.",
+      "symptoms": [
+        "The trailer brake controller fails to recognize the trailer",
+        "the trailer brakes disconnect and reconnect intermittently",
+        "the truck travels at high speeds without trailer brakes",
+        "the system displays error messages or warning lights."
+      ],
+      "odiNumbers": [
+        "11544153",
+        "11536198",
+        "11533956"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Computer/ECU Failure",
+      "impact": "The failure of the computer/ECU can cause the engine to stall or fail to start, leaving the driver stranded and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The engine fails to start",
+        "the dashboard displays error messages or warning lights",
+        "the vehicle is unable to move",
+        "the battery is drained",
+        "and multiple systems fail simultaneously."
+      ],
+      "odiNumbers": [
+        "11568911"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Android Auto/Infotainment System Issues",
+      "impact": "The issues with the Android Auto/infotainment system can cause distractions while driving, reduce the functionality of the system, and pose concerns in states with hands-free device laws.",
+      "symptoms": [
+        "The system reduces the A/C output when connected to Android Auto",
+        "incoming messages are not played",
+        "the system states that no active subscription is enabled",
+        "the system does not allow full functionality of Android Auto."
+      ],
+      "odiNumbers": [
+        "11525974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

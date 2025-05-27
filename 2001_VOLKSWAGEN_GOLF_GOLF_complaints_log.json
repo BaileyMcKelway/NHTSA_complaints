@@ -1,0 +1,331 @@
+{
+  "totalComplaints": 131,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the deployment of airbags without a crash, causing injuries and distractions to the driver and passengers, or the failure to deploy airbags in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbags deploy without a crash",
+        "airbags fail to deploy in a crash",
+        "passenger side airbags deploy without a crash",
+        "driver's side airbag deploys without a crash."
+      ],
+      "odiNumbers": [
+        "11413225",
+        "10724343",
+        "10629709",
+        "10258182",
+        "10211348",
+        "10185641",
+        "10170980",
+        "10169924",
+        "10149329",
+        "10145433",
+        "10126125",
+        "10133501",
+        "10125122",
+        "10114559",
+        "10111314",
+        "10127943",
+        "10078862",
+        "10074611",
+        "10071388",
+        "10039238",
+        "10037310",
+        "10013628",
+        "6901309",
+        "6901310",
+        "762909",
+        "8010646",
+        "8007382",
+        "8003655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A malfunctioning airbag sensor can cause the airbag system to deploy unnecessarily, leading to injuries and distractions, or fail to deploy in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbags deploy without a crash",
+        "passenger side airbags deploy without a crash",
+        "driver's side airbag deploys without a crash."
+      ],
+      "odiNumbers": [
+        "10185641",
+        "10149329",
+        "10114559",
+        "10074611",
+        "10071388",
+        "10039238",
+        "10037310",
+        "6901309",
+        "6901310",
+        "762909",
+        "8010646",
+        "8007382",
+        "8003655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Control Module Failure",
+      "impact": "A faulty airbag control module can cause the airbag system to malfunction, leading to the deployment of airbags without a crash or the failure to deploy airbags in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbags deploy without a crash",
+        "passenger side airbags deploy without a crash",
+        "driver's side airbag deploys without a crash."
+      ],
+      "odiNumbers": [
+        "10013628",
+        "6901309",
+        "6901310",
+        "762909",
+        "8010646",
+        "8007382",
+        "8003655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Consumption Issues",
+      "impact": "Excessive engine oil consumption can lead to premature engine wear, increased emissions, and potentially cause engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine oil consumption at an alarming rate",
+        "oil leaks",
+        "engine noise",
+        "and decreased engine performance."
+      ],
+      "odiNumbers": [
+        "10073170",
+        "10064091",
+        "10023186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Oxygen Sensors",
+      "impact": "A faulty oxygen sensor can cause the engine to run rich or lean, leading to decreased fuel efficiency, increased emissions, and potentially cause engine damage or failure.",
+      "symptoms": [
+        "Check engine light illumination",
+        "engine stalling",
+        "rough idling",
+        "and decreased engine performance."
+      ],
+      "odiNumbers": [
+        "10190346",
+        "10033102",
+        "10027067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Coil Pack Failure",
+      "impact": "Coil pack failure can cause engine misfires, decreased engine performance, and potentially cause engine stalling or failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine misfires",
+        "check engine light illumination",
+        "engine stalling",
+        "and decreased engine performance."
+      ],
+      "odiNumbers": [
+        "10246854",
+        "770553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "Turbocharger failure can cause engine performance issues, decreased power, and potentially cause engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine performance issues",
+        "decreased power",
+        "and turbocharger noise."
+      ],
+      "odiNumbers": [
+        "10173821",
+        "10052479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "Catalytic converter failure can cause decreased engine performance, increased emissions, and potentially cause engine damage or failure.",
+      "symptoms": [
+        "Decreased engine performance",
+        "increased emissions",
+        "and check engine light illumination."
+      ],
+      "odiNumbers": [
+        "10168618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Light Switch Failure",
+      "impact": "Brake light switch failure can cause the brake lights to malfunction, increasing the risk of accidents.",
+      "symptoms": [
+        "Brake light malfunction",
+        "cruise control deactivation",
+        "and check engine light illumination."
+      ],
+      "odiNumbers": [
+        "10087831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "Timing belt failure can cause engine damage or failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "timing belt noise",
+        "and check engine light illumination."
+      ],
+      "odiNumbers": [
+        "10297722",
+        "749559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "Ignition coil failure can cause the engine to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Flashing check engine light",
+        "engine stuttering",
+        "loss of power",
+        "sudden stalling of the engine."
+      ],
+      "odiNumbers": [
+        "10152627",
+        "10119281",
+        "10043311",
+        "10003638",
+        "10000157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failures",
+      "impact": "Electrical system failures can cause various safety issues, such as loss of headlights, wipers, and other essential systems, increasing the risk of accidents.",
+      "symptoms": [
+        "No headlights or wipers",
+        "glove compartment lock failure",
+        "driver's side window failure",
+        "ignition switch failure",
+        "instrument panel failure."
+      ],
+      "odiNumbers": [
+        "10151232",
+        "10119281",
+        "10030360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "HVAC System Failure",
+      "impact": "HVAC system failure can cause smoke to fill the cabin, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Plastic burning smell",
+        "smoke coming from the HVAC control panel",
+        "recirculation fan failure."
+      ],
+      "odiNumbers": [
+        "10356703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Alternator failure",
+        "electrical system failure",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "10164416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Light and Turn Signal Failure",
+      "impact": "Brake light and turn signal failure can increase the risk of accidents, as other drivers may not be aware of the vehicle's intentions.",
+      "symptoms": [
+        "Brake lights and turn signals not working together",
+        "signal switch failure."
+      ],
+      "odiNumbers": [
+        "10722890"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "Wiring harness failure can cause electrical system failures, leading to various safety issues.",
+      "symptoms": [
+        "Chafed or broken wiring harness",
+        "loss of electrical power to systems mounted on the rear hatchback door."
+      ],
+      "odiNumbers": [
+        "10344990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Vehicle Fire",
+      "impact": "Vehicle fires can cause serious injuries or fatalities.",
+      "symptoms": [
+        "Spontaneous combustion of the vehicle."
+      ],
+      "odiNumbers": [
+        "10241011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

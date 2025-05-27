@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause extended stopping distances, accidents, or loss of control, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the pedal slowly declines before going to the floor",
+        "the pedal feels hard",
+        "the vehicle travels an additional distance before stopping",
+        "the vehicle does not stop when applying the brakes."
+      ],
+      "odiNumbers": [
+        "8008420",
+        "890572",
+        "860403",
+        "819921",
+        "806781",
+        "487451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, accidents, or loss of control, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The ABS fails to engage",
+        "the vehicle does not stop when applying the brakes",
+        "the brake pedal goes to the floor",
+        "the vehicle travels an additional distance before stopping."
+      ],
+      "odiNumbers": [
+        "708654",
+        "707536",
+        "537292",
+        "819921",
+        "806781"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brake can cause accidents, loss of control, or extended stopping distances, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The rear brake fails",
+        "causing an accident."
+      ],
+      "odiNumbers": [
+        "487451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure Due to Steel Cord Separation",
+      "impact": "The separation of steel cords in the tire can cause a sudden blowout, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "especially at high speeds",
+        "sudden loss of air pressure",
+        "visible signs of steel cord separation",
+        "tire damage",
+        "and potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "743624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gas Tank Rusting and Leaking",
+      "impact": "The rusting and leaking of the gas tank can cause a serious risk of fire, explosion, and fuel spillage, posing a significant threat to vehicle occupants, bystanders, and property.",
+      "symptoms": [
+        "Gasoline leakage from the gas tank",
+        "fuel smell or odor",
+        "fuel droplets or puddles under the vehicle",
+        "rust or corrosion on the top surface of the gas tank."
+      ],
+      "odiNumbers": [
+        "723262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

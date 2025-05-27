@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Charging System Failure due to Magnet Detachment",
+      "impact": "The failure of the charging system can cause the engine to seize or fail, leading to a loss of control and potentially resulting in a crash.",
+      "symptoms": [
+        "The charging system is not functioning properly",
+        "the engine may seize or fail",
+        "the magnets may become dislodged and cause catastrophic engine failure."
+      ],
+      "odiNumbers": [
+        "10604853",
+        "10604440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Power Loss due to Faulty Connector",
+      "impact": "The loss of electrical power can cause the motorcycle to stall or shut down while in motion, leading to a loss of control and potentially resulting in a crash.",
+      "symptoms": [
+        "The motorcycle suddenly loses power",
+        "the gauges go black",
+        "the bike will not crank",
+        "the indicator lights may come on and then the motorcycle loses power."
+      ],
+      "odiNumbers": [
+        "10147505",
+        "10140203",
+        "10134269",
+        "10124835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Crack and Leaks",
+      "impact": "The crack in the fuel tank can cause fuel to leak, which can lead to a fire hazard, especially when the leaked fuel comes into contact with the hot engine or heat shield.",
+      "symptoms": [
+        "Fuel leaks from the bottom of the tank",
+        "fuel leaks from the spot welds",
+        "fuel drips onto the aluminum heat shield",
+        "poor engine performance",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "10138634",
+        "10137650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Flywheel Magnet Failure",
+      "impact": "The failure of the flywheel magnets can cause vibrations, charging issues, and potentially lead to engine damage, which can result in costly repairs and pose a safety risk to the rider.",
+      "symptoms": [
+        "Vibration at low RPM",
+        "bike not holding a charge",
+        "scratching or damage to the stator",
+        "pieces of magnet debris inside the engine."
+      ],
+      "odiNumbers": [
+        "10629899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

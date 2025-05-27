@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Brake Pads and Rotors",
+      "impact": "The use of defective brake pads and rotors can lead to premature wear, grinding, and damage to other brake components, resulting in reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "damaged brake components",
+        "reduced braking performance",
+        "need for frequent replacements."
+      ],
+      "odiNumbers": [
+        "558130",
+        "503334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Sudden brake failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "inability to stop the vehicle",
+        "repeated brake failures."
+      ],
+      "odiNumbers": [
+        "503334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "Unintended acceleration and brake failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle surges or accelerates unexpectedly",
+        "failure to stop when brakes are applied",
+        "constant speed of 30-40mph despite braking."
+      ],
+      "odiNumbers": [
+        "960489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the driver or passenger to become stuck in the seat belt, making it difficult or impossible to exit the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The seat belt buckle is inoperative",
+        "the seat belt buckle won't detach",
+        "the seat belt buckle is stuck",
+        "the plastic cover on the passenger's side buckle has fallen off",
+        "the seat belts do not retract when not in use."
+      ],
+      "odiNumbers": [
+        "804009",
+        "974734",
+        "964033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially if the vehicle fails to respond to braking inputs.",
+      "symptoms": [
+        "The engine races or surges without the driver's input",
+        "the vehicle accelerates without pressing the accelerator pedal",
+        "the vehicle maintains a constant speed despite attempts to slow down",
+        "the brakes are ineffective in stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "975541",
+        "960489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

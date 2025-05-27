@@ -1,0 +1,63 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Inaccuracy due to Inclined Parking",
+      "impact": "The fuel gauge resetting to full when parked on an incline can lead to inaccurate fuel level readings, potentially causing drivers to run out of fuel while driving, which can be dangerous and lead to accidents.",
+      "symptoms": [
+        "The fuel gauge resets to full when parked on an incline",
+        "even when there is still a significant amount of fuel left in the tank",
+        "the fuel gauge reading is inconsistent",
+        "the fuel gauge does not correct itself",
+        "and the driver must fill up with fuel again or perform a workaround on flat ground to get an accurate reading."
+      ],
+      "odiNumbers": [
+        "11590105",
+        "11577312",
+        "11575929",
+        "11566832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incomplete Key Fob Delivery",
+      "impact": "The failure to provide the promised second key fob can lead to inconvenience and potential safety issues, as owners may be left without a spare key in case of an emergency.",
+      "symptoms": [
+        "Dealer fails to inform customer of single key fob at delivery",
+        "promises second key fob but fails to deliver within promised timeframe",
+        "multiple delayed delivery dates."
+      ],
+      "odiNumbers": [
+        "11592253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Proximity Sensor and Digital Key Malfunction",
+      "impact": "The malfunction of the proximity sensor and digital key can cause inconvenience and potentially leave the driver stranded, especially if the vehicle is locked with the key inside.",
+      "symptoms": [
+        "Proximity sensor fails to unlock door",
+        "digital key app alerts \"unlock feature not available\"",
+        "electronic door lock feature fails to unlock door",
+        "driver's door locks while passenger door remains unlocked."
+      ],
+      "odiNumbers": [
+        "11574194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

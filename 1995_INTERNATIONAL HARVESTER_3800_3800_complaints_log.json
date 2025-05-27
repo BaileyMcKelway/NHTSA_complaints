@@ -1,0 +1,49 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fan Clutch Failure",
+      "impact": "The failure of the fan clutch can cause the engine to overheat, leading to potential engine damage, breakdowns, and safety risks while driving.",
+      "symptoms": [
+        "The engine overheats",
+        "the temperature gauge rises",
+        "the cooling fan fails to engage",
+        "the vehicle loses power",
+        "the vehicle stalls or shuts down."
+      ],
+      "odiNumbers": [
+        "548781",
+        "610282",
+        "610286",
+        "610290",
+        "610294",
+        "610310"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Frame Rails on School Buses",
+      "impact": "Cracked frame rails on school buses can lead to a loss of structural integrity, potentially causing accidents or injuries to passengers.",
+      "symptoms": [
+        "Cracks in the frame rails",
+        "typically near the shock hanger or rear engine mount",
+        "which can be detected during routine maintenance inspections."
+      ],
+      "odiNumbers": [
+        "10171039",
+        "740338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

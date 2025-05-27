@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Idle and Engine Stalling",
+      "impact": "The erratic idle and engine stalling can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. This issue can also cause damage to the engine and other components.",
+      "symptoms": [
+        "The engine idles poorly",
+        "revving and dropping",
+        "dipping often with the engine almost dying",
+        "the vehicle shakes and idles high when slowing down or coming to a stop",
+        "the vehicle stalls",
+        "the engine cover gaskets rupture",
+        "causing the oil pump to fail."
+      ],
+      "odiNumbers": [
+        "10099294",
+        "730967",
+        "730967",
+        "724732",
+        "979935",
+        "979935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to malfunction, leading to accidents or leaving the driver stranded. This issue can also cause damage to the engine and other components.",
+      "symptoms": [
+        "The power steering goes out",
+        "the engine stalls",
+        "the vehicle experiences erratic idle",
+        "the mechanic indicates a short in the ECU."
+      ],
+      "odiNumbers": [
+        "10099294",
+        "730967",
+        "730967",
+        "724732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Cover Gasket Failure",
+      "impact": "The engine cover gasket failure can cause the oil pump to fail, leading to engine seizure and damage.",
+      "symptoms": [
+        "The engine cover gaskets rupture",
+        "causing the oil pump to fail",
+        "the vehicle seizes without warning."
+      ],
+      "odiNumbers": [
+        "979935",
+        "979935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the vehicle to fail to start, idle rough, or even start on its own without a key, which can lead to accidents, property damage, or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the vehicle starts on its own without a key",
+        "the vehicle idles rough",
+        "high",
+        "or slow",
+        "the vehicle's brakes are engaged but the vehicle starts",
+        "the vehicle's ignition is in park but the vehicle starts."
+      ],
+      "odiNumbers": [
+        "10093784",
+        "760300",
+        "754441",
+        "890150",
+        "741956",
+        "714696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Idle Speed and Unpredictable Engine Revving",
+      "impact": "The erratic idle speed and unpredictable engine revving can cause the vehicle to lurch forward or stall, leading to potential accidents or loss of control, especially when driving in heavy traffic or pedestrian areas.",
+      "symptoms": [
+        "The engine idle speed suddenly increases or decreases without warning",
+        "the engine revs high (around 2",
+        "000-3",
+        "000 RPM) and may or may not return to normal",
+        "the vehicle lurches or drives erratically when in motion",
+        "the accelerator cable sticks",
+        "and the vehicle experiences uncontrollable acceleration under load on manual transmission."
+      ],
+      "odiNumbers": [
+        "746821",
+        "708786",
+        "708578",
+        "708364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ECU Design Fault",
+      "impact": "The faulty ECU design can cause the erratic idle speed and unpredictable engine revving, leading to potential accidents or loss of control, especially when driving in heavy traffic or pedestrian areas.",
+      "symptoms": [
+        "The engine idle speed suddenly increases or decreases without warning",
+        "the engine revs high (around 2",
+        "000-3",
+        "000 RPM) and may or may not return to normal",
+        "the vehicle lurches or drives erratically when in motion."
+      ],
+      "odiNumbers": [
+        "746821",
+        "708578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accelerator Cable Sticking",
+      "impact": "The sticking accelerator cable can cause the vehicle to accelerate unexpectedly, leading to potential accidents or loss of control, especially when driving in heavy traffic or pedestrian areas.",
+      "symptoms": [
+        "The accelerator cable continuously sticks",
+        "causing the vehicle to accelerate unexpectedly."
+      ],
+      "odiNumbers": [
+        "478237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

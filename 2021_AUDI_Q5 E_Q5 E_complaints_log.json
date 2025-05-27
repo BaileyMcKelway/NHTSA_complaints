@@ -1,0 +1,154 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FORWARD COLLISION AVOIDANCE",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking (AEB) and Forward Collision System",
+      "impact": "The false activation of the AEB and Forward Collision System can cause sudden and violent braking, which can lead to rear-end collisions, injuries, and accidents, especially on high-speed roads like highways.",
+      "symptoms": [
+        "The vehicle suddenly brakes hard without any apparent reason",
+        "the seat belts tighten unnecessarily",
+        "the system activates even when there are no vehicles or objects in front of the vehicle",
+        "and the system's false activation can cause startling and frightening experiences for the driver and passengers."
+      ],
+      "odiNumbers": [
+        "11590726",
+        "11590488",
+        "11441634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Charging System Locking Error",
+      "impact": "The charging system locking error can disable charging and inhibit the vehicle's electric drivability, leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle displays an error message \"Could not execute action. Locking error in charging system\"",
+        "and charging is disabled."
+      ],
+      "odiNumbers": [
+        "11519000"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "MMI System Failure",
+      "impact": "The failure of the MMI system can cause various features such as navigation, driver assistance, and fuel gauge display to malfunction, which can lead to driver distraction and inconvenience.",
+      "symptoms": [
+        "The MMI system fails to load correctly",
+        "navigation system is not loaded",
+        "driver assistance is inoperable",
+        "fuel gauge display is incorrect",
+        "and Lane Assist feature fails."
+      ],
+      "odiNumbers": [
+        "11503423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Pack Switch Failure",
+      "impact": "The failure of the battery pack switch can cause the vehicle to suddenly halt, leading to a loss of power and potentially causing accidents.",
+      "symptoms": [
+        "The malfunction indicator light illuminates the instrument panel",
+        "the vehicle comes to a sudden halt",
+        "and the vehicle may fail to restart."
+      ],
+      "odiNumbers": [
+        "11488734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gateway Control Module Failure",
+      "impact": "The failure of the gateway control module can cause a complete shutdown of the vehicle, leading to a loss of power, inability to shift gears, and malfunction of electrical systems, which can result in accidents, strand the driver, or create life-threatening situations.",
+      "symptoms": [
+        "Vehicle shutdown",
+        "accelerator failure",
+        "gear shifting failure",
+        "interior lights flashing",
+        "text instructions on the screen about loss of power",
+        "emergency systems malfunction",
+        "inability to restart the vehicle",
+        "automatic window rolling down",
+        "and check engine light illumination."
+      ],
+      "odiNumbers": [
+        "11447707",
+        "11446264",
+        "11420815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Level Sensor Malfunction",
+      "impact": "A faulty fuel level sensor can cause inaccurate fuel level readings, leading to uncertainty about the vehicle's range and potentially causing drivers to run out of fuel unexpectedly, which can be a safety hazard.",
+      "symptoms": [
+        "The fuel gauge is stuck",
+        "the fuel level reading is inaccurate",
+        "the vehicle's range is significantly reduced",
+        "the fuel tank is not filling to capacity."
+      ],
+      "odiNumbers": [
+        "11579722",
+        "11501695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Range Estimation",
+      "impact": "An inaccurate range estimation can cause drivers to run out of fuel unexpectedly, leading to safety hazards, inconvenience, and potential damage to the vehicle.",
+      "symptoms": [
+        "The vehicle's range is significantly reduced",
+        "the fuel level reading is inaccurate",
+        "the vehicle's range estimation is inconsistent",
+        "the vehicle is not filling to capacity."
+      ],
+      "odiNumbers": [
+        "11501695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gateway Module Failure due to Water Ingress",
+      "impact": "The failure of the Gateway Module due to water ingress can cause a sudden and complete loss of vehicle systems, including steering, acceleration, and safety functions, leading to a high risk of accidents, especially in busy traffic conditions.",
+      "symptoms": [
+        "Sudden appearance of multiple warning lights on the dashboard",
+        "beeping sounds",
+        "loss of steering",
+        "inability to accelerate",
+        "malfunctioning safety functions",
+        "inoperable windows",
+        "and random window movements."
+      ],
+      "odiNumbers": [
+        "11525278",
+        "11426209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Electrical Faults and Idle Speed Surges",
+      "impact": "The intermittent electrical faults and idle speed surges can cause the vehicle to accelerate without warning, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The motorcycle stalls or dies while riding",
+        "idle speed surges",
+        "loss of power",
+        "acceleration without warning",
+        "error codes displayed on the dash",
+        "and failure to start."
+      ],
+      "odiNumbers": [
+        "11083979",
+        "11083185",
+        "11051629",
+        "11001233",
+        "10991165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Decelerate and Uncontrolled Acceleration",
+      "impact": "The failure to decelerate and uncontrolled acceleration can cause the motorcycle to maintain high speeds, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The motorcycle fails to decelerate when the throttle is closed",
+        "maintains high speeds",
+        "and accelerates without warning",
+        "making it difficult to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11001233",
+        "10991165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch and Throttle Malfunction",
+      "impact": "The clutch and throttle malfunction can cause the motorcycle to stall or die while riding, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The motorcycle stalls or dies when the clutch is engaged",
+        "idle speed surges",
+        "and the throttle fails to respond normally."
+      ],
+      "odiNumbers": [
+        "11051629",
+        "11001233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Pump Failure Leading to Total Loss of Rear Brakes",
+      "impact": "The failure of the ABS pump can cause a total loss of rear brakes, leading to a significant safety risk, as it can result in accidents or near-misses, especially in traffic.",
+      "symptoms": [
+        "Sudden and complete loss of rear brakes",
+        "pedal going all the way down without engaging",
+        "no warning lights or indications of the failure",
+        "repeated failures despite brake bleeding and replacement of other parts."
+      ],
+      "odiNumbers": [
+        "11530664",
+        "11507745",
+        "11121738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

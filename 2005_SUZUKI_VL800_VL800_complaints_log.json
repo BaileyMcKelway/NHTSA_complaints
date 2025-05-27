@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "WHEELS",
+    "SUSPENSION",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the motorcycle to lose power, resulting in accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The motorcycle loses all power",
+        "no lights",
+        "and won't start; the wiring harness melts; the ignition switch overheats and fails; the odometer and speedometer quit working."
+      ],
+      "odiNumbers": [
+        "11233221",
+        "10249325",
+        "10221322",
+        "10187047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the motorcycle to lose power, resulting in accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The ignition switch overheats and fails; the wiring harness melts; the motorcycle loses power and won't start."
+      ],
+      "odiNumbers": [
+        "10249325",
+        "10221322"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tachometer Failure",
+      "impact": "The failure of the tachometer can cause the motorcycle to stall and quit, resulting in accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The motorcycle stalls and quits after 20-30 minutes of normal operation; the tachometer causes the motorcycle to stall and quit."
+      ],
+      "odiNumbers": [
+        "10154190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Wheel Hubs",
+      "impact": "Cracked wheel hubs can lead to wheel failure, causing loss of control, accidents, and potentially serious injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Cracks in the front and rear wheel hubs",
+        "often discovered during routine maintenance or inspection",
+        "with no apparent cause or warning signs."
+      ],
+      "odiNumbers": [
+        "10163668",
+        "10150003"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Hub Cracking and Failure",
+      "impact": "The cracking and failure of the rear hub can lead to a loss of control, accidents, and potentially fatal injuries, especially if the hub disintegrates while the motorcycle is in motion.",
+      "symptoms": [
+        "Cracks appear on the rear hub",
+        "especially around the spoke holes",
+        "which can worsen over time; the hub may disintegrate",
+        "causing the motorcycle to become unstable or lose control."
+      ],
+      "odiNumbers": [
+        "10191401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Rust and Brake Line Corrosion",
+      "impact": "The rusting of the frame and brake line can lead to structural integrity issues, causing components to detach while driving, which can result in loss of control, accidents, or injuries to occupants.",
+      "symptoms": [
+        "Sudden detachment of vehicle components",
+        "such as seat belts or brackets",
+        "while driving; rust or corrosion visible on the frame or brake lines; brake system failures or warning lights."
+      ],
+      "odiNumbers": [
+        "10163615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

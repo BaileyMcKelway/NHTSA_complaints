@@ -1,0 +1,214 @@
+{
+  "totalComplaints": 82,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the driver and passengers may not be properly protected.",
+      "symptoms": [
+        "Airbags do not deploy during a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10099934",
+        "8014641",
+        "562117",
+        "892916",
+        "862392",
+        "782810",
+        "546043",
+        "545653",
+        "834690",
+        "833820",
+        "541869",
+        "539531",
+        "825878",
+        "823808",
+        "820111",
+        "817005",
+        "809122",
+        "809124",
+        "803351",
+        "803904"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A malfunctioning airbag sensor can cause the airbags to deploy unnecessarily or fail to deploy in the event of a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "Airbag sensor light comes on intermittently",
+        "airbags may deploy without cause."
+      ],
+      "odiNumbers": [
+        "833820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Injuries",
+      "impact": "Violent deployment of airbags can cause injuries to the driver and passengers, even in the absence of a crash.",
+      "symptoms": [
+        "Airbags deploy violently",
+        "causing injuries."
+      ],
+      "odiNumbers": [
+        "526548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unnecessary Airbag Deployment",
+      "impact": "Unnecessary deployment of airbags can cause unexpected and potentially harmful situations, such as when driving on a rough road or hitting a pothole.",
+      "symptoms": [
+        "Airbags deploy without reason",
+        "such as when hitting a pothole."
+      ],
+      "odiNumbers": [
+        "806516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Wear and Failure",
+      "impact": "Premature brake wear and failure can lead to reduced stopping power, increased stopping distance, and increased risk of accidents.",
+      "symptoms": [
+        "Brakes wear out excessively",
+        "brakes fail to stop the vehicle",
+        "brake pedal goes to the floor",
+        "vehicle pulls to one side when braking",
+        "popping noise from brake caliper during slow speed braking."
+      ],
+      "odiNumbers": [
+        "885036",
+        "726295",
+        "784736",
+        "540923",
+        "816860",
+        "817495",
+        "807151",
+        "802807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "Brake pedal issues can cause the vehicle to lose braking power, leading to accidents or near-misses.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "brake pedal resists being pressed",
+        "brake pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "816860",
+        "817495",
+        "807151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "ABS system failure can cause the vehicle to lose traction and stability, leading to accidents or loss of control.",
+      "symptoms": [
+        "ABS system malfunctions",
+        "brake pedal goes to the floor",
+        "vehicle rearends another vehicle",
+        "airbags do not deploy."
+      ],
+      "odiNumbers": [
+        "817495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure to Shift Gears",
+      "impact": "The failure of the transmission to shift gears can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "transmission fails to shift",
+        "gear shift lever is hard to move",
+        "transmission slips or hesitates",
+        "vehicle stalls or loses power."
+      ],
+      "odiNumbers": [
+        "10046062",
+        "10020725",
+        "883488",
+        "714421",
+        "850759",
+        "812715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gear Shift Lever Problems",
+      "impact": "Problems with the gear shift lever can cause the vehicle to shift into unintended gears, leading to accidents or loss of control.",
+      "symptoms": [
+        "Gear shift lever is hard to move",
+        "gear shift lever sticks",
+        "gear shift lever is stuck with the key still in the ignition."
+      ],
+      "odiNumbers": [
+        "10020725",
+        "883488",
+        "812715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sudden Transmission Failure",
+      "impact": "Sudden transmission failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission fails suddenly",
+        "vehicle stalls or loses power without warning."
+      ],
+      "odiNumbers": [
+        "714421",
+        "850759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "CV Joint Failure",
+      "impact": "CV joint failure can cause loss of steering control, leading to accidents.",
+      "symptoms": [
+        "Sudden loss of steering control",
+        "CV joint breaks",
+        "vehicle loses power or stalls."
+      ],
+      "odiNumbers": [
+        "809121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

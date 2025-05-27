@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded. Additionally, it can cause electrical system malfunctions, affecting the operation of various accessories such as windshield wipers, power windows, and signal lights.",
+      "symptoms": [
+        "The key goes back into the accessory position and the car won't start",
+        "the electrical system shuts down",
+        "the windshield wipers don't work",
+        "the power windows won't roll down",
+        "the car stalls",
+        "the steering locks",
+        "and the brakes are barely working."
+      ],
+      "odiNumbers": [
+        "10155180",
+        "10130050",
+        "10074391",
+        "759317",
+        "892495",
+        "881113",
+        "873751",
+        "867700",
+        "865388",
+        "845146",
+        "534705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Failure to Start or Turn Over",
+      "impact": "The vehicle's inability to start or turn over can leave the driver stranded, causing inconvenience and potentially leading to safety risks.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the vehicle does not turn over",
+        "the vehicle is towed to the dealer for diagnosis."
+      ],
+      "odiNumbers": [
+        "785908",
+        "785908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Overheating",
+      "impact": "Engine overheating can cause damage to the engine and other components, leading to costly repairs and potentially causing a breakdown or accident.",
+      "symptoms": [
+        "The vehicle overheats",
+        "the temperature gauge rises",
+        "the vehicle is driven a short distance before overheating."
+      ],
+      "odiNumbers": [
+        "962560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to remain unlocked or unlatched, compromising the safety of the occupants and allowing unauthorized access to the vehicle.",
+      "symptoms": [
+        "The door does not latch or lock properly",
+        "the door buzzer sounds when the door is closed",
+        "the door will not lock",
+        "the door latch fails to engage",
+        "the door latch breaks or wears out prematurely."
+      ],
+      "odiNumbers": [
+        "709010",
+        "836121",
+        "540413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

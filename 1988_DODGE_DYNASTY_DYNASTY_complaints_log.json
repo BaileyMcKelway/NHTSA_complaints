@@ -1,0 +1,200 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause a loss of braking power, leading to increased stopping distances, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Clunking noise when depressing the brake pedal",
+        "soft brake pedal",
+        "delayed brake application",
+        "ABS warning light illumination",
+        "pedal fade",
+        "complete brake loss",
+        "intermittent brake failure",
+        "excessive effort required to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "530387",
+        "516552",
+        "976836",
+        "967419",
+        "966935",
+        "958222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Disc Caliper Failure",
+      "impact": "The failure of the rear disc caliper can cause a loss of braking power, leading to increased stopping distances, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Rear right disc caliper failure",
+        "ABS warning light illumination",
+        "pedal fade",
+        "complete brake loss",
+        "intermittent brake failure."
+      ],
+      "odiNumbers": [
+        "976836",
+        "967419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause a loss of braking power, leading to increased stopping distances, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Clunking noise when depressing the brake pedal",
+        "soft brake pedal",
+        "delayed brake application",
+        "pedal fade",
+        "complete brake loss",
+        "intermittent brake failure."
+      ],
+      "odiNumbers": [
+        "530387",
+        "958222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Thermostat Failure",
+      "impact": "A failed thermostat can cause the engine to overheat, leading to damage to the engine, radiator, and other components, which can result in costly repairs and potentially leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the engine is overheating",
+        "the coolant level is low",
+        "the vehicle is losing power",
+        "the vehicle is making a loud knocking or grinding noise."
+      ],
+      "odiNumbers": [
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radiator Cap Failure",
+      "impact": "A failed radiator cap can cause the cooling system to lose pressure, leading to overheating, engine damage, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The coolant level is low",
+        "the radiator is leaking coolant",
+        "the temperature gauge is in the red zone",
+        "the engine is overheating",
+        "the vehicle is losing power."
+      ],
+      "odiNumbers": [
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Timing Gear and Chain Failure",
+      "impact": "A failed timing gear and chain can cause the engine to malfunction, leading to poor engine performance, decreased fuel efficiency, and potentially causing engine damage.",
+      "symptoms": [
+        "The engine is making a loud rattling or grinding noise",
+        "the engine is misfiring",
+        "the vehicle is losing power",
+        "the vehicle is experiencing poor fuel efficiency."
+      ],
+      "odiNumbers": [
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "A failed catalytic converter can cause the vehicle to fail emissions tests, leading to costly repairs and potentially causing damage to other components.",
+      "symptoms": [
+        "The check engine light is illuminated",
+        "the vehicle is experiencing poor engine performance",
+        "the vehicle is producing excessive emissions",
+        "the vehicle is making a loud rattling or grinding noise."
+      ],
+      "odiNumbers": [
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure leading to Vehicle Fire",
+      "impact": "The failure of the electrical system can cause a vehicle fire, resulting in significant damage to the vehicle and potentially putting the occupants at risk of injury or death.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often without warning",
+        "and can cause extensive damage to the electrical system",
+        "engine",
+        "and surrounding components. The fire can be intense",
+        "melting plastic",
+        "rubber",
+        "and wiring",
+        "and damaging or destroying components such as the computer",
+        "radiator",
+        "fan",
+        "water pump",
+        "fuel injection tubes",
+        "and battery."
+      ],
+      "odiNumbers": [
+        "719778",
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Computer Component Failure",
+      "impact": "The failure of computer components can cause a range of problems, including electrical system failure, which can lead to a vehicle fire.",
+      "symptoms": [
+        "The computer component fails",
+        "potentially causing the vehicle to malfunction or catch fire. In some cases",
+        "the computer may be completely melted",
+        "indicating a catastrophic failure."
+      ],
+      "odiNumbers": [
+        "719778",
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to malfunction or fail to start, and in some cases, can lead to a vehicle fire.",
+      "symptoms": [
+        "The coil and distributor fail",
+        "causing the vehicle to malfunction or fail to start. In some cases",
+        "this failure can lead to a more serious electrical system failure",
+        "resulting in a vehicle fire."
+      ],
+      "odiNumbers": [
+        "550942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

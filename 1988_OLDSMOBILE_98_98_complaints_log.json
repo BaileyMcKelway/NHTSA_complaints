@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "EQUIPMENT",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rack and Pinion Failure",
+      "impact": "The failure of the rack and pinion can cause the power steering to malfunction, making it difficult to steer the vehicle, which can increase the risk of accidents, especially at low speeds.",
+      "symptoms": [
+        "The power steering is hard to turn",
+        "the power steering goes out while driving",
+        "the steering wheel feels stiff or difficult to turn",
+        "the vehicle is difficult to maneuver."
+      ],
+      "odiNumbers": [
+        "978062",
+        "968724",
+        "961520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Malfunction and Brake Pedal Pulsation",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause a loss of braking power, leading to extended stopping distances, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brake pedal pulsates or vibrates when pressed",
+        "the ABS system engages unnecessarily",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "and the ABS brake light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "808268",
+        "505688",
+        "964062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal Sinking or Going to the Floor",
+      "impact": "The brake pedal sinking or going to the floor can cause a loss of braking power, leading to extended stopping distances, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "and the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "964062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Antenna Failure",
+      "impact": "The failure of the power antenna can cause excessive heat generation, leading to a potential fire hazard, and drain the vehicle's battery, leaving the driver stranded.",
+      "symptoms": [
+        "The power antenna motor runs continuously",
+        "generating excessive heat",
+        "the antenna does not retract or extend properly",
+        "the antenna motor makes a loud or unusual noise",
+        "the vehicle's battery drains rapidly",
+        "the vehicle's electrical system is affected."
+      ],
+      "odiNumbers": [
+        "780434"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall while driving, which can lead to accidents, especially if it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "the engine loses power",
+        "the vehicle is difficult to start or will not start at all."
+      ],
+      "odiNumbers": [
+        "801117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Belt Buckle Failure",
+      "impact": "The failure of the driver's seat belt buckle can increase the risk of injury or fatality in the event of an accident, as the driver may not be properly restrained.",
+      "symptoms": [
+        "The seat belt buckle breaks or cracks",
+        "the seat belt will not latch",
+        "the seat belt will not stay securely fastened",
+        "the driver is unable to buckle their seat belt."
+      ],
+      "odiNumbers": [
+        "480214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

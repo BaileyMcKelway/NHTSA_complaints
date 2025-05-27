@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "TIRES",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unavailable Recall Repair Parts",
+      "impact": "The unavailability of recall repair parts can lead to prolonged exposure to safety risks, causing inconvenience, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Dealership claims to be out of stock or on backorder for recall repair parts",
+        "repeated delays in scheduling repairs",
+        "and lack of communication or updates from the dealership."
+      ],
+      "odiNumbers": [
+        "10224012",
+        "10220587",
+        "10219447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Dealership Response to Recall Notices",
+      "impact": "The failure of dealerships to properly address recall notices can lead to a lack of trust in the dealership and the manufacturer, causing frustration and anxiety for vehicle owners.",
+      "symptoms": [
+        "Dealership claims to be unaware of the recall or lacks information",
+        "dealership fails to provide a clear timeline for repair",
+        "and lack of communication or updates from the dealership."
+      ],
+      "odiNumbers": [
+        "10224012",
+        "10220587",
+        "10219447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation and Blowouts of Firestone Steeltex Radial R4S Tires",
+      "impact": "The tread separation and blowouts of these tires can cause loss of vehicle control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Tread separation",
+        "blowouts",
+        "damage to the vehicle",
+        "and loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "8014704",
+        "556761",
+        "871940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Caliper Lockup and Overheating",
+      "impact": "The continuous locking up of the brake caliper can cause the brakes to overheat, leading to a burning odor and potentially causing a loss of braking performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake caliper continually locks up",
+        "causing overheating",
+        "a burning odor",
+        "and potentially a loss of braking performance."
+      ],
+      "odiNumbers": [
+        "549550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

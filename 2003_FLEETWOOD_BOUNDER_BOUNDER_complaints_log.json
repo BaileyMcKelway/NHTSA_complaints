@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brake pedal to go to the floor, leading to reduced stopping power and increased stopping distance, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle pulls to one side",
+        "the vehicle has a burning odor",
+        "the ABS warning light illuminates on the instrument panel."
+      ],
+      "odiNumbers": [
+        "10291958",
+        "10260419",
+        "10246982",
+        "10201990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "The failure of the ABS sensor can cause the vehicle to pull to one side, leading to loss of control, which can result in accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates on the instrument panel",
+        "the vehicle pulls to one side",
+        "the vehicle has a burning odor."
+      ],
+      "odiNumbers": [
+        "10201990",
+        "10260419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to feel soft or spongy, leading to reduced stopping power and increased stopping distance, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle has a burning odor."
+      ],
+      "odiNumbers": [
+        "10260419",
+        "10246982",
+        "10201990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed or Failed LCD Shift Indicator Illumination",
+      "impact": "The delayed or failed illumination of the LCD shift indicator can cause confusion and delay when shifting gears, potentially leading to accidents or transmission damage.",
+      "symptoms": [
+        "The LCD shift indicator takes an unusually long time to illuminate",
+        "the LCD shift indicator fails to illuminate",
+        "the vehicle is difficult to shift into gear",
+        "the driver is unsure of the current gear."
+      ],
+      "odiNumbers": [
+        "10357344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fogged Dual Pane Windows",
+      "impact": "Fogged dual pane windows can significantly impair rear visibility, increasing the risk of accidents, particularly when reversing or changing lanes.",
+      "symptoms": [
+        "Fog or condensation builds up between the panes of the dual pane windows",
+        "obstructing the driver's view through the rearview mirror",
+        "making it difficult to see behind the vehicle."
+      ],
+      "odiNumbers": [
+        "10260641"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

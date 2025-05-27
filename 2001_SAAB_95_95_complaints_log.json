@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "The failure of the turbocharger can cause the vehicle to lose power, smoke from the exhaust, and potentially lead to engine damage or failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Heavy smoke from the exhaust",
+        "loss of power",
+        "vehicle only able to reach a speed of 25 mph",
+        "engine stalling",
+        "bucking",
+        "or trying to shut off."
+      ],
+      "odiNumbers": [
+        "11083893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure (Direct Ignition Cassette)",
+      "impact": "The failure of the ignition system can cause the vehicle to stall or shut down without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling or shutting down without warning",
+        "loss of electrical power",
+        "failure of power steering",
+        "windshield wipers",
+        "and mirrors",
+        "burning electrical wire odor."
+      ],
+      "odiNumbers": [
+        "10131440",
+        "10116783",
+        "10063243",
+        "889843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or shut down without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Ignition switch failure",
+        "vehicle stalling or shutting down without warning."
+      ],
+      "odiNumbers": [
+        "889844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the Anti-lock Braking System (ABS) to malfunction, leading to reduced vehicle stability and increased stopping distances, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS warning light illuminates on the dashboard",
+        "the vehicle's brakes may malfunction or become unresponsive",
+        "the vehicle may experience extended stopping distances",
+        "the vehicle may vibrate or pulsate when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10207280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

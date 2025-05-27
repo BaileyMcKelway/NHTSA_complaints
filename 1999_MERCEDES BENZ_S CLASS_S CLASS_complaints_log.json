@@ -1,0 +1,156 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "AIR BAGS",
+    "SEAT BELTS",
+    "VISIBILITY",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airmatic Suspension System Failure",
+      "impact": "The failure of the Airmatic suspension system can cause the vehicle to ride low, leading to reduced ground clearance, uneven tire wear, and potential damage to the undercarriage. This can also affect the vehicle's stability and handling, increasing the risk of accidents.",
+      "symptoms": [
+        "The Airmatic warning light comes on",
+        "the vehicle rides low",
+        "the vehicle is unable to maintain its normal ride height",
+        "the vehicle's suspension is noisy or clunky",
+        "the vehicle's suspension is sagging or uneven."
+      ],
+      "odiNumbers": [
+        "10253298",
+        "10207602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airmatic System Faulty Sensors",
+      "impact": "Faulty sensors in the Airmatic system can cause the system to malfunction, leading to incorrect ride height, uneven tire wear, and potential damage to the undercarriage. This can also affect the vehicle's stability and handling, increasing the risk of accidents.",
+      "symptoms": [
+        "The Airmatic warning light comes on",
+        "the vehicle's suspension is noisy or clunky",
+        "the vehicle's suspension is sagging or uneven",
+        "the vehicle's ride height is inconsistent",
+        "the vehicle's sensors are faulty or malfunctioning."
+      ],
+      "odiNumbers": [
+        "10207602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "SRS Module Failure",
+      "impact": "The failure of the SRS module can cause the airbags to become inoperable, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The SRS light on the dashboard illuminates",
+        "indicating a potential airbag malfunction."
+      ],
+      "odiNumbers": [
+        "10191682",
+        "10169599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in a crash can increase the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags fail to deploy in a frontal collision",
+        "despite the driver wearing a seatbelt."
+      ],
+      "odiNumbers": [
+        "10169599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become stuck or not retract properly, rendering it ineffective as a restraining device, which can increase the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The seat belt fails to release or retract",
+        "the seat belt has no tension",
+        "the seat belt is stuck",
+        "the seat belt does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10188594",
+        "10097596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto-Dimming Rear View Mirror Failure",
+      "impact": "The failure of the auto-dimming rear view mirror can obstruct the driver's view, increasing the risk of accidents or injuries, especially when driving at night or in low-light conditions.",
+      "symptoms": [
+        "Liquid crystal material \"leaking\" out of the mirror",
+        "obstructed view",
+        "mirror failure."
+      ],
+      "odiNumbers": [
+        "10252675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Manual Failover on Auto-Dimming Rear View Mirror",
+      "impact": "The absence of a manual failover on the auto-dimming rear view mirror can leave the driver without a functional rear view mirror in the event of a failure, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "No backup or alternative rear view mirror functionality in the event of a failure."
+      ],
+      "odiNumbers": [
+        "10252675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Sidewall Separation",
+      "impact": "The sudden and unexpected failure of the tire due to sidewall separation can cause loss of control, accidents, and potentially catastrophic consequences, especially at high speeds.",
+      "symptoms": [
+        "Sudden and loud noise (\"clunk",
+        "clunk\") from the rear of the vehicle",
+        "loss of air pressure",
+        "tire failure",
+        "and separation of the sidewall."
+      ],
+      "odiNumbers": [
+        "10217679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Failure Due to Manufacturing Defect",
+      "impact": "Tire failure due to manufacturing defects can lead to accidents, injuries, and fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden and unexpected tire failure",
+        "loss of air pressure",
+        "tire blowout",
+        "and separation of the sidewall."
+      ],
+      "odiNumbers": [
+        "10217679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

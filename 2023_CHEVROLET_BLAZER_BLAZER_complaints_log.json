@@ -1,0 +1,160 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE",
+    "EXTERIOR LIGHTING",
+    "STEERING",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to lose power or stall, leading to a loss of control, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle fails to accelerate as needed",
+        "the transmission slips into neutral",
+        "unusual sounds or noises are heard while driving",
+        "the vehicle stalls or loses power."
+      ],
+      "odiNumbers": [
+        "11538383",
+        "11528513",
+        "11528283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Vehicle Stalling",
+      "impact": "The uncommanded stalling of the vehicle can cause a sudden loss of power, increasing the risk of accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls unexpectedly",
+        "often after filling up with gas",
+        "while sitting still or driving at highway speeds",
+        "and may be accompanied by unknown warning lights."
+      ],
+      "odiNumbers": [
+        "11590990",
+        "11547691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Diagnose and Repair",
+      "impact": "The failure of the dealer to diagnose and repair the issue can lead to prolonged periods of vehicle downtime, leaving the owner without a safe and reliable vehicle.",
+      "symptoms": [
+        "The dealer is unable to determine the cause of the failure",
+        "and the vehicle is not repaired",
+        "despite multiple visits and complaints from the owner."
+      ],
+      "odiNumbers": [
+        "11590990",
+        "11547691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "The failure of the headlight to illuminate properly can significantly reduce visibility, increasing the risk of accidents, especially at night.",
+      "symptoms": [
+        "The headlight fails to illuminate properly",
+        "reducing visibility to less than 30 feet ahead of the vehicle",
+        "making it difficult to see road markings."
+      ],
+      "odiNumbers": [
+        "11522453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Lift Tailgate Malfunction",
+      "impact": "The unexpected closure of the power lift tailgate can cause injury to individuals nearby, and potentially lead to accidents or damage to the vehicle.",
+      "symptoms": [
+        "The power lift tailgate closes unexpectedly",
+        "hitting individuals nearby",
+        "causing injury."
+      ],
+      "odiNumbers": [
+        "11519821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Wheel Speed Sensor Causing ABS Issues and Vehicle Stalls",
+      "impact": "A faulty wheel speed sensor can cause the Anti-lock Braking System (ABS) to malfunction, leading to vehicle stalls, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The ABS light is illuminated on the dashboard",
+        "the vehicle stalls while driving",
+        "multiple instrument cluster lights are illuminated",
+        "the vehicle experiences repeated stalls",
+        "the dealership is unable to repair the issue despite multiple attempts."
+      ],
+      "odiNumbers": [
+        "11536594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed or Unavailable Repair Parts",
+      "impact": "The unavailability of repair parts can lead to extended downtime for the vehicle, causing inconvenience to the owner and potentially affecting their daily life or business.",
+      "symptoms": [
+        "The dealership is unable to provide an estimated time of arrival (ETA) for the required repair parts",
+        "the vehicle is in the repair shop for an extended period",
+        "the owner is unable to use their vehicle for an extended period."
+      ],
+      "odiNumbers": [
+        "11536594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Automatic Emergency Braking (AEB) Activation",
+      "impact": "The unintended activation of the Automatic Emergency Braking (AEB) system can cause sudden and unexpected stops, which can lead to accidents, injuries, or even fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops or brakes without warning",
+        "the AEB lights flash",
+        "the brakes lock up without any obstruction or reason",
+        "the system is overly sensitive and triggers false alarms",
+        "the system activates when there is no apparent danger."
+      ],
+      "odiNumbers": [
+        "11522056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Overly Sensitive Advanced Driver-Assistance Systems (ADAS)",
+      "impact": "An overly sensitive ADAS can cause unnecessary and potentially hazardous interventions, leading to driver confusion, loss of control, or accidents.",
+      "symptoms": [
+        "The system frequently triggers false alarms",
+        "the system is overly reactive to minor obstacles or parked vehicles",
+        "the system causes unnecessary braking or steering interventions",
+        "the system is prone to errors or misjudgments."
+      ],
+      "odiNumbers": [
+        "11522056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

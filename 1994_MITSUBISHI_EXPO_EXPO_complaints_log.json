@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VISIBILITY",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, become stuck in gear, or refuse to shift, leading to accidents, loss of control, or stranding the driver.",
+      "symptoms": [
+        "The transmission locks up",
+        "the vehicle loses power",
+        "the transmission fails to shift into gear",
+        "the transmission jumps out of gear",
+        "a loud thumping or grinding noise is heard",
+        "the vehicle becomes stuck in reverse gear."
+      ],
+      "odiNumbers": [
+        "10119976",
+        "10021711",
+        "768985",
+        "756360",
+        "561091",
+        "730179",
+        "843544",
+        "781747",
+        "539354",
+        "526796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "Torque converter failure can cause the transmission to malfunction, leading to loss of power, difficulty shifting, or complete failure of the transmission.",
+      "symptoms": [
+        "The transmission fails to engage",
+        "the vehicle hesitates or stutters when shifting",
+        "a loud grinding or whining noise is heard",
+        "the transmission slips or hesitates when accelerating."
+      ],
+      "odiNumbers": [
+        "781747",
+        "539354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Planetary Gear Failure",
+      "impact": "Planetary gear failure can cause the transmission to malfunction, leading to loss of power, difficulty shifting, or complete failure of the transmission.",
+      "symptoms": [
+        "The transmission fails to engage",
+        "the vehicle hesitates or stutters when shifting",
+        "a loud grinding or whining noise is heard",
+        "the transmission slips or hesitates when accelerating."
+      ],
+      "odiNumbers": [
+        "539354"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper System Failure",
+      "impact": "The failure of the windshield wiper system can reduce visibility during heavy winds, rain, or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers do not clean the windshield effectively",
+        "windshield wipers lift off the windshield during strong winds",
+        "reduced visibility during heavy winds",
+        "rain",
+        "or snow."
+      ],
+      "odiNumbers": [
+        "503397",
+        "601593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unexpected Airbag Deployment",
+      "impact": "Unexpected airbag deployment can cause injuries, including burns, and potentially lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Airbag deploys without a severe crash or impact",
+        "airbag deploys after hitting a curb or minor obstacle",
+        "airbag deploys with no apparent reason",
+        "airbag causes injuries",
+        "including burns",
+        "to the driver or passengers."
+      ],
+      "odiNumbers": [
+        "981398",
+        "962326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

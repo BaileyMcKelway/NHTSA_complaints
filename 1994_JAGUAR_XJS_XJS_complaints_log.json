@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "LATCHES/LOCKS/LINKAGES",
+    "SUSPENSION",
+    "VISIBILITY",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Radiator Failure Causing Transmission Contamination",
+      "impact": "The failure of the radiator can cause cross-contamination of radiator fluid into the transmission, leading to transmission failure, which can result in loss of vehicle control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Transmission failure",
+        "transmission slipping",
+        "transmission hesitation",
+        "radiator fluid leakage into the transmission",
+        "transmission fluid leakage into the engine coolant",
+        "vehicle movement while in park."
+      ],
+      "odiNumbers": [
+        "10010014",
+        "823319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to open while driving, resulting in poor visibility and increased risk of accidents.",
+      "symptoms": [
+        "The hood opens suddenly while driving",
+        "obstructing the driver's view",
+        "and potentially causing loss of control."
+      ],
+      "odiNumbers": [
+        "481382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Trunk Lock Failure",
+      "impact": "The failure of the trunk lock can cause the trunk to remain unlocked, allowing unauthorized access to the vehicle's contents and potentially leading to theft or damage.",
+      "symptoms": [
+        "The trunk fails to lock",
+        "the trunk latch is loose or broken",
+        "the trunk can be opened without a key."
+      ],
+      "odiNumbers": [
+        "479146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unstable Vehicle Handling and Loss of Control",
+      "impact": "The sudden loss of vehicle control can lead to accidents, injuries, and fatalities, especially at high speeds.",
+      "symptoms": [
+        "The vehicle pulls to the left or right while driving",
+        "the vehicle is difficult to steer",
+        "the vehicle wanders or drifts while driving",
+        "the vehicle is unstable or unresponsive to steering input."
+      ],
+      "odiNumbers": [
+        "812002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Wiring Failure Causing Underhood Fires",
+      "impact": "The failure of electrical wiring connected to windshield wipers can cause underhood fires while driving, which can lead to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Sudden appearance of flames or smoke under the hood",
+        "burning smell",
+        "melting or charring of wiring or components",
+        "loss of windshield wiper function."
+      ],
+      "odiNumbers": [
+        "976838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS (Anti-Lock Brake System) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the vehicle's brakes lock up",
+        "the vehicle skids or loses traction",
+        "the vehicle is difficult to control",
+        "the vehicle is involved in an accident."
+      ],
+      "odiNumbers": [
+        "965629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

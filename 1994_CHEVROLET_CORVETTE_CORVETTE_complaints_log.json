@@ -1,0 +1,271 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to shake and the brake pads to grab abnormally, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle shakes when depressing the brake pedal",
+        "brake pads grab abnormally",
+        "need to lightly depress the brake pedal to prevent shaking and grabbing."
+      ],
+      "odiNumbers": [
+        "11518322"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure",
+      "impact": "Cracked sidewalls can cause tire blowouts, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Cracked sidewalls",
+        "need to replace tires."
+      ],
+      "odiNumbers": [
+        "10826030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the engine to misfire, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "Engine misfires",
+        "spark plugs are fouled",
+        "no spark on certain cylinders",
+        "faulty distributor module."
+      ],
+      "odiNumbers": [
+        "10826030",
+        "745167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fires, leading to damage and potential accidents.",
+      "symptoms": [
+        "Battery acid eats away at the fuse box and wiring harness",
+        "fire risk."
+      ],
+      "odiNumbers": [
+        "893844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Alternator and Battery Failure",
+      "impact": "The failure of the alternator and battery can cause the vehicle to die, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "Alternator bracket bolts fail",
+        "battery failure",
+        "ground cable wire disconnects."
+      ],
+      "odiNumbers": [
+        "479155",
+        "479197",
+        "477901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Pump Failure Causing OptiSpark Failure",
+      "impact": "The failure of the water pump can cause antifreeze to leak onto the OptiSpark, leading to a short circuit, engine stall, and loss of power steering, which can increase the risk of accidents.",
+      "symptoms": [
+        "Antifreeze leak",
+        "engine stall",
+        "loss of power steering",
+        "smoke under the hood."
+      ],
+      "odiNumbers": [
+        "10606625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to become stuck in gear, leading to loss of acceleration, and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "Transmission stuck in gear",
+        "loss of acceleration",
+        "smoke under the hood."
+      ],
+      "odiNumbers": [
+        "10244934",
+        "706670",
+        "706423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Mounting or Retention Failure",
+      "impact": "The failure of the airbag mounting or retention system can cause the airbag to become dislodged or detached, potentially leading to improper deployment or non-deployment in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag becomes loose or detached",
+        "screws or mounting points are missing or damaged",
+        "the airbag does not deploy properly or at all in a crash."
+      ],
+      "odiNumbers": [
+        "10157279",
+        "974821",
+        "962307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A faulty airbag sensor can cause the airbag to malfunction or not deploy in a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "the airbag warning light is illuminated",
+        "the airbag sensor is faulty or malfunctioning."
+      ],
+      "odiNumbers": [
+        "962307",
+        "950412",
+        "477117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Hardline and Fitting Corrosion",
+      "impact": "Corrosion of brake hardlines and fittings can cause brake fluid leaks, leading to a loss of braking power, increased stopping distance, and potentially, accidents.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "rust or corrosion on brake hardlines and fittings",
+        "spongy or soft brake pedal",
+        "extended stopping distance."
+      ],
+      "odiNumbers": [
+        "10065825",
+        "842899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "Failure of the brake booster can cause the brake pedal to become hard, leading to extended stopping distance and potentially, accidents.",
+      "symptoms": [
+        "Hard brake pedal",
+        "extended stopping distance",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "842899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Caliper Mounting Bolt Failure",
+      "impact": "Failure of the caliper mounting bolts can cause the caliper to break loose, leading to brake failure, loss of control, and potentially, accidents.",
+      "symptoms": [
+        "Loud explosion or noise from the wheel area",
+        "wheel damage",
+        "tire blowout",
+        "brake failure",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "825548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Front Brake Operation",
+      "impact": "Erratic operation of the front brakes can cause unpredictable braking performance, leading to increased stopping distance and potentially, accidents.",
+      "symptoms": [
+        "Erratic brake operation",
+        "uneven brake wear",
+        "spongy or soft brake pedal",
+        "extended stopping distance."
+      ],
+      "odiNumbers": [
+        "974206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Antenna Motor Failure",
+      "impact": "The failure of the antenna motor can cause poor or no radio reception, leading to inconvenience and frustration for the driver.",
+      "symptoms": [
+        "The antenna does not extend or retract properly",
+        "the radio reception is poor or non-existent",
+        "the antenna motor makes unusual noises."
+      ],
+      "odiNumbers": [
+        "477966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction for the driver and passengers, potentially leading to heat-related illnesses in extreme cases.",
+      "symptoms": [
+        "The air conditioner has low output",
+        "the air conditioner blows warm air",
+        "the air conditioner is not cooling the vehicle properly",
+        "the air conditioner is making unusual noises."
+      ],
+      "odiNumbers": [
+        "479155",
+        "477901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "CD Player Failure",
+      "impact": "The failure of the CD player can cause inconvenience and frustration for the driver, leading to a decrease in overall satisfaction with the vehicle.",
+      "symptoms": [
+        "The CD player does not play CDs",
+        "the CD player is stuck or jammed",
+        "the CD player is making unusual noises",
+        "the CD player is not responding to commands."
+      ],
+      "odiNumbers": [
+        "477901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "Failure of the seat belt buckle can lead to inadequate restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle fails to latch",
+        "the seat belt buckle does not release",
+        "the seat belt buckle causes choking",
+        "the seat belt buckle does not lock into the female end."
+      ],
+      "odiNumbers": [
+        "806142",
+        "513833",
+        "505818",
+        "802685",
+        "504823",
+        "984433",
+        "961120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motorized Seat Belt Failure",
+      "impact": "Failure of the motorized seat belt can cause the belt to not retract properly, leading to inadequate restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The motorized seat belt does not release",
+        "the seat belt does not retract consistently",
+        "the seat belt causes choking."
+      ],
+      "odiNumbers": [
+        "504823",
+        "984433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Issues with Seat Belts",
+      "impact": "Failure to complete recall work on seat belts can lead to inadequate restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Recall work not performed due to dealership problems",
+        "lack of parts prevents recall work from being completed."
+      ],
+      "odiNumbers": [
+        "513833",
+        "505818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the radiator can cause the engine to overheat, leading to engine damage, and in extreme cases, a vehicle fire, which can result in property damage, injury, or even loss of life.",
+      "symptoms": [
+        "Radiator failure",
+        "engine overheating",
+        "coolant leaks",
+        "temperature gauge malfunction."
+      ],
+      "odiNumbers": [
+        "513833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded, and in some cases, require costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "engine noise",
+        "oil leaks",
+        "coolant leaks."
+      ],
+      "odiNumbers": [
+        "481854",
+        "512998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "The failure of the timing belt can cause the engine to stall or seize, leading to accidents or leaving the driver stranded, and in some cases, require costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "engine noise",
+        "timing belt failure",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "481854"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Mismatched Rear Axle Bearings",
+      "impact": "The mismatched rear axle bearings can cause premature wear, noise, and vibration, leading to a loss of vehicle control, accidents, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Unusual noises or vibrations from the rear axle",
+        "uneven tire wear",
+        "difficulty steering",
+        "or loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "969004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

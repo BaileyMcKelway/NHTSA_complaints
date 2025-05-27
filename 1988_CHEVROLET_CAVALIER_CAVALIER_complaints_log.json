@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure to Disclose Vehicle Defects",
+      "impact": "The failure of the dealer to disclose vehicle defects can lead to unexpected repair costs, safety risks, and potential accidents.",
+      "symptoms": [
+        "The vehicle has hidden defects",
+        "the dealer fails to disclose known issues",
+        "the buyer is unaware of the problems until after the sale."
+      ],
+      "odiNumbers": [
+        "10064146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Instrument Panel Failure",
+      "impact": "The failure of the electronic instrument panel can cause the driver to lose critical information while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "The instrument panel goes out while driving",
+        "the cluster fails to display information",
+        "the driver must pull over to wait for the panel to reset."
+      ],
+      "odiNumbers": [
+        "987087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Fire",
+      "impact": "An electrical system fire can cause damage to the vehicle, injuries, or even fatalities.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the fire is located in the front dash",
+        "the electrical system is malfunctioning."
+      ],
+      "odiNumbers": [
+        "965196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Sealant Failure",
+      "impact": "The failure of the windshield sealant can cause wind to enter the vehicle, creating cold drafts, noise, and distraction, which can compromise driver comfort and safety.",
+      "symptoms": [
+        "Wind blowing around the front windshield sealants",
+        "cold drafts entering the vehicle",
+        "noise while driving."
+      ],
+      "odiNumbers": [
+        "10141367",
+        "10065819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cold Weather Power Steering Failure",
+      "impact": "The failure of the power steering system in cold weather can cause the vehicle to become difficult to steer, especially when making left turns, which can increase the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering system becomes difficult to operate",
+        "the steering wheel becomes stiff or hard to turn",
+        "the vehicle is difficult to steer",
+        "especially when making left turns",
+        "the power steering system fails to provide assistance",
+        "the vehicle requires increased effort to steer."
+      ],
+      "odiNumbers": [
+        "516875",
+        "488167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

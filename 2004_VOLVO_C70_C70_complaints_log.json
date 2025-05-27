@@ -1,0 +1,165 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to safety risks, especially at night or in hazardous locations, and can also cause inconvenience and financial losses.",
+      "symptoms": [
+        "The battery light comes on",
+        "the vehicle stalls or dies",
+        "the vehicle cranks but does not start",
+        "the headlights and dashboard lights go out",
+        "the vehicle has a sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11278377",
+        "10466981",
+        "10186062",
+        "10152360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Immobilizer System Failure",
+      "impact": "The failure of the immobilizer system can cause the vehicle to not start, leading to safety risks, especially at night or in hazardous locations, and can also cause inconvenience and financial losses.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the immobilizer control module is faulty",
+        "the antenna ring is faulty",
+        "the transmitter and receiver are not in sync."
+      ],
+      "odiNumbers": [
+        "10466981",
+        "10186062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Drainage",
+      "impact": "The battery drainage issue can cause the vehicle to stall or not start, leading to safety risks, especially at night or in hazardous locations, and can also cause inconvenience and financial losses.",
+      "symptoms": [
+        "The battery drains excessively",
+        "the vehicle stalls or dies after sitting for an extended period",
+        "the battery needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "10152360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Hard Shifting and Failure",
+      "impact": "The hard shifting and failure of the transmission can cause loss of control, skidding, and accidents, especially in stop-and-go traffic. It can also lead to premature wear on other components and leave the driver stranded.",
+      "symptoms": [
+        "Hard shifting between gears",
+        "especially between 1st and 2nd gear",
+        "tires skid or feel like the vehicle has been hit from behind",
+        "transmission shifts harshly",
+        "transmission failure with low mileage",
+        "vehicle drives fine at high speeds but has issues in city driving."
+      ],
+      "odiNumbers": [
+        "11229926",
+        "10629861",
+        "10608772",
+        "10427594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unexpected deployments, causing injuries or distractions that can result in accidents. Additionally, faulty airbag systems can fail to deploy in crash situations, compromising the safety of occupants.",
+      "symptoms": [
+        "The airbag symbol appears on the dashboard",
+        "the check engine light stays on",
+        "spontaneous airbag deployment without impact",
+        "airbag deployment in non-crash situations",
+        "inconsistent airbag deployment (e.g.",
+        "passenger airbag deploys while driver's airbag does not)."
+      ],
+      "odiNumbers": [
+        "11149905",
+        "10717377",
+        "10533177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Airbag Sensor",
+      "impact": "A faulty airbag sensor can cause the airbag system to malfunction, leading to unexpected deployments or failures to deploy in crash situations, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The airbag symbol appears on the dashboard",
+        "spontaneous airbag deployment without impact",
+        "airbag deployment in non-crash situations",
+        "inconsistent airbag deployment (e.g.",
+        "passenger airbag deploys while driver's airbag does not)."
+      ],
+      "odiNumbers": [
+        "10717377",
+        "10533177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause a range of issues, including airbag system malfunctions, which can compromise vehicle safety.",
+      "symptoms": [
+        "The check engine light stays on",
+        "electrical issues cause airbag system malfunctions",
+        "repeated electrical repairs do not resolve the issue."
+      ],
+      "odiNumbers": [
+        "11149905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Module (ETM) Failure",
+      "impact": "The failure of the Electronic Throttle Module (ETM) can cause sudden and unexpected acceleration, loss of power, or stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's Check Engine Light (CEL) or Electronic Throttle Service (ETS) light illuminates",
+        "the vehicle experiences sudden and violent shuttering",
+        "the vehicle appears to stall or hesitate",
+        "the vehicle accelerates briefly or unexpectedly",
+        "the vehicle's throttle response is erratic or unresponsive."
+      ],
+      "odiNumbers": [
+        "11014058",
+        "10378413",
+        "10134534",
+        "10093119",
+        "10084429",
+        "10074441",
+        "10064353",
+        "10059224",
+        "10056219",
+        "10054429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

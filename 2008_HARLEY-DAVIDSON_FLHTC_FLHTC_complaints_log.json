@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the ABS brake system can cause the brakes to malfunction or fail, leading to a loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal or lever becomes hard or frozen",
+        "the brakes do not respond or engage",
+        "the brakes vibrate or pulse",
+        "the brake fluid leaks or is low",
+        "the ABS light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11042028",
+        "10936640",
+        "10906432",
+        "10862470",
+        "10584542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to malfunction or fail, leading to a loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal or lever becomes hard or frozen",
+        "the brakes do not respond or engage",
+        "the brake fluid leaks or is low",
+        "the master cylinder needs to be rebuilt."
+      ],
+      "odiNumbers": [
+        "10906432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to malfunction or fail, leading to a loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal or lever becomes hard or frozen",
+        "the brakes do not respond or engage",
+        "the brake fluid leaks or is low",
+        "the brake system needs to be bled."
+      ],
+      "odiNumbers": [
+        "11042028",
+        "10936640",
+        "10906432",
+        "10862470",
+        "10584542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Compensator Failure",
+      "impact": "The failure of the compensator can cause loose metal pieces to obstruct the drive chain and sprocket, leading to a sudden loss of control and potentially catastrophic accidents.",
+      "symptoms": [
+        "Rattling noise in the primary case area",
+        "loose metal pieces found in the primary case",
+        "potential for sudden loss of control or accident."
+      ],
+      "odiNumbers": [
+        "11066699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body Wiring Connector Failure",
+      "impact": "The failure of the throttle body wiring connector can cause the bike to suddenly shut down or lose power, leading to a loss of control and potentially dangerous situations.",
+      "symptoms": [
+        "Sudden loss of throttle response",
+        "bike goes into limp mode",
+        "sudden shutdown of the bike",
+        "throttling issues."
+      ],
+      "odiNumbers": [
+        "10554371",
+        "10502754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Harley Davidson Design Flaw",
+      "impact": "Harley Davidson's flawed design of the compensator and throttle body wiring connector can lead to dangerous situations and potentially catastrophic accidents.",
+      "symptoms": [
+        "Various symptoms related to compensator failure and throttle body wiring connector failure",
+        "including rattling noise",
+        "loose metal pieces",
+        "sudden loss of throttle response",
+        "and bike shutdown."
+      ],
+      "odiNumbers": [
+        "11066699",
+        "10554371",
+        "10502754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Control Actuator (TCA) Terminal Pin Corrosion/Fretting",
+      "impact": "The corrosion or fretting of the terminal pins on the Throttle Control Actuator (TCA) can cause the vehicle to shut down into limp mode, reducing speed in less than 5 seconds, which can lead to accidents or near-misses, especially when traveling at high speeds or in group rides.",
+      "symptoms": [
+        "The vehicle shuts down into limp mode",
+        "reducing speed in less than 5 seconds",
+        "trouble codes P1511 and/or P2135 are stored",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10495183",
+        "10462211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "totalComplaints": 83,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "POWER TRAIN",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fractured Brake Lines due to Rust",
+      "impact": "Fractured brake lines can cause brake fluid leaks, leading to a loss of braking power, which can result in accidents or near-misses.",
+      "symptoms": [
+        "Brake system light comes on",
+        "brakes feel soft or weak",
+        "brake fluid level is low",
+        "brake lines are fractured or rusted."
+      ],
+      "odiNumbers": [
+        "11054621",
+        "10494706"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "Brake master cylinder failure can cause the brake pedal to go to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "brake fluid level is low",
+        "master cylinder needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10016939",
+        "552445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "ABS system failure can cause the brakes to lock up or fail to engage, leading to loss of control or accidents.",
+      "symptoms": [
+        "ABS light comes on",
+        "brakes lock up or fail to engage",
+        "vehicle shakes or vibrates when braking",
+        "ABS pump runs continuously."
+      ],
+      "odiNumbers": [
+        "756349",
+        "877191",
+        "843136",
+        "718952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor and Pad Wear",
+      "impact": "Excessive brake rotor and pad wear can cause brake failure, leading to accidents or near-misses.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "brake pads are worn unevenly",
+        "brake rotors are warped or damaged."
+      ],
+      "odiNumbers": [
+        "10016939",
+        "561360",
+        "769846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "Brake caliper failure can cause uneven brake pad wear, leading to brake failure and accidents.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "brake pads are worn unevenly",
+        "brake caliper is faulty or seized."
+      ],
+      "odiNumbers": [
+        "769846",
+        "561360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "Brake booster failure can cause the brake pedal to feel hard or difficult to press, leading to brake failure and accidents.",
+      "symptoms": [
+        "Brake pedal feels hard or difficult to press",
+        "brake booster is faulty or failed."
+      ],
+      "odiNumbers": [
+        "568073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Adjustment Failure",
+      "impact": "The failure of the seat adjustment mechanism can lead to a loss of control while driving, increasing the risk of accidents, and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The seat adjustment handle breaks off",
+        "the seat cannot be adjusted",
+        "the seat recline handle breaks off",
+        "the seat is stuck in a forward or backward position",
+        "the seat moves unexpectedly while driving."
+      ],
+      "odiNumbers": [
+        "10165075",
+        "10067098",
+        "10025612",
+        "10008072",
+        "568073",
+        "8018458",
+        "763024",
+        "8001230",
+        "561360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Recline Handle Failure",
+      "impact": "The failure of the seat recline handle can cause the seat to become stuck in a position, potentially leading to accidents or injuries due to the driver's or passenger's compromised position.",
+      "symptoms": [
+        "The seat recline handle breaks off",
+        "the seat is stuck in a forward or backward position",
+        "the seat cannot be adjusted."
+      ],
+      "odiNumbers": [
+        "10025612",
+        "10008072",
+        "8018458",
+        "561360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Track Failure",
+      "impact": "The failure of the seat track can cause the seat to become unstable, leading to a loss of control while driving, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The seat track breaks",
+        "the seat remains in an unlocked position",
+        "the seat moves unexpectedly while driving."
+      ],
+      "odiNumbers": [
+        "8001230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of power, loss of maneuverability, and accidents, especially when driving on steep hills or in heavy traffic.",
+      "symptoms": [
+        "High screeching noise",
+        "loss of power",
+        "transmission slipping",
+        "engine RPM fluctuation",
+        "transmission failure to engage gears",
+        "vehicle shaking or vibrating."
+      ],
+      "odiNumbers": [
+        "10016971",
+        "723114",
+        "717106",
+        "714728",
+        "853284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Differential Failure",
+      "impact": "Differential failure can cause vibration, noise, and loss of control, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Zuming vibrating and clicking noise",
+        "worn seals and gaskets",
+        "differential failure."
+      ],
+      "odiNumbers": [
+        "10054519",
+        "10068940",
+        "764801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Assembly Failure",
+      "impact": "Clutch assembly failure can cause the vehicle to roll unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "Vehicle rolling back unexpectedly",
+        "clutch pedal sticking to the floor",
+        "clutch failure to engage."
+      ],
+      "odiNumbers": [
+        "843297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Squeaking brakes",
+        "brakes going to the floor",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "723114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tailgate Support Cable Failure",
+      "impact": "The failure of the tailgate support cables can cause the tailgate to fall off, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The tailgate cables snap or fracture",
+        "causing the tailgate to fall off or become unstable."
+      ],
+      "odiNumbers": [
+        "10291011",
+        "10156059",
+        "10152551",
+        "10118211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tow Hook Failure",
+      "impact": "The failure of the tow hooks can cause the vehicle to crash or fall, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The tow hooks fail at the attachment bolts",
+        "causing the vehicle to crash or fall."
+      ],
+      "odiNumbers": [
+        "10186129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Hinge Wear",
+      "impact": "The wear of the door hinges can cause difficulty in opening and closing the door, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The door hinge wears out",
+        "resulting in a hole on the door frame",
+        "and making it difficult to open and close the door."
+      ],
+      "odiNumbers": [
+        "10143748"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Bumper Loosening",
+      "impact": "The loosening of the bumper can cause accidents or injuries due to reduced structural integrity.",
+      "symptoms": [
+        "The bumper comes loose",
+        "potentially causing accidents or injuries."
+      ],
+      "odiNumbers": [
+        "561360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

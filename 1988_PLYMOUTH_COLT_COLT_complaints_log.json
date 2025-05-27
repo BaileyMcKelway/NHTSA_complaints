@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "LATCHES/LOCKS/LINKAGES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to a lack of restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle is cracked",
+        "broken",
+        "or fails to engage",
+        "making it difficult or impossible to latch",
+        "and the seat belt assembly may need to be replaced."
+      ],
+      "odiNumbers": [
+        "529707",
+        "605488",
+        "523157",
+        "815207",
+        "982189",
+        "502229",
+        "965694",
+        "963618",
+        "962224",
+        "960241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Repair of Seat Belt Buckle",
+      "impact": "The delay or unavailability of repair parts can leave the vehicle in an unsafe condition, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The dealership is unable to repair the seat belt buckle due to part unavailability",
+        "or the repair is delayed for an extended period",
+        "leaving the vehicle in an unsafe condition."
+      ],
+      "odiNumbers": [
+        "815207",
+        "982189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Front Door Latches",
+      "impact": "The faulty front door latches can cause the doors to partially open or unlatch while driving, which can lead to accidents, injuries, or even ejection of occupants. Additionally, the door ajar warning lights may illuminate, causing distraction and potentially leading to accidents.",
+      "symptoms": [
+        "The doors do not latch properly",
+        "requiring the door handle to be held up to lock",
+        "doors partially open on their own",
+        "doors unlatch while driving",
+        "door ajar warning lights illuminate",
+        "difficulty locking doors."
+      ],
+      "odiNumbers": [
+        "758177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy/Failure",
+      "impact": "An inaccurate or failed fuel gauge can lead to unexpected fuel depletion, causing the vehicle to stall or run out of fuel, potentially stranding the driver or causing an accident.",
+      "symptoms": [
+        "The fuel gauge needle does not move or is stuck",
+        "the fuel gauge shows an incorrect reading",
+        "the fuel gauge fluctuates erratically",
+        "the vehicle's fuel level warning light does not illuminate or illuminates incorrectly."
+      ],
+      "odiNumbers": [
+        "523157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

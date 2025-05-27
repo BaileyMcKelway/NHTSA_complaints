@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Fire Hazard",
+      "impact": "The electrical system failure can cause a fire to break out in the vehicle, potentially leading to injuries, fatalities, and property damage.",
+      "symptoms": [
+        "Yellow smoke billowing out from under the glovebox on the passenger side",
+        "fire flames between the dash and window",
+        "melting of the passenger side under glove box area and ABS floor",
+        "re-ignition of the fire after being initially put out."
+      ],
+      "odiNumbers": [
+        "11415683",
+        "11256421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The unavailability of parts for recall repairs can leave vehicles with safety-critical issues on the road, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Notification of a recall",
+        "but parts are not available",
+        "and the manufacturer is unable to confirm when they will become available."
+      ],
+      "odiNumbers": [
+        "11256421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure due to Water Damage",
+      "impact": "Water damage in the trunk can cause transmission failure, leading to deceleration, inability to shift gears, and loss of power, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle decelerates unexpectedly",
+        "the transmission warning light illuminates",
+        "the vehicle fails to shift into gear",
+        "loss of power",
+        "delay in acceleration."
+      ],
+      "odiNumbers": [
+        "11386383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Camshaft Failure causing Delayed Acceleration and Loss of Power",
+      "impact": "Camshaft failure can cause delayed acceleration, loss of power, and illumination of the check engine light, which can lead to accidents or make the vehicle difficult to control.",
+      "symptoms": [
+        "Delayed acceleration",
+        "loss of power",
+        "check engine light illuminates while driving or stationary."
+      ],
+      "odiNumbers": [
+        "11310712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Camshaft Position Slow Response (Bank 2) and Oil Pump Activation Limit Value Exceeded",
+      "impact": "The failure of the intake camshaft position sensor and oil pump activation can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the engine indicator illuminates",
+        "the check engine indicator remains illuminated after restarting the vehicle",
+        "diagnostic trouble codes P000C and P1538 are present."
+      ],
+      "odiNumbers": [
+        "11129078",
+        "11013431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dashboard Reflection Glare",
+      "impact": "The glare from the dashboard reflection on the windshield can cause temporary blindness, increasing the risk of accidents, especially during sunny days.",
+      "symptoms": [
+        "The dashboard reflection on the windshield obstructs the driver's view",
+        "making it difficult to see while driving",
+        "especially during sunny days."
+      ],
+      "odiNumbers": [
+        "10452184",
+        "10435732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

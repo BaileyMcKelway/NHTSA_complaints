@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Master Brake System Failure",
+      "impact": "The failure of the Power Master Brake System can cause the brakes to become extremely resistant and difficult to depress, leading to increased stopping distances and a higher risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brakes are difficult to press",
+        "the brakes lock up occasionally",
+        "the brake warning light illuminates",
+        "the vehicle takes excessive effort to stop",
+        "the brakes fail to work intermittently",
+        "the brake pedal does not move in emergency braking situations."
+      ],
+      "odiNumbers": [
+        "10595436",
+        "10457874",
+        "10430126",
+        "768597",
+        "8009871",
+        "8007860",
+        "10006522",
+        "8001965",
+        "863343",
+        "710267",
+        "843372",
+        "521356",
+        "509075",
+        "975337",
+        "970650",
+        "959107",
+        "480639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "A faulty seat belt buckle can lead to the seat belt malfunctioning, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle is cracked",
+        "the seat belt locks up and traps the occupant",
+        "the release button jams",
+        "the seat belt fails to restrain the passenger in an accident."
+      ],
+      "odiNumbers": [
+        "831432",
+        "809351",
+        "980472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Misfiring and Failure",
+      "impact": "Engine misfiring and failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded, especially at high speeds.",
+      "symptoms": [
+        "Engine misfiring",
+        "engine light blinking",
+        "loss of power",
+        "engine stalling",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "10854846",
+        "10837464",
+        "10762491"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Broken Manifold Bolts",
+      "impact": "Broken manifold bolts can cause engine misfiring and failure, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine misfiring",
+        "engine light blinking",
+        "loss of power",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "10854846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Hatch/Lift Gate Failure",
+      "impact": "Failure of the rear hatch or lift gate can cause inconvenience and potentially lead to safety hazards, especially in emergency situations.",
+      "symptoms": [
+        "Rear hatch or lift gate will not open with key pad or from inside the vehicle",
+        "difficulty accessing cargo area."
+      ],
+      "odiNumbers": [
+        "10724126",
+        "10164436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause various problems, including lift gate, lift rear glass, and acceleration issues, which can lead to accidents or inconvenience.",
+      "symptoms": [
+        "Lift gate or lift rear glass not functioning",
+        "acceleration problems",
+        "low battery power."
+      ],
+      "odiNumbers": [
+        "10164436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corroded Brake Lines and Leaks",
+      "impact": "Corroded brake lines and leaks can cause brake fluid to leak, leading to a loss of brake pressure, which can result in extended stopping distances, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "Brake pedal travels to the floorboard",
+        "brake pedal must be pumped extensively to stop the vehicle",
+        "grinding noise when applying the brakes",
+        "service stability light illuminates on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11180849",
+        "11153726",
+        "10865492",
+        "10442390"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a lack of protection in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag system is turned off",
+        "the airbags fail to deploy in a crash",
+        "intermittent airbag warning light illumination."
+      ],
+      "odiNumbers": [
+        "10682970",
+        "10428321",
+        "10373912",
+        "10180707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

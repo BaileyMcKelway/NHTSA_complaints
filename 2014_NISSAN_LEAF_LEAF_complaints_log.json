@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Brake System Failure",
+      "impact": "The failure of the electronic brake system can cause the brakes to malfunction or fail, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Sudden and unpredictable total brake failure",
+        "brake pedal goes to the floor with no response",
+        "loud noises from the engine compartment",
+        "ABS noise without brake action",
+        "brake warning lights illuminated",
+        "loss of brake pressure",
+        "jerky or abrupt braking behavior."
+      ],
+      "odiNumbers": [
+        "11516767",
+        "11485305",
+        "11442276",
+        "11413072",
+        "11397140",
+        "11375218",
+        "11268196",
+        "11131039",
+        "11056759",
+        "11003810",
+        "10864296",
+        "10849730",
+        "10820864",
+        "10690845",
+        "10690262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Regenerative Brake System Malfunction",
+      "impact": "The malfunction of the regenerative brake system can cause jerky or abrupt braking behavior, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Aggressive braking behavior",
+        "jerky or abrupt braking",
+        "brake pedal hesitation",
+        "brake warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "10690845",
+        "10690262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to malfunction, leading to loss of control, accidents, or even fires, which can result in serious injury or property damage.",
+      "symptoms": [
+        "The brake",
+        "ABS",
+        "warning",
+        "and traction control lights are illuminated",
+        "the vehicle accelerates without throttle input",
+        "the vehicle is difficult to brake",
+        "a weird hum is present at power-on",
+        "the vehicle displays warning lights",
+        "and the vehicle catches fire while charging."
+      ],
+      "odiNumbers": [
+        "11240810",
+        "11157171",
+        "11080704",
+        "11071887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Charging System Failure",
+      "impact": "The failure of the charging system can cause the vehicle to malfunction, leading to loss of control, accidents, or even fires, which can result in serious injury or property damage.",
+      "symptoms": [
+        "The vehicle catches fire while charging",
+        "the vehicle displays warning lights",
+        "the vehicle accelerates without throttle input",
+        "the vehicle is difficult to brake",
+        "and the charging unit is suspected to be the root cause of the failure."
+      ],
+      "odiNumbers": [
+        "11080704",
+        "11071887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "12V Battery Failure",
+      "impact": "The failure of the 12V battery can cause the vehicle to malfunction, leading to loss of control, accidents, or difficulty braking, which can result in serious injury or property damage.",
+      "symptoms": [
+        "The brake",
+        "ABS",
+        "warning",
+        "and traction control lights are illuminated",
+        "the vehicle accelerates without throttle input",
+        "the vehicle is difficult to brake",
+        "and a weird hum is present at power-on."
+      ],
+      "odiNumbers": [
+        "11240810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Occupant Detection System Failure",
+      "impact": "The failure of the occupant detection system can cause the airbag to be disabled even when a passenger is present, which can lead to increased risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The airbag disabled light illuminates when a passenger is sitting in the seat",
+        "the airbag is not deployed despite the presence of a passenger",
+        "inconsistent airbag deployment with different passengers."
+      ],
+      "odiNumbers": [
+        "10723424",
+        "10683689",
+        "10625998",
+        "10606550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

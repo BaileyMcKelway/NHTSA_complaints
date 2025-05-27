@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "TIRES",
+    "STRUCTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Box Bracket Failure and Chassis Damage",
+      "impact": "The failure of the steering box bracket can cause erratic steering, loss of control, and accidents, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Erratic steering",
+        "steering becomes difficult or impossible",
+        "steering box bracket broken or torn",
+        "chassis damage or torn in half."
+      ],
+      "odiNumbers": [
+        "762108",
+        "761588",
+        "761601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to sudden loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire explosion",
+        "loss of tire pressure",
+        "tire tread separation",
+        "sudden vibration or wobbling of the vehicle."
+      ],
+      "odiNumbers": [
+        "10040132",
+        "10040007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Box Bracket Structural Failure",
+      "impact": "The structural failure of the steering box bracket can cause loss of steering control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The steering box bracket cracks or breaks",
+        "the rail is ripped into",
+        "the vehicle experiences loss of steering control",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "785896",
+        "550107"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

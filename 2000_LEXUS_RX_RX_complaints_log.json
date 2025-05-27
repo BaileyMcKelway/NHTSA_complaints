@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or become immobile, which can lead to accidents, especially when driving on highways. This can also result in costly repairs and leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear",
+        "the transmission makes a whining or grinding noise",
+        "the vehicle is unable to move forward or reverse",
+        "the engine revs but the vehicle does not move."
+      ],
+      "odiNumbers": [
+        "11323985",
+        "10582908",
+        "10495076",
+        "10473656",
+        "10471664",
+        "10210950",
+        "10210637",
+        "10207697",
+        "10206297",
+        "10201159",
+        "10201036",
+        "10200783",
+        "10199297",
+        "10188823",
+        "10187447",
+        "10185192",
+        "10183590",
+        "10183102",
+        "10181280",
+        "10178800",
+        "10178765",
+        "10165187",
+        "10163752",
+        "10157730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Throttle Position Sensor (TPS) and Brake Light Malfunction",
+      "impact": "The faulty TPS can cause the vehicle to stall or hesitate when accelerating, leading to a loss of power and control, which can increase the risk of accidents. The malfunctioning brake light can also reduce the vehicle's visibility to other drivers, increasing the risk of rear-end collisions.",
+      "symptoms": [
+        "The vehicle stalls or hesitates when giving it gas",
+        "the vehicle lunges forward suddenly",
+        "the brake light is illuminated on the dashboard",
+        "the vehicle experiences erratic acceleration."
+      ],
+      "odiNumbers": [
+        "11477556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Brake Light Switch",
+      "impact": "The faulty brake light switch can cause the brake lights to malfunction, reducing the vehicle's visibility to other drivers and increasing the risk of rear-end collisions.",
+      "symptoms": [
+        "The brake light is illuminated on the dashboard",
+        "the brake lights do not function properly",
+        "the brake lights are stuck on or off."
+      ],
+      "odiNumbers": [
+        "11477556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's safety features are designed to protect occupants in the event of a collision.",
+      "symptoms": [
+        "None",
+        "as the airbags did not deploy in the crash."
+      ],
+      "odiNumbers": [
+        "11476188"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

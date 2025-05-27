@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Vacuum Booster Failure",
+      "impact": "The failure of the brake vacuum booster can cause extended stopping distances, increasing the risk of accidents, and potentially leading to loss of control or collision.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal must be pressed to the floor to stop the vehicle",
+        "the vehicle takes an additional 10-20 feet to stop",
+        "no response from the anti-lock braking system."
+      ],
+      "odiNumbers": [
+        "979843",
+        "979843",
+        "960562"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hydraulic Brake System Failure",
+      "impact": "The failure of the hydraulic brake system can cause a loss of brake pressure, leading to extended stopping distances, and potentially causing accidents or loss of control.",
+      "symptoms": [
+        "Brake pressure shuts off during brake application",
+        "no response from the anti-lock braking system."
+      ],
+      "odiNumbers": [
+        "979166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Axle Gear Failure",
+      "impact": "The failure of the gears underneath the spider in the rear end can cause structural weakening, leading to potential loss of control, accidents, or wheel separation.",
+      "symptoms": [
+        "Unusual noises or vibrations from the rear of the vehicle",
+        "difficulty steering or maintaining control",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "803788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of ball joints can cause excessive tire wear, uneven tire wear, and difficulty in aligning the front end, leading to potential loss of control, accidents, or wheel separation.",
+      "symptoms": [
+        "Excessive tire wear",
+        "uneven tire wear",
+        "difficulty in aligning the front end",
+        "clunking or creaking noises from the suspension."
+      ],
+      "odiNumbers": [
+        "972974",
+        "962583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Transmission Dipstick Failure",
+      "impact": "The failure of the automatic transmission dipstick can cause transmission fluid to leak and catch fire, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Smoke coming from around the tail lights",
+        "transmission fluid leaking",
+        "transmission fluid overheating",
+        "transmission fluid being forced out of the vent tube",
+        "vehicle catching on fire while driving."
+      ],
+      "odiNumbers": [
+        "802253",
+        "976769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

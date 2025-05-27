@@ -1,0 +1,203 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, and accidents, and may also lead to unnecessary repair costs and inconvenience.",
+      "symptoms": [
+        "Airbag deploys without a collision",
+        "airbag deploys due to minor incidents such as hitting a pothole",
+        "airbag deploys after a delay from the initial incident",
+        "airbag fails to deploy in a collision."
+      ],
+      "odiNumbers": [
+        "10011640",
+        "725436",
+        "963243",
+        "480735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "Malfunctioning airbag sensors can cause unintended airbag deployment, failure to deploy in a collision, or delayed deployment, which can lead to injuries, accidents, and fatalities.",
+      "symptoms": [
+        "Airbag deploys without a collision",
+        "airbag fails to deploy in a collision",
+        "airbag deploys after a delay from the initial incident",
+        "airbag warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "725436",
+        "963243",
+        "480735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Failure",
+      "impact": "Failure of the airbag system can cause injuries, fatalities, and accidents due to unintended deployment, failure to deploy, or delayed deployment.",
+      "symptoms": [
+        "Airbag deploys without a collision",
+        "airbag fails to deploy in a collision",
+        "airbag deploys after a delay from the initial incident",
+        "airbag warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10011640",
+        "725436",
+        "963243",
+        "480735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Distributor Assembly Failure",
+      "impact": "The failure of the distributor assembly can cause the engine to stall or die without warning, leading to a loss of power and control, which can increase the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine stalls or dies without warning",
+        "the vehicle loses power while driving",
+        "the ignition system fails",
+        "the distributor assembly fails",
+        "the vehicle experiences sudden loss of engine performance."
+      ],
+      "odiNumbers": [
+        "737884",
+        "783927",
+        "783927",
+        "701276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Spring Holder Failure",
+      "impact": "The failure of the metal spring holder on the OEM clutch can cause shifting difficulties, leading to unnecessary and excessive wear on the transmission, which can result in premature transmission failure and potential accidents.",
+      "symptoms": [
+        "Shifting becomes nearly impossible",
+        "excessive wear on the transmission",
+        "sudden loss of clutch function."
+      ],
+      "odiNumbers": [
+        "10020826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Balance Shaft Failure",
+      "impact": "The sudden failure of the balance shaft can cause oil leaks, leading to engine damage, overheating, and potential engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "sudden loss of engine performance",
+        "unusual engine noises."
+      ],
+      "odiNumbers": [
+        "8022628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Delamination and Failure",
+      "impact": "Tire delamination and failure can cause loss of vehicle control, accidents, and potentially severe injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of tire tread",
+        "tire blowout",
+        "vehicle fish-tailing or loss of control",
+        "extensive damage to the vehicle",
+        "and deployment of airbags."
+      ],
+      "odiNumbers": [
+        "769339",
+        "963243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Poor Tire Quality and Design",
+      "impact": "Poor tire quality and design can lead to premature tire failure, accidents, and potentially severe injuries or fatalities.",
+      "symptoms": [
+        "Tire delamination",
+        "tire blowout",
+        "loss of tire tread",
+        "and unexpected loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "769339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Road Hazard-Induced Tire Failure",
+      "impact": "Road hazards, such as potholes, can cause tire failure, accidents, and potentially severe injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of tire tread",
+        "tire blowout",
+        "vehicle loss of control",
+        "and deployment of airbags."
+      ],
+      "odiNumbers": [
+        "963243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Drain Plug Stripping Due to Soft Metal Oil Pan",
+      "impact": "The oil drain plug stripping can cause oil leaks, engine damage, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "difficulty removing the oil drain plug",
+        "stripped threads on the oil pan",
+        "premature wear on the oil pan."
+      ],
+      "odiNumbers": [
+        "865298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "Failed engine mounts can cause excessive engine movement, leading to premature wear on other engine components, reduced vehicle performance, and potentially cause accidents.",
+      "symptoms": [
+        "Excessive engine noise",
+        "vibration",
+        "or movement",
+        "difficulty shifting gears",
+        "rough idling."
+      ],
+      "odiNumbers": [
+        "700351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

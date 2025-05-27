@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, making it hard to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel is very difficult to turn",
+        "the steering wheel is stiff",
+        "the power steering is cold",
+        "the rack and pinion gears are binding",
+        "causing wear and stiffness in steering."
+      ],
+      "odiNumbers": [
+        "891437",
+        "483584",
+        "472013",
+        "457684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Block Cracking",
+      "impact": "A cracked engine block can cause coolant leaks, engine overheating, and potentially lead to engine failure, which can result in accidents, fires, or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "white smoke from the exhaust",
+        "loss of engine power",
+        "unusual engine noises."
+      ],
+      "odiNumbers": [
+        "531443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Overheating and Fire Risk",
+      "impact": "Engine overheating can cause damage to engine components, lead to fires, and potentially result in accidents or injuries.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "smoke or flames from the engine compartment",
+        "burning smell",
+        "warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "978030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Coolant System Leaks",
+      "impact": "Coolant leaks can cause engine overheating, damage to engine components, and potentially lead to engine failure, accidents, or fires.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "low coolant level",
+        "sweet or pungent smell",
+        "green or yellow fluid on the ground."
+      ],
+      "odiNumbers": [
+        "483584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Caliper Failure",
+      "impact": "The failure of the rear brake caliper can cause the vehicle to lose braking power, leading to increased stopping distances, loss of control, and potentially accidents.",
+      "symptoms": [
+        "Difficulty stopping",
+        "brake fluid leakage",
+        "sudden and unexpected locking of the rear brakes",
+        "loss of control of the vehicle."
+      ],
+      "odiNumbers": [
+        "814441",
+        "806673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

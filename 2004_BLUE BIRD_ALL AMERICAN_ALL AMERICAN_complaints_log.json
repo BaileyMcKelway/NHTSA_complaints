@@ -1,0 +1,54 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "VP44 Fuel Injection Pump Failure",
+      "impact": "The failure of the VP44 fuel injection pump can cause loss of power, white smoke, and stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Code 368 red failure",
+        "loss of power",
+        "white smoke",
+        "stalling",
+        "replacement of fuel filters",
+        "and humidity in the ECM."
+      ],
+      "odiNumbers": [
+        "10171327",
+        "10171329",
+        "10170092",
+        "10169879",
+        "10169536",
+        "10169537",
+        "10169461",
+        "10169357",
+        "10168859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improperly Welded Driveline on Transmission",
+      "impact": "The improperly welded driveline on the transmission can cause the tube and flange to turn within itself, leading to transmission failure, loss of power, and potential accidents.",
+      "symptoms": [
+        "The driveline on the transmission fails",
+        "the tube and flange turn within itself",
+        "the transmission does not function properly",
+        "loss of power",
+        "unusual noises or vibrations from the transmission."
+      ],
+      "odiNumbers": [
+        "10188269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

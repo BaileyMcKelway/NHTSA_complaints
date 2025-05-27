@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure and Electrical System Malfunction",
+      "impact": "The failure of the alternator and electrical system can cause the vehicle to stall, leading to a loss of power and potentially resulting in accidents or fires.",
+      "symptoms": [
+        "The alternator light comes on and off",
+        "the lights get very dim",
+        "smoke and fire emanate from the vehicle",
+        "the vehicle stalls",
+        "and there is a loss of power."
+      ],
+      "odiNumbers": [
+        "731118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Connection Failure in Steering Column",
+      "impact": "The failure of the wiring connections in the steering column can cause the turn signal and brake lights to fail, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The wiring connections in the tilt-steering wheel are too tight and pull out when turning the vehicle",
+        "causing the turn signal and brake lights to fail."
+      ],
+      "odiNumbers": [
+        "527169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Engine Stalling and Lack of Acceleration",
+      "impact": "The faulty engine stalling and lack of acceleration can cause the vehicle to lose power and potentially result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle consistently stalls when warming up",
+        "the vehicle has no acceleration",
+        "the vehicle works fine after service for a while and then returns to the same issues."
+      ],
+      "odiNumbers": [
+        "967232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Rear Seat Belt Design",
+      "impact": "The lack of shoulder belts in the rear seats can increase the risk of injury or fatality in the event of an accident, as lap belts alone may not provide sufficient protection for occupants.",
+      "symptoms": [
+        "Rear seats are only equipped with lap belts",
+        "without shoulder belts."
+      ],
+      "odiNumbers": [
+        "536037"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Driver's Side Seatbelt Latch",
+      "impact": "A malfunctioning seatbelt latch can prevent the seatbelt from properly securing the driver, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The driver's side seatbelt will not latch properly",
+        "making it difficult or impossible to secure the driver."
+      ],
+      "odiNumbers": [
+        "968855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The malfunction of the cruise control system can cause the vehicle to accelerate to higher speeds than desired, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle accelerates to higher speeds than set",
+        "the vehicle speed increases unexpectedly",
+        "the vehicle does not respond to cruise control inputs",
+        "the brake pedal must be depressed hard to resume normal speed."
+      ],
+      "odiNumbers": [
+        "974169",
+        "961925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

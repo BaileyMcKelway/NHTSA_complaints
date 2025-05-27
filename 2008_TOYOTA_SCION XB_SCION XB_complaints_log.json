@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STRUCTURE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to premature engine wear, engine failure, and potentially cause accidents due to engine stalling or loss of power. It can also lead to environmental damage and increased maintenance costs.",
+      "symptoms": [
+        "The vehicle uses an excessive amount of oil",
+        "requiring frequent oil top-offs",
+        "even when there are no signs of oil leakage. The engine may stall",
+        "and warning lights may illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11388211",
+        "11349627",
+        "11329629",
+        "11319131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The sudden opening of the hood while driving can cause a significant obstruction to the driver's view, leading to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The hood flies up against the windshield",
+        "obstructing the driver's view",
+        "causing damage to the hood and windshield",
+        "and potentially leading to loss of control or accidents."
+      ],
+      "odiNumbers": [
+        "11297540",
+        "11297538",
+        "11297539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Rotor Failure",
+      "impact": "Premature failure of the brake rotors can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Unusual brake noise",
+        "vibration",
+        "or pulsation when applying the brakes",
+        "reduced braking power",
+        "warped or uneven brake rotor surface."
+      ],
+      "odiNumbers": [
+        "11375855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

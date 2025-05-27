@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "Sudden power steering failure can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Loss of power steering assist",
+        "difficulty steering the vehicle",
+        "warning lights or messages on the dashboard",
+        "sudden failure without notice."
+      ],
+      "odiNumbers": [
+        "11575930",
+        "11564894",
+        "11552600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "UConnect System Malfunction",
+      "impact": "The malfunctioning UConnect system can compromise the vehicle's safety features, including hands-free calling and potentially emergency assistance services, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The UConnect system fails to recognize voice commands",
+        "fails to manage remote commands",
+        "and exhibits other malfunctions that affect hands-free calling and emergency assistance services."
+      ],
+      "odiNumbers": [
+        "11572247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause a range of safety issues, including failure of advanced safety features, loss of power steering, and complete shutdown of the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The electrical system fails",
+        "causing malfunctions such as flickering navigation screens",
+        "open wires under the driver's side front seat",
+        "power steering light flashing",
+        "and complete shutdown of the vehicle."
+      ],
+      "odiNumbers": [
+        "11557584",
+        "11551335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Forward Collision Avoidance System Failure",
+      "impact": "The failure of the forward collision avoidance system can lead to accidents, as the vehicle may not engage the automatic braking system in emergency situations.",
+      "symptoms": [
+        "The forward collision avoidance system fails to engage",
+        "causing accidents or near-misses",
+        "and may be related to electrical system failures."
+      ],
+      "odiNumbers": [
+        "11551335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Activation of Emergency Braking System",
+      "impact": "The unintended activation of the emergency braking system can cause sudden and unexpected stops, which can lead to accidents, injuries, or fatalities, especially if other vehicles are following closely.",
+      "symptoms": [
+        "The vehicle's emergency braking system activates randomly while driving",
+        "often accompanied by a beeping sound",
+        "and the vehicle suddenly slams on the brakes",
+        "even in the absence of obstacles or hazards."
+      ],
+      "odiNumbers": [
+        "11572196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Seizure/Stalling",
+      "impact": "The sudden stalling of the engine can cause a loss of power and control, increasing the risk of accidents, especially on busy roads or highways. This can lead to rear-end collisions, injuries, or fatalities.",
+      "symptoms": [
+        "The engine stalls or seizes without warning",
+        "often while driving",
+        "resulting in a loss of power and inability to restart the vehicle."
+      ],
+      "odiNumbers": [
+        "11571594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

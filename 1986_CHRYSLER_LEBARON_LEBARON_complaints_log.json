@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "The failure of the engine head gasket can cause the engine to overheat, leading to engine damage, fires, and potentially life-threatening accidents.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leakage",
+        "white smoke from the exhaust",
+        "loss of engine power",
+        "engine stalling",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "980072",
+        "980235",
+        "483809",
+        "504671",
+        "536798",
+        "545117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a short circuit, leading to an engine compartment fire, which can result in a total loss of the vehicle and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "The vehicle will not start",
+        "a fire begins in the engine compartment",
+        "an electrical current overload occurs",
+        "a short circuit is detected in the engine electrical system."
+      ],
+      "odiNumbers": [
+        "8020381",
+        "8006197",
+        "729180",
+        "545117",
+        "485612",
+        "478448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement Due to Transmission Shift Lever Malfunction",
+      "impact": "The unintended movement of the vehicle can cause accidents, injuries, or fatalities, especially when the driver is outside the vehicle or when the vehicle is on an incline.",
+      "symptoms": [
+        "The transmission shift lever moves from park to reverse or other gears without driver input",
+        "the vehicle rolls backwards or forwards without warning",
+        "the vehicle starts to move on its own",
+        "the transmission jumps out of gear",
+        "the position indicator is vague or hard to read."
+      ],
+      "odiNumbers": [
+        "10115536",
+        "10045602",
+        "819997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause loss of control, making it difficult to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Power steering failure",
+        "loss of power steering assist",
+        "vibration",
+        "knocking noise",
+        "poor steering."
+      ],
+      "odiNumbers": [
+        "883487",
+        "847897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering system can cause loss of control, making it difficult to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Rack and pinion steering failure",
+        "poor steering",
+        "vibration",
+        "knocking noise."
+      ],
+      "odiNumbers": [
+        "847897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Child Seat Disconnection",
+      "impact": "The disconnection of the child seat can cause serious injury or ejection of the child from the vehicle, which can be fatal.",
+      "symptoms": [
+        "Child seat disconnection",
+        "ejection of child from vehicle."
+      ],
+      "odiNumbers": [
+        "845347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

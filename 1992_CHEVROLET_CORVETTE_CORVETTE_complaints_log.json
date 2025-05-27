@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "WHEELS",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Opti Spark Distributor Failure",
+      "impact": "The failure of the Opti Spark distributor can cause the vehicle to stall, potentially leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine dies while driving",
+        "the engine has a rough idle",
+        "the engine has a misfire",
+        "the check engine light is illuminated."
+      ],
+      "odiNumbers": [
+        "10032606",
+        "745120",
+        "545810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Pad Failure",
+      "impact": "Premature brake pad failure can lead to reduced stopping power, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when braking",
+        "brake pads wear down quickly",
+        "brake pedal feels soft or spongy",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "515362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Brake Rotor Failure",
+      "impact": "Premature brake rotor failure can lead to warped or uneven brake rotors, causing vibrations when braking, reduced stopping power, and increased risk of accidents.",
+      "symptoms": [
+        "Vibration or pulsation when applying the brakes",
+        "squealing or grinding noises when applying the brakes",
+        "brake rotors show signs of excessive wear",
+        "brake pedal feels soft or spongy",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "515362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries or fatalities.",
+      "symptoms": [
+        "The engine \"roars\" or revs suddenly",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle surges forward without input from the driver."
+      ],
+      "odiNumbers": [
+        "756312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Crack and Tire Failure",
+      "impact": "The cracking of the wheel from the inside can cause the tire to go flat, leading to a loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Cracking or breaking sounds coming from the wheel",
+        "tire pressure loss",
+        "tire failure",
+        "vibration while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "966945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Seat Wiring Fire",
+      "impact": "The electrical wiring in the power seat can catch fire, potentially causing a vehicle fire, which can lead to serious injury or death.",
+      "symptoms": [
+        "Smoke or flames coming from the seat",
+        "burning smell",
+        "melting or charring of the seat or surrounding components",
+        "electrical issues or malfunction of the power seat."
+      ],
+      "odiNumbers": [
+        "958606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

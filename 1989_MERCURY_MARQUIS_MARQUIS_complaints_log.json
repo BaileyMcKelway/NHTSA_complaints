@@ -1,0 +1,163 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause a fire, potentially leading to vehicle damage, injury, or even death. In addition, it can also prevent the vehicle from starting, leaving the driver stranded.",
+      "symptoms": [
+        "Smoke or flames coming from the ignition switch",
+        "difficulty or inability to start the vehicle",
+        "burning smell or odor."
+      ],
+      "odiNumbers": [
+        "520950",
+        "800946",
+        "504022",
+        "963774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration and brake failure can lead to accidents, injuries, and fatalities, as the vehicle may continue to accelerate or fail to stop, making it difficult for the driver to control the vehicle.",
+      "symptoms": [
+        "The vehicle accelerates unintentionally",
+        "the brakes fail to respond",
+        "extended stopping distance",
+        "the vehicle accelerates in open throttle position",
+        "the brakes do not engage when pressed."
+      ],
+      "odiNumbers": [
+        "870563",
+        "984392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause extended stopping distance, brake failure, and unintended acceleration, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes feel soft or spongy",
+        "the brakes do not engage when pressed",
+        "extended stopping distance",
+        "the vehicle accelerates in open throttle position."
+      ],
+      "odiNumbers": [
+        "984392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Mislabeling of Oil Containers",
+      "impact": "The mislabeling of oil containers can lead to incorrect fluid usage, causing damage to the engine and transmission, potentially resulting in costly repairs or even total loss of the vehicle.",
+      "symptoms": [
+        "Oil container labels mismatched",
+        "incorrect fluid usage",
+        "engine or transmission damage",
+        "vehicle malfunction or failure."
+      ],
+      "odiNumbers": [
+        "10103937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure due to Incorrect Fluid Usage",
+      "impact": "Using the wrong transmission fluid can cause extensive damage to the transmission, leading to costly repairs or replacement, and potentially resulting in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission failure",
+        "slipping or hesitation when shifting gears",
+        "unusual noises or vibrations",
+        "transmission fluid leaks",
+        "vehicle malfunction or failure."
+      ],
+      "odiNumbers": [
+        "10103937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to loss of control, accidents, and damage to other vehicle components, such as the muffler, which can result in costly repairs and compromise vehicle safety.",
+      "symptoms": [
+        "Tread separation",
+        "loss of tire pressure",
+        "vibration while driving",
+        "uneven tire wear",
+        "noise while driving."
+      ],
+      "odiNumbers": [
+        "559313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Muffler Damage Due to Tire Failure",
+      "impact": "Damage to the muffler can lead to decreased vehicle performance, increased noise levels, and potentially cause further damage to other exhaust system components, resulting in additional repair costs.",
+      "symptoms": [
+        "Loud noise from the exhaust system",
+        "decreased vehicle performance",
+        "visible damage to the muffler."
+      ],
+      "odiNumbers": [
+        "559313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injection System Shutdown",
+      "impact": "The sudden shutdown of the fuel injection system can cause a loss of power steering, brakes, and engine, increasing the risk of accidents, especially on busy highways.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the engine stalls",
+        "the power steering and brakes become inoperable",
+        "the vehicle cannot be restarted due to the location of the restart switch."
+      ],
+      "odiNumbers": [
+        "820085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadvertent Fuel Injection System Shutdown",
+      "impact": "The unintended shutdown of the fuel injection system can cause a loss of vehicle control, increasing the risk of accidents, especially during sudden stops or emergency maneuvers.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the engine stalls",
+        "the power steering and brakes become inoperable",
+        "the vehicle cannot be restarted due to the location of the restart switch."
+      ],
+      "odiNumbers": [
+        "820085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

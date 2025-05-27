@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure due to Coolant and Transmission Fluid Mixing",
+      "impact": "The mixing of coolant and transmission fluid can cause transmission failure, leading to loss of power, accidents, or stranding.",
+      "symptoms": [
+        "Loss of power",
+        "transmission failure",
+        "coolant and transmission fluid mixing",
+        "radiator internal failure",
+        "transmission cooler failure."
+      ],
+      "odiNumbers": [
+        "11430763",
+        "11340619",
+        "11219416",
+        "11083706",
+        "10896965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Clutch Failure",
+      "impact": "Premature clutch failure can cause sudden loss of power, accidents, or stranding, especially in high-stress driving conditions.",
+      "symptoms": [
+        "Sudden loss of power",
+        "clutch failure",
+        "burning smell",
+        "clutch pedal sticking to the floor",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10324759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Bag Sensor Failure",
+      "impact": "The failure of the air bag sensor can cause the air bag warning light to illuminate, and in some cases, lead to unintended air bag deployment, which can cause injuries or accidents.",
+      "symptoms": [
+        "The air bag warning light illuminates",
+        "the air bag sensor light blinks",
+        "the side air bag satellite sensor corrodes",
+        "the air bag deploys unexpectedly",
+        "facial pain",
+        "bruising",
+        "bloody nose",
+        "and ringing ears."
+      ],
+      "odiNumbers": [
+        "10716124",
+        "10577708",
+        "10512085",
+        "10409192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of issues, including dashboard warning lights, odometer failure, and failure of safety systems such as brakes and tire sensors, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Dashboard warning lights illuminate",
+        "odometer fails to operate",
+        "cruise control fails to operate",
+        "brake lights fail",
+        "airbag warning light illuminates",
+        "horn requires extreme force to sound."
+      ],
+      "odiNumbers": [
+        "10765122",
+        "10358512",
+        "10295705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can cause the airbag warning light to illuminate, which can lead to accidents or injuries if the airbag fails to deploy in a crash.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "horn requires extreme force to sound."
+      ],
+      "odiNumbers": [
+        "10358512",
+        "10765122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brake lights to fail, which can lead to accidents or injuries if the vehicle is unable to stop properly.",
+      "symptoms": [
+        "Brake lights fail",
+        "dashboard warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "10765122",
+        "10295705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

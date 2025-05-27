@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while driving, obstructing the driver's view and potentially leading to accidents or fatalities.",
+      "symptoms": [
+        "The hood suddenly opens while driving",
+        "the hood does not stay closed",
+        "the secondary hood latch fails to prevent the hood from opening."
+      ],
+      "odiNumbers": [
+        "11486809"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Odometer Fraud and Title Discrepancies",
+      "impact": "Odometer fraud and title discrepancies can lead to the sale of vehicles with hidden defects or excessive wear, putting drivers at risk of accidents or mechanical failures.",
+      "symptoms": [
+        "Discrepancies in odometer readings",
+        "falsified title information",
+        "failure to disclose accident history or mileage",
+        "delayed or refusal to provide title documentation."
+      ],
+      "odiNumbers": [
+        "11322109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Assembly Leak",
+      "impact": "A fuel line assembly leak can cause a fire hazard, leading to accidents or injuries.",
+      "symptoms": [
+        "Strong smell of gasoline fuel emanating from under the vehicle",
+        "fuel leak visible under the vehicle."
+      ],
+      "odiNumbers": [
+        "10442252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Spark Plug Ejection",
+      "impact": "Spark plug ejection can cause engine damage, leading to costly repairs and potentially causing accidents due to engine failure.",
+      "symptoms": [
+        "Spark plug ejection on one or more cylinders",
+        "broken threads on cylinder",
+        "engine misfire or failure."
+      ],
+      "odiNumbers": [
+        "10379792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Recall and Replacement Issues",
+      "impact": "The recall of defective tires can lead to a safety hazard, and the unavailability of replacement tires can leave consumers driving on unsafe tires, increasing the risk of accidents.",
+      "symptoms": [
+        "Receipt of recall notice",
+        "inability to obtain replacement tires",
+        "limited alternative options",
+        "concerns about tire safety",
+        "frustration with manufacturer's response."
+      ],
+      "odiNumbers": [
+        "10576893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manufacturer's Response to Tire Recall",
+      "impact": "The manufacturer's inadequate response to the tire recall can lead to consumer frustration, loss of trust, and a sense of abandonment, potentially affecting the manufacturer's reputation and customer loyalty.",
+      "symptoms": [
+        "Difficulty in obtaining replacement tires",
+        "lack of suitable alternatives",
+        "feeling of being forced to choose unknown manufacturers or distributors",
+        "perception of manufacturer's lack of responsibility towards consumer safety."
+      ],
+      "odiNumbers": [
+        "10576893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to unexpected deployment or non-deployment in the event of a crash, resulting in injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning lights illuminate on the dashboard",
+        "airbag deploys without impact or warning",
+        "airbag fails to deploy in a crash",
+        "error codes related to airbag circuits (e.g.",
+        "B1660)."
+      ],
+      "odiNumbers": [
+        "11352864",
+        "11229927",
+        "11205886",
+        "11182735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Front Rotor Wear",
+      "impact": "Premature front rotor wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Overheated rotors",
+        "excessive wear on front rotors",
+        "rotors too hot to touch after short drives",
+        "need for replacement at low mileage (21",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "11230330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure of Forward Collision Warning System and Automatic Emergency Braking",
+      "impact": "The failure of the forward collision warning system and automatic emergency braking can increase the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Failure of the forward collision warning system to alert the driver",
+        "failure of the automatic emergency braking system to engage",
+        "collision occurs despite the presence of these safety features."
+      ],
+      "odiNumbers": [
+        "11195379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause the vehicle to lose power, leading to a loss of control, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle stalls after starting",
+        "the vehicle stalls while driving",
+        "the vehicle shuts off and on repeatedly",
+        "the vehicle has difficulty staying running."
+      ],
+      "odiNumbers": [
+        "11204667",
+        "11171017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unstable Engine RPM and Vibration",
+      "impact": "The unstable engine RPM and vibration can cause loss of control, increased stopping distance, and accidents, especially when merging onto a highway or climbing an incline.",
+      "symptoms": [
+        "The engine RPM jumps around",
+        "the vehicle vibrates or shakes",
+        "the vehicle hesitates or fails to accelerate",
+        "the accelerator pedal must be depressed all the way to the floorboard to achieve acceleration."
+      ],
+      "odiNumbers": [
+        "11156977",
+        "11015788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Hesitation and Shudder",
+      "impact": "The transmission hesitation and shudder can cause the vehicle to accelerate slowly or unpredictably, leading to potential accidents or near-misses, especially when merging or avoiding obstacles.",
+      "symptoms": [
+        "The vehicle hesitates or shudders when accelerating",
+        "fails to downshift",
+        "or accelerates slowly",
+        "especially when merging or turning; the transmission shudders in multiple gears",
+        "including first and second gear; the manual gear lever develops play",
+        "making it difficult to shift gears."
+      ],
+      "odiNumbers": [
+        "11048812",
+        "10956582"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Clutch and Flywheel Failure",
+      "impact": "The failure of the clutch and flywheel can cause the transmission to shudder, making it difficult to shift gears, and potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The transmission shudders",
+        "especially when starting from a dead stop; the clutch and flywheel need to be replaced prematurely; the manual gear lever develops play",
+        "making it difficult to shift gears."
+      ],
+      "odiNumbers": [
+        "10956582"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

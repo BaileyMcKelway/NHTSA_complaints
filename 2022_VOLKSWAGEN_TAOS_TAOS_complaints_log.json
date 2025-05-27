@@ -1,0 +1,418 @@
+{
+  "totalComplaints": 178,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 21,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "Head gasket failure can cause coolant leaks, engine overheating, and potentially lead to engine seizure or fire, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant level warning",
+        "coolant leaks",
+        "engine stalling",
+        "hesitation when accelerating",
+        "loss of power",
+        "check engine light",
+        "EPC warning light",
+        "and RPM limiting warning."
+      ],
+      "odiNumbers": [
+        "11574287",
+        "11557089",
+        "11550573",
+        "11545082",
+        "11544798",
+        "11540788",
+        "11532718",
+        "11532189",
+        "11530687",
+        "11528916",
+        "11516837",
+        "11516801",
+        "11501924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, loss of control, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "vehicle shutting off",
+        "check engine light",
+        "EPC warning light",
+        "and RPM limiting warning."
+      ],
+      "odiNumbers": [
+        "11551318",
+        "11524444",
+        "11521911",
+        "11516837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turbo Lag",
+      "impact": "Turbo lag can cause hesitation when accelerating, loss of power, and potentially lead to accidents or close calls.",
+      "symptoms": [
+        "Hesitation when accelerating",
+        "turbo lag",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "11547858",
+        "11521911"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Coolant System Issues",
+      "impact": "Coolant system issues can cause engine overheating, coolant leaks, and potentially lead to engine seizure or fire, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant level warning",
+        "coolant leaks",
+        "engine overheating",
+        "and check engine light."
+      ],
+      "odiNumbers": [
+        "11579097",
+        "11560455",
+        "11557089",
+        "11528916",
+        "11529068",
+        "11526370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Control Malfunction",
+      "impact": "Engine control malfunction can cause loss of power, loss of control, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Check engine light",
+        "EPC warning light",
+        "and RPM limiting warning."
+      ],
+      "odiNumbers": [
+        "11494110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Issues",
+      "impact": "The fuel system issues can cause the vehicle to hesitate or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The car hesitates when accelerating",
+        "stalls",
+        "or loses power while driving."
+      ],
+      "odiNumbers": [
+        "11566843",
+        "11528600",
+        "11490601",
+        "11476238",
+        "11474621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Issues",
+      "impact": "The electrical system issues can cause the infotainment system to malfunction, leading to safety concerns and distractions while driving.",
+      "symptoms": [
+        "The infotainment system freezes or blacks out",
+        "the rearview camera malfunctions",
+        "and the navigation system becomes unavailable."
+      ],
+      "odiNumbers": [
+        "11549672",
+        "11513499",
+        "11442434",
+        "11442450",
+        "11441728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Issues",
+      "impact": "The brake issues can cause the vehicle to lose braking power, leading to accidents or injuries.",
+      "symptoms": [
+        "The brakes grind or make loud noises",
+        "and the rear brakes wear out prematurely."
+      ],
+      "odiNumbers": [
+        "11512692",
+        "11498452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Start/Stop Issues",
+      "impact": "The auto start/stop issues can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses power when coming to a stop",
+        "and the auto start/stop feature malfunctions."
+      ],
+      "odiNumbers": [
+        "11535673",
+        "11513274",
+        "11490601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dashboard Light Issues",
+      "impact": "The dashboard light issues can cause the driver to be unable to see important information, leading to safety concerns.",
+      "symptoms": [
+        "The dashboard lights dim or go out",
+        "making it difficult to see important information such as speed and navigation."
+      ],
+      "odiNumbers": [
+        "11571655",
+        "11521750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Coolant System Issues",
+      "impact": "The coolant system issues can cause the engine to overheat, leading to engine damage or failure.",
+      "symptoms": [
+        "The coolant warning light comes on",
+        "and the engine overheats."
+      ],
+      "odiNumbers": [
+        "11566843",
+        "11525352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "The failure of the head gasket can cause the engine to overheat, leading to serious damage and potentially causing accidents.",
+      "symptoms": [
+        "Coolant level drops",
+        "coolant warning light comes on",
+        "white smoke emitting from exhaust",
+        "loss of power when pressing the pedal."
+      ],
+      "odiNumbers": [
+        "11590884",
+        "11586708",
+        "11567431",
+        "11562666",
+        "11560200",
+        "11555509",
+        "11537107",
+        "11535246",
+        "11534724",
+        "11529988",
+        "11513997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "The engine performance issues can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine lag",
+        "sudden loss of power",
+        "vehicle stalls",
+        "difficulty accelerating",
+        "jerky acceleration."
+      ],
+      "odiNumbers": [
+        "11520760",
+        "11491265",
+        "11488394",
+        "11481720",
+        "11477678",
+        "11476419",
+        "11466156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Issues",
+      "impact": "The transmission issues can cause the vehicle to lose power or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle hesitates to engage",
+        "sudden loss of power",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11539299",
+        "11491265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Issues",
+      "impact": "The electrical system issues can cause the vehicle's systems to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Dashboard displays malfunctioning",
+        "wireless charging pad overheating",
+        "rear cross traffic alert and adaptive cruise control malfunctioning."
+      ],
+      "odiNumbers": [
+        "11443580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Safety Feature Malfunctions",
+      "impact": "The safety feature malfunctions can cause the vehicle to lose control or fail to respond, leading to accidents.",
+      "symptoms": [
+        "Lane watch and automatic emergency braking system malfunctioning."
+      ],
+      "odiNumbers": [
+        "11443580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Rear Brake Wear",
+      "impact": "Premature wear of rear brake pads can lead to reduced stopping power, increased risk of accidents, and compromised vehicle safety.",
+      "symptoms": [
+        "Rear brake pads worn down to 2mm or less",
+        "uneven wear on rear brake pads",
+        "grinding noise when braking",
+        "rear brake warning lights."
+      ],
+      "odiNumbers": [
+        "11584941",
+        "11579507",
+        "11579221",
+        "11577458",
+        "11565741",
+        "11563521",
+        "11563003",
+        "11556026",
+        "11546561",
+        "11543062",
+        "11533739",
+        "11530559",
+        "11524303",
+        "11522918",
+        "11499693",
+        "11498466",
+        "11486267",
+        "11483912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant Issues",
+      "impact": "Coolant leaks or low coolant levels can cause engine overheating, damage to engine components, and potentially lead to engine failure.",
+      "symptoms": [
+        "Low coolant levels",
+        "coolant leaks",
+        "engine overheating",
+        "check engine lights",
+        "warning lights for low coolant."
+      ],
+      "odiNumbers": [
+        "11543062",
+        "11530559",
+        "11512196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Automatic Braking System Issues",
+      "impact": "Malfunctioning automatic braking systems can cause unintended acceleration, braking, or loss of vehicle control, leading to accidents or near-misses.",
+      "symptoms": [
+        "Unintended acceleration",
+        "braking",
+        "or loss of vehicle control",
+        "warning lights for automatic braking system",
+        "grinding noise when braking."
+      ],
+      "odiNumbers": [
+        "11541247",
+        "11483912",
+        "11473464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Issues",
+      "impact": "Engine problems can cause loss of power, stalling, or engine failure, leading to accidents or strandings.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "excessive oil consumption",
+        "check engine lights",
+        "warning lights for engine issues."
+      ],
+      "odiNumbers": [
+        "11512196",
+        "11440017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Other Issues",
+      "impact": "Various other issues, such as faulty calipers, uneven brake pad wear, and malfunctioning safety features, can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "uneven brake pad wear",
+        "faulty calipers",
+        "malfunctioning safety features",
+        "warning lights for various systems."
+      ],
+      "odiNumbers": [
+        "11579221",
+        "11556026",
+        "11533739",
+        "11473464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

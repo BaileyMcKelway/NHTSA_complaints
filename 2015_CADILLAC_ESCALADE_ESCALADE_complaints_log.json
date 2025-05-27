@@ -1,0 +1,523 @@
+{
+  "totalComplaints": 79,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 31,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to hesitate, jerk, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates",
+        "jerks",
+        "or stalls when shifting gears",
+        "the transmission slips or feels broken",
+        "the vehicle takes off in 4th gear instead of 1st gear",
+        "the transmission vibrates",
+        "jerks",
+        "and shutters when driving",
+        "pops and creaks when stopped",
+        "and clunks when launching from a stop or rolling stop."
+      ],
+      "odiNumbers": [
+        "11538189",
+        "11403682",
+        "11390718",
+        "11300785",
+        "11279601",
+        "11244297",
+        "11194815",
+        "11075968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle's brakes are defective",
+        "the brake system abruptly engages while reversing",
+        "the vehicle has a rumbling or shuddering noise",
+        "and the Check Engine Light comes on."
+      ],
+      "odiNumbers": [
+        "11317411",
+        "11075968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine shuts off while driving",
+        "the vehicle loses power",
+        "and the Check Engine Light does not come on."
+      ],
+      "odiNumbers": [
+        "11421586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Drivetrain Failure",
+      "impact": "The failure of the drivetrain can cause the vehicle to vibrate excessively, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle vibrates excessively while driving",
+        "the vibration resonates from the drivetrain",
+        "and the torque converter is defective."
+      ],
+      "odiNumbers": [
+        "11152313",
+        "11001822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction while driving, leading to accidents or loss of control.",
+      "symptoms": [
+        "The air conditioning system fails",
+        "the condenser needs to be replaced",
+        "and the entire air conditioning system needs to be redone."
+      ],
+      "odiNumbers": [
+        "11052050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CUE System Failure",
+      "impact": "The failure of the CUE system can cause safety issues, such as inoperable back-up camera, Bluetooth connectivity, and GPS, which can lead to accidents or distractions while driving.",
+      "symptoms": [
+        "Delamination of CUE screen",
+        "inoperable back-up camera",
+        "inability to access Bluetooth connectivity",
+        "inability to access GPS",
+        "radio and components inoperable",
+        "key functions of CUE display inoperable and non-responsive."
+      ],
+      "odiNumbers": [
+        "11343905",
+        "11052047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Component Failure",
+      "impact": "The failure of electrical components can cause safety issues, such as open flames, exhaust fumes entering the vehicle, and loss of power steering, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Open flame in rear hatch locking mechanism",
+        "exhaust fumes entering the vehicle",
+        "loss of power steering",
+        "temporary loss of electric power steering",
+        "steering wheel snapping back when turning."
+      ],
+      "odiNumbers": [
+        "11156720",
+        "11156913",
+        "11156479",
+        "11152363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause accidents or injuries, as the vehicle may not be able to stop in time.",
+      "symptoms": [
+        "Brakes went out completely",
+        "unable to stop in traffic",
+        "front-end collision."
+      ],
+      "odiNumbers": [
+        "11548239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Radio Head Unit Failure",
+      "impact": "The failure of the radio head unit can cause distractions while driving and may lead to accidents.",
+      "symptoms": [
+        "Radio head unit flickers and does not function properly."
+      ],
+      "odiNumbers": [
+        "11575529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause serious injuries or fatalities.",
+      "symptoms": [
+        "Vehicle burst into flames while driving."
+      ],
+      "odiNumbers": [
+        "11442174"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Hatch Locking Mechanism Failure",
+      "impact": "The failure of the rear hatch locking mechanism can cause safety issues, such as the hatch not closing properly, allowing exhaust fumes to enter the vehicle, and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Rear hatch locking mechanism failure",
+        "hatch not closing properly",
+        "exhaust fumes entering the vehicle."
+      ],
+      "odiNumbers": [
+        "11156720",
+        "11156913",
+        "11156479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Vehicle Start Failure",
+      "impact": "The failure of the vehicle to start can cause inconvenience and may lead to safety issues if the vehicle is stranded in a hazardous location.",
+      "symptoms": [
+        "Vehicle won't start."
+      ],
+      "odiNumbers": [
+        "11052051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Climate Control Failure",
+      "impact": "The failure of the climate control system can cause discomfort and may lead to safety issues, such as heatstroke or distraction while driving.",
+      "symptoms": [
+        "Heat independently turned all the way up in the rear of the vehicle without warning",
+        "causing an occupant to pass out."
+      ],
+      "odiNumbers": [
+        "10790680"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Radiator Leaks",
+      "impact": "Radiator leaks can cause engine overheating, leading to costly repairs, engine damage, and potentially even engine failure, which can leave the driver stranded or cause accidents.",
+      "symptoms": [
+        "Radiator leaks",
+        "coolant loss",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "11382906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Slipping",
+      "impact": "Transmission slipping can cause loss of power, hesitation, and difficulty shifting gears, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission slipping",
+        "hesitation",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11290043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling without warning",
+        "sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11252345",
+        "10846392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Shattering",
+      "impact": "Sunroof shattering can cause injury to occupants, damage to the vehicle, and potentially even accidents.",
+      "symptoms": [
+        "Sunroof shattering without warning",
+        "sudden loud noise",
+        "glass shards inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11162610",
+        "10787615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Exhaust Gas Leaks",
+      "impact": "Exhaust gas leaks can cause health problems, discomfort, and potentially even accidents due to driver distraction.",
+      "symptoms": [
+        "Exhaust gas entering the cabin",
+        "strong fumes",
+        "discomfort."
+      ],
+      "odiNumbers": [
+        "11151544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Cadillac CUE Infotainment System Failure",
+      "impact": "Cadillac CUE infotainment system failure can cause driver distraction, inconvenience, and potentially even accidents.",
+      "symptoms": [
+        "Cadillac CUE system malfunction",
+        "screen defects",
+        "unresponsive touchscreen."
+      ],
+      "odiNumbers": [
+        "11133046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Air Conditioning Failure",
+      "impact": "Air conditioning failure can cause discomfort, health problems, and potentially even accidents due to driver distraction.",
+      "symptoms": [
+        "Air conditioning failure",
+        "lack of cooling",
+        "overheating."
+      ],
+      "odiNumbers": [
+        "11010423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "LATCH Anchor Defect",
+      "impact": "LATCH anchor defect can cause improper installation of child restraints, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Asymmetric LATCH anchors",
+        "difficulty installing child restraints."
+      ],
+      "odiNumbers": [
+        "10909660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to lock up or become very hard to turn, making it difficult to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel becomes very hard to turn",
+        "the steering wheel locks up",
+        "the power steering system fails to assist",
+        "the vehicle is difficult to maneuver",
+        "the vehicle veers out of its lane."
+      ],
+      "odiNumbers": [
+        "11559322",
+        "11375347",
+        "11156718",
+        "11141176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Noise/Clunk",
+      "impact": "The noise or clunk from the steering column can be a sign of a larger issue with the power steering system, which can lead to a loss of control or accident if left unaddressed.",
+      "symptoms": [
+        "A knocking or popping sound comes from the steering column",
+        "the sound occurs during turns and low-speed driving",
+        "the sound is constant."
+      ],
+      "odiNumbers": [
+        "11323310",
+        "11100439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to slip or hesitate, making it difficult to control, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle vibrates or shudders",
+        "the transmission makes a hard shift",
+        "the vehicle has difficulty accelerating."
+      ],
+      "odiNumbers": [
+        "11171674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The vehicle stalling can cause a loss of control, especially if it occurs while driving at high speeds, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle stalls or shuts off",
+        "the driver assist screen turns off",
+        "the steering wheel becomes very tight and hard to turn",
+        "the vehicle has difficulty restarting."
+      ],
+      "odiNumbers": [
+        "11337396",
+        "11373186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Failure of Shocks and Struts",
+      "impact": "The premature failure of shocks and struts can cause the vehicle to vibrate, pull to one side, or lose control, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Leaking oil from shocks",
+        "vibrations while driving",
+        "pulling to one side",
+        "bouncy ride",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "11502005",
+        "11418129",
+        "11397686",
+        "11256296",
+        "11171938",
+        "11170223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause the vehicle to shudder, shake, or lose power, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Shuddering",
+        "shaking",
+        "loss of power",
+        "transmission slipping",
+        "failure to engage gears properly."
+      ],
+      "odiNumbers": [
+        "11256296",
+        "10795343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Suspension System Failure",
+      "impact": "The failure of the suspension system can cause the vehicle to lose control, vibrate, or pull to one side, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Leaking oil from shocks",
+        "vibrations while driving",
+        "pulling to one side",
+        "bouncy ride",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "11502005",
+        "11418129",
+        "11397686",
+        "11171938",
+        "11170223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle's safety features to malfunction, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Automatic seatbelt system malfunction",
+        "side detection system malfunction",
+        "radio touch screen malfunction."
+      ],
+      "odiNumbers": [
+        "11502005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction while driving, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Air conditioning system failure",
+        "high repair costs."
+      ],
+      "odiNumbers": [
+        "11502005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Defective brakes",
+        "high repair costs."
+      ],
+      "odiNumbers": [
+        "10795343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

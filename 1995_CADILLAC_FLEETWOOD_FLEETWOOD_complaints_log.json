@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of the ball joints can cause the wheel to come loose or fall off, leading to loss of control, accidents, and potential fatalities.",
+      "symptoms": [
+        "The vehicle's wheel falls off or comes loose while driving",
+        "the vehicle's wheel drops suddenly",
+        "the ball joint breaks or fails",
+        "the tapered part of the ball joint is not properly secured",
+        "the spindle has an egg-shaped and hollow appearance."
+      ],
+      "odiNumbers": [
+        "10065579",
+        "898638",
+        "890940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Panel Visibility Issues",
+      "impact": "The reduced visibility of the instrument panel can cause the driver to lose sight of important information, such as speed, fuel level, and warning lights, which can lead to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The instrument panel is difficult to see during the day",
+        "the brightness of the instrument panel decreases over time",
+        "the driver is unable to see the vehicle's speed",
+        "the dashboard reflects into the windshield",
+        "causing distortions of view."
+      ],
+      "odiNumbers": [
+        "8014401",
+        "481884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Fire",
+      "impact": "The vehicle catching fire without warning can cause significant damage, injury, or even loss of life.",
+      "symptoms": [
+        "The vehicle suddenly catches fire while parked",
+        "with no apparent reason or warning signs."
+      ],
+      "odiNumbers": [
+        "887618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Column Shift Lever Binding",
+      "impact": "The difficulty in shifting gears can cause accidents, especially when the vehicle is unable to move or respond quickly to changing traffic conditions.",
+      "symptoms": [
+        "The column shift lever is hard to move from park to drive or reverse",
+        "requiring excessive force or effort."
+      ],
+      "odiNumbers": [
+        "514160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause complete brake failure, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden loss of brake function",
+        "inability to stop the vehicle",
+        "extended stopping distance",
+        "throttle stuck in wide-open position",
+        "accidental acceleration."
+      ],
+      "odiNumbers": [
+        "734070",
+        "812709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure (Recall 95V082000)",
+      "impact": "The brake system failure can cause accidents, injuries, and fatalities due to extended stopping distance and unintended acceleration.",
+      "symptoms": [
+        "Extended stopping distance when applying the brakes",
+        "throttle stuck in wide-open position",
+        "accidental acceleration."
+      ],
+      "odiNumbers": [
+        "812709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

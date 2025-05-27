@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to not retract properly, leading to a loss of protection in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt does not retract properly",
+        "the seatbelt is fully extended and will not retract",
+        "the seatbelt retracts into the door and comes out from the bottom of the door",
+        "the seatbelt buckle fails to stay fastened."
+      ],
+      "odiNumbers": [
+        "880219",
+        "879673",
+        "821584",
+        "526968",
+        "803611",
+        "986854",
+        "801467",
+        "488939",
+        "964825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unavailability of Recall Parts",
+      "impact": "The unavailability of recall parts can prevent the necessary repairs from being made, leaving the vehicle in an unsafe condition and increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The dealer is unable to perform the recall repair due to the unavailability of parts",
+        "the owner receives a recall notice but is unable to have the repair done due to the lack of parts."
+      ],
+      "odiNumbers": [
+        "986854",
+        "801467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Bearing Failure and Inadequate Repair",
+      "impact": "The failure of the wheel bearing can cause vibrations, noise, and loss of control, leading to accidents and safety risks. Inadequate repair can exacerbate the issue, causing further damage to the vehicle and putting the driver and passengers at risk.",
+      "symptoms": [
+        "Noise from the wheel area",
+        "vibrations while driving",
+        "uneven tire wear",
+        "difficulty steering or controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "750499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Axle Failure and Engine Damage",
+      "impact": "The failure of the rear and front axles can cause loss of control, accidents, and safety risks. Engine damage can lead to costly repairs, breakdowns, and potential safety hazards.",
+      "symptoms": [
+        "Vibrations",
+        "noise",
+        "or grinding sounds from the axles",
+        "loss of power or difficulty accelerating",
+        "engine stalling or failure",
+        "difficulty steering or controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "959344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

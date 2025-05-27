@@ -1,0 +1,218 @@
+{
+  "totalComplaints": 49,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Delayed shifting",
+        "difficulty shifting into gear",
+        "grinding noise",
+        "loss of power",
+        "stalling."
+      ],
+      "odiNumbers": [
+        "11170650",
+        "10721076",
+        "10554305",
+        "10449273"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ACD/AYC Pump Failure",
+      "impact": "ACD/AYC pump failure can cause the all-wheel drive system to malfunction, leading to loss of traction and control, which can result in accidents.",
+      "symptoms": [
+        "Flashing active yaw control light",
+        "loss of traction",
+        "corrosion of the pump",
+        "failure of the pump to function."
+      ],
+      "odiNumbers": [
+        "10782469",
+        "10735401",
+        "10650095",
+        "10633477",
+        "10609206",
+        "10594032",
+        "10542370",
+        "10514953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Delayed acceleration",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "difficulty shifting into gear."
+      ],
+      "odiNumbers": [
+        "10554305",
+        "11054459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "CVT Transmission Issues",
+      "impact": "CVT transmission issues can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Delayed acceleration",
+        "whining noise",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11031968",
+        "11170650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "TC-SST Issues",
+      "impact": "TC-SST issues can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Revving up in reverse and first gear",
+        "delayed shifting."
+      ],
+      "odiNumbers": [
+        "10839114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Headlights and Tail Lights)",
+      "impact": "The failure of the headlights and tail lights can cause reduced visibility, especially at night and during inclement weather, which can lead to accidents.",
+      "symptoms": [
+        "Headlights turn off at random intervals",
+        "passenger side rear tail light is out and remains out despite changing the bulb",
+        "water leaks through a gap in the body into the light and the trunk."
+      ],
+      "odiNumbers": [
+        "11494649",
+        "10594068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ETAC ECU Failure (Engine Control Unit)",
+      "impact": "The failure of the ETAC ECU can cause the vehicle to not start, and can lead to continuous running of the cooling fan, which can cause battery drain and other electrical issues.",
+      "symptoms": [
+        "Vehicle does not start",
+        "cooling fan runs continuously even when the car engine is shut off",
+        "return signal is blocked on a communication channel wire."
+      ],
+      "odiNumbers": [
+        "11283069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Issues",
+      "impact": "The fuel system issues can cause fuel leaks, which can lead to fires, and can also cause the vehicle to stall or hesitate, leading to accidents.",
+      "symptoms": [
+        "Smell of fuel in the car",
+        "transmission service required warning",
+        "vehicle hesitates or stalls",
+        "especially when turning."
+      ],
+      "odiNumbers": [
+        "11243385"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to not start, which can leave the driver stranded.",
+      "symptoms": [
+        "Vehicle does not start",
+        "headlights do not turn off."
+      ],
+      "odiNumbers": [
+        "10594068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Subframe Corrosion and Rack and Pinion Failure",
+      "impact": "The corrosion of the subframe can cause the rack and pinion to fail, leading to a loss of power steering, making it difficult to control the vehicle, and increasing the risk of accidents.",
+      "symptoms": [
+        "Service needed warning for electric power steering",
+        "loss of power steering",
+        "vibration of the steering wheel",
+        "shaking or wobbling of the steering wheel",
+        "unusual sounds when turning",
+        "and difficulty maneuvering the steering wheel."
+      ],
+      "odiNumbers": [
+        "11484709",
+        "11258911",
+        "10910096",
+        "10664238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to lock up or become difficult to turn, making it challenging to control the vehicle, and increasing the risk of accidents.",
+      "symptoms": [
+        "Sudden loss of power steering",
+        "vibration of the steering wheel",
+        "shaking or wobbling of the steering wheel",
+        "unusual sounds when turning",
+        "and difficulty maneuvering the steering wheel."
+      ],
+      "odiNumbers": [
+        "10910096",
+        "10664238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering System Vibration",
+      "impact": "The vibration of the steering system can cause the vehicle to become unstable, making it difficult to control, and increasing the risk of accidents.",
+      "symptoms": [
+        "Vibration of the steering wheel",
+        "shaking or wobbling of the steering wheel",
+        "and difficulty maneuvering the steering wheel."
+      ],
+      "odiNumbers": [
+        "11258911",
+        "10664238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "SERVICE BRAKES",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Tire Load Capacity",
+      "impact": "The installation of tires with inadequate load capacity can lead to tire failure, including tread separation and blowouts, which can cause accidents, damage to the vehicle or trailer, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Tire tread separation",
+        "tire blowout",
+        "premature wear of brake components",
+        "loss of air pressure",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "8003628",
+        "558281",
+        "549371",
+        "548438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Shoe Wear and Brake Drum Damage",
+      "impact": "Premature wear of brake shoes and damage to brake drums can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "excessive brake dust",
+        "grinding or screeching noise when applying the brakes",
+        "vibration when braking",
+        "uneven brake wear",
+        "brake drums need frequent turning or replacement."
+      ],
+      "odiNumbers": [
+        "549371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Trailer Component Installation Issues",
+      "impact": "Improper installation of trailer components, such as water tanks or tires, can lead to accidents, damage, or loss of control while towing, posing a risk to the driver and other road users.",
+      "symptoms": [
+        "Water tank falls out while towing",
+        "trailer tires are not strong enough to support the rated axle weight load",
+        "incorrect installation of trailer components."
+      ],
+      "odiNumbers": [
+        "10142282",
+        "549371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Trailer Tire Capacity",
+      "impact": "Using lightweight truck tires on a trailer instead of trailer-specific tires can lead to tire failure, loss of control, or accidents while towing, compromising the safety of the driver and other road users.",
+      "symptoms": [
+        "Trailer tires are not strong enough to support the rated axle weight load",
+        "tire failure while towing",
+        "loss of control while towing."
+      ],
+      "odiNumbers": [
+        "549371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "SEATS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, distractions, and accidents, and may also lead to unnecessary repair costs and downtime.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbags deploy while the vehicle is stationary",
+        "airbags deploy while the vehicle is in motion",
+        "unexpected loud noise and sudden inflation of airbags."
+      ],
+      "odiNumbers": [
+        "10659091",
+        "895209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Electrical System Overheating",
+      "impact": "The overheating of the engine electrical system can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of accidents. Additionally, the melting of wires can cause electrical shorts, leading to further damage to the vehicle's electrical system.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the engine reaches high temperatures",
+        "wires are melted or damaged",
+        "the battery is drained or fails."
+      ],
+      "odiNumbers": [
+        "10060936",
+        "609511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Failure",
+      "impact": "Battery failure can cause the vehicle to stall or not start, leaving the driver stranded and potentially causing accidents or other safety issues.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the battery is dead",
+        "the battery is drained",
+        "the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "609511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Wheel Failure",
+      "impact": "The failure of the steering wheel can cause loss of control of the vehicle, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The steering wheel becomes loose or detached",
+        "the steering wheel is difficult to turn",
+        "the steering wheel vibrates or shakes",
+        "the steering wheel makes unusual noises",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "607752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Seat Position Memory Computer Failure",
+      "impact": "The failure of the power seat position memory computer can cause inconvenience and discomfort to the driver and passengers, potentially leading to distractions while driving.",
+      "symptoms": [
+        "The power seat memory function does not work",
+        "the seat does not return to its previously saved position",
+        "the seat adjustment buttons do not respond",
+        "the seat moves unexpectedly",
+        "error messages appear on the dashboard display."
+      ],
+      "odiNumbers": [
+        "607752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Bearing Failure",
+      "impact": "The failure of the wheel bearing can cause the wheel to seize, leading to loss of control, accidents, and potentially resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Grinding or screeching noise from the wheel",
+        "vibration or shaking of the steering wheel",
+        "uneven tire wear",
+        "wheel lock-up or seizure",
+        "difficulty steering",
+        "pulling or drifting to one side."
+      ],
+      "odiNumbers": [
+        "608100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

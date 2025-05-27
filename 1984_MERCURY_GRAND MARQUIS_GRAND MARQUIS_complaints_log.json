@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure to Start",
+      "impact": "The failure of the engine to start can leave the driver stranded, causing inconvenience and potentially leading to safety risks.",
+      "symptoms": [
+        "The engine fails to start after parking overnight",
+        "no apparent cause",
+        "battery and alternator checked with no issues found."
+      ],
+      "odiNumbers": [
+        "816383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause significant damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Flames coming from under the hood",
+        "smoke emanating from underneath the hood",
+        "vehicle fire near the motor or firewall",
+        "sudden explosion or burning of components under the hood and dash."
+      ],
+      "odiNumbers": [
+        "986233",
+        "983849",
+        "982928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failure can cause the engine to stall or fail to start, leading to inconvenience and potentially safety risks.",
+      "symptoms": [
+        "Ignition switch fails",
+        "engine stalls or fails to start."
+      ],
+      "odiNumbers": [
+        "501820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "The failure of the EGR (Exhaust Gas Recirculation) valve can cause the engine to stall, hesitate, or idle rough, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Engine stalls",
+        "engine hesitates",
+        "rough engine idle",
+        "high engine idle speed",
+        "engine stalls when turning",
+        "difficulty keeping the vehicle from stalling when coming to a stop."
+      ],
+      "odiNumbers": [
+        "558010",
+        "821810",
+        "502774",
+        "501820",
+        "486389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause loss of control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without warning",
+        "the throttle gets stuck",
+        "the engine continues to rev even after taking foot off the accelerator",
+        "the vehicle takes off unexpectedly",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "558010",
+        "829142",
+        "820135",
+        "481258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headliner and Sun Visor Failure",
+      "impact": "The failure of the headliner and sun visors can obstruct the driver's vision, increasing the risk of accidents and compromising vehicle safety.",
+      "symptoms": [
+        "The headliner fabric is hanging down",
+        "the sun visors are hanging down",
+        "the headliner is loose",
+        "the sun visors are blocking visibility",
+        "the headliner is obstructing vision."
+      ],
+      "odiNumbers": [
+        "502774",
+        "501820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

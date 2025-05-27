@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure leading to Vehicle Stalling and Fire",
+      "impact": "The failure of the electrical system can cause the vehicle to stall at any speed, leading to a loss of control, and in some cases, catch on fire, posing a significant risk to the driver and passengers.",
+      "symptoms": [
+        "The vehicle stalls at any speed",
+        "the vehicle catches on fire",
+        "electrical short",
+        "ignition module failure",
+        "output wire failure",
+        "ignition switch failure",
+        "wiring burning",
+        "popping and cracking sounds from the wiring system."
+      ],
+      "odiNumbers": [
+        "874725",
+        "801324",
+        "986338",
+        "984997",
+        "984906",
+        "984085",
+        "983973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Exhaust Manifold",
+      "impact": "A cracked exhaust manifold can cause exhaust fumes to leak, potentially leading to carbon monoxide poisoning in the passenger compartment, and can also cause engine stalling or fires, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Exhaust fumes leak",
+        "cracked exhaust manifold",
+        "carbon monoxide leak into passenger compartment",
+        "engine stalling",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "10027148",
+        "823579",
+        "553315"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of vehicle control, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Vehicle stalls at any time",
+        "any speed",
+        "unable to determine cause."
+      ],
+      "odiNumbers": [
+        "899526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Tank Selector Valve Malfunction",
+      "impact": "The malfunction of the dual tank selector valve can cause the tanks to overpressurize, leading to fuel spills and potentially resulting in a fire.",
+      "symptoms": [
+        "Fuel spill over",
+        "overfilling of one tank",
+        "overflow in the second tank",
+        "fuel leak at the filler neck",
+        "transfer valve fills up the wrong tank",
+        "valve leaks when the tank is full."
+      ],
+      "odiNumbers": [
+        "832108",
+        "824327",
+        "961908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

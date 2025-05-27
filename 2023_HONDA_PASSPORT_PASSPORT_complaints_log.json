@@ -1,0 +1,184 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "LANE DEPARTURE",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Unintended braking",
+        "brake pedal feels soft or spongy",
+        "brake pedal does not respond immediately",
+        "loud booming sound coming from the wheel area",
+        "brake pedal makes a rattling sound",
+        "vehicle shimmies or rattles abnormally",
+        "ABS sensor full of grease",
+        "brake warning light flashes for no reason",
+        "forward collision warning does not work properly",
+        "collision mitigation system is not reliable."
+      ],
+      "odiNumbers": [
+        "11560958",
+        "11556931",
+        "11532949",
+        "11526958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Emergency Braking System Malfunction",
+      "impact": "The malfunction of the emergency braking system can cause the vehicle to suddenly stop or slow down without warning, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Unintended braking",
+        "vehicle suddenly stops or slows down without warning",
+        "wheel starts shaking",
+        "front rotors become warped",
+        "rumbling brakes",
+        "brake warning light flashes for no reason."
+      ],
+      "odiNumbers": [
+        "11556931",
+        "11560958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Component Failure",
+      "impact": "The failure of brake components, such as caliper bolts, can cause the brakes to fail, leading to loss of control and increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Loud booming sound coming from the wheel area",
+        "brake pedal does not respond immediately",
+        "caliper bolt detaches",
+        "caliper falls onto the wheel",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "11532949",
+        "11526958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lane Keeping Assist System (LKAS) Malfunction",
+      "impact": "The malfunction of the LKAS can cause the vehicle to suddenly steer into another lane or towards a curb, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The vehicle suddenly steers into another lane or towards a curb",
+        "the vehicle's brakes suddenly engage without warning",
+        "the vehicle's lane departure warning system falsely triggers",
+        "the vehicle's autonomous emergency braking system (AEB) randomly slams on the brakes."
+      ],
+      "odiNumbers": [
+        "11581670",
+        "11578234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Autonomous Emergency Braking (AEB) System Failure",
+      "impact": "The failure of the AEB system can cause the vehicle to suddenly and unnecessarily brake, increasing the risk of rear-end collisions or accidents.",
+      "symptoms": [
+        "The vehicle's brakes suddenly engage without warning",
+        "the vehicle's AEB system randomly slams on the brakes",
+        "the vehicle's AEB system fails to engage in emergency situations."
+      ],
+      "odiNumbers": [
+        "11578234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Diagnostic and Repair by Dealership",
+      "impact": "The inability of dealerships to diagnose and repair issues with the LKAS and AEB systems can lead to continued safety risks for drivers and passengers.",
+      "symptoms": [
+        "Dealerships are unable to diagnose the problem",
+        "dealerships claim that the system is functioning as intended despite driver reports of malfunction",
+        "dealerships are unable to perform necessary repairs or maintenance."
+      ],
+      "odiNumbers": [
+        "11581670",
+        "11578234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Automatic Braking System",
+      "impact": "The faulty automatic braking system can cause sudden and unexpected stops, leading to accidents, injuries, and potentially life-threatening situations.",
+      "symptoms": [
+        "The vehicle brakes abruptly while driving",
+        "even when there are no objects in the surrounding area",
+        "causing sudden stops and potentially leading to accidents; the system may also trigger false alarms",
+        "causing unnecessary braking."
+      ],
+      "odiNumbers": [
+        "11571142",
+        "11557516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Lag and Failure",
+      "impact": "The transmission lag and failure can cause the vehicle to hesitate or fail to accelerate, leading to accidents, especially when merging into traffic or driving uphill.",
+      "symptoms": [
+        "The transmission lags when going slow",
+        "the vehicle does not accelerate when the gas pedal is pushed",
+        "especially when starting from a stop on a hill; the vehicle may feel like it's not going into gear properly or not recognizing the gears."
+      ],
+      "odiNumbers": [
+        "11557516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Radio and Infotainment System Malfunction",
+      "impact": "The malfunctioning radio and infotainment system can cause distractions while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The radio has static and flashes white when operating with a Bluetooth connection (Android product); the display may also flash off and on",
+        "causing distractions and potentially triggering epileptic episodes."
+      ],
+      "odiNumbers": [
+        "11571142",
+        "11557516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera and Sensor Failure",
+      "impact": "The failure of the backup camera and sensors can increase the risk of accidents and injuries when reversing.",
+      "symptoms": [
+        "The backup camera is not functioning",
+        "and the backup sensors are not functioning",
+        "making it difficult to detect objects behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11571142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

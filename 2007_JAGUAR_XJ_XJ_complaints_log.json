@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Train Failure",
+      "impact": "The failure of the power train can cause the vehicle to lose power, making it difficult or impossible to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the transmission slips or hesitates",
+        "the vehicle makes unusual noises",
+        "the vehicle vibrates or shakes",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10514619",
+        "10350499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, making it difficult or impossible to stop, which can lead to accidents.",
+      "symptoms": [
+        "The brakes squeak or make unusual noises",
+        "the brakes vibrate or pulse",
+        "the brakes feel soft or spongy",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "10514619",
+        "10350499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Suspension Failure",
+      "impact": "The failure of the rear suspension can cause the vehicle to lose stability, making it difficult to control, which can lead to accidents.",
+      "symptoms": [
+        "The rear of the vehicle falls or sags",
+        "the vehicle makes unusual noises from the rear",
+        "the vehicle vibrates or shakes",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10212524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Bushing Failure",
+      "impact": "The failure of the bushings can cause the vehicle to make unusual noises, vibrate, or lose stability, which can lead to accidents.",
+      "symptoms": [
+        "The vehicle makes unusual noises",
+        "the vehicle vibrates or shakes",
+        "the vehicle is difficult to control",
+        "the bushings wear out prematurely."
+      ],
+      "odiNumbers": [
+        "10514619",
+        "10350499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can lead to the airbag failing to deploy in the event of a crash, increasing the risk of injury or fatality. Additionally, faulty sensors can cause incorrect warnings or indicators, leading to driver distraction and potential accidents.",
+      "symptoms": [
+        "The airbag warning light remains illuminated on the dashboard",
+        "the passenger airbag sensor indicator light comes on and will not turn off",
+        "the airbag fails to deploy in the event of a crash",
+        "incorrect warnings or indicators appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "10654457",
+        "10509041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag to deploy in the event of a crash can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "The airbag does not deploy in the event of a crash",
+        "the driver and passengers are injured in a crash",
+        "the vehicle's airbag system fails to function properly."
+      ],
+      "odiNumbers": [
+        "10654457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to suddenly and unexpectedly speed up, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "RPMs dramatically increase",
+        "the vehicle surges forward",
+        "the warning indicators on the instrument panel do not illuminate",
+        "the vehicle may continue to accelerate even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10258326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "A malfunctioning cruise control system can cause the vehicle to unexpectedly change speed, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The cruise control system automatically adjusts speed beyond normal operating procedures",
+        "the cruise control speed decreases or increases without warning",
+        "the cruise control system malfunctions when changing lanes",
+        "the cruise control system does not respond to adjustments."
+      ],
+      "odiNumbers": [
+        "10188608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

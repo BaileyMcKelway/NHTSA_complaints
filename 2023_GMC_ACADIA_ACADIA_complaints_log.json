@@ -1,0 +1,157 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "ENGINE",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure and CAN Bus Communication Error",
+      "impact": "The failure of the transmission and CAN bus communication system can cause the vehicle to shut off, stall, or accelerate independently, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The vehicle shuts off",
+        "stalls",
+        "or accelerates independently",
+        "the transmission warning light is illuminated",
+        "the cluster displays multiple warning lights",
+        "the PRNDL buttons are flashing",
+        "the vehicle goes into limp home mode",
+        "the fuel tank reading displays \"E\" despite being full",
+        "the vehicle is unable to restart",
+        "and the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11561900",
+        "11494274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to catch fire, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "and the electrical system is deemed to be the cause of the failure."
+      ],
+      "odiNumbers": [
+        "11526947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Solenoid Switch Failure",
+      "impact": "The failure of the solenoid switch can cause the vehicle to stall, hesitate to respond to brake pedal input, and accelerate independently, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "hesitates to respond to brake pedal input",
+        "and accelerates independently",
+        "and the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11504737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto High Beam Assist Failure",
+      "impact": "The failure of the auto high beam assist system can cause glare to oncoming traffic, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The high beams do not switch to low beams when approaching oncoming traffic",
+        "the high beams cannot be manually switched to low beams",
+        "the system fails to detect oncoming traffic."
+      ],
+      "odiNumbers": [
+        "11584011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Blind Spot Monitoring System False Alarms",
+      "impact": "False alarms from the blind spot monitoring system can be distracting and potentially lead to accidents or near-misses.",
+      "symptoms": [
+        "The blind spot monitoring system indicator lights up or alerts the driver for no apparent reason",
+        "the system fails to detect actual vehicles in the blind spot."
+      ],
+      "odiNumbers": [
+        "11584011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended movement of the vehicle can cause accidents, injuries, and damage to property, as the vehicle may move unexpectedly without the driver's input.",
+      "symptoms": [
+        "The vehicle lunges forward or moves unexpectedly while in park",
+        "the brake is released",
+        "and the vehicle collides with objects or other vehicles",
+        "resulting in accidents and injuries."
+      ],
+      "odiNumbers": [
+        "11574065"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Jumping",
+      "impact": "The transmission slipping and jumping can cause loss of control, accidents, and damage to the vehicle, potentially leading to safety risks and financial losses.",
+      "symptoms": [
+        "The transmission slips when accelerating",
+        "jumps when downshifting",
+        "and jumps after placing the car into drive",
+        "resulting in an unstable and unpredictable driving experience."
+      ],
+      "odiNumbers": [
+        "11548177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Diagnosis and Repair by Dealership",
+      "impact": "The failure of dealerships to accurately diagnose and repair the transmission issue can lead to prolonged exposure to safety risks, increased frustration, and financial losses for vehicle owners.",
+      "symptoms": [
+        "Vehicle owners are told that the issue is resolved",
+        "but the problem persists",
+        "leading to a lack of trust in the dealership and the manufacturer."
+      ],
+      "odiNumbers": [
+        "11548177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Power Train Issue",
+      "impact": "The delay in recall repair for the power train issue can lead to potential safety risks, as the vehicle may experience unexpected problems while driving, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue has not yet caused a failure."
+      ],
+      "odiNumbers": [
+        "11521410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "EQUIPMENT",
+    "TIRES",
+    "WHEELS",
+    "SUSPENSION",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioning Thermostat Failure",
+      "impact": "The failure of the air conditioning thermostat can cause the air conditioning system to malfunction, leading to discomfort and distraction while driving, which can increase the risk of accidents.",
+      "symptoms": [
+        "The air conditioning blows warm air",
+        "the air conditioning does not turn on",
+        "the air conditioning temperature cannot be adjusted",
+        "the air conditioning compressor is not engaging."
+      ],
+      "odiNumbers": [
+        "515486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Jack Failure",
+      "impact": "The failure of the front jack can make it difficult or impossible to change a tire, leaving the driver stranded and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The front jack does not lift the vehicle",
+        "the front jack is difficult to operate",
+        "the front jack collapses or falls while in use",
+        "the front jack is corroded or rusted."
+      ],
+      "odiNumbers": [
+        "515486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Insufficient Clearance between Tire and Propane Lines",
+      "impact": "The proximity of the right rear tire to the propane lines can cause damage to the lines when the tire fails, leading to a potential fire hazard or explosion.",
+      "symptoms": [
+        "Tire failure",
+        "damage to propane lines",
+        "risk of fire or explosion."
+      ],
+      "odiNumbers": [
+        "702901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Failure",
+      "impact": "Tire failure can lead to loss of control, accidents, and potentially cause damage to surrounding components, such as propane lines.",
+      "symptoms": [
+        "Tire blowout",
+        "tire rupture",
+        "loss of tire pressure",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "702901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Short in Wheel Well Causing Brake Failure",
+      "impact": "An electrical short in the wheel well can cause the brakes to become inoperative, leading to a loss of vehicle control and increasing the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop than usual",
+        "the vehicle pulls to one side while braking",
+        "the brake warning light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "515486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Missing or Loose Shock Absorbers",
+      "impact": "The absence or looseness of shock absorbers can compromise the vehicle's stability and handling, leading to reduced control and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle bounces or oscillates excessively after hitting bumps",
+        "the vehicle's ride is rough or unstable",
+        "the vehicle's tires wear unevenly",
+        "the vehicle's suspension makes loud noises or clunking sounds."
+      ],
+      "odiNumbers": [
+        "515486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

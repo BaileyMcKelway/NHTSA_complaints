@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trailer Brake System Failure",
+      "impact": "The failure of the trailer brake system can cause the vehicle to lose braking ability, leading to accidents or near-misses, especially when towing heavy trailers.",
+      "symptoms": [
+        "The brake pedal rapidly goes to the floor",
+        "the vehicle freewheels through a stop",
+        "the brake pedal overheats",
+        "the brake pedal does not respond properly",
+        "the vehicle is unable to slow down or stop as expected",
+        "warning lights may illuminate with a \"service trailer brakes\" message."
+      ],
+      "odiNumbers": [
+        "11472456",
+        "11458637",
+        "11321259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose power, resulting in a loss of power steering and power brakes, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "shuts down",
+        "or dies while driving",
+        "especially when driving uphill; loss of power steering and power brakes; warning indicators illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11281407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS and Brake System Failure",
+      "impact": "The failure of the ABS and brake system can cause the vehicle to lose braking functionality, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS",
+        "Service Trailer Brake",
+        "Service Power Steering",
+        "and Service Stabilitrak warning indicators illuminate; loss of braking functionality; failure occurs while towing a trailer or not towing a trailer."
+      ],
+      "odiNumbers": [
+        "11278880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wheel Speed Sensor Failure",
+      "impact": "The failure of the wheel speed sensor can cause the vehicle to lose braking functionality and stability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS",
+        "Service Trailer Brake",
+        "Service Power Steering",
+        "and Service Stabilitrak warning indicators illuminate; loss of braking functionality; failure occurs while towing a trailer or not towing a trailer."
+      ],
+      "odiNumbers": [
+        "11278880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Vibration",
+      "impact": "The vibration of the steering system can cause the driver to lose control of the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "The steering wheel shakes or vibrates while driving at high speeds (70-78 mph) on the highway."
+      ],
+      "odiNumbers": [
+        "11075573"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "HID Headlight Flickering or Shaking",
+      "impact": "The flickering or shaking of the HID headlights can cause distraction to the driver and other road users, potentially leading to accidents, especially when driving on rough road surfaces.",
+      "symptoms": [
+        "The HID headlights flicker or shake like blinking eyes",
+        "dim and brighten",
+        "or exhibit an on/off pattern while driving on bumpy surfaces."
+      ],
+      "odiNumbers": [
+        "11174779",
+        "11081400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "EQUIPMENT",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to stall or lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stops moving while the engine is still running",
+        "the transmission slips when shifting",
+        "the transmission fails to engage",
+        "difficulty shifting gears",
+        "loss of power while driving."
+      ],
+      "odiNumbers": [
+        "859750",
+        "603330",
+        "478833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Ignition Failure",
+      "impact": "The failure of the electronic ignition system can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the ignition system fails to function",
+        "the vehicle experiences intermittent starting issues."
+      ],
+      "odiNumbers": [
+        "603330",
+        "468583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a fire in the engine compartment, leading to a risk of injury or property damage.",
+      "symptoms": [
+        "A fire breaks out in the engine compartment",
+        "electrical short circuits",
+        "burning of wires and hoses",
+        "engine stalling or failure."
+      ],
+      "odiNumbers": [
+        "982217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can lead to a loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS system light illuminates on the dashboard",
+        "the brake light illuminates on the dashboard",
+        "brake fluid leaks from the system",
+        "the vehicle's brakes fail to function properly."
+      ],
+      "odiNumbers": [
+        "10237637",
+        "603330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioner Electrical System Malfunction",
+      "impact": "The malfunction of the air conditioner's electrical system can cause the air conditioner to remain on even when the vehicle is turned off, leading to battery drain and potentially causing a fire hazard. Additionally, the intermittent failure of the air conditioner can cause discomfort and distraction while driving.",
+      "symptoms": [
+        "The air conditioner does not turn off when the vehicle is turned off",
+        "the air conditioner cuts off intermittently",
+        "the air conditioner only blows on low",
+        "the air conditioner fails to operate altogether",
+        "the air conditioner is affected by the use of other electrical accessories such as the blinker or wipers."
+      ],
+      "odiNumbers": [
+        "701813",
+        "603330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Window Motor Failure",
+      "impact": "The failure of the power window motor can cause inconvenience and discomfort to the driver and passengers, and in some cases, may obstruct the driver's view, increasing the risk of accidents.",
+      "symptoms": [
+        "Windows do not roll up or down",
+        "windows roll up or down slowly",
+        "windows make a grinding or screeching noise when operating",
+        "windows stop working suddenly."
+      ],
+      "odiNumbers": [
+        "603330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear View Mirror Mounting Failure",
+      "impact": "The failure of the rear view mirror mounting can cause the mirror to fall off the windshield, obstructing the driver's rear view and increasing the risk of accidents.",
+      "symptoms": [
+        "The rear view mirror falls off the windshield",
+        "the rear view mirror is loose or unstable",
+        "the rear view mirror is difficult to adjust or stays in place."
+      ],
+      "odiNumbers": [
+        "603330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

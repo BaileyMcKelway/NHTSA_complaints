@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "VEHICLE SPEED CONTROL",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to stall or shut down while driving, leading to a loss of control and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle stalls or shuts down while driving",
+        "the dashboard displays warning messages such as \"Check Hybrid System\" or \"HEV System Warning\"",
+        "the engine stops running",
+        "the steering wheel becomes stiff",
+        "the vehicle loses motive power."
+      ],
+      "odiNumbers": [
+        "11503599",
+        "11228890",
+        "11220953",
+        "11205076",
+        "11115845",
+        "11102416",
+        "11067129",
+        "11015068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to stall or shut down while driving, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The \"Check Hybrid System - Turn Off Engine\" message displays on the instrument panel",
+        "the vehicle stalls or shuts down",
+        "the engine seizes",
+        "the vehicle decelerates",
+        "the hybrid battery dies",
+        "the HEV system fails",
+        "the engine knocks or makes loud noises",
+        "the vehicle lurches under acceleration."
+      ],
+      "odiNumbers": [
+        "11501051",
+        "11472409",
+        "11458764",
+        "11096524",
+        "11032346",
+        "11006507",
+        "10992951",
+        "10978923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to stall or shut down while driving, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine seizes",
+        "the engine throws a rod through the motor",
+        "the engine sounds like it's going to blow up",
+        "the valves are very loud",
+        "the engine lurches under acceleration."
+      ],
+      "odiNumbers": [
+        "11032346",
+        "11096524",
+        "10992951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hybrid Battery Failure",
+      "impact": "The failure of the hybrid battery can cause the vehicle to stall or shut down while driving, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The hybrid battery dies",
+        "the vehicle is unable to start",
+        "the hybrid system fails."
+      ],
+      "odiNumbers": [
+        "11006507",
+        "10992951",
+        "10978923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration of the vehicle can cause loss of control, accidents, and injuries, potentially leading to serious consequences.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "sudden acceleration",
+        "loss of control",
+        "inability to stop the vehicle",
+        "unusual rubber burning smell from the air vents."
+      ],
+      "odiNumbers": [
+        "11141533",
+        "10625866",
+        "10620789",
+        "10608382",
+        "10615352",
+        "10552403",
+        "10608739",
+        "10588733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Steering System Failure",
+      "impact": "The failure of the electronic steering system can cause the vehicle to drift or wander while driving, making it difficult to control, especially at high speeds, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel feels sensitive or jolts while driving",
+        "the vehicle wanders or drifts while driving",
+        "especially at high speeds",
+        "the vehicle is difficult to keep in a straight line",
+        "the vehicle over-compensates when trying to correct steering",
+        "the vehicle is affected by wind",
+        "making it difficult to control."
+      ],
+      "odiNumbers": [
+        "11113426",
+        "10939181",
+        "10714182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

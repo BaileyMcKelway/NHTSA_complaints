@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Differential Failure",
+      "impact": "The failure of the rear differential can cause a loud noise, vibration, and potentially lead to loss of control, accidents, or strand the driver, especially at high speeds.",
+      "symptoms": [
+        "Loud humming or grinding noise from the rear of the vehicle",
+        "noise increases with speed",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "11390556",
+        "11222920",
+        "11171158",
+        "11112981"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Rear Differential Failure",
+      "impact": "The premature failure of the rear differential can cause loss of vehicle control, leading to accidents, and result in costly repairs.",
+      "symptoms": [
+        "The rear differential fails prematurely",
+        "often requiring replacement",
+        "and may be accompanied by unusual noises",
+        "vibrations",
+        "or difficulty driving."
+      ],
+      "odiNumbers": [
+        "11419518",
+        "11166745",
+        "11062291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure and Leaking",
+      "impact": "The failure of the fuel pump can cause fuel to leak, leading to a significant risk of fire, which can result in serious injury or death.",
+      "symptoms": [
+        "Fuel leaking from the fuel tank",
+        "large puddle of fuel under the vehicle",
+        "strong gasoline smell inside and outside the vehicle",
+        "no warning lamps or indicators."
+      ],
+      "odiNumbers": [
+        "11505892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

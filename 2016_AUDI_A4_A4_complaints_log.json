@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause fuel leaks, which can lead to a fire hazard, especially when the leaked fuel comes into contact with hot engine components, posing a significant risk to vehicle safety and potentially causing accidents.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump",
+        "fuel pump failure",
+        "fuel leaks around the fuel injectors",
+        "fuel odor inside or outside the vehicle."
+      ],
+      "odiNumbers": [
+        "11235269",
+        "11228302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause unpleasant odors, debris, and particles to be released into the cabin, potentially causing discomfort and health issues for occupants. In addition, the malfunctioning system can lead to electrical system failures, which can increase the risk of accidents or fires.",
+      "symptoms": [
+        "Burning odor emerging from the vents",
+        "excessive debris and particles released from the air conditioning system",
+        "unpleasant smells",
+        "difficulty logging into the Audi portal",
+        "software synchronization issues."
+      ],
+      "odiNumbers": [
+        "11128009",
+        "11110339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Wiring Issues",
+      "impact": "The electrical system wiring issues can cause a range of problems, including malfunctioning of critical systems, increased risk of accidents, and potential fires. The failure to receive recall notifications can lead to delayed repairs, exacerbating the issue.",
+      "symptoms": [
+        "Malfunctioning computer MMI",
+        "inability to log into the Audi portal",
+        "software synchronization issues",
+        "electrical system failures."
+      ],
+      "odiNumbers": [
+        "11128009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of Recall Repair Parts for Engine and Engine Cooling",
+      "impact": "The unavailability of recall repair parts for the engine and engine cooling system can lead to a delay in addressing a potential safety issue, which can increase the risk of engine failure, overheating, or other related problems.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for a recall repair."
+      ],
+      "odiNumbers": [
+        "11111182",
+        "11105180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Performance Issues and Vibration",
+      "impact": "The engine performance issues and vibration can cause loss of power, difficulty accelerating, and shaking, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle takes a while to accelerate",
+        "feels like it has no power",
+        "shakes or vibrates",
+        "especially when going uphill",
+        "noise coming from the engine",
+        "vibration and noise increase with speed."
+      ],
+      "odiNumbers": [
+        "11110017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed Repair of Safety Recall (Fire Risk)",
+      "impact": "The delayed repair of the safety recall can cause a fire risk, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "No symptoms reported",
+        "but the recall notice states that the vehicle can catch fire."
+      ],
+      "odiNumbers": [
+        "11103075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

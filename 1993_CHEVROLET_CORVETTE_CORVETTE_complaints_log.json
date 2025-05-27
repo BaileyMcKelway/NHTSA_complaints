@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Brake Booster Failure",
+      "impact": "The failure of the power brake booster can cause a loss of power-assisted braking, making it difficult to stop the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the vehicle takes longer to stop",
+        "the brakes make a loud clunking noise",
+        "the brake pedal pulsates or vibrates."
+      ],
+      "odiNumbers": [
+        "10307255",
+        "10029451",
+        "860884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Caliper Mounting Hardware Failure",
+      "impact": "The failure of the caliper mounting hardware can cause the caliper to detach, leading to a loss of braking capability, which can result in accidents or injuries.",
+      "symptoms": [
+        "The brakes make a loud clunking noise",
+        "the brake pedal feels spongy or soft",
+        "the vehicle takes longer to stop",
+        "the caliper becomes detached from the rotor."
+      ],
+      "odiNumbers": [
+        "814593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "OptiSpark Distributor Failure",
+      "impact": "The failure of the OptiSpark distributor can cause the engine to misfire, backfire, and stall, leading to a potential safety hazard, especially when driving at high speeds.",
+      "symptoms": [
+        "Engine misses",
+        "backfires",
+        "and stalls continuously after warming up",
+        "engine runs rough",
+        "engine skips and operates as though it is on fewer cylinders."
+      ],
+      "odiNumbers": [
+        "11427195",
+        "10421289",
+        "849254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Malfunction - Unintended Acceleration",
+      "impact": "The transmission malfunction can cause unintended acceleration, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates at high speed without driver input",
+        "the throttle sticks in an open position",
+        "the braking system is inoperative",
+        "the vehicle surges forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "828227",
+        "541688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure - Metal Filings in Valve Body",
+      "impact": "The presence of metal filings in the valve body of the transmission can cause the governor to stay wide open, leading to unintended acceleration and loss of vehicle control.",
+      "symptoms": [
+        "The vehicle surges forward unexpectedly",
+        "the transmission malfunctions",
+        "metal filings are present in the valve body."
+      ],
+      "odiNumbers": [
+        "541688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Malfunction - Incorrect Speed Reading",
+      "impact": "The speedometer malfunction can cause the driver to be unaware of the vehicle's actual speed, potentially leading to accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer continues to read at a certain speed although the car is at a full stop",
+        "incorrect speed readings on the speedometer."
+      ],
+      "odiNumbers": [
+        "716653"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

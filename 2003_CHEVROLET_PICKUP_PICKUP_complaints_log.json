@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL/PROPULSION SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Loss of Brake Pedal and Extended Stopping Distance",
+      "impact": "The sudden loss of brake pedal can cause extended stopping distances, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor without warning",
+        "the vehicle experiences extended stopping distances",
+        "the ABS and parking brake lights illuminate",
+        "the \"Service Brake System\" warning appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "10088033",
+        "10072288",
+        "10012258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "A sudden tire blowout can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "The tire sidewall fails while driving",
+        "often at high speeds",
+        "resulting in a sudden loss of air pressure and potential loss of control."
+      ],
+      "odiNumbers": [
+        "10073844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spare Tire Lowering Mechanism Failure",
+      "impact": "The inability to access the spare tire can leave the driver stranded in the event of a flat tire, potentially causing delays, inconvenience, and safety risks.",
+      "symptoms": [
+        "The bar used to lower the spare tire from beneath the vehicle does not slide into the access slot",
+        "making it difficult or impossible to access the spare tire."
+      ],
+      "odiNumbers": [
+        "10037914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Leak",
+      "impact": "A fuel system leak can cause fuel to spill onto the ground, creating a fire hazard and potentially leading to a vehicle fire, which can result in serious injury or death.",
+      "symptoms": [
+        "Fuel smell or odor inside or outside the vehicle",
+        "fuel dripping or leaking from the vehicle",
+        "fuel gauge fluctuating or not reading accurately",
+        "engine stalling or difficulty starting",
+        "warning lights or messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "10672403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Failure",
+      "impact": "The failure of the accelerator pedal can cause a sudden loss of power, making it difficult to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The accelerator pedal feels stuck or stuck to the floor",
+        "the accelerator pedal does not respond to input",
+        "the vehicle suddenly loses power",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "10115018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Sidewall Disintegration",
+      "impact": "The sudden and catastrophic failure of the tire sidewall can lead to a loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Bubbles or blisters forming on the outside of the tire",
+        "sudden tire blowout",
+        "loss of tire pressure",
+        "tire failure while driving."
+      ],
+      "odiNumbers": [
+        "10092943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Side View Mirrors",
+      "impact": "The limited visibility provided by the side view mirrors can increase the risk of accidents, particularly when towing or hauling large loads, as the driver may not be able to see obstacles or vehicles in the blind spot.",
+      "symptoms": [
+        "Limited visibility",
+        "inability to see the rear of the vehicle",
+        "inadequate extension of the side view mirrors."
+      ],
+      "odiNumbers": [
+        "10092943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

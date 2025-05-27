@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The malfunctioning infotainment system can cause distractions while driving, leading to accidents, and also result in inconvenience and frustration for the driver.",
+      "symptoms": [
+        "The radio turns on loudly by itself",
+        "the volume control malfunctions",
+        "the USB port stops working or shorts out",
+        "the infotainment system reboots randomly",
+        "the audio system cuts out or fails to produce sound",
+        "the system requires frequent rebooting to function."
+      ],
+      "odiNumbers": [
+        "11422521",
+        "11311952",
+        "11252568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Advanced Emergency Braking (AEB) System Malfunction",
+      "impact": "The malfunctioning AEB system can lead to a failure to detect potential collisions, increasing the risk of accidents, and can also cause unnecessary warnings and distractions while driving.",
+      "symptoms": [
+        "The AEB warning light stays on and won't turn off",
+        "the system fails to detect potential collisions",
+        "the system provides false warnings."
+      ],
+      "odiNumbers": [
+        "11422521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erroneous Automatic Braking System Activation",
+      "impact": "The sudden and unexpected activation of the automatic braking system can cause the vehicle to abruptly stop, increasing the risk of accidents, injuries, or even fatalities, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle suddenly stops without warning",
+        "the ABS light illuminates on the dashboard",
+        "the braking system activates without any obstacles or vehicles in the vicinity",
+        "the vehicle experiences unexplained braking or deceleration."
+      ],
+      "odiNumbers": [
+        "11318895",
+        "11270590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Leaks and Failure",
+      "impact": "Engine oil leaks and failure can cause the engine to seize, leading to costly repairs or even engine replacement, and potentially causing accidents due to loss of power or stalling.",
+      "symptoms": [
+        "Oil level warning light illuminates",
+        "smoke appears under the hood",
+        "low or no oil in the engine",
+        "engine smoke continues after adding oil."
+      ],
+      "odiNumbers": [
+        "11470259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intake Gasket Failure",
+      "impact": "Intake gasket failure can cause engine oil leaks, leading to engine damage and potentially causing accidents due to loss of power or stalling.",
+      "symptoms": [
+        "Oil level warning light illuminates",
+        "smoke appears under the hood",
+        "low or no oil in the engine",
+        "engine smoke continues after adding oil."
+      ],
+      "odiNumbers": [
+        "11470259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Spark Plug Failure",
+      "impact": "Spark plug failure can cause engine misfires, leading to decreased engine performance and potentially causing accidents due to loss of power or stalling.",
+      "symptoms": [
+        "Engine misfires",
+        "decreased engine performance",
+        "rough engine idle."
+      ],
+      "odiNumbers": [
+        "11470259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

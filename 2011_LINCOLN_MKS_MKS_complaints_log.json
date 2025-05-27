@@ -1,0 +1,175 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering Failure",
+      "impact": "The failure of the electric power steering system can cause the steering wheel to become extremely hard to turn, making it difficult or impossible to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The steering wheel becomes firm or hard to turn",
+        "the power steering assist fault message appears on the dashboard",
+        "the vehicle pulls to one side",
+        "the brakes and traction control system malfunction",
+        "and multiple failure lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11584452",
+        "11573415",
+        "11571167",
+        "11563746",
+        "11556262",
+        "11552929",
+        "11537862",
+        "11535415",
+        "11362454",
+        "11080615",
+        "11025218",
+        "10956498",
+        "10917850",
+        "10721926",
+        "10658476",
+        "10627690",
+        "10563543"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Control Module Failure",
+      "impact": "The failure of the power steering control module can cause the power steering system to malfunction, leading to a loss of power assist, making it difficult or impossible to steer the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The power steering system fails",
+        "the steering wheel becomes extremely hard to turn",
+        "the power steering assist fault message appears on the dashboard",
+        "and the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "11556262",
+        "10917850",
+        "10627690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Gear Failure",
+      "impact": "The failure of the steering gear can cause the power steering system to malfunction, leading to a loss of power assist, making it difficult or impossible to steer the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The power steering system fails",
+        "the steering wheel becomes extremely hard to turn",
+        "the power steering assist fault message appears on the dashboard",
+        "and the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "11573415",
+        "11552929",
+        "11362454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure (Engine Overheating)",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, stalling, and potentially leaving the driver stranded. This can also lead to a loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle starts smoking and getting hot",
+        "the temperature gauge does not show the engine is overheating until after it starts smoking",
+        "the engine stalls",
+        "the cooling fan comes on and never turns off",
+        "antifreeze leaks out of the reservoir",
+        "and the engine makes a loud noise."
+      ],
+      "odiNumbers": [
+        "11515682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cam Phaser Failure (Engine Stalling)",
+      "impact": "The failure of the cam phaser can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the vehicle is unable to restart",
+        "and the engine makes a loud noise."
+      ],
+      "odiNumbers": [
+        "11229952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling (Intermittent)",
+      "impact": "The intermittent stalling of the engine can cause a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the vehicle is able to restart after multiple attempts",
+        "and the engine makes a loud noise."
+      ],
+      "odiNumbers": [
+        "10778758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Access and Feature Malfunction",
+      "impact": "The unintended unlocking of doors, rolling down of windows, and opening of the sunroof can lead to theft or vandalism, and potentially compromise the safety of the vehicle and its occupants.",
+      "symptoms": [
+        "Doors unlock",
+        "windows roll down",
+        "and sunroof opens without user input",
+        "often when the vehicle is parked and unattended."
+      ],
+      "odiNumbers": [
+        "10945257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vehicle Stalling and Diagnostic Issues",
+      "impact": "The sudden stalling of the vehicle can cause loss of control, increasing the risk of accidents, and the inability to diagnose the issue can lead to prolonged downtime and safety risks.",
+      "symptoms": [
+        "Vehicle stalls while driving",
+        "instrument panel displays a message requesting a health report scan",
+        "vehicle may restart but issue persists."
+      ],
+      "odiNumbers": [
+        "10465950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Misrepresentation of Safety Features",
+      "impact": "The absence of a safety feature, such as perimeter lights, can increase the risk of accidents or injuries, particularly at night, and the misrepresentation of features can lead to a false sense of security.",
+      "symptoms": [
+        "Vehicle does not have perimeter lights",
+        "despite being listed as a feature in the owner's manual and dealer pamphlets",
+        "headlights do not turn on when unlocking the vehicle at night with the key fob."
+      ],
+      "odiNumbers": [
+        "10384447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

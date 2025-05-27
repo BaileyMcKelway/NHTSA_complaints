@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "iDrive System Failure and Electrical Issues",
+      "impact": "The failure of the iDrive system can cause the vehicle to shut off unexpectedly, leading to a loss of control and increasing the risk of accidents. Additionally, faulty sensors can provide false warnings, making it difficult for the driver to identify real issues, which can lead to safety risks.",
+      "symptoms": [
+        "The iDrive system cuts on and off",
+        "sensor alerts continuously go off for various issues",
+        "the system reports overheating despite no leaks or issues found",
+        "the seatbelt does not retract properly",
+        "and the engine revs up unexpectedly."
+      ],
+      "odiNumbers": [
+        "11431834",
+        "10604959",
+        "10093654",
+        "10091708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Stalling and Loss of Steering",
+      "impact": "The stalling of the vehicle, especially while idling or turning, can cause a loss of control, increasing the risk of accidents. The loss of steering after restarting the vehicle can further exacerbate the safety risks.",
+      "symptoms": [
+        "The vehicle stalls and dies while idling or turning",
+        "the vehicle restarts after stalling",
+        "but all steering is lost until restarted",
+        "and the main computer control board (DME) may need to be replaced."
+      ],
+      "odiNumbers": [
+        "10093654",
+        "10091708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Front Passenger Seat Sensor Mat",
+      "impact": "The faulty front passenger seat sensor mat can cause the passenger airbag to be inactive, which can lead to serious injury or death in the event of an accident. Additionally, the seatbelt may also fail to deploy properly, further increasing the risk of injury.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the passenger airbag is inactive",
+        "the passenger restraint system failure fault light is displayed."
+      ],
+      "odiNumbers": [
+        "10702104",
+        "10659272",
+        "10554565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause a loss of braking power, leading to increased stopping distances, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond to pressure",
+        "the vehicle takes longer to stop",
+        "the emergency brake is required to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10484964",
+        "10463301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause a loss of braking power, leading to increased stopping distances, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond to pressure",
+        "the vehicle takes longer to stop",
+        "the emergency brake is required to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10484964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Failure of Brake Repair under Recall",
+      "impact": "The failure of the brake repair under recall can cause a loss of braking power, leading to increased stopping distances, accidents, or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond to pressure",
+        "the vehicle takes longer to stop",
+        "the emergency brake is required to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10463301",
+        "10484964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling Due to Faulty CCC and DME Modules",
+      "impact": "The failure of the CCC (Car Communication Computer) and DME (Digital Motor Electronics) modules can cause the engine to stall unexpectedly, leading to a loss of vehicle control and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "often at low speeds",
+        "and may be difficult or impossible to restart. The vehicle may need to be towed to a repair shop for diagnosis."
+      ],
+      "odiNumbers": [
+        "10394508",
+        "10091708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Master Brake Cylinder Failure",
+      "impact": "The failure of the ABS master brake cylinder can cause the vehicle to lose braking power, leading to accidents or loss of control.",
+      "symptoms": [
+        "Leaking brake fluid",
+        "soft or spongy brake pedal",
+        "vehicle pulls to one side when brakes are applied",
+        "loss of braking power",
+        "vehicle slides or crashes when brakes are applied."
+      ],
+      "odiNumbers": [
+        "10443669",
+        "517770",
+        "812706"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Failure",
+      "impact": "The failure of the power window system can cause inconvenience and discomfort for the driver and passengers, and in some cases, obstruct visibility.",
+      "symptoms": [
+        "The driver-side power window is inoperative",
+        "the window does not roll up or down",
+        "the window is stuck in an open or closed position."
+      ],
+      "odiNumbers": [
+        "785001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Window Defroster Malfunction",
+      "impact": "The malfunction of the rear window defroster can reduce visibility, especially in cold or snowy weather, which can increase the risk of accidents.",
+      "symptoms": [
+        "The center wire of the rear window defroster is malfunctioning",
+        "the rear window defroster is not working",
+        "the rear window is foggy or icy."
+      ],
+      "odiNumbers": [
+        "960462"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

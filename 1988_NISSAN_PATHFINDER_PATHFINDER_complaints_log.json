@@ -1,0 +1,73 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to a lack of proper restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle comes loose or detaches from the frame",
+        "the buckle fails to latch properly",
+        "the buckle jams",
+        "or a piece falls off",
+        "preventing proper fastening."
+      ],
+      "odiNumbers": [
+        "10244223",
+        "850805",
+        "823968",
+        "805811",
+        "977275",
+        "964677",
+        "963761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust Manifold Failure",
+      "impact": "The failure of the exhaust manifold can cause carbon monoxide to leak into the engine compartment or passenger compartment, posing a significant risk to the health and safety of occupants.",
+      "symptoms": [
+        "Exhaust manifold studs break or become loose",
+        "exhaust manifold warps",
+        "carbon monoxide leaks into the engine compartment or passenger compartment."
+      ],
+      "odiNumbers": [
+        "782012",
+        "540656",
+        "820581",
+        "515306",
+        "546722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Tire tread comes off while driving",
+        "tire tread separation occurs under wet conditions",
+        "tire loses air pressure",
+        "tire becomes damaged",
+        "and vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "748880",
+        "741757",
+        "729977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

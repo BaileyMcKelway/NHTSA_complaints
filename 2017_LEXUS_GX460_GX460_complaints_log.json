@@ -1,0 +1,64 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "STRUCTURE",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Stability Issue - Right Lean",
+      "impact": "The vehicle's tendency to lean to the right (passenger side) can increase the risk of rollover, especially during left-hand turns, which can lead to accidents and injuries.",
+      "symptoms": [
+        "The vehicle leans to the right",
+        "excessive body roll during left turns",
+        "feels more stable during right turns",
+        "and may roll over in certain circumstances."
+      ],
+      "odiNumbers": [
+        "11078451",
+        "11065851",
+        "11062757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Paint Defect on Roof",
+      "impact": "The peeling and cracking of the paint on the roof can lead to rust and corrosion, compromising the structural integrity of the vehicle and potentially causing safety issues.",
+      "symptoms": [
+        "The paint on the roof is peeling",
+        "cracking",
+        "or chipping",
+        "especially on white vehicles."
+      ],
+      "odiNumbers": [
+        "11565932",
+        "11528732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erroneous Automatic Emergency Braking System Activation",
+      "impact": "The sudden and unexpected activation of the automatic emergency braking system can cause the vehicle to abruptly stop, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops without warning",
+        "the brakes engage independently",
+        "the cruise control fails to operate correctly",
+        "the vehicle stops abruptly while driving at high speeds."
+      ],
+      "odiNumbers": [
+        "11560908",
+        "11416436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

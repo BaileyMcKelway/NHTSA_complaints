@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a collision can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection.",
+      "symptoms": [
+        "Airbag warning light illuminates on the dashboard",
+        "airbags do not deploy in the event of a collision",
+        "presence of white powder on the dashboard (indicating a possible airbag malfunction)."
+      ],
+      "odiNumbers": [
+        "11540323",
+        "11307518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "A malfunctioning airbag system can lead to false warnings, unnecessary deployments, or failure to deploy in the event of a collision, which can compromise vehicle safety and occupant protection.",
+      "symptoms": [
+        "Airbag warning light illuminates on the dashboard",
+        "airbag system malfunction warning messages",
+        "inconsistent or unpredictable airbag behavior."
+      ],
+      "odiNumbers": [
+        "11307518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Automatic Emergency Braking (AEB) Activation",
+      "impact": "The unexpected and unnecessary activation of the automatic emergency braking system can cause sudden stops, which can lead to accidents, especially if there are vehicles following behind.",
+      "symptoms": [
+        "The vehicle suddenly stops or brakes abruptly while driving",
+        "often in situations where there are no obstacles or hazards present",
+        "the AEB system activates with no apparent reason",
+        "the vehicle's brakes are applied without driver input",
+        "the driver information screen displays a red triangle or warning message."
+      ],
+      "odiNumbers": [
+        "11328754",
+        "11270821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dashboard Instrument Cluster Failure",
+      "impact": "The failure of the dashboard instrument cluster can cause the gauges to malfunction or go out, potentially leading to accidents or leaving the driver without critical information about the vehicle's operation.",
+      "symptoms": [
+        "The dashboard gauges go out while driving",
+        "disabling all gauges until the system resets."
+      ],
+      "odiNumbers": [
+        "11328753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Trunk Lid Opening While Driving",
+      "impact": "The trunk lid opening while driving can cause objects to fall out, creating a road hazard, and potentially leading to accidents or injuries. Additionally, the design flaw of the tailgate lights being attached to the trunk lid can make them invisible to traffic behind the vehicle, increasing the risk of accidents.",
+      "symptoms": [
+        "The trunk lid opens on its own while driving",
+        "potentially causing objects to fall out",
+        "and the hazard lights are not visible to traffic behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11300531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

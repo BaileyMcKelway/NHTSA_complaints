@@ -1,0 +1,216 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling Fan Motor Failure",
+      "impact": "The failure of the cooling fan motor can cause the engine to overheat, leading to engine damage, stalling, or failure to start, which can result in hazardous traffic conditions and accidents.",
+      "symptoms": [
+        "The cooling fan motor seizes",
+        "the fan motor shaft seizes",
+        "the fan motor is inoperable",
+        "the vehicle overheats",
+        "the engine fails to start intermittently."
+      ],
+      "odiNumbers": [
+        "855859",
+        "814367",
+        "802459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Component Failure",
+      "impact": "The failure of cooling system components, such as the thermostat or radiator hose, can cause the engine to overheat, leading to engine damage, stalling, or failure to start, which can result in hazardous traffic conditions and accidents.",
+      "symptoms": [
+        "The engine thermostat fails",
+        "the radiator hose breaks",
+        "the vehicle overheats",
+        "the engine fails to start intermittently."
+      ],
+      "odiNumbers": [
+        "538965",
+        "761284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical Component Failure",
+      "impact": "The failure of electrical components, such as the speedometer, temperature gauge, or transmission indicator, can cause the engine to fail to start, leading to hazardous traffic conditions and accidents.",
+      "symptoms": [
+        "The speedometer fails",
+        "the temperature gauge fails",
+        "the transmission indicator fails",
+        "the engine fails to start intermittently."
+      ],
+      "odiNumbers": [
+        "708612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause hazardous traffic conditions and accidents, especially if it occurs without warning or indication.",
+      "symptoms": [
+        "The engine quits at all speeds without warning or indication",
+        "the vehicle cuts off while driving",
+        "the engine fails to restart immediately."
+      ],
+      "odiNumbers": [
+        "537495",
+        "814367",
+        "802459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passive Restraint System Causing Battery Drain",
+      "impact": "The malfunctioning passive restraint system can cause the battery to drain, leading to unexpected vehicle shutdowns, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The battery drains rapidly",
+        "the vehicle shuts down unexpectedly",
+        "the seat belt motor runs continuously",
+        "the seat belt module is inoperable."
+      ],
+      "odiNumbers": [
+        "10105581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "The sudden and unexpected engine stalling can cause loss of control, accidents, and increase the risk of injuries or fatalities, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle cuts off at any speed",
+        "the vehicle loses power without notice."
+      ],
+      "odiNumbers": [
+        "734967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Battery Failure",
+      "impact": "The frequent battery replacements can be inconvenient and costly, and may also lead to unexpected vehicle shutdowns, which can increase the risk of accidents.",
+      "symptoms": [
+        "The battery fails prematurely",
+        "the vehicle requires frequent battery replacements."
+      ],
+      "odiNumbers": [
+        "538965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause various components to malfunction, leading to safety concerns, inconvenience, and costly repairs.",
+      "symptoms": [
+        "The air conditioning",
+        "sunroof",
+        "radio",
+        "and power windows malfunction",
+        "the electrical system fails",
+        "causing component failures."
+      ],
+      "odiNumbers": [
+        "538965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "A faulty ignition switch can cause electrical fires, smoke, and burning smells, which can lead to accidents or injuries. It can also cause the vehicle to stall or fail to start, leaving the driver stranded.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "burning smells",
+        "electrical burning",
+        "faulty ignition switch",
+        "ignition area smoke",
+        "smoke pouring out from between the driver and front passenger seats."
+      ],
+      "odiNumbers": [
+        "10048646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Pump Failure",
+      "impact": "A failed ABS pump can cause the brakes to fail without warning, leading to accidents or loss of control. It can also cause the ABS light to stay on, indicating a problem with the anti-lock braking system.",
+      "symptoms": [
+        "ABS light stays on",
+        "brakes fail without warning",
+        "anti-lock brakes fail."
+      ],
+      "odiNumbers": [
+        "10048646",
+        "864981",
+        "538965",
+        "504837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Control Unit Failure",
+      "impact": "A faulty ABS control unit can cause the anti-lock braking system to malfunction, leading to accidents or loss of control. It can also cause the brakes to fail without warning.",
+      "symptoms": [
+        "ABS control unit failed",
+        "anti-lock brakes failed."
+      ],
+      "odiNumbers": [
+        "538965",
+        "504837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or lunge violently, which can lead to accidents, especially at high speeds, and potentially result in fatalities.",
+      "symptoms": [
+        "The transmission fails",
+        "the vehicle lunges back and forth",
+        "the vehicle stalls",
+        "the vehicle loses power",
+        "the transmission slips or hesitates."
+      ],
+      "odiNumbers": [
+        "561907",
+        "723929",
+        "781421",
+        "538965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wiring Harness Deterioration",
+      "impact": "The deterioration of the wiring harness can cause electrical system failures, leading to loss of critical vehicle functions, such as lighting, engine, and safety systems, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Wiring failure",
+        "lights not functioning",
+        "engine malfunction",
+        "electrical system failure",
+        "corrosion or damage to wiring components."
+      ],
+      "odiNumbers": [
+        "848526",
+        "704411",
+        "738530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corroded Brake Pedal",
+      "impact": "A corroded brake pedal can cause the brake pedal to stick to the floor, leading to a loss of braking power, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "10031239",
+        "829068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rusted Frame and Unsecured Seat",
+      "impact": "A rusted frame and unsecured seat can cause the seat to break away from the frame in the event of an accident, leading to serious injury or fatality.",
+      "symptoms": [
+        "The seat is loose or unstable",
+        "the seat is not properly secured to the frame",
+        "the frame is rusted or corroded."
+      ],
+      "odiNumbers": [
+        "829068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Fire in Tail Light Assembly",
+      "impact": "An electrical fire in the tail light assembly can cause damage to the vehicle, potentially leading to a loss of visibility, accidents, or injuries.",
+      "symptoms": [
+        "Smoke or flames coming from the tail light",
+        "melted or damaged tail light assembly",
+        "burning smell or odor."
+      ],
+      "odiNumbers": [
+        "10992940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

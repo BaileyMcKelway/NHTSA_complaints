@@ -1,0 +1,205 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to premature engine wear, increased emissions, and potentially cause engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle uses an excessive amount of oil",
+        "requiring frequent additions",
+        "often exceeding 1 quart per 300 miles."
+      ],
+      "odiNumbers": [
+        "11145285",
+        "11139039",
+        "11074127"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain and Tensioner Failure",
+      "impact": "Timing chain and tensioner failure can cause catastrophic engine failure, leading to sudden loss of power, engine seizure, and potential accidents, especially at high speeds.",
+      "symptoms": [
+        "The timing chain tensioner fails",
+        "causing the chain to slip",
+        "resulting in immediate engine stoppage",
+        "loss of power",
+        "and potential engine damage."
+      ],
+      "odiNumbers": [
+        "11130770",
+        "11073235",
+        "11055992",
+        "11012148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure and Seizure",
+      "impact": "Engine failure and seizure can cause sudden loss of power, accidents, and potentially harm vehicle occupants.",
+      "symptoms": [
+        "The engine seizes without warning",
+        "often accompanied by warning lights",
+        "such as the EPC light",
+        "and may result in complete engine failure."
+      ],
+      "odiNumbers": [
+        "11139039",
+        "10980165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unusual Engine Noises",
+      "impact": "Unusual engine noises can be a sign of underlying engine problems, which if left unchecked, can lead to engine failure and potential accidents.",
+      "symptoms": [
+        "The engine produces loud",
+        "unusual noises",
+        "such as a \"roaring\" sound",
+        "especially during cold starts."
+      ],
+      "odiNumbers": [
+        "10854168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause decreased engine power, reduced fuel efficiency, and potentially lead to engine failure.",
+      "symptoms": [
+        "The check engine light comes on",
+        "indicating issues such as a lean fuel mixture",
+        "vacuum leaks",
+        "or coolant level depletion."
+      ],
+      "odiNumbers": [
+        "10750153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to engine damage, decreased fuel efficiency, and potentially cause the engine to seize, resulting in a loss of control or accidents.",
+      "symptoms": [
+        "Low oil light comes on frequently",
+        "excessive oil consumption",
+        "engine malfunction light comes on",
+        "smoke coming out of the muffler",
+        "oil coming out of the muffler."
+      ],
+      "odiNumbers": [
+        "11192438",
+        "11192289",
+        "11144723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Piston Ring Failure",
+      "impact": "Piston ring failure can cause excessive oil consumption, engine damage, and decreased fuel efficiency, potentially leading to engine failure or accidents.",
+      "symptoms": [
+        "Excessive oil consumption",
+        "smoke coming out of the muffler",
+        "oil coming out of the muffler",
+        "check engine light is on."
+      ],
+      "odiNumbers": [
+        "11192289",
+        "11144723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment",
+      "impact": "Airbag deployment can save lives in the event of an accident, but improper deployment or excessive force can cause injuries.",
+      "symptoms": [
+        "Airbags deploy with excessive force",
+        "airbags deploy unnecessarily",
+        "injuries from airbag deployment."
+      ],
+      "odiNumbers": [
+        "11006466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down while driving, leading to a loss of control and increasing the risk of accidents. It can also cause random starts, making it difficult to predict when the vehicle will start or shut down.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "the vehicle has difficulty starting",
+        "the vehicle starts randomly",
+        "the electrical system turns on every 30 seconds while the vehicle is off",
+        "intermittent failure of door latches",
+        "mechanisms",
+        "and sensors",
+        "central locking thinks door is open",
+        "dome lights and door ajar chime constantly turning off and on."
+      ],
+      "odiNumbers": [
+        "11241469",
+        "11218134",
+        "10564936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loss of Communication to ECM (U0100 Code)",
+      "impact": "The loss of communication to the Engine Control Module (ECM) can cause the vehicle to shut down while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "the vehicle has difficulty starting",
+        "the vehicle starts randomly",
+        "ECU code U0100 indicates loss of communication to ECM."
+      ],
+      "odiNumbers": [
+        "11218134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Latch, Mechanism, and Sensor Failure",
+      "impact": "The failure of the door latch, mechanism, and sensor can cause the central locking system to malfunction, leading to a safety risk and inconvenience to the driver.",
+      "symptoms": [
+        "Intermittent failure of door latches",
+        "mechanisms",
+        "and sensors",
+        "central locking thinks door is open",
+        "dome lights and door ajar chime constantly turning off and on."
+      ],
+      "odiNumbers": [
+        "10564936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

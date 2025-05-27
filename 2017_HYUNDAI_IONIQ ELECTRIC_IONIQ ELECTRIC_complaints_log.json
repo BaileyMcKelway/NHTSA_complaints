@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Charging System Failure",
+      "impact": "The failure of the electrical charging system can cause fires, smoke, and damage to the vehicle and charging equipment, posing a risk to the driver and others.",
+      "symptoms": [
+        "The vehicle starts smoking while charging",
+        "the charger and charge port melt",
+        "the vehicle is engulfed in flames",
+        "the 12V battery fails",
+        "and there is an unpleasant smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11522923",
+        "11498124",
+        "11352398",
+        "11310232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "12V Battery Failure",
+      "impact": "The failure of the 12V battery can cause the vehicle to become disabled, leaving the driver stranded, and potentially cause a safety risk if the vehicle is unable to operate properly.",
+      "symptoms": [
+        "The 12V battery fails every year",
+        "the battery is bloated",
+        "steaming vapor",
+        "and very hot",
+        "the vehicle will not start",
+        "and the battery voltage is low."
+      ],
+      "odiNumbers": [
+        "11352398",
+        "11310232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Bluetooth Connectivity Issue",
+      "impact": "The Bluetooth connectivity issue can cause distractions while driving, potentially leading to accidents.",
+      "symptoms": [
+        "There is an echo of the caller's voice when using the Bluetooth connection to make or receive calls",
+        "the person inside the vehicle does not hear the echo",
+        "but the person on the other end of the call does."
+      ],
+      "odiNumbers": [
+        "11278971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermediate Shaft Steering Column Failure",
+      "impact": "The failure of the intermediate shaft steering column can cause the vehicle to veer off course, making it difficult to maintain control, especially at high speeds, which can lead to accidents.",
+      "symptoms": [
+        "The steering feels \"sticky\"",
+        "the vehicle zig-zags or wanders",
+        "the vehicle veers into other lanes",
+        "requiring constant vigilance to remain in lane."
+      ],
+      "odiNumbers": [
+        "11534305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Stability Control (ESC) and Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ESC and ABS systems can cause the vehicle to lose traction and control, especially during hard braking or on inclined surfaces, which can lead to accidents, especially in rainy conditions.",
+      "symptoms": [
+        "The vehicle skids or loses control",
+        "the traction control light illuminates",
+        "the brakes lock up during hard braking",
+        "the vehicle is unable to climb inclined driveways."
+      ],
+      "odiNumbers": [
+        "11156553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Flap System Failure",
+      "impact": "The failure of the active flap system can cause the vehicle to go into limp mode, leading to a loss of power and acceleration, which can create dangerous situations, especially when merging or accelerating from a stop.",
+      "symptoms": [
+        "The active flap system light comes on",
+        "the vehicle goes into limp mode",
+        "loss of power and acceleration",
+        "inability to speed up when needed."
+      ],
+      "odiNumbers": [
+        "11352395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration in Reverse Gear",
+      "impact": "The unintended acceleration of the vehicle in reverse gear can cause accidents, injuries, and property damage, especially in parking lots or low-speed areas.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly when shifting into reverse gear",
+        "loss of control over the vehicle",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11114947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

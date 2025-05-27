@@ -1,0 +1,72 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Harness Insulation Degradation",
+      "impact": "The degradation of the wiring harness insulation can cause electrical system failures, leading to potential safety hazards, such as fires, and can also result in costly repairs.",
+      "symptoms": [
+        "Exposed wires",
+        "decomposing insulation",
+        "electrical system failures",
+        "and potential fire hazards."
+      ],
+      "odiNumbers": [
+        "10203462",
+        "10195095",
+        "603983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to failure of airbag deployment in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag light on the dashboard remains illuminated",
+        "the airbag system fails to deploy in the event of an accident",
+        "the airbag system is temporarily repaired but the problem persists."
+      ],
+      "odiNumbers": [
+        "812335",
+        "515177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slippage/Lurching Issue",
+      "impact": "The unexpected lurching or rocking of the vehicle after parking can cause loss of control, accidents, or injuries, especially if the vehicle is on an incline or has occupants or nearby pedestrians.",
+      "symptoms": [
+        "The vehicle lurches forward or rocks backward after parking and turning off the ignition",
+        "the vehicle slips or hesitates when shifting gears",
+        "the transmission makes unusual noises or vibrations",
+        "the vehicle has difficulty shifting into gear."
+      ],
+      "odiNumbers": [
+        "512075",
+        "10894359",
+        "10790783",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Brake System Failure",
+      "impact": "The failure of the air brake system can lead to a loss of braking power, increasing the risk of accidents and potentially causing injury or death.",
+      "symptoms": [
+        "Air pressure drops",
+        "low pressure alarm activates",
+        "air pressure drops to 20psi in 1 minute",
+        "emergency brake does not apply spring set parking brake",
+        "intermittent problem."
+      ],
+      "odiNumbers": [
+        "562280",
+        "562280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Overheating and Premature Wear",
+      "impact": "Brake overheating can cause premature wear of brake shoes, leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake system becomes extremely hot",
+        "brake shoes wear prematurely",
+        "excessive brake fade",
+        "high temperature of shoes (up to 600 degrees)."
+      ],
+      "odiNumbers": [
+        "891447",
+        "559568",
+        "559567",
+        "559563",
+        "559564",
+        "559570",
+        "559565",
+        "559556",
+        "559560",
+        "559559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction and stability, increasing the risk of accidents.",
+      "symptoms": [
+        "ABS indicator light on dashboard comes on",
+        "requires frequent servicing."
+      ],
+      "odiNumbers": [
+        "888965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Leak Noise",
+      "impact": "The loud and high-pitched air pop noise in the cab can cause hearing damage and distraction while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Loud and high-pitched air pop noise in the cab while driving."
+      ],
+      "odiNumbers": [
+        "558296",
+        "558296"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Power Loss and Check Engine Light Illumination",
+      "impact": "The loss of engine power can cause the vehicle to stall or hesitate, increasing the risk of accidents, especially when driving at high speeds. The frequent illumination of the check engine light can lead to driver distraction and neglect of necessary repairs.",
+      "symptoms": [
+        "The check engine light illuminates on the dashboard",
+        "the vehicle experiences a loss of power",
+        "the vehicle stalls or hesitates",
+        "the vehicle has difficulty accelerating."
+      ],
+      "odiNumbers": [
+        "862245"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

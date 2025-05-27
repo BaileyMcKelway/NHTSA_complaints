@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "The failure of the turbocharger can cause a reduction in engine power, making it difficult to accelerate or maintain speed, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Warning lights on the dashboard",
+        "reduced engine power",
+        "inability to accelerate or maintain speed",
+        "stalling or hesitation of the engine."
+      ],
+      "odiNumbers": [
+        "11587328",
+        "11485788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Reduced Power",
+      "impact": "The stalling and reduced power of the engine can cause a loss of control, making it difficult to navigate roads safely, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "reduced engine power",
+        "RPM fluctuation",
+        "check engine warning light illumination",
+        "inability to restart the engine."
+      ],
+      "odiNumbers": [
+        "11435680"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Software and Fuel System Issues",
+      "impact": "The software and fuel system issues can cause a reduction in engine power, making it difficult to accelerate or maintain speed, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "reduced engine power",
+        "RPM fluctuation",
+        "check engine warning light illumination",
+        "inability to restart the engine",
+        "unknown software issues",
+        "fuel system malfunction."
+      ],
+      "odiNumbers": [
+        "11435680"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a delay in braking or a hard brake pedal, increasing the stopping distance and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Delay in braking",
+        "hard brake pedal",
+        "inability to stop the vehicle over short distances",
+        "numerous warning lights on the dashboard (Brakes",
+        "ABS",
+        "Traction Control",
+        "Engine",
+        "etc.)",
+        "error messages on the screen (e.g.",
+        "\"Brake System Failure",
+        "62 MPH Top Speed\")."
+      ],
+      "odiNumbers": [
+        "11455017",
+        "11420749",
+        "11420627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure/Installation Issues",
+      "impact": "A faulty fuel pump or improper installation can cause the vehicle to stall or hesitate, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle jumps or hesitates when shifting gears",
+        "the vehicle dies in the middle of the road",
+        "the vehicle has difficulty accelerating."
+      ],
+      "odiNumbers": [
+        "11569827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Shift Sensor Malfunction",
+      "impact": "A malfunctioning transmission shift sensor can cause the vehicle to incorrectly detect the gear position, leading to difficulties shifting into park, and potentially causing the vehicle to remain in gear even when the driver intends to turn off the engine.",
+      "symptoms": [
+        "The vehicle displays \"shift to park\" when already in park",
+        "the vehicle will not turn off",
+        "the vehicle requires repeated attempts to shift into park."
+      ],
+      "odiNumbers": [
+        "11564958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parts Distribution Disconnect for Recall Repair",
+      "impact": "The delay in providing replacement parts for recall repairs can leave vehicles in an unsafe condition, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Notification of recall received",
+        "but parts are not available for repair",
+        "dealer unable to complete recall repair",
+        "manufacturer exceeding reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11429736",
+        "11427472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

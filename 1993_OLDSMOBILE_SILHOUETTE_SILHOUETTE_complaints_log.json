@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seat Belt Retractor Failure",
+      "impact": "The failure of the front seat belt retractor can lead to a loss of seat belt functionality, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The front seat belt retractor fails to retract",
+        "the seat belt remains fully extended",
+        "the seat belt retracts slowly",
+        "the seat belt requires manual assistance to retract."
+      ],
+      "odiNumbers": [
+        "10162956",
+        "704348",
+        "702558",
+        "801161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause the vehicle to lose stopping power, leading to accidents or near-miss incidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brakes grab or lock up intermittently",
+        "the brake pedal goes to the floor",
+        "the vehicle slides or fails to stop when the brakes are applied",
+        "the brake fluid leaks onto the wheels",
+        "and the brake lines/hoses are damaged."
+      ],
+      "odiNumbers": [
+        "864472",
+        "708914",
+        "815398",
+        "524009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Wheel Cylinder Failure",
+      "impact": "The failure of the rear wheel cylinder can cause the brakes to malfunction, leading to a loss of stopping power and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes fail to stop the vehicle",
+        "and brake fluid leaks onto the wheels."
+      ],
+      "odiNumbers": [
+        "524009",
+        "815398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Operation",
+      "impact": "Intermittent windshield wiper operation can reduce visibility during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "wipers stop working and then start again after a few hours",
+        "wiper system appears \"frozen\"."
+      ],
+      "odiNumbers": [
+        "10017849",
+        "761156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Delamination",
+      "impact": "Windshield delamination can cause reduced visibility, increased risk of injury from shattered glass, and potentially lead to accidents.",
+      "symptoms": [
+        "Windshield is delaminating",
+        "cracks or bubbles appear on the windshield."
+      ],
+      "odiNumbers": [
+        "864948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fires",
+      "impact": "The failure of the electrical system can cause vehicle fires, which can result in serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "Engine compartment fire",
+        "interior fire",
+        "shorted battery cables",
+        "electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10012183",
+        "487368",
+        "969456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Cooler Line Failure",
+      "impact": "The rupture of the transmission cooler line can cause transmission failure, leading to a loss of vehicle control, increased risk of accidents, and potential fires.",
+      "symptoms": [
+        "Transmission failure",
+        "transmission slipping",
+        "transmission overheating",
+        "smoke or fire coming from the engine compartment",
+        "transmission fluid leaking onto the exhaust manifold."
+      ],
+      "odiNumbers": [
+        "517298",
+        "515892",
+        "960995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

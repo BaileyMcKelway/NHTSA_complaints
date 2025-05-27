@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brakes to overheat, leading to reduced stopping power, increased risk of accidents, and potential damage to other brake components.",
+      "symptoms": [
+        "The brakes overheat",
+        "the brake pads wear excessively",
+        "the caliper freezes",
+        "and the ABS light stays on."
+      ],
+      "odiNumbers": [
+        "10031909",
+        "10031914",
+        "10032453",
+        "10032454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "The failure of the ABS sensor can cause the ABS light to stay on, indicating a malfunction in the anti-lock brake system, which can lead to reduced vehicle safety and potential accidents.",
+      "symptoms": [
+        "The ABS light stays on",
+        "the anti-lock brake system is not functioning",
+        "and intermittent lights on the dash."
+      ],
+      "odiNumbers": [
+        "9005425",
+        "755212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Pump Failure (LUK #LF73C)",
+      "impact": "The failure of the power steering pump can cause a loss of power steering, making it difficult to steer the vehicle, especially during turns, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Loss of power steering",
+        "increased engine RPM",
+        "difficulty steering during left or right turns",
+        "especially upon acceleration."
+      ],
+      "odiNumbers": [
+        "561585",
+        "561583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unspecified Vehicle Problems",
+      "impact": "The unspecified problems affecting multiple vehicles can lead to unknown safety risks and potential accidents, as well as increased maintenance costs and downtime.",
+      "symptoms": [
+        "The exact symptoms are not specified",
+        "but the complaint suggests that the issues are similar across multiple vehicles."
+      ],
+      "odiNumbers": [
+        "767335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

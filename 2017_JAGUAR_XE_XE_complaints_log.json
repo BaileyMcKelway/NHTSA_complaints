@@ -1,0 +1,146 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injuries or fatalities in the event of an accident, as the airbags may not deploy or deploy incorrectly.",
+      "symptoms": [
+        "Airbag warning light comes on and off",
+        "airbags fail to deploy in an accident",
+        "airbags deploy late or after the impact",
+        "injuries or fatalities occur due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "11437721",
+        "11269774",
+        "11500441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle accelerates without driver input",
+        "vehicle accelerates uncontrollably",
+        "vehicle fails to respond to driver input",
+        "vehicle crashes or is involved in an accident."
+      ],
+      "odiNumbers": [
+        "11269774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Takata Airbag Recall",
+      "impact": "The Takata airbag recall is a well-known safety issue that can cause airbags to deploy incorrectly, leading to serious injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light comes on",
+        "airbag recall notice received",
+        "airbag may deploy incorrectly in an accident."
+      ],
+      "odiNumbers": [
+        "11119853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Coolant System Failure",
+      "impact": "The failure of the coolant system can cause the engine to overheat, leading to potential engine damage, stalling, or even engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle overheats",
+        "coolant leaks",
+        "the temperature gauge rises",
+        "the engine stalls or shuts off",
+        "the vehicle loses power",
+        "the coolant level drops."
+      ],
+      "odiNumbers": [
+        "11571082",
+        "11092829"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Start/Stop System Failure",
+      "impact": "The failure of the engine start/stop system can cause the vehicle to shut down unexpectedly, leading to loss of control, accidents, or stranding the driver. Additionally, the faulty system can lead to incorrect assumptions about the engine's status, potentially causing safety risks.",
+      "symptoms": [
+        "The vehicle shuts down constantly with no warnings",
+        "the engine start/stop button provides haptic feedback but does not start or stop the engine",
+        "the button requires excessive force to function",
+        "the engine does not stop/start despite the button being pressed",
+        "the vehicle remains in \"drive\" mode despite the button being pressed."
+      ],
+      "odiNumbers": [
+        "11469966",
+        "11197371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of accidents, especially when driving on the highway.",
+      "symptoms": [
+        "The fuel gauge suddenly decreases to empty",
+        "smoke is seen coming from under the hood",
+        "diesel fuel is present in the engine compartment and inside the cabin",
+        "the vehicle stalls",
+        "headlights shut off",
+        "the car switches into neutral."
+      ],
+      "odiNumbers": [
+        "11397878",
+        "11281976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Return Hose Rupture",
+      "impact": "The rupture of the fuel return hose can cause diesel fuel to leak, leading to a fire hazard, and can also cause the vehicle to stall, leading to a loss of power and control.",
+      "symptoms": [
+        "Diesel fuel is present in the engine compartment and inside the cabin",
+        "smoke is seen coming from under the hood",
+        "the fuel gauge suddenly decreases to empty."
+      ],
+      "odiNumbers": [
+        "11397878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Exhaust CSR Section Failure",
+      "impact": "The failure of the exhaust CSR section can cause the section to open at the seams, leading to a potential fire hazard and loss of vehicle performance.",
+      "symptoms": [
+        "The exhaust CSR section is opening at the seams."
+      ],
+      "odiNumbers": [
+        "11397878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

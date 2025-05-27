@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FORWARD COLLISION AVOIDANCE",
+    "VEHICLE SPEED CONTROL",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Braking (Phantom Braking) in Autopilot and Adaptive Cruise Control Mode",
+      "impact": "Unintended braking can cause sudden and unexpected stops, which can lead to accidents, especially in high-traffic conditions, and potentially result in rear-end collisions.",
+      "symptoms": [
+        "The vehicle suddenly applies emergency braking for no reason",
+        "often when approaching overpasses at night or in normal driving conditions",
+        "causing sudden and unexpected stops."
+      ],
+      "odiNumbers": [
+        "11540903",
+        "11502607",
+        "11450215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lane Departure Warning System Malfunction",
+      "impact": "The malfunctioning lane departure warning system can cause the vehicle to veer off course, potentially leading to accidents or near-misses, especially when driving on highways.",
+      "symptoms": [
+        "The lane departure warning system fails to work properly",
+        "especially in rain",
+        "shadows",
+        "or other normal road and weather conditions",
+        "and the vehicle veers right or left unexpectedly",
+        "causing the driver to lose control."
+      ],
+      "odiNumbers": [
+        "11414426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Autopilot and Adaptive Cruise Control Software Glitches",
+      "impact": "The software glitches can cause the vehicle to malfunction, leading to unintended braking, veering off course, or other unexpected behavior, which can increase the risk of accidents.",
+      "symptoms": [
+        "The autopilot and adaptive cruise control systems exhibit glitches",
+        "such as veering right or left unexpectedly",
+        "sudden braking",
+        "or failing to respond to road conditions",
+        "causing driver frustration and increasing the risk of accidents."
+      ],
+      "odiNumbers": [
+        "11414426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Speed Reduction or Braking with Adaptive Cruise Control",
+      "impact": "The sudden and unexpected reduction in speed or braking can cause accidents, especially if there are vehicles behind the affected vehicle, and can lead to a loss of control or rear-end collisions.",
+      "symptoms": [
+        "The vehicle suddenly slows down or brakes without any visible obstacle or warning",
+        "often while using adaptive cruise control or basic cruise control features."
+      ],
+      "odiNumbers": [
+        "11509183",
+        "11473378"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Main Control Unit (MCU) Failure or Freeze",
+      "impact": "The failure or freeze of the MCU can cause the loss of critical safety features, including adaptive cruise control, speedometer, and lane assist, which can lead to accidents or increase the risk of accidents.",
+      "symptoms": [
+        "The MCU screen goes blank",
+        "and critical safety features become inoperable",
+        "including adaptive cruise control",
+        "speedometer",
+        "turn signals",
+        "wipers",
+        "and lane assist."
+      ],
+      "odiNumbers": [
+        "11439164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Assist and Lane Departure Avoidance System Failure",
+      "impact": "The failure of the steering assist and lane departure avoidance system can cause difficulty in steering, increasing the risk of accidents, and potentially leading to loss of control of the vehicle.",
+      "symptoms": [
+        "Reduced steering assist",
+        "difficulty turning the wheel",
+        "multiple attempts required to make a turn",
+        "warnings of reduced steering assist and lane departure avoidance system malfunction",
+        "and increased effort required to steer the vehicle."
+      ],
+      "odiNumbers": [
+        "11559386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

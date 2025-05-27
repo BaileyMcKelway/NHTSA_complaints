@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose braking ability, leading to accidents or near-miss incidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or unresponsive",
+        "the brake pedal only depresses a short distance",
+        "the vehicle does not stop or slows down significantly",
+        "the ABS warning light is illuminated on the dashboard",
+        "the brake system fails to function",
+        "and the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "10103946",
+        "10081246",
+        "10037413",
+        "875742",
+        "736580",
+        "728629",
+        "725194",
+        "719711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake system to fail, leading to accidents or near-miss incidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "10081246",
+        "725194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Teves ABS System Failure",
+      "impact": "The failure of the Teves ABS system can cause the brake system to fail, leading to accidents or near-miss incidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or unresponsive",
+        "the brake pedal only depresses a short distance",
+        "the vehicle does not stop or slows down significantly",
+        "the ABS warning light is illuminated on the dashboard",
+        "the brake system fails to function",
+        "and the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "719711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cradle Rust Corrosion",
+      "impact": "Rust corrosion of the engine cradle can lead to structural failure, causing the engine to shift or drop, potentially resulting in loss of vehicle control, accidents, or engine damage.",
+      "symptoms": [
+        "Rattling or clunking noises from the engine area",
+        "engine vibration",
+        "uneven engine idle",
+        "engine sagging or leaning",
+        "rust or corrosion visible on the engine cradle."
+      ],
+      "odiNumbers": [
+        "545960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Seat Belt Buckle",
+      "impact": "The inoperability of the seat belt buckle can prevent the proper restraint of the driver, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The male end of the seat belt buckle will not insert into the female portion",
+        "the seat belt buckle is stuck",
+        "the seat belt buckle is difficult to latch or unlatch",
+        "the seat belt warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "965852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

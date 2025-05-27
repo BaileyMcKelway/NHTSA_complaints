@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "STEERING",
+    "TIRES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle takes longer to stop than usual",
+        "the brakes feel soft or spongy",
+        "the brakes make a grinding or screeching noise",
+        "the vehicle pulls to one side when braking",
+        "the ABS system malfunctions",
+        "the vehicle fails to stop in a timely manner."
+      ],
+      "odiNumbers": [
+        "564250",
+        "564051",
+        "808970"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Wheel Bearing Failure",
+      "impact": "Worn-out or failed front wheel bearings can cause uneven tire wear, reduce vehicle stability, and lead to wheel separation, which can result in loss of control and accidents.",
+      "symptoms": [
+        "Grinding or growling noise from the front wheels",
+        "vibration while driving",
+        "uneven tire wear",
+        "loose or play in the front wheels",
+        "difficulty steering."
+      ],
+      "odiNumbers": [
+        "564051",
+        "564051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Coupler Failure",
+      "impact": "The failure of the steering coupler can cause a loss of steering control, making it difficult to maneuver the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel feels loose or wobbly",
+        "the steering wheel is difficult to turn",
+        "the vehicle pulls to one side",
+        "the steering coupler is leaking fluid."
+      ],
+      "odiNumbers": [
+        "484993"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering Box Seal Failure",
+      "impact": "The failure of the steering box seals can cause a loss of power steering fluid, leading to a loss of steering assist, making it difficult to maneuver the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel feels stiff or hard to turn",
+        "the power steering fluid level is low",
+        "the steering box is leaking fluid",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "484993"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation and Rubber Degradation",
+      "impact": "The tire tread separation and rubber degradation can lead to a loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "The tire tread is separating from the tire",
+        "the rubber is tearing apart",
+        "the tire is showing signs of excessive wear",
+        "the tire is making unusual noises or vibrations while driving."
+      ],
+      "odiNumbers": [
+        "564051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Warn of Tire Defects",
+      "impact": "The failure to warn consumers of tire defects can lead to a lack of awareness and failure to take necessary action to replace the tires, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The manufacturer failed to notify the consumer of the tire defect",
+        "the consumer was not aware of the tire defect until it was too late",
+        "the tire failed suddenly without warning."
+      ],
+      "odiNumbers": [
+        "564051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Axle Slack and Banging Noise",
+      "impact": "The slack in the gears of the rear housing can cause a loud banging noise, which can lead to premature wear on the rear axle components, affect vehicle stability, and potentially cause loss of control.",
+      "symptoms": [
+        "Loud banging or clunking noise coming from the rear axle",
+        "vibrations felt through the vehicle",
+        "difficulty maintaining speed",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "484993"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Rotor Failure",
+      "impact": "Premature brake rotor failure can lead to extended stopping distances, increased risk of accidents, and potential loss of vehicle control.",
+      "symptoms": [
+        "Brake rotors wear out prematurely",
+        "requiring replacement at low mileage",
+        "unusual noises or vibrations when braking",
+        "spongy or soft brake pedal",
+        "delayed braking response."
+      ],
+      "odiNumbers": [
+        "10140037",
+        "10073909"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Brake Pedal Response",
+      "impact": "A delayed brake pedal response can cause extended stopping distances, increasing the risk of accidents and potential loss of vehicle control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "delayed braking response",
+        "extended stopping distances",
+        "unusual noises or vibrations when braking."
+      ],
+      "odiNumbers": [
+        "10047753",
+        "10002048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadvertent Anti-lock Brake System (ABS) Activation",
+      "impact": "Inadvertent ABS activation can cause loss of vehicle control, increased stopping distances, and potential accidents.",
+      "symptoms": [
+        "ABS system activates unnecessarily",
+        "unusual noises or vibrations when braking",
+        "delayed braking response",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "10047753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The failure of the tire sidewall can lead to a blowout, loss of control, and accidents, posing a significant safety risk to the driver and other road users.",
+      "symptoms": [
+        "Noise that sounds like the tires are out of balance",
+        "bubble forming on the outside of the sidewall",
+        "splits in the sidewalls",
+        "weathering along the sidewall."
+      ],
+      "odiNumbers": [
+        "762482",
+        "749276",
+        "873066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A faulty fuel gauge can lead to inaccurate fuel level readings, potentially causing drivers to run out of fuel, which can lead to accidents, strandings, or other safety issues.",
+      "symptoms": [
+        "The fuel gauge needle bounces erratically between full and empty",
+        "the fuel gauge does not provide an accurate reading",
+        "the fuel gauge stops working altogether."
+      ],
+      "odiNumbers": [
+        "10253412",
+        "10114123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

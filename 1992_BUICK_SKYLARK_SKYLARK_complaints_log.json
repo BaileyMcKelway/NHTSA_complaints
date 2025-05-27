@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 45,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Malfunction",
+      "impact": "The malfunction of the ABS can cause extended stopping distances, loss of braking power, and unpredictable vehicle behavior, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Unnecessary engagement of ABS",
+        "extended stopping distance",
+        "loss of braking power",
+        "brake shuddering or vibration",
+        "ABS light on or off intermittently",
+        "grinding or warped brake pads and rotors."
+      ],
+      "odiNumbers": [
+        "526070",
+        "524303",
+        "972903",
+        "959995",
+        "844635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Wheel Speed Sensor Failure",
+      "impact": "The failure of the front wheel speed sensor can cause the ABS to malfunction, leading to extended stopping distances and loss of braking power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "ABS engages unnecessarily",
+        "extended stopping distance",
+        "loss of braking power",
+        "ABS light on or off intermittently."
+      ],
+      "odiNumbers": [
+        "524303",
+        "959995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corrosion of Rotors and Brake Failure",
+      "impact": "Corrosion of rotors can lead to brake failure, causing loss of braking power and increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Warped brake pads and rotors",
+        "grinding or vibrating brakes",
+        "loss of braking power."
+      ],
+      "odiNumbers": [
+        "963555",
+        "959995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Clip Failure",
+      "impact": "The failure of the brake clip can cause loss of braking power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Loss of braking power",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "603408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Shift Interlock Failure",
+      "impact": "The failure of the transmission shift interlock can cause the transmission selector to become stuck in park, leading to accidents or injuries, especially if the vehicle rolls unexpectedly.",
+      "symptoms": [
+        "The transmission selector will not move out of park",
+        "the vehicle rolls or moves unexpectedly while in park",
+        "the transmission hesitates or slips when shifting into drive or reverse."
+      ],
+      "odiNumbers": [
+        "739989",
+        "860955",
+        "959995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Solenoid Failure",
+      "impact": "The failure of the transmission solenoid can cause the vehicle to stall, leading to accidents or injuries, especially if the vehicle loses power while in motion.",
+      "symptoms": [
+        "The transmission solenoid fails",
+        "the vehicle stalls",
+        "the transmission hesitates or slips when shifting into drive or reverse."
+      ],
+      "odiNumbers": [
+        "519289",
+        "959995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Reverse Gear Failure",
+      "impact": "The failure of the transmission reverse gear can cause the vehicle to lose power or become stuck in gear, leading to accidents or injuries.",
+      "symptoms": [
+        "The transmission reverse gear fails",
+        "the vehicle is unable to shift into reverse",
+        "the transmission hesitates or slips when shifting into drive or reverse."
+      ],
+      "odiNumbers": [
+        "484283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall, which can lead to accidents or leave the driver stranded, especially at slow speeds.",
+      "symptoms": [
+        "The key intermittently fails to turn in the ignition switch",
+        "the vehicle stalls at slow speeds",
+        "the vehicle stalls intermittently",
+        "the steering wheel must be turned several times before the vehicle will start."
+      ],
+      "odiNumbers": [
+        "517258",
+        "959995",
+        "879004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Control Module/PROM Failure",
+      "impact": "The failure of the Electronic Control Module/PROM can cause the vehicle to stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the vehicle stalls intermittently."
+      ],
+      "odiNumbers": [
+        "486390",
+        "484967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

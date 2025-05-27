@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Coolant System Failure (IMS and Metzger Motor)",
+      "impact": "The failure of the coolant system can cause sudden loss of coolant fluid, leading to engine overheating, seizure, and potential accidents due to loss of control or slippery road conditions.",
+      "symptoms": [
+        "Coolant leakage from underneath the vehicle",
+        "smoke",
+        "slippery tires",
+        "handling and grip issues",
+        "engine stalling",
+        "and sudden loss of coolant fluid."
+      ],
+      "odiNumbers": [
+        "11457590",
+        "10546931",
+        "10510434",
+        "10491708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermediate Shaft (IMS) Failure",
+      "impact": "The failure of the IMS can cause the engine to stall, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "failure to restart",
+        "and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10610822",
+        "10547657"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Block Leaks and Crankshaft Bearing Failure",
+      "impact": "The failure of the engine block and crankshaft bearing can cause engine destruction, leading to costly repairs and potential accidents.",
+      "symptoms": [
+        "Engine block leaks",
+        "crankshaft bearing failure",
+        "and engine destruction."
+      ],
+      "odiNumbers": [
+        "10547657"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermediate Shaft (IMS) Failure",
+      "impact": "The failure of the intermediate shaft can cause catastrophic engine failure, leading to a loss of power, oil leaks, and potentially leaving the driver stranded or causing an accident.",
+      "symptoms": [
+        "Loud grinding noise from underneath the car",
+        "oil spewing out from the bottom of the engine",
+        "loss of power",
+        "warning messages on the instrument cluster",
+        "stalling while driving",
+        "and intermittent problems with the engine."
+      ],
+      "odiNumbers": [
+        "10423709",
+        "10413968",
+        "10365249",
+        "10288919",
+        "10138102"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Airbag Failure",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents and potential injuries or fatalities. The failure of airbags to deploy in a crash can increase the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "often when the brakes are applied or cruise control is disengaged",
+        "and airbags fail to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "10461351",
+        "10258432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

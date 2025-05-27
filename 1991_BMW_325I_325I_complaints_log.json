@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can cause unexpected deployment, leading to distraction, reduced visibility, and increased risk of accidents, or failure to deploy in the event of a crash, potentially resulting in serious injury or fatalities.",
+      "symptoms": [
+        "Unexpected airbag deployment",
+        "loud explosion",
+        "puff of white smoky powder filling the car cabin",
+        "reduced visibility",
+        "failure of airbag to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10721152",
+        "975600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Anti-Lock Braking System (ABS)",
+      "impact": "A malfunctioning ABS can cause the vehicle to lose steering control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "The ABS pump activates continuously",
+        "even when the vehicle is stationary",
+        "the steering wheel shakes vigorously when applying brakes",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "402200",
+        "404275",
+        "716788",
+        "835967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal Vibration",
+      "impact": "Brake pedal vibration can cause the driver to lose control of the vehicle, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "The steering wheel shakes vigorously when applying brakes",
+        "the brake pedal vibrates or pulses when pressed."
+      ],
+      "odiNumbers": [
+        "835967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Post-Accident ABS Malfunction",
+      "impact": "Failure to properly diagnose and repair ABS issues after an accident can lead to continued safety risks and potential accidents.",
+      "symptoms": [
+        "The ABS system malfunctions or fails to function properly after an accident",
+        "the ABS pump activates continuously",
+        "even when the vehicle is stationary."
+      ],
+      "odiNumbers": [
+        "716788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Leading to Vehicle Fire",
+      "impact": "Engine failure can cause a vehicle fire, which can lead to serious accidents, injuries, or even fatalities. It can also result in significant damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Loud cracking or unusual sounds from the engine",
+        "sudden loss of engine power",
+        "engine stalling or failure",
+        "smoke or flames emanating from the engine compartment."
+      ],
+      "odiNumbers": [
+        "544901",
+        "824941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Engine Failure",
+      "impact": "Sudden engine failure can cause loss of vehicle control, accidents, and injuries, especially if the failure occurs at high speeds.",
+      "symptoms": [
+        "Loud cracking or unusual sounds from the engine",
+        "sudden loss of engine power",
+        "engine stalling or failure",
+        "inability to restart the engine."
+      ],
+      "odiNumbers": [
+        "824941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

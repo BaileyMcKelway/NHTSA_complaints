@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Throttle Response after Emissions Modification",
+      "impact": "The delayed throttle response can cause the vehicle to be dangerous to drive in certain situations, leading to near misses or accidents, especially when merging, turning, or overtaking.",
+      "symptoms": [
+        "Significant lag or delay (up to 2 seconds) from the time the throttle input happens and a response from the motor",
+        "lack of response to throttle input",
+        "reduced power or acceleration",
+        "near misses or accidents."
+      ],
+      "odiNumbers": [
+        "11162255",
+        "11105297",
+        "11100161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Rear Light Sensor or Module",
+      "impact": "The faulty rear light sensor or module can cause incorrect error messages, leading to unnecessary repairs and potential safety risks if the issue is not addressed.",
+      "symptoms": [
+        "Random error messages indicating rear lights are not working properly",
+        "despite functioning correctly",
+        "intermittent or false warnings."
+      ],
+      "odiNumbers": [
+        "11579292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "A malfunctioning headlight can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlight not working properly",
+        "dim or flickering light",
+        "inability to switch between high and low beams."
+      ],
+      "odiNumbers": [
+        "11572810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unauthorized Vehicle Disabling through Porsche Connect",
+      "impact": "The unauthorized disabling of the vehicle through Porsche Connect can leave the driver stranded, potentially in unsafe locations, and can cause inconvenience and financial loss.",
+      "symptoms": [
+        "The vehicle will not start",
+        "unable to jump-start the vehicle",
+        "vehicle is disabled without owner's knowledge or consent."
+      ],
+      "odiNumbers": [
+        "11431928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Charging Port and High-Voltage Charger Lock Fault",
+      "impact": "The faulty charging port and high-voltage charger lock fault can prevent the vehicle from charging, leading to reduced vehicle performance, range anxiety, and potential safety risks.",
+      "symptoms": [
+        "The electric plug does not disconnect from the vehicle",
+        "error code P0D9400",
+        "error description \"High-voltage charger - charging-plug lock fault (00A93D)\" displayed on OBD-II software."
+      ],
+      "odiNumbers": [
+        "11420884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Loss of Power and Uncontrolled Acceleration after Emissions Recall",
+      "impact": "The loss of power and uncontrolled acceleration when turning corners can lead to accidents, especially when merging into traffic or navigating intersections, posing a significant risk to the driver and other road users.",
+      "symptoms": [
+        "The engine loses power when turning corners",
+        "the vehicle fails to downshift",
+        "the throttle pedal has no response unless fully depressed",
+        "the vehicle jerks and accelerates uncontrollably when the throttle pedal is fully depressed",
+        "making it difficult to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11430182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Engine Shutdown",
+      "impact": "The sudden shutdown of the engine can cause loss of power steering and braking, leading to a loss of control of the vehicle, which can increase the risk of accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The engine shuts off while driving",
+        "the vehicle stalls",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "11151396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Poor Communication from Dealership and Manufacturer",
+      "impact": "The lack of transparency and communication from the dealership and manufacturer can lead to frustration, anxiety, and a lack of trust among customers, which can negatively impact their overall experience and satisfaction.",
+      "symptoms": [
+        "Dealership and manufacturer fail to provide clear explanations for repairs",
+        "customers are left in the dark about the status of their vehicle",
+        "customers are not informed about the cause of the problem",
+        "customers are not provided with a clear timeline for repairs."
+      ],
+      "odiNumbers": [
+        "11151396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

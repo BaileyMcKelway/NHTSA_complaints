@@ -1,0 +1,72 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure and Electrical Fire",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall, leading to accidents or leaving the driver stranded. In severe cases, it can lead to electrical fires, which can result in vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "smoke is noticed coming from the steering column",
+        "the ignition switch gets overheated",
+        "the ignition switch catches fire",
+        "the vehicle catches fire from under the dash and under the hood",
+        "electrical short or shock in the ignition switch."
+      ],
+      "odiNumbers": [
+        "897108",
+        "802438",
+        "985178",
+        "984434",
+        "504239",
+        "504306",
+        "983367",
+        "982924",
+        "982992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Defect",
+      "impact": "A tire sidewall defect can cause the tire to fail suddenly, leading to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The tire's rubber peels away from the bottom",
+        "the tire blows out",
+        "the tire's sidewall is damaged",
+        "the vehicle's moldings are damaged."
+      ],
+      "odiNumbers": [
+        "560281",
+        "521693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Throttle Sticking",
+      "impact": "The sticking of the fuel throttle can cause sudden acceleration of the vehicle, which can lead to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration of the vehicle",
+        "unintended acceleration",
+        "stuck or stuck-open throttle",
+        "difficulty controlling the vehicle's speed."
+      ],
+      "odiNumbers": [
+        "979752",
+        "979752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

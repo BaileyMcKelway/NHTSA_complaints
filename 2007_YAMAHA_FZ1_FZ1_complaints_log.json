@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Weld Point Crack",
+      "impact": "A crack in the frame weld point can compromise the structural integrity of the motorcycle, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Cracking or breaking of the frame weld point on the right side",
+        "typically above the clutch cover",
+        "with no prior incident or damage to the motorcycle."
+      ],
+      "odiNumbers": [
+        "11452934",
+        "11405650",
+        "10850033",
+        "10537971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stator Failure",
+      "impact": "The failure of the stator can cause the electrical system to fail, leading to a loss of power, battery failure, and potentially causing the engine to seize, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "battery failure",
+        "inability to bump start",
+        "unbalanced stator rotation",
+        "magnets on the ends of the stator falling off",
+        "pieces of the alternator fracturing and falling into the crankcase."
+      ],
+      "odiNumbers": [
+        "10777980",
+        "10778089",
+        "11079703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rotor Assembly Failure",
+      "impact": "The failure of the rotor assembly can cause the electrical system to fail, leading to a loss of power, battery failure, and potentially causing the engine to seize, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Similar to stator failure",
+        "including the check engine warning light illuminating",
+        "battery failure",
+        "inability to bump start",
+        "unbalanced rotor rotation",
+        "pieces of the alternator fracturing and falling into the crankcase."
+      ],
+      "odiNumbers": [
+        "11079703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Weld Crack",
+      "impact": "A cracked frame weld can compromise the structural integrity of the vehicle, affecting its handling and stability, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "A small",
+        "barely visible crack in the frame weld",
+        "typically located on the right side where the two sections of the frame meet",
+        "above the centerline of the clutch."
+      ],
+      "odiNumbers": [
+        "10783092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Weld Failure",
+      "impact": "The failure of the frame weld can cause a loss of structural integrity, leading to a potential loss of control or accident, which can result in serious injury or death.",
+      "symptoms": [
+        "Weld seam failure on the right side of the frame below the fuel tank",
+        "frame cracking or breaking",
+        "unusual noises or vibrations while riding."
+      ],
+      "odiNumbers": [
+        "10482256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

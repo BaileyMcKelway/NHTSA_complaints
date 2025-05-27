@@ -1,0 +1,75 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the passenger or driver to be unrestrained in the event of sudden stops or accidents, leading to increased risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle does not lock",
+        "the seat belt buckle is broken",
+        "the seat belt fails to restrain the passenger or driver",
+        "the seat belt buckle sometimes works and sometimes does not."
+      ],
+      "odiNumbers": [
+        "857090",
+        "977844",
+        "971263",
+        "967268",
+        "960935",
+        "960168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Notification of Recall",
+      "impact": "The delayed notification of the recall concerning seat belt buckles can lead to a prolonged period of risk for passengers and drivers, as they may be unaware of the potential safety issue.",
+      "symptoms": [
+        "Excessive time taken by the manufacturer to notify owners of the recall",
+        "lack of timely notification of the recall."
+      ],
+      "odiNumbers": [
+        "974897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become stuck in gear, leading to accidents, loss of control, or stranding the driver.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power or acceleration",
+        "the vehicle stalls or dies",
+        "the transmission makes unusual noises or vibrations",
+        "the vehicle is unable to shift into gear",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "604625",
+        "501700",
+        "10894359",
+        "10790783",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

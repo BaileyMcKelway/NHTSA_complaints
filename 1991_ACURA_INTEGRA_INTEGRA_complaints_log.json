@@ -1,0 +1,203 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Seatbelt Retractor Failure",
+      "impact": "The failure of the electric seatbelt retractor can cause the seatbelt to become stuck in the forward position, leading to a lack of proper restraint, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt retractor fails to operate",
+        "the seatbelt becomes stuck in the forward position",
+        "the red seatbelt light is on",
+        "a constant beeping sound is heard",
+        "the seatbelt retractor makes no sound when failing",
+        "the seatbelt only loosens when the door is re-opened."
+      ],
+      "odiNumbers": [
+        "10969446",
+        "10559740",
+        "10393448",
+        "10023566",
+        "895806",
+        "868174",
+        "862308",
+        "835238",
+        "518119",
+        "517949",
+        "809905",
+        "969779",
+        "967392",
+        "965761",
+        "486088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Seatbelt Over-Retraction",
+      "impact": "The over-retraction of the automatic seatbelt can cause the belt to become stuck, leading to a lack of proper restraint, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt over-retracts as the passenger door is closed and the seat is occupied",
+        "the belt only loosens when the door is re-opened."
+      ],
+      "odiNumbers": [
+        "10023566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Unlatching",
+      "impact": "The seatbelt unlatching can cause the belt to become unsecured, leading to a lack of proper restraint, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt unlatches as if the door had been opened",
+        "the belt becomes unsecured when going over a bump or hitting a ditch."
+      ],
+      "odiNumbers": [
+        "835238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Pump Failure",
+      "impact": "The failure of the ABS pump can cause the anti-lock brake system to malfunction, leading to brake lock-up or loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS pump runs continuously",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the vehicle experiences brake lock-up",
+        "unusual noises or vibrations when braking."
+      ],
+      "odiNumbers": [
+        "816370",
+        "706749",
+        "511693",
+        "970784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Master Cylinder Failure",
+      "impact": "The failure of the ABS master cylinder can cause the brake pedal to feel soft or spongy, leading to a loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "loose hydraulic pressure when stopping",
+        "must pump pedal to stop and keep the car from rolling."
+      ],
+      "odiNumbers": [
+        "706749",
+        "970784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Sensor or Electronic Failure",
+      "impact": "The failure of the ABS sensor or electronic system can cause the anti-lock brake system to malfunction, leading to brake lock-up or loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ABS system activates under normal braking",
+        "unusual noises or vibrations when braking",
+        "the vehicle occasionally stops when going over small bumps."
+      ],
+      "odiNumbers": [
+        "511693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Stuck Brake Caliper",
+      "impact": "A stuck brake caliper can cause uneven brake wear, reduced braking ability, and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the vehicle pulls to one side when braking",
+        "uneven brake wear",
+        "unusual noises or vibrations when braking."
+      ],
+      "odiNumbers": [
+        "478733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission fails completely",
+        "the vehicle is unable to move",
+        "harsh noise when shifting into reverse",
+        "loose bolt inside the transmission causing a hole in the transmission case."
+      ],
+      "odiNumbers": [
+        "784304",
+        "981363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Differential Unit Failure",
+      "impact": "Differential unit failure can cause loss of power to the wheels, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The differential unit fails due to pin breaking",
+        "causing loss of power to the wheels."
+      ],
+      "odiNumbers": [
+        "533675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause inconvenience and distraction to the driver, potentially leading to accidents.",
+      "symptoms": [
+        "Problems with interior lights",
+        "cassette player",
+        "and door locks",
+        "leaks from one of the windows",
+        "rust on the outside door and bottom of the door."
+      ],
+      "odiNumbers": [
+        "10038164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Manufacturer's Technical Service Bulletin (TSB) Dispute",
+      "impact": "Disputes over TSBs can lead to confusion and frustration for vehicle owners, potentially delaying necessary repairs.",
+      "symptoms": [
+        "Acura claims the TSB is only a mechanic's guideline and does not indicate a defect",
+        "despite the TSB citing a defect code (NO.042) and symptoms matching the owner's experience."
+      ],
+      "odiNumbers": [
+        "707135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

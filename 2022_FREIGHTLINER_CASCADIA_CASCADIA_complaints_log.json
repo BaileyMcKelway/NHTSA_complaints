@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Brake Activation and Air Brake System Failure",
+      "impact": "The uncommanded activation of the brake system can cause the vehicle to suddenly stop or lose control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes are applied without input from the driver",
+        "the Forward Collision-Avoidance warning light is illuminated",
+        "the brake caliper seizes",
+        "the tires explode",
+        "loss of brakes."
+      ],
+      "odiNumbers": [
+        "11550118",
+        "11532293",
+        "11529518",
+        "11523252",
+        "11503055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Air Dryer Filter and Brake Modulator",
+      "impact": "The failure of the air dryer filter and brake modulator can cause the brake system to malfunction, leading to loss of brakes, accidents, and fatalities.",
+      "symptoms": [
+        "The air dryer filter breaks off",
+        "the brake modulator valve fails",
+        "the brake caliper seizes",
+        "the tires explode",
+        "loss of brakes."
+      ],
+      "odiNumbers": [
+        "11532293",
+        "11523252",
+        "11503055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed Recall Repair and Parts Distribution Disconnect",
+      "impact": "The delay in recall repair and parts distribution disconnect can leave vehicles on the road with potentially faulty brake systems, increasing the risk of accidents and fatalities.",
+      "symptoms": [
+        "The part to do the recall repair is unavailable",
+        "the manufacturer has exceeded a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11550118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Automatic Emergency Braking (AEB) System",
+      "impact": "The AEB system's malfunction can cause sudden and unnecessary braking, leading to loss of control, accidents, and potentially life-threatening situations, especially on slippery roads.",
+      "symptoms": [
+        "The AEB system activates unnecessarily",
+        "causing the vehicle to brake hard without reason",
+        "even on slippery roads; the system detects targets incorrectly",
+        "leading to false alarms and unnecessary braking; the system overrides the driver's control",
+        "causing loss of control and potential accidents."
+      ],
+      "odiNumbers": [
+        "11451612",
+        "11445705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Collision Mitigation System",
+      "impact": "The failure of the collision mitigation system can lead to accidents, injuries, and fatalities, as the driver is not warned of impending collisions, and the system does not take action to prevent or mitigate the impact.",
+      "symptoms": [
+        "No warning or alert is provided to the driver of an impending collision",
+        "the collision mitigation system does not activate",
+        "the vehicle does not slow down or brake automatically",
+        "the driver is not alerted to take evasive action."
+      ],
+      "odiNumbers": [
+        "11516519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

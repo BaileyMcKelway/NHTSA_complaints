@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "has difficulty starting",
+        "the battery drains quickly",
+        "the alternator produces an electrical short",
+        "the vehicle's electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10429575",
+        "10133650",
+        "10075667",
+        "10031975",
+        "10032259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brakes can cause a loss of stopping power, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Rear brake hum or grinding noise",
+        "especially when accelerating from a full stop",
+        "occasional grinding from the driver's rear brake",
+        "failure of the brakes to function",
+        "vehicle rolling or moving unexpectedly."
+      ],
+      "odiNumbers": [
+        "10080917",
+        "9005739",
+        "739048",
+        "811598",
+        "810566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cracked Brake Rotors",
+      "impact": "Cracked brake rotors can cause the brakes to fail, leading to a loss of stopping power, accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Grinding or humming noise from the brakes",
+        "vibration when applying the brakes",
+        "brake failure",
+        "cracked or warped brake rotors."
+      ],
+      "odiNumbers": [
+        "9005739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the brakes to malfunction, leading to a loss of stopping power, accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Failure of the brakes to function",
+        "sudden loss of braking power",
+        "unexpected vehicle movement or rolling",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "810566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Sensor Failure",
+      "impact": "The sudden stalling of the engine can cause accidents, especially when it occurs at high speeds or in heavy traffic, and can leave the driver stranded. The failure of sensors can also lead to a loss of engine power, making it difficult to control the vehicle.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle loses power",
+        "the engine light comes on",
+        "the vehicle shuts off while in gear",
+        "the vehicle dies when at a light",
+        "in reverse",
+        "or when taking a turn."
+      ],
+      "odiNumbers": [
+        "10425215",
+        "10236780",
+        "742630"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the engine to stall, making it difficult or impossible to start the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle has difficulty starting",
+        "the engine stalls",
+        "the ignition switch fails",
+        "the ignition coils fail",
+        "the spark plugs wear out prematurely."
+      ],
+      "odiNumbers": [
+        "10236780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to stall, making it difficult or impossible to start the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle acts like it's running out of gas",
+        "the fuel pump fails",
+        "the fuel filter clogs",
+        "the fuel system leaks."
+      ],
+      "odiNumbers": [
+        "10236780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

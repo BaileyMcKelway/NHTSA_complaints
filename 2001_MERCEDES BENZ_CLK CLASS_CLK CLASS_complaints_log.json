@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster LED Failure",
+      "impact": "The failure of the instrument cluster LEDs can cause the driver to be unable to determine what gear they are in, leading to potential accidents or errors while driving.",
+      "symptoms": [
+        "The LEDs on the instrument cluster are faulty or have gone out",
+        "the gear indicator is no longer readable",
+        "the drive indicator does not register correctly",
+        "the LEDs for the clock and temperature are also failing."
+      ],
+      "odiNumbers": [
+        "10227663",
+        "10204223",
+        "10201185",
+        "10198355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Electronic Control Module Failure",
+      "impact": "The failure of the transmission electronic control module can cause the transmission to become stuck in one gear, leading to loss of acceleration, sudden slowdowns, and difficulty shifting gears, which can increase the risk of accidents, especially in traffic.",
+      "symptoms": [
+        "The transmission becomes stuck in one gear",
+        "often 2nd or 3rd gear",
+        "the vehicle does not accelerate properly",
+        "the vehicle slows down abruptly",
+        "the vehicle's speed is limited",
+        "and the driver may experience difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10200844",
+        "10163069",
+        "10159952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can make it difficult for the driver to determine which gear the vehicle is in, posing a safety hazard, especially when combined with transmission problems.",
+      "symptoms": [
+        "The pixels in the gear selector",
+        "temperature",
+        "and clock section of the instrument cluster do not light up",
+        "making it impossible to tell which gear the vehicle is in",
+        "and the \"P\" and \"R\" indicators are difficult to distinguish."
+      ],
+      "odiNumbers": [
+        "10200847"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Liquid Damage to Transmission Electronics",
+      "impact": "Liquid damage to the transmission electronics can cause the transmission to malfunction, leading to stuck gears, loss of acceleration, and sudden slowdowns, which can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission becomes stuck in one gear",
+        "often 2nd or 3rd gear",
+        "the vehicle does not accelerate properly",
+        "the vehicle slows down abruptly",
+        "and the vehicle's speed is limited."
+      ],
+      "odiNumbers": [
+        "10163069",
+        "10200844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

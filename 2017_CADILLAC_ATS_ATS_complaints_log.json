@@ -1,0 +1,169 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the loss of power steering while driving, leading to increased difficulty in steering, especially at slow speeds or around curves, which can increase the risk of a crash.",
+      "symptoms": [
+        "The power steering stops working",
+        "the steering wheel seizes",
+        "the vehicle is difficult to steer",
+        "the vehicle is hard to turn",
+        "especially at slow speeds or around curves."
+      ],
+      "odiNumbers": [
+        "11220920",
+        "11192031",
+        "11184166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Repair Part Unavailability",
+      "impact": "The unavailability of recall repair parts can lead to a delay in fixing the power steering failure, increasing the risk of a crash due to the loss of power steering.",
+      "symptoms": [
+        "The dealer is unable to schedule a recall repair appointment",
+        "the parts are not available",
+        "the manufacturer is unable to provide a timeline for part availability",
+        "the vehicle is not repaired."
+      ],
+      "odiNumbers": [
+        "11231340",
+        "11230505",
+        "11207493",
+        "11205379",
+        "11195638",
+        "11184674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer's Failure to Provide Timely Repair",
+      "impact": "The manufacturer's failure to provide timely repair can lead to a delay in fixing the power steering failure, increasing the risk of a crash due to the loss of power steering.",
+      "symptoms": [
+        "The manufacturer exceeds a reasonable amount of time for the recall repair",
+        "the manufacturer is unable to provide a timeline for part availability",
+        "the vehicle is not repaired."
+      ],
+      "odiNumbers": [
+        "11231340",
+        "11207493",
+        "11205379",
+        "11195638",
+        "11184674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "A faulty airbag sensor can lead to the airbag light staying on, indicating a potential safety hazard, and may prevent the airbags from deploying in the event of an accident.",
+      "symptoms": [
+        "Airbag light stays on",
+        "airbag sensor malfunction",
+        "uncertainty about airbag functionality."
+      ],
+      "odiNumbers": [
+        "11566405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission problems can cause loss of control, accidents, or stranding, especially when the vehicle is vibrating or shuddering at high speeds.",
+      "symptoms": [
+        "Vibration at 50 mph",
+        "shuddering",
+        "erratic transmission behavior",
+        "scary to drive."
+      ],
+      "odiNumbers": [
+        "11566405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "CUE Infotainment System Failure",
+      "impact": "A defective CUE screen can compromise safety features, such as hands-free directions, GPS, and radio alerts, increasing the risk of accidents.",
+      "symptoms": [
+        "CUE screen failure",
+        "screen cracking",
+        "loss of touch screen functionality",
+        "inability to access safety features."
+      ],
+      "odiNumbers": [
+        "11547225",
+        "11377074",
+        "11256917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Level Gauge Malfunction",
+      "impact": "An inaccurate fuel level gauge can lead to unexpected fuel depletion, stranding, or accidents.",
+      "symptoms": [
+        "Fuel level gauge drops to empty",
+        "touch screen display malfunction",
+        "requiring car restart to regain functionality."
+      ],
+      "odiNumbers": [
+        "11256917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Cadillac User Experience (CUE) Screen",
+      "impact": "The faulty CUE screen can cause distractions while driving, leading to accidents or near-misses, especially for senior and mature drivers.",
+      "symptoms": [
+        "The CUE screen is frozen",
+        "cracked",
+        "or unresponsive",
+        "causing loss of navigation",
+        "unexpected changes in radio and air-conditioning",
+        "and forcing drivers to use their phones for GPS while driving."
+      ],
+      "odiNumbers": [
+        "11576479",
+        "11450216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Stalling Without Warning",
+      "impact": "The vehicle stalling without warning can cause accidents, especially if it occurs on a highway or busy road, and can lead to a loss of control or collision.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "requiring towing to a dealership for diagnosis and repair."
+      ],
+      "odiNumbers": [
+        "11089664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

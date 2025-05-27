@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "A malfunctioning backup camera can increase the risk of accidents, particularly when reversing, as the driver may not have a clear view of the surroundings.",
+      "symptoms": [
+        "The backup camera displays a blurry image",
+        "no image",
+        "or an upside-down image; the camera fails to function while reversing; the camera image goes in and out or flickers."
+      ],
+      "odiNumbers": [
+        "11589361",
+        "11547001",
+        "11528227"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Hesitation",
+      "impact": "The stalling and hesitation of the engine can cause loss of control, accidents, or leave the driver stranded, especially in heavy traffic or when carrying passengers.",
+      "symptoms": [
+        "The engine stalls or hesitates when accelerating; the engine stalls in traffic or when backing out of a driveway; the engine goes into a protection mode without warning lights; the vehicle consumes excessive oil."
+      ],
+      "odiNumbers": [
+        "11550185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause difficulty or inability to steer the vehicle, increasing the risk of accidents or loss of control, especially during turns or when navigating tight spaces.",
+      "symptoms": [
+        "Loss of power steering",
+        "difficulty turning",
+        "feeling of no power steering",
+        "loud squealing sound when turning the steering wheel",
+        "front end of the vehicle bouncing",
+        "vibrating",
+        "and shaking up and down."
+      ],
+      "odiNumbers": [
+        "11571253",
+        "11525161",
+        "11396817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Backup Camera Malfunction",
+      "impact": "The malfunction of the rear backup camera can cause a safety hazard by obstructing the driver's view while reversing, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The rear backup camera display is upside down",
+        "the rear backup camera display is flashing in and out",
+        "the rear backup camera display is black",
+        "the rear backup camera display is malfunctioning intermittently."
+      ],
+      "odiNumbers": [
+        "11584225",
+        "11574999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Belt Failure",
+      "impact": "The failure of the tire tread belt can cause sudden tire blowouts, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Bubbles or blisters on the tire sidewall",
+        "sudden tire blowout",
+        "loss of steering control",
+        "vibration or shaking of the vehicle."
+      ],
+      "odiNumbers": [
+        "11534132",
+        "11429471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

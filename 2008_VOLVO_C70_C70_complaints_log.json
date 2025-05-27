@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the doors to randomly unlatch or open while the vehicle is in motion, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Doors randomly unlatch or open while driving",
+        "doors open without being unlatched",
+        "door open indicator shows on the dashboard",
+        "doors slump slightly ajar",
+        "windows drop like when the door is opened",
+        "doors unlock and randomly pop open during highway driving."
+      ],
+      "odiNumbers": [
+        "11456410",
+        "11433691",
+        "11433525",
+        "11343962",
+        "11337150",
+        "11210100",
+        "10913762",
+        "10497674",
+        "10481021"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "Sudden power steering failure can cause loss of vehicle control, leading to accidents, injuries, and property damage.",
+      "symptoms": [
+        "Power steering failure without warning",
+        "difficulty steering",
+        "hard to make turns",
+        "veering erratically to one side",
+        "panel lights indicating steering failure",
+        "brake failure",
+        "and low tire pressure."
+      ],
+      "odiNumbers": [
+        "10889001",
+        "10409874",
+        "10356080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Camber Arm Failure",
+      "impact": "Failure of the rear camber arms can cause uneven tire wear, leading to reduced traction and increased risk of accidents, and can also cause the vehicle to become uncontrollable.",
+      "symptoms": [
+        "Uneven tire wear",
+        "reduced vehicle control",
+        "and potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10497633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Passenger Door Opening",
+      "impact": "The sudden and unexpected opening of the passenger door while driving can cause a loss of control, increase the risk of accidents, and potentially lead to ejection of occupants or debris, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "The passenger door opens randomly while driving",
+        "often at high speeds",
+        "without any warning or input from the driver or passenger."
+      ],
+      "odiNumbers": [
+        "11319728",
+        "10980158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incorrect Vehicle Identification Number (VIN)",
+      "impact": "An incorrect VIN can lead to inaccurate information about the vehicle's trim level, features, and potential recalls, which can affect the vehicle's safety and performance.",
+      "symptoms": [
+        "The VIN number does not match the trim level of the vehicle",
+        "incorrect information about the vehicle's features",
+        "uncertainty about open recalls on the vehicle."
+      ],
+      "odiNumbers": [
+        "11588737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump and Fuel Gauge Failure",
+      "impact": "The failure of the fuel pump and fuel gauge can cause the vehicle to run out of fuel unexpectedly, leading to stalling, loss of power, and potentially causing accidents.",
+      "symptoms": [
+        "Fuel gauge shows incorrect readings",
+        "fuel gauge stuck on full",
+        "vehicle runs out of fuel unexpectedly",
+        "stalling",
+        "loss of power",
+        "fuel pump failure."
+      ],
+      "odiNumbers": [
+        "11498288",
+        "11434509",
+        "11162964",
+        "11155585",
+        "11155358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Fuel System Issue",
+      "impact": "The delay in recall repair for the fuel system issue can lead to a potential safety risk, as the problem may cause fuel leaks, fires, or other hazards, which can result in accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall repair delay and not an actual vehicle failure."
+      ],
+      "odiNumbers": [
+        "11586360",
+        "11577068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inaccurate Fuel Gauge Readings",
+      "impact": "The faulty fuel gauge can cause the vehicle to stall, leading to potential accidents or leaving the driver stranded, and may also lead to safety risks due to the uncertainty of fuel levels.",
+      "symptoms": [
+        "The fuel gauge displays an incorrect reading",
+        "often showing the tank as full when it is not",
+        "the vehicle stalls due to running out of fuel",
+        "the fuel gauge does not move or update",
+        "the fuel gauge is stuck on a specific reading."
+      ],
+      "odiNumbers": [
+        "11155240",
+        "11151691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

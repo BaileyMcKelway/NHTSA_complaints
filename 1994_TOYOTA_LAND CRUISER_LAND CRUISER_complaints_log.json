@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without warning",
+        "the accelerator pedal is difficult to depress",
+        "the vehicle accelerates while in reverse gear",
+        "the cruise control sticks and accelerates without warning."
+      ],
+      "odiNumbers": [
+        "10319624",
+        "10303798",
+        "10107388",
+        "819719",
+        "816337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the vehicle to jerk or pull to one side, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle jerks or pulls to one side when braking",
+        "the steering wheel jerks hard to one side",
+        "loss of control of the vehicle",
+        "brake failure",
+        "frequent brake replacements."
+      ],
+      "odiNumbers": [
+        "806942",
+        "807286",
+        "806364",
+        "484594",
+        "958164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Blowout",
+      "impact": "Tire tread separation and blowout can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "loss of air pressure",
+        "tire tread separation",
+        "vibration while driving",
+        "unusual tire wear."
+      ],
+      "odiNumbers": [
+        "10010090",
+        "566471",
+        "565448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Cracking and Air Loss",
+      "impact": "Cracks on the tire sidewall can lead to air loss, causing loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Cracks on the tire sidewall",
+        "pinhole leaks",
+        "air loss",
+        "tire damage that cannot be repaired."
+      ],
+      "odiNumbers": [
+        "566471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tire Vibration and Dimpling",
+      "impact": "Tire vibration and dimpling can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Vibration while driving",
+        "dimples or indentations on the tire sidewall",
+        "unusual tire wear."
+      ],
+      "odiNumbers": [
+        "887565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to pull to one side, making it difficult to control, which can lead to accidents, especially at high speeds.",
+      "symptoms": [
+        "The vehicle pulls to one side while driving",
+        "especially at slow speeds",
+        "loss of power steering assist",
+        "difficulty steering the vehicle",
+        "the vehicle wanders or drifts while driving."
+      ],
+      "odiNumbers": [
+        "8024091",
+        "554935",
+        "857684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

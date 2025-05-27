@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brakes to fail, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "The brake pedal travels excessively",
+        "the brake pedal goes to the floor",
+        "the brakes fail to stop the vehicle",
+        "the vehicle drags",
+        "a burning odor is present",
+        "the brake light illuminates on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11407233",
+        "10416269",
+        "10380942",
+        "10281401",
+        "10279692",
+        "10192148",
+        "10097583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The parking brake locks up on the road",
+        "the tire blows out before the vehicle can be stopped",
+        "the parking brake must be disconnected on the side of the road."
+      ],
+      "odiNumbers": [
+        "11407233",
+        "10459411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to fail, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "Boiling brake fluid",
+        "the brake pedal feels soft or spongy",
+        "the brakes fail to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10416269",
+        "10279692",
+        "10021379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Autobrake System Failure",
+      "impact": "The failure of the autobrake system can cause the vehicle to become immobilized, leading to accidents or leaving the driver stranded, which can be extremely dangerous to occupants and other traffic.",
+      "symptoms": [
+        "The autobrake system fails to engage or disengage properly",
+        "causing the vehicle to become stuck or move unexpectedly",
+        "resulting in loss of control",
+        "sudden slowing down",
+        "or violent deceleration."
+      ],
+      "odiNumbers": [
+        "10088372",
+        "10021215",
+        "10004771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unexpectedly, leading to accidents or damage to property, which can be dangerous to occupants and other traffic.",
+      "symptoms": [
+        "The parking brake fails to engage or hold",
+        "causing the vehicle to roll or move",
+        "requiring the use of external means to prevent movement",
+        "such as placing objects behind the wheels."
+      ],
+      "odiNumbers": [
+        "10038516",
+        "10004771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Parking Brake Engagement",
+      "impact": "The unintended engagement of the parking brake while driving can cause the vehicle to suddenly slow down or lose control, leading to accidents or near-misses, which can be dangerous to occupants and other traffic.",
+      "symptoms": [
+        "The parking brake engages unexpectedly while driving",
+        "causing the vehicle to slow down or decelerate rapidly",
+        "producing unusual smells or sounds",
+        "such as burning rubber."
+      ],
+      "odiNumbers": [
+        "10021215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Ignition Switch",
+      "impact": "A faulty ignition switch can cause the vehicle to stall or lose power, leading to a loss of brake and steering power, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the ignition switch melts",
+        "the vehicle loses brake and steering power",
+        "the dashboard and starter have no power",
+        "the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "10604529",
+        "10265720",
+        "10200868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

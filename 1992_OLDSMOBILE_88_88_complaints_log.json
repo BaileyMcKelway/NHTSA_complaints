@@ -1,0 +1,188 @@
+{
+  "totalComplaints": 99,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose braking capability, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The ABS light comes on and stays on",
+        "the brakes fail to engage or engage intermittently",
+        "the brake pedal travels to the floor",
+        "the vehicle slows down and causes wheels to drag",
+        "the ABS sensor light comes on",
+        "the vehicle slides or loses traction when braking."
+      ],
+      "odiNumbers": [
+        "732573",
+        "852049",
+        "853170",
+        "712463",
+        "818256",
+        "817446",
+        "816363",
+        "812517",
+        "810914",
+        "507214",
+        "504883",
+        "979486",
+        "501169",
+        "975920",
+        "972513",
+        "971540",
+        "971431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to fail, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal travels to the floor",
+        "the brakes fail to engage",
+        "the brake fluid level is low",
+        "there are no apparent leaks."
+      ],
+      "odiNumbers": [
+        "818256",
+        "971431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of the brake pads can cause the brakes to fail, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pads fail",
+        "the brake shoes are worn out",
+        "the drums are damaged."
+      ],
+      "odiNumbers": [
+        "525758",
+        "513942",
+        "975920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Wheel Cylinder Failure",
+      "impact": "The failure of the rear wheel cylinder can cause the brakes to fail, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The rear wheel cylinder leaks",
+        "the springs break",
+        "the brake shoes are worn out",
+        "the drums are damaged."
+      ],
+      "odiNumbers": [
+        "513942",
+        "802157",
+        "504883",
+        "975920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Bag Failure",
+      "impact": "The failure of the air bag system can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The air bag does not deploy in the event of an accident",
+        "the driver hits the steering wheel due to no air bag deployment."
+      ],
+      "odiNumbers": [
+        "853170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver's Side Airbag to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in a collision can increase the risk of injury or fatality to the driver, as the airbag is designed to provide additional protection in the event of a crash.",
+      "symptoms": [
+        "The driver's side airbag does not deploy during a frontal collision",
+        "despite the vehicle being involved in a significant impact."
+      ],
+      "odiNumbers": [
+        "8017158",
+        "823306",
+        "808628",
+        "802792",
+        "986891",
+        "505222",
+        "980410",
+        "980410",
+        "976230",
+        "976041",
+        "972046",
+        "971064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Leading to Fire",
+      "impact": "Engine failure can cause the vehicle to catch fire, resulting in damage or total loss of the vehicle, and potentially putting the occupants at risk of injury or death.",
+      "symptoms": [
+        "The vehicle suddenly stalls or shuts off",
+        "often accompanied by smoke or flames coming from the engine compartment",
+        "and may be difficult or impossible to restart."
+      ],
+      "odiNumbers": [
+        "882738",
+        "814177",
+        "804864",
+        "983862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "Intermittent engine stalling can cause the vehicle to lose power, making it difficult to control, and potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or shuts off",
+        "often without warning",
+        "and may be difficult or impossible to restart",
+        "with the problem sometimes resolving itself after a period of time."
+      ],
+      "odiNumbers": [
+        "10192370",
+        "813937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause the engine to overheat, leading to damage or failure, and potentially causing the vehicle to stall or catch fire.",
+      "symptoms": [
+        "The water pump bearing makes noise",
+        "or the water pump needs to be replaced."
+      ],
+      "odiNumbers": [
+        "560615",
+        "507214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

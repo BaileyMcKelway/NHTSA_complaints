@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the loss of braking ability, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brakes are unable to stop the vehicle",
+        "the vehicle pulls to one side when braking",
+        "the brake warning light is illuminated",
+        "the ABS system is replaced multiple times",
+        "and the master cylinder is replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "10017482",
+        "763784",
+        "747394",
+        "745574",
+        "718799",
+        "715966",
+        "715002",
+        "714467",
+        "849049",
+        "710564",
+        "547879",
+        "709466",
+        "706981",
+        "545124",
+        "705287",
+        "700975",
+        "702008",
+        "700529",
+        "700495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the loss of braking ability, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brakes are unable to stop the vehicle",
+        "the master cylinder is replaced multiple times",
+        "and the ABS system is replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "715966",
+        "715002",
+        "714467",
+        "545124",
+        "702008",
+        "700529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic Servo Failure",
+      "impact": "The failure of the hydraulic servo can cause the loss of braking ability, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brakes are unable to stop the vehicle",
+        "and the hydraulic servo is replaced."
+      ],
+      "odiNumbers": [
+        "710564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Convertible Top Fastener Failure",
+      "impact": "The failure of the convertible top fasteners can cause the top to fly off while driving, resulting in damage to the vehicle and potential injury to occupants or other road users.",
+      "symptoms": [
+        "The convertible top blows back or flies off while driving",
+        "the jack screws or fasteners disengage from the body of the vehicle",
+        "the convertible top is loose or unstable."
+      ],
+      "odiNumbers": [
+        "525590",
+        "524764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Bosch Braking System Malfunction",
+      "impact": "The malfunction of the Bosch braking system can cause the brakes to fail completely, leading to a loss of control and increased risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of braking ability",
+        "inability to stop the vehicle",
+        "brake failure while driving",
+        "increased stopping distance",
+        "or complete brake failure."
+      ],
+      "odiNumbers": [
+        "11113417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Relay Failure in Bosch Braking System",
+      "impact": "The failure of the relay in the Bosch braking system can cause the brakes to malfunction or fail completely, leading to a loss of control and increased risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of braking ability",
+        "inability to stop the vehicle",
+        "brake failure while driving",
+        "increased stopping distance",
+        "or complete brake failure."
+      ],
+      "odiNumbers": [
+        "11113417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

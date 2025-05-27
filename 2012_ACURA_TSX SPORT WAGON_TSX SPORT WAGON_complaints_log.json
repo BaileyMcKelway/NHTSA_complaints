@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VISIBILITY",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause the loss of power steering, making it difficult or impossible to control the vehicle, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The power steering warning light comes on",
+        "the power steering fails",
+        "the steering wheel becomes extremely difficult to turn",
+        "the vehicle is hard to maneuver",
+        "and the EPS warning indicator and alarm display."
+      ],
+      "odiNumbers": [
+        "11209063",
+        "11174451",
+        "11165408",
+        "11128834",
+        "11119424",
+        "11064150",
+        "11016381",
+        "10972316",
+        "10865611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Sunroof Glass Shattering",
+      "impact": "The sudden and unexplained shattering of the sunroof glass can cause a loud noise, distract the driver, and potentially lead to loss of control or accidents. Additionally, the shattered glass can cause injuries to occupants or create a hazardous driving environment.",
+      "symptoms": [
+        "Loud popping or cracking sounds",
+        "sudden shattering of the sunroof glass",
+        "cool air entering the vehicle",
+        "crackling sounds after the incident",
+        "no visible impact marks on the sunroof or surrounding area."
+      ],
+      "odiNumbers": [
+        "10704088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Throttle Response and Stalling",
+      "impact": "The erratic throttle response and stalling can cause a loss of control, leading to accidents, especially when driving in heavy traffic or stop-and-go conditions.",
+      "symptoms": [
+        "The vehicle stalls when accelerating from a stop",
+        "then leaps forward when the accelerator is pressed again",
+        "the vehicle hesitates or surges when accelerating",
+        "the vehicle's engine RPM fluctuates erratically",
+        "the vehicle's speed is unpredictable."
+      ],
+      "odiNumbers": [
+        "10443613"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

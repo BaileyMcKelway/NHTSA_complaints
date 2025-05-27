@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to suddenly and unexpectedly accelerate, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the engine RPM increases rapidly",
+        "the wheels spin or lock up",
+        "the vehicle fails to respond to braking input",
+        "the vehicle collides with other objects or vehicles."
+      ],
+      "odiNumbers": [
+        "11308320",
+        "10216773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Central Electronic Module (CEM) Failure",
+      "impact": "The failure of the Central Electronic Module (CEM) can cause multiple electrical systems to malfunction, leading to safety issues, such as reduced visibility, and inconvenience to the driver.",
+      "symptoms": [
+        "The car-check engine lights",
+        "gas gauge",
+        "vehicle range",
+        "and tire pressure monitoring systems cease to function",
+        "high beam headlights cannot be dimmed or turned on",
+        "creating visibility issues for the driver and oncoming traffic."
+      ],
+      "odiNumbers": [
+        "11287760",
+        "10386237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Turn Signal Board Failure",
+      "impact": "The failure of the turn signal board can cause turn signals to malfunction, leading to safety issues and potential accidents.",
+      "symptoms": [
+        "Turn signals do not function properly",
+        "creating a hazard for the driver and other road users."
+      ],
+      "odiNumbers": [
+        "10386237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Mechanism Failure",
+      "impact": "The failure of the seat belt mechanism can cause the seat belt to stick, making it difficult or impossible to release, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The seat belt sticks and does not release immediately",
+        "the seat belt fails to retract properly."
+      ],
+      "odiNumbers": [
+        "10364953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radiator Coolant Leak",
+      "impact": "The radiator coolant leak can cause the engine to overheat, leading to engine damage, loss of power, and potentially causing accidents.",
+      "symptoms": [
+        "Coolant leaks from the radiator",
+        "the engine temperature gauge rises",
+        "the engine overheats."
+      ],
+      "odiNumbers": [
+        "10364953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unexplained Engine Stalling",
+      "impact": "The unexplained engine stalling can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine suddenly stalls",
+        "an \"Engine Immobilized\" message appears on the dashboard",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "10326326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

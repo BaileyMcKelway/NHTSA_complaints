@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Power Train Issue",
+      "impact": "The delay in receiving the necessary parts for the recall repair can leave the vehicle in an unsafe condition, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "10727007",
+        "10714768"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Bearing Failure",
+      "impact": "The failure of the steering column bearing can cause the vehicle to wobble, making it difficult to control, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle wobbles or shakes while driving",
+        "the handlebars or steering wheel vibrate",
+        "the vehicle is hard to control",
+        "the steering feels unstable."
+      ],
+      "odiNumbers": [
+        "10472791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brakes can lead to a loss of control, increased stopping distance, and accidents, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The rear brakes do not engage when applied",
+        "the vehicle takes longer to stop",
+        "the front brakes are overworked",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "10360106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Voltage Regulator Failure",
+      "impact": "The failure of the voltage regulator can cause a fire in the wire harness, potentially leading to a vehicle fire, injury, or damage.",
+      "symptoms": [
+        "Sparking or arcing under the seat",
+        "fire in the wire harness",
+        "electrical system malfunction",
+        "engine stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "10240187"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "GPS Mounting Failure",
+      "impact": "The detachment of the GPS mount can cause damage to the fuel tank and potentially lead to fuel leaks, which can increase the risk of a fire or explosion.",
+      "symptoms": [
+        "The GPS becomes detached from the inner fairing",
+        "falls onto the fuel tank",
+        "and causes damage."
+      ],
+      "odiNumbers": [
+        "10203480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

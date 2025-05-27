@@ -1,0 +1,208 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical systems to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Radio turns to max volume",
+        "air/heat turns on and off by itself",
+        "vehicle slams on brakes due to faulty crash sensor",
+        "power steering service light comes on",
+        "and other warning lights appear on the screen."
+      ],
+      "odiNumbers": [
+        "11569643",
+        "11548608",
+        "11543429",
+        "11492591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause loss of control, making it difficult or impossible to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Power steering failure while driving",
+        "hyper-sensitive steering",
+        "vehicle yanks into opposing lane without driver input",
+        "and loss of steering ability."
+      ],
+      "odiNumbers": [
+        "11543429",
+        "11492591",
+        "11519219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Drivetrain Failure",
+      "impact": "The failure of the transmission and drivetrain can cause loss of control, making it difficult or impossible to accelerate or decelerate, which can lead to accidents.",
+      "symptoms": [
+        "Transmission drops out of gear",
+        "RPMs rev up",
+        "vehicle kicks or jerks when accelerating",
+        "and unusual noises from the drivetrain."
+      ],
+      "odiNumbers": [
+        "11472631",
+        "11446417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Shut-Down and Multiple System Failure",
+      "impact": "The failure of multiple systems can cause the vehicle to shut down, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle displays multiple warning lights",
+        "including \"lane assist disabled",
+        "\" \"stability control arm needs servicing",
+        "\" and \"traction control unavailable",
+        "\" followed by a \"shutting down noise\" and complete loss of power."
+      ],
+      "odiNumbers": [
+        "11519219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Axle and Differential Failure",
+      "impact": "The failure of the axle and differential can cause loss of control, making it difficult or impossible to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "CV boot rupture",
+        "axle separation from the frame",
+        "and destruction of the differential",
+        "causing unusual noises and vibrations."
+      ],
+      "odiNumbers": [
+        "11472631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Fire Hazard)",
+      "impact": "A sudden electrical system failure can cause a fire, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle catches fire",
+        "often with no warning signs."
+      ],
+      "odiNumbers": [
+        "11561896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Climate Control System Malfunction",
+      "impact": "A malfunctioning climate control system can cause visual obstruction, leading to accidents, especially in wet and dark conditions.",
+      "symptoms": [
+        "Climate control system randomly changes settings",
+        "including temperature",
+        "recirculating mode",
+        "A/C on and off",
+        "fan speed",
+        "and fan direction; main and lower front climate control screens act erratically; driver cannot override the system."
+      ],
+      "odiNumbers": [
+        "11504045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Advanced Safety Features Failure",
+      "impact": "Failure of advanced safety features, such as Lane Keeping Assistance, Lane Departure Warning, and Forward Collision Warning, can increase the risk of accidents.",
+      "symptoms": [
+        "Features do not function properly",
+        "with warning messages and exclamation marks displayed on the dashboard."
+      ],
+      "odiNumbers": [
+        "11514021"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "Sudden engine stalling can cause accidents, especially at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Engine shuts off momentarily",
+        "often without warning signs",
+        "and may restart quickly."
+      ],
+      "odiNumbers": [
+        "11480995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Wiring Harness Issue (Fire Hazard)",
+      "impact": "A wiring harness issue can cause electrical shorts, major component failures, and a possible fire hazard, especially during off-road use.",
+      "symptoms": [
+        "Wiring harness is not properly secured",
+        "with a significant drop on the driver's side",
+        "potentially causing electrical issues."
+      ],
+      "odiNumbers": [
+        "11473068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "An intermittent infotainment system can cause distractions while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Radio function is extremely intermittent",
+        "with no clear pattern or warning signs."
+      ],
+      "odiNumbers": [
+        "11516255"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Engine Shutdown",
+      "impact": "The uncommanded engine shutdown can cause a loss of power and control, increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine suddenly loses power",
+        "the vehicle slows down or comes to a stop",
+        "the dashboard prompts the driver to put the vehicle in park",
+        "white smoke comes out of the exhaust",
+        "the vehicle's anti-lock brakes may malfunction."
+      ],
+      "odiNumbers": [
+        "11526311",
+        "11499656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

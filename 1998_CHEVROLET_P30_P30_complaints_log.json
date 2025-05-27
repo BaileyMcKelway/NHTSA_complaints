@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "PARKING BRAKE",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Park Brake System Failure",
+      "impact": "The failure of the auto park brake system can cause the emergency brake to engage unexpectedly, leading to sudden stops, potentially causing accidents or injuries, especially when driving at high speeds.",
+      "symptoms": [
+        "The auto park brake system engages unexpectedly",
+        "the emergency brake light comes on intermittently",
+        "the pump runs excessively",
+        "the vehicle comes to a sudden stop",
+        "the brake system fails while driving or parked",
+        "smoke is present."
+      ],
+      "odiNumbers": [
+        "10142200",
+        "10002628",
+        "10001929",
+        "843190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Park/Emergency Brake System Failure",
+      "impact": "The failure of the auto park/emergency brake system can cause the vehicle to halt to a complete stop without warning, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The emergency light comes on",
+        "the vehicle suddenly stops or becomes difficult to move",
+        "a burning smell is noticed",
+        "the hydraulic reservoir is nearly empty",
+        "the pressure switch on the hydraulic system leaks."
+      ],
+      "odiNumbers": [
+        "10558319",
+        "10024096",
+        "10011474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pump Reservoir Seal Failure",
+      "impact": "The failure of the brake pump reservoir seals can cause the automatic braking system (ABS) to engage without warning, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The ABS engages without warning",
+        "the vehicle halts to a complete stop",
+        "the brake pump reservoir seals fail."
+      ],
+      "odiNumbers": [
+        "10558319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling/Loss of Power",
+      "impact": "The sudden and unexpected loss of engine power can lead to a loss of control, increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "Engine shuts down completely",
+        "loss of power",
+        "loss of control",
+        "loss of steering",
+        "no warning signs",
+        "engine restarts after a delay (up to 4 hours)",
+        "gas tank reads full despite actual fuel level",
+        "fuel filter was replaced."
+      ],
+      "odiNumbers": [
+        "8014775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "A faulty fuel system can cause the engine to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Gas tank reads full despite actual fuel level",
+        "fuel filter was replaced",
+        "engine stalling",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "8014775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Crankshaft Position Sensor Failure",
+      "impact": "A faulty crankshaft position sensor can cause the engine to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "crankshaft position sensor replaced."
+      ],
+      "odiNumbers": [
+        "8014775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Gear Box Loosening",
+      "impact": "The power steering gear box coming loose while driving can cause the front wheels to become misaligned, leading to uneven tire wear, reduced vehicle stability, and increased risk of accidents.",
+      "symptoms": [
+        "The power steering gear box becomes loose",
+        "the front wheels become misaligned",
+        "the front tires wear unevenly",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "870181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

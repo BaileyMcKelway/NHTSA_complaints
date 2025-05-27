@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "LATCHES/LOCKS/LINKAGES",
+    "VEHICLE SPEED CONTROL",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of issues, including power drainage, short circuits, and system malfunctions, which can lead to the vehicle becoming inoperable, trapping the driver inside, or even causing a fire.",
+      "symptoms": [
+        "Intermittent power drainage",
+        "short circuits",
+        "malfunctioning electrical components",
+        "inability to use power door locks and windows",
+        "vehicle becoming inoperable."
+      ],
+      "odiNumbers": [
+        "508450",
+        "962071",
+        "480715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Lock System",
+      "impact": "The malfunctioning door lock system can trap occupants inside the vehicle, causing distress, discomfort, and potentially life-threatening situations, especially in extreme temperatures.",
+      "symptoms": [
+        "The doors lock unexpectedly",
+        "the doors fail to unlock",
+        "the doors lock with occupants inside",
+        "the vehicle's security system activates unnecessarily",
+        "the doors lock when opened or closed."
+      ],
+      "odiNumbers": [
+        "861601",
+        "474648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Emergency Response",
+      "impact": "The inadequate response from roadside assistance and dealership personnel can exacerbate the situation, causing further distress and anxiety for the trapped occupants.",
+      "symptoms": [
+        "Roadside assistance provides inadequate or unsafe solutions",
+        "dealership personnel fail to provide adequate support or resolution",
+        "occupants are left stranded or trapped in the vehicle."
+      ],
+      "odiNumbers": [
+        "861601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Locking System Failure",
+      "impact": "The failure of the door locking system can cause passengers to become trapped inside the vehicle, leading to safety risks and potential panic.",
+      "symptoms": [
+        "The doors do not unlock from the inside when locked from the outside",
+        "passengers are locked in the vehicle",
+        "inability to exit the vehicle from the inside."
+      ],
+      "odiNumbers": [
+        "502206",
+        "975012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Cable Stuck in Open Position",
+      "impact": "The accelerator cable becoming stuck in the open position can cause unintended acceleration, leading to a loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Unintended acceleration",
+        "sudden increase in speed",
+        "inability to slow down or stop the vehicle",
+        "accelerator pedal stuck in the open position."
+      ],
+      "odiNumbers": [
+        "970165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The continuous leakage of the power steering pump can cause a loss of power steering assist, making it difficult to steer the vehicle, especially at low speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "Power steering fluid leaks from the pump",
+        "the power steering pump makes a whining or grinding noise",
+        "the power steering pump is hot to the touch",
+        "the vehicle is difficult to steer",
+        "especially at low speeds",
+        "the power steering fluid level is low."
+      ],
+      "odiNumbers": [
+        "479581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

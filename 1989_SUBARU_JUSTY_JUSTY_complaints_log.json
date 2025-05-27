@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall, lose power, or become stuck in gear, leading to accidents, injuries, or strandings.",
+      "symptoms": [
+        "The transmission fails while traveling",
+        "the gear becomes locked in drive",
+        "the vehicle is unable to shift out of gear",
+        "the vehicle vibrates while driving",
+        "the transmission light comes on in the dashboard",
+        "loud thumping noise from the transmission",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "767033",
+        "860316",
+        "970718",
+        "964114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dipstick-Related Transmission Problems",
+      "impact": "Issues with the dipstick can cause the transmission to become defective, leading to premature wear, failure, or other transmission-related problems.",
+      "symptoms": [
+        "The dipstick is faulty",
+        "the transmission becomes defective",
+        "the vehicle experiences vibration or stalls."
+      ],
+      "odiNumbers": [
+        "767033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Retractor Failure",
+      "impact": "The failure of the driver's side seat belt retractor can cause the seat belt to malfunction, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt will not retract",
+        "the seat belt buckle fails to latch",
+        "the seat belt latch is broken",
+        "pieces of plastic fall into the latch."
+      ],
+      "odiNumbers": [
+        "982508",
+        "960593",
+        "487106",
+        "481733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning System Malfunction",
+      "impact": "The failure of the air conditioning system to produce cold air can cause discomfort and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "The air conditioning blows warm air instead of cold",
+        "the air conditioning does not cool the vehicle cabin",
+        "the air conditioning system is inoperative."
+      ],
+      "odiNumbers": [
+        "836075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Inadequate Repair by Dealership",
+      "impact": "Inadequate repair by the dealership can lead to prolonged periods of discomfort and distraction while driving, potentially causing accidents.",
+      "symptoms": [
+        "The problem persists after multiple visits to the dealership",
+        "the dealership is unable to diagnose or repair the issue",
+        "the dealership provides inadequate or incomplete repairs."
+      ],
+      "odiNumbers": [
+        "836075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

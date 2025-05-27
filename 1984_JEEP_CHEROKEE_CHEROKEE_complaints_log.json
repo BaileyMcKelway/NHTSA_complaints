@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can lead to inadequate restraint during an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt does not retract properly",
+        "the seat belt retractor fails to lock",
+        "the seat belt retractor does not return to its normal position",
+        "the seat belt is loose or does not provide adequate restraint."
+      ],
+      "odiNumbers": [
+        "551104",
+        "539898",
+        "529910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Material Failure",
+      "impact": "The failure of the seat belt material can lead to a complete loss of restraint during an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt crumbles or breaks apart",
+        "the seat belt material is weak or brittle",
+        "the seat belt fails to provide adequate restraint during an accident."
+      ],
+      "odiNumbers": [
+        "551104",
+        "533659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating",
+      "impact": "Engine overheating can cause damage to the engine and its components, leading to costly repairs, and in extreme cases, engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine overheats without warning",
+        "the temperature gauge rises to the red zone",
+        "the vehicle loses power",
+        "the vehicle produces a loud knocking or grinding noise",
+        "the vehicle produces a sweet or burning smell."
+      ],
+      "odiNumbers": [
+        "8021044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause damage to the vehicle and its surroundings, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Flames or smoke emanating from the engine compartment",
+        "burning smell",
+        "loud popping or cracking noise",
+        "loss of engine power",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "508000"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Accelerator Pedal Position Sensor (APPS)",
+      "impact": "A malfunctioning APPS can cause the vehicle to suddenly accelerate, leading to a loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The gas pedal sticks",
+        "the vehicle surges or accelerates suddenly",
+        "the vehicle accelerates without input from the driver",
+        "the vehicle is difficult to control",
+        "the vehicle's speed is unpredictable."
+      ],
+      "odiNumbers": [
+        "529910",
+        "800960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle Control (ETC) System Failure",
+      "impact": "A failure of the ETC system can cause the vehicle to suddenly accelerate, leading to a loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The gas pedal sticks",
+        "the vehicle surges or accelerates suddenly",
+        "the vehicle accelerates without input from the driver",
+        "the vehicle is difficult to control",
+        "the vehicle's speed is unpredictable."
+      ],
+      "odiNumbers": [
+        "800960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the vehicle to lose power, hesitate, or fail to shift gears, which can lead to accidents, injuries, or strand the driver.",
+      "symptoms": [
+        "The transmission shifts rough",
+        "fails to shift past a certain gear",
+        "the hold light flashes",
+        "the transmission makes loud noises",
+        "the transmission slips into gear unexpectedly",
+        "and the vehicle may jerk or lurch forward."
+      ],
+      "odiNumbers": [
+        "10322475",
+        "10124181",
+        "968163",
+        "500230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Computer Failure",
+      "impact": "The failure of the transmission computer can cause the transmission to malfunction, leading to premature wear, failure to shift gears, and unexpected movements, which can result in accidents or injuries.",
+      "symptoms": [
+        "The transmission computer sends incorrect signals",
+        "causing the transmission to shift erratically",
+        "select incorrect gears",
+        "or fail to shift gears altogether."
+      ],
+      "odiNumbers": [
+        "10124181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Failure",
+      "impact": "The failure of the speedometer can cause the driver to lose awareness of their speed, which can lead to accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer does not display the correct speed",
+        "or the speedometer is broken."
+      ],
+      "odiNumbers": [
+        "535096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Seat Belt Retractor Failure",
+      "impact": "The failure of the automatic seat belt retractor can prevent the seat belt from functioning properly, which can lead to a failure to restrain the occupant in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt alarm sounds continuously",
+        "the dashboard warning light remains illuminated",
+        "the seat belt fails to move forward when the door is opened",
+        "the seat belt moves back and forth while driving",
+        "the motorized belt stops working completely."
+      ],
+      "odiNumbers": [
+        "10052405",
+        "704712",
+        "984850",
+        "977158",
+        "960603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Line Rupture",
+      "impact": "The rupture of the brake line can cause a complete loss of braking ability, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake pedal",
+        "brake pedal goes all the way to the floor",
+        "popping sound when pressing the brake pedal",
+        "air hissing sound when pumping the brakes",
+        "complete loss of braking ability."
+      ],
+      "odiNumbers": [
+        "10429955"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sudden Airbag Deployment",
+      "impact": "The sudden deployment of the airbag can cause injuries, including facial burns and neck pain, and can also lead to accidents due to the unexpected distraction.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "facial burns",
+        "neck pain",
+        "sudden and forceful application of the brakes."
+      ],
+      "odiNumbers": [
+        "801290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

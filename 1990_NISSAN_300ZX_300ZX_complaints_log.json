@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to engine damage or destruction, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Water pump failure",
+        "engine overheating",
+        "weep hole in the side of the pump spurring out water",
+        "spinning part chewed up."
+      ],
+      "odiNumbers": [
+        "10296632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power or stall, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission failure to change gears",
+        "slow shifting from 1st to 2nd gear",
+        "transmission leaks."
+      ],
+      "odiNumbers": [
+        "10118767",
+        "541401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine and Cooling System Issues",
+      "impact": "The failure of engine components or the cooling system can cause the engine to overheat, leading to engine damage or destruction, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "engine failure",
+        "plastic cooling fan cracks",
+        "defective engine valves",
+        "engine shuts off in hot weather",
+        "electrical problems",
+        "air conditioning and stereo problems."
+      ],
+      "odiNumbers": [
+        "10118767",
+        "856214",
+        "541672",
+        "533907",
+        "541401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of fuel injectors can cause the vehicle to run rough, lose power, and potentially lead to engine compartment fires, which can result in serious damage to the vehicle and pose a risk to the driver and passengers.",
+      "symptoms": [
+        "The vehicle runs rough",
+        "loses power",
+        "fails to accelerate",
+        "fuel injectors leak fuel over the engine",
+        "excess fuel goes into the cylinder",
+        "and the potential for engine compartment fires."
+      ],
+      "odiNumbers": [
+        "10066727",
+        "705382",
+        "529836",
+        "981323",
+        "981246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Brake Rotors and Calipers Causing Vibration",
+      "impact": "Warped brake rotors and calipers can cause the steering wheel to vibrate excessively, leading to a loss of control and increased stopping distance, which can result in accidents.",
+      "symptoms": [
+        "Excessive shake and steering wheel vibration while brakes are applied",
+        "intermittent lock-up and acceleration of the vehicle when applying brakes."
+      ],
+      "odiNumbers": [
+        "703286",
+        "534689",
+        "958474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Planetary Failure due to Cooler Design",
+      "impact": "The repeated failure of the planetary gear in the automatic transmission can cause the vehicle to seize or lose power while driving, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences sudden loss of power",
+        "the transmission slips or hesitates",
+        "the vehicle seizes or stalls while driving",
+        "unusual noises or vibrations from the transmission."
+      ],
+      "odiNumbers": [
+        "505160",
+        "967780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

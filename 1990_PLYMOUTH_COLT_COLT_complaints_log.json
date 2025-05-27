@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Failure",
+      "impact": "The failure of the motorized seat belt system can cause the seat belts to malfunction, leading to choking or entrapment of occupants, which can result in serious injury or death.",
+      "symptoms": [
+        "The seat belts become too tight",
+        "choking occupants",
+        "the seat belts fail to retract",
+        "the motorized seat belt retractor gets stuck in a closed position",
+        "the release mechanism breaks",
+        "and the buckle becomes inoperative."
+      ],
+      "odiNumbers": [
+        "10020527",
+        "526526",
+        "805842",
+        "987306",
+        "984138",
+        "964766",
+        "964487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Shaking",
+      "impact": "The engine stalling and shaking can cause the vehicle to lose power and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "the engine shakes",
+        "the vehicle stalls",
+        "the computer does not respond to the problem."
+      ],
+      "odiNumbers": [
+        "708727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire",
+      "impact": "An electrical fire can cause significant damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "the fire is suspected to be electrical in origin."
+      ],
+      "odiNumbers": [
+        "961753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Pad Wear",
+      "impact": "Premature brake pad wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when braking",
+        "brake pedal feels soft or spongy",
+        "brake pads wear out quickly",
+        "brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "479530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

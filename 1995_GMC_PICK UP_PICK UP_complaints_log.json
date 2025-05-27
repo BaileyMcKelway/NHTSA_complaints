@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose control, leading to accidents or near-misses, and can also result in extended stopping distances, which can increase the risk of collisions.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the brakes lock up",
+        "the vehicle slides or loses traction",
+        "the brake pedal feels soft or spongy",
+        "the vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "10046125",
+        "487344",
+        "503296"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brake pedal to feel soft or spongy, leading to reduced braking performance, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels farther than usual before the brakes engage",
+        "the vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "504845",
+        "502259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Brake Failure",
+      "impact": "The failure of the front brakes can cause the vehicle to lose control, leading to accidents or near-misses, and can also result in extended stopping distances, which can increase the risk of collisions.",
+      "symptoms": [
+        "The front brakes are excessively worn",
+        "the front brakes are replaced frequently",
+        "the vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "558474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag to Deploy in Frontal Collisions",
+      "impact": "The failure of the airbag to deploy in a frontal collision can increase the risk of serious injury or fatality to the driver and passengers, as the airbag is designed to provide critical protection in these types of crashes.",
+      "symptoms": [
+        "Airbag fails to deploy in a frontal collision",
+        "despite meeting the deployment threshold (e.g.",
+        "40 mph impact speed)."
+      ],
+      "odiNumbers": [
+        "781554",
+        "802100",
+        "984658",
+        "984210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Reclining Bolt Failure",
+      "impact": "The failure of the driver's seat reclining bolt can cause the seat to become detached from the frame, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The driver's seat becomes loose or detached from the frame",
+        "a snapping sound is heard while braking",
+        "the driver is thrown forward",
+        "and the seat is no longer firmly attached to the vehicle."
+      ],
+      "odiNumbers": [
+        "10065426",
+        "8009935",
+        "505873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

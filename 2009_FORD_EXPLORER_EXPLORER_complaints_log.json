@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Failure",
+      "impact": "The failure of the throttle body can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates independently",
+        "the accelerator pedal becomes stuck in the open throttle position",
+        "the vehicle surges forward when accelerated",
+        "the brakes are unable to stop the acceleration",
+        "the wrench warning indicator illuminates."
+      ],
+      "odiNumbers": [
+        "11129927",
+        "11047822",
+        "10939256",
+        "10659418",
+        "10357876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power or stall, leading to accidents or leaving the driver stranded, especially at high speeds.",
+      "symptoms": [
+        "The transmission fails while driving",
+        "the vehicle loses power or stalls",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "11412923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shifter Mechanism Failure",
+      "impact": "The failure of the shifter mechanism can cause the vehicle to roll backwards or lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The shifter does not stay in place",
+        "the vehicle does not stay in gear",
+        "the vehicle rolls backwards",
+        "the pin in the shifter is not working."
+      ],
+      "odiNumbers": [
+        "11112179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Fuel System or Catalytic Converter Failure",
+      "impact": "The failure of the fuel system or catalytic converter can cause the vehicle to emit strong, unpleasant odors, which can be a sign of a more serious underlying problem.",
+      "symptoms": [
+        "The vehicle emits a strong",
+        "sulfur-like (egg-like) smell",
+        "the smell is more noticeable after long trips or hot days",
+        "the smell has been persistent for several years."
+      ],
+      "odiNumbers": [
+        "10954992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "The failure of the torque converter can cause the vehicle to lurch or stall, leading to loss of control and increased risk of accidents, especially when stopping or slowing down.",
+      "symptoms": [
+        "The vehicle lurches or jerks when coming to a stop",
+        "the vehicle idles roughly or makes an airy sound",
+        "the vehicle's brakes wear out prematurely",
+        "the vehicle's powertrain warning lights illuminate",
+        "the vehicle spins out of control or stalls."
+      ],
+      "odiNumbers": [
+        "11324598",
+        "10460371",
+        "10280621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

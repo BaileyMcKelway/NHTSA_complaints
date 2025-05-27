@@ -1,0 +1,163 @@
+{
+  "totalComplaints": 79,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Integrated Brake Controller Failure",
+      "impact": "The failure of the integrated brake controller can cause the loss of trailer brakes, leading to accidents, loss of control, and potential damage to the vehicle and trailer.",
+      "symptoms": [
+        "The trailer brakes disconnect",
+        "the truck brakes stop working",
+        "the tires begin to smoke",
+        "and there is a burning smell from the tires. The warning \"No Trailer\" appears on the heads-up display."
+      ],
+      "odiNumbers": [
+        "11566580",
+        "11339957",
+        "11337855",
+        "11065975"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the loss of braking ability, leading to accidents, loss of control, and potential damage to the vehicle and occupants.",
+      "symptoms": [
+        "The brake pedal feels extremely loose",
+        "the brake pedal travels to the floor without warning",
+        "the brakes seize without warning",
+        "and the brake caliper becomes tangled in the wheel."
+      ],
+      "odiNumbers": [
+        "11218479",
+        "11192198",
+        "11173636"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Pre-Collision System Failure",
+      "impact": "The failure of the pre-collision system can cause the vehicle to brake unnecessarily, leading to accidents, loss of control, and potential damage to the vehicle and occupants.",
+      "symptoms": [
+        "The pre-collision system warning and \"Brake\" warning light come on without reason",
+        "and the system fails to function properly."
+      ],
+      "odiNumbers": [
+        "11151453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trailer Brake Control Failure",
+      "impact": "Failure of the trailer brake control can lead to loss of control, accidents, or collisions, especially when towing heavy trailers.",
+      "symptoms": [
+        "The trailer brake control fails to recognize the trailer",
+        "the trailer brake system does not work",
+        "the gain cannot be set initially",
+        "the system malfunctions when attached to a trailer or trailer simulator."
+      ],
+      "odiNumbers": [
+        "11451616",
+        "11383302",
+        "11056157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pre-Collision System Malfunction",
+      "impact": "The malfunction of the pre-collision system can lead to accidents or collisions, as the system may not engage when needed, putting the driver and passengers at risk.",
+      "symptoms": [
+        "The pre-collision sensor light comes on at various times",
+        "the dash reads \"pre-collision unavailable\"",
+        "the system malfunctions without reason",
+        "the system does not work when needed",
+        "the system cycles on and off to reset but the light stays on."
+      ],
+      "odiNumbers": [
+        "11155490",
+        "11090011",
+        "11076853",
+        "11071599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Pre-Collision System (PCS) Failure",
+      "impact": "The failure of the PCS can cause the vehicle to accelerate or brake unexpectedly, leading to potential accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The PCS warning light illuminates on the dashboard",
+        "the vehicle brakes or accelerates unexpectedly",
+        "the cruise control disengages",
+        "the trailer brake malfunction warning light is illuminated",
+        "and the vehicle may experience sudden de-acceleration."
+      ],
+      "odiNumbers": [
+        "11217105",
+        "11194181",
+        "11157224",
+        "11141691",
+        "11118773",
+        "11080802",
+        "11074699",
+        "11053745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dynamic Radar-Controlled Cruise Control Failure",
+      "impact": "The failure of the dynamic radar-controlled cruise control can cause the vehicle to lose cruise control functionality, leading to potential accidents or driver inconvenience.",
+      "symptoms": [
+        "The cruise control disengages",
+        "the PCS warning light illuminates on the dashboard",
+        "and the vehicle may experience sudden de-acceleration."
+      ],
+      "odiNumbers": [
+        "11157224",
+        "11141691",
+        "11080802",
+        "11074699",
+        "11053745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Collision Avoidance System Failure",
+      "impact": "The intermittent failure of the collision avoidance system can cause the vehicle to accelerate or brake unexpectedly, leading to potential accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The collision avoidance system warning light illuminates on the dashboard",
+        "the vehicle accelerates or brakes unexpectedly",
+        "and the system may malfunction even when the windshield is clean."
+      ],
+      "odiNumbers": [
+        "11141691",
+        "11080802",
+        "11074699",
+        "11053745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

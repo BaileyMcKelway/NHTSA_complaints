@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "SEATS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the airbag ECM can cause the airbag indicator to flash, which may lead to unnecessary anxiety and distraction for the driver, and potentially mask a real airbag system malfunction, compromising vehicle safety.",
+      "symptoms": [
+        "The airbag indicator light flashes or remains illuminated on the dashboard",
+        "the airbag system may not function properly in the event of a crash."
+      ],
+      "odiNumbers": [
+        "604757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Deactivation Request due to Medical Concerns",
+      "impact": "The deployment of airbags can potentially exacerbate pre-existing medical conditions, such as eye problems, and may lead to further injury or even blindness.",
+      "symptoms": [
+        "None",
+        "as this is a proactive request to disconnect the airbags due to medical concerns."
+      ],
+      "odiNumbers": [
+        "510851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Oxygen Sensor",
+      "impact": "A faulty oxygen sensor can cause the check engine light to illuminate, leading to decreased fuel efficiency, increased emissions, and potential damage to the catalytic converter. If left unchecked, it can also cause engine performance issues, stalling, or difficulty starting the engine.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "the vehicle's fuel efficiency decreases",
+        "the vehicle's emissions increase",
+        "the engine stalls or has difficulty starting",
+        "the engine runs rough or misfires."
+      ],
+      "odiNumbers": [
+        "566266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Regulator Failure",
+      "impact": "The failure of the power window regulator can cause the window to become stuck, unable to move up or down, which can obstruct the driver's view and create a safety hazard.",
+      "symptoms": [
+        "The power window does not move up or down",
+        "the window is stuck in a partially open or closed position",
+        "the window makes a grinding or scraping noise when attempting to move",
+        "the window switch does not respond when pressed."
+      ],
+      "odiNumbers": [
+        "604947",
+        "10432119",
+        "10394214",
+        "10385119",
+        "10374119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

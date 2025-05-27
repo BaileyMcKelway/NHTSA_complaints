@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to ride on its axle, leading to hard steering, rough riding, and increased risk of accidents, including rollover.",
+      "symptoms": [
+        "The air suspension system falls down on the tire",
+        "the vehicle rides on its axle",
+        "hard steering",
+        "rough riding",
+        "difficulty turning",
+        "potential for loss of control."
+      ],
+      "odiNumbers": [
+        "9004605",
+        "818016",
+        "809659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure due to Excessive Heat",
+      "impact": "The failure of the ignition module can cause the vehicle to stall while driving, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the engine suddenly stops running",
+        "the ignition module overheats",
+        "the distributor cap or rotor shows signs of excessive heat."
+      ],
+      "odiNumbers": [
+        "562199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Short Causing Compartment Fire",
+      "impact": "An electrical short can cause a compartment fire under the dash, potentially spreading to other areas of the vehicle and putting occupants at risk of injury or death.",
+      "symptoms": [
+        "Smoke or flames visible under the dash",
+        "burning smell or odor",
+        "electrical burning smell",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "982925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure due to Broken Transmission Control Cable Linkage",
+      "impact": "The failure of the transmission control cable linkage can cause the transmission to slip or fail to shift properly, leading to loss of vehicle control, accidents, or stranding.",
+      "symptoms": [
+        "Transmission slipping",
+        "failure to shift into higher gears",
+        "transmission fluid appears dark or burnt",
+        "transmission control cable linkage is loose or broken."
+      ],
+      "odiNumbers": [
+        "753701",
+        "966394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

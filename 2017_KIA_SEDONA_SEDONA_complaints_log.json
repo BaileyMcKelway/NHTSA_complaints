@@ -1,0 +1,391 @@
+{
+  "totalComplaints": 83,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 22,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Due to Crankshaft or Connecting Rod Failure",
+      "impact": "The failure of the engine due to crankshaft or connecting rod failure can cause the vehicle to stall or seize, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine makes a knocking or loud noise",
+        "the engine stalls or seizes",
+        "the vehicle shudders or vibrates",
+        "metal shavings are found in the oil",
+        "the oil pan is filled with metal",
+        "smoke and oil come out of the front of the car",
+        "the engine light comes on solid."
+      ],
+      "odiNumbers": [
+        "11591780",
+        "11586997",
+        "11585939",
+        "11579461",
+        "11570292",
+        "11562085",
+        "11561531",
+        "11556486",
+        "11527550",
+        "11518211",
+        "11494008",
+        "11478821",
+        "11472234",
+        "11451067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure Due to Lack of Oil or Oil Starvation",
+      "impact": "The failure of the engine due to lack of oil or oil starvation can cause the vehicle to stall or seize, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine fails due to lack of oil",
+        "no oil light comes on",
+        "the engine makes a loud noise",
+        "the vehicle stalls or seizes",
+        "the engine light comes on solid."
+      ],
+      "odiNumbers": [
+        "11494008",
+        "11472234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure Due to Rod Bearing Failure",
+      "impact": "The failure of the engine due to rod bearing failure can cause the vehicle to stall or seize, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine makes a loud noise",
+        "the vehicle stalls or seizes",
+        "no indicator light comes on",
+        "the engine fails due to rod bearing failure."
+      ],
+      "odiNumbers": [
+        "11478821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure Due to Unknown Causes",
+      "impact": "The failure of the engine due to unknown causes can cause the vehicle to stall or seize, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine fails",
+        "the vehicle stalls or seizes",
+        "no warning lights come on",
+        "the engine light comes on solid",
+        "the vehicle turns off power/engine while driving."
+      ],
+      "odiNumbers": [
+        "11476136",
+        "11440479",
+        "11363375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause various safety issues, such as loss of headlights, turn signals, and brake lights, increasing the risk of accidents.",
+      "symptoms": [
+        "Headlights shut off",
+        "warning lights come on",
+        "loss of power",
+        "electrical systems malfunction",
+        "rear brake lights fail",
+        "turn signals malfunction."
+      ],
+      "odiNumbers": [
+        "11461593",
+        "11448362",
+        "11403414",
+        "11396804",
+        "11337324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Issues (Rodent Damage)",
+      "impact": "Rodent damage to wiring can cause electrical system failure, leading to safety issues such as loss of headlights, turn signals, and brake lights, increasing the risk of accidents.",
+      "symptoms": [
+        "Warning lights appear",
+        "rear washer fails",
+        "cruise control fails",
+        "check engine light comes on",
+        "car stalls",
+        "wiring damage."
+      ],
+      "odiNumbers": [
+        "11089677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sliding Door Malfunction",
+      "impact": "Sliding door malfunction can cause safety issues, such as doors opening or closing unexpectedly, potentially causing injury or accidents.",
+      "symptoms": [
+        "Sliding doors malfunction",
+        "doors open or close unexpectedly",
+        "doors fail to stop when obstructed."
+      ],
+      "odiNumbers": [
+        "11174419",
+        "11123985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "Backup camera failure can cause safety issues, such as increased risk of accidents or injuries when reversing.",
+      "symptoms": [
+        "Backup camera fails to engage",
+        "image is difficult to see",
+        "camera adjusts slowly to changing light conditions."
+      ],
+      "odiNumbers": [
+        "11301934",
+        "11301935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause safety issues, such as loss of power, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine light comes on",
+        "engine sounds loud",
+        "difficulty driving up steep slopes."
+      ],
+      "odiNumbers": [
+        "11075308"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Clutch System Failure",
+      "impact": "Clutch system failure can cause safety issues, such as loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "11573908",
+        "11562661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Door Latch Failure",
+      "impact": "The failure of the power door latch can cause the doors to not latch securely, leading to safety risks, especially in the event of an accident.",
+      "symptoms": [
+        "Doors do not latch securely",
+        "warning alarm sounds",
+        "doors may not close completely",
+        "difficulty opening doors manually or electronically."
+      ],
+      "odiNumbers": [
+        "11571978",
+        "11432396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Paint Peeling",
+      "impact": "Paint peeling can lead to rust and corrosion, affecting the vehicle's appearance and potentially causing structural damage.",
+      "symptoms": [
+        "Paint peeling off around rear and side windows",
+        "paint peeling on multiple surfaces."
+      ],
+      "odiNumbers": [
+        "11528678",
+        "11522468",
+        "11489567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause engine damage, leading to costly repairs and potentially causing a fire.",
+      "symptoms": [
+        "Vehicle decelerates while pressing gas",
+        "engine won't turn over",
+        "fuel rail too low code",
+        "cylinder misfire."
+      ],
+      "odiNumbers": [
+        "11475156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sliding Door Sunshade Failure",
+      "impact": "Sliding door sunshade failure can cause injury to occupants, especially children.",
+      "symptoms": [
+        "Sunshade fabric rips",
+        "rod becomes exposed",
+        "rod can cause injury if not removed."
+      ],
+      "odiNumbers": [
+        "11421963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vehicle Drift",
+      "impact": "Vehicle drift can cause loss of control, leading to accidents.",
+      "symptoms": [
+        "Vehicle drifts to one side",
+        "especially on highways."
+      ],
+      "odiNumbers": [
+        "11222724"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Glass Shattering",
+      "impact": "Glass shattering can cause injury to occupants and damage to the vehicle.",
+      "symptoms": [
+        "Loud explosion",
+        "shattered glass covering the back of the van."
+      ],
+      "odiNumbers": [
+        "11155360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Keyless Push Button Failure",
+      "impact": "Keyless push button failure can cause carbon monoxide poisoning if the vehicle is left running in an enclosed space.",
+      "symptoms": [
+        "Vehicle fails to turn off",
+        "no alarm to warn occupants."
+      ],
+      "odiNumbers": [
+        "11124426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Hands-Free Device Failure",
+      "impact": "Hands-free device failure can cause distraction while driving, leading to accidents.",
+      "symptoms": [
+        "Hands-free device does not work with Android or Apple smartphones as advertised."
+      ],
+      "odiNumbers": [
+        "11013117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 9,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "Vehicle stalling can cause loss of power, leading to accidents or stranding occupants.",
+      "symptoms": [
+        "Vehicle shuts down upon slowing down to stop",
+        "complete loss of power",
+        "difficulty restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "10968902"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Paint Chipping and Flaking",
+      "impact": "The premature chipping and flaking of the paint can lead to rust and corrosion, compromising the vehicle's structural integrity and affecting its appearance.",
+      "symptoms": [
+        "Paint chipping and flaking on the entire vehicle exterior."
+      ],
+      "odiNumbers": [
+        "11588362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Sliding Door Malfunction",
+      "impact": "The malfunctioning power sliding doors can cause injuries, accidents, or fatalities, especially when the doors close unexpectedly or fail to latch properly.",
+      "symptoms": [
+        "Power sliding doors sticking",
+        "not opening or closing properly",
+        "grinding noises",
+        "doors closing unexpectedly",
+        "doors not latching securely",
+        "doors opening while driving."
+      ],
+      "odiNumbers": [
+        "11556841",
+        "11507588",
+        "11487817",
+        "11277186",
+        "11172652",
+        "11118334",
+        "11072918",
+        "11025293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sliding Door Latching Issues",
+      "impact": "The faulty latching mechanism can cause the sliding doors to open while driving, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sliding doors not latching securely",
+        "doors opening while driving",
+        "grinding noises",
+        "doors sticking."
+      ],
+      "odiNumbers": [
+        "11487817",
+        "11277186",
+        "11072918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

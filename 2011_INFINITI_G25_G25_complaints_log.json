@@ -1,0 +1,173 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SUSPENSION",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Lock Failure",
+      "impact": "The failure of the steering lock can cause the vehicle to become immobilized, leaving the driver stranded and potentially in a dangerous situation. This can also lead to accidents or injuries, especially if the vehicle is unable to be moved to a safe location.",
+      "symptoms": [
+        "The Intelligent Key System warning light (yellow \"KEY\" light) comes on",
+        "the vehicle will not start",
+        "the steering wheel fails to lock",
+        "the intelligent key indicator illuminates on the dashboard when the push-button ignition is pressed."
+      ],
+      "odiNumbers": [
+        "11566146",
+        "11502928",
+        "11253082",
+        "11074652",
+        "10948423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Mass Air Flow Sensor Failure and ECU Reprogramming Issues",
+      "impact": "The failure of the mass air flow sensor can cause poor engine performance, decreased fuel efficiency, and engine stalling, which can lead to accidents or leave the driver stranded. Additionally, improper reprogramming of the sensor can exacerbate the issue.",
+      "symptoms": [
+        "Engine light comes on",
+        "poor fuel mileage",
+        "decreased engine performance",
+        "engine stalling",
+        "acceleration issues."
+      ],
+      "odiNumbers": [
+        "11468786",
+        "10920502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ECU Software Update Issues and Intake Volume Learn Problems",
+      "impact": "The failure to update the ECU software can cause the engine to stall, leading to accidents or leaving the driver stranded. The intake volume learn problem can also cause poor engine performance and decreased fuel efficiency.",
+      "symptoms": [
+        "Engine stalling",
+        "poor fuel mileage",
+        "decreased engine performance",
+        "acceleration issues."
+      ],
+      "odiNumbers": [
+        "11468786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Lock Assembly Failure",
+      "impact": "The failure of the steering lock assembly can cause the vehicle to not start, leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle will not start",
+        "yellow key symbol and red car symbol with a key inside appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "10899628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag deployment system can cause serious injury or death in the event of an accident.",
+      "symptoms": [
+        "Airbags did not deploy in an accident."
+      ],
+      "odiNumbers": [
+        "10920502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Occupant Sensor Failure and Air Bag Non-Deployment",
+      "impact": "The failure of the occupant sensor can lead to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "The supplemental air bag warning light illuminates on the dashboard",
+        "error code B1018 is displayed",
+        "airbags fail to deploy in the event of a crash",
+        "seat belts may also fail to function properly."
+      ],
+      "odiNumbers": [
+        "11574019",
+        "10639101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "10745615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Front Strut Wheel House Knuckle Fracture",
+      "impact": "A fractured front strut wheel house knuckle can cause unstable vehicle handling, leading to loss of control and accidents.",
+      "symptoms": [
+        "Abnormal noise while turning",
+        "uneven tire wear",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "10671383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "A malfunctioning cruise control system can cause unintended acceleration or deceleration, leading to accidents or loss of control.",
+      "symptoms": [
+        "Cruise control light flickers",
+        "cruise control does not engage or disengage properly",
+        "unexpected changes in vehicle speed."
+      ],
+      "odiNumbers": [
+        "10671383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Jerking or Lurching",
+      "impact": "The sudden and unexpected jerking or lurching of the vehicle can cause loss of control, accidents, or near-miss situations, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle jerks or lurches forward while accelerating",
+        "the vehicle jerks or lurches while parking",
+        "the vehicle experiences an abrupt jerking sensation in the rear",
+        "the vehicle feels like it's being continuously crashed into from the rear."
+      ],
+      "odiNumbers": [
+        "10442654",
+        "10436220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

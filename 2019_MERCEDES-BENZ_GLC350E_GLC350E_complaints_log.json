@@ -1,0 +1,243 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose motive power, stall, and shut off, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences a burning odor",
+        "unknown messages displayed on the instrument panel",
+        "loss of motive power",
+        "stalling",
+        "and shutting off."
+      ],
+      "odiNumbers": [
+        "11377146",
+        "11469867",
+        "11476056",
+        "11474981",
+        "11468180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Ingress and Electrical Component Failure",
+      "impact": "Water ingress can cause electrical component failure, leading to loss of motive power, stalling, and shutting off, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences flooding on the inside",
+        "electrical components flooded",
+        "no warning lights",
+        "and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11517337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Keyless Go Entry Malfunction",
+      "impact": "The malfunction of the Keyless Go Entry system can cause the vehicle to fail to recognize the key, leading to difficulties in starting the vehicle, which can be a safety concern.",
+      "symptoms": [
+        "The vehicle fails to recognize the key",
+        "the vehicle locks without being prompted",
+        "and the vehicle fails to start."
+      ],
+      "odiNumbers": [
+        "11510049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Command System Failure",
+      "impact": "The failure of the command system can cause the rear camera to malfunction, auto on/off to not work, and the system to reboot while driving, which can be a safety concern.",
+      "symptoms": [
+        "The command system turns off and reboots while driving",
+        "the rear camera malfunctions",
+        "and auto on/off does not work."
+      ],
+      "odiNumbers": [
+        "11485136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "The delay in recall repair can cause the vehicle to remain in an unsafe condition, leading to potential accidents or safety risks.",
+      "symptoms": [
+        "The vehicle is subject to a recall",
+        "but the parts are not available",
+        "or the update is pending",
+        "and the manufacturer has exceeded a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11476056",
+        "11474981",
+        "11468180",
+        "11408485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crankcase Ventilation Oil Separator (PCV) Failure",
+      "impact": "The failure of the PCV valve can cause engine problems, affect emission controls, and lead to costly repairs. It can also cause the vehicle to malfunction, potentially leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Error code P052E",
+        "crankcase valve error",
+        "engine problems",
+        "emission controls malfunction",
+        "soft or spongy clutch pedal",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "11589246",
+        "11557373",
+        "11524385"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "SIM Module Defect",
+      "impact": "The SIM module defect can cause the vehicle's emergency response system to malfunction, potentially leading to delayed or failed emergency responses in the event of an accident.",
+      "symptoms": [
+        "No symptoms reported",
+        "but the defect can cause the SIM module to become disabled and not connect to the mobile network",
+        "posing a risk to the driver's safety."
+      ],
+      "odiNumbers": [
+        "11475485",
+        "11474323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Fire",
+      "impact": "The engine fire can cause the vehicle to be completely destroyed, posing a significant risk to the driver's safety and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "unusual noises",
+        "liquid dripping from under the engine",
+        "smoke intensifying",
+        "and the car bursting into flames."
+      ],
+      "odiNumbers": [
+        "11300570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "The fuel system malfunction can cause the vehicle to stall, potentially leading to accidents or stranding the driver. It can also cause the vehicle to malfunction, leading to costly repairs.",
+      "symptoms": [
+        "Vehicle stalls",
+        "message appears stating there is not enough fuel",
+        "energy flow through the battery is low",
+        "vehicle does not recognize the fuel level."
+      ],
+      "odiNumbers": [
+        "11203297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Separator and Actuator Malfunction",
+      "impact": "The malfunction of the engine separator and actuator can cause the engine light to come on, and the vehicle may not pass emissions tests. In severe cases, it can lead to a loss of power, deceleration, and increased risk of accidents.",
+      "symptoms": [
+        "Engine light comes on",
+        "code P052E71 appears",
+        "engine light flickers on and off",
+        "loss of power",
+        "deceleration",
+        "and inability to maintain speed."
+      ],
+      "odiNumbers": [
+        "11572879",
+        "11546233",
+        "11538269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cracked Piston due to Faulty Wrist Pin",
+      "impact": "A cracked piston can cause the engine to malfunction, leading to a loss of power, deceleration, and increased risk of accidents. In severe cases, it can cause the engine to fail, resulting in costly repairs or even engine replacement.",
+      "symptoms": [
+        "Vehicle shaking",
+        "check engine light comes on",
+        "loss of power",
+        "deceleration",
+        "and inability to maintain speed."
+      ],
+      "odiNumbers": [
+        "11556722",
+        "11470529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Trunk through Body Panels",
+      "impact": "Water accumulation in the trunk can cause damage to the vehicle's electrical systems, corrosion, and mold growth, leading to safety issues and costly repairs.",
+      "symptoms": [
+        "Water coming out of the trunk interior body panels when opened",
+        "water accumulation in the trunk",
+        "musty smell",
+        "corrosion",
+        "or electrical issues."
+      ],
+      "odiNumbers": [
+        "11570700"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sunroof Panel Cracking and Detachment",
+      "impact": "Cracking or detachment of the sunroof panel can cause glass shattering, injury, and accidents, as well as water ingress into the vehicle.",
+      "symptoms": [
+        "Cracks in the sunroof panel",
+        "abnormal windy sound while driving",
+        "partial detachment of the front roof panel",
+        "glass shattering",
+        "water accumulation in the vehicle."
+      ],
+      "odiNumbers": [
+        "11559480",
+        "11554845",
+        "11446666"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

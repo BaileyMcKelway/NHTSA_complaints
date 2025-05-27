@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Failure with Brake Fluid Leakage",
+      "impact": "The repeated failure of the master cylinder can cause brake fluid leakage, leading to a loss of braking power, increased stopping distances, and a higher risk of accidents.",
+      "symptoms": [
+        "Brake fluid leakage",
+        "master cylinder failure",
+        "repeated replacements of the master cylinder",
+        "soft or spongy brake pedal",
+        "brake pedal travel is excessive",
+        "brake pedal feels low or goes to the floor."
+      ],
+      "odiNumbers": [
+        "810243",
+        "980881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to loss of control, increased stopping distances, and a higher risk of accidents.",
+      "symptoms": [
+        "ABS failure",
+        "brake lock-up",
+        "sudden and unexpected braking",
+        "inability to stop the vehicle",
+        "vehicle skidding or sliding."
+      ],
+      "odiNumbers": [
+        "976191",
+        "976098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause a loss of braking power, increased stopping distances, and a higher risk of accidents.",
+      "symptoms": [
+        "Brake booster failure",
+        "incorrect brake booster installation",
+        "brake pedal feels hard or difficult to press",
+        "brake pedal travel is excessive",
+        "brake pedal feels low or goes to the floor."
+      ],
+      "odiNumbers": [
+        "970764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Track Anchor Failure",
+      "impact": "The failure of the seat track anchor can cause the driver's seat to detach from the anchor, leading to a loss of control of the vehicle, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The driver's seat detaches from the anchor",
+        "the seat rocks forward",
+        "the seat feels unstable or loose."
+      ],
+      "odiNumbers": [
+        "805061",
+        "805063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Airbag Failure to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in a frontal collision can increase the risk of serious injury or death to the driver.",
+      "symptoms": [
+        "The airbag warning light may illuminate on the dashboard",
+        "the airbag may not deploy in a crash",
+        "the driver may experience injuries that could have been mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "982507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

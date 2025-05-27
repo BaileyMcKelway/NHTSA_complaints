@@ -1,0 +1,294 @@
+{
+  "totalComplaints": 88,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to hesitate or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or loses power when accelerating",
+        "the transmission slips or hesitates when shifting gears",
+        "the vehicle shakes or jerks when shifting gears",
+        "the vehicle has harsh downshifts",
+        "the vehicle has delayed response to driver input."
+      ],
+      "odiNumbers": [
+        "11477596",
+        "11464341",
+        "11426486",
+        "11421543",
+        "11405813",
+        "11386446",
+        "11361578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the engine leaks oil",
+        "the engine overheats",
+        "the vehicle has a rough idle",
+        "the vehicle shudders or vibrates when idling."
+      ],
+      "odiNumbers": [
+        "11590819",
+        "11481137",
+        "11338985",
+        "11338293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose control or crash, leading to accidents or injuries.",
+      "symptoms": [
+        "The brake warning light appears on the instrument panel",
+        "the vehicle hesitates or loses power when depressing the accelerator pedal",
+        "the vehicle decelerates suddenly."
+      ],
+      "odiNumbers": [
+        "11481137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage or failure.",
+      "symptoms": [
+        "The engine overheats",
+        "the coolant level is low",
+        "the heater hoses need to be replaced",
+        "the engine needs to be flushed and refilled."
+      ],
+      "odiNumbers": [
+        "11590819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Battery dies frequently",
+        "clutch pedal sticks to the floor",
+        "vehicle loses power",
+        "engine light comes on",
+        "and the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "11555368",
+        "11475784",
+        "11420362",
+        "11307531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch System Failure",
+      "impact": "The failure of the clutch system can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "and the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11555368",
+        "11497838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "HVAC System Failure",
+      "impact": "The failure of the HVAC system can cause the AC fan to quit working, leading to discomfort and reduced visibility.",
+      "symptoms": [
+        "AC fan stops working",
+        "blower motor fails",
+        "and the fuse box melts."
+      ],
+      "odiNumbers": [
+        "11485882"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Idle Speed Issue",
+      "impact": "The engine idle speed issue can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Idle speed jumps to 1",
+        "500 RPM",
+        "check engine light comes on",
+        "and the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "11475784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Forward Collision Avoidance System Failure",
+      "impact": "The failure of the forward collision avoidance system can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Forward collision avoidance warning comes on",
+        "check engine light comes on",
+        "and the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "11475784",
+        "11352301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccuracy of the fuel gauge can cause the driver to run out of fuel, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Fuel gauge does not accurately adjust for changes in the amount of gas",
+        "and the fuel tank warning light comes on incorrectly."
+      ],
+      "odiNumbers": [
+        "11414356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Emergency brake applies by itself",
+        "and the vehicle stops suddenly."
+      ],
+      "odiNumbers": [
+        "11359814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Blind Spot Detection System Failure",
+      "impact": "The failure of the blind spot detection system can cause the driver to be unaware of vehicles in the blind spot, leading to accidents.",
+      "symptoms": [
+        "Passenger's side blind spot detection system fails to activate",
+        "and the forward collision warning light intermittently activates."
+      ],
+      "odiNumbers": [
+        "11352301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to damage to the engine and potentially causing a breakdown or accident.",
+      "symptoms": [
+        "Engine overheating warning",
+        "loss of coolant",
+        "white smoke coming from the exhaust",
+        "burning smell",
+        "coolant leak",
+        "and failure of the heater to warm the cabin."
+      ],
+      "odiNumbers": [
+        "11562162",
+        "11561382",
+        "11549170",
+        "11517035",
+        "11512791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause the vehicle to stall or shut off while driving, leading to a loss of control and potentially causing an accident.",
+      "symptoms": [
+        "Sudden shutdown of the vehicle",
+        "dashboard lights illuminating",
+        "failure to restart the vehicle",
+        "and stalling of the engine."
+      ],
+      "odiNumbers": [
+        "11407502",
+        "11360642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unlocking/Starting System Failure",
+      "impact": "The failure of the unlocking/starting system can cause inconvenience and potentially leave the driver stranded.",
+      "symptoms": [
+        "Failure to unlock the vehicle using the key fob or cellphone app",
+        "and intermittent failure of the vehicle to start."
+      ],
+      "odiNumbers": [
+        "11549646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Grinding Noise While Driving",
+      "impact": "The grinding noise while driving can cause discomfort and potentially lead to further damage to the vehicle.",
+      "symptoms": [
+        "Grinding noise while driving",
+        "and loose undershield dragging."
+      ],
+      "odiNumbers": [
+        "11489948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Module Replacement Issues",
+      "impact": "The unavailability of replacement modules can cause delays and inconvenience to the driver.",
+      "symptoms": [
+        "Check engine light illumination",
+        "and unavailability of replacement modules."
+      ],
+      "odiNumbers": [
+        "11462918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

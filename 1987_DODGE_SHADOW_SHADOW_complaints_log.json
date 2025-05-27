@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating Issues",
+      "impact": "Engine overheating can cause damage to engine components, leading to costly repairs, and potentially resulting in a vehicle fire, which can cause injuries or fatalities.",
+      "symptoms": [
+        "Engine overheating",
+        "engine light stays on",
+        "vehicle runs sluggish",
+        "thermostat malfunction",
+        "PCV failure",
+        "cracked engine cylinder head/gasket leak",
+        "radiator hose failure",
+        "water pump failure."
+      ],
+      "odiNumbers": [
+        "475026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Issues",
+      "impact": "Ignition system failures can cause the vehicle to run poorly or not at all, leading to inconvenience, safety risks, and potential breakdowns.",
+      "symptoms": [
+        "Engine light stays on",
+        "vehicle doesn't want to run",
+        "ignition plugs/rotor/caps failure."
+      ],
+      "odiNumbers": [
+        "780128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause injuries, fatalities, and property damage.",
+      "symptoms": [
+        "Vehicle caught on fire while parked."
+      ],
+      "odiNumbers": [
+        "785998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of fuel injectors can cause the vehicle to stall without warning, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine hesitates or misfires",
+        "the vehicle experiences poor engine performance."
+      ],
+      "odiNumbers": [
+        "802574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Leaks and Fires",
+      "impact": "Fuel leaks and fires can cause serious safety risks, including engine fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Fuel leaks from the carburetor",
+        "fuel regulator hose",
+        "or fuel hose",
+        "engine fires",
+        "smoke from the engine",
+        "gasoline spraying onto the engine."
+      ],
+      "odiNumbers": [
+        "984602",
+        "488108",
+        "481276",
+        "475026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Failure in Rear-End Collisions",
+      "impact": "The failure of the driver's seat in rear-end collisions can cause the seat to recline or break, potentially leading to serious injury or fatality to the driver.",
+      "symptoms": [
+        "The driver's seat reclines or breaks during a rear-end collision",
+        "the back of the driver's seat breaks",
+        "the driver's seat fails to provide adequate support during an accident."
+      ],
+      "odiNumbers": [
+        "986665",
+        "982439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

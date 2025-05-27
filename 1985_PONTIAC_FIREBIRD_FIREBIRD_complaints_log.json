@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "PARKING BRAKE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle is broken",
+        "the seat belt won't hook",
+        "the seat belt is hard to hook",
+        "the seat belt comes apart",
+        "the seat belt retractor is inoperative in cold temperatures."
+      ],
+      "odiNumbers": [
+        "10034377",
+        "755231",
+        "742419",
+        "836641",
+        "813148",
+        "807282",
+        "506332",
+        "977569",
+        "486194",
+        "964889",
+        "476317"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "The failure of the manufacturer to properly repair or verify recall repairs can lead to continued safety risks and frustrations for vehicle owners.",
+      "symptoms": [
+        "The manufacturer or dealer refuses to perform recall repairs",
+        "the dealer claims the VIN is invalid",
+        "the manufacturer's system receives an error",
+        "the recall repair is not verified."
+      ],
+      "odiNumbers": [
+        "10034377",
+        "755231",
+        "476317"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ineligible for Recall: Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unintentionally, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The parking brake does not hold",
+        "the parking brake cannot be adjusted",
+        "the vehicle rolls or moves unintentionally."
+      ],
+      "odiNumbers": [
+        "10229645",
+        "10143433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ineligible for Recall: Front Seat Belt Webbing Failure",
+      "impact": "The failure of the front seat belt webbing can increase the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belts do not retract properly",
+        "the plastic components of the seat belt are damaged by UV rays",
+        "the locking mechanism of the seat belt does not work."
+      ],
+      "odiNumbers": [
+        "10143433",
+        "10141452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure due to Rust Accumulation and Crimped Hose",
+      "impact": "The accumulation of rust under the flex brake hose centre support can cause the hose to crimp, leading to flex brake line failure, which can result in loss of brake fluid, reduced braking ability, and increased risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake fluid leaks",
+        "uneven braking ability",
+        "overheating of brake components",
+        "and reduced stopping power."
+      ],
+      "odiNumbers": [
+        "550046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sticking Brake Caliper Causing Overheating and Uneven Braking",
+      "impact": "A sticking brake caliper can cause uneven braking ability, leading to reduced stopping power, increased risk of accidents, and potential brake failure.",
+      "symptoms": [
+        "Uneven braking ability",
+        "overheating of brake components",
+        "spongy brake pedal",
+        "and reduced stopping power."
+      ],
+      "odiNumbers": [
+        "550046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

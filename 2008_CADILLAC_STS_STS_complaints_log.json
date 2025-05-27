@@ -1,0 +1,349 @@
+{
+  "totalComplaints": 49,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 21,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of an accident, potentially causing serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag system malfunctions",
+        "the airbag fails to deploy in an accident",
+        "the airbag sensor goes bad or corrodes",
+        "the airbag warning light stays on intermittently."
+      ],
+      "odiNumbers": [
+        "11230433",
+        "10920048",
+        "10721164",
+        "10692521",
+        "10660265",
+        "10608780",
+        "10262536",
+        "10248148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag warning light to illuminate, leading to unnecessary repairs and potentially causing the airbag to fail to deploy in an accident.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag sensor goes bad or corrodes",
+        "the airbag warning light stays on intermittently."
+      ],
+      "odiNumbers": [
+        "10920048",
+        "10721164",
+        "10248148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag to deploy in an accident can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag fails to deploy in an accident",
+        "the airbag warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10608780",
+        "10262536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Airbag Warning",
+      "impact": "The false airbag warning can cause unnecessary stress and lead to unnecessary repairs.",
+      "symptoms": [
+        "The airbag warning light illuminates intermittently",
+        "the airbag warning light stays on despite no issue being found."
+      ],
+      "odiNumbers": [
+        "10248148",
+        "10660265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "TPMS Sensor Failure",
+      "impact": "The failure of the TPMS sensor can cause the system to malfunction, leading to incorrect tire pressure readings, which can result in tire failure, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The Service TPMS sensor message and TPMS warning light are illuminated",
+        "intermittent failure of the TPMS sensor."
+      ],
+      "odiNumbers": [
+        "11470831",
+        "10648441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Key Fob Recognition Failure",
+      "impact": "The failure of the key fob recognition system can cause inconvenience, delay, or even leave the driver stranded, as the vehicle may not recognize the key fob.",
+      "symptoms": [
+        "The vehicle intermittently fails to recognize the key fob."
+      ],
+      "odiNumbers": [
+        "10693349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical Fire Hazard",
+      "impact": "The electrical fire hazard can cause damage to the vehicle, injury, or even death.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "especially in the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "10673063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Stop Engine Toggle Switch Failure",
+      "impact": "The failure of the stop engine toggle switch can cause inconvenience, delay, or even lead to accidents, as the driver may not be able to turn off the engine.",
+      "symptoms": [
+        "The stop engine toggle switch assembly collapses into the dash panel."
+      ],
+      "odiNumbers": [
+        "10653856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electronic Lock Failure",
+      "impact": "The failure of the electronic locks can cause inconvenience, delay, or even lead to theft or vandalism.",
+      "symptoms": [
+        "The electronic locks fail to secure",
+        "allowing unauthorized access to the vehicle."
+      ],
+      "odiNumbers": [
+        "10648441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration can cause accidents, loss of vehicle control, or even injury.",
+      "symptoms": [
+        "The vehicle suddenly accelerates",
+        "making it difficult to slow down or maintain control."
+      ],
+      "odiNumbers": [
+        "10648441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause inconvenience, delay, or even leave the driver stranded.",
+      "symptoms": [
+        "The battery is replaced multiple times within a short period",
+        "with no underlying cause found."
+      ],
+      "odiNumbers": [
+        "10375377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Timing Chain Wear",
+      "impact": "The premature wear of the timing chain can cause the engine to stall, leading to a loss of power steering and power brakes, which can increase the risk of accidents and put the safety of vehicle occupants and others at risk.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "the engine stalls",
+        "the vehicle cannot exceed a certain speed (e.g.",
+        "25 mph)",
+        "error codes 08",
+        "09",
+        "16",
+        "17",
+        "18",
+        "and 19 are displayed."
+      ],
+      "odiNumbers": [
+        "11443623",
+        "11180212",
+        "10945231",
+        "10927880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Block Deterioration",
+      "impact": "The deterioration of the engine block can cause fluid leaks, engine failure, and stalling, which can increase the risk of accidents and put the safety of vehicle occupants and others at risk.",
+      "symptoms": [
+        "Fluid leaks",
+        "engine block deterioration",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "10984500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling and Check Engine Light Illumination",
+      "impact": "The engine stalling and check engine light illumination can cause a loss of power steering and power brakes, which can increase the risk of accidents and put the safety of vehicle occupants and others at risk.",
+      "symptoms": [
+        "The engine stalls",
+        "the check engine light illuminates",
+        "the vehicle shuts off while driving or idling",
+        "the vehicle cannot shift into gear."
+      ],
+      "odiNumbers": [
+        "10945231",
+        "10927880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Power Reduction and Premature Timing Chain Wear",
+      "impact": "The failure of the engine control module can cause the engine to reduce power, leading to a loss of vehicle speed and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine loses power",
+        "the vehicle slows down",
+        "and the check engine light comes on."
+      ],
+      "odiNumbers": [
+        "11024670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration of the vehicle can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates while the brake pedal is depressed",
+        "making it difficult to control the vehicle."
+      ],
+      "odiNumbers": [
+        "10713602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Check Engine Light and Engine Performance Issues",
+      "impact": "The failure to diagnose and repair engine performance issues can lead to further damage to the engine and potentially cause accidents.",
+      "symptoms": [
+        "The check engine light comes on",
+        "the vehicle loses power",
+        "and the engine performance is poor."
+      ],
+      "odiNumbers": [
+        "10484877",
+        "10334164",
+        "10294126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Control Module and Computer System Failures",
+      "impact": "The failure of the electronic control module and computer system can cause a range of problems, including engine performance issues, unintended acceleration, and loss of vehicle control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle experiences intermittent problems",
+        "including cruise control failure",
+        "windshield wiper malfunction",
+        "and airbag system issues."
+      ],
+      "odiNumbers": [
+        "10334164",
+        "10294126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Power Assisted Steering Failure",
+      "impact": "The intermittent failure of the power assisted steering system can cause the steering wheel to become difficult to turn, making it challenging to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The power assisted steering system malfunctions intermittently",
+        "making the steering wheel difficult to turn",
+        "the system may start or stop working at any time",
+        "and the failure is inconsistent."
+      ],
+      "odiNumbers": [
+        "10892914",
+        "10578515",
+        "10576035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Wheel Heater Failure",
+      "impact": "The failure of the steering wheel heater can cause discomfort and distraction for the driver, potentially leading to accidents or decreased vehicle control.",
+      "symptoms": [
+        "The steering wheel heater stops working",
+        "and the dealer may request a high cost to replace the faulty component."
+      ],
+      "odiNumbers": [
+        "10694246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tilt Steering Column Failure",
+      "impact": "The failure of the tilt steering column can cause the steering column to remain in an unsafe position, making it difficult or impossible to drive the vehicle safely.",
+      "symptoms": [
+        "The tilt steering column fails to lower to the proper driving position",
+        "the power motor unit fails",
+        "and the steering column remains in the highest position."
+      ],
+      "odiNumbers": [
+        "10375529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

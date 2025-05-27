@@ -1,0 +1,160 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SUSPENSION",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering Failure",
+      "impact": "The failure of the electronic power steering system can cause the vehicle to become difficult or impossible to steer, leading to loss of control, accidents, or strandings, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The steering wheel suddenly locks up or becomes stiff",
+        "making it difficult or impossible to turn; the power steering stops working for a few seconds; the vehicle is difficult to control or steer; warning messages such as \"Steering: malfunction! Please stop vehicle\" or \"Safety system malfunction\" appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11587377",
+        "11363850",
+        "11363852",
+        "11349875",
+        "11349631",
+        "11324744",
+        "11323192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lane Keeping and Stability Control System Failure",
+      "impact": "The failure of the lane keeping and stability control system can cause the vehicle to lose control, drift out of its lane, or crash, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's lane keeping system fails to keep the vehicle between lanes",
+        "causing it to veer in different steering directions; the vehicle's stability control system fails",
+        "causing the vehicle to lose control or crash; warning messages such as \"Vehicle stability control ESC malfunction\" appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11349631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Coil Spring Failure",
+      "impact": "The failure of the rear coil spring can cause loss of vehicle control, leading to accidents, and potentially result in tire puncture, which can further compromise safety.",
+      "symptoms": [
+        "Loud banging noise while driving",
+        "broken spring pieces found on the ground",
+        "vehicle shaking or instability",
+        "risk of tire puncture."
+      ],
+      "odiNumbers": [
+        "11590995",
+        "11537089",
+        "11518964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motor Mount Failure",
+      "impact": "The failure of the motor mount can cause vehicle vibration, leading to loss of control, and potentially result in engine damage or other component failures.",
+      "symptoms": [
+        "Vehicle shaking",
+        "motor mount leaking hydraulic fluid",
+        "no warning lights or notifications."
+      ],
+      "odiNumbers": [
+        "11586992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause inaccurate fuel level readings, leading to unexpected fuel exhaustion, which can cause accidents, strand drivers, or lead to engine compartment fires.",
+      "symptoms": [
+        "Fuel level sensor shows low fuel warning despite a full tank",
+        "fuel tank registers only half full",
+        "inaccurate fuel level readings",
+        "risk of running out of fuel without warning."
+      ],
+      "odiNumbers": [
+        "11588208",
+        "11545957",
+        "11531737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Rail Leak",
+      "impact": "A fuel rail leak can cause a fire in the engine compartment, leading to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Fuel leak in the engine compartment",
+        "risk of fire in the engine compartment."
+      ],
+      "odiNumbers": [
+        "11585200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failures",
+      "impact": "The failures of various electrical components can lead to safety risks, inconvenience, and financial losses.",
+      "symptoms": [
+        "Motherboard failure",
+        "faulty volume dial",
+        "fuel sensor failure",
+        "and engine mount leaks."
+      ],
+      "odiNumbers": [
+        "11574894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Delay Issues",
+      "impact": "The throttle delay can cause accidents or near-accidents due to the vehicle's delayed response to accelerator input, leading to loss of control and safety risks.",
+      "symptoms": [
+        "Delayed response to accelerator input",
+        "especially when merging into traffic or at low speeds",
+        "resulting in sudden acceleration or lunging forward."
+      ],
+      "odiNumbers": [
+        "11307668",
+        "11301185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Shifting Issues",
+      "impact": "The failure to shift into gear can cause safety risks, especially when stopping or parking, and may lead to accidents or injuries.",
+      "symptoms": [
+        "Inability to shift into park",
+        "doors locking independently",
+        "and failure to unlock doors using the key fob."
+      ],
+      "odiNumbers": [
+        "11277969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

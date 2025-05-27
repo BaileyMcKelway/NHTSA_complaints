@@ -1,0 +1,289 @@
+{
+  "totalComplaints": 81,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Malfunction",
+      "impact": "The malfunction of the instrument cluster can cause a loss of gauge functionality, making it difficult for the driver to monitor the vehicle's performance, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The instrument panel lights are flashing or not working",
+        "the instrument cluster is inoperable",
+        "the speedometer and odometer are the only functioning gauges",
+        "the instrument panel cluster goes blank while driving",
+        "the dashboard lights fail to illuminate."
+      ],
+      "odiNumbers": [
+        "10236137",
+        "10150467",
+        "10101303",
+        "10010050",
+        "10009957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the electrical system fails",
+        "the security system default message appears",
+        "the system disabled message appears",
+        "the vehicle will not restart after being turned off."
+      ],
+      "odiNumbers": [
+        "10140960",
+        "10073730",
+        "10021487",
+        "552468",
+        "604605",
+        "605214",
+        "605424",
+        "604228",
+        "520442",
+        "536651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery and Starter Motor Failure",
+      "impact": "The failure of the battery and starter motor can cause the vehicle to not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The battery fails",
+        "the starter motor fails",
+        "the battery cable connector corrodes."
+      ],
+      "odiNumbers": [
+        "552468",
+        "520442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fire Hazard",
+      "impact": "The electrical short or other electrical system failures can cause a fire, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "A fire occurs in the vehicle",
+        "smoke inhalation",
+        "the vehicle is a total loss."
+      ],
+      "odiNumbers": [
+        "10021487",
+        "536651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Service-Related Concerns",
+      "impact": "Poor service or communication from the dealership or manufacturer can lead to frustration and mistrust among vehicle owners.",
+      "symptoms": [
+        "The dealership or manufacturer fails to provide assistance",
+        "provides incorrect information",
+        "or fails to communicate with the vehicle owner."
+      ],
+      "odiNumbers": [
+        "10562367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Line Cracking and Leaking",
+      "impact": "Fuel line cracking and leaking can cause gasoline to spray onto the hot engine, leading to a fire hazard, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Strong gas smell inside or outside the vehicle",
+        "fuel leaking from the vehicle",
+        "fuel spraying onto the engine",
+        "fuel lines cracked or broken."
+      ],
+      "odiNumbers": [
+        "10598796",
+        "10239401",
+        "10045402",
+        "896284",
+        "552468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Rail Leaking",
+      "impact": "Fuel rail leaking can cause gasoline to leak onto the engine, leading to a fire hazard, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Fuel leaking from the fuel rail",
+        "strong gas smell inside or outside the vehicle",
+        "fuel spraying onto the engine."
+      ],
+      "odiNumbers": [
+        "10045443",
+        "10092612",
+        "10171580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank Melting and Leaking",
+      "impact": "Fuel tank melting and leaking can cause gasoline to leak onto the engine, leading to a fire hazard, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Fuel leaking from the fuel tank",
+        "strong gas smell inside or outside the vehicle",
+        "fuel spraying onto the engine."
+      ],
+      "odiNumbers": [
+        "10048367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Sender Wire Shorting",
+      "impact": "Fuel sender wire shorting can cause the engine to stop running, leading to a loss of vehicle control, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "IP goes dark",
+        "engine stops running",
+        "will not start",
+        "bulkhead connector melted."
+      ],
+      "odiNumbers": [
+        "10129920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intake Failure",
+      "impact": "Intake failure can cause engine performance issues, leading to a loss of vehicle control, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "R+I intake failed."
+      ],
+      "odiNumbers": [
+        "604228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "Engine head gasket failure can cause engine overheating, oil leaks, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "oil leaks",
+        "head gasket blowout",
+        "rusted head bolts."
+      ],
+      "odiNumbers": [
+        "10155035",
+        "604228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause fuel leaks, engine compartment fires, and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "Fuel leaks",
+        "engine compartment fires",
+        "cracking of fuel rail or return line tubing."
+      ],
+      "odiNumbers": [
+        "10097288",
+        "566225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Pan Gasket Failure",
+      "impact": "Oil pan gasket failure can cause oil leaks, engine damage, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "oil pan gasket failure."
+      ],
+      "odiNumbers": [
+        "10073903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Drive Belt Failure",
+      "impact": "Engine drive belt failure can cause damage to engine components, such as the water pump and camshaft pulley, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine drive belt failure",
+        "damage to water pump and camshaft pulley."
+      ],
+      "odiNumbers": [
+        "552468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "Oxygen sensor failure can cause issues with engine performance, fuel efficiency, and emissions, and potentially lead to engine damage or failure.",
+      "symptoms": [
+        "Oxygen sensor failure",
+        "service engine light and service emissions light on."
+      ],
+      "odiNumbers": [
+        "552468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Excessive Engine Oil Consumption",
+      "impact": "Excessive engine oil consumption can cause engine damage, premature wear, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Excessive engine oil consumption",
+        "frequent oil changes needed."
+      ],
+      "odiNumbers": [
+        "552468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Cooling system failure can cause engine overheating, engine damage, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Cooling fan belt failure."
+      ],
+      "odiNumbers": [
+        "605227"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

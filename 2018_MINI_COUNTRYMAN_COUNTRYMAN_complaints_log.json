@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause excessive brake wear, leading to potential brake failure, which can increase the risk of accidents and put the safety of the driver and others at risk.",
+      "symptoms": [
+        "Brake caliper freezes",
+        "excessive brake wear",
+        "brake pedal slowly goes to the floorboards",
+        "repeated pumping of the brake pedal is required to prevent running into the car in front."
+      ],
+      "odiNumbers": [
+        "11436356",
+        "11197349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Leak Down",
+      "impact": "The master cylinder leak down can cause the brake pedal to slowly go to the floorboards, making it difficult to stop the vehicle, which can increase the risk of accidents and put the safety of the driver and others at risk.",
+      "symptoms": [
+        "Brake pedal slowly goes to the floorboards",
+        "repeated pumping of the brake pedal is required to prevent running into the car in front",
+        "master cylinder leak down gets progressively worse with time."
+      ],
+      "odiNumbers": [
+        "11197349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or become inoperable, leading to safety risks, especially if it occurs in traffic or at an intersection. Additionally, it can cause damage to the battery and other electrical components, resulting in costly repairs.",
+      "symptoms": [
+        "Dashboard warning lights illuminate",
+        "vehicle stalls or becomes inoperable",
+        "headlights and electrical engine remain on even after the vehicle is turned off",
+        "vehicle will not start",
+        "battery damage."
+      ],
+      "odiNumbers": [
+        "11330368",
+        "11234632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inaccurate Vehicle Information and Poor Customer Service",
+      "impact": "Inaccurate vehicle information can lead to safety concerns and difficulties in resolving issues, while poor customer service can cause frustration and delay in addressing problems.",
+      "symptoms": [
+        "Inaccurate vehicle information",
+        "manufacturer and dealership having incorrect addresses",
+        "unhelpful customer service representatives",
+        "being referred between manufacturer and dealership with no resolution."
+      ],
+      "odiNumbers": [
+        "11184906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unstable Vehicle Handling and Uneven Torque Issue",
+      "impact": "Unstable vehicle handling can cause accidents, especially in wet conditions, and uneven torque can lead to loss of control.",
+      "symptoms": [
+        "Vehicle pulls to one side",
+        "wobbles while in motion",
+        "more unstable in wet conditions",
+        "uneven torque issue related to electrical/gas engine."
+      ],
+      "odiNumbers": [
+        "11145171"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress and Electronic Module Failure",
+      "impact": "Water ingress into the vehicle can cause electronic module failure, leading to sudden loss of power and engine malfunction, which can result in accidents, especially on busy highways.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine malfunction",
+        "vehicle stalls or shuts down without warning",
+        "unknown water leaks in the vehicle",
+        "faulty module under the back seat."
+      ],
+      "odiNumbers": [
+        "11589841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Recall Notification for Known Water Leak Issues",
+      "impact": "Failure to notify vehicle owners of known water leak issues can lead to delayed or missed repairs, increasing the risk of accidents and engine malfunction.",
+      "symptoms": [
+        "No recall notification received despite known water leak issues in the vehicle model",
+        "water leaks in the vehicle",
+        "unknown water leaks in the vehicle."
+      ],
+      "odiNumbers": [
+        "11589841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Sensor Failure and Tank Pressure Issues",
+      "impact": "The failure of the fuel sensor and tank pressure issues can cause the fuel tank to not release properly, making it difficult or impossible to refill the gas tank, which can lead to safety issues, such as running out of fuel on the road, and inconvenience to the driver.",
+      "symptoms": [
+        "The gas flap is difficult or impossible to open",
+        "the fuel tank does not release pressure properly",
+        "the fuel sensor fails",
+        "the vehicle runs out of fuel unexpectedly",
+        "the fuel tank cannot be refilled."
+      ],
+      "odiNumbers": [
+        "11501422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

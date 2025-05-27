@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of the vehicle occupants.",
+      "symptoms": [
+        "No airbag deployment in a crash",
+        "airbag warning light illumination",
+        "electrical shorts",
+        "malfunctioning cruise control and horn."
+      ],
+      "odiNumbers": [
+        "703358",
+        "809123",
+        "802811",
+        "964013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Short in Driver's Door",
+      "impact": "An electrical short in the driver's door can cause a fire, potentially leading to serious injury or damage to the vehicle.",
+      "symptoms": [
+        "Smoke or flames coming from the driver's door",
+        "burning smell",
+        "melting or charring of door components",
+        "failure of power window or other electrical systems."
+      ],
+      "odiNumbers": [
+        "501170",
+        "501170",
+        "501408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Soft Brake Pedal",
+      "impact": "The soft brake pedal can cause the vehicle to take longer to stop, increasing the risk of accidents, and may lead to near-misses or unsuccessful attempts to stop at traffic signals.",
+      "symptoms": [
+        "The brake pedal feels soft",
+        "requiring extra pressure to bring the vehicle to a stop",
+        "the brake pedal must be pressed closer to the floor to stop the vehicle",
+        "the brakes seem underpowered for the weight of the vehicle."
+      ],
+      "odiNumbers": [
+        "10320488",
+        "545646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose control, leading to accidents, and may prevent the deployment of airbags in the event of a collision.",
+      "symptoms": [
+        "The ABS system fails to engage",
+        "resulting in loss of vehicle control",
+        "failure of airbags to deploy during a collision."
+      ],
+      "odiNumbers": [
+        "545646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Seizure Due to Insufficient Oil Intake",
+      "impact": "Engine seizure can cause the vehicle to come to a sudden stop, leading to a loss of control and increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "Engine seizure",
+        "vehicle comes to a sudden stop",
+        "loss of power",
+        "unusual engine noises",
+        "oil light illumination."
+      ],
+      "odiNumbers": [
+        "532583",
+        "532399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

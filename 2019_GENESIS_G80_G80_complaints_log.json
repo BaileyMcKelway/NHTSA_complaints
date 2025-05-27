@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repairs for Electrical System",
+      "impact": "The delay in recall repairs for the electrical system can lead to a potential fire hazard, putting the driver and passengers at risk.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the recall repair delay."
+      ],
+      "odiNumbers": [
+        "11592098",
+        "11591870",
+        "11587471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parasitic Electrical Drain Causing Battery Drain",
+      "impact": "The parasitic electrical drain can cause the battery to drain abnormally, leading to unexpected stalls or difficulties in starting the vehicle, which can be a safety risk, especially if it occurs while driving.",
+      "symptoms": [
+        "The battery drains abnormally",
+        "even when the vehicle is turned off",
+        "requiring frequent recharging."
+      ],
+      "odiNumbers": [
+        "11527073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "The unintended brake activation can cause the vehicle to slow down or stop unexpectedly, which can lead to accidents, especially if the driver is not prepared for the sudden stop.",
+      "symptoms": [
+        "The vehicle applies extra brakes than intended",
+        "the brakes engage suddenly",
+        "the vehicle slows down or stops unexpectedly",
+        "the brakes feel like they are \"grabbing\" or \"catching\"."
+      ],
+      "odiNumbers": [
+        "11455386",
+        "11416616",
+        "11415165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Lane Keeping Assist System Warnings",
+      "impact": "The false warnings can be distracting, startling, and annoying, potentially leading to driver fatigue and decreased attention to the road, which can compromise vehicle safety.",
+      "symptoms": [
+        "The vehicle displays a warning message \"Keep Hands on Steering Wheel\" and emits a loud audio warning",
+        "even when the driver has both hands on the steering wheel and a good grip",
+        "at speeds above 40 mph. The warning may repeat at short intervals",
+        "and the Lane Keeping Assist System may be temporarily disabled."
+      ],
+      "odiNumbers": [
+        "11490940",
+        "11311695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, potentially leading to severe consequences, including fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when the driver is attempting to slow down or stop",
+        "the accelerator pedal becomes stuck or unresponsive",
+        "the vehicle fails to respond to braking input",
+        "the vehicle continues to accelerate even after the driver has removed their foot from the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "11460716",
+        "11279106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

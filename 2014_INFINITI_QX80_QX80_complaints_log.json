@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Loud grinding or squealing noise from the engine",
+        "loud winding noise while starting the vehicle or accelerating",
+        "engine stalling",
+        "unknown warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11500607",
+        "11468293",
+        "11405033",
+        "11348730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Oil Leaks",
+      "impact": "Engine oil leaks can cause damage to the engine and surrounding components, leading to costly repairs and potentially causing the engine to seize or fail.",
+      "symptoms": [
+        "Oil leaking from the engine gaskets."
+      ],
+      "odiNumbers": [
+        "10664783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak/Fuel Odor",
+      "impact": "A fuel system leak can cause a strong fuel odor, which can lead to a fire hazard, potentially causing injury or damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Strong fuel odor present in the vehicle",
+        "garage",
+        "and/or residence",
+        "no warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11514466",
+        "10703306",
+        "10692475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent No-Start Condition due to Unknown Electrical Issue",
+      "impact": "The intermittent no-start condition can leave the driver stranded, especially in inclement weather or dangerous areas, which can be a safety risk.",
+      "symptoms": [
+        "The vehicle randomly fails to start",
+        "with no warning or indication of the problem; the issue is intermittent",
+        "with periods of normal operation; mechanics are unable to diagnose the problem",
+        "citing an unknown electrical issue."
+      ],
+      "odiNumbers": [
+        "11354372",
+        "11191795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Drain or Failure",
+      "impact": "A dead battery can cause the vehicle to become stranded, leading to safety risks, especially in remote or dangerous areas.",
+      "symptoms": [
+        "The battery does not hold a charge; the vehicle will not start without a jump-start or external power source; the issue persists despite replacement of the battery",
+        "starter",
+        "and alternator."
+      ],
+      "odiNumbers": [
+        "11191795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed Recall Repair for Electrical System",
+      "impact": "The delay in repairing the electrical system can lead to a safety risk, as the recall aims to address a potential electrical system failure.",
+      "symptoms": [
+        "The vehicle is subject to a recall (NHTSA Campaign Number: 14V634000) for an electrical system issue",
+        "but the necessary parts are unavailable",
+        "leading to a delay in the repair."
+      ],
+      "odiNumbers": [
+        "10680498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Fuel System Issue",
+      "impact": "The delay in repairing the fuel system issue can lead to a potential fuel leak, which can cause a fire, resulting in serious injury or death.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "10692602",
+        "10692314",
+        "10680898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

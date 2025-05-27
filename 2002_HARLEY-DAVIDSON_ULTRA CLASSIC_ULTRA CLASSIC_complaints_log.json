@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "WHEELS",
+    "TIRES",
+    "STRUCTURE",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Power Failure Due to Circuit Breaker Defect",
+      "impact": "The sudden loss of electrical power while the motorcycle is in motion can lead to a loss of control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The entire instrument panel loses power",
+        "the vehicle stalls",
+        "the horn",
+        "lights",
+        "and directional signals fail to function."
+      ],
+      "odiNumbers": [
+        "10449044",
+        "10075735",
+        "10073990",
+        "10041550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Wheel Wobble",
+      "impact": "A wobbling rear wheel can cause loss of control, accidents, and injuries, as evidenced by the fatal incident reported in ODI number 10196667.",
+      "symptoms": [
+        "The rear wheel wobbles",
+        "the motorcycle becomes unstable",
+        "and the rider may lose control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10196667",
+        "770066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Cracking",
+      "impact": "Cracks in the tire tread can lead to a blowout, loss of control, and accidents, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Visible cracks within the tire tread",
+        "especially in the rear tire",
+        "which can lead to a loss of air pressure",
+        "uneven tire wear",
+        "and reduced traction."
+      ],
+      "odiNumbers": [
+        "10483198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Passenger Floorboard Bolt Failure",
+      "impact": "The failure of the passenger floorboard bolt can cause the floorboard to separate from the vehicle while in motion, potentially leading to loss of control, accidents, or injuries to the passenger or rider.",
+      "symptoms": [
+        "The passenger floorboard bolt is loose or broken",
+        "the floorboard is separating from the vehicle",
+        "the floorboard is only held in place by a single bolt."
+      ],
+      "odiNumbers": [
+        "10280456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The sudden stalling of the engine while in motion can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "especially at high speeds",
+        "the motorcycle is unable to restart",
+        "the motorcycle may experience intermittent stalling or hesitation."
+      ],
+      "odiNumbers": [
+        "10099179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Difficulty Diagnosing Intermittent Issues",
+      "impact": "The inability to diagnose and repair intermittent issues can lead to prolonged periods of vehicle downtime, increased repair costs, and potential safety risks.",
+      "symptoms": [
+        "The mechanic is unable to duplicate the problem",
+        "the issue is intermittent and cannot be consistently reproduced",
+        "the diagnosis is unclear or uncertain."
+      ],
+      "odiNumbers": [
+        "10099179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

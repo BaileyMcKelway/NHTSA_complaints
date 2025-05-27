@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine loses power",
+        "the check oil warning indicator illuminates",
+        "the engine power loss indicator illuminates",
+        "smoke and fire come from the undercarriage."
+      ],
+      "odiNumbers": [
+        "11462602",
+        "11354215",
+        "11104106",
+        "11083152",
+        "10923835",
+        "10692327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cam Shaft Failure",
+      "impact": "Cam shaft failure can cause the engine to destroy itself, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The cam shaft fractures internally",
+        "the cam followers fall off",
+        "the engine assembly is destroyed."
+      ],
+      "odiNumbers": [
+        "11104106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "High Pressure Fuel Pump Failure",
+      "impact": "High pressure fuel pump failure can cause the engine to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine power loss indicator illuminates",
+        "the engine stalls and loses power",
+        "a loud pop sound is heard."
+      ],
+      "odiNumbers": [
+        "11083152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Computer Scanner System Failure",
+      "impact": "Computer scanner system failure can cause the engine to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine light illuminates",
+        "the vehicle stalls",
+        "the computer scanner system sends incorrect readings to the engine."
+      ],
+      "odiNumbers": [
+        "10692327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "The failure of the turbocharger can cause a loss of motive power, making it difficult to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Abnormal sound coming from the engine compartment",
+        "turbocharger needle on the instrument cluster falls to zero",
+        "loss of motive power while depressing the accelerator pedal",
+        "abnormal banging sound",
+        "power steering failure."
+      ],
+      "odiNumbers": [
+        "11590361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause a loss of motive power, making it difficult to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Abnormal sound coming from the engine compartment",
+        "loss of motive power while depressing the accelerator pedal",
+        "abnormal banging sound",
+        "power steering failure",
+        "vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11590361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Uncommanded Engine Stalling on Inclines",
+      "impact": "The uncommanded engine stalling on inclines can cause the vehicle to lose power and roll backwards, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine stalls without warning while driving up a hill",
+        "the vehicle loses power and rolls backwards",
+        "the brakes are unable to stop the vehicle due to lack of power."
+      ],
+      "odiNumbers": [
+        "11256086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

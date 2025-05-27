@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration and brake failure can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without input from the driver",
+        "the brake pedal goes to the floor",
+        "the brakes are inoperative",
+        "the vehicle fails to respond to braking attempts",
+        "the vehicle's RPM remains high even after shifting into park."
+      ],
+      "odiNumbers": [
+        "11514299",
+        "11463405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure of Brake Override System (BOS)",
+      "impact": "The failure of the BOS can cause the vehicle to continue accelerating even when the brake pedal is pressed, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The BOS fails to engage",
+        "the vehicle fails to stop despite braking attempts",
+        "the shifter fails to throw into park",
+        "no warning sounds or lights appear on the dash."
+      ],
+      "odiNumbers": [
+        "11514299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Deformed Door Interior Beam",
+      "impact": "The deformation of the door interior beam can compromise the structural integrity of the door, potentially leading to reduced safety in the event of a side impact accident.",
+      "symptoms": [
+        "The stainless steel beam on the driver's side door has a dent-like deformation",
+        "sucking inwards; uncertainty about the safety of the door in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11438964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Panel Dirt and Debris Accumulation",
+      "impact": "The accumulation of dirt and debris on the door panels can lead to premature wear and tear, potentially causing damage to the door's mechanical components and affecting the overall appearance of the vehicle.",
+      "symptoms": [
+        "Abnormal accumulation of dirt and snow on the bottom door panels",
+        "dirt accumulation in the gap between the wheel arch trim and rear door."
+      ],
+      "odiNumbers": [
+        "11390198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Abnormal Brake Noise and Vibration",
+      "impact": "The abnormal noise and vibration when braking can be a distraction to the driver, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "Loud grinding",
+        "dragging",
+        "or clunking noise when braking",
+        "especially in stop-and-go traffic",
+        "downgrades",
+        "or when applying heavy pressure; noise can be felt through the brake pedal or steering wheel; occasional loud clunking noise when reversing and applying the service brake."
+      ],
+      "odiNumbers": [
+        "11218185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incomplete Reverse Camera System",
+      "impact": "The incomplete reverse camera system can increase the risk of accidents, injuries, or fatalities, especially when reversing.",
+      "symptoms": [
+        "Incomplete or malfunctioning reverse camera system",
+        "potentially leading to reduced visibility and increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "11175733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

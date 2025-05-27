@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Ruptured Brake Line",
+      "impact": "The sudden failure of the brake system can cause the vehicle to lose braking ability, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle does not slow down or stop when the brakes are applied",
+        "the ABS warning light remains illuminated",
+        "the brake system leaks fluid."
+      ],
+      "odiNumbers": [
+        "869222",
+        "849634",
+        "976878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Improper Repair of Recalled Brake Component",
+      "impact": "The failure to properly repair a recalled brake component can lead to brake failure, accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle does not slow down or stop when the brakes are applied",
+        "the brake system leaks fluid."
+      ],
+      "odiNumbers": [
+        "10303459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the ABS system can cause the vehicle to lose braking ability, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS warning light remains illuminated",
+        "the brake system does not function properly."
+      ],
+      "odiNumbers": [
+        "826414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crankshaft Pulley Bolt Failure",
+      "impact": "The failure of the crankshaft pulley bolt can cause engine damage, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The crankshaft pulley bolt becomes loose",
+        "breaks off",
+        "or seizes inside the crankshaft",
+        "causing engine noise",
+        "damage",
+        "or failure."
+      ],
+      "odiNumbers": [
+        "10235227",
+        "756244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Module Failure",
+      "impact": "The failure of the engine module can cause engine failure, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Spark plugs are not operative",
+        "engine failure",
+        "engine module failure",
+        "valve train problems."
+      ],
+      "odiNumbers": [
+        "883186",
+        "734371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Thermostat Failure",
+      "impact": "The failure of the thermostat can cause engine overheating, leading to engine damage and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Thermostat fails to function properly",
+        "causing engine overheating."
+      ],
+      "odiNumbers": [
+        "523342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Wheel Bearing Failure",
+      "impact": "The failure of the front wheel bearing can cause the wheel to lock up, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The front wheel locks up while driving",
+        "the vehicle pulls to one side",
+        "the steering wheel vibrates or shakes",
+        "unusual noise or grinding sound from the front wheel area."
+      ],
+      "odiNumbers": [
+        "10025107"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

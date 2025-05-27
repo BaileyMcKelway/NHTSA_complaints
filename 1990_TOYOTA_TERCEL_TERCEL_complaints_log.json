@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or break down, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine blew",
+        "engine replacement",
+        "oil leak",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "10238210",
+        "557830",
+        "557830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "Catalytic converter failure can cause the vehicle to catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "Burning smell",
+        "smoke emerging from the vehicle",
+        "flames shooting out of the center of the car",
+        "overheating of the catalytic converter."
+      ],
+      "odiNumbers": [
+        "747304",
+        "511399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "Oxygen sensor failure can cause the vehicle to run poorly, leading to decreased performance and potential safety issues.",
+      "symptoms": [
+        "Oxygen sensor failed",
+        "vehicle does not accelerate smoothly",
+        "loses acceleration when attempting to pass."
+      ],
+      "odiNumbers": [
+        "566403",
+        "510247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "Seatbelt failure can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "Driver side seatbelt harness has shredded over time and is no longer usable."
+      ],
+      "odiNumbers": [
+        "546747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carburetor Failure",
+      "impact": "Carburetor failure can cause the vehicle to stall, leading to a loss of control, especially at high RPM, which can result in accidents. Additionally, stalling in traffic can increase the risk of rear-end collisions.",
+      "symptoms": [
+        "The vehicle stalls",
+        "especially in high RPM mode",
+        "the vehicle stalls in traffic",
+        "the vehicle will not restart",
+        "the engine hesitates or misfires."
+      ],
+      "odiNumbers": [
+        "566403",
+        "539926",
+        "511082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Fuel pump failure can cause the engine to stall, leading to a loss of power and control, which can result in accidents.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle will not start",
+        "the fuel pump makes a loud whining or grinding noise."
+      ],
+      "odiNumbers": [
+        "510247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or catch on fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle cuts off while driving",
+        "the vehicle catches on fire",
+        "electrical shorts or faults in the dashboard or engine."
+      ],
+      "odiNumbers": [
+        "843713",
+        "803124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

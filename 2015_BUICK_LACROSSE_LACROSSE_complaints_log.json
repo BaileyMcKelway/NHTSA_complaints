@@ -1,0 +1,205 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult or impossible to turn, making it challenging to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The power steering warning message appears on the instrument panel",
+        "the steering wheel becomes stiff and difficult to maneuver",
+        "the vehicle veers into another lane independently",
+        "the power steering goes out while driving",
+        "the steering wheel is difficult to turn",
+        "the vehicle is hard to control."
+      ],
+      "odiNumbers": [
+        "11476408",
+        "11446130",
+        "11438406",
+        "11427844",
+        "11350626",
+        "11301958",
+        "11141663",
+        "11101373",
+        "10935449",
+        "10883490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical systems to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's systems shut down",
+        "including turn signals",
+        "instrument panel",
+        "and ventilation system; the vehicle won't start; the vehicle shuts off while driving; the radio and directionals won't work; the lights rapidly blink."
+      ],
+      "odiNumbers": [
+        "11471159",
+        "11395038",
+        "11290147",
+        "10948575",
+        "10860891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Panel Malfunction",
+      "impact": "The malfunction of the instrument panel can cause distraction, confusion, and loss of critical information, leading to accidents or near-misses.",
+      "symptoms": [
+        "The instrument panel displays warning lights",
+        "goes dark",
+        "and resumes with the same failure lighting sequence; the gauges fluctuate widely; the message \"Don't take your eyes off the road\" flashes on the message board."
+      ],
+      "odiNumbers": [
+        "10948575",
+        "10920478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "especially during turns; the vehicle hesitates to stall in traffic; the vehicle vibrates nearby the steering column while driving in traffic."
+      ],
+      "odiNumbers": [
+        "10891813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Start/Stop Button Malfunction",
+      "impact": "The malfunction of the start/stop button can cause unexpected engine shutdown or restart, leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle won't shut off after pressing the start/stop button; the vehicle suddenly shuts off while driving and cannot be restarted; the vehicle erroneously restarts without the start/stop button being pressed."
+      ],
+      "odiNumbers": [
+        "10860891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not be adequately protected.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11487099",
+        "11088636",
+        "10780211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Recall Repairs for Airbag Issues",
+      "impact": "The delay or unavailability of recall repairs for airbag issues can leave vehicles on the road with potentially faulty airbag systems, putting occupants at risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available for repair",
+        "or the manufacturer exceeds a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11163532",
+        "10925777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Incomplete or Partial Airbag Deployment",
+      "impact": "The incomplete or partial deployment of airbags can reduce their effectiveness in protecting vehicle occupants, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Airbags deploy",
+        "but do not fully inflate",
+        "reducing their effectiveness in protecting vehicle occupants."
+      ],
+      "odiNumbers": [
+        "10925777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Door Locking/Unlocking",
+      "impact": "The random and uncontrollable locking and unlocking of doors can cause inconvenience, distraction, and potentially lead to accidents or unauthorized access to the vehicle.",
+      "symptoms": [
+        "Doors lock and unlock continuously for 1-3 minutes without any input from the key or button",
+        "occurring with the car on or off."
+      ],
+      "odiNumbers": [
+        "11569462"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Jerking",
+      "impact": "The jerking of the transmission can cause loss of control, accidents, and premature wear on the transmission components.",
+      "symptoms": [
+        "Jerking or hesitation when shifting into gear."
+      ],
+      "odiNumbers": [
+        "11550798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Radio Malfunction",
+      "impact": "The malfunctioning radio can cause inconvenience, distraction, and potentially lead to accidents if the driver is distracted by the issue.",
+      "symptoms": [
+        "Radio fails to turn on after starting the car",
+        "but works if turned on before starting the car with the door open; radio remains on if left on when shutting down the car and returns to on when restarting the car."
+      ],
+      "odiNumbers": [
+        "11321746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause injury, distraction, and accidents, as well as damage to the vehicle's interior.",
+      "symptoms": [
+        "Sunroof explodes spontaneously while driving",
+        "resulting in a loud \"bang\" sound and small glass fragments inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11277558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

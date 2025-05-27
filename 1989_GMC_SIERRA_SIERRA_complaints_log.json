@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "STEERING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to the seat belt not functioning properly, increasing the risk of injury or fatality in the event of a sudden stop or accident.",
+      "symptoms": [
+        "The seat belt buckle fails to catch",
+        "the seat belt stops working",
+        "the seat belt latch will not latch",
+        "the internal workings of the seat belt buckle have come apart."
+      ],
+      "odiNumbers": [
+        "10263220",
+        "10096453",
+        "735152",
+        "812693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The sudden failure of brake rotors can cause the vehicle to lose braking power, leading to accidents or near-miss incidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Brake rotors shear off",
+        "brake lockup",
+        "loss of braking power",
+        "vehicle glides or slides when braking",
+        "rear wheel lockup when braking."
+      ],
+      "odiNumbers": [
+        "10042756",
+        "724525"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents or near-miss incidents, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Brake failure",
+        "loss of braking power",
+        "vehicle glides or slides when braking",
+        "rear wheel lockup when braking",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "724525",
+        "713779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Gearbox Failure",
+      "impact": "The failure of the steering gearbox can cause the steering wheel to stick or lock up, making it difficult or impossible to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel feels stiff or hard to turn",
+        "the steering wheel sticks or locks up",
+        "the steering wheel requires excessive force to return to its original position after turning",
+        "the vehicle pulls to one side while turning."
+      ],
+      "odiNumbers": [
+        "10315996",
+        "828285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corroded Rear Brake Light Sockets",
+      "impact": "Corroded rear brake light sockets can cause the rear brake lights to malfunction or fail, reducing the vehicle's visibility to other drivers and increasing the risk of rear-end collisions.",
+      "symptoms": [
+        "Rear brake lights do not illuminate",
+        "rear brake lights flicker or dim",
+        "brake light socket is broken or corroded."
+      ],
+      "odiNumbers": [
+        "815178",
+        "517831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

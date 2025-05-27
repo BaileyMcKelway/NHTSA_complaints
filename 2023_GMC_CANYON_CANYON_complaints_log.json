@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking (AEB) System",
+      "impact": "The false activation of the AEB system can cause the vehicle to suddenly stop, leading to potential accidents or near-misses, especially if other vehicles are following closely behind.",
+      "symptoms": [
+        "The AEB system activates without any obstruction or pedestrian in front of the vehicle",
+        "the vehicle comes to an abrupt stop",
+        "the forward collision alert flashes",
+        "and the brakes are applied inadvertently."
+      ],
+      "odiNumbers": [
+        "11574856",
+        "11564443",
+        "11556531",
+        "11553347",
+        "11543382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Blind Spot Detection System Failure",
+      "impact": "The inconsistent and faulty blind spot detection system can cause the driver to be distracted, leading to potential accidents or near-misses, especially when changing lanes.",
+      "symptoms": [
+        "The blind spot detection system remains on with bright lights",
+        "impairing the driver's ability to see at night",
+        "the system fails to detect vehicles in the blind spot",
+        "and the system produces false positives",
+        "especially on two-lane roads."
+      ],
+      "odiNumbers": [
+        "11571811",
+        "11564445"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failures",
+      "impact": "The electrical system failures can cause various safety features to malfunction, leading to potential accidents or near-misses.",
+      "symptoms": [
+        "The display screen freezes",
+        "the crash detection light comes on",
+        "the vehicle stops itself without any obstruction",
+        "the theft alarm goes off randomly",
+        "and the door latch system fails",
+        "limiting the driver's ability to respond to emergency situations."
+      ],
+      "odiNumbers": [
+        "11575942",
+        "11543382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Automatic Braking System Activation",
+      "impact": "The unintended activation of the automatic braking system can cause the vehicle to suddenly stop, leading to a loss of control, increased stopping distance, and potential accidents.",
+      "symptoms": [
+        "The vehicle abruptly applies the brakes without warning",
+        "the vehicle slides uncontrollably",
+        "the Forward Collision Avoidance system detects oncoming traffic in the opposite lane and makes an emergency stop",
+        "the Adaptive Cruise Control intermittently activates the brakes independently",
+        "the Forward Collision Avoidance warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11578370",
+        "11569942",
+        "11542709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Temperature Control System Malfunction",
+      "impact": "The malfunctioning temperature control system can cause driver distraction, as the driver needs to constantly adjust the temperature, taking their eyes off the road, which can lead to accidents.",
+      "symptoms": [
+        "The temperature control system does not maintain a consistent temperature",
+        "requiring frequent adjustments",
+        "the driver needs to take their eyes off the road to adjust the temperature."
+      ],
+      "odiNumbers": [
+        "11563756"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause the loss of critical vehicle functions, including GPS, radio, Bluetooth, headlight control, and backup camera, which can lead to accidents or increase the risk of accidents.",
+      "symptoms": [
+        "The screen doubles in picture",
+        "freezes",
+        "or shuts down completely",
+        "resulting in the loss of GPS",
+        "radio",
+        "Bluetooth",
+        "headlight control",
+        "and backup camera functions",
+        "the system may resolve itself after a while",
+        "but the issue recurs with increasing frequency."
+      ],
+      "odiNumbers": [
+        "11556709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

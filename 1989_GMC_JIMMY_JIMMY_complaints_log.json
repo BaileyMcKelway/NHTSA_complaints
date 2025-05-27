@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Wear on Brake Pads and Rotors",
+      "impact": "Excessive wear on brake pads and rotors can lead to reduced braking performance, increasing the risk of accidents, and requiring frequent replacements, which can be costly and inconvenient.",
+      "symptoms": [
+        "Frequent need to replace brake pads and rotors",
+        "uneven wear on brake pads and rotors",
+        "reduced braking performance",
+        "squealing or grinding noises when applying the brakes."
+      ],
+      "odiNumbers": [
+        "804809"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Braking System Failure",
+      "impact": "Failure of the ABS braking system can cause the brakes to lock up, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brakes lock up",
+        "rear brakes do not activate",
+        "brakes malfunction on transition from gravel to smooth road",
+        "brakes malfunction when applied after driving on gravel roads."
+      ],
+      "odiNumbers": [
+        "846097"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Lock-up in Wet Conditions",
+      "impact": "Brake lock-up in wet conditions can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brakes lock up when driving in rain",
+        "brakes malfunction in wet conditions",
+        "reduced braking performance in wet conditions."
+      ],
+      "odiNumbers": [
+        "975265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Performance",
+      "impact": "The failure of the seat belt to restrain the driver or passenger properly can lead to increased risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to hold the driver or passenger in place",
+        "the seat belt shoulder harness gives out",
+        "the seat belt buckle is difficult to unbuckle",
+        "the driver or passenger is able to hit their head on the steering wheel or other objects."
+      ],
+      "odiNumbers": [
+        "986871",
+        "975709",
+        "967827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Malfunction",
+      "impact": "The malfunction of the instrument cluster can cause the driver to lose vital information about the vehicle's speed, fuel level, and engine performance, which can lead to accidents, decreased fuel efficiency, and potential engine damage.",
+      "symptoms": [
+        "The instrument cluster display is blank or dim",
+        "the speedometer",
+        "fuel gauge",
+        "oil gauge",
+        "and/or battery gauge are not functioning",
+        "the gauges are stuck or frozen",
+        "the display is distorted or flickering."
+      ],
+      "odiNumbers": [
+        "514819",
+        "965351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

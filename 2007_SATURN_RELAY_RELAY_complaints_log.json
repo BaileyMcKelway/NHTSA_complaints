@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Sliding Door Failure",
+      "impact": "The failure of the rear sliding doors can cause them to open or fall off while driving, which can lead to accidents, injuries, or fatalities, especially when carrying passengers, including children.",
+      "symptoms": [
+        "The rear sliding doors open or fall off while driving",
+        "the doors do not latch properly",
+        "the doors unlatch when the forward driver or passenger door is closed",
+        "the doors unlatch while driving on bumpy roads or turning corners",
+        "the doors open completely by themselves when trying to close them."
+      ],
+      "odiNumbers": [
+        "10265686",
+        "10242745",
+        "10239838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Remote Sliding Door Malfunction",
+      "impact": "The malfunction of the remote sliding door system can cause unexpected opening or closing of the doors while driving, which can lead to accidents, injuries, or distractions.",
+      "symptoms": [
+        "The rear sliding doors open or close independently while driving",
+        "the wireless system malfunctions",
+        "the doors fail to respond to the remote control."
+      ],
+      "odiNumbers": [
+        "10760358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Starter Motor Intermittent Failure",
+      "impact": "The intermittent failure of the starter motor can cause difficulty or inability to start the engine, leaving the driver stranded or causing inconvenience.",
+      "symptoms": [
+        "The starter motor sometimes engages",
+        "sometimes doesn't engage",
+        "sometimes stays engaged",
+        "the engine fails to start",
+        "the starter motor makes unusual noises."
+      ],
+      "odiNumbers": [
+        "10229347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Fuel Gauge Readings",
+      "impact": "Inaccurate fuel gauge readings can cause unexpected fuel depletion, leading to engine stalling, loss of power, and potential accidents, especially when driving at high speeds or in remote areas.",
+      "symptoms": [
+        "The fuel gauge displays erratic or fluctuating readings",
+        "the fuel gauge shows more fuel than is actually present",
+        "the fuel gauge shows less fuel than is actually present",
+        "the vehicle runs out of fuel despite the gauge indicating otherwise."
+      ],
+      "odiNumbers": [
+        "10405612",
+        "10247972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

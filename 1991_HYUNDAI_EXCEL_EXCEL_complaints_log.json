@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 44,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become unable to move, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly stops or slows down",
+        "the transmission locks up",
+        "the vehicle makes a rough sound",
+        "the transmission slips or fails to shift properly",
+        "the vehicle is unable to accelerate",
+        "the transmission case cracks or leaks fluid."
+      ],
+      "odiNumbers": [
+        "10116097",
+        "10066298",
+        "567302",
+        "805021",
+        "510394",
+        "986242",
+        "967370",
+        "964757",
+        "961914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Case Failure",
+      "impact": "The failure of the transmission case can cause fluid leaks, leading to transmission failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission case cracks",
+        "fluid leaks from the transmission",
+        "the transmission locks up or fails to shift properly."
+      ],
+      "odiNumbers": [
+        "10066298",
+        "567302",
+        "967370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Internal Transmission Failure",
+      "impact": "Internal transmission failure can cause the transmission to slip or fail to shift properly, leading to loss of power, stalling, or accidents.",
+      "symptoms": [
+        "The transmission slips or fails to shift properly",
+        "the vehicle makes a rough sound",
+        "the transmission locks up or fails to accelerate."
+      ],
+      "odiNumbers": [
+        "986242",
+        "964757",
+        "961914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause engine stalling, dimming of headlights, and even electrical fires, which can lead to accidents, injuries, or vehicle damage.",
+      "symptoms": [
+        "Headlights dim when other electric accessories are used",
+        "engine stalling",
+        "fuses burning out",
+        "electrical fires",
+        "engine compartment fires",
+        "brain cell (ECU) malfunction or melting",
+        "blown fuses."
+      ],
+      "odiNumbers": [
+        "803753",
+        "985486",
+        "985306",
+        "979784",
+        "961454",
+        "960829"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Window Shattering",
+      "impact": "The sudden and unexpected shattering of windows can cause injuries from flying glass, distractions while driving, and potentially lead to accidents.",
+      "symptoms": [
+        "Windows (rear",
+        "passenger",
+        "and driver) shatter or explode without any apparent reason",
+        "windows fall off the vehicle",
+        "windshields crack or shatter."
+      ],
+      "odiNumbers": [
+        "826531",
+        "514536",
+        "974960",
+        "959539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

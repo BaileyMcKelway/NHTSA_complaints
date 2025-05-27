@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High Pressure AC Line Failure",
+      "impact": "The failure of the high pressure AC line can cause the refrigerant oil to spray onto the serpentine belt, leading to improper acceleration and potential accidents.",
+      "symptoms": [
+        "Engine jerking",
+        "failure to accelerate properly",
+        "refrigerant oil sprayed on the serpentine belt",
+        "serpentine belt slippage",
+        "and alternator voltage issues."
+      ],
+      "odiNumbers": [
+        "11488065"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shifter Assembly Failure",
+      "impact": "The failure of the shifter assembly can cause the vehicle to become stuck in park, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Unable to shift vehicle from park",
+        "requiring the use of a blunt object to insert into the shift lock relay to shift out of park."
+      ],
+      "odiNumbers": [
+        "11466464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Issues (Limp Mode and Clunking Noises)",
+      "impact": "Transmission issues can cause the vehicle to go into limp mode, leading to reduced power and potential accidents. Clunking noises during gear transitions can be unsettling and may indicate a more serious underlying problem.",
+      "symptoms": [
+        "Vehicle goes into limp mode",
+        "accelerator pedal does not respond",
+        "transmission makes clunking noises during gear transitions",
+        "difficulty shifting gears",
+        "and unnerving sounds during transmission operation."
+      ],
+      "odiNumbers": [
+        "11352567",
+        "11348395",
+        "11322259",
+        "11220327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Occupant Sensor Failure",
+      "impact": "The failure of the occupant sensor can cause the airbag warning light to illuminate, indicating a potential safety risk, and potentially lead to incorrect airbag deployment or non-deployment in the event of a crash.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag warning light flashes",
+        "the vehicle displays a fault code (e.g.",
+        "DTC B00A0)."
+      ],
+      "odiNumbers": [
+        "11592600",
+        "11556981",
+        "11448836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "The malfunction of the infotainment system can cause distractions while driving, leading to accidents, and can also result in the loss of important safety features such as rear proximity alerts.",
+      "symptoms": [
+        "The radio or touchscreen display turns off and on intermittently",
+        "Bluetooth connectivity fails or stops working suddenly",
+        "phone activation does not produce any sound",
+        "rear proximity alerts (beeping sounds) do not function when in reverse gear."
+      ],
+      "odiNumbers": [
+        "11581924",
+        "11519331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Control and Hacking",
+      "impact": "The vehicle's transmission, steering, brakes, and other systems can become inoperable or behave erratically, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle's transmission becomes inoperable",
+        "the steering wheel moves independently",
+        "the brakes are applied without the brake pedal being depressed",
+        "the vehicle revs unintendedly",
+        "the radio turns on randomly",
+        "and the vehicle is being controlled by an unknown source."
+      ],
+      "odiNumbers": [
+        "11527218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Pressure and Vibration Issues",
+      "impact": "Incorrect tire pressure can cause vibration, uneven tire wear, and decreased vehicle stability, leading to accidents or loss of control.",
+      "symptoms": [
+        "Vibration while driving",
+        "uneven tire wear",
+        "tire pressure warning light is illuminated",
+        "and the vehicle drives sloppily."
+      ],
+      "odiNumbers": [
+        "11390456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

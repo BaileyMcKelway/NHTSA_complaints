@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Coolant Temperature Sensor Failure",
+      "impact": "The failure of the engine coolant temperature sensor can cause the engine to not warm up to operating temperature, leading to decreased engine performance and potentially causing damage to the engine.",
+      "symptoms": [
+        "Engine never warms up to operating temperature",
+        "thermostat opens at a lower temperature than normal."
+      ],
+      "odiNumbers": [
+        "10253339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coil Pack Failure",
+      "impact": "The failure of the coil pack can cause a fire in the engine compartment, potentially leading to a vehicle fire and posing a risk to the driver and passengers.",
+      "symptoms": [
+        "Rough engine performance",
+        "smell of electrical/plastic fire",
+        "smoke and flames coming from the engine area."
+      ],
+      "odiNumbers": [
+        "10234417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Multiple Electrical System Failures",
+      "impact": "The failure of multiple electrical systems can cause a range of problems, including decreased safety and convenience features, and potentially leading to accidents or strandings.",
+      "symptoms": [
+        "Tire pressure light stays on",
+        "remote garage opener not working properly",
+        "remote control doesn't open the car",
+        "back door doesn't open at all",
+        "engine light on",
+        "car overheating."
+      ],
+      "odiNumbers": [
+        "10213125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Airbag Seam Failure",
+      "impact": "The failure of the outer seat bolster seam that retains the side airbag can compromise the airbag's deployment in the event of an accident, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The outer seat bolster seam has split",
+        "the airbag fault light is illuminated",
+        "the airbag may not deploy properly in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11090519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Wiring Failure due to Seat Movement",
+      "impact": "The improper wiring length and tightness can cause the airbag igniter wire to pull out, leading to airbag malfunction and potentially causing injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag fault light is illuminated",
+        "the airbag may not deploy properly in the event of an accident",
+        "the wire becomes tight and eventually pulls out of the airbag igniter when the seat is moved forwards and backwards."
+      ],
+      "odiNumbers": [
+        "10329310"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Failure",
+      "impact": "The failure of the rear seat belt can lead to a lack of proper restraint in the event of an accident, increasing the risk of injury or fatality to passengers.",
+      "symptoms": [
+        "The rear seat belt is stuck in the extended position",
+        "the rear seat belt fails to retract",
+        "the rear seat belt is unable to be used due to malfunction."
+      ],
+      "odiNumbers": [
+        "10502670",
+        "10380010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

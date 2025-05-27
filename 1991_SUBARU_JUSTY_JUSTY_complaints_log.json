@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "SEATS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to inadequate restraint of the driver or passenger, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not retract into the door",
+        "the seat belt does not restrain the driver or passenger",
+        "the seat belt fails to deploy properly",
+        "the electronic retractor fails."
+      ],
+      "odiNumbers": [
+        "707857",
+        "974314",
+        "962009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Downshift Issue",
+      "impact": "The transmission's failure to downshift smoothly can cause sudden jerks, loss of control, and unexpected slowing, which can lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The transmission drops into low gear unexpectedly",
+        "the vehicle slows down suddenly",
+        "the front wheels squeal and slide",
+        "the transmission jumps into a lower gear",
+        "causing a jolt",
+        "throwing passengers forward."
+      ],
+      "odiNumbers": [
+        "840840",
+        "503024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Piston Rod Failure",
+      "impact": "The sudden failure of the piston rod can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "unusual noises",
+        "vibrations",
+        "or shaking of the vehicle",
+        "loss of braking performance",
+        "difficulty steering",
+        "or complete loss of control."
+      ],
+      "odiNumbers": [
+        "813217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Back Failure",
+      "impact": "The failure of the seat back can cause injuries to occupants, especially in the event of a rear-end collision, as it can break and fall backwards, leading to a loss of support and protection.",
+      "symptoms": [
+        "The seat back breaks or collapses during a collision",
+        "the seat back falls backwards",
+        "the occupant is thrown backwards or forwards",
+        "the occupant experiences injury or discomfort due to the seat back failure."
+      ],
+      "odiNumbers": [
+        "985095"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can lead to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden loss of brake function",
+        "brake pedal goes to the floor",
+        "inability to stop the vehicle",
+        "smoke or burning smell coming from under the hood."
+      ],
+      "odiNumbers": [
+        "985792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

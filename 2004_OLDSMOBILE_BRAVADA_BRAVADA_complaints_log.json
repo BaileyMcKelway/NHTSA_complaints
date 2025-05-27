@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "STEERING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of airbags to deploy in the event of a collision can increase the risk of serious injury or fatality.",
+      "symptoms": [
+        "No airbag deployment in a collision",
+        "despite meeting the necessary deployment criteria."
+      ],
+      "odiNumbers": [
+        "11479892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause critical safety systems, such as headlights, to malfunction, increasing the risk of accidents.",
+      "symptoms": [
+        "Headlights shorting out",
+        "failure to turn on",
+        "intermittent operation",
+        "cruise control malfunction",
+        "cooling fan system malfunction."
+      ],
+      "odiNumbers": [
+        "11366777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Odometer Fraud",
+      "impact": "Misrepresentation of the vehicle's mileage can lead to unexpected repairs, decreased vehicle value, and potential safety issues.",
+      "symptoms": [
+        "Discrepancy between reported and actual mileage",
+        "failure to disclose accurate mileage by the seller."
+      ],
+      "odiNumbers": [
+        "10449995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause inaccurate readings on the gas gauge, oil pressure, tachometer, and speedometer, leading to difficulties in maintaining speed, determining fuel levels, and potentially resulting in running out of gas while driving.",
+      "symptoms": [
+        "The gas gauge",
+        "oil pressure",
+        "tachometer",
+        "and speedometer display false or fluctuating readings",
+        "the fuel gauge does not show the accurate amount of fuel in the vehicle",
+        "the fuel gauge reading fluctuates sporadically."
+      ],
+      "odiNumbers": [
+        "10398884",
+        "10398585",
+        "10219274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Pump and Housing Failure",
+      "impact": "The failure of the fuel pump and housing can cause inaccurate fuel readings, leading to difficulties in determining fuel levels and potentially resulting in running out of gas while driving.",
+      "symptoms": [
+        "Failure of the fuel housing while placing fuel in the vehicle",
+        "inaccurate fuel readings",
+        "fuel pump failure."
+      ],
+      "odiNumbers": [
+        "10219274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Malfunction",
+      "impact": "The malfunctioning brake system can cause the vehicle to lose braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "Service brake system notice on the dashboard",
+        "brakes going to the floor",
+        "inability to stop the vehicle",
+        "ABS malfunction."
+      ],
+      "odiNumbers": [
+        "11443450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Hose Failure",
+      "impact": "The failure of the power steering hose can cause a fire in the engine compartment, leading to vehicle damage or loss.",
+      "symptoms": [
+        "Power steering fluid leak",
+        "fire in the engine compartment",
+        "melted power steering fluid reservoir",
+        "damaged power steering hoses."
+      ],
+      "odiNumbers": [
+        "10110279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the occupants, compromising their safety.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "despite the severity of the impact",
+        "resulting in potential injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10808623",
+        "10089596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

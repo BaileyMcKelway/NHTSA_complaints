@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "SUSPENSION",
+    "FUEL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Starter System)",
+      "impact": "The failure of the electrical system, specifically the starter system, can cause the vehicle to stall or lose motive power while driving, which can lead to accidents or leave the driver stranded, posing a significant risk to safety.",
+      "symptoms": [
+        "The vehicle stalls or loses power while driving",
+        "the \"Check Starting System\" message is displayed",
+        "the vehicle restarts but stalls again",
+        "loss of speed",
+        "and sudden shutdown of the vehicle."
+      ],
+      "odiNumbers": [
+        "11568828",
+        "11563225",
+        "11480880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coil Spring Fracture",
+      "impact": "The fracture of the coil spring can cause loss of vehicle control, leading to accidents, and potentially result in injury or death.",
+      "symptoms": [
+        "The coil spring fractures",
+        "often at the lower control end",
+        "which can cause uneven vehicle ride",
+        "noise",
+        "and vibration."
+      ],
+      "odiNumbers": [
+        "11527263",
+        "11512910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Fuel System Recall Repair",
+      "impact": "The delay in repairing the fuel system recall can increase the risk of a fuel leak, which can cause a fire, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall repair delay."
+      ],
+      "odiNumbers": [
+        "11583342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Recall (NHTSA Campaign Number: 24V110000)",
+      "impact": "The fuel system defect can cause a fuel leak, which can lead to a vehicle fire, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Fuel leak",
+        "fuel smell",
+        "engine stalling",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "11583342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unavailability of Recall Repair Parts",
+      "impact": "The unavailability of recall repair parts can delay the repair process, leaving the vehicle in an unsafe condition, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "Delay in scheduling recall repair",
+        "inability to complete recall repair",
+        "lack of communication from the manufacturer or dealer regarding part availability."
+      ],
+      "odiNumbers": [
+        "11583342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Engine Stalling",
+      "impact": "The sudden and unexpected stalling of the engine while the vehicle is in motion can lead to accidents, near-accidents, and a loss of control, posing a significant risk to the safety of the driver and passengers.",
+      "symptoms": [
+        "The engine shuts off unexpectedly while the vehicle is in motion",
+        "loss of engine power",
+        "stuttering and jerking before the stall",
+        "hard thump and sudden deceleration at faster speeds",
+        "stalling at stop lights",
+        "stop signs",
+        "or while idling in neutral."
+      ],
+      "odiNumbers": [
+        "11245618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

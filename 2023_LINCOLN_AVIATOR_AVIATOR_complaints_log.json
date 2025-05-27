@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "BACK OVER PREVENTION",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera System Failure",
+      "impact": "The failure of the backup camera system can cause a safety issue while reversing, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The camera screen goes blue or black",
+        "crashes",
+        "and glitches; the system fails to display an image; the system randomly pixelates."
+      ],
+      "odiNumbers": [
+        "11589800",
+        "11545246",
+        "11508209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Uncommanded Power Loss and Electrical System Failure",
+      "impact": "The uncommanded power loss and electrical system failure can cause a safety issue while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle suddenly loses power while driving; the vehicle slows down without warning; the accelerator pedal does not respond; the cruise control is unavailable; the Bluetooth connection fails; the navigation screen and map do not load."
+      ],
+      "odiNumbers": [
+        "11537923",
+        "11531763"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Keyless Entry and Transmission System Failure",
+      "impact": "The failure of the keyless entry and transmission system can cause a safety issue while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle fails to recognize the key; the vehicle does not allow selection of Drive",
+        "Reverse",
+        "or Neutral; the vehicle engages the parking brake unexpectedly; the adaptive cruise control is disabled."
+      ],
+      "odiNumbers": [
+        "11531763"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Back Over Prevention System",
+      "impact": "The delayed repair of the back over prevention system recall can increase the risk of accidents or injuries, as the system is designed to alert the driver of potential obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "The back over prevention system remains activated",
+        "displaying the rearview of the vehicle",
+        "even when the recall repair has not been completed."
+      ],
+      "odiNumbers": [
+        "11577938"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Issues with Hybrid System",
+      "impact": "The brake pedal issue can cause a loss of braking performance, leading to increased stopping distances, accidents, or near-misses, which can compromise vehicle safety.",
+      "symptoms": [
+        "Constant pressure on the brake pedal",
+        "pulsating feeling when applying the brakes",
+        "feeling like the ABS is kicking on",
+        "brakes may lock up temporarily",
+        "inconsistent braking performance."
+      ],
+      "odiNumbers": [
+        "11572452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

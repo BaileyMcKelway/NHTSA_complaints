@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brake can cause loss of control, accidents, or near-misses, especially when sudden stops are required.",
+      "symptoms": [
+        "The rear brake fades or becomes inoperable",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal travels further than usual",
+        "the rear brake fails to engage",
+        "the brake line is excessively hot",
+        "the rotor is cool to the touch after stopping."
+      ],
+      "odiNumbers": [
+        "10473652",
+        "10397420",
+        "10368697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling When Approaching a Stop",
+      "impact": "The sudden stalling of the engine when approaching a stop can cause a loss of control, increasing the risk of accidents, especially in heavy traffic conditions.",
+      "symptoms": [
+        "The engine stalls without warning when slowing down or approaching a stop sign or red light",
+        "requiring a restart in traffic."
+      ],
+      "odiNumbers": [
+        "10350235",
+        "10350236",
+        "10350233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling Issue",
+      "impact": "The engine stalling issue can cause the motorcycle to suddenly lose power, leading to a loss of control, especially when riding on the highway or in heavy traffic, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls unexpectedly",
+        "the headlight turns off",
+        "the bike shuts down during normal driving conditions",
+        "the engine stalls when slowing down",
+        "the engine stalls when the clutch is pulled in (but not always)."
+      ],
+      "odiNumbers": [
+        "10369848",
+        "10350142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

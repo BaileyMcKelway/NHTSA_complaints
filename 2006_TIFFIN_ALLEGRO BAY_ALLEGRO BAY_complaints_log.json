@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure (Hydraulic and Caliper Issues)",
+      "impact": "The failure of the brake system can cause the brakes to overheat, leading to a loss of braking power, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Burning smell",
+        "brakes not releasing",
+        "brake pedal goes to the floor",
+        "vigorous pumping required to activate brakes",
+        "hot brake smell and smoke",
+        "rear brakes overheating",
+        "brake fluid leakage."
+      ],
+      "odiNumbers": [
+        "10846067",
+        "10465357",
+        "10458130",
+        "10442879",
+        "10352090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brakes to fail, leading to a loss of braking power, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Burning smell",
+        "brakes not releasing",
+        "brake pedal goes to the floor",
+        "vigorous pumping required to activate brakes",
+        "hot brake smell and smoke",
+        "rear brakes overheating."
+      ],
+      "odiNumbers": [
+        "10465357",
+        "10458130",
+        "10442879"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Auto Park Brake (J72) Failure",
+      "impact": "The sudden and unexpected activation of the auto park brake while driving can cause the vehicle to come to an abrupt stop, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The auto park warning light illuminates",
+        "the brake engages suddenly",
+        "the vehicle comes to an immediate stop",
+        "the vehicle is unable to move until the drive shaft is removed."
+      ],
+      "odiNumbers": [
+        "10461453",
+        "10458370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dometic Refrigerator Defect and Fire Hazard",
+      "impact": "The defective refrigerator can cause a fire, resulting in significant damage to the motorhome and potentially putting the occupants at risk of injury or death.",
+      "symptoms": [
+        "The refrigerator catches fire",
+        "causing damage to the unit and surrounding areas."
+      ],
+      "odiNumbers": [
+        "10428085",
+        "10290403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

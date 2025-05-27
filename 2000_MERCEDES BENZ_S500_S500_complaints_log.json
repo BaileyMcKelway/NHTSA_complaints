@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 58,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "INTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to suddenly drop or collapse, making it difficult or impossible to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's front or rear end suddenly drops or collapses",
+        "the vehicle is too low to the ground",
+        "the air suspension system malfunctions without warning",
+        "the ABC active body control indicator illuminates",
+        "a message indicates to \"stop the vehicle is too low\"",
+        "violent vibration occurs while driving",
+        "difficulty in controlling the vehicle",
+        "rear brakes or emergency brake pads freeze during vibration."
+      ],
+      "odiNumbers": [
+        "11066456",
+        "10883716",
+        "10705145",
+        "10203139",
+        "10202102",
+        "10178648",
+        "10108793",
+        "550460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Panel Lighting Failure",
+      "impact": "The failure of the instrument panel lighting can cause the driver to be unable to read the dashboard gauges, including the speedometer, fuel level, and mileage, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The instrument panel lights flash and go dark",
+        "the dashboard gauges and indicators do not illuminate",
+        "the speedometer is not readable",
+        "the fuel level is not readable",
+        "the mileage is not readable."
+      ],
+      "odiNumbers": [
+        "10466777",
+        "10353064",
+        "10285620",
+        "10167602",
+        "10166602",
+        "10161680",
+        "10160666",
+        "10160668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Manufacturer's Refusal to Honor Recall",
+      "impact": "The manufacturer's refusal to honor the recall can lead to the driver being forced to continue driving with a defective instrument panel, which can cause safety issues.",
+      "symptoms": [
+        "The manufacturer refuses to repair or replace the defective instrument panel",
+        "citing that the vehicle's VIN is not included in the recall",
+        "despite the presence of a NHTSA recall campaign."
+      ],
+      "odiNumbers": [
+        "10466777",
+        "10353064",
+        "10167602",
+        "10166602",
+        "10161680",
+        "10160666",
+        "10160668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

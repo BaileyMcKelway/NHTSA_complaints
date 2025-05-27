@@ -1,0 +1,397 @@
+{
+  "totalComplaints": 110,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 23,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause a loss of brake fluid, leading to a loss of brakes, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake fluid leak",
+        "loss of brake fluid",
+        "sudden loss of brakes",
+        "grinding noise when applying brakes."
+      ],
+      "odiNumbers": [
+        "11513431",
+        "11404688",
+        "11331235",
+        "11210287",
+        "11171219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause a loss of brakes, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "sudden loss of brakes",
+        "grinding noise when applying brakes."
+      ],
+      "odiNumbers": [
+        "11570466",
+        "11442136",
+        "11384066",
+        "10955205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Recall Repair Delay",
+      "impact": "The delay in repairing the brake recall can cause a loss of brakes, which can result in accidents or injuries.",
+      "symptoms": [
+        "None",
+        "as this complaint is related to the delay in repairing the brake recall."
+      ],
+      "odiNumbers": [
+        "11420838",
+        "11419609",
+        "11405155",
+        "11404688",
+        "11397609",
+        "11395638",
+        "11390210",
+        "11364180",
+        "11354052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Design Flaw",
+      "impact": "The design flaw of the brake pedal can cause uneven, jerky, and erratic braking, which can result in accidents or injuries.",
+      "symptoms": [
+        "Foot hits the metal bar that supports the brake pedal",
+        "brake pedal pad is too small",
+        "foot is blocked from getting to the brake pedal due to the bar that supports the brake pedal."
+      ],
+      "odiNumbers": [
+        "10820152",
+        "10783822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or shut down while driving, leading to a loss of power and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls or shuts down while driving",
+        "warning lights illuminate on the dashboard",
+        "the vehicle loses power",
+        "and the engine shuts off."
+      ],
+      "odiNumbers": [
+        "11489678",
+        "11484035",
+        "11435723",
+        "11365934",
+        "11326497",
+        "11309513",
+        "11223016",
+        "11207822",
+        "10979889",
+        "10907519",
+        "10904632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause engine damage and lead to catastrophic engine failure, resulting in costly repairs or even a complete engine replacement.",
+      "symptoms": [
+        "The water pump leaks",
+        "the engine overheats",
+        "and the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "11507461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes fail to operate",
+        "and the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "11365934",
+        "10979889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Liftgate Failure",
+      "impact": "The failure of the liftgate can cause injuries or accidents, especially if it closes unexpectedly.",
+      "symptoms": [
+        "The liftgate closes unexpectedly",
+        "trapping people or objects."
+      ],
+      "odiNumbers": [
+        "11023492",
+        "11318773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Drain",
+      "impact": "The battery drain can cause the vehicle to stall or not start, leaving the driver stranded.",
+      "symptoms": [
+        "The battery discharges quickly",
+        "the vehicle stalls or won't start",
+        "and warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11353291",
+        "11435723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "SYNC 3 Navigation Unit Failure",
+      "impact": "The failure of the SYNC 3 navigation unit can cause inconvenience and distraction while driving.",
+      "symptoms": [
+        "The navigation unit freezes",
+        "phone functions become inoperative",
+        "and the unit resets automatically when the car is turned off and the door is opened and closed."
+      ],
+      "odiNumbers": [
+        "10853141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling/Shutting Down",
+      "impact": "The sudden stalling or shutting down of the engine can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalls or shuts down while driving",
+        "often without warning",
+        "and may require restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "11449768",
+        "11219366",
+        "11219371",
+        "11003817",
+        "10910708",
+        "10892676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust Fumes in Cabin",
+      "impact": "Inhaling exhaust fumes can cause health problems, including headaches, dizziness, and nausea.",
+      "symptoms": [
+        "Exhaust fumes or a rotten egg smell are present in the cabin",
+        "often when driving uphill or under hard acceleration."
+      ],
+      "odiNumbers": [
+        "11394400",
+        "11011586",
+        "10955176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Loss of Power/Acceleration",
+      "impact": "The sudden loss of power or acceleration can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle loses power or acceleration",
+        "often while driving at high speeds",
+        "and may require restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "11011467",
+        "10906203",
+        "10892676",
+        "10883991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Consumption Issue",
+      "impact": "Excessive oil consumption can cause engine damage, leading to costly repairs or even engine failure.",
+      "symptoms": [
+        "Vehicle consumes excessive amounts of oil",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "11585615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Coolant Leak",
+      "impact": "A coolant leak can cause engine damage, overheating, and potentially lead to engine failure.",
+      "symptoms": [
+        "Coolant leak is present",
+        "often with smoke appearing under the hood."
+      ],
+      "odiNumbers": [
+        "11089559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "The failure of the catalytic converter can lead to environmental pollution and potentially cause harm to the vehicle's occupants and other road users.",
+      "symptoms": [
+        "The vehicle's \"check engine\" light illuminates",
+        "decreased fuel efficiency",
+        "and a strong sulfur smell."
+      ],
+      "odiNumbers": [
+        "11560197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Liftgate Malfunction",
+      "impact": "The malfunctioning rear liftgate can cause serious injury or death to individuals standing near the vehicle.",
+      "symptoms": [
+        "The rear liftgate opens correctly and then immediately starts closing automatically",
+        "causing individuals to jump out of the way to avoid injury."
+      ],
+      "odiNumbers": [
+        "11519580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Start/Stop Button Design Flaw",
+      "impact": "The design flaw of the start/stop button can cause the vehicle to shut off unexpectedly, leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle shuts off while driving",
+        "especially when the driver accidentally presses the start/stop button while adjusting the radio or climate controls."
+      ],
+      "odiNumbers": [
+        "11351125",
+        "11018658"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Carbon Monoxide and Sulfur Smell in Cabin",
+      "impact": "The presence of carbon monoxide and sulfur smell in the cabin can cause health problems, fatigue, and dizziness, leading to accidents.",
+      "symptoms": [
+        "A strong sulfur smell is present in the cabin",
+        "especially during acceleration or when the air conditioner is on. Carbon monoxide detectors may also indicate the presence of the gas."
+      ],
+      "odiNumbers": [
+        "11311789",
+        "11132256",
+        "11012387",
+        "11012053",
+        "10903885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Leak from Window",
+      "impact": "The air leak from the window can cause wind noise, distractions, and potentially lead to accidents.",
+      "symptoms": [
+        "Air can be heard coming from the top of the window where the felt meets the window",
+        "especially at high speeds."
+      ],
+      "odiNumbers": [
+        "11100614"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Shut-Off While Driving",
+      "impact": "The engine shut-off while driving can cause accidents or near-misses, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The engine shuts off suddenly while driving",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "11018658",
+        "10780950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Body Throttle Failure",
+      "impact": "The failure of the body throttle can cause the engine to rev up unexpectedly, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The engine starts reving up unexpectedly",
+        "often without warning",
+        "and may require multiple attempts to restart the vehicle."
+      ],
+      "odiNumbers": [
+        "10863999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Trim Panel and Weather Strip Issues",
+      "impact": "The issues with the trim panel and weather strip can cause water leaks, noise, and distractions, potentially leading to accidents.",
+      "symptoms": [
+        "The trim panel and weather strip may not stay in place",
+        "causing gaps and openings that can let in water and air."
+      ],
+      "odiNumbers": [
+        "10875477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

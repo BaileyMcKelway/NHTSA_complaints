@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent engine stalling can cause the vehicle to lose power, leading to potential accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle loses power for a second or two",
+        "the check engine light comes on",
+        "the vehicle may not totally lose power but stalls briefly."
+      ],
+      "odiNumbers": [
+        "10227140",
+        "10130996",
+        "10130967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails",
+        "the vehicle is unable to shift gears",
+        "an up arrow indicating the need to shift gear appears on the dashboard panel."
+      ],
+      "odiNumbers": [
+        "10312790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Radiator Failure",
+      "impact": "The failure of the radiator can cause the engine to overheat, leading to potential engine damage or failure.",
+      "symptoms": [
+        "The radiator cracks",
+        "the engine overheats."
+      ],
+      "odiNumbers": [
+        "10312790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Control Module Failure",
+      "impact": "The failure of the electronic throttle control module can cause the vehicle to stall or hesitate while driving, leading to a loss of control and increasing the risk of accidents. The vehicle may also experience unpredictable acceleration, which can be dangerous in certain driving conditions.",
+      "symptoms": [
+        "The vehicle stalls or hesitates while driving",
+        "especially at slow speeds or when cold; the vehicle has sluggish throttle response; the vehicle almost stalls when accelerating; the check engine light may or may not illuminate."
+      ],
+      "odiNumbers": [
+        "10367783",
+        "10130995",
+        "10133208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Loss of Power and Stalling",
+      "impact": "The sudden loss of power and stalling can cause the vehicle to slow down or come to a complete stop, increasing the risk of accidents, especially on highways, and leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly loses speed",
+        "the engine stalls",
+        "the vehicle is difficult to restart",
+        "the vehicle can only be driven at slow speeds after restarting."
+      ],
+      "odiNumbers": [
+        "10131217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

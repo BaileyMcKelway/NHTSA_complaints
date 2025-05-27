@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 34,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "SRS airbag light illuminates on the dashboard",
+        "airbag warning light remains on for an extended period."
+      ],
+      "odiNumbers": [
+        "564003",
+        "898770",
+        "843525",
+        "825230",
+        "815164",
+        "813919",
+        "812738",
+        "812386",
+        "810016",
+        "804274",
+        "980486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a problem with the airbag system, which can lead to airbag failure in the event of a crash.",
+      "symptoms": [
+        "SRS airbag light illuminates on the dashboard",
+        "airbag warning light remains on for an extended period."
+      ],
+      "odiNumbers": [
+        "843525",
+        "812738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Loss of 3rd Gear",
+      "impact": "The sudden loss of 3rd gear can cause the vehicle to stall or hesitate, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting into 3rd gear",
+        "the vehicle loses 3rd gear completely",
+        "the transmission tries to engage 3rd gear but falls into neutral",
+        "the vehicle experiences a sudden bump or jerk when shifting into 3rd gear",
+        "the vehicle overrevs when shifting into 3rd gear."
+      ],
+      "odiNumbers": [
+        "10375201",
+        "814092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Humping or Jerking",
+      "impact": "The transmission humping or jerking can cause the vehicle to stall or hesitate, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle experiences a humping or jerking sensation when shifting gears",
+        "the transmission hesitates or slips when shifting into gear",
+        "the vehicle cuts off or stalls when shifting into gear."
+      ],
+      "odiNumbers": [
+        "814092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Clutch Pedal Operation",
+      "impact": "The ability to start the vehicle in gear without pushing the clutch pedal can lead to unintended vehicle movement, potentially causing accidents or injuries.",
+      "symptoms": [
+        "The vehicle can be started in gear without pushing the clutch pedal",
+        "the clutch pedal does not function as intended."
+      ],
+      "odiNumbers": [
+        "985115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to fail, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes lock up",
+        "loss of braking while driving",
+        "excessive wear on the front brake pads."
+      ],
+      "odiNumbers": [
+        "882556",
+        "605646",
+        "815595",
+        "981412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to false deployments, which can cause accidents, injuries, or fatalities. Additionally, the illumination of the airbag indicator light can indicate a potential failure of the airbag system, which can compromise vehicle safety.",
+      "symptoms": [
+        "The airbag indicator light on the dashboard comes on and stays on",
+        "the airbag deploys unexpectedly while the vehicle is stationary",
+        "the seat belts and airbag unit are defective",
+        "the control unit needs to be replaced."
+      ],
+      "odiNumbers": [
+        "742102",
+        "850227",
+        "836990",
+        "513985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly surges forward without input from the driver",
+        "the speedometer rises rapidly",
+        "the vehicle accelerates without pressing the accelerator pedal",
+        "the vehicle continues to accelerate even when the driver removes their foot from the pedal."
+      ],
+      "odiNumbers": [
+        "10263812",
+        "8002498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "Cruise control malfunction can cause sudden unintended acceleration, loss of vehicle control, and potentially serious accidents or injuries.",
+      "symptoms": [
+        "The cruise control disengages by itself without driver input",
+        "the vehicle accelerates or decelerates unexpectedly",
+        "the cruise control system fails to maintain the set speed."
+      ],
+      "odiNumbers": [
+        "8002498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause the vehicle to lose power and control, leading to accidents or leaving the driver stranded, especially when driving down an incline or slowing down to a stop.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the vehicle stalls when slowing down",
+        "the vehicle stalls when driving down an incline",
+        "the SRS and ABS lights illuminate",
+        "the tachometer performs erratically."
+      ],
+      "odiNumbers": [
+        "10101215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "The headlights do not function properly",
+        "the SRS and ABS lights illuminate",
+        "the tachometer performs erratically",
+        "the vehicle experiences an electrical fire."
+      ],
+      "odiNumbers": [
+        "489326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Assembly Failure",
+      "impact": "The failure of the alternator assembly can cause the vehicle's electrical system to malfunction, leading to stalling or other safety issues.",
+      "symptoms": [
+        "The alternator assembly fails",
+        "the vehicle's electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10101215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to damage or failure.",
+      "symptoms": [
+        "The water pump makes excessive noise",
+        "a bolt in the water pump is too long and hits against the pump."
+      ],
+      "odiNumbers": [
+        "10101215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

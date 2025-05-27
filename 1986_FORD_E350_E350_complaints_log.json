@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to start unexpectedly, leading to unintended movement, accidents, or even fires, which can result in property damage, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle starts unexpectedly",
+        "the ignition switch fails to turn off",
+        "the vehicle tries to start itself",
+        "the ignition switch overheats",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "704491",
+        "704500",
+        "505954",
+        "983075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust System Misalignment",
+      "impact": "Misalignment of the exhaust system can cause a fire, potentially leading to damage to the vehicle and surrounding property, and posing a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "Fire starting on the right side and undercarriage of the vehicle",
+        "bent exhaust pipe."
+      ],
+      "odiNumbers": [
+        "10357512"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator-Related Electrical Fire",
+      "impact": "Electrical fires caused by alternator problems can spread quickly, potentially leading to damage to the vehicle and surrounding property, and posing a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "Engine fire",
+        "problems with the alternator."
+      ],
+      "odiNumbers": [
+        "545265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Filter Adapter Extension Loosening",
+      "impact": "Continuous loosening of the oil filter adapter extension can cause oil leaks, leading to engine damage, decreased performance, and potentially causing accidents.",
+      "symptoms": [
+        "Oil filter adapter extension continuously loosens."
+      ],
+      "odiNumbers": [
+        "503729"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Axle Seal Leakage",
+      "impact": "Axle seal leakage can cause rear brake failure, leading to reduced stopping power and increased risk of accidents. It can also lead to premature wear on other components, such as the differential and bearings.",
+      "symptoms": [
+        "Rear brake failure",
+        "spongy brake pedal",
+        "grinding or screeching noise when applying the brakes",
+        "fluid leakage around the rear wheels",
+        "vibration or noise when driving."
+      ],
+      "odiNumbers": [
+        "489043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Differential Failure",
+      "impact": "Differential failure can cause loss of power to the wheels, leading to reduced traction and control, especially on slippery or uneven surfaces. This can increase the risk of accidents and make it difficult to maintain control of the vehicle.",
+      "symptoms": [
+        "Grinding or whining noise from the rear of the vehicle",
+        "vibration or shaking when driving",
+        "difficulty maintaining speed or acceleration",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "489043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

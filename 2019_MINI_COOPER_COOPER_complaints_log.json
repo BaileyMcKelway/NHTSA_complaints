@@ -1,0 +1,139 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Stabilization System Malfunction",
+      "impact": "The malfunction of the vehicle stabilization system can cause loss of control, making it difficult to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The vehicle sends a message about vehicle stabilization initiation",
+        "the steering wheel is difficult to turn",
+        "the vehicle is unable to change lanes smoothly."
+      ],
+      "odiNumbers": [
+        "11554951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause loss of control, making it difficult or impossible to steer the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The steering wheel spins uncontrollably",
+        "the vehicle is difficult or impossible to control."
+      ],
+      "odiNumbers": [
+        "11501907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Crankshaft Speed Pulse Generator Sensor Malfunction",
+      "impact": "The malfunction of the crankshaft speed pulse generator sensor can cause the engine to lock up, leading to loss of control and speed, which can cause accidents.",
+      "symptoms": [
+        "The engine locks up",
+        "the vehicle is unable to maintain speed",
+        "the vehicle decelerates suddenly",
+        "the vehicle is difficult or impossible to control."
+      ],
+      "odiNumbers": [
+        "11115073",
+        "11115082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Condensate Drain Hose Failure",
+      "impact": "The failure of the condensate drain hose can cause water to accumulate inside the vehicle, leading to mold growth and potential health issues for occupants.",
+      "symptoms": [
+        "Musty or foul odor from the air vents",
+        "water accumulation inside the vehicle",
+        "mold growth",
+        "breathing difficulties."
+      ],
+      "odiNumbers": [
+        "11552302",
+        "11482310"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Roll-Over Bar Malfunction",
+      "impact": "The sudden deployment of the roll-over bar can cause injury or distraction to the driver, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The roll-over bar suddenly pops up while driving",
+        "concern for passenger safety in the event of a rollover."
+      ],
+      "odiNumbers": [
+        "11349959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Center Console Phone Charger Overheating",
+      "impact": "The center console phone charger can cause the phone to overheat, leading to system shutdown, phone malfunction, and potentially a fire hazard.",
+      "symptoms": [
+        "The phone charges slowly",
+        "the phone heats up excessively",
+        "the phone's operations and interaction with the vehicle system freeze or shut down",
+        "the phone becomes too hot to handle",
+        "CarPlay functions slow down and then freeze."
+      ],
+      "odiNumbers": [
+        "11481612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver Side Tail Lamp Assembly Failure",
+      "impact": "The failure of the driver side tail lamp assembly can cause a loss of critical safety features, including running lights, brake lights, reverse lights, and turn signals, which can increase the risk of accidents.",
+      "symptoms": [
+        "The dashboard displays a warning of lights malfunction",
+        "the tail lamp assembly stops working while driving",
+        "the electrical connector and pigtail show signs of melting and fire hazard."
+      ],
+      "odiNumbers": [
+        "11452147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Failure of Engine Mounts",
+      "impact": "The premature failure of engine mounts can cause the engine to shift excessively, leading to vibrations, noise, and potentially causing damage to other engine components. This can also affect the overall safety and performance of the vehicle.",
+      "symptoms": [
+        "Excessive engine vibrations",
+        "abnormal engine noise",
+        "engine shifting or movement",
+        "rough idling",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11583487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

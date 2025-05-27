@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause toxic fumes from ethylene glycol to enter the passenger compartment, posing a significant risk to the health and safety of the occupants. Additionally, the coolant leak can cause fogging of the windshield, reducing visibility and increasing the risk of accidents.",
+      "symptoms": [
+        "Strong smell of antifreeze inside the car",
+        "fogging of the windshield",
+        "smoky vapors coming out of the heating vents",
+        "difficulty breathing",
+        "nausea",
+        "headaches",
+        "eye and throat irritation",
+        "coolant leaking onto key car electronics."
+      ],
+      "odiNumbers": [
+        "10242656",
+        "10208520",
+        "10156551",
+        "10147032",
+        "10109306",
+        "10112060",
+        "10098067",
+        "10093396",
+        "10082271",
+        "887358",
+        "885310",
+        "559796",
+        "559664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Stuck Accelerator Pedal",
+      "impact": "A stuck accelerator pedal can cause unintended acceleration, making it difficult or impossible to control the vehicle, which can lead to accidents, property damage, and injuries.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck",
+        "the vehicle accelerates rapidly",
+        "the tachometer increases rapidly",
+        "the brakes are ineffective in slowing down the vehicle",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10243812",
+        "10088452",
+        "836897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Wear of Brake Pads and Rotors",
+      "impact": "Premature wear of brake pads and rotors can lead to reduced braking performance, increased stopping distances, and potentially cause accidents. Warped brake rotors can also cause vibrations when applying the brakes, which can affect vehicle stability and control.",
+      "symptoms": [
+        "Premature wear of front brake pads",
+        "warping of brake rotors",
+        "vibrations when applying the brakes",
+        "especially when slowing down or coming to a stop."
+      ],
+      "odiNumbers": [
+        "747642",
+        "889442",
+        "846125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

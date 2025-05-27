@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "SEATS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Block Defect",
+      "impact": "The defective engine block can cause engine overheating, smoking, and loss of pressure, leading to engine failure, stalling, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "excessive smoke",
+        "engine missing",
+        "loss of engine pressure",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "8010303",
+        "761810",
+        "734921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause engine overheating, leading to engine damage, stalling, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "water pump failure",
+        "engine cooling system malfunction."
+      ],
+      "odiNumbers": [
+        "547566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injury or fatalities, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "8013161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction",
+      "impact": "Transmission malfunction can cause loss of vehicle control, leading to accidents or strand the driver, and may also cause damage to the transmission and other components.",
+      "symptoms": [
+        "Transmission slips or hesitates",
+        "transmission makes unusual noises",
+        "transmission fails to engage gears",
+        "transmission warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "530116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially if the vehicle is in a confined space or in close proximity to other vehicles or pedestrians.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the vehicle takes off unexpectedly",
+        "the vehicle surges forward without warning",
+        "the vehicle accelerates rapidly without driver input."
+      ],
+      "odiNumbers": [
+        "8013156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unexpected Seat Adjustment",
+      "impact": "The unexpected adjustment of the seat can cause the driver to lose control of the vehicle, leading to accidents or near-misses, especially at high speeds.",
+      "symptoms": [
+        "The seat adjusts unexpectedly",
+        "the seat back reclines or moves forward suddenly",
+        "the driver loses control of the vehicle",
+        "the seat becomes stuck in a certain position."
+      ],
+      "odiNumbers": [
+        "762240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Pressure Hose Failure",
+      "impact": "The failure of the power steering pressure hose can cause a loss of power steering assist, making it difficult to steer the vehicle, especially at low speeds, which can increase the risk of accidents or loss of control.",
+      "symptoms": [
+        "Leaking power steering fluid",
+        "difficulty steering the vehicle",
+        "especially when turning or at low speeds",
+        "groaning or whining noise from the power steering system",
+        "visible signs of fluid leakage around the power steering hose or frame area."
+      ],
+      "odiNumbers": [
+        "529929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the rider to run out of fuel, leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The fuel gauge does not work",
+        "the fuel gauge reads incorrectly",
+        "the fuel gauge sticks to empty",
+        "the fuel gauge resets to half tank after cutting power and restarting."
+      ],
+      "odiNumbers": [
+        "10355226",
+        "10344787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Filter Canister Failure",
+      "impact": "The failure of the fuel filter canister can cause the motorcycle to stop running, leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The motorcycle stops running",
+        "the fuel tank is full but no fuel is getting to the engine",
+        "the fuel filter canister has stress cracks on the tabs."
+      ],
+      "odiNumbers": [
+        "10235698",
+        "10235070"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the motorcycle to stop running, leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The motorcycle stops running",
+        "the engine misfires",
+        "the motorcycle sputters",
+        "the fuel pump and/or lines internal to the fuel tank fail."
+      ],
+      "odiNumbers": [
+        "10235065",
+        "10233594",
+        "10232701",
+        "10232617",
+        "10232565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Light Switch Failure due to Proximity to Exhaust Pipe",
+      "impact": "The rear brake light switch failure can cause the brake fluid to leak out, leading to a complete failure of the rear brake, which can result in accidents and injuries.",
+      "symptoms": [
+        "The rear brake light switch melts due to heat from the exhaust pipe",
+        "causing the brake fluid to leak out",
+        "and resulting in a complete failure of the rear brake."
+      ],
+      "odiNumbers": [
+        "10403977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Front Brake Failure due to Lock-up",
+      "impact": "The front brake failure can cause the vehicle to lose control, leading to accidents and injuries.",
+      "symptoms": [
+        "The front brakes lock up",
+        "causing the vehicle to lose control",
+        "and resulting in accidents and injuries."
+      ],
+      "odiNumbers": [
+        "10269581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Engine Heat",
+      "impact": "The excessive engine heat can cause burns to riders, especially in slow-moving or stopped traffic, and can lead to engine damage or failure.",
+      "symptoms": [
+        "Engine temperature gauge rises to abnormal levels",
+        "engine feels extremely hot",
+        "riders experience burns or discomfort due to heat",
+        "engine overheats in slow-moving or stopped traffic."
+      ],
+      "odiNumbers": [
+        "10233296"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Engine Cooling System",
+      "impact": "The inadequate engine cooling system can cause the engine to overheat, leading to engine damage or failure, and potentially causing burns to riders.",
+      "symptoms": [
+        "Engine temperature gauge rises to abnormal levels",
+        "engine feels extremely hot",
+        "riders experience burns or discomfort due to heat",
+        "engine overheats in slow-moving or stopped traffic."
+      ],
+      "odiNumbers": [
+        "10233296"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

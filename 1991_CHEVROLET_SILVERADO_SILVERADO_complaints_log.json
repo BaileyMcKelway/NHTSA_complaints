@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "SEAT BELTS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause extended stopping distances, increased risk of accidents, and loss of control, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The brakes take a long time to stop the vehicle",
+        "the brake pedal becomes hardened and does not stop for a few seconds",
+        "the brakes pulse and go to the floor",
+        "the vehicle does not stop quickly enough",
+        "the brakes seem too small for the vehicle."
+      ],
+      "odiNumbers": [
+        "11048107",
+        "551062",
+        "843692",
+        "843319",
+        "819201",
+        "817896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Paint Defect and Warranty Issues",
+      "impact": "The paint defect can lead to cosmetic damage and potentially affect the vehicle's resale value. The warranty issues can cause frustration and financial burden for the owner.",
+      "symptoms": [
+        "Paint peeling",
+        "flaking",
+        "or fading",
+        "uneven paint finish",
+        "dealer refusal to repair or repaint under warranty."
+      ],
+      "odiNumbers": [
+        "10069820",
+        "704974",
+        "702888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Seat Belt Retractors and Buckles",
+      "impact": "Malfunctioning seat belt retractors and buckles can compromise the safety of occupants in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Seat belts will not retract or latch properly",
+        "seat belt buckles break or fail to engage",
+        "inability to secure passengers",
+        "loss of protection in the event of an accident."
+      ],
+      "odiNumbers": [
+        "880452",
+        "877131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can reduce visibility during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "Wipers turn off while in use",
+        "wipers fail to work while turned on",
+        "wipers malfunction intermittently."
+      ],
+      "odiNumbers": [
+        "840507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rearview Mirror Glass Detachment",
+      "impact": "The detachment of the rearview mirror glass can cause distraction, obstruct the driver's view, and potentially lead to accidents.",
+      "symptoms": [
+        "Rearview mirror glass comes loose or falls off",
+        "rearview mirror glass hits the vehicle's door or body."
+      ],
+      "odiNumbers": [
+        "822270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to accelerate unexpectedly, leading to accidents, injuries, and damage to property.",
+      "symptoms": [
+        "The brake pedal requires excessive pressure to depress",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle lurches forward",
+        "the brake pedal fails to respond properly",
+        "especially when reversing."
+      ],
+      "odiNumbers": [
+        "11486889",
+        "11481009",
+        "11103736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Vacuum Loss and Auto-Start/Stop System Malfunction",
+      "impact": "The increased stopping distance during brake vacuum loss events can lead to accidents, and the auto-start/stop system malfunction can cause unexpected engine shutdowns and delays in resuming driving, increasing the risk of rear-end collisions.",
+      "symptoms": [
+        "Increased stopping distance",
+        "check engine light is always on",
+        "engine shuts off at red lights and goes into neutral mode",
+        "lengthy delay and/or engine and transmission jolt after brake pedal is released",
+        "inability to pass emissions compliance testing due to persistent check engine light."
+      ],
+      "odiNumbers": [
+        "11560213",
+        "11473573"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defroster/Heater Malfunction",
+      "impact": "The malfunction of the defroster/heater system can cause complete vision impairment, increasing the risk of accidents, especially when driving in cold weather conditions.",
+      "symptoms": [
+        "Moisture accumulates on the windshield",
+        "obstructing the driver's view",
+        "even with the defroster on maximum setting; water drips down from the windshield when wiped; AC unit or heater throws moisture into the cabin; AC turns on by itself while driving."
+      ],
+      "odiNumbers": [
+        "11384109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Reverse Camera Guideline Malfunction",
+      "impact": "The intermittent disappearance of guidelines on the reverse camera can cause distractions, increasing the risk of accidents or property damage while reversing.",
+      "symptoms": [
+        "Guidelines on the reverse camera display disappear for no apparent reason; guidelines reappear when the car is put into neutral and then back into reverse; unreliable performance of the reverse camera system."
+      ],
+      "odiNumbers": [
+        "11166356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause accidents, injuries, and fatalities, especially when merging with traffic or navigating through tight spaces.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "hesitates to speed up",
+        "or surges forward when the brake pedal is depressed",
+        "leading to loss of control or crashes."
+      ],
+      "odiNumbers": [
+        "11267555",
+        "11102996"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal Malfunction",
+      "impact": "A malfunctioning brake pedal can cause accidents, injuries, and fatalities, especially when the vehicle fails to stop or slows down unexpectedly.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond properly",
+        "the vehicle accelerates unexpectedly when the brake pedal is depressed",
+        "the vehicle fails to stop or slows down unexpectedly."
+      ],
+      "odiNumbers": [
+        "11102996"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

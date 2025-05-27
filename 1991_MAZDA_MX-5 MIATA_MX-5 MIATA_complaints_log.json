@@ -1,0 +1,73 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Malfunction",
+      "impact": "The malfunctioning airbag warning light can lead to a false sense of security, potentially causing accidents or injuries if the airbag system fails to deploy in a crash. Additionally, the unavailability of replacement parts can leave vehicles without a functioning airbag system, compromising safety.",
+      "symptoms": [
+        "The airbag warning light blinks or flashes intermittently",
+        "the airbag warning light remains on constantly",
+        "the airbag system is inoperable",
+        "and the vehicle's diagnostic system indicates a faulty actuator or control module."
+      ],
+      "odiNumbers": [
+        "11298375",
+        "11140362",
+        "11063813",
+        "10984406",
+        "10957333",
+        "10955121",
+        "10610650",
+        "742203",
+        "723641",
+        "814958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Flooding Cell Battery Failure",
+      "impact": "The failure of the flooding cell battery can cause acid leakage, corrosion, and electrical system malfunctions, leading to vehicle stalling, loss of power, and potentially causing accidents or fires.",
+      "symptoms": [
+        "Battery leakage around the cell caps",
+        "acid production",
+        "battery failure",
+        "vehicle stalling",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "10263609",
+        "525006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Crankshaft Pulley Pin Failure",
+      "impact": "The failure of the crankshaft pulley pins can cause the timing belt to jump time, leading to engine damage, stalling, or even engine failure, which can result in costly repairs and potentially leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the timing belt jumps time",
+        "the crankshaft pulley comes loose",
+        "unusual engine noises",
+        "loss of engine power."
+      ],
+      "odiNumbers": [
+        "867485",
+        "531339"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

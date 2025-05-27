@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose control, swerve, or fail to stop, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes lock up during turns",
+        "the vehicle pulls severely to one side",
+        "the brake pedal goes to the floor",
+        "the brakes slip before stopping the vehicle fully",
+        "the brake rotors separate from the hub while driving."
+      ],
+      "odiNumbers": [
+        "10104229",
+        "889597",
+        "525378",
+        "818190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Corrosion-Prone Brake Rotors",
+      "impact": "The corrosion of brake rotors can cause them to fail, leading to brake system failure, loss of control, and accidents.",
+      "symptoms": [
+        "The brake rotors corrode and fail",
+        "the vehicle pulls severely to one side",
+        "the brake pedal goes to the floor",
+        "the brakes slip before stopping the vehicle fully."
+      ],
+      "odiNumbers": [
+        "889597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tread separation",
+        "tire blowout",
+        "shaking or vibration while driving",
+        "loss of vehicle control",
+        "cracks on the sidewall or tread area."
+      ],
+      "odiNumbers": [
+        "10343749",
+        "10198160",
+        "744103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure Due to Cracking",
+      "impact": "Tire failure due to cracking can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Cracks on the sidewall or tread area",
+        "tire blowout",
+        "shaking or vibration while driving",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10343749",
+        "10198160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat and Seatbelt Failure",
+      "impact": "The failure of the seat and seatbelt system can cause injuries, including whiplash and back strain, due to the seats unlocking and sliding around while driving, and the seatbelts fraying and failing to provide proper restraint.",
+      "symptoms": [
+        "The seats unlock and slide around while driving",
+        "the seatbelts fail to hold the driver and passengers in place",
+        "the seatbelts fray and break",
+        "the seatbelt buckle alarm actuator is broken",
+        "the driver cannot buckle the seatbelt or receives a false sense of buckling."
+      ],
+      "odiNumbers": [
+        "10579223",
+        "808601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "LATCHES/LOCKS/LINKAGES",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to become stuck, preventing the driver or passengers from entering or exiting the vehicle, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The door latch becomes inoperable",
+        "the door cannot be opened or closed",
+        "the door latch is stuck."
+      ],
+      "odiNumbers": [
+        "10650825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while driving, obstructing the driver's view and potentially causing accidents or damage to the vehicle.",
+      "symptoms": [
+        "The hood flies open while driving",
+        "the hood is not securely closed",
+        "the hood latch is broken or faulty."
+      ],
+      "odiNumbers": [
+        "723757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in high-impact crashes can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection to mitigate the effects of the crash.",
+      "symptoms": [
+        "Airbag failure to deploy in high-impact crashes",
+        "resulting in injuries or fatalities",
+        "despite meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "10079150",
+        "10049040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Cylinder Head Assembly",
+      "impact": "A cracked cylinder head assembly can cause a mixture of oil and water, leading to engine overheating, which can result in engine damage, stalling, or even a complete breakdown, posing a risk to the driver's safety.",
+      "symptoms": [
+        "Vehicle overheating",
+        "oil and water mixture",
+        "engine stalling",
+        "failure to pass smog check."
+      ],
+      "odiNumbers": [
+        "564149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Cylinder Head Assembly (Lack of Passage for Exhaust Gas Recycling System)",
+      "impact": "A defective cylinder head assembly lacking the proper passageway for the exhaust gas recycling system can cause the vehicle to fail smog checks, leading to environmental concerns and potential fines.",
+      "symptoms": [
+        "Vehicle fails smog check",
+        "defective cylinder head assembly."
+      ],
+      "odiNumbers": [
+        "564149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Balancer Shaft Retainer Failure",
+      "impact": "A faulty balancer shaft retainer can cause engine overheating, leading to engine damage, stalling, or even a complete breakdown, posing a risk to the driver's safety.",
+      "symptoms": [
+        "Vehicle overheating",
+        "engine stalling",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "564149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Wear of Rear Brake Shoes and Pads",
+      "impact": "Premature wear of rear brake shoes and pads can lead to reduced braking performance, increasing the stopping distance and the risk of accidents.",
+      "symptoms": [
+        "Squealing or grinding noise when applying the brakes",
+        "vibration when braking",
+        "brake pedal feels spongy or soft",
+        "brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "564149",
+        "564149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Non-Standard DOT Code on Tires",
+      "impact": "The lack of a standard DOT code on tires can make it difficult for consumers to determine the age of the tires, which can lead to safety concerns and potential risks on the road.",
+      "symptoms": [
+        "Tires have a non-standard DOT code",
+        "making it impossible to determine the manufacture date",
+        "uncertainty about the age of the tires",
+        "concern about tire safety and reliability."
+      ],
+      "odiNumbers": [
+        "11231093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

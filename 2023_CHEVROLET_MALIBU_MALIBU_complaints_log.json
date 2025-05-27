@@ -1,0 +1,186 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down while driving, leading to a loss of control and increasing the risk of accidents. It can also cause issues with the dashboard, radio, and key fob, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "the dashboard shuts off while the car is still running",
+        "the radio malfunctions",
+        "the key fob is not recognized by the vehicle",
+        "and the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "11557392",
+        "11521415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Auto-Start/Stop System Malfunction",
+      "impact": "The malfunction of the auto-start/stop system can cause the vehicle to fail to start or move when the driver expects it to, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle fails to start or move when the driver expects it to",
+        "the vehicle stalls at a red light",
+        "and the vehicle requires multiple attempts to start."
+      ],
+      "odiNumbers": [
+        "11521415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Push-to-Start System Failure",
+      "impact": "The failure of the push-to-start system can cause the vehicle to fail to start, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle fails to start when the push-to-start button is pressed."
+      ],
+      "odiNumbers": [
+        "11590074"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lane Assist and Autonomous Steering System Malfunction",
+      "impact": "The malfunction of the lane assist and autonomous steering system can cause the vehicle to swerve unexpectedly, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly swerves while driving straight",
+        "the steering wheel moves on its own",
+        "the vehicle makes sudden corrections",
+        "the lane assist system activates unnecessarily",
+        "the vehicle's autonomous steering system over-corrects",
+        "leading to repeated swerving motions."
+      ],
+      "odiNumbers": [
+        "11541949",
+        "11529398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "False Front Crash Assist Activation",
+      "impact": "The false activation of the front crash assist system can cause unnecessary alerts and distractions, potentially leading to accidents or driver confusion.",
+      "symptoms": [
+        "The front crash assist system activates when there is no obstacle or vehicle nearby",
+        "the system provides false warnings",
+        "the system is overly sensitive."
+      ],
+      "odiNumbers": [
+        "11541949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unidentified Front End Rattling",
+      "impact": "The unidentified rattling noise from the front end of the vehicle can be a sign of a underlying mechanical issue, potentially affecting vehicle safety and performance.",
+      "symptoms": [
+        "Unusual rattling or noise coming from the front end of the vehicle",
+        "unknown cause of the rattling noise."
+      ],
+      "odiNumbers": [
+        "11541949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Power Reduction",
+      "impact": "The intermittent engine power reduction can cause the vehicle to slow down or hesitate, especially when accelerating from a stop, which can increase the risk of accidents or collisions.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "the \"Engine Power is Reduced\" error message appears on the dashboard",
+        "the vehicle is slow to accelerate from a stop position",
+        "the vehicle hesitates or stumbles when accelerating."
+      ],
+      "odiNumbers": [
+        "11555146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Advanced Safety Features",
+      "impact": "Malfunctioning advanced safety features, such as crash avoidance systems and warning systems, can lead to a false sense of security, potentially causing accidents or near-misses.",
+      "symptoms": [
+        "Warning lights or messages appear on the dashboard indicating that the crash avoidance system is inoperable",
+        "false warnings of potential collisions or hazards",
+        "incorrect tire pressure readings",
+        "and inconsistent or unreliable warnings from OnStar."
+      ],
+      "odiNumbers": [
+        "11553026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Surging or Unstable Engine Performance",
+      "impact": "Unstable engine performance can lead to loss of vehicle control, accidents, or stalling, which can cause inconvenience, damage, or even injuries.",
+      "symptoms": [
+        "The vehicle surges or hesitates while driving",
+        "the engine stalls or shuts off unexpectedly",
+        "and the vehicle experiences unusual vibrations or shaking."
+      ],
+      "odiNumbers": [
+        "11553026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling and Surging",
+      "impact": "The intermittent stalling and surging of the engine can cause the vehicle to lose power and control, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle surges or hesitates while driving",
+        "the engine almost cuts off",
+        "the vehicle has a popping or rattling noise coming from the right rear",
+        "the vehicle has a loss of power or acceleration."
+      ],
+      "odiNumbers": [
+        "11529566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Diagnose and Repair Intermittent Issues",
+      "impact": "The failure of the dealership to diagnose and repair intermittent issues can lead to continued safety risks and potential accidents, as well as frustration and mistrust from the vehicle owner.",
+      "symptoms": [
+        "The dealership is unable to duplicate the problem",
+        "the dealership claims the vehicle is running as it should despite the owner's reports of issues",
+        "the owner is left with a vehicle that is still experiencing problems."
+      ],
+      "odiNumbers": [
+        "11529566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

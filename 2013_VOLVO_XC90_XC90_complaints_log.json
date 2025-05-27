@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Occupancy Weight Sensor Failure",
+      "impact": "The failure of the passenger occupancy weight sensor can cause the airbag system to malfunction, resulting in the passenger airbag not deploying in the event of an accident, which can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag light is on",
+        "the dash message displays \"Passenger Airbag Off Service Urgent\"",
+        "the passenger airbag does not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11190590",
+        "11152289"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fire Due to Unknown Causes",
+      "impact": "The engine fire can cause serious damage to the vehicle, resulting in a total loss, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming out of the engine",
+        "engine stalling and shutting down",
+        "fire erupting from the engine compartment."
+      ],
+      "odiNumbers": [
+        "11006405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Anti-Skid System Failure",
+      "impact": "The intermittent failure of the anti-skid system can cause the loss of essential vehicle functions, such as dashboard lights, blinkers, and fuel door unlocking, which can increase the risk of accidents, especially in bad weather conditions.",
+      "symptoms": [
+        "The anti-skid warning light comes on and off periodically",
+        "loss of dashboard lights",
+        "loss of blinkers",
+        "fuel door unlocks",
+        "inconsistent and unpredictable behavior",
+        "issue triggered by bad weather."
+      ],
+      "odiNumbers": [
+        "10924786",
+        "10861229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The sudden opening of the door while driving can cause the driver to lose control of the vehicle, potentially leading to accidents or injuries. Even if the door does not fully open, the rush of air and distraction can still pose a safety risk.",
+      "symptoms": [
+        "The door opens or ajar while driving",
+        "warning lights or alarms indicating an open door",
+        "sudden rush of air through the door",
+        "door does not stay closed or locked."
+      ],
+      "odiNumbers": [
+        "11063755",
+        "10894359",
+        "10790783",
+        "10734988",
+        "10650766",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

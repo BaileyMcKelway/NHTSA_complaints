@@ -1,0 +1,139 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Due to Oil Leaking into Pistons",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "oil leaking into pistons",
+        "loss of power",
+        "stalling."
+      ],
+      "odiNumbers": [
+        "547568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, making it difficult to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Sluggish transmission",
+        "lack of power to shift into gear",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "538670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling Due to Unknown Causes",
+      "impact": "Vehicle stalling can cause accidents or leave the driver stranded, especially if it occurs in intersections or on expressways.",
+      "symptoms": [
+        "Vehicle stalling",
+        "loss of power",
+        "inability to continue driving."
+      ],
+      "odiNumbers": [
+        "734260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "Vehicle fires can cause serious damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "Vehicle fire",
+        "flames engulfing the vehicle."
+      ],
+      "odiNumbers": [
+        "505133",
+        "983371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "Exhaust system failure can cause the vehicle to lose power, making it difficult to drive, and potentially lead to accidents.",
+      "symptoms": [
+        "Exhaust system failure",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "480036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Wear and Master Cylinder Failure",
+      "impact": "Excessive wear on brake shoes/pads and repeated failures of the master cylinder can lead to brake failure, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Frequent replacement of brake shoes/pads despite low mileage accumulation",
+        "master cylinder failure",
+        "surge while driving",
+        "and pedal fade."
+      ],
+      "odiNumbers": [
+        "976966",
+        "976966",
+        "976966",
+        "971399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Module and/or Rotor Failure",
+      "impact": "The failure of the ignition module and/or rotor can cause the vehicle to stall, even while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls randomly",
+        "the vehicle stalls while driving",
+        "the vehicle takes hours to restart",
+        "the vehicle can be restarted after waiting for an extended period (over 10 hours)",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "11014936",
+        "707617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Rear Seat Belt Configuration",
+      "impact": "The lack of a three-point seat belt in the rear seat can increase the risk of injury or fatality in the event of an accident, particularly for adult passengers.",
+      "symptoms": [
+        "Rear seat passengers are only provided with a lap belt",
+        "which can lead to inadequate restraint and increased risk of injury."
+      ],
+      "odiNumbers": [
+        "756208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

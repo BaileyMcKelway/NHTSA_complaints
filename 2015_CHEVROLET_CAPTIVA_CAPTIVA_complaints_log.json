@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, lose motive power, and experience random electrical issues, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle loses motive power and stalls",
+        "the key gets stuck in the ignition",
+        "the radio goes out",
+        "dashboard warning lights flash on/off suddenly",
+        "the Service Traction Control warning message appears",
+        "the car appears completely dead/unresponsive and cannot be started."
+      ],
+      "odiNumbers": [
+        "11453649",
+        "11431527",
+        "10981502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Turn Signal Sound Failure",
+      "impact": "The failure of the turn signal sound can cause the driver to be unaware of the turn signal status, increasing the possibility of vehicle accidents and/or fatalities.",
+      "symptoms": [
+        "The turn signal sound is not audible",
+        "the radio display lights dim or return to full strength randomly",
+        "a \"frying eggs\" sound is heard after turning off the ignition."
+      ],
+      "odiNumbers": [
+        "11567488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Terminal Failure",
+      "impact": "The failure of the battery terminal can cause the vehicle to lose motive power and stall, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle loses motive power and stalls",
+        "the battery terminal is defective and needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11453649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Key Sticking",
+      "impact": "A stuck ignition key can prevent the driver from turning off the engine or removing the key, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The ignition key gets stuck in the ignition",
+        "the key cannot be removed from the ignition",
+        "the key cannot be turned to the \"off\" position."
+      ],
+      "odiNumbers": [
+        "11414454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "AC Compressor Failure",
+      "impact": "The failure of the AC compressor can cause the belt to break, leading to a loss of power steering and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The AC compressor makes a loud noise",
+        "the clutch runs backwards",
+        "the belt breaks",
+        "the power steering fails",
+        "the vehicle shuts down."
+      ],
+      "odiNumbers": [
+        "11210232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Failure",
+      "impact": "The failure of the ESC system can cause the vehicle to lose traction and stability, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle swerves or wanders from side to side",
+        "the stability control light illuminates on the dashboard",
+        "the vehicle is difficult to control",
+        "especially when turning or cornering."
+      ],
+      "odiNumbers": [
+        "11181410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Wheel Defect",
+      "impact": "A defective steering wheel can cause injuries to the driver, particularly to the hands, and may lead to loss of control of the vehicle.",
+      "symptoms": [
+        "The metal part of the steering wheel is sharp or protruding",
+        "causing cuts or lacerations to the driver's hands",
+        "the steering wheel is uncomfortable to hold or grip."
+      ],
+      "odiNumbers": [
+        "10913727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

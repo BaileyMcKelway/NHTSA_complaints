@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, leading to a increased risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle breaks",
+        "the latch will not catch",
+        "the buckle will not lock",
+        "the red plastic piece breaks",
+        "the buckle jams",
+        "the seat belt will not hold together",
+        "the seat belt fails to restrain",
+        "the seat belt buckle will not release."
+      ],
+      "odiNumbers": [
+        "9000500",
+        "824487",
+        "805311",
+        "801142",
+        "982930",
+        "502665",
+        "501803",
+        "501237",
+        "978674",
+        "500851",
+        "972925",
+        "971318",
+        "484998",
+        "485607",
+        "967861",
+        "965312",
+        "964903",
+        "964905",
+        "964544",
+        "960976",
+        "960177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Repair Parts for Seat Belt Buckle Recall",
+      "impact": "The delay or unavailability of repair parts for the seat belt buckle recall can cause drivers to continue using faulty seat belts, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Dealers do not have parts in stock",
+        "dealers do not order parts",
+        "owners are told to wait for parts",
+        "owners are unable to schedule repairs due to parts unavailability."
+      ],
+      "odiNumbers": [
+        "824487",
+        "805311",
+        "801142",
+        "982930",
+        "500851",
+        "501237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Separation from Rim",
+      "impact": "The sudden separation of the tire from the rim can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The tire comes off the rim while driving",
+        "resulting in loss of control",
+        "spinning",
+        "or crashing; the tire itself is not damaged",
+        "but the rim is affected."
+      ],
+      "odiNumbers": [
+        "702194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

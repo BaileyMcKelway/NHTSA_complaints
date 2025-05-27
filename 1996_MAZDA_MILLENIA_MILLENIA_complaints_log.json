@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Pressure Leaks",
+      "impact": "Engine oil pressure leaks can cause engine damage, overheating, and potentially lead to engine seizure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Knocking noise coming from the engine",
+        "engine oil pressure warning light",
+        "engine overheating",
+        "engine seizing or stalling."
+      ],
+      "odiNumbers": [
+        "10072160",
+        "765241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure due to Header or Camshaft Issues",
+      "impact": "Engine failure due to header or camshaft issues can cause the engine to shut off, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Engine light coming on sporadically",
+        "oil light coming on",
+        "engine shutting off",
+        "header breaking off the camshaft."
+      ],
+      "odiNumbers": [
+        "715586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vacuum Hose Failure",
+      "impact": "Vacuum hose failure can cause engine hesitation, loss of power, and potentially lead to engine stalling or failure.",
+      "symptoms": [
+        "Engine hesitation",
+        "loss of power",
+        "vacuum hose failure."
+      ],
+      "odiNumbers": [
+        "604244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection to prevent harm.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10114389",
+        "813529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadvertent Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, distractions, and accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "without a crash or impact",
+        "causing injuries",
+        "damage to the vehicle",
+        "and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "10279226"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or shut off while driving, leading to a loss of control and increased risk of accidents. In severe cases, it can also cause a fire, as reported in one instance.",
+      "symptoms": [
+        "The vehicle turns off when stopped",
+        "the engine light comes on periodically",
+        "the hold and TCS lights come on",
+        "the vehicle refuses to go into overdrive",
+        "grinding sound when turning the key",
+        "loud popping noise when the key is turned again."
+      ],
+      "odiNumbers": [
+        "10086552",
+        "555111",
+        "518475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the engine to malfunction, leading to a loss of power and control, and increasing the risk of accidents. It can also cause the vehicle to stall or shut off while driving.",
+      "symptoms": [
+        "The engine light comes on",
+        "the hold and TCS lights come on",
+        "the vehicle refuses to go into overdrive",
+        "the ECM computer needs to be replaced."
+      ],
+      "odiNumbers": [
+        "555111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to have intermittent starting problems, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "Grinding sound when turning the key",
+        "loud popping noise when the key is turned again",
+        "the engine fails to turn over."
+      ],
+      "odiNumbers": [
+        "518475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

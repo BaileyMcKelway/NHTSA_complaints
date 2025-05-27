@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failures",
+      "impact": "The failures of the electrical system can cause the vehicle to lose power, leading to a loss of control, and potentially resulting in accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Sudden shutdown of car screens",
+        "loss of instrument cluster and navigation screen",
+        "flashing lights",
+        "loud beeping sounds",
+        "and loss of power excluding the drivetrain."
+      ],
+      "odiNumbers": [
+        "11582883",
+        "11570928",
+        "11545330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Propulsion System Failures",
+      "impact": "The failures of the propulsion system can cause the vehicle to lose power, leading to a loss of control, and potentially resulting in accidents or leaving the driver stranded.",
+      "symptoms": [
+        "\"Service EV system\" error",
+        "\"Reduced Power\" warnings",
+        "sudden drop in battery state of charge",
+        "gradual deceleration of the vehicle",
+        "and inability to maintain control."
+      ],
+      "odiNumbers": [
+        "11563778",
+        "11558836",
+        "11558367",
+        "11557062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "User Interface Issues",
+      "impact": "The issues with the user interface can cause confusion, distraction, and potentially lead to accidents due to the sudden change in speed units.",
+      "symptoms": [
+        "Sudden change from mph to kmh",
+        "inconsistent speed units",
+        "and safety alerts not adapting to the changed units."
+      ],
+      "odiNumbers": [
+        "11528370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Software Update Issues",
+      "impact": "The inability to perform software updates can leave vehicles with open recalls, potentially leading to safety risks.",
+      "symptoms": [
+        "Dealer unable to perform software update due to inoperable software."
+      ],
+      "odiNumbers": [
+        "11557637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unresolved Safety Risks",
+      "impact": "The unresolved safety risks can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Dealership unable to pinpoint the problem",
+        "recommended tow",
+        "and unresolved safety risks."
+      ],
+      "odiNumbers": [
+        "11558836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Battery Drain and Power Reduction",
+      "impact": "The sudden loss of battery charge and power reduction can lead to a loss of vehicle control, increasing the risk of accidents and stranding the driver.",
+      "symptoms": [
+        "Sudden appearance of \"critically low battery\" warning",
+        "incorrect battery charge percentage display",
+        "\"Warning Service EV System Power Reduced\" message",
+        "reduced vehicle power",
+        "inability to charge the vehicle initially."
+      ],
+      "odiNumbers": [
+        "11586034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The inability to shift into gear, particularly in reverse, can cause accidents or injuries, especially in situations where the vehicle is in motion.",
+      "symptoms": [
+        "Difficulty shifting into reverse gear",
+        "warning to put the shifter in P",
+        "inability to shift into gear despite proper shifter position",
+        "requires ignition cycle to resolve."
+      ],
+      "odiNumbers": [
+        "11554648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Vehicle Shutdown",
+      "impact": "The sudden shutdown of the vehicle can cause accidents, injuries, or leave the driver stranded, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Sudden shutdown of the vehicle",
+        "\"EV OFF\" display on the screen",
+        "inability to restart the vehicle or shift into neutral",
+        "requires towing."
+      ],
+      "odiNumbers": [
+        "11545004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The sudden and unexpected failure of the brake system can lead to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle rolls forward despite pressing the brake pedal",
+        "the brakes do not function",
+        "the vehicle accelerates without driver input",
+        "warning messages appear on the instrument panel",
+        "such as \"Warning",
+        "Malfunction See Owner's Manual\" and \"Warning",
+        "e-Step system Failure. Press brake pedal to slow or stop.\""
+      ],
+      "odiNumbers": [
+        "11532760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

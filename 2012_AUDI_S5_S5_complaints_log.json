@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of replacement airbag parts can lead to a delay in repairing the vehicle, leaving the driver and passengers at risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the recall repair process rather than a specific vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11466128",
+        "11041948",
+        "11012187",
+        "10981664",
+        "10948501",
+        "10948353",
+        "10946822",
+        "10884223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Manufacturer's Lack of Transparency and Communication",
+      "impact": "The lack of clear communication and transparency from the manufacturer can cause frustration and anxiety for vehicle owners, leading to a loss of trust in the brand.",
+      "symptoms": [
+        "Vehicle owners receive recall notifications but are not provided with a clear timeline for repair",
+        "or are told that parts are not available",
+        "with no estimated delivery date."
+      ],
+      "odiNumbers": [
+        "11012187",
+        "10948353",
+        "10946822",
+        "10884223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "International Recall Discrepancies",
+      "impact": "The refusal to honor recalls in certain countries can put drivers and passengers at risk, as they may not receive necessary repairs.",
+      "symptoms": [
+        "Vehicle owners are told that recalls are not applicable in their country",
+        "despite being notified of the recall."
+      ],
+      "odiNumbers": [
+        "11466128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Backup Camera Failure",
+      "impact": "The intermittent failure of the backup camera can increase the risk of accidents or injuries when reversing, as the driver may not be aware of obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "The backup camera fails to turn on when the vehicle is put in reverse",
+        "the backup camera feed is intermittent or unreliable",
+        "the driver may start to reverse without realizing the backup camera is not functioning."
+      ],
+      "odiNumbers": [
+        "11404200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Mechatronic Malfunction/ Failure",
+      "impact": "The mechatronic malfunction/failure can cause the vehicle to jerk and stutter, especially when starting and stopping, which can lead to loss of control and increased risk of accidents. The malfunction can also cause the gearbox to malfunction, leading to difficulty shifting gears.",
+      "symptoms": [
+        "The gearbox malfunction light illuminates",
+        "the TPMS light flashes",
+        "the vehicle jerks and stutters",
+        "especially when starting and stopping",
+        "the vehicle feels like it's been hit from behind when stopping",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11330486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

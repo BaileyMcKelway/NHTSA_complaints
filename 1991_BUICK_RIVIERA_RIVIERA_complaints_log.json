@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Seatbelt Mechanism",
+      "impact": "A malfunctioning seatbelt can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatbelt in the front does not pull out",
+        "making it difficult or impossible to use."
+      ],
+      "odiNumbers": [
+        "10005955"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Extended Stopping Distance due to Brake Issues",
+      "impact": "Increased stopping distance can lead to accidents, especially in emergency braking situations.",
+      "symptoms": [
+        "The vehicle takes longer than usual to stop",
+        "especially in rainy or snowy conditions",
+        "and the brakes may feel spongy or unresponsive."
+      ],
+      "odiNumbers": [
+        "8013064",
+        "827783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure due to Booster Modification",
+      "impact": "A faulty brake booster can cause the brakes to fail, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brakes may not respond at all",
+        "or the vehicle may take an extended time to stop."
+      ],
+      "odiNumbers": [
+        "827783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vacuum System Failure",
+      "impact": "A malfunctioning vacuum system can affect the overall performance and safety of the vehicle.",
+      "symptoms": [
+        "The vacuum system does not work properly",
+        "especially in the early morning."
+      ],
+      "odiNumbers": [
+        "972366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration and Cruise Control Failure",
+      "impact": "The sudden acceleration of the vehicle can cause loss of control, accidents, and injuries, while the failure of the cruise control system can lead to unintended acceleration, making it difficult for the driver to maintain control of the vehicle.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without warning",
+        "the cruise control system fails to disengage",
+        "the tachometer fails to function",
+        "the transmission malfunctions."
+      ],
+      "odiNumbers": [
+        "563848",
+        "563848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment can result in serious injuries or fatalities, as the occupants are not provided with the necessary protection during a collision.",
+      "symptoms": [
+        "No airbag deployment during a crash",
+        "injuries or fatalities due to lack of airbag protection."
+      ],
+      "odiNumbers": [
+        "515341",
+        "515341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Shoulder Harness",
+      "impact": "The failure of the shoulder harness can cause injuries or fatalities, as the occupants are not properly restrained during a collision.",
+      "symptoms": [
+        "Shoulder harness failure during a crash",
+        "injuries or fatalities due to lack of proper restraint."
+      ],
+      "odiNumbers": [
+        "515341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

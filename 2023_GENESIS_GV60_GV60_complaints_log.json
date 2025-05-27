@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Level 2 Charging Port Overheating",
+      "impact": "The overheating of the Level 2 charging port can cause charging to stop or slow down, leading to longer charging times, inconvenience, and potentially unsafe circumstances, such as running out of power in cold weather.",
+      "symptoms": [
+        "The vehicle stops charging after a certain period",
+        "the charging port overheats",
+        "the charging speed is reduced",
+        "the vehicle requires manual intervention to restart charging",
+        "the charging port may overheat within 30-60 minutes of use."
+      ],
+      "odiNumbers": [
+        "11592627",
+        "11590696",
+        "11545737",
+        "11539668",
+        "11538727",
+        "11535384",
+        "11530800",
+        "11530953",
+        "11530990",
+        "11530535",
+        "11527853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Software Patch for Level 2 Charging",
+      "impact": "The software patch released by Hyundai/Genesis to detect overheating and throttle the amperage does not resolve the physical hardware issue, leaving the vehicle in an unsafe operating posture.",
+      "symptoms": [
+        "The software patch does not address the underlying hardware issue",
+        "the vehicle may still overheat",
+        "the charging speed is reduced",
+        "the vehicle may stop charging."
+      ],
+      "odiNumbers": [
+        "11590696",
+        "11535384"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "12-Volt Battery Issue",
+      "impact": "The 12-volt battery issue can cause the vehicle to lose power, leading to unsafe conditions, such as loss of acceleration and inability to maintain speed.",
+      "symptoms": [
+        "The vehicle reports a 12-volt battery issue",
+        "the vehicle loses power",
+        "the vehicle may pull over",
+        "the vehicle may maintain a slow speed",
+        "the vehicle may require towing."
+      ],
+      "odiNumbers": [
+        "11517383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Train Failure (Unintended Acceleration and Loss of Motive Power)",
+      "impact": "The power train failure can cause unintended acceleration, loss of motive power, and difficulty shifting gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Unintended acceleration",
+        "loud abnormal sounds",
+        "loss of traction",
+        "difficulty shifting gears",
+        "transmission failure to shift into park",
+        "and failure of the Auto Start/Stop button."
+      ],
+      "odiNumbers": [
+        "11557857",
+        "11563202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Service Delays (Parts Unavailability)",
+      "impact": "The delay in recall service can leave the vehicle in an unsafe condition, potentially leading to accidents or other safety issues.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available",
+        "and the manufacturer or dealer confirms the delay."
+      ],
+      "odiNumbers": [
+        "11548014",
+        "11529138"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure (Failure to Shift Gears)",
+      "impact": "The transmission failure can cause difficulty shifting gears, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Failure to shift gears",
+        "ignition switch light flashing",
+        "and difficulty shifting into intended gear."
+      ],
+      "odiNumbers": [
+        "11529138",
+        "11563202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "totalComplaints": 386,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Lock Failure",
+      "impact": "The failure of the ignition lock can cause the vehicle to become inoperable, leaving the driver stranded, and potentially creating a safety hazard.",
+      "symptoms": [
+        "The key will not turn in the ignition",
+        "the key gets stuck in the ignition",
+        "the ignition lock is stuck",
+        "the steering wheel is locked",
+        "the vehicle will not start."
+      ],
+      "odiNumbers": [
+        "10486338",
+        "10462578",
+        "10458431",
+        "10425309",
+        "10420809",
+        "10418620",
+        "10410445",
+        "10404857",
+        "10384635",
+        "10383887",
+        "10379457",
+        "10376947",
+        "10355650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, lose power, or experience other electrical issues, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the battery light flashes",
+        "the vehicle dies out while driving",
+        "the alternator caught fire",
+        "the vehicle will not start",
+        "the radio and dash lights malfunction."
+      ],
+      "odiNumbers": [
+        "11234370",
+        "11230782",
+        "10899327",
+        "10854410",
+        "10824294",
+        "10693586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "The brake wires are shorted",
+        "the brake lights do not work",
+        "the vehicle will not shift into drive."
+      ],
+      "odiNumbers": [
+        "10940198",
+        "11229934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch System Failure",
+      "impact": "The failure of the clutch system can cause the vehicle to become inoperable, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "11515638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fire Hazard",
+      "impact": "The failure of the electrical system or other components can cause a fire, leading to injuries or fatalities.",
+      "symptoms": [
+        "The alternator caught fire",
+        "the vehicle was smoking",
+        "the clutch hydraulic system was smoking."
+      ],
+      "odiNumbers": [
+        "11080204",
+        "10566563",
+        "10379457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to stick to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "10209894",
+        "10362986",
+        "10188450",
+        "10170048",
+        "10140610",
+        "10128119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of the brake pads can cause the vehicle to vibrate or jerk when applying the brakes, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The brakes make a loud squeaking or grinding noise",
+        "the brake pedal vibrates or pulsates",
+        "the vehicle jerks or shakes when applying the brakes",
+        "the brake pads wear out prematurely."
+      ],
+      "odiNumbers": [
+        "10116169",
+        "10115278",
+        "10112042",
+        "10110133",
+        "10106993",
+        "10094011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Master Cylinder Failure",
+      "impact": "The failure of the clutch master cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10362986",
+        "10209894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag to deploy in a crash can result in serious injury or death.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "the airbag light on the dashboard illuminates",
+        "the vehicle's crash sensors fail to detect a crash."
+      ],
+      "odiNumbers": [
+        "10170048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The malfunction of the cruise control can cause the vehicle to accelerate unexpectedly, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The cruise control activates unexpectedly",
+        "the vehicle accelerates rapidly without input from the driver",
+        "the cruise control does not disengage when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10140610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Lock-Up",
+      "impact": "The failure of the steering column can cause the vehicle to become inoperable, leaving the driver stranded, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The steering wheel is locked",
+        "the key will not turn in the ignition",
+        "the steering wheel and ignition key are stuck",
+        "the vehicle cannot be started."
+      ],
+      "odiNumbers": [
+        "11111687",
+        "10724798",
+        "10588315",
+        "10395987",
+        "10384870",
+        "10377923",
+        "10354819",
+        "10308490",
+        "10295293",
+        "10277284",
+        "10257730",
+        "10251778",
+        "10250409",
+        "10232014",
+        "10221285",
+        "10210391",
+        "10175978",
+        "10157419",
+        "10157422",
+        "10139148",
+        "10108849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to become inoperable, leaving the driver stranded, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The key will not turn in the ignition",
+        "the ignition switch is locked",
+        "the vehicle cannot be started."
+      ],
+      "odiNumbers": [
+        "10295293",
+        "10277284",
+        "10251778",
+        "10250409",
+        "10175978",
+        "10157419",
+        "10157422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of control, leading to accidents or injuries.",
+      "symptoms": [
+        "The steering wheel vibrates",
+        "the vehicle wanders across the road",
+        "the vehicle changes lanes on its own",
+        "the steering column is defective."
+      ],
+      "odiNumbers": [
+        "10904242",
+        "10149422",
+        "10108849",
+        "10105472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause false readings, leading to confusion and potentially accidents or injuries.",
+      "symptoms": [
+        "The instrument cluster failed",
+        "causing false readings on the dashboard",
+        "the alternator died",
+        "the vehicle stalled and died while being driven."
+      ],
+      "odiNumbers": [
+        "11105102"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

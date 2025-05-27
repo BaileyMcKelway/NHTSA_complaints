@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 40,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to not start, leading to inconvenience and potential safety risks, such as being stranded in traffic or in remote areas. Additionally, electrical malfunctions can lead to fires or other hazards.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the ignition switch is hot or smoking",
+        "electrical devices malfunction or become inoperative",
+        "accessories such as the air conditioner",
+        "windshield wipers",
+        "and radio do not function",
+        "the starter relay fails",
+        "and the alternator fails",
+        "causing the vehicle to stall."
+      ],
+      "odiNumbers": [
+        "10124948",
+        "850181",
+        "843383",
+        "842689",
+        "515066",
+        "507447",
+        "501018",
+        "490953",
+        "977195",
+        "500256",
+        "967391",
+        "961723",
+        "481213",
+        "458217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt can lead to injuries or fatalities in the event of an accident, as the belt may not restrain the driver or passenger properly.",
+      "symptoms": [
+        "The seat belt does not move forward",
+        "the seat belt motor has stopped working",
+        "the seat belt fails to retract",
+        "the seat belt fails to restrain the driver or passenger",
+        "the seat belt locks when retracted",
+        "the seat belt buckle intermittently will not latch."
+      ],
+      "odiNumbers": [
+        "487308",
+        "969451",
+        "485992",
+        "968133",
+        "966420",
+        "966386",
+        "965895",
+        "964082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Cruise Control Malfunction",
+      "impact": "The sudden and unintended acceleration of the vehicle can cause loss of control, accidents, and injuries, posing a significant risk to the safety of the driver and passengers.",
+      "symptoms": [
+        "The vehicle suddenly accelerates or jumps forward",
+        "often when parking or driving",
+        "resulting in loss of control",
+        "crashes",
+        "or near-miss incidents."
+      ],
+      "odiNumbers": [
+        "852881",
+        "806522",
+        "487308"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

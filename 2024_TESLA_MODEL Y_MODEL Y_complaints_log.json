@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incomplete 7-Pin Trailer Connection",
+      "impact": "The incomplete 7-pin trailer connection can cause a lack of 12v auxiliary power to the trailer, which can lead to a serious safety issue, particularly for emergency trailer surge braking systems.",
+      "symptoms": [
+        "No 12v auxiliary power to the trailer",
+        "incomplete 7-pin trailer connection."
+      ],
+      "odiNumbers": [
+        "11585704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Autopilot System Failure",
+      "impact": "The failure of the Autopilot system can cause the vehicle to crash or lose control, resulting in accidents or injuries.",
+      "symptoms": [
+        "Vehicle crashes into a curb or other obstacles",
+        "no warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11581967"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Regenerative Braking System Failure",
+      "impact": "The failure of the regenerative braking system can cause the vehicle to lose control or shut down, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Multiple alerts and warnings on the screen",
+        "vehicle shutting down",
+        "regenerative braking system failure",
+        "vehicle shifting between park and neutral randomly."
+      ],
+      "odiNumbers": [
+        "11580588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintentional Acceleration",
+      "impact": "Unintentional acceleration can cause the vehicle to lose control or crash, resulting in accidents or injuries.",
+      "symptoms": [
+        "Vehicle suddenly accelerates forward",
+        "loss of control",
+        "vehicle collides with obstacles."
+      ],
+      "odiNumbers": [
+        "11577206",
+        "11571306"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Braking with Cruise Control or Autopilot",
+      "impact": "The unintended braking of the vehicle while using cruise control or Autopilot can lead to sudden stops, potentially causing accidents or near-misses, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle suddenly brakes hard or decelerates rapidly while using cruise control or Autopilot",
+        "even when there are no vehicles in front of it",
+        "and may come to a stop or slow down to a low speed."
+      ],
+      "odiNumbers": [
+        "11586231",
+        "11585526",
+        "11582882",
+        "11572574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Autopilot and Traffic Adaptive Cruise Control (TACC) Malfunction",
+      "impact": "The malfunction of Autopilot and TACC can cause the vehicle to move into oncoming traffic or suddenly brake without warning, increasing the risk of accidents and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The vehicle moves into oncoming traffic when turning at a traffic light",
+        "the vehicle suddenly brakes for no apparent reason",
+        "the vehicle slams on brakes in a \"panic stop\" without warning",
+        "the vehicle's cruise control is hesitant to engage due to fear of sudden braking."
+      ],
+      "odiNumbers": [
+        "11585536",
+        "11574006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unpredictable and Erratic Autopilot Behavior",
+      "impact": "The unpredictable and erratic behavior of Autopilot can cause the vehicle to move into oncoming traffic or make sudden stops, increasing the risk of accidents and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The vehicle moves into oncoming traffic when turning at a traffic light",
+        "the vehicle makes sudden stops without warning",
+        "the vehicle's Autopilot system is unreliable and prone to errors."
+      ],
+      "odiNumbers": [
+        "11585536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sudden and Unexplained Braking with TACC Engaged",
+      "impact": "The sudden and unexplained braking with TACC engaged can cause rear-end collisions, increase the risk of accidents, and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly brakes for no apparent reason",
+        "the vehicle slams on brakes in a \"panic stop\" without warning",
+        "the vehicle's cruise control is hesitant to engage due to fear of sudden braking."
+      ],
+      "odiNumbers": [
+        "11574006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

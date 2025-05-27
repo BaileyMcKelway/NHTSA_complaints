@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to malfunction, leading to inadequate restraint in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt will not retract",
+        "the seatbelt buckle comes loose",
+        "the seatbelt is stuck on the track and won't move",
+        "the seatbelt engages and releases intermittently",
+        "the seatbelt is inoperative."
+      ],
+      "odiNumbers": [
+        "975316",
+        "975061",
+        "964176",
+        "963598",
+        "960689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration Due to Transmission Failure",
+      "impact": "Sudden unintended acceleration can cause accidents, injuries, and fatalities, especially when the vehicle is in reverse or stopped at an intersection.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "often when shifting into reverse or stopping at an intersection",
+        "leading to loss of control and potential accidents."
+      ],
+      "odiNumbers": [
+        "982565",
+        "964143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Component Failure Due to Rust",
+      "impact": "The premature failure of brake components due to rust can lead to reduced stopping power, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Rust on brake rotors",
+        "drums",
+        "or other components; brake pads or shoes wear out quickly; brake noise or vibration; spongy brake pedal; reduced braking performance."
+      ],
+      "odiNumbers": [
+        "754518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Transmission Linkage Lockout Failure",
+      "impact": "The failure of the automatic transmission linkage lockout can cause the vehicle to unexpectedly shift into reverse gear from neutral, leading to potential accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle shifts into reverse gear from neutral without warning",
+        "the transmission linkage lockout fails to engage",
+        "the vehicle moves unexpectedly",
+        "the driver loses control of the vehicle."
+      ],
+      "odiNumbers": [
+        "701042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

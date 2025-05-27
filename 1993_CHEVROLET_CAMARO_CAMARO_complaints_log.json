@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, leading to accidents or near-misses, and can also cause the brakes to lock up, making it difficult to steer the vehicle.",
+      "symptoms": [
+        "ABS light stays on",
+        "brakes lock up",
+        "extended stopping distance",
+        "loss of brake effectiveness",
+        "pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "10130688",
+        "853416",
+        "488809",
+        "962638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Drag and Overheating",
+      "impact": "Brake drag and overheating can cause the brakes to lock up, leading to accidents or loss of control, and can also cause damage to the brake system.",
+      "symptoms": [
+        "Brakes drag",
+        "brakes overheat",
+        "brakes lock up."
+      ],
+      "odiNumbers": [
+        "561616",
+        "804552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbags to deploy in a crash can increase the risk of injury or death to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "838433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Failure",
+      "impact": "Steering failure can cause loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "Steering wheel locks",
+        "difficulty steering."
+      ],
+      "odiNumbers": [
+        "10130688",
+        "962638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbags to Deploy in Crash Situations",
+      "impact": "The failure of airbags to deploy in crash situations can increase the risk of serious injury or fatality to vehicle occupants, as they are designed to provide critical protection in the event of a collision.",
+      "symptoms": [
+        "Airbags fail to deploy in frontal impact",
+        "airbags fail to deploy in low-speed crashes",
+        "airbags deploy unnecessarily in minor accidents",
+        "inconsistent airbag deployment."
+      ],
+      "odiNumbers": [
+        "10606060",
+        "813126",
+        "810169",
+        "982342",
+        "968615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure due to Water Ingress",
+      "impact": "The failure of the power steering system can cause loss of steering ability, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loss of power steering",
+        "difficulty steering",
+        "steering wheel locks",
+        "ABS anti-lock brake system activates",
+        "vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "977102",
+        "966504",
+        "962638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tie Rod Failure",
+      "impact": "The failure of the tie rod can cause loss of steering ability, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Outer tie rod breaks",
+        "loss of steering ability",
+        "vehicle pulls to one side",
+        "accident or impact."
+      ],
+      "odiNumbers": [
+        "959234",
+        "505123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

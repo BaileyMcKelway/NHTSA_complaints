@@ -1,0 +1,143 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to become stranded, leading to safety risks, and can result in expensive repairs.",
+      "symptoms": [
+        "Complete transmission failure",
+        "transmission slipping",
+        "jerking",
+        "or hesitation",
+        "inability to shift gears",
+        "vehicle becoming stuck in intersections."
+      ],
+      "odiNumbers": [
+        "10253991",
+        "10042644",
+        "10002720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Issues",
+      "impact": "Failure to properly maintain or repair brake systems can lead to reduced stopping power, increasing the risk of accidents.",
+      "symptoms": [
+        "Pulsation of the brakes",
+        "neglected brake maintenance",
+        "failure to turn rotors."
+      ],
+      "odiNumbers": [
+        "10216775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "AWD System Malfunctions",
+      "impact": "AWD system malfunctions can cause loss of control, accidents, and safety risks, especially in inclement weather conditions.",
+      "symptoms": [
+        "Service AWD light turning on",
+        "wheels spinning",
+        "vehicle slipping into 4-wheel-drive and losing control."
+      ],
+      "odiNumbers": [
+        "10216775",
+        "10061610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Panel and Electrical Issues",
+      "impact": "Failure of the instrument panel and electrical systems can cause distraction, confusion, and safety risks while driving.",
+      "symptoms": [
+        "Instrument panel failure",
+        "speedometer stuck",
+        "heater fan malfunctioning."
+      ],
+      "odiNumbers": [
+        "10216775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Heat Shield Failure",
+      "impact": "Heat shield failure can cause unusual noises, potentially leading to distraction or loss of control.",
+      "symptoms": [
+        "Unusual noises",
+        "broken heat shield."
+      ],
+      "odiNumbers": [
+        "10134088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite meeting the deployment criteria."
+      ],
+      "odiNumbers": [
+        "11021202",
+        "10816790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Uncommanded Airbag Deployment",
+      "impact": "Uncommanded airbag deployment can cause injuries, distractions, and accidents, especially if it occurs while the vehicle is in motion.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "without a crash or impact",
+        "often causing injuries and damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "10679760",
+        "10667502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Panel Cluster Failure",
+      "impact": "The failure of the instrument panel cluster can cause inaccurate or missing information, leading to a loss of situational awareness, which can increase the risk of accidents or engine damage.",
+      "symptoms": [
+        "The speedometer displays incorrect or erratic readings",
+        "the speedometer sticks or freezes",
+        "the oil pressure gauge malfunctions",
+        "the instrument panel lights fail or flicker",
+        "the instrument panel displays incorrect or inconsistent information."
+      ],
+      "odiNumbers": [
+        "10597339",
+        "10487860",
+        "10480091",
+        "10185462"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

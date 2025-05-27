@@ -1,0 +1,415 @@
+{
+  "totalComplaints": 158,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 22,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "The failure of the timing belt can cause the engine to seize, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls or seizes",
+        "the vehicle loses power",
+        "the timing belt breaks",
+        "the engine overheats",
+        "and the vehicle may catch fire."
+      ],
+      "odiNumbers": [
+        "10438436",
+        "10228660",
+        "10175465",
+        "10156901",
+        "10154924",
+        "10115931"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "The stalling of the engine can cause a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the check engine light comes on",
+        "and the vehicle may not restart."
+      ],
+      "odiNumbers": [
+        "10210004",
+        "10185609",
+        "10164234",
+        "10162014",
+        "10158922",
+        "10140348",
+        "10110985",
+        "10090536",
+        "10079270",
+        "10061287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the vehicle to lose power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "and the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10368522",
+        "10353386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine overheats",
+        "the coolant leaks",
+        "and the temperature gauge rises."
+      ],
+      "odiNumbers": [
+        "10238342",
+        "10059297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to stall or lose power, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls",
+        "the fuel injector fails",
+        "and the check engine light comes on."
+      ],
+      "odiNumbers": [
+        "10197119",
+        "10185609",
+        "10126598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not protected from the impact.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "even at high speeds",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10883214",
+        "10237428",
+        "10208669",
+        "10196679",
+        "10144595",
+        "10143771",
+        "10141462",
+        "10130095",
+        "10118901",
+        "10116284",
+        "10092243",
+        "10055330",
+        "10026798",
+        "10022072",
+        "10020205",
+        "10006322",
+        "10006148",
+        "10004734",
+        "8022700",
+        "8019725",
+        "8019723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of seat belts to properly restrain occupants can lead to serious injuries or fatalities, as they are not protected from the impact.",
+      "symptoms": [
+        "Seat belts do not lock or restrain occupants in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10144595",
+        "10130095",
+        "10092243",
+        "8022700",
+        "8019725"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment without Crash",
+      "impact": "The unexpected deployment of airbags can cause accidents, injuries, or fatalities, as the driver may lose control of the vehicle.",
+      "symptoms": [
+        "Airbags deploy without a crash",
+        "causing the driver to lose control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10023644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag and Seat Belt Failure",
+      "impact": "The failure of both airbags and seat belts can lead to serious injuries or fatalities, as the vehicle's occupants are not protected from the impact.",
+      "symptoms": [
+        "Airbags do not deploy and seat belts do not restrain occupants in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10020205",
+        "10006322",
+        "10006148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Proportioning Valve Failure",
+      "impact": "The failure of the proportioning valve can cause the loss of brake fluid, leading to brake failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Leaking brake fluid",
+        "soft or spongy brake pedal",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "10289413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pin Failure",
+      "impact": "The failure of the brake pin can cause the brake shoe to become dislodged, leading to uneven brake wear, noise, and potential brake failure.",
+      "symptoms": [
+        "Noise when turning",
+        "brake shoe pin out of place",
+        "bent brake shoe pin."
+      ],
+      "odiNumbers": [
+        "10148817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Lockup",
+      "impact": "The lockup of the rear brakes can cause the vehicle to skid or lose control, leading to accidents.",
+      "symptoms": [
+        "Scraping and scratching noise",
+        "rear brakes locking up in high humidity or rain."
+      ],
+      "odiNumbers": [
+        "10137815",
+        "10067230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fluid Leak",
+      "impact": "A brake fluid leak can cause the brakes to fail, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Brake fluid leak",
+        "soft or spongy brake pedal",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "10088060",
+        "10038144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "Excessive brake noise and vibration can indicate worn-out brake components, which can lead to brake failure.",
+      "symptoms": [
+        "Grinding noise",
+        "vibration when braking",
+        "uneven brake wear."
+      ],
+      "odiNumbers": [
+        "10057165",
+        "10052326",
+        "766937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the brakes to fail, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "mushy brake pedal feel",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "10032016",
+        "10038144",
+        "10027236",
+        "10006681"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to fail, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "mushy brake pedal feel",
+        "loss of brake pressure."
+      ],
+      "odiNumbers": [
+        "10038144",
+        "10027236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Brake Dust and Glazing",
+      "impact": "Excessive brake dust and glazing can cause the brakes to fail, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Grinding noise",
+        "uneven brake wear",
+        "brake dust and glazing."
+      ],
+      "odiNumbers": [
+        "766937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to stall, resulting in a loss of control, and potentially lead to accidents or fires.",
+      "symptoms": [
+        "Fuel tank overflowing",
+        "fuel leakage",
+        "strong gasoline fuel odor",
+        "engine stalling",
+        "check engine light illumination",
+        "black smoke coming from under the hood",
+        "vehicle fire."
+      ],
+      "odiNumbers": [
+        "10445892",
+        "10191739",
+        "10144610",
+        "10089257",
+        "10073804",
+        "10080285",
+        "10080286",
+        "10080118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Engine compartment fire",
+        "smoke coming from under the hood",
+        "burning smell",
+        "vehicle damage."
+      ],
+      "odiNumbers": [
+        "10191739",
+        "10149267",
+        "10144610",
+        "10073804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause the vehicle to lose power, resulting in a loss of control, and potentially lead to accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "check engine light illumination",
+        "loss of power",
+        "vehicle hesitation."
+      ],
+      "odiNumbers": [
+        "10124375",
+        "10102661",
+        "10048800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "Failure to properly repair recall issues can lead to continued safety risks and potentially cause accidents or injuries.",
+      "symptoms": [
+        "Delayed or denied recall repairs",
+        "lack of parts availability",
+        "inadequate repair procedures."
+      ],
+      "odiNumbers": [
+        "10091720",
+        "10080285",
+        "10080286",
+        "10080118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioning System Issues",
+      "impact": "The presence of fungi in the air conditioning system can cause health issues and discomfort for vehicle occupants.",
+      "symptoms": [
+        "Musty smell",
+        "fungal growth in air conditioning system."
+      ],
+      "odiNumbers": [
+        "10060889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

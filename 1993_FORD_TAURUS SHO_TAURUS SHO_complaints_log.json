@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control System Failure",
+      "impact": "The failure of the cruise control system can cause unintended acceleration, loss of vehicle control, and increased risk of accidents, injuries, or fires.",
+      "symptoms": [
+        "Uncontrollable acceleration",
+        "vehicle accelerates rapidly without input from the driver",
+        "cruise control cable shield slips out and catches on the bracket",
+        "throttle stuck open",
+        "vehicle catches fire",
+        "smoke emanates from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10509993",
+        "10220872",
+        "10202034",
+        "10201617",
+        "10159831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Malfunction",
+      "impact": "The malfunction of the ABS can cause the vehicle to fail to stop or slow down when brakes are applied, especially on wet roads or loose gravel, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle fails to stop or slow down when brakes are applied",
+        "the ABS activates but the vehicle does not attempt to slow down",
+        "the brakes feel spongy or soft",
+        "the vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "10212071",
+        "554661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause a range of problems, including brake system malfunctions, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle experiences electrical problems",
+        "the brake lights do not function",
+        "the brake system warning light illuminates",
+        "the vehicle's electrical system is prone to short circuits."
+      ],
+      "odiNumbers": [
+        "10379619"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Subframe Mount Bolt Failure",
+      "impact": "The failure of the engine subframe mount bolts can cause the engine to drop, leading to loss of engine power, steering, and brake assist, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine subframe mount bolts break loose",
+        "the engine drops",
+        "loss of engine power",
+        "loss of steering",
+        "loss of brake assist."
+      ],
+      "odiNumbers": [
+        "10135400",
+        "10054345",
+        "554661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling Due to Faulty Crankshaft Sensor",
+      "impact": "The engine stalling while driving can cause a loss of power, leading to a potential loss of control, and increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10113837",
+        "554661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure Due to Unknown Causes",
+      "impact": "Engine failure can cause a loss of power, leading to a potential loss of control, and increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine fails",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "554661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

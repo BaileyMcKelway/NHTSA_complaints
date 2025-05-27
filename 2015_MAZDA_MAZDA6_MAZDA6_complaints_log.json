@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 54,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Emergency Brake Caliper Failure",
+      "impact": "The failure of the emergency brake caliper can cause the brake to stick, leading to unexpected movement of the vehicle when parked on a slope, increasing the risk of a collision.",
+      "symptoms": [
+        "The emergency brake caliper is stuck",
+        "the brake pedal is hard to operate",
+        "the brake fails to stop the car",
+        "the parking brake is required to stop the vehicle",
+        "the engine RPM increases dramatically."
+      ],
+      "odiNumbers": [
+        "11549811",
+        "11438015",
+        "11073920",
+        "11064730",
+        "11055189",
+        "11042607",
+        "11016127"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to be excessively hard to operate, leading to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal is hard to operate",
+        "the brake fails to stop the car",
+        "the engine RPM increases dramatically",
+        "the transmission needs to be shifted to neutral to bring the RPM to normal velocity."
+      ],
+      "odiNumbers": [
+        "10854934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Whine and Failure",
+      "impact": "The transmission whine and failure can cause the vehicle to lose power, making it difficult to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Audible whine from the transmission when in motion",
+        "transmission disengages while driving",
+        "loss of power",
+        "engine racing",
+        "warning lights illuminate on the dashboard",
+        "including the engine light",
+        "low tire pressure",
+        "airbag",
+        "and traction control."
+      ],
+      "odiNumbers": [
+        "11348716",
+        "10928244",
+        "10863682",
+        "10746218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction and Loss of Acceleration",
+      "impact": "The transmission malfunction and loss of acceleration can cause the vehicle to stall or hesitate, making it difficult to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Failure to accelerate when depressing the accelerator pedal",
+        "engine RPMs increase",
+        "SCBS warning and engine check required displayed on the message board",
+        "transmission malfunction",
+        "and warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "10746218",
+        "10703622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration and brake failure can cause the vehicle to lose control, making it difficult to stop or control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle fails to stop when depressing the brake pedal",
+        "feeling of brakes being bled off",
+        "engine RPMs increase",
+        "and transmission shifts into neutral."
+      ],
+      "odiNumbers": [
+        "10703622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to inadequate protection in the event of a collision, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning indicator flashes on and off",
+        "the front passenger airbag off indicator remains illuminated",
+        "the airbag deploys incorrectly",
+        "the airbag fails to inflate",
+        "the airbag inflates unexpectedly."
+      ],
+      "odiNumbers": [
+        "11203479",
+        "10991087",
+        "10736166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "The failure to properly address the Takata airbag recall can lead to inadequate protection in the event of a collision, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Difficulty in arranging a repair",
+        "lack of communication from the manufacturer or dealer",
+        "no record of the recall",
+        "failure to receive a recall notice."
+      ],
+      "odiNumbers": [
+        "11092327",
+        "11048185",
+        "10736166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed or Unavailable Repair for Recalled Airbag Inflator",
+      "impact": "The delay or unavailability of repair for the recalled airbag inflator can lead to prolonged exposure to the risk of airbag system failure, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Waiting for months for the dealer to repair the recalled airbag inflator",
+        "lack of communication from the dealer",
+        "uncertainty about the safety of the vehicle."
+      ],
+      "odiNumbers": [
+        "10736166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

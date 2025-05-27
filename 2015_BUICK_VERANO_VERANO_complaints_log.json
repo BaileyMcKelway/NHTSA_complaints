@@ -1,0 +1,271 @@
+{
+  "totalComplaints": 54,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety-critical systems to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Gauges not working",
+        "temperature and gas level indicators not functioning",
+        "radio turning off",
+        "fans turning off",
+        "blind spot warning lights malfunctioning",
+        "error messages on the dashboard",
+        "and theft deterrent system issues."
+      ],
+      "odiNumbers": [
+        "11425272",
+        "11310934",
+        "11269243",
+        "11207267",
+        "10983223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Service Side Detection System (SSDS) Failure",
+      "impact": "The failure of the SSDS can cause the blind spot detection system to malfunction, leading to accidents or near-misses.",
+      "symptoms": [
+        "SSDS maintenance light appears on the dashboard",
+        "blind spot warning lights malfunctioning",
+        "and error messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "11406917",
+        "11386323",
+        "11322114",
+        "11308720",
+        "11204232",
+        "11204148",
+        "11202811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corrosion-Related Sensor Module Failure",
+      "impact": "The corrosion of sensor modules can cause the SSDS to malfunction, leading to accidents or near-misses.",
+      "symptoms": [
+        "SSDS maintenance light appears on the dashboard",
+        "blind spot warning lights malfunctioning",
+        "and error messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "11384364",
+        "11308720",
+        "11204232",
+        "11204148",
+        "11202811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Keyless Ignition System Failure",
+      "impact": "The failure of the keyless ignition system can cause the vehicle to fail to start or shut off, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Key cannot be removed from the ignition",
+        "steering wheel locked",
+        "and engine starting independently."
+      ],
+      "odiNumbers": [
+        "11406917",
+        "10759918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Theft Deterrent System Failure",
+      "impact": "The failure of the theft deterrent system can cause the vehicle to fail to start or shut off, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Theft deterrent system error messages on the dashboard",
+        "and engine starting independently."
+      ],
+      "odiNumbers": [
+        "11269243",
+        "10983223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Occupancy Sensor Malfunction",
+      "impact": "The malfunctioning passenger occupancy sensor can cause the airbag warning light to illuminate, potentially leading to airbag failure in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the passenger airbag is not enabled",
+        "the sensor alerts constantly while driving",
+        "the airbag light is not lit when a passenger is present",
+        "the warning chime sounds constantly."
+      ],
+      "odiNumbers": [
+        "11580003",
+        "11485888",
+        "11255031",
+        "11196673",
+        "11066630",
+        "10870484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Service Side Detection Module Failure",
+      "impact": "The failure of the service side detection module can cause the vehicle's systems to shut down, including the anti-theft system, and lead to erratic vehicle behavior, which can increase the risk of accidents or strand the driver.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "the anti-theft system is enabled",
+        "the vehicle drives erratically",
+        "voltage error codes are displayed",
+        "the service airbag warning is illuminated."
+      ],
+      "odiNumbers": [
+        "11318979"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Lock Striker Plate Failure",
+      "impact": "The failure of the door lock striker plate can cause the door to not close correctly, leading to potential safety risks and inconvenience.",
+      "symptoms": [
+        "The door does not close flush",
+        "a small gap is present when the door is closed",
+        "the door lock striker plate is loose or has pulled away from the doorframe post."
+      ],
+      "odiNumbers": [
+        "11460234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gearshift Malfunction",
+      "impact": "The malfunction of the gearshift can cause difficulty or inability to shift gears, leading to potential safety risks and accidents.",
+      "symptoms": [
+        "The gearshift does not always work",
+        "the gearshift needs to be wiggled to function",
+        "the gearshift is loose."
+      ],
+      "odiNumbers": [
+        "11361374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Side Detection Sensor Failure",
+      "impact": "The failure of the side detection sensors can cause a loss of safety features, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The \"Service Side Detection System\" message persists",
+        "the side detection sensors are inoperative",
+        "water is present in the mounting brackets for the sensor modules."
+      ],
+      "odiNumbers": [
+        "11309013",
+        "11140525",
+        "11079677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "the entire car is completely burnt."
+      ],
+      "odiNumbers": [
+        "10820617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the loss of steering capability, radio and screen malfunction, and increase the risk of accidents.",
+      "symptoms": [
+        "The electrical system shuts down",
+        "power steering fails",
+        "radio and screen shut down",
+        "cruise control and blinker malfunction."
+      ],
+      "odiNumbers": [
+        "11243038",
+        "11139850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the loss of steering capability, increase the risk of accidents, and potentially lead to fatalities.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the steering feels like it wants to lock up",
+        "the car shakes or shudders between 15-20 mph",
+        "the steering wheel and car body shake."
+      ],
+      "odiNumbers": [
+        "10937588",
+        "10852193",
+        "11218070"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Stabilitrak System Failure",
+      "impact": "The failure of the Stabilitrak system can cause the loss of steering capability, increase the risk of accidents, and potentially lead to fatalities.",
+      "symptoms": [
+        "The Stabilitrak system requires service",
+        "the car jumps lanes and leaves the road",
+        "the steering capability is lost."
+      ],
+      "odiNumbers": [
+        "11413380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the air conditioning to malfunction, increase engine temperatures, and potentially lead to engine damage.",
+      "symptoms": [
+        "The air conditioning is off due to high engine temperatures",
+        "the error message appears even when the car is first started."
+      ],
+      "odiNumbers": [
+        "11413380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

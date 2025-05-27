@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Unit Failure",
+      "impact": "The failure of the power steering unit can cause loss of steering control, leading to accidents, injuries, or fatalities, especially during lane changes or when driving at high speeds.",
+      "symptoms": [
+        "Sudden loss of steering",
+        "excessive play in the steering wheel",
+        "difficulty steering",
+        "steering wheel feels loose or wobbly",
+        "vehicle rolls over or loses control."
+      ],
+      "odiNumbers": [
+        "10040145",
+        "8007665",
+        "551644",
+        "551142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pinion Seal Failure",
+      "impact": "The failure of the pinion seals can cause power steering fluid leaks, leading to loss of steering control, accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Power steering fluid leaks",
+        "excessive play in the steering wheel",
+        "difficulty steering",
+        "steering wheel feels loose or wobbly."
+      ],
+      "odiNumbers": [
+        "551644",
+        "551142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Malfunction",
+      "impact": "The malfunction of the ABS brake system can cause the brake pedal to respond with forceful back pressure, prohibiting the brakes from operating properly, leading to extended stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal responds with forceful back pressure",
+        "the brakes operate sluggishly",
+        "the brakes tend to grab and try to lock up when the pedal is re-applied",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "10373205",
+        "551644",
+        "551142",
+        "830608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spark Plug Thread Failure",
+      "impact": "The failure of the spark plug threads can cause engine damage, oil leaks, and potentially lead to engine failure, resulting in costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Spark plug blows out of the head",
+        "threads are stripped",
+        "engine oil leaks",
+        "engine performance issues."
+      ],
+      "odiNumbers": [
+        "10221856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust System Failure (Tail Pipe Hitting Frame)",
+      "impact": "The failure of the exhaust system can cause excessive noise, vibration, and potentially lead to exhaust system component failure, resulting in costly repairs and potentially affecting vehicle performance.",
+      "symptoms": [
+        "Tail pipe hits the frame of the vehicle",
+        "excessive noise",
+        "vibration."
+      ],
+      "odiNumbers": [
+        "551644",
+        "551142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Column Gear Shift Malfunction",
+      "impact": "The malfunction of the column gear shift can cause the vehicle to shift into gear without the driver's intention, leading to loss of control, accidents, or unintended movement. Conversely, the vehicle may not shift into park, leaving it in gear and potentially causing rollaway accidents.",
+      "symptoms": [
+        "The column gear shift shifts from park to gear without engaging",
+        "shifts from gear to park without disengaging",
+        "the vehicle moves unintentionally",
+        "the vehicle does not come to a complete stop."
+      ],
+      "odiNumbers": [
+        "10158511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shift Indicator Failure",
+      "impact": "The failure of the shift indicator can cause the driver to be unaware of the vehicle's gear position, leading to accidents or unintended movement.",
+      "symptoms": [
+        "The shift indicator does not illuminate",
+        "the shift indicator does not display the correct gear position",
+        "the driver is unaware of the vehicle's gear position."
+      ],
+      "odiNumbers": [
+        "551644",
+        "551142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

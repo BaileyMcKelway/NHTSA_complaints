@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY/WIPER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Vehicle Charging System Failure",
+      "impact": "The failure of the electric vehicle charging system can cause the vehicle to not charge properly, leading to a loss of power and potentially leaving the driver stranded, which can be a safety concern.",
+      "symptoms": [
+        "The vehicle charges slowly or not at all",
+        "the vehicle's battery level does not increase after charging",
+        "the vehicle's range is significantly reduced."
+      ],
+      "odiNumbers": [
+        "11582554",
+        "11581615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "12V Battery Charging System Failure",
+      "impact": "The failure of the 12V battery charging system can cause the vehicle's accessory systems to malfunction, making it difficult or impossible to enter the vehicle or operate certain features, which can be a safety concern.",
+      "symptoms": [
+        "The vehicle's 12V battery is not charging",
+        "the vehicle's accessory systems do not function",
+        "the vehicle cannot be entered or started."
+      ],
+      "odiNumbers": [
+        "11581615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sudden Loss of Power",
+      "impact": "The sudden loss of power can cause the vehicle to stall or become inoperable, which can be a safety concern, especially if it occurs while driving.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the vehicle stalls or becomes inoperable",
+        "the vehicle's acceleration is slow or unresponsive."
+      ],
+      "odiNumbers": [
+        "11582554",
+        "11573207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Wiper Failure due to Snow/Ice Accumulation",
+      "impact": "The failure of the windshield wipers can significantly reduce visibility while driving, leading to accidents or near-misses, especially on high-speed roads.",
+      "symptoms": [
+        "Windshield wipers stop working or refuse to operate",
+        "wipers fail to return to their start position",
+        "wipers are unable to clear snow/ice accumulation",
+        "loss of visibility while driving."
+      ],
+      "odiNumbers": [
+        "11581099",
+        "11581104"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Adaptive Cruise Control and Highway Drive Assist Malfunction",
+      "impact": "The malfunction of the adaptive cruise control and Highway Drive Assist systems can cause the vehicle to surge forward or disengage without warning, increasing the risk of accidents, especially on highways.",
+      "symptoms": [
+        "The vehicle surges forward or accelerates unexpectedly",
+        "the system disengages without visual or audio warning",
+        "loss of radar sight of the vehicle ahead",
+        "the vehicle fails to maintain a safe distance from the vehicle ahead."
+      ],
+      "odiNumbers": [
+        "11581109",
+        "11581210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

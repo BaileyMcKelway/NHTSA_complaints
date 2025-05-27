@@ -1,0 +1,423 @@
+{
+  "totalComplaints": 209,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 21,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Caliper Failure",
+      "impact": "The failure of the rear brake caliper can cause the brakes to seize, leading to loss of control, accidents, and fires.",
+      "symptoms": [
+        "The rear brake caliper seizes",
+        "the parking brake is useless",
+        "the brake pads overheat and smoke",
+        "the brake pads wear out prematurely",
+        "the rotor warps",
+        "and the vehicle is immobilized."
+      ],
+      "odiNumbers": [
+        "10203360",
+        "10019288",
+        "758022",
+        "745543",
+        "721823",
+        "713396",
+        "711980",
+        "711713",
+        "539801",
+        "544902",
+        "705106",
+        "704483",
+        "704264",
+        "703889",
+        "703627",
+        "703302",
+        "703036",
+        "702552",
+        "540255",
+        "530717",
+        "530058",
+        "526337",
+        "523444",
+        "520308",
+        "521367",
+        "52965",
+        "522680",
+        "522682",
+        "522940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The parking brake is useless",
+        "the brake pads overheat and smoke",
+        "the brake pads wear out prematurely",
+        "and the vehicle is immobilized."
+      ],
+      "odiNumbers": [
+        "758022",
+        "745543",
+        "721823",
+        "711713",
+        "539801",
+        "530717",
+        "520308",
+        "521367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corrosion of Pivot Pin",
+      "impact": "The corrosion of the pivot pin can cause the rear brake caliper to seize, leading to loss of control, accidents, and fires.",
+      "symptoms": [
+        "The rear brake caliper seizes",
+        "the parking brake is useless",
+        "the brake pads overheat and smoke",
+        "the brake pads wear out prematurely",
+        "and the rotor warps."
+      ],
+      "odiNumbers": [
+        "520308",
+        "521367",
+        "522680",
+        "522682",
+        "522940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Pump Failure",
+      "impact": "The failure of the oil pump can cause the engine to stall, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "oil leakage",
+        "oil pan rusted",
+        "sudden shutdown."
+      ],
+      "odiNumbers": [
+        "10367694",
+        "10011377",
+        "831378",
+        "531661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Valve Body Failure",
+      "impact": "The failure of the transmission valve body can cause the vehicle to stall, lose steering and brake power, and lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling",
+        "loss of steering and brake power",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "10069096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Coil/Distributor Failure",
+      "impact": "The failure of the ignition coil or distributor can cause the engine to die, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine dying",
+        "stalling",
+        "loss of power",
+        "RPM dropping to zero."
+      ],
+      "odiNumbers": [
+        "731883",
+        "722371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Sludge Buildup",
+      "impact": "The buildup of engine sludge can cause engine failure, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "sludge buildup",
+        "oil leakage."
+      ],
+      "odiNumbers": [
+        "544418",
+        "700052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to stall, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "fuel pump failure",
+        "fuel leakage."
+      ],
+      "odiNumbers": [
+        "889293",
+        "965454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause engine overheating, leading to engine damage and failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "cooling system belt failure",
+        "water pump failure",
+        "thermostat failure."
+      ],
+      "odiNumbers": [
+        "504629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CD4E Transmission Failure",
+      "impact": "The failure of the CD4E transmission can cause the vehicle to jerk, slip, or fail to shift properly, leading to loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Overdrive light blinks",
+        "transmission slips",
+        "engine RPMs jump",
+        "vehicle bucks",
+        "difficulty shifting",
+        "transmission failure",
+        "vehicle won't move."
+      ],
+      "odiNumbers": [
+        "10153113",
+        "10100128",
+        "10082820",
+        "10065883",
+        "10049006",
+        "754965",
+        "751322",
+        "784686",
+        "714279",
+        "547476",
+        "705483",
+        "701134",
+        "701171",
+        "700882",
+        "830747",
+        "830614",
+        "536760",
+        "535026",
+        "532726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Axle Failure",
+      "impact": "The failure of the axle can cause the vehicle to wander or lose control, leading to accidents or stranding.",
+      "symptoms": [
+        "Vehicle wanders to the right",
+        "right tire doesn't turn when steering wheel is turned",
+        "vehicle makes contact with another vehicle."
+      ],
+      "odiNumbers": [
+        "567276",
+        "800353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Cable Failure",
+      "impact": "The failure of the speedometer cable can cause inaccurate speed readings, leading to potential accidents or stranding.",
+      "symptoms": [
+        "Speedometer cable fails."
+      ],
+      "odiNumbers": [
+        "604331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Shifter Issues",
+      "impact": "The failure of the gear shifter can cause difficulty shifting, leading to loss of control or accidents.",
+      "symptoms": [
+        "Gear shifter hard to get into reverse."
+      ],
+      "odiNumbers": [
+        "961227"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vibration Issues",
+      "impact": "The vibration issue can cause discomfort and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "Vehicle vibrates at highway speeds."
+      ],
+      "odiNumbers": [
+        "522947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Distributor Failure",
+      "impact": "Distributor failure can cause the engine to stall, leading to loss of power steering and brakes, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "intermittent engine stalling",
+        "failure to restart",
+        "sudden loss of power",
+        "loss of power steering."
+      ],
+      "odiNumbers": [
+        "10120462",
+        "753944",
+        "896184",
+        "562969",
+        "560612",
+        "742698",
+        "536423",
+        "524527",
+        "531550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, leading to vehicle damage and potential harm to occupants.",
+      "symptoms": [
+        "Smoke or flames from under the hood",
+        "electrical shorts",
+        "burning smells",
+        "faulty wiring."
+      ],
+      "odiNumbers": [
+        "10128166",
+        "822349",
+        "814480",
+        "807201",
+        "803168",
+        "504629",
+        "962187"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Ignition system failures can cause the engine to stall, leading to loss of power steering and brakes, increasing the risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "intermittent engine stalling",
+        "failure to restart",
+        "sudden loss of power",
+        "loss of power steering."
+      ],
+      "odiNumbers": [
+        "10120462",
+        "753944",
+        "896184",
+        "562969",
+        "560612",
+        "742698",
+        "536423",
+        "531550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "Airbag system failures can cause the airbag to malfunction, leading to potential harm to occupants in the event of an accident.",
+      "symptoms": [
+        "Airbag light staying on",
+        "airbag failure to deploy."
+      ],
+      "odiNumbers": [
+        "710838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failures can cause loss of braking power, increasing the risk of accidents.",
+      "symptoms": [
+        "Calipers not releasing",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "753944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the battery to drain, leading to electrical system failures.",
+      "symptoms": [
+        "Battery losing charge",
+        "electrical system failures."
+      ],
+      "odiNumbers": [
+        "517712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Steering System Failure",
+      "impact": "Steering system failures can cause loss of steering power, increasing the risk of accidents.",
+      "symptoms": [
+        "Clock spring failure",
+        "cruise control failure."
+      ],
+      "odiNumbers": [
+        "710838"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

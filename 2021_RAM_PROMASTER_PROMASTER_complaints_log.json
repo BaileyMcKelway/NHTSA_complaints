@@ -1,0 +1,242 @@
+{
+  "totalComplaints": 47,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "LANE DEPARTURE",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blind Spot Detection (BSD) System Failure",
+      "impact": "The random disabling of the BSD system can increase the risk of accidents by making it more likely for drivers to change lanes into another vehicle, and the distraction caused by the alert sound and text on the dashboard can take the driver's eyes off the road.",
+      "symptoms": [
+        "The BSD system randomly disables itself while driving",
+        "the system alarm rings when blind spot is disabled",
+        "the system registers false vehicle detections",
+        "the system is not working properly",
+        "the system turns itself off repeatedly",
+        "the message center on the dashboard indicates the Blind Spot Detector is Disabled."
+      ],
+      "odiNumbers": [
+        "11495667",
+        "11485746",
+        "11481911",
+        "11474948",
+        "11468203",
+        "11444540",
+        "11443981",
+        "11435496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Battery Smoke/Fire)",
+      "impact": "The electrical system failure can cause smoke or fire, leading to potential injury or property damage.",
+      "symptoms": [
+        "Heavy white smoke fills the RV",
+        "alarm sounds",
+        "and the battery overheats."
+      ],
+      "odiNumbers": [
+        "11578316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Cable Routing Issue",
+      "impact": "The improper routing of electrical cables can cause damage to the cables, leading to electrical system failures, which can increase the risk of accidents or fires.",
+      "symptoms": [
+        "Electrical cables are routed in the inside of the left front wheel well",
+        "where they can be rubbed by tires."
+      ],
+      "odiNumbers": [
+        "11572386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Blind Spot Monitoring System Failure",
+      "impact": "The failure of the blind spot monitoring system can increase the risk of accidents, as the driver may not be aware of vehicles in the blind spot.",
+      "symptoms": [
+        "The blind spot alert disables itself",
+        "sometimes randomly",
+        "and may not function for days or hours."
+      ],
+      "odiNumbers": [
+        "11508911",
+        "11482075",
+        "11477440",
+        "11464719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Safety Recall Notification Issues",
+      "impact": "The failure to notify owners of safety recalls can lead to vehicles being operated in an unsafe condition, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Owners are not notified of safety recalls",
+        "and vehicles may be operated with known safety defects."
+      ],
+      "odiNumbers": [
+        "11428036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Warning Light Issue",
+      "impact": "The frequent and recurring brake system warning light can lead to driver confusion and anxiety, potentially causing them to ignore actual brake issues, which can compromise vehicle safety and increase the risk of accidents.",
+      "symptoms": [
+        "The brake system warning light comes on when driving downhill",
+        "especially on long grades over 6% percent",
+        "and can only be turned off by stopping the vehicle and turning it off. The warning light may also remain on even after the issue is resolved."
+      ],
+      "odiNumbers": [
+        "11564652",
+        "11466828",
+        "11430380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Lockup",
+      "impact": "The rear brake lockup can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The rear brakes lock up",
+        "causing the wheel to seize or not turn",
+        "and may require repeated shifting between forward and reverse gears to free the wheel."
+      ],
+      "odiNumbers": [
+        "11537346",
+        "11537348",
+        "11439264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Caliper Failure",
+      "impact": "The failure of the caliper can cause brake system failure, leading to loss of control, accidents, and potentially injuries or fatalities.",
+      "symptoms": [
+        "The caliper seizes or fails to function correctly",
+        "requiring replacement",
+        "and may be accompanied by warning lights or error codes."
+      ],
+      "odiNumbers": [
+        "11439264",
+        "11430380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Engine Bay",
+      "impact": "Water accumulation in the engine bay can cause electrical component failure, corrosion, and safety hazards while driving or parked.",
+      "symptoms": [
+        "Water flows through the center of the cowling and accumulates on the engine and other electrical components within the engine bay",
+        "creating a safety hazard."
+      ],
+      "odiNumbers": [
+        "11558193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Shift Issues",
+      "impact": "Failure to fully engage in \"park\" can cause the vehicle to roll, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle does not fully engage in \"park\"",
+        "requiring the driver to stop it from rolling."
+      ],
+      "odiNumbers": [
+        "11524678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Solar Panel Bracket Hardware",
+      "impact": "Solar panels can detach while driving, causing damage to the vehicle and potentially leading to accidents.",
+      "symptoms": [
+        "Solar panels blow off due to faulty bracket hardware."
+      ],
+      "odiNumbers": [
+        "11524558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Propane Leak due to Kinked and Cracked LPG Line",
+      "impact": "Propane leaks can cause fires, explosions, or asphyxiation, posing a significant safety risk.",
+      "symptoms": [
+        "The propane monitor alarm goes off while driving or parked",
+        "indicating a propane leak."
+      ],
+      "odiNumbers": [
+        "11489501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cabinet and Microwave Detachment",
+      "impact": "Falling cabinets and appliances can cause injuries, damage, and distraction while driving.",
+      "symptoms": [
+        "Cabinets and appliances",
+        "such as microwaves",
+        "detach from their mounting points",
+        "potentially causing harm or damage."
+      ],
+      "odiNumbers": [
+        "11430637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lug Nut Failure",
+      "impact": "The failure of lug nuts can cause the wheel to detach from the hub, leading to vehicle instability, loss of control, and potential accidents.",
+      "symptoms": [
+        "Lug nuts become loose or fall off while driving",
+        "causing the wheel to wobble",
+        "and potentially leading to the rim detaching from the hub",
+        "breaking off the anchor stubs",
+        "and making the vehicle inoperable."
+      ],
+      "odiNumbers": [
+        "11488548",
+        "11488551",
+        "11488552",
+        "11488554",
+        "11487635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

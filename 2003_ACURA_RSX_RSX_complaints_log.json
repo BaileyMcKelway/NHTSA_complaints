@@ -1,0 +1,168 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "SRS System Failure",
+      "impact": "The failure of the SRS (Supplemental Restraint System) can lead to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The SRS light remains illuminated",
+        "the airbag warning light is on",
+        "the airbags fail to deploy in a crash",
+        "the SRS system malfunctions."
+      ],
+      "odiNumbers": [
+        "11121761",
+        "11088288",
+        "10317410",
+        "10279583",
+        "10192411",
+        "10121721",
+        "10117027",
+        "10116439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Non-Deployment",
+      "impact": "The failure of airbags to deploy in a crash can lead to increased risk of injury or fatality to occupants.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "occupants suffer injuries or fatalities due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "10317410",
+        "10117027",
+        "10116439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "OPDS Unit Failure",
+      "impact": "The failure of the Occupant Position Detection System (OPDS) unit can lead to the malfunction of the SRS system, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The SRS light remains illuminated",
+        "the airbag warning light is on",
+        "the OPDS unit needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10279583",
+        "10192411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Synchronizer Failure",
+      "impact": "The failure of the transmission synchronizers can cause the gears to grind or pop out, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Difficulty shifting into 2nd or 3rd gear",
+        "grinding or popping sounds when shifting",
+        "gears slipping out of place",
+        "inability to engage gears",
+        "especially at high RPM."
+      ],
+      "odiNumbers": [
+        "10558969",
+        "10056489",
+        "10056438",
+        "10056482",
+        "10055183",
+        "10047181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the vehicle to roll or move unexpectedly, even when in gear, which can lead to accidents or property damage.",
+      "symptoms": [
+        "Vehicle rolls or moves unexpectedly",
+        "even when in gear",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10047181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Camshaft Galling",
+      "impact": "Camshaft galling can cause loss of engine power, loud clicking/tapping noise from the valve cover area, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Loss of engine power",
+        "loud clicking/tapping noise from the valve cover area",
+        "pitted camshaft surface."
+      ],
+      "odiNumbers": [
+        "10402713",
+        "10315171",
+        "10183832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall, lose power, or shift into incorrect gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Problems shifting from 3rd into 4th gear",
+        "car shifts into second and redlines engine",
+        "grinding noise from transmission."
+      ],
+      "odiNumbers": [
+        "10100523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Leaks and Consumption",
+      "impact": "Oil leaks and excessive oil consumption can cause engine damage, leading to premature wear, overheating, and potentially engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks from the back of the engine",
+        "oil consumption exceeding normal levels",
+        "low oil light comes on frequently."
+      ],
+      "odiNumbers": [
+        "10078850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Issues",
+      "impact": "Electrical issues can cause faulty lights, buzzing sounds, and other malfunctions, which can distract the driver and increase the risk of accidents.",
+      "symptoms": [
+        "Fog light cracking",
+        "sticking map lights",
+        "buzzing sound from the engine."
+      ],
+      "odiNumbers": [
+        "10078850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

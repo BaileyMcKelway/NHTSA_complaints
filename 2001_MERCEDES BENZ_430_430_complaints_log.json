@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "AIR BAGS",
+    "LATCHES/LOCKS/LINKAGES",
+    "INTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gauge Illumination Failure",
+      "impact": "The failure of the gauge illumination can cause the driver to lose visibility of important vehicle information, such as speed and fuel level, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The instrument panel lights and gauges stop working",
+        "the lights that illuminate the gauges and instruments go out",
+        "the gauge illumination fails",
+        "the driver is unable to see important vehicle information."
+      ],
+      "odiNumbers": [
+        "10520273",
+        "10454521",
+        "10405895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to ride low, making it difficult to steer and potentially leading to accidents or damage to the vehicle's body and tires.",
+      "symptoms": [
+        "The vehicle rides low",
+        "a warning message appears on the dashboard screen indicating \"Car too low\"",
+        "the tires may touch the fenders",
+        "and the vehicle may be difficult to turn."
+      ],
+      "odiNumbers": [
+        "10411897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Seat-Mounted SRS Sensor",
+      "impact": "A faulty seat-mounted SRS sensor can trigger a dashboard warning light, indicating an SRS error, which can lead to failed vehicle inspections and potentially compromise the safety of the vehicle's occupants.",
+      "symptoms": [
+        "Dashboard warning light indicating an SRS error",
+        "failure to pass annual vehicle inspection."
+      ],
+      "odiNumbers": [
+        "10241716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Excessive Seat Replacement Cost",
+      "impact": "The high cost of replacing the entire seat to remedy a faulty SRS sensor can be a significant financial burden for vehicle owners, leading to frustration and potential safety risks if the issue is not addressed.",
+      "symptoms": [
+        "Expensive repair estimate",
+        "failed vehicle inspection."
+      ],
+      "odiNumbers": [
+        "10241716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Door Lock Actuator",
+      "impact": "The faulty door lock actuator can cause the doors to malfunction, leading to safety concerns, such as unauthorized access to the vehicle or inability to lock the doors, which can result in theft or vandalism.",
+      "symptoms": [
+        "The doors do not lock or unlock properly",
+        "the doors double lock",
+        "one or more doors do not lock at all",
+        "the locks make unusual noises or clicking sounds."
+      ],
+      "odiNumbers": [
+        "10211490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Recall Information",
+      "impact": "Inaccurate recall information can lead to frustration and confusion for vehicle owners, potentially causing them to be unaware of necessary repairs, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Dealership or manufacturer provides incorrect or incomplete information about recalls",
+        "vehicle owners are told their VIN is not on the recall list despite experiencing symptoms",
+        "owners are held responsible for repairs that should be covered under the recall."
+      ],
+      "odiNumbers": [
+        "10211490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dim or Inoperative Instrument Panel Gauges",
+      "impact": "The inability to read the instrument panel gauges can cause the driver to be unaware of critical vehicle information, such as speed, fuel level, or engine performance, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Difficulty reading instrument panel gauges",
+        "dim or faint gauge lighting",
+        "inability to read gauges during daytime or nighttime driving."
+      ],
+      "odiNumbers": [
+        "10197690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Exclusion from Recall 06V028000 (Interior Lighting)",
+      "impact": "The exclusion of certain vehicles from recall 06V028000 may leave owners with faulty interior lighting, including instrument panel gauges, which can compromise vehicle safety.",
+      "symptoms": [
+        "Owners being informed that their vehicle is not included in the recall",
+        "despite experiencing similar issues with interior lighting."
+      ],
+      "odiNumbers": [
+        "10197690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

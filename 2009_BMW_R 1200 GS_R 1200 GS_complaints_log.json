@@ -1,0 +1,176 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SUSPENSION",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Strip Sensor Failure",
+      "impact": "The failure of the fuel strip sensor can cause the fuel gauge to malfunction, leading to unexpected fuel exhaustion, engine stalling, and potentially dangerous situations, especially on highways.",
+      "symptoms": [
+        "The fuel gauge shows incorrect readings",
+        "the motorcycle runs out of fuel unexpectedly",
+        "the engine stalls while riding",
+        "the fuel gauge displays a higher level of fuel than actual."
+      ],
+      "odiNumbers": [
+        "10406900",
+        "10396871",
+        "10396891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Recall Repair Delay",
+      "impact": "The delay in repairing the fuel system recall can lead to increased risk of fuel-related fires, engine stalling, and other safety hazards.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the engine is still running after the vehicle is parked",
+        "the fuel pump assembly is involved in the fire."
+      ],
+      "odiNumbers": [
+        "11546013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Assembly Failure",
+      "impact": "The failure of the fuel pump assembly can cause fuel leaks, engine stalling, and potentially lead to fires.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the fuel pump assembly is involved in the fire",
+        "the engine is still running after the vehicle is parked."
+      ],
+      "odiNumbers": [
+        "11546013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Line Connector Failure",
+      "impact": "The failure of the fuel line connector can cause fuel to leak and spray onto the hot engine and exhaust pipes, resulting in a fire that can cause serious injury or damage to the vehicle.",
+      "symptoms": [
+        "Sudden and unexpected fire",
+        "fuel leakage",
+        "fuel spraying onto the engine and exhaust pipes",
+        "no warning lamps or messages."
+      ],
+      "odiNumbers": [
+        "11534609",
+        "11533136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Failure",
+      "impact": "The failure of the final drive can cause the motorcycle to lose power, leading to accidents or leaving the rider stranded. The leakage of gear oil can also cause the motorcycle to slip or lose traction, increasing the risk of accidents.",
+      "symptoms": [
+        "Gear oil leakage from the rear wheel",
+        "loss of power",
+        "motorcycle stalls intermittently",
+        "stalling occurs when decelerating from high RPMs",
+        "stalling occurs when the throttle is closed and the clutch is pulled in."
+      ],
+      "odiNumbers": [
+        "10524430",
+        "10466931"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "The intermittent stalling of the motorcycle can cause accidents or leave the rider stranded, especially at night when the lights dim, making it difficult to restart the motorcycle.",
+      "symptoms": [
+        "Motorcycle stalls intermittently",
+        "stalling occurs when decelerating from high RPMs",
+        "stalling occurs when the throttle is closed and the clutch is pulled in",
+        "difficulty restarting the motorcycle",
+        "especially at night."
+      ],
+      "odiNumbers": [
+        "10466931"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Suspension Leak",
+      "impact": "The suspension leak can cause the motorcycle to lose its stability and handling, leading to a loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Oil or fluid leaking from the suspension",
+        "sagging or uneven suspension",
+        "reduced ride quality",
+        "difficulty handling the motorcycle",
+        "unusual noises or vibrations from the suspension."
+      ],
+      "odiNumbers": [
+        "10594953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Manufacturer Response",
+      "impact": "The lack of response from the manufacturer can lead to frustration, delay, and neglect of the issue, potentially causing further damage to the vehicle and putting the rider's safety at risk.",
+      "symptoms": [
+        "Ignored or unresponsive customer service",
+        "lack of acknowledgement or resolution of the issue",
+        "prolonged wait times for repairs or replacements",
+        "inadequate communication from the manufacturer."
+      ],
+      "odiNumbers": [
+        "10594953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause the triangle warning light to illuminate, which may not provide specific information about the failure, potentially leading to a lack of awareness of a critical system failure, and may cause the rider to be stranded or experience a loss of control.",
+      "symptoms": [
+        "The triangle warning light illuminates",
+        "the fuel level reading is inaccurate",
+        "the fuel level sensor fails to provide a reading."
+      ],
+      "odiNumbers": [
+        "10471237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Warning System Design",
+      "impact": "The design of the warning system, which only provides a single triangle warning light, can make it difficult for the rider to determine the specific system failure, potentially leading to a lack of awareness of a critical system failure, and may cause the rider to be stranded or experience a loss of control.",
+      "symptoms": [
+        "The triangle warning light illuminates without providing specific information about the failure",
+        "the rider is unable to determine the cause of the warning light."
+      ],
+      "odiNumbers": [
+        "10471237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

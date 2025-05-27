@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Water Pump Design",
+      "impact": "The faulty water pump design can cause coolant leaks, leading to engine failure, which can result in accidents or leave the driver stranded on the public roadway.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "engine failure",
+        "expensive repairs."
+      ],
+      "odiNumbers": [
+        "11530492"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Loss of Power",
+      "impact": "The engine stalling and loss of power can cause accidents, especially when driving on highways, as it can lead to sudden loss of control and increase the risk of collisions.",
+      "symptoms": [
+        "Engine stalling",
+        "sudden loss of power",
+        "engine slowing down despite pressing the gas pedal",
+        "requiring the engine to be shut down and restarted to resolve the issue."
+      ],
+      "odiNumbers": [
+        "11331216",
+        "11033120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Gear Failure",
+      "impact": "The failure of the power steering gear can cause a sudden loss of power steering assistance, making the vehicle difficult to steer, which can lead to accidents, especially at high speeds or in areas with complex road geometries.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the steering wheel locks up",
+        "the power steering system shuts down",
+        "the vehicle becomes hard to maneuver."
+      ],
+      "odiNumbers": [
+        "11582038",
+        "11352305",
+        "10894359",
+        "10790783",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Transfer Unit (PTU) Fluid Leak",
+      "impact": "The PTU fluid leak can cause the release of toxic fumes inside the cabin, leading to health issues such as headaches, fatigue, and potentially more severe respiratory problems. The lack of a drain plug and maintenance difficulties can exacerbate the issue, making it a safety concern for drivers.",
+      "symptoms": [
+        "Fluid leaking from the vents inside the cabin",
+        "strong odors or fumes inside the vehicle",
+        "headaches",
+        "fatigue",
+        "and other health issues."
+      ],
+      "odiNumbers": [
+        "11489760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

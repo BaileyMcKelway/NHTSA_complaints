@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Hydraulic Control Unit (HCU) Failure",
+      "impact": "The failure of the ABS Hydraulic Control Unit (HCU) can cause the loss of brakes, either front, rear, or both, leading to a significant reduction in stopping ability and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard or stuck",
+        "the brake lever is impossible to squeeze",
+        "the brakes fail to engage",
+        "the ABS system fails without warning",
+        "the brake light illuminates."
+      ],
+      "odiNumbers": [
+        "11144015",
+        "11102156",
+        "11092791",
+        "11011622",
+        "11002558",
+        "10927111",
+        "10861455",
+        "10836858",
+        "10694431",
+        "10660452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Fluid Failure",
+      "impact": "The failure of the brake fluid can cause the ABS system to malfunction, leading to the loss of brakes, either front, rear, or both, and increasing the risk of accidents.",
+      "symptoms": [
+        "The brake fluid needs to be changed every two years",
+        "the brake light illuminates",
+        "the brakes fail to engage",
+        "the ABS system fails without warning."
+      ],
+      "odiNumbers": [
+        "11219330",
+        "11102156",
+        "11092791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle By Wire (TBW) Connector Failure",
+      "impact": "The failure of the TBW connector can cause the motorcycle to lose throttle and go into limp mode, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The throttle pedal feels unresponsive",
+        "the engine RPMs drop suddenly",
+        "the check engine light comes on",
+        "the motorcycle goes into limp mode."
+      ],
+      "odiNumbers": [
+        "11382745",
+        "10629975",
+        "10626557",
+        "10361329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Compensator Sprocket Failure on Starters",
+      "impact": "The failure of the compensator sprocket on starters can cause the starter to not engage fully, leading to difficulties in starting the motorcycle and potentially causing accidents.",
+      "symptoms": [
+        "The starter does not engage fully",
+        "the motorcycle is difficult to start."
+      ],
+      "odiNumbers": [
+        "10654792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Position Sensor (TPS) Failure",
+      "impact": "The failure of the TPS can cause the motorcycle to go into limp mode, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The throttle pedal feels unresponsive",
+        "the engine RPMs drop suddenly",
+        "the check engine light comes on",
+        "the motorcycle goes into limp mode."
+      ],
+      "odiNumbers": [
+        "10626557",
+        "10361329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Control (ETC) System Failure",
+      "impact": "The failure of the ETC system can cause the motorcycle to lose throttle and go into limp mode, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The throttle pedal feels unresponsive",
+        "the engine RPMs drop suddenly",
+        "the check engine light comes on",
+        "the motorcycle goes into limp mode."
+      ],
+      "odiNumbers": [
+        "10631587",
+        "10629975",
+        "10361329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Control Actuator/Induction Module Failure",
+      "impact": "The failure of the throttle control actuator/induction module can cause the motorcycle to stall or lose power, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The motorcycle stalls while driving",
+        "the engine loses power",
+        "the throttle wire sensor fails",
+        "the fuel circulation is lost."
+      ],
+      "odiNumbers": [
+        "11122932",
+        "10456421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

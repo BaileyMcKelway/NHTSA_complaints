@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "WHEELS",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Light Control Module (LCM) Failure",
+      "impact": "The failure of the Light Control Module can cause the headlights to turn off without warning, reducing visibility and increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlights turn off while driving",
+        "headlights do not turn back on after switching the light switch on and off",
+        "park lights work normally",
+        "bright lights work when manually operated",
+        "windshield wipers only work on high speed."
+      ],
+      "odiNumbers": [
+        "10584825",
+        "10427139",
+        "10363022",
+        "10322795",
+        "10261495",
+        "10221794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rusting and Cracked Wheels",
+      "impact": "Rusting and cracked wheels can lead to wheel failure, causing loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Rusting or corrosion on the wheels",
+        "visible clean metal on the wheel surface",
+        "wheel finish disappearing",
+        "cracked wheels",
+        "air leaks",
+        "and flat tires."
+      ],
+      "odiNumbers": [
+        "10318607",
+        "10303278",
+        "10205540",
+        "10142746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Right Front Brake Hose Failure",
+      "impact": "The failure of the right front brake hose can cause a loss of power brake assist, leading to increased stopping distances and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Loss of power brake assist",
+        "brake pedal feels soft or spongy",
+        "brake pedal travels further than usual",
+        "vehicle takes longer to stop",
+        "brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10290133",
+        "10273775",
+        "10273777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump and Filter Failure",
+      "impact": "The failure of the fuel pump and filter can cause the vehicle to hesitate, stall, and lack power, which can lead to accidents, especially in high-stress situations such as police pursuits.",
+      "symptoms": [
+        "The vehicle hesitates",
+        "stalls",
+        "or lacks power",
+        "especially during acceleration or when carrying heavy loads."
+      ],
+      "odiNumbers": [
+        "10221786",
+        "10164181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the vehicle continues to accelerate despite applying the brake",
+        "the vehicle does not respond to brake input",
+        "the accelerator pedal becomes stuck or unresponsive."
+      ],
+      "odiNumbers": [
+        "10143395",
+        "10112111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

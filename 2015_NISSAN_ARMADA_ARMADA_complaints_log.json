@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of the airbags to deploy in the event of a crash, resulting in serious injury or death. Additionally, the faulty airbag system can cause the airbag light to stay on, distracting the driver and potentially leading to accidents.",
+      "symptoms": [
+        "The airbag light is on",
+        "the airbag light flashes in a strange pattern",
+        "the driver's seat airbag is defective",
+        "the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11560568",
+        "11352453",
+        "11300232",
+        "11190246",
+        "11130586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Latch Failure",
+      "impact": "The failure of the driver's side seat belt latch can lead to a lack of proper restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver's side seat belt will not stay clicked",
+        "the seat belt sometimes doesn't latch",
+        "the seat belt sometimes won't latch",
+        "the seat belt light remains on the dashboard."
+      ],
+      "odiNumbers": [
+        "11282586",
+        "11277100",
+        "11256453",
+        "11242015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Malfunction",
+      "impact": "The malfunction of the ESC system can cause the vehicle to lose traction, making it difficult to control, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "The vehicle feels as if it's hydroplaning",
+        "corrects itself by oversteering",
+        "difficult to keep the vehicle in the lane during turns",
+        "hard to control on the road",
+        "steering wheel is not straight even after wheel alignment."
+      ],
+      "odiNumbers": [
+        "11164013",
+        "10788583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to be difficult to control, making it hard to stay in the lane, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "Difficulty keeping the vehicle in the lane during turns",
+        "hard to control on the road",
+        "steering wheel is not straight even after wheel alignment",
+        "cambers not installed on the front end."
+      ],
+      "odiNumbers": [
+        "10788583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Computer System Failure",
+      "impact": "The failure of the vehicle computer system can cause a range of issues, including steering and ESC system malfunctions, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "Vehicle has been repaired multiple times for various issues",
+        "including computer and steering issues",
+        "vehicle has been at the dealership for extended periods of time."
+      ],
+      "odiNumbers": [
+        "10788583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Booster and Actuator Failure",
+      "impact": "The failure of the brake booster and actuator can cause abnormal noises, pulsating brake pedals, and warning lights, which can lead to reduced braking performance and increased stopping distances, potentially resulting in accidents.",
+      "symptoms": [
+        "Abnormal \"barking\" or \"beeping\" noise when pressing the brake pedal",
+        "pulsating brake pedal",
+        "warning lights on the dashboard",
+        "reduced braking performance",
+        "increased stopping distances."
+      ],
+      "odiNumbers": [
+        "11364789",
+        "11331435",
+        "11326880",
+        "10994398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Sudden Braking",
+      "impact": "Unintended acceleration and sudden braking can cause loss of vehicle control, accidents, and injuries, potentially resulting in serious consequences.",
+      "symptoms": [
+        "The vehicle suddenly lunges forward or accelerates without input from the driver",
+        "the vehicle suddenly stops or brakes without warning",
+        "the pre-collision system activates unnecessarily",
+        "the seatbelts tighten unexpectedly",
+        "the vehicle's brakes engage with maximum strength."
+      ],
+      "odiNumbers": [
+        "11366643",
+        "11091293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Pre-Collision System Malfunction",
+      "impact": "A malfunctioning pre-collision system can cause unnecessary and sudden braking, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The pre-collision system activates without a valid reason",
+        "the vehicle suddenly stops or brakes without warning",
+        "the seatbelts tighten unexpectedly",
+        "the vehicle's brakes engage with maximum strength."
+      ],
+      "odiNumbers": [
+        "11091293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure due to Rodent Damage",
+      "impact": "Rodent damage to the wiring harness can cause electrical system failures, which can lead to engine stalling, loss of power, and increased risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "warning lights on the dashboard",
+        "unusual noises or odors",
+        "damage to wiring harness and components."
+      ],
+      "odiNumbers": [
+        "10877134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unattended Electrical Fire Risk",
+      "impact": "Unattended electrical fires can cause significant damage to the vehicle, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Burning odor",
+        "smoke",
+        "visible signs of fire or damage to electrical components",
+        "such as the courtesy light."
+      ],
+      "odiNumbers": [
+        "10978561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

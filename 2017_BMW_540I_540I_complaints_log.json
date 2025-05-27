@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a malfunctioning passenger front seat occupancy detection, which can cause the airbag light to illuminate, potentially leading to an increased risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "Warning chime and message on the dashboard",
+        "airbag light illumination."
+      ],
+      "odiNumbers": [
+        "11547975"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause a loss of critical information, such as speed, fuel level, engine temperature, and directional indicators, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Cluster blinking or total blackout",
+        "loss of speedometer",
+        "fuel level",
+        "engine temperature",
+        "and directional indicators."
+      ],
+      "odiNumbers": [
+        "11547975",
+        "11457316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Daytime Running Light Malfunction",
+      "impact": "The malfunction of the daytime running lights can reduce the vehicle's visibility, increasing the risk of accidents.",
+      "symptoms": [
+        "Malfunctioning daytime running lights",
+        "melted connection between headlight housing and daytime running lights."
+      ],
+      "odiNumbers": [
+        "11508279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can increase the risk of accidents or injuries when reversing, particularly in low-visibility conditions.",
+      "symptoms": [
+        "Blacking out of the backup camera display."
+      ],
+      "odiNumbers": [
+        "11403652"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Seat Occupancy Sensor and Airbag Malfunction",
+      "impact": "The malfunction of the passenger seat occupancy sensor and airbag system can lead to false warnings, distracting chimes, and potentially, the failure of the airbag to deploy in the event of an accident, which can result in serious injury or loss of life.",
+      "symptoms": [
+        "Intermittent or constant warning chimes",
+        "seatbelt warning lights",
+        "airbag malfunction warnings",
+        "failure of the airbag to deploy",
+        "loud and distracting chimes",
+        "random triggering of the warning system",
+        "even when the passenger seat is empty."
+      ],
+      "odiNumbers": [
+        "11501487",
+        "11487492",
+        "11486159",
+        "11448893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Daytime Running Light Dimming or Discoloration",
+      "impact": "Dim or discolored daytime running lights can reduce the vehicle's visibility to other drivers, pedestrians, and cyclists, increasing the risk of accidents, especially in low-light conditions.",
+      "symptoms": [
+        "Daytime running lights appear dim",
+        "daytime running lights have a yellow or brown tint",
+        "daytime running lights are not functioning properly."
+      ],
+      "odiNumbers": [
+        "11570336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Warranty Limitations on Daytime Running Light Repairs",
+      "impact": "The limitation of repairs to only new vehicle warranty periods can leave owners with a safety concern and a costly repair bill, potentially leading to financial hardship and reduced vehicle safety.",
+      "symptoms": [
+        "Owners are denied repair coverage due to expired warranty",
+        "owners are required to pay for repairs out of pocket",
+        "owners are left with a safety concern."
+      ],
+      "odiNumbers": [
+        "11570336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

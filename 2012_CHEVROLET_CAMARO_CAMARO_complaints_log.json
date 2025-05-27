@@ -1,0 +1,325 @@
+{
+  "totalComplaints": 105,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or shut off while in motion, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The key gets stuck in the ignition",
+        "the ignition switch is difficult to turn",
+        "the vehicle stalls or shuts off while in motion",
+        "the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "11496923",
+        "10652065",
+        "10639845",
+        "10633115",
+        "10629840",
+        "10592714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or shut off while in motion, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or shuts off while in motion",
+        "the vehicle is unable to start",
+        "the engine shuts off without warning",
+        "the vehicle experiences a loss of power."
+      ],
+      "odiNumbers": [
+        "10904744",
+        "10652065",
+        "10632441",
+        "10523902",
+        "10514527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Heater Core/Temperature Blend Door Failure",
+      "impact": "The failure of the heater core/temperature blend door can cause reduced visibility due to fogged windshields, leading to accidents.",
+      "symptoms": [
+        "The windshield fogs up",
+        "the heater core/temperature blend door is cracked",
+        "the dashboard and windshield need to be replaced",
+        "the vehicle emits fumes."
+      ],
+      "odiNumbers": [
+        "11279451",
+        "11181260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Recall Issues",
+      "impact": "The failure to properly address airbag recall issues can lead to accidents or injuries due to malfunctioning airbags.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag system malfunctions",
+        "the vehicle is unable to be repaired due to unavailable parts."
+      ],
+      "odiNumbers": [
+        "10670489",
+        "10662827",
+        "10638953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag system fails to deploy in the event of a crash",
+        "the passenger airbag sensor fails to recognize a passenger",
+        "the airbag module fails",
+        "and the sensing diagnostic module is faulty."
+      ],
+      "odiNumbers": [
+        "11533899",
+        "11507427",
+        "11278391",
+        "11266607",
+        "10990567",
+        "10927508",
+        "10910109",
+        "10907703",
+        "10836678",
+        "10717628",
+        "10693466",
+        "10679728",
+        "10661553",
+        "10592707",
+        "10526452",
+        "10459136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Passenger Airbag Sensor Failure",
+      "impact": "The failure of the passenger airbag sensor can cause the airbag system to malfunction, leading to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to the passenger.",
+      "symptoms": [
+        "The passenger airbag sensor fails to recognize a passenger",
+        "the airbag warning light illuminates",
+        "and the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11533899",
+        "10459136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Module Failure",
+      "impact": "The failure of the airbag module can cause the airbag system to malfunction, leading to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "The airbag module fails",
+        "the airbag warning light illuminates",
+        "and the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10927508",
+        "10693466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sensing Diagnostic Module Failure",
+      "impact": "The failure of the sensing diagnostic module can cause the airbag system to malfunction, leading to the non-deployment of airbags in the event of a crash, increasing the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "The sensing diagnostic module is faulty",
+        "the airbag warning light illuminates",
+        "and the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10693466",
+        "10679728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain and Gear Failure",
+      "impact": "The failure of the timing chain and gear can cause the engine to misfire, stall, or fail, leading to a loss of power and potentially causing an accident.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "the engine misfires",
+        "the engine stalls",
+        "the vehicle loses power",
+        "a clicking noise is heard when starting the engine",
+        "the oil pressure warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11558560",
+        "11419931",
+        "11318554",
+        "11218514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Piston Head Valve Spring Failure",
+      "impact": "The failure of the piston head valve spring can cause the engine to misfire, stall, or fail, leading to a loss of power and potentially causing an accident.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "the engine misfires",
+        "the engine stalls",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "11218514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Gas Cap Sensor",
+      "impact": "The faulty gas cap sensor can cause the check engine warning light to illuminate, which can lead to a loss of confidence in the vehicle's performance and potentially cause the driver to become distracted.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "the auto-start feature does not work."
+      ],
+      "odiNumbers": [
+        "11173215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Failure",
+      "impact": "The engine stalling and failure can cause a loss of power and potentially lead to an accident, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the engine knocks uncontrollably",
+        "the starter engages but the engine does not crank."
+      ],
+      "odiNumbers": [
+        "11172213",
+        "11103970",
+        "10598486",
+        "10479422",
+        "10476685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The heater core failure can cause coolant to leak into the passenger compartment, potentially leading to a loss of visibility and increasing the risk of an accident.",
+      "symptoms": [
+        "The smell of coolant is present in the passenger compartment",
+        "coolant leaks from the air conditioning vents."
+      ],
+      "odiNumbers": [
+        "11080848",
+        "11076519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Seizure",
+      "impact": "The engine seizure can cause the vehicle to stall, leading to a loss of control and potentially resulting in accidents.",
+      "symptoms": [
+        "Engine knocking or scraping sounds",
+        "loss of oil pressure",
+        "sudden stall",
+        "inability to restart the engine."
+      ],
+      "odiNumbers": [
+        "11456452",
+        "11090312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "The failure of the torque converter can cause the vehicle to jerk violently, hesitate, or stall, leading to a loss of control and potentially resulting in accidents.",
+      "symptoms": [
+        "Vehicle jerks violently",
+        "hesitation when accelerating",
+        "transmission slips or hesitates",
+        "shuddering or vibration when shifting gears."
+      ],
+      "odiNumbers": [
+        "11157217",
+        "10749600",
+        "10482913",
+        "10480927",
+        "10478850",
+        "10463419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Pedal Failure",
+      "impact": "The failure of the clutch pedal can cause the vehicle to stall or lose power, leading to a loss of control and potentially resulting in accidents.",
+      "symptoms": [
+        "Clutch pedal travels to the floorboard",
+        "clutch pedal feels soft or spongy",
+        "inability to shift gears."
+      ],
+      "odiNumbers": [
+        "10555853",
+        "10504713",
+        "10503178"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Intrusion and Electrical Failure",
+      "impact": "Water intrusion and electrical failure can cause the vehicle to stall or lose power, leading to a loss of control and potentially resulting in accidents.",
+      "symptoms": [
+        "Vehicle will not start",
+        "electrical failure",
+        "water leaks into the vehicle",
+        "faulty water bladder design."
+      ],
+      "odiNumbers": [
+        "10747746"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

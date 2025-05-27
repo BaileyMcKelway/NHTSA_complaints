@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the vehicle to become inoperable, leading to safety risks and inconvenience to the driver.",
+      "symptoms": [
+        "The transmission fails",
+        "causing the vehicle to be inoperable",
+        "transmission slips",
+        "transmission lurches in low gear",
+        "transmission fails to maintain gear selection",
+        "transmission jumps out of gear when parked."
+      ],
+      "odiNumbers": [
+        "10038811",
+        "9003191",
+        "881285",
+        "859454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transfer Case Failure",
+      "impact": "The failure of the transfer case can cause the transmission to slip, leading to loss of control and accidents.",
+      "symptoms": [
+        "Transfer case leaks",
+        "transmission slips",
+        "transmission lurches in low gear",
+        "transfer case lock-up."
+      ],
+      "odiNumbers": [
+        "891444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment in Frontal Collisions",
+      "impact": "The failure of airbags to deploy in severe frontal collisions can lead to increased risk of injury or fatality to occupants, compromising vehicle safety.",
+      "symptoms": [
+        "Airbags do not deploy in frontal collisions",
+        "even in severe impacts",
+        "resulting in potential injuries or fatalities to occupants."
+      ],
+      "odiNumbers": [
+        "559948",
+        "815093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unwarranted Airbag Deployment",
+      "impact": "Unwarranted airbag deployment can cause unnecessary injuries, distractions, and disruptions to occupants, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "Airbags deploy unnecessarily",
+        "even in minor collisions or bumps",
+        "causing unexpected and potentially harmful consequences."
+      ],
+      "odiNumbers": [
+        "827781"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Wear of Front Disc Brakes",
+      "impact": "Premature wear of front disc brakes can lead to reduced stopping power, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Excessive brake dust",
+        "uneven brake wear",
+        "vibration or shimmy when brakes are applied",
+        "squealing or grinding noises when braking."
+      ],
+      "odiNumbers": [
+        "780621",
+        "518807",
+        "505630"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

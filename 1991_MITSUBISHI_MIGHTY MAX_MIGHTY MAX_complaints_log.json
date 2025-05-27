@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "TIRES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Engine Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the vehicle to stall, lose power, or hesitate while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The check engine light comes on",
+        "the vehicle stalls",
+        "the vehicle hesitates while driving",
+        "the vehicle shifts into neutral",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "882413",
+        "831607",
+        "831611",
+        "816899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ineffective Seat Belt Repair under Recall",
+      "impact": "A faulty seat belt repair can lead to a compromised safety system, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt remains loose after recall repair",
+        "the seat belt buckle breaks",
+        "the seat belt does not recoil properly."
+      ],
+      "odiNumbers": [
+        "531223",
+        "974375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to a loss of vehicle control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Loud noise",
+        "thumping noise",
+        "tire tread cracking or separating between the treads",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10231096",
+        "863797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

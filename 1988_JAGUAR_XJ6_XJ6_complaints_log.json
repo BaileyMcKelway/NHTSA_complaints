@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the wheels to lock up, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The ABS brake system fails to function properly",
+        "the wheels lock up",
+        "the vehicle experiences sudden and unexpected stopping or skidding."
+      ],
+      "odiNumbers": [
+        "10245834",
+        "714553",
+        "534162",
+        "490454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accumulator Fluid Leak",
+      "impact": "The accumulator fluid leak can cause a loss of brake fluid, leading to a failure of the brake system, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "A puddle of green fluid is noticed under the vehicle",
+        "typically on the right front side",
+        "indicating a leak from the accumulator."
+      ],
+      "odiNumbers": [
+        "823819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Door Release Failure",
+      "impact": "The failure of the fuel door release can cause inconvenience and delay, as the driver is unable to access the fuel tank to refuel the vehicle.",
+      "symptoms": [
+        "The fuel door release fails to open",
+        "making it impossible to access the fuel tank."
+      ],
+      "odiNumbers": [
+        "502209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration and Unintended Acceleration",
+      "impact": "Sudden acceleration can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the cruise control fails to shut off",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle surges forward without warning."
+      ],
+      "odiNumbers": [
+        "504440",
+        "502209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Cruise Control System",
+      "impact": "A malfunctioning cruise control system can cause unintended acceleration, leading to loss of control and accidents.",
+      "symptoms": [
+        "The cruise control fails to shut off",
+        "the cruise control engages unexpectedly",
+        "the vehicle accelerates unexpectedly while using cruise control."
+      ],
+      "odiNumbers": [
+        "502209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

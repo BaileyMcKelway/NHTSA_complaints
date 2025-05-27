@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "indicating deployment",
+        "but no airbags deploy",
+        "airbags fail to deploy in a crash",
+        "minor injuries or fatalities occur due to lack of airbag protection."
+      ],
+      "odiNumbers": [
+        "10532455",
+        "10004528",
+        "825035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause unexpected and potentially dangerous distractions while driving, leading to accidents or injuries.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbags deploy while turning or driving",
+        "airbags deploy without warning",
+        "unexpected airbag deployment causes distraction or loss of control."
+      ],
+      "odiNumbers": [
+        "825035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Control Arm Failure",
+      "impact": "The failure of the rear suspension control arms can cause the vehicle to sway violently, making it difficult to control, which can lead to accidents, personal bodily injury, or even death.",
+      "symptoms": [
+        "The vehicle sways or wobbles violently while driving at high speeds (50-70 mph)",
+        "the vehicle is difficult to control",
+        "the vehicle may pull to one side",
+        "the vehicle may vibrate or shake."
+      ],
+      "odiNumbers": [
+        "10195525",
+        "10185000",
+        "10107972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Leaks",
+      "impact": "Fuel tank leaks can cause fuel to spill onto the road or surrounding surfaces, increasing the risk of fires, explosions, and accidents. This can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Fuel leaks from the top of the fuel tank",
+        "fuel spills onto the road or surrounding surfaces",
+        "fuel leaks when the tank is more than 75% full",
+        "fuel odor is present near the vehicle."
+      ],
+      "odiNumbers": [
+        "10435317",
+        "10214075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Toyo Tire Sidewall Defect",
+      "impact": "The sidewall defects in Toyo tires can lead to sudden blowouts, especially in inclement weather, which can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Knots or bulges on the tire sidewall",
+        "tire blowouts",
+        "loss of tire tread",
+        "tire failure."
+      ],
+      "odiNumbers": [
+        "10125782",
+        "532656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

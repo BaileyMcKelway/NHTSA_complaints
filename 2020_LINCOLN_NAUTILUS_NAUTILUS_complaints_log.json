@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erratic Transmission Performance",
+      "impact": "The erratic transmission performance can cause the vehicle to hesitate or fail to respond when accelerating, which can lead to accidents or leave the driver stranded in traffic.",
+      "symptoms": [
+        "The vehicle hesitates or fails to accelerate when taking off from a stop",
+        "the transmission does not respond at times",
+        "especially in low-speed traffic",
+        "the vehicle makes a humming noise when trying to accelerate",
+        "the vehicle jerks or lurches when finally accelerating."
+      ],
+      "odiNumbers": [
+        "11570397",
+        "11521005",
+        "11420872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High Mount Brake Light Failure",
+      "impact": "The failure of the high mount brake light can increase the risk of rear-end collisions, especially in low-visibility scenarios, as it reduces the visibility of the vehicle's braking intentions to other drivers.",
+      "symptoms": [
+        "No warning lamps or messages to indicate the failure",
+        "potentially leaving the driver unaware of the issue for an extended period."
+      ],
+      "odiNumbers": [
+        "11561745",
+        "11553530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can reduce visibility while reversing, increasing the risk of accidents or injuries, particularly in low-light conditions.",
+      "symptoms": [
+        "Distorted or unclear backup camera image",
+        "failure of the backup camera to operate",
+        "no warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11528446",
+        "11427694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

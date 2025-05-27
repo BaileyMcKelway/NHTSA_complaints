@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 47,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of the fuel injectors can cause a strong gasoline smell, fuel leaks, and potential fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Strong gasoline smell",
+        "fuel leaks",
+        "fuel accumulating on top of the engine block",
+        "noise coming from the fuel injection system",
+        "fuel injectors leaking gasoline onto the engine",
+        "internal seals in the fuel injectors leaking gasoline."
+      ],
+      "odiNumbers": [
+        "10120938",
+        "10066006",
+        "10052863",
+        "8011028",
+        "8009265",
+        "8007407",
+        "758667",
+        "758550",
+        "784478",
+        "853877",
+        "842565",
+        "705396",
+        "705187",
+        "704932",
+        "704689",
+        "543040",
+        "701194",
+        "700609",
+        "806820",
+        "982365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Automatic Seat Belts",
+      "impact": "The failure of the automatic seat belts can lead to inadequate restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt gets jammed",
+        "the seat belt is inoperative",
+        "the driver can only use the lap belt",
+        "the seat belt fails to restrain the driver in an accident."
+      ],
+      "odiNumbers": [
+        "10904813",
+        "832166",
+        "984766",
+        "181161",
+        "960758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause engine damage, stalling, and loss of control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Unusual noise coming from the engine",
+        "sudden drop in RPM",
+        "RPM fluctuations",
+        "loss of traction",
+        "and the vehicle rolling unexpectedly."
+      ],
+      "odiNumbers": [
+        "8005460",
+        "857363",
+        "544117",
+        "702413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

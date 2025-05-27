@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "ENGINE",
+    "EXTERIOR LIGHTING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating and Cooling System Failure",
+      "impact": "Engine overheating can cause the vehicle to shut off unexpectedly, leading to a loss of power and acceleration, which can increase the risk of accidents and injuries. Additionally, the failure of the cooling system can cause damage to the engine and other components.",
+      "symptoms": [
+        "The vehicle shuts off unexpectedly",
+        "the vehicle loses power",
+        "the vehicle drives slow and does not exceed 35 mph",
+        "the vehicle goes into 'limp mode' (less than 10 mph)",
+        "warning signs such as \"drive moderately\" and \"engine overheated\" appear",
+        "cranking noises are heard."
+      ],
+      "odiNumbers": [
+        "11447154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag and Seatbelt System Malfunction",
+      "impact": "The malfunction of the airbag and seatbelt system can increase the risk of injury to the driver and passengers in the event of an accident. Unstable airbags and seatbelts can fail to deploy properly, leading to serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag light comes on intermittently",
+        "warning signs such as \"passenger safety belt\" appear",
+        "the airbags and seatbelts are not stable."
+      ],
+      "odiNumbers": [
+        "11303016",
+        "11447154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speed Control and Acceleration Issues",
+      "impact": "The failure of the speed control system can cause the vehicle to accelerate erratically or lose power, leading to accidents and injuries. The sudden loss of acceleration can also cause the vehicle to slow down suddenly, increasing the risk of rear-end collisions.",
+      "symptoms": [
+        "Difficulty accelerating",
+        "the vehicle loses power",
+        "the vehicle drives slow and does not exceed 35 mph",
+        "the vehicle goes into 'limp mode' (less than 10 mph)",
+        "warning signs such as \"drive moderately\" appear."
+      ],
+      "odiNumbers": [
+        "11447154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "N52/N53 Engine Timing Chain Failure",
+      "impact": "The failure of the timing chain and internal engine components can cause the engine to stall, leading to a loss of power and increased risk of accidents. In severe cases, it can also cause engine damage, resulting in costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "low engine oil pressure warning",
+        "engine compartment overheating warning",
+        "knocking noise from the engine",
+        "loss of power while accelerating",
+        "inability to reach high RPMs."
+      ],
+      "odiNumbers": [
+        "11278375",
+        "10592551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Check Valve Failure",
+      "impact": "The failure of the oil check valve can cause engine oil to leak into the catalytic converter, leading to clogging and potentially causing the engine to stall or fail, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Smoke coming from the exhaust pipe",
+        "oil leaking into the catalytic converter",
+        "catalytic converter becoming clogged",
+        "engine stalling or failure."
+      ],
+      "odiNumbers": [
+        "11501517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Reverse Light Housing Failure",
+      "impact": "The failure of the reverse light housing can cause the housing to fall out, resulting in a loss of reverse lighting, which can increase the risk of accidents or injuries when reversing, especially at night or in low-visibility conditions.",
+      "symptoms": [
+        "The reverse light housing falls out",
+        "the reverse light is not functioning",
+        "the vehicle is missing a reverse light housing."
+      ],
+      "odiNumbers": [
+        "11349335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Door Lock Actuator",
+      "impact": "The malfunctioning door lock actuator can prevent doors from unlocking from the outside, potentially trapping occupants in emergency situations and hindering easy access to the vehicle.",
+      "symptoms": [
+        "Front doors will not unlock from the outside",
+        "unable to use key to unlock manually",
+        "doors remain locked despite attempts to unlock",
+        "difficulty accessing the vehicle in emergency situations."
+      ],
+      "odiNumbers": [
+        "11338821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

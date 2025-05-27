@@ -1,0 +1,188 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause a loss of power steering, making it difficult to control the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The power steering fails to operate",
+        "the steering wheel is difficult to maneuver",
+        "the engine starts to rattle uncontrollably",
+        "the power steering fluid leaks",
+        "and the vehicle is hard to control."
+      ],
+      "odiNumbers": [
+        "11422596",
+        "11397103",
+        "11342373",
+        "11299841",
+        "11290308",
+        "11278404",
+        "11267941",
+        "11254412",
+        "11240199",
+        "11210249",
+        "11182775",
+        "10822898",
+        "10787747",
+        "10785026",
+        "10704258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The unavailability of replacement parts for the power steering pump can lead to prolonged delays in repairs, leaving vehicles in an unsafe condition and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The dealer or manufacturer does not have the necessary parts to repair the vehicle",
+        "the repair is delayed",
+        "and the vehicle is not safe to drive."
+      ],
+      "odiNumbers": [
+        "11397103",
+        "11342373",
+        "11290308",
+        "11254412",
+        "10822898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer's Lack of Response",
+      "impact": "The manufacturer's failure to respond to customer concerns and provide adequate support can lead to frustration, anxiety, and a sense of abandonment, potentially causing drivers to lose trust in the vehicle and the manufacturer.",
+      "symptoms": [
+        "The manufacturer does not respond to customer inquiries",
+        "the customer is unable to get help from the manufacturer",
+        "and the customer feels frustrated and abandoned."
+      ],
+      "odiNumbers": [
+        "11210249",
+        "11182775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure in Passenger Seat",
+      "impact": "The failure of the airbag sensor in the passenger seat can cause the airbag to deploy with full force even with a child or small adult in the front seat, increasing the risk of severe injury or death.",
+      "symptoms": [
+        "The \"AIR BAG\" light in the instrument cluster and the front passenger's seat belt reminder light come on",
+        "the \"PASS AIR BAG OFF\" indicator light remains off",
+        "the airbag may not deploy in a frontal impact",
+        "or the airbag may deploy with full force even with a child or small adult in the front seat."
+      ],
+      "odiNumbers": [
+        "11572611",
+        "11000040",
+        "10927921",
+        "10927604",
+        "10927171",
+        "10689842",
+        "10663477",
+        "10651796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can increase the risk of injury or death to the occupants.",
+      "symptoms": [
+        "The airbag light comes on",
+        "the airbag does not deploy in a crash",
+        "the airbag deploys unexpectedly."
+      ],
+      "odiNumbers": [
+        "10904649",
+        "10776624",
+        "10764144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Electrical Circuit Disconnection",
+      "impact": "The disconnection of the electrical circuit in the airbag system can cause the airbag to malfunction, increasing the risk of injury or death to the occupants.",
+      "symptoms": [
+        "The airbag light comes on",
+        "the airbag may not deploy in a crash",
+        "the airbag deploys unexpectedly."
+      ],
+      "odiNumbers": [
+        "10776624",
+        "10764144",
+        "10651796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become difficult to shift, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's RPMs increase",
+        "the vehicle can only reach a low speed (e.g.",
+        "20 mph)",
+        "the transmission control module is not reading the computer inside the transmission",
+        "difficulty shifting gears",
+        "the gear shift lever can be bumped into reverse while in drive."
+      ],
+      "odiNumbers": [
+        "11174811",
+        "11072796",
+        "10852078",
+        "10733256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Gear Shift Lever",
+      "impact": "A defective gear shift lever can cause the vehicle to shift into reverse while in drive, leading to accidents or injuries.",
+      "symptoms": [
+        "The gear shift lever can be bumped into reverse while in drive",
+        "difficulty shifting gears",
+        "the vehicle can shift into reverse unexpectedly."
+      ],
+      "odiNumbers": [
+        "11072796",
+        "10852078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Difficulty Shifting Gears",
+      "impact": "Difficulty shifting gears can cause the vehicle to lose power, stall, or become difficult to control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Difficulty moving the shift stick out of park",
+        "the vehicle is hard to shift into gear",
+        "the gear shift lever is difficult to operate."
+      ],
+      "odiNumbers": [
+        "10852078",
+        "10733256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

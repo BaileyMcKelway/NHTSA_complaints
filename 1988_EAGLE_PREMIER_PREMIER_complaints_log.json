@@ -1,0 +1,416 @@
+{
+  "totalComplaints": 137,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 23,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "Heater core failure can cause the interior of the vehicle to fill with steam, decreasing visibility, and potentially leading to accidents.",
+      "symptoms": [
+        "Windows fog up",
+        "steam enters the passenger compartment",
+        "windshield steams up",
+        "poor visibility",
+        "hot coolant leaks into the passenger's compartment."
+      ],
+      "odiNumbers": [
+        "978789",
+        "850056",
+        "836381",
+        "534428",
+        "504195",
+        "979654",
+        "501043",
+        "977181",
+        "486302",
+        "964867",
+        "478844",
+        "476739",
+        "474093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defroster/Heater System Malfunction",
+      "impact": "Defroster/heater system malfunction can cause poor visibility, leading to accidents.",
+      "symptoms": [
+        "Defroster inoperative",
+        "windshield has a greasy substance",
+        "poor visibility",
+        "warm air fails to come out of floor vent",
+        "warm air only comes out of defroster vents."
+      ],
+      "odiNumbers": [
+        "603309",
+        "481610",
+        "489252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Window Malfunction",
+      "impact": "Window malfunction can cause inconvenience and potentially lead to accidents.",
+      "symptoms": [
+        "Windows get stuck",
+        "difficult to roll up or down",
+        "driver's side/front passenger's side",
+        "and rear passengers' side windows have a potential problem."
+      ],
+      "odiNumbers": [
+        "845725"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Issues",
+      "impact": "Recall issues can cause inconvenience, financial loss, and potentially lead to accidents.",
+      "symptoms": [
+        "Recall work not done partly",
+        "recall discontinued due to parts unavailability",
+        "recall did not correct problem."
+      ],
+      "odiNumbers": [
+        "978789",
+        "850056",
+        "970745",
+        "964867",
+        "486165",
+        "489636"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Other Issues",
+      "impact": "Other issues can cause inconvenience and potentially lead to accidents.",
+      "symptoms": [
+        "Windshield wiper arms fell off",
+        "outside mirrors remote control failed",
+        "rear defogger center strip failed",
+        "driver-side seat belt buckle broke."
+      ],
+      "odiNumbers": [
+        "975544",
+        "486165",
+        "489252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Brake Rotors",
+      "impact": "The failure of brake rotors can cause reduced braking performance, leading to increased stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Brake rotors making loud booming noises",
+        "brake pedal going to the floor",
+        "low brake pressure",
+        "tires sticking",
+        "popping noise from rear brakes."
+      ],
+      "odiNumbers": [
+        "838328",
+        "544588",
+        "538874",
+        "533994",
+        "523676",
+        "504195"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause complete brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Master cylinder failure",
+        "brake pedal going to the floor",
+        "no brake pressure",
+        "unable to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "969570",
+        "486165",
+        "480110",
+        "474261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of brake pads can cause reduced braking performance, leading to increased stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Noisy brakes",
+        "brake pads needing frequent replacement",
+        "irregular brake wear."
+      ],
+      "odiNumbers": [
+        "489252",
+        "480110",
+        "474261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause complete brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Brake failure",
+        "inability to stop the vehicle",
+        "brake pedal going to the floor."
+      ],
+      "odiNumbers": [
+        "971095",
+        "964703",
+        "517863",
+        "512567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the ABS brake system can cause loss of control, accidents, or increased stopping distances.",
+      "symptoms": [
+        "ABS brakes failing",
+        "trouble getting replacement parts."
+      ],
+      "odiNumbers": [
+        "539173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Throttle sticks wide open",
+        "vehicle accelerates on its own",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "889109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Transmission sticks",
+        "transmission failure",
+        "vehicle moves forward while stopping",
+        "transmission leaks."
+      ],
+      "odiNumbers": [
+        "512567",
+        "504195",
+        "486165",
+        "480110",
+        "478844",
+        "474261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer/Odometer Failure",
+      "impact": "Speedometer/odometer failure can lead to inaccurate speed readings, which can cause accidents, and affect vehicle performance.",
+      "symptoms": [
+        "Speedometer inoperative",
+        "odometer doesn't work."
+      ],
+      "odiNumbers": [
+        "507304",
+        "968242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "CV Joint Failure",
+      "impact": "CV joint failure can cause vibration, noise, and loss of vehicle control, leading to accidents and injuries.",
+      "symptoms": [
+        "CV joints failed",
+        "universal joint makes clucking noise",
+        "outer CV joints replaced."
+      ],
+      "odiNumbers": [
+        "603309",
+        "476688",
+        "476099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Drive Line Failure",
+      "impact": "Drive line failure can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Drive line broke",
+        "vehicle pulls hard to the right",
+        "fishtailing."
+      ],
+      "odiNumbers": [
+        "961805"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Slipping",
+      "impact": "Transmission slipping can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Transmission discontinues working when shifting into overdrive."
+      ],
+      "odiNumbers": [
+        "965936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Front Axle/Boot Failure",
+      "impact": "Front axle/boot failure can cause vibration, noise, and loss of vehicle control, leading to accidents and injuries.",
+      "symptoms": [
+        "Front axles and boots replaced",
+        "front axle/boot replaced."
+      ],
+      "odiNumbers": [
+        "480110",
+        "474261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause engine overheating, leading to damage to the engine, thermostat, and other components, which can result in costly repairs, engine failure, and potentially cause accidents.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "hole in the reservoir bottle",
+        "engine failure",
+        "frequent thermostat replacement",
+        "oil leaks",
+        "drive belt failure."
+      ],
+      "odiNumbers": [
+        "513223",
+        "504195",
+        "486165",
+        "489252",
+        "961780",
+        "476688",
+        "476099",
+        "474093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Thermostat Failure",
+      "impact": "The failure of the thermostat can cause engine overheating, leading to damage to the engine and other components, which can result in costly repairs, engine failure, and potentially cause accidents.",
+      "symptoms": [
+        "Engine overheating",
+        "frequent thermostat replacement",
+        "coolant leaks."
+      ],
+      "odiNumbers": [
+        "504195",
+        "476688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Valve Cover Gasket Failure",
+      "impact": "The failure of the engine valve cover gasket can cause oil leaks, leading to engine damage and potentially cause accidents.",
+      "symptoms": [
+        "Oil leaks",
+        "engine valve cover gasket replacement."
+      ],
+      "odiNumbers": [
+        "486165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Drive Belt Failure",
+      "impact": "The failure of the drive belt can cause engine overheating, leading to damage to the engine and other components, which can result in costly repairs, engine failure, and potentially cause accidents.",
+      "symptoms": [
+        "Drive belt failure",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "489252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "The failure of the catalytic converter can cause environmental harm and potentially lead to engine damage.",
+      "symptoms": [
+        "Catalytic converter failure",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "476688",
+        "476099",
+        "474093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause environmental harm and potentially lead to engine damage.",
+      "symptoms": [
+        "Exhaust pipe failure",
+        "catalytic converter failure."
+      ],
+      "odiNumbers": [
+        "474093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

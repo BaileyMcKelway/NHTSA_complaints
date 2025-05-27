@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Turbo Resonator Failure",
+      "impact": "The failure of the turbo resonator can cause the vehicle to lose power, leading to deceleration, and in some cases, complete loss of acceleration, making it difficult to maintain speed on hills, merge onto highways, and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle experiences sudden loss of power",
+        "deceleration",
+        "and inability to maintain speed on hills",
+        "leading to a \"limp home mode\" where the vehicle can only reach speeds of 25-60 mph",
+        "making it difficult to drive with the flow of traffic."
+      ],
+      "odiNumbers": [
+        "10356415",
+        "10324902",
+        "10243277",
+        "10238644",
+        "10189868",
+        "10180673",
+        "10163478",
+        "10161107",
+        "10161026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty ABS Module",
+      "impact": "A faulty ABS module can cause the transmission to malfunction, leading to dangerous situations on the highway, and potentially resulting in accidents.",
+      "symptoms": [
+        "The vehicle's transmission stays in 1st gear",
+        "the ABS light illuminates",
+        "the wheel PSI light illuminates",
+        "the check engine light illuminates",
+        "the amber triangle light illuminates",
+        "and the vehicle speedometer becomes inoperative."
+      ],
+      "odiNumbers": [
+        "10521495",
+        "10273373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "Soft brakes can lead to accidents, especially in panic stop situations, and can cause the driver to lose control of the vehicle.",
+      "symptoms": [
+        "The brake pedal feels soft",
+        "the brake pedal goes to the floor",
+        "the brake pedal requires pumping to get a hard pedal",
+        "and the brakes fail to stop the vehicle effectively."
+      ],
+      "odiNumbers": [
+        "10151673",
+        "10149192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "Faulty ABS sensors can cause the brakes to malfunction, leading to difficulty braking and potentially resulting in accidents.",
+      "symptoms": [
+        "The ABS light illuminates",
+        "the brakes release unexpectedly",
+        "and the vehicle experiences difficulty braking."
+      ],
+      "odiNumbers": [
+        "10273373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or roll backwards, especially when climbing steep hills, which can lead to accidents, property damage, and strand the driver.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or rolls backwards when climbing steep hills",
+        "the transmission slips or hesitates",
+        "the transmission makes unusual noises",
+        "the vehicle is unable to accelerate",
+        "the transmission warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10748916",
+        "10172601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

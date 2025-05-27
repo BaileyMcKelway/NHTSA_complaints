@@ -1,0 +1,189 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the loss of ability to stop the vehicle, leading to accidents or near-misses.",
+      "symptoms": [
+        "Complete loss of brake effectiveness",
+        "brake pedal goes to the floor",
+        "overheating smell",
+        "brake fluid temperature reaches extremely high levels",
+        "brake calipers do not release."
+      ],
+      "odiNumbers": [
+        "766352",
+        "740214",
+        "809385",
+        "977210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake calipers can cause the loss of ability to stop the vehicle, leading to accidents or near-misses.",
+      "symptoms": [
+        "Brake calipers do not release",
+        "brake fluid temperature reaches extremely high levels."
+      ],
+      "odiNumbers": [
+        "740214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The malfunction of the cruise control can cause unintended acceleration, leading to accidents or near-misses.",
+      "symptoms": [
+        "Cruise control does not disengage when brakes are applied",
+        "acceleration instead of deceleration."
+      ],
+      "odiNumbers": [
+        "819567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Hose Failure",
+      "impact": "The failure of the brake hoses can cause brake fluid leaks, leading to loss of brake effectiveness and accidents.",
+      "symptoms": [
+        "Brake fluid leaks through the side walls of the brake hoses."
+      ],
+      "odiNumbers": [
+        "973422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Thermopane Window Seal Failure",
+      "impact": "The failure of the thermopane window seals can cause condensation to form between the panes of glass, obstructing the driver's view and creating a safety concern.",
+      "symptoms": [
+        "Condensation forms between panes of glass",
+        "defective window seals."
+      ],
+      "odiNumbers": [
+        "740214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or lose power, leading to a loss of control and potential accidents, especially when driving on busy roads.",
+      "symptoms": [
+        "The engine quits or stalls while driving",
+        "the vehicle loses power",
+        "the fuel pump produces low pressure",
+        "the vehicle requires a cool-down period of over 6 hours to recover power."
+      ],
+      "odiNumbers": [
+        "740506",
+        "712638",
+        "825143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Rail Coupling Failure",
+      "impact": "The failure of the fuel rail coupling can cause fuel leaks, which can lead to engine fires, explosions, or other safety hazards.",
+      "symptoms": [
+        "Fuel leaks onto the top of the engine",
+        "fuel rail coupling failure."
+      ],
+      "odiNumbers": [
+        "478154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Loss of Power",
+      "impact": "The sudden loss of power and speed can cause the vehicle to lose momentum, potentially leading to accidents or collisions, especially when merging or changing lanes.",
+      "symptoms": [
+        "The vehicle speed suddenly drops",
+        "the vehicle hesitates or stutters",
+        "the transmission slips or hesitates",
+        "the vehicle loses power or acceleration",
+        "the vehicle's speed fluctuates."
+      ],
+      "odiNumbers": [
+        "10026740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Idle Speed Control Unit Failure",
+      "impact": "The failure of the idle speed control unit can cause unusual noises, vibrations, and potentially lead to engine stalling, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Unusual noises in the engine compartment",
+        "vibrations",
+        "engine stalling",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "532233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to lose control, potentially leading to accidents or collisions, especially at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "the vehicle surges forward",
+        "the accelerator pedal sticks or becomes stuck",
+        "the vehicle's speed increases unexpectedly."
+      ],
+      "odiNumbers": [
+        "482153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front-End Shimmy/Vibration",
+      "impact": "The sudden and violent shaking of the front wheels can cause loss of control, leading to accidents or near-miss situations, especially when braking or navigating rough roads.",
+      "symptoms": [
+        "The front wheels shake violently back and forth",
+        "the vehicle feels unstable",
+        "the steering wheel moves rapidly from side to side",
+        "the coach shakes wildly",
+        "the vehicle is difficult to control",
+        "the shaking worsens when applying the brake pedal."
+      ],
+      "odiNumbers": [
+        "752946",
+        "704728",
+        "959611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

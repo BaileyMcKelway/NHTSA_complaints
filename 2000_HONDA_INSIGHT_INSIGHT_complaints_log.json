@@ -1,0 +1,165 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Switch Failure",
+      "impact": "The failure of the headlight switch can cause the headlights to malfunction or fail, leading to reduced visibility and increased risk of accidents, especially at night.",
+      "symptoms": [
+        "Burning smell from the left side of the steering wheel",
+        "dim or failed headlights",
+        "high beams work but low beams do not."
+      ],
+      "odiNumbers": [
+        "10577820",
+        "10320402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "IMA Battery Failure",
+      "impact": "The failure of the IMA (Integrated Motor Assist) battery can cause sudden loss of power, hesitation, and lack of acceleration, leading to increased risk of accidents, especially when merging onto highways or accelerating on ramps.",
+      "symptoms": [
+        "Sudden loss of power",
+        "hesitation",
+        "lack of acceleration",
+        "rapid discharge of the IMA battery",
+        "\"recall events\" (sudden and unexpected loss of IMA assist)."
+      ],
+      "odiNumbers": [
+        "10166287",
+        "10137874",
+        "10033500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Control Module Failure",
+      "impact": "The failure of the electronic control module can cause various electrical systems to malfunction, including power windows, power steering, and digital dashboard readings, leading to increased risk of accidents and reduced vehicle safety.",
+      "symptoms": [
+        "Digital dashboard readings vanish",
+        "power windows and power steering fail",
+        "electronic control module failure."
+      ],
+      "odiNumbers": [
+        "10079477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "State of Charge Gauge Inaccuracy",
+      "impact": "The inaccuracy of the state of charge gauge can cause the driver to be unaware of the IMA battery's true state of charge, leading to sudden loss of power and increased risk of accidents.",
+      "symptoms": [
+        "State of charge gauge no longer accurately reports the state of charge of the IMA battery",
+        "sudden and unexpected loss of IMA boost."
+      ],
+      "odiNumbers": [
+        "10033500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "SRS/Airbag System Failure",
+      "impact": "The failure of the SRS/airbag system can lead to unexpected airbag deployment, causing accidents, injuries, and fatalities. Moreover, a faulty system can also fail to deploy airbags in the event of a crash, increasing the risk of injury or death.",
+      "symptoms": [
+        "SRS light comes on and stays on",
+        "airbag deployment without a crash",
+        "failure of airbags to deploy in a crash",
+        "electrical interference",
+        "system failure warning."
+      ],
+      "odiNumbers": [
+        "10170306",
+        "10138267",
+        "10116025",
+        "564976",
+        "564263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, and fatalities, as well as damage to the vehicle. It can also lead to loss of control, swerving, and collision.",
+      "symptoms": [
+        "Airbag deployment without a crash",
+        "sudden and unexpected airbag deployment",
+        "loss of control",
+        "vehicle damage",
+        "injuries to occupants."
+      ],
+      "odiNumbers": [
+        "564976",
+        "564263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "Failure of the seat belt retractor can lead to injuries or fatalities in the event of a crash, as occupants may not be properly restrained.",
+      "symptoms": [
+        "Seat belt retractor failure",
+        "injuries from belt retractor",
+        "failure of seat belt to restrain occupants."
+      ],
+      "odiNumbers": [
+        "564263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Failure (Low Beam)",
+      "impact": "Sudden failure of the low beam headlights can significantly reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The low beam headlights suddenly fail to illuminate",
+        "requiring the driver to switch to high beams to continue driving",
+        "loss of visibility",
+        "increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "10748522",
+        "10487682",
+        "10487684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Recall Exclusion (VIN Not Eligible)",
+      "impact": "Honda's refusal to cover the cost of repairs for vehicles with similar issues, despite a recall being issued, can lead to frustration and mistrust among customers, potentially affecting their loyalty to the brand.",
+      "symptoms": [
+        "Vehicle owners are denied repair coverage due to their VIN not being included in the recall",
+        "despite experiencing the same issue as described in the recall",
+        "leading to disappointment and frustration with the manufacturer's customer service."
+      ],
+      "odiNumbers": [
+        "10748522",
+        "10487682",
+        "10487684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

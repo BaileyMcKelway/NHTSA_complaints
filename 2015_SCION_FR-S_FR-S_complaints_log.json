@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STEERING",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Sudden engine failure can cause loss of power, loss of control, and increased risk of accidents, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine stalling",
+        "misfiring",
+        "rough idling",
+        "loud knocking or pinging noises",
+        "white smoke pouring out of the exhaust",
+        "flashing check engine light."
+      ],
+      "odiNumbers": [
+        "11428249",
+        "11205250",
+        "11115259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Valve Spring Failure",
+      "impact": "Valve spring failure can cause engine misfires, rough idling, and loss of power, increasing the risk of accidents and engine damage.",
+      "symptoms": [
+        "Engine misfires",
+        "flashing check engine light",
+        "rough idling",
+        "loud knocking or pinging noises."
+      ],
+      "odiNumbers": [
+        "11205250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of control, increased risk of accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "loud knocking or pinging noises",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "11115259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering Motor Coupler Failure",
+      "impact": "The failure of the Electronic Power Steering Motor Coupler can cause the steering wheel to clunk and lock up when turning, making it difficult to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel clunks or makes unusual noises when turning",
+        "the steering wheel locks up or becomes difficult to turn",
+        "the vehicle is hard to steer."
+      ],
+      "odiNumbers": [
+        "11502375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Reverse Lockout Failure",
+      "impact": "The failure of the reverse lockout mechanism can cause the vehicle to accidentally shift into reverse while moving forward or attempting to shift into first gear, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle can shift into reverse while moving forward",
+        "the vehicle can shift into reverse while attempting to shift into first gear",
+        "the driver can accidentally shift into reverse during the shifting process."
+      ],
+      "odiNumbers": [
+        "11151574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Jerky and Violent Downshifting",
+      "impact": "The jerky and violent downshifting can cause loss of control, accidents, or damage to the transmission, and can be a safety concern, especially when coming to a stop.",
+      "symptoms": [
+        "Jerky and violent downshifting",
+        "hard shifting",
+        "failure to rev match",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "11143977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Fire",
+      "impact": "An engine fire can cause damage to the vehicle, potentially leading to a loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Flames or smoke coming from the engine",
+        "loss of power",
+        "unusual noises or smells from the engine."
+      ],
+      "odiNumbers": [
+        "10849620"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "COMMUNICATION",
+    "HYBRID PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Electrical System (NHTSA Campaign Number: 23V440000)",
+      "impact": "The delay in recall repair for the electrical system may cause the vehicle to stall or lose motive power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle stalls or loses motive power",
+        "warning lights illuminated on the instrument panel",
+        "message \"Stop Safely Now\" or \"System Fault\" displayed",
+        "vehicle shut off",
+        "and loss of electrical power."
+      ],
+      "odiNumbers": [
+        "11592342",
+        "11591544",
+        "11591586",
+        "11590064",
+        "11589897",
+        "11588892",
+        "11588754",
+        "11587637",
+        "11586151",
+        "11585407",
+        "11584083",
+        "11583643",
+        "11582616",
+        "11582333",
+        "11582360",
+        "11578351",
+        "11577087",
+        "11576052",
+        "11575464",
+        "11572907",
+        "11572411",
+        "11571967",
+        "11571415",
+        "11570376",
+        "11567948",
+        "11567772",
+        "11567155",
+        "11566191",
+        "11565806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Telematics Control Unit (TCU) Failure and 3G to 4G Modem Upgrade Issues",
+      "impact": "The failure of the Telematics Control Unit (TCU) can cause the GPS and location tracking system to malfunction, leaving the driver without access to safety systems in the event of a crash. The unannounced change from 3G to 4G modem can also render the vehicle's telecommunications system inoperable.",
+      "symptoms": [
+        "The GPS and location tracking system no longer work",
+        "no access to safety systems in the event of a crash",
+        "telematic control is inoperable",
+        "no warning lights are illuminated."
+      ],
+      "odiNumbers": [
+        "11478408",
+        "11461706"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High-Voltage Battery Failure",
+      "impact": "The failure of the high-voltage battery can cause the check engine warning light to illuminate, potentially leading to a loss of power, reduced vehicle performance, and increased risk of stalling or breakdown, which can compromise vehicle safety.",
+      "symptoms": [
+        "The check engine warning light illuminates on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11584596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

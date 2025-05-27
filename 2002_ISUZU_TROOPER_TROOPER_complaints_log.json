@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Oil Pressure Leading to Engine Failure",
+      "impact": "Insufficient oil pressure can cause engine damage, leading to costly repairs or even engine replacement, which can leave the driver stranded and compromise vehicle safety.",
+      "symptoms": [
+        "Engine failure",
+        "excessive oil consumption",
+        "loss of acceleration power",
+        "engine burning up main rod bearings."
+      ],
+      "odiNumbers": [
+        "10192928",
+        "10186275"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can lead to premature engine wear, engine damage, and increased maintenance costs, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Consuming 1 quart of oil every 600 miles",
+        "consuming 5 quarts of oil between oil changes (3000 miles)."
+      ],
+      "odiNumbers": [
+        "10186275"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Loss of Acceleration Power",
+      "impact": "Loss of acceleration power can increase the risk of accidents, especially when attempting to pass or merge with traffic, and can compromise vehicle safety.",
+      "symptoms": [
+        "Vehicle loses acceleration power",
+        "vehicle hesitates or stalls when trying to accelerate",
+        "loss of power when trying to pass or accelerate."
+      ],
+      "odiNumbers": [
+        "8023858",
+        "8023904"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of control, accidents, and potential injuries or fatalities. It can also cause emotional distress and anxiety for the driver.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "the engine revs up while sitting still",
+        "the vehicle lunges forward without pressing the accelerator",
+        "the vehicle moves forward without the driver's control."
+      ],
+      "odiNumbers": [
+        "10033968",
+        "765678",
+        "8015606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Shift Indicator Malfunction",
+      "impact": "The malfunction of the transmission shift indicator can cause the vehicle to be in a different gear than indicated, leading to unintended movement or loss of control, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The transmission shift indicator shows the vehicle is in park",
+        "but the vehicle is actually in neutral",
+        "the vehicle can roll freely forward or backward",
+        "the transmission jumps to park and locks",
+        "preventing the vehicle from moving."
+      ],
+      "odiNumbers": [
+        "10133105",
+        "10082030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

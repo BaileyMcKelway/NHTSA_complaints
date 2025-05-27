@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "STRUCTURE",
+    "SERVICE BRAKES",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, distractions, and accidents, and may lead to unnecessary repair costs and vehicle downtime.",
+      "symptoms": [
+        "Airbag deploys without warning",
+        "airbag deploys without a crash or impact",
+        "airbag deploys over a speed bump or rough road",
+        "airbag deploys without a prior warning light or signal."
+      ],
+      "odiNumbers": [
+        "10374700",
+        "811994"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality to occupants, and may lead to unnecessary medical costs and litigation.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "airbag does not deploy in a head-on collision",
+        "airbag does not deploy despite the presence of an impact sensor."
+      ],
+      "odiNumbers": [
+        "960843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of the ball joint can cause loss of control, uneven tire wear, and reduced vehicle stability, increasing the risk of accidents.",
+      "symptoms": [
+        "The ball joint splits or cracks",
+        "the vehicle pulls to one side",
+        "uneven tire wear",
+        "loose or worn-out control arm bushings",
+        "loose or worn-out sway bar bushings",
+        "the need for frequent wheel alignments."
+      ],
+      "odiNumbers": [
+        "567069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Crossmember Corrosion",
+      "impact": "Corrosion of the front crossmember can lead to structural compromise, affecting the vehicle's overall integrity and potentially causing loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Rust or corrosion visible on the front crossmember",
+        "creaking or groaning noises from the front suspension",
+        "uneven tire wear",
+        "loose or sagging front suspension components."
+      ],
+      "odiNumbers": [
+        "567069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Front Brake Wear",
+      "impact": "Premature wear on the front brakes can lead to reduced stopping power, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when applying the brakes",
+        "brake pedal pulsation",
+        "excessive brake dust",
+        "uneven brake wear."
+      ],
+      "odiNumbers": [
+        "567069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Heater Core Rupture",
+      "impact": "The rupture of the heater core can cause boiling hot coolant to pour onto the driver's feet, leading to severe burns and injuries. The escaping coolant can also cause the car to fill up with steam, reducing visibility and increasing the risk of accidents.",
+      "symptoms": [
+        "Boiling hot coolant pouring onto the driver's feet",
+        "severe burns to the driver's foot",
+        "ankle",
+        "and leg",
+        "steam filling the car",
+        "reduced visibility."
+      ],
+      "odiNumbers": [
+        "733839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

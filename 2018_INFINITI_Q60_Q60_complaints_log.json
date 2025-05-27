@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Direct Adaptive Steering (DAS) System Failure",
+      "impact": "The failure of the DAS system can cause the vehicle to swerve or lose steering control, leading to accidents or loss of vehicle control, especially at higher speeds.",
+      "symptoms": [
+        "The vehicle wanders or swerves on the road",
+        "especially on uneven pavement or when crossing bumps; the steering wheel feels soft or spongy; the vehicle is difficult to control or steer; the power steering warning light comes on."
+      ],
+      "odiNumbers": [
+        "11500920",
+        "11432344",
+        "11156646",
+        "11142011",
+        "11088508",
+        "11062737",
+        "11062273"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn or lock up, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The power steering warning light comes on; the steering wheel becomes extremely hard to turn or locks up; the vehicle is difficult to control or steer."
+      ],
+      "odiNumbers": [
+        "11088508",
+        "11062737",
+        "11062273"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause unexpected and potentially dangerous situations, leading to accidents or injuries.",
+      "symptoms": [
+        "Airbags deploy without warning or impact",
+        "airbag warning indicator illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11287071",
+        "11151805",
+        "11151812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "Failure of airbags to deploy in the event of an accident can increase the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags do not deploy in the event of an accident",
+        "airbag warning indicator does not illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11174455"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Airbag system malfunction can cause the airbag warning indicator to illuminate on the dashboard, indicating a potential safety issue.",
+      "symptoms": [
+        "Airbag warning indicator illuminates on the dashboard",
+        "airbag system malfunction",
+        "spiral cable assembly failure."
+      ],
+      "odiNumbers": [
+        "11151805",
+        "11151812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sunroof Glass Spontaneous Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof glass can cause a loud noise, distraction, and potentially lead to accidents or injuries from flying glass.",
+      "symptoms": [
+        "Loud bang or gunshot-like sound",
+        "sunroof glass shatters or explodes from the inside",
+        "glass fragments fall into the vehicle."
+      ],
+      "odiNumbers": [
+        "11555756",
+        "11419919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Carbon Monoxide (CO) Infiltration into the Cabin",
+      "impact": "The presence of CO in the cabin can cause headaches, dizziness, nausea, and even death in extreme cases, especially when the vehicle is operated in enclosed spaces or with the air conditioning and recirculation mode on.",
+      "symptoms": [
+        "CO levels detected inside the cabin",
+        "CO levels increase with acceleration",
+        "CO levels recorded as high as 19ppm",
+        "CO levels drop immediately when switching from recirculate to fresh air mode."
+      ],
+      "odiNumbers": [
+        "11185422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

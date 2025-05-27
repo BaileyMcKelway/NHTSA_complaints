@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEATS",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to failure to deploy in the event of an accident, resulting in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "stays on for an extended period",
+        "or flashes; the airbag system fails to deploy in an accident; the seat belt cannot be unlatched when the brake pedal is pressed."
+      ],
+      "odiNumbers": [
+        "10649974",
+        "10524931",
+        "10062001",
+        "10060648",
+        "10043236",
+        "8019908",
+        "715014",
+        "835884",
+        "801463"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Malfunction",
+      "impact": "The malfunction of the seat belt system can lead to failure to restrain the occupant in an accident, resulting in serious injury or death.",
+      "symptoms": [
+        "The seat belt cannot be unlatched when the brake pedal is pressed; the seat belt fails to restrain the occupant in an accident."
+      ],
+      "odiNumbers": [
+        "10524931",
+        "8019908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "SRS System Failure",
+      "impact": "The failure of the SRS (Supplemental Restraint System) can lead to failure to deploy airbags in an accident, resulting in serious injury or death.",
+      "symptoms": [
+        "The SRS light comes on after adjusting the seat; the airbag system fails to deploy in an accident."
+      ],
+      "odiNumbers": [
+        "10062001",
+        "10060648",
+        "8019908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Malfunction",
+      "impact": "The malfunction of the driver's seat can cause the seat to move unexpectedly, potentially leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The driver's seat slides back and forth while driving",
+        "the driver's seat moves forward when the brakes are applied",
+        "the seat heater malfunctions and causes burns or damage to the seat or clothing."
+      ],
+      "odiNumbers": [
+        "11098301",
+        "10980531",
+        "10244151",
+        "754596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Manual Transmission Guide Sleeve Failure",
+      "impact": "The incorrectly machined guide sleeve in the manual transmission can cause the transmission to jump out of gear without warning, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The transmission jumps out of gear",
+        "especially in first gear",
+        "without warning",
+        "causing the vehicle to lose power and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "10136997",
+        "10014703",
+        "10002732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Differential Unit Failure",
+      "impact": "The failure of the rear differential unit can cause the rear tire to stop spinning, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The rear tire stops spinning while traveling at moderate speeds",
+        "causing the vehicle to lose traction and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "8001550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Passenger Seatbelt Locking Issue",
+      "impact": "The sudden locking of the front passenger seatbelt while the vehicle is in motion can cause distractions, increase the risk of accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The front passenger seatbelt locks up while the vehicle is in motion",
+        "the seatbelt will not release",
+        "the seatbelt retracts but does not release",
+        "the seatbelt is sometimes unusable",
+        "the ratchett assembly is faulty."
+      ],
+      "odiNumbers": [
+        "10025497",
+        "748049",
+        "720864",
+        "818686"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure (BOSCH CP4 HPFP)",
+      "impact": "The failure of the BOSCH CP4 high-pressure fuel pump can cause metal shavings to be released throughout the fuel system, leading to catastrophic engine failure, stalling, and potential accidents.",
+      "symptoms": [
+        "Fuel pump failure",
+        "metal shavings in fuel lines",
+        "injectors",
+        "and gas tank",
+        "engine stalling",
+        "loss of power",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11546427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Coolant Leaks",
+      "impact": "Engine coolant leaks can cause engine overheating, damage to engine components, and potentially lead to engine failure, stalling, and accidents.",
+      "symptoms": [
+        "Engine coolant leaking",
+        "engine overheating",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11524315"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Engine (No Specific Component Failure)",
+      "impact": "A faulty engine can cause stalling, loss of power, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11524182",
+        "11499212",
+        "11453557",
+        "11441084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "SCR Active Reservoir Failure",
+      "impact": "The failure of the SCR active reservoir can cause the check engine warning light to illuminate, and if left unrepaired, can lead to engine damage and stalling.",
+      "symptoms": [
+        "Check engine warning light illumination",
+        "SCR active reservoir failure."
+      ],
+      "odiNumbers": [
+        "11499212",
+        "11432491",
+        "11432294"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "EGR Cooler Failure",
+      "impact": "The failure of the EGR cooler can cause stalling, loss of power, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Stalling",
+        "loss of power",
+        "check engine warning light illumination",
+        "\"Drivetrain Malfunction\" notification."
+      ],
+      "odiNumbers": [
+        "11473377",
+        "11426983",
+        "11233940",
+        "11185076",
+        "11179740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause engine stalling, loss of power, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11441084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Turbo Failure",
+      "impact": "The failure of the turbo can cause loss of power, stalling, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Loss of power",
+        "stalling",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11453557"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Diesel Particulate Filter (DPF) Failure",
+      "impact": "The failure of the DPF can cause engine stalling, loss of power, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11387444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 9,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause engine stalling, loss of power, and potential accidents, especially if the failure occurs while driving at high speeds.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "check engine warning light illumination."
+      ],
+      "odiNumbers": [
+        "11325197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause the vehicle to stall, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the power train failure message is displayed",
+        "the vehicle is unable to restart",
+        "the fuel pump fails",
+        "the entire fuel system needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11554950",
+        "11497093",
+        "11428809",
+        "11151823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair for Fuel System",
+      "impact": "The delayed availability of parts for the recall repair can leave vehicles with faulty fuel systems on the road, increasing the risk of accidents or stalling.",
+      "symptoms": [
+        "The vehicle has been notified of a recall",
+        "but the parts are not yet available",
+        "the manufacturer has exceeded a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11479665",
+        "11463483",
+        "11456319",
+        "11448587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High-Pressure Fuel Pump (HPFP) Failure",
+      "impact": "The failure of the HPFP can cause the vehicle to suddenly stall or lose power, leading to a loss of control, accidents, or injuries, especially when driving at high speeds.",
+      "symptoms": [
+        "Sudden engine stall or loss of power",
+        "inability to restart the engine",
+        "warning lights on the dashboard",
+        "metal debris found in the fuel tank",
+        "poor engine performance",
+        "and fuel system contamination."
+      ],
+      "odiNumbers": [
+        "11547724",
+        "11514705",
+        "11491389",
+        "11453556",
+        "11448546",
+        "11151076",
+        "11133080",
+        "11019802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driveshaft Failure",
+      "impact": "The failure of the driveshaft can cause loss of vehicle control, leading to accidents, and potentially resulting in fatalities.",
+      "symptoms": [
+        "Loud noise under the car",
+        "difficulty steering",
+        "oil leaking from the oil pan",
+        "driveshaft detachment from the vehicle."
+      ],
+      "odiNumbers": [
+        "11519153",
+        "11416584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause sudden loss of power, stalling, and inability to shift gears, leading to accidents and potentially resulting in fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "stalling",
+        "transmission slipping",
+        "inability to shift gears",
+        "error messages on the control center."
+      ],
+      "odiNumbers": [
+        "11109988",
+        "11048256",
+        "10930000",
+        "10788493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Transmission Interlock Failure",
+      "impact": "The failure of the electronic transmission interlock can cause the vehicle to become stuck in park or neutral, making it difficult or impossible to move the vehicle, leading to accidents and potentially resulting in fatalities.",
+      "symptoms": [
+        "Vehicle stuck in park or neutral",
+        "inability to shift gears",
+        "error messages on the control center",
+        "no manual override or documented procedure to override the interlock."
+      ],
+      "odiNumbers": [
+        "11109988",
+        "10930000",
+        "10788493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "The failure of the EGR valve can cause power loss, leading to accidents and potentially resulting in fatalities.",
+      "symptoms": [
+        "Power loss",
+        "error messages on the control center."
+      ],
+      "odiNumbers": [
+        "11443596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

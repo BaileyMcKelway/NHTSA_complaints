@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake pedal",
+        "brake pedal goes to the floorboard",
+        "inability to stop the vehicle",
+        "cracked brake shoes",
+        "ABS warning light appears and stays on continuously",
+        "hydraulic brakes only stop the vehicle",
+        "intermittent brake failure."
+      ],
+      "odiNumbers": [
+        "705913",
+        "827503",
+        "531134",
+        "809126",
+        "514246",
+        "972194",
+        "968565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the vehicle to lose traction, leading to accidents or loss of control.",
+      "symptoms": [
+        "ABS warning light appears and stays on continuously",
+        "only hydraulic brakes stop the vehicle",
+        "ABS is inoperative."
+      ],
+      "odiNumbers": [
+        "809126",
+        "531134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brake system to fail, leading to accidents or loss of control.",
+      "symptoms": [
+        "Sudden loss of brake pedal",
+        "brake pedal goes to the floorboard",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "968565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parking Brake Lever Assembly Failure",
+      "impact": "The failure of the parking brake lever assembly can cause the vehicle to roll when on an incline, even when the parking brake is applied, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The parking brake lever releases on its own",
+        "the parking brake does not engage when applied",
+        "the parking brake slips and does not hold the vehicle",
+        "the vehicle rolls when on an incline even with the parking brake applied."
+      ],
+      "odiNumbers": [
+        "10051691",
+        "854059",
+        "813985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Ignition Wire Failure",
+      "impact": "The failure of engine ignition wires can cause engine misfires, poor engine performance, and decreased fuel efficiency, which can lead to reduced vehicle safety and increased emissions.",
+      "symptoms": [
+        "Engine misfires",
+        "poor engine performance",
+        "decreased fuel efficiency",
+        "engine stalling",
+        "difficulty starting the engine",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "539079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause a range of issues, including engine stalling, poor engine performance, and decreased fuel efficiency, which can lead to reduced vehicle safety and increased emissions.",
+      "symptoms": [
+        "Engine stalling",
+        "poor engine performance",
+        "decreased fuel efficiency",
+        "difficulty starting the engine",
+        "check engine light illumination",
+        "erratic engine behavior."
+      ],
+      "odiNumbers": [
+        "534773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

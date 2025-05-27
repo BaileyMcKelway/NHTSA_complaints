@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CVT Transmission Failure",
+      "impact": "The failure of the Continuously Variable Transmission (CVT) can cause the vehicle to become immobile, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "The vehicle will not move",
+        "the transmission fails to engage",
+        "the transmission slips or hesitates",
+        "the vehicle rolls back or moves unexpectedly."
+      ],
+      "odiNumbers": [
+        "10914931",
+        "10505034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Recall Repairs",
+      "impact": "The delay or unavailability of recall repairs can leave vehicles on the road with known safety issues, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Dealerships inform customers that parts are not available",
+        "dealerships do not provide an estimated date for part availability",
+        "customers are forced to wait for extended periods for repairs."
+      ],
+      "odiNumbers": [
+        "10645018",
+        "10536628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Slipping or Unexpected Movement",
+      "impact": "The transmission slipping or unexpected movement can cause loss of control, accidents, and damage to the vehicle.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle moves unexpectedly",
+        "the vehicle rolls back or moves in an unintended direction."
+      ],
+      "odiNumbers": [
+        "10505034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can prevent the airbags from deploying in the event of a crash, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The airbag light is always on",
+        "the airbags are disabled",
+        "the airbags only partially deploy",
+        "the airbags leak a chemical substance."
+      ],
+      "odiNumbers": [
+        "11390110",
+        "11205500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Incomplete Airbag Deployment",
+      "impact": "The incomplete deployment of airbags can lead to inadequate protection for occupants in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags only partially deploy",
+        "airbags leak a chemical substance",
+        "occupants experience injuries despite airbag deployment."
+      ],
+      "odiNumbers": [
+        "11205500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty AC Fan Motor",
+      "impact": "The faulty AC fan motor can cause the fuse to trip repeatedly, leading to a loss of air conditioning and potentially overheating the vehicle's electrical system.",
+      "symptoms": [
+        "The AC fan motor trips the fuse",
+        "the fan stops working",
+        "the fan only works for a short period (around 5 seconds) before the fuse blows",
+        "the vehicle's air conditioning system is inoperable."
+      ],
+      "odiNumbers": [
+        "11115606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure to Adjust Tire Pressure and Reset TPMS",
+      "impact": "The failure to adjust tire pressure and reset the Tire Pressure Monitoring System (TPMS) can lead to underinflated or overinflated tires, increasing the risk of tire blowouts, accidents, and loss of vehicle control.",
+      "symptoms": [
+        "Incorrect tire pressure",
+        "TPMS malfunction",
+        "incorrect pressure readings",
+        "failure to detect underinflated or overinflated tires",
+        "inability to reset TPMS."
+      ],
+      "odiNumbers": [
+        "10606699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

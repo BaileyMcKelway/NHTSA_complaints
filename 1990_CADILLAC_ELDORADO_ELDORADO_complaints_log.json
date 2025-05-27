@@ -1,0 +1,202 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to total loss, and can also pose a risk to the driver's safety.",
+      "symptoms": [
+        "Sudden fire in the engine compartment",
+        "melted air filter box and assembly",
+        "melted windshield washer bottle",
+        "damaged wiring harness",
+        "smoke filling the interior of the car."
+      ],
+      "odiNumbers": [
+        "10063878",
+        "765548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "Intermittent stalling can cause the vehicle to lose power suddenly, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalls without warning",
+        "vehicle stalls intermittently",
+        "dealer unable to determine cause."
+      ],
+      "odiNumbers": [
+        "891389",
+        "874984",
+        "970698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failures",
+      "impact": "Electrical system failures can cause a range of problems, from minor inconvenience to safety risks, and can also lead to costly repairs.",
+      "symptoms": [
+        "Headlights and dashboard indication lights cut off",
+        "vehicle unable to start",
+        "instrument panel shorts out",
+        "failure of all gauges",
+        "ignition key failure."
+      ],
+      "odiNumbers": [
+        "891391",
+        "506165",
+        "726235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag to Deploy in Crash",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injury or even death, as the driver and passengers are not provided with the necessary protection.",
+      "symptoms": [
+        "The airbag does not deploy in a collision",
+        "despite meeting the necessary criteria for deployment."
+      ],
+      "odiNumbers": [
+        "826973",
+        "801691",
+        "503720",
+        "980003"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Improper Airbag Deployment",
+      "impact": "Improper airbag deployment can cause serious injury or death, as the airbag may not provide the necessary protection or may even cause harm to the driver or passengers.",
+      "symptoms": [
+        "The airbag deploys in a collision",
+        "but does so in a manner that is not intended",
+        "such as deploying too aggressively or at the wrong time."
+      ],
+      "odiNumbers": [
+        "959669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Brake System Failure",
+      "impact": "The failure of the hydraulic brake system can lead to extended stopping distances, increased risk of accidents, and loss of control, potentially resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the ABS and hydraulic lights appear on the dashboard",
+        "the vehicle takes longer to stop",
+        "the brake pedal feels hard",
+        "the brake system fails intermittently",
+        "the brake system fails completely."
+      ],
+      "odiNumbers": [
+        "891394",
+        "983479",
+        "983483",
+        "503720",
+        "975508"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can lead to loss of control, increased stopping distances, and increased risk of accidents, potentially resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "The ABS light appears on the dashboard",
+        "the brake pedal feels hard",
+        "the brake system fails intermittently",
+        "the brake system fails completely",
+        "the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "975508"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of power, loss of control, and increased risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle loses power",
+        "the vehicle is unable to accelerate",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "10017854"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Failure of the cooling system can cause engine overheating, leading to engine damage, loss of power, and increased risk of accidents.",
+      "symptoms": [
+        "The radiator hoses are damaged or leaking",
+        "the coolant level is low",
+        "the engine temperature gauge is in the red zone",
+        "the engine is overheating."
+      ],
+      "odiNumbers": [
+        "503720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Oil Leaks",
+      "impact": "Engine oil leaks can cause engine damage, loss of power, and increased risk of accidents due to reduced lubrication.",
+      "symptoms": [
+        "The oil pan gasket is leaking",
+        "oil is dripping from the engine",
+        "the oil level is low",
+        "the engine is making unusual noises."
+      ],
+      "odiNumbers": [
+        "503720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Accessory Belt Failure",
+      "impact": "Failure of the accessory belts can cause engine damage, loss of power, and increased risk of accidents due to reduced engine performance.",
+      "symptoms": [
+        "The belts are cracked or damaged",
+        "the belts are making unusual noises",
+        "the engine is overheating",
+        "the power steering or alternator is not functioning."
+      ],
+      "odiNumbers": [
+        "503720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

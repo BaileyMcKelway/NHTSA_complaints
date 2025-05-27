@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "The malfunction of the fuel system can cause the engine to stall or die, leading to a loss of power and potentially causing accidents or fires.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "the vehicle is unable to restart",
+        "the engine runs rich",
+        "and the catalytic converter fails prematurely."
+      ],
+      "odiNumbers": [
+        "717192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure Leading to Vehicle Fire",
+      "impact": "The failure of the engine can cause a vehicle fire, which can spread quickly and result in a total loss of the vehicle.",
+      "symptoms": [
+        "The engine fails",
+        "resulting in a vehicle fire under the hood",
+        "which quickly spreads to the rest of the vehicle."
+      ],
+      "odiNumbers": [
+        "549322"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The temporary loss of power steering can cause increased steering effort, making it difficult to turn, especially during cold starts, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Increased steering effort",
+        "temporary lack of power steering",
+        "difficulty making right turns",
+        "sticking or binding while turning",
+        "power steering fluid not reaching the bearing",
+        "strong fuel odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "981284",
+        "973321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Heating Performance",
+      "impact": "The failure of the heating system to provide adequate warmth can cause discomfort and distraction for the driver and passengers, potentially leading to accidents or hypothermia in extreme cases.",
+      "symptoms": [
+        "The heater blows cold air",
+        "the heater takes a long time to warm up",
+        "the heater only works intermittently",
+        "the heater does not produce enough heat",
+        "the vehicle's temperature gauge is stuck on cold."
+      ],
+      "odiNumbers": [
+        "481272"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

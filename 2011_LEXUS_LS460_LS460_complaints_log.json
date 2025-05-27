@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Actuator Failure",
+      "impact": "The failure of the brake actuator can cause a sudden loss of brake pressure, leading to a loss of vehicle control, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "Loss of brake pressure",
+        "loud bell or alarm ringing",
+        "all dash lights illuminated",
+        "inability to stop the vehicle",
+        "Brake Actuator malfunction warning."
+      ],
+      "odiNumbers": [
+        "11496019",
+        "11495580",
+        "11486409"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Actuator Brake Booster Pump & Bracket Failure",
+      "impact": "The malfunction of the ABS brake actuator brake booster pump and bracket can cause the vehicle to not stop correctly, leading to a high risk of accidents and injuries.",
+      "symptoms": [
+        "Beeping noise",
+        "hard to press down the brakes",
+        "triangular lights on",
+        "ABS light on."
+      ],
+      "odiNumbers": [
+        "11484362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause a loud noise, distractions, and potential injuries to the driver and passengers, increasing the risk of accidents.",
+      "symptoms": [
+        "Loud popping noise",
+        "glass shattering",
+        "visor to the sunroof was closed",
+        "glass flying off into traffic behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11256235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blower Motor Failure",
+      "impact": "The failure of the blower motor can cause loud noises, reduced airflow, and potentially lead to overheating or electrical issues, affecting the overall comfort and safety of the vehicle's occupants.",
+      "symptoms": [
+        "Loud noise from the blower motor",
+        "reduced airflow",
+        "peeling or damage to interior components near the doorways."
+      ],
+      "odiNumbers": [
+        "11175102"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Keyless Ignition System Interference",
+      "impact": "The interference with the keyless ignition system can cause the vehicle to fail to start, potentially leaving the driver stranded, and may pose a safety risk in emergency situations.",
+      "symptoms": [
+        "Vehicle fails to start",
+        "keyless ignition system malfunctions",
+        "presence of a second key fob within six feet of the vehicle prevents ignition operation."
+      ],
+      "odiNumbers": [
+        "10440199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

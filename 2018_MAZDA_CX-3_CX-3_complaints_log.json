@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "BACK OVER PREVENTION",
+    "SUSPENSION",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blind Spot Detection System Failure",
+      "impact": "The failure of the blind spot detection system can increase the risk of accidents or collisions, as the driver may not be aware of vehicles in their blind spot.",
+      "symptoms": [
+        "The blind spot detection warning indicator does not function",
+        "the system fails to alert the driver of vehicles in their blind spot."
+      ],
+      "odiNumbers": [
+        "11397728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle System Failure",
+      "impact": "The failure of the electronic throttle system can cause sudden unintended acceleration, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The throttle opens wide unexpectedly",
+        "the vehicle accelerates suddenly",
+        "the brakes may not respond properly",
+        "the vehicle may skid or jump curbs."
+      ],
+      "odiNumbers": [
+        "11124027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlamp Condensation Issue",
+      "impact": "The condensation inside the headlamp can impair visibility, especially at night, which can increase the risk of accidents. Additionally, the issue can prevent the vehicle from passing state inspections, leaving the owner without a valid inspection sticker.",
+      "symptoms": [
+        "Water or fog accumulation inside the headlamp",
+        "reduced headlamp brightness",
+        "impaired nighttime visibility",
+        "failure to pass state inspection due to headlamp issue."
+      ],
+      "odiNumbers": [
+        "11577723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Back Over Prevention (NHTSA Campaign Number: 23V487000)",
+      "impact": "The delay in receiving the necessary parts for the recall repair can leave the vehicle without a critical safety feature, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11534626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unusual Brake Noise and Engine Sound",
+      "impact": "The unusual brake noise and engine sound can be a sign of worn or faulty brake components, which can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Abnormal scraping sound from the brakes",
+        "unusual sound coming from the engine",
+        "vehicle moving from left to right while driving."
+      ],
+      "odiNumbers": [
+        "11504763"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Automatic Emergency Braking (AEB) Activation",
+      "impact": "The unintended activation of the automatic emergency braking (AEB) system can cause the vehicle to suddenly stop without warning, potentially leading to rear-end collisions, accidents, or injuries to occupants and other road users.",
+      "symptoms": [
+        "The vehicle suddenly stops without warning",
+        "the BRAKE! warning appears on the heads-up display",
+        "an unfamiliar alarm sounds",
+        "the vehicle stops in the middle of the road",
+        "no obstacles or vehicles are present in front of or around the vehicle."
+      ],
+      "odiNumbers": [
+        "11444015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause the vehicle to blow hot air, making it uncomfortable and potentially dangerous for occupants, especially in extreme temperatures.",
+      "symptoms": [
+        "The air conditioning blows hot air",
+        "even when set to the lowest temperature possible",
+        "the inside temperature rises above 90 degrees Fahrenheit",
+        "the air conditioning does not get outside air."
+      ],
+      "odiNumbers": [
+        "11493305",
+        "11153018",
+        "11130653"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "12-Volt Battery Failure",
+      "impact": "The failure of the 12-volt battery can cause the trunk to become inaccessible, child locks to engage, and the horn to malfunction, creating a safety hazard.",
+      "symptoms": [
+        "The trunk cannot be opened from the inside or outside",
+        "child locks engage and prevent door opening",
+        "the horn is disabled",
+        "the battery shorts or fails."
+      ],
+      "odiNumbers": [
+        "11452024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Navigation Screen Defect",
+      "impact": "The defect in the UV protection on the navigation screen can cause it to deteriorate, making it difficult to read and potentially causing a distraction while driving.",
+      "symptoms": [
+        "The UV protection on the navigation screen is peeling off",
+        "appears scratched",
+        "or damaged."
+      ],
+      "odiNumbers": [
+        "11342062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "AWD System Malfunction",
+      "impact": "The malfunction of the AWD system can cause the vehicle to lose traction, making it difficult to control, especially in bad weather conditions.",
+      "symptoms": [
+        "The yellow warning light appears indicating \"AWD system malfunction 2WD engaged",
+        "\" the vehicle surges or hydroplanes",
+        "the turbo gate does not close electronically."
+      ],
+      "odiNumbers": [
+        "11240569",
+        "10969493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Airbags did not deploy during a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11297052",
+        "11144629",
+        "11114132",
+        "10950193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Brakes failed to function properly",
+        "resulting in accidents or near-misses."
+      ],
+      "odiNumbers": [
+        "11019028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Recall",
+      "impact": "Failure to repair or replace faulty airbag sensors can lead to airbag malfunction or failure to deploy.",
+      "symptoms": [
+        "No symptoms reported",
+        "but the recall was issued due to a faulty airbag sensor."
+      ],
+      "odiNumbers": [
+        "11113820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Repair and Recall Issues",
+      "impact": "Failure to properly repair or address recall issues can lead to ongoing safety concerns.",
+      "symptoms": [
+        "Vehicle owners experienced difficulties in getting their vehicles repaired or addressed due to recall issues."
+      ],
+      "odiNumbers": [
+        "11318237",
+        "11113820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure (Sudden Loss of Gear)",
+      "impact": "The sudden loss of gear can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle suddenly throws into neutral",
+        "RPMs surge to high levels",
+        "loss of acceleration",
+        "inability to shift into gear",
+        "stalling of the vehicle."
+      ],
+      "odiNumbers": [
+        "11583000"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Main Seal Failure (Transmission Oil Leak)",
+      "impact": "The failure of the rear main seal can cause a transmission oil leak, leading to engine seizure, stalling, and potentially causing accidents, especially on high-speed roads.",
+      "symptoms": [
+        "Transmission oil leak",
+        "no warning lamps or messages",
+        "sudden failure without warning."
+      ],
+      "odiNumbers": [
+        "11548062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Stuttering (Loss of Power)",
+      "impact": "The transmission stuttering can cause the vehicle to lose power, leading to accidents or leaving the driver stranded, especially when taking off from a standstill.",
+      "symptoms": [
+        "Vehicle stutters when accelerating",
+        "loss of power",
+        "safety issues when taking off."
+      ],
+      "odiNumbers": [
+        "11390566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High Pressure Fuel Sensor Signal Failure",
+      "impact": "The failure of the high pressure fuel sensor signal can cause the engine to stall, resulting in a loss of power and potentially leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Engine stalls",
+        "lack of power",
+        "vehicle goes into limp mode."
+      ],
+      "odiNumbers": [
+        "11464421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Recall Repair Delay",
+      "impact": "The delay in repairing the fuel system recall can lead to continued exposure to potential safety risks, including engine stalling and loss of power, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Unknown failure related to the recall",
+        "vehicle not repaired despite notification of recall."
+      ],
+      "odiNumbers": [
+        "11318494",
+        "11318247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

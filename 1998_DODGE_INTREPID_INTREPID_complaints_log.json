@@ -1,0 +1,319 @@
+{
+  "totalComplaints": 384,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Sludge Build-up",
+      "impact": "Engine failure can cause the vehicle to stall or shut down, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine knocking or loud noise",
+        "oil light flickering",
+        "engine stalling",
+        "smoke or steam coming from the engine",
+        "engine failure without warning."
+      ],
+      "odiNumbers": [
+        "10423863",
+        "10245291",
+        "10244673",
+        "10229202",
+        "10227392",
+        "10211796",
+        "10211200",
+        "10211250",
+        "10207668",
+        "10205256",
+        "10203903",
+        "10198409",
+        "10177415",
+        "10166191",
+        "10163983",
+        "10163125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "Timing chain failure can cause the engine to stall or shut down, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine knocking or loud noise",
+        "engine stalling",
+        "timing chain breaking",
+        "valves bending",
+        "engine failure without warning."
+      ],
+      "odiNumbers": [
+        "10227392",
+        "10211796",
+        "10211200",
+        "10203903",
+        "10177415",
+        "10166191",
+        "10163983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil System Failure",
+      "impact": "Oil system failure can cause the engine to overheat, leading to engine failure and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Oil light flickering",
+        "oil levels dropping",
+        "engine overheating",
+        "engine failure without warning."
+      ],
+      "odiNumbers": [
+        "10235544",
+        "10229202",
+        "10207668",
+        "10177157",
+        "10175506",
+        "10168837",
+        "10167841",
+        "10163125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Block Defect",
+      "impact": "Engine block defect can cause the engine to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine knocking or loud noise",
+        "engine stalling",
+        "engine failure without warning",
+        "oil return holes clogged."
+      ],
+      "odiNumbers": [
+        "10203903",
+        "10177415",
+        "10163983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to Corrosion",
+      "impact": "Brake failure can lead to accidents, injuries, and fatalities, especially if the driver is unable to stop the vehicle in time.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake pedal feels soft or spongy",
+        "brake warning light illuminates",
+        "brake fluid leaks",
+        "vibration in the front end",
+        "warped brake rotors",
+        "and pulsating brakes."
+      ],
+      "odiNumbers": [
+        "10165396",
+        "10160224",
+        "10031760",
+        "10011297",
+        "8021396",
+        "762197",
+        "564886",
+        "8005593",
+        "757919",
+        "8001126",
+        "750693",
+        "746159",
+        "884415",
+        "731097",
+        "724878",
+        "722718",
+        "721910",
+        "859141",
+        "855219",
+        "715381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "Brake booster failure can cause loss of brakes, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake pedal feels soft or spongy",
+        "brake warning light illuminates",
+        "brake fluid leaks",
+        "vibration in the front end",
+        "and pulsating brakes."
+      ],
+      "odiNumbers": [
+        "10067861",
+        "10055029",
+        "8005593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Warped Brake Rotors",
+      "impact": "Warped brake rotors can cause vibration in the front end, pulsating brakes, and extended stopping distance, increasing the risk of accidents.",
+      "symptoms": [
+        "Vibration in the front end",
+        "pulsating brakes",
+        "and warped brake rotors."
+      ],
+      "odiNumbers": [
+        "10160224",
+        "10031760",
+        "8021396",
+        "762197",
+        "564886",
+        "8001126",
+        "750693",
+        "746159",
+        "884415",
+        "722718",
+        "721910",
+        "859141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Line Failure",
+      "impact": "Brake line failure can cause brake fluid leaks, leading to brake failure and accidents.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "brake pedal goes to the floor",
+        "and brake warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10165396",
+        "10160224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "ABS sensor failure can cause the brake warning light to illuminate, leading to brake failure and accidents.",
+      "symptoms": [
+        "Brake warning light illuminates",
+        "and ABS sensor failure."
+      ],
+      "odiNumbers": [
+        "10453793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, making it hard to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "No power steering",
+        "steering wheel feels hard to turn",
+        "steering wheel locks up",
+        "unusual noises from the steering system",
+        "loss of power steering assist."
+      ],
+      "odiNumbers": [
+        "10255485",
+        "10186349",
+        "10032955",
+        "881689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering system can cause the steering wheel to become difficult to turn, making it hard to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Steering wheel feels loose or has excessive play",
+        "steering wheel locks up",
+        "unusual noises from the steering system",
+        "difficulty turning the steering wheel",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "10251146",
+        "10238689",
+        "10142747",
+        "10108959",
+        "10067185",
+        "10021343",
+        "10005578",
+        "763359",
+        "8007323",
+        "879090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Gear Mounting Bushing Failure",
+      "impact": "The failure of the steering gear mounting bushing can cause the steering system to become loose, making it hard to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Unusual noises from the steering system",
+        "steering wheel feels loose or has excessive play",
+        "difficulty turning the steering wheel",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "565780",
+        "8003083",
+        "892445",
+        "890972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Tie Rod Failure",
+      "impact": "The failure of the front tie rod can cause the steering system to become loose, making it hard to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Unusual noises from the steering system",
+        "steering wheel feels loose or has excessive play",
+        "difficulty turning the steering wheel",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "885803"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Idler Pulley Failure",
+      "impact": "The failure of the idler pulley can cause the power steering system to fail, making it hard to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Unusual noises from the steering system",
+        "loss of power steering assist",
+        "difficulty turning the steering wheel",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "881689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure due to Hydraulic Control Unit (HCU) Failure",
+      "impact": "The intermittent failure of the brake system can cause the vehicle to lose braking power, leading to increased stopping distances, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal travels to the floor",
+        "the vehicle takes longer to stop",
+        "the ABS light and brake warning lights illuminate",
+        "the vehicle may pulsate or vibrate when braking",
+        "and the brake system may malfunction intermittently."
+      ],
+      "odiNumbers": [
+        "11034106",
+        "10891719",
+        "10672925",
+        "10660840",
+        "10632895",
+        "10485299",
+        "10464203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Cooling System Failure",
+      "impact": "The failure of the hybrid cooling system can cause the engine to shut off without warning while the vehicle is in motion, leading to a loss of power and control, which can increase the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The \"Stop Safely Now\" message appears on the display",
+        "the engine shuts off without warning",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the red triangle warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10507344",
+        "10464204",
+        "10449239",
+        "10441677",
+        "10342552",
+        "10329183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Propulsion System Failure",
+      "impact": "The failure of the hybrid propulsion system can cause the engine to stall or shut down while driving, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine quits or stalls while driving",
+        "the \"Stop Safely\" light illuminates",
+        "the vehicle loses power and can only operate on electric power",
+        "the temperature light comes on",
+        "the service engine wrench light comes on frequently."
+      ],
+      "odiNumbers": [
+        "10507028",
+        "10393184",
+        "10682197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alarm System Malfunction",
+      "impact": "The malfunction of the alarm system can cause unnecessary stress and distraction for the driver, potentially leading to accidents or other safety issues.",
+      "symptoms": [
+        "The alarm system sounds independently",
+        "without any apparent reason or trigger."
+      ],
+      "odiNumbers": [
+        "10882656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

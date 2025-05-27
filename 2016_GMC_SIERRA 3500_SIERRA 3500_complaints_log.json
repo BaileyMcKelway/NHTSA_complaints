@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "FUEL/PROPULSION SYSTEM",
+    "SUSPENSION",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure (Steering Box, Power Steering, Hydroboost System)",
+      "impact": "The failure of the steering system can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Excessive play in the steering wheel (2-4 inches)",
+        "loud pop or metal failure sound",
+        "steering wheel turns to the right when brakes are applied",
+        "power steering assist appears to turn off and on",
+        "steering wheel feels loose or dead",
+        "vehicle wanders or shakes uncontrollably",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "11416308",
+        "11387014",
+        "11191309",
+        "11113566",
+        "10948966",
+        "10850797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Non-Deployment and Deceptive Advertising",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injury or fatalities. Additionally, the deceptive advertising of safety features can lead to a false sense of security, potentially causing harm to drivers and passengers.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "airbag warning light is illuminated",
+        "abnormal sizzling sound",
+        "smoke detected."
+      ],
+      "odiNumbers": [
+        "11588953",
+        "10917189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Bosch CP4 Fuel Pump Failure",
+      "impact": "The failure of the Bosch CP4 fuel pump can cause the engine to shut down suddenly, leading to a loss of power steering and power brakes, which can increase the risk of accidents, especially when towing heavy loads.",
+      "symptoms": [
+        "The engine suddenly quits running",
+        "the vehicle will not restart",
+        "metal shavings are found in the fuel system",
+        "damage to the fuel injectors and other components."
+      ],
+      "odiNumbers": [
+        "11569266",
+        "11549427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Death Wobble and Transmission Failure",
+      "impact": "The death wobble and transmission failure can cause the vehicle to lose control, leading to accidents, and potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The vehicle experiences a severe shaking or wobbling",
+        "the transmission failure warning light illuminates",
+        "a message appears stating that the vehicle will shut off in a certain distance",
+        "the vehicle loses power or shuts off while driving."
+      ],
+      "odiNumbers": [
+        "11478795",
+        "11299215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unresolved Vehicle Shaking and Stability Issues",
+      "impact": "The unresolved vehicle shaking and stability issues can cause the vehicle to lose control, leading to accidents, and potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The vehicle shakes or wobbles while driving",
+        "the stability track warning indicator light is illuminated and flashing",
+        "the vehicle is unable to be diagnosed or repaired despite multiple attempts."
+      ],
+      "odiNumbers": [
+        "11478795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Booster Cylinder Failure",
+      "impact": "The failure of the brake booster cylinder can cause a soft or spongy brake pedal, making it difficult to stop the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has to be pushed almost all the way to the floor to stop",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "11440306",
+        "11360079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

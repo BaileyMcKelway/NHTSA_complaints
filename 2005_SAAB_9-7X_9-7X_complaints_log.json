@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Headlight Failure",
+      "impact": "The sudden loss of headlights while driving can significantly reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The headlights turn off without warning",
+        "the low beam headlights shut off while driving",
+        "the headlights blink out",
+        "the headlights do not reset or come back on",
+        "the fog lamps and high beams work fine."
+      ],
+      "odiNumbers": [
+        "10939031",
+        "10939042",
+        "10723839",
+        "10722099",
+        "10695366",
+        "10667221",
+        "10355395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Driver's Door Module)",
+      "impact": "The failure of the electrical system in the driver's door module can cause a fire hazard, leading to vehicle damage and potential harm to occupants.",
+      "symptoms": [
+        "Smoke or fire coming from the driver's door or dashboard",
+        "malfunctioning of power windows",
+        "door locks",
+        "side view mirrors",
+        "and heated seats."
+      ],
+      "odiNumbers": [
+        "11088922",
+        "10876194",
+        "10504477",
+        "10488997",
+        "10475343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headlight Failure",
+      "impact": "The sudden failure of headlights while driving can cause a safety hazard, especially at night, increasing the risk of accidents.",
+      "symptoms": [
+        "Headlights suddenly going out",
+        "inability to switch to regular on position or high beams",
+        "instrument panel gauge issues",
+        "and speedometer gauge issues."
+      ],
+      "odiNumbers": [
+        "10733342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the driver to run out of fuel, leading to stalling on the highway, which can be a dangerous situation, especially with passengers on board.",
+      "symptoms": [
+        "The fuel gauge does not accurately measure the fuel level",
+        "the fuel gauge displays the wrong reading",
+        "the fuel gauge fails to register gas in the tank",
+        "the fuel gauge does not turn off even after refueling",
+        "the vehicle stalls due to low fuel."
+      ],
+      "odiNumbers": [
+        "10430347",
+        "10430362",
+        "10427152",
+        "10426446",
+        "10398677",
+        "10166438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Leak/Strong Gasoline Odor",
+      "impact": "A fuel leak or strong gasoline odor can cause a fire hazard, potentially leading to serious accidents or injuries.",
+      "symptoms": [
+        "Strong odor of gasoline present in the vehicle",
+        "especially when driving uphill."
+      ],
+      "odiNumbers": [
+        "10166438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

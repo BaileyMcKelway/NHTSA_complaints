@@ -1,0 +1,139 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or go into limp mode, which can lead to accidents, strand the driver, or cause significant inconvenience.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the transmission fails to engage or disengage",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the vehicle goes into limp mode",
+        "unusual noises or vibrations from the transmission."
+      ],
+      "odiNumbers": [
+        "10267668",
+        "749580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can result in serious injuries or fatalities to the occupants.",
+      "symptoms": [
+        "Airbag did not deploy in a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "8021850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of an airbag can cause injuries to the occupants, distract the driver, and potentially lead to accidents.",
+      "symptoms": [
+        "Airbag deployed suddenly without a crash",
+        "explosive deployment sprayed hard plastic shards throughout the passenger compartment",
+        "no apparent damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "764683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective Side Impact Sensor",
+      "impact": "A defective side impact sensor can cause the airbag to deploy unnecessarily or fail to deploy in a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "Airbag deployed due to a small projectile striking the bottom of the vehicle",
+        "sensor interpreted an upward motion as a side-to-side motion",
+        "sensor is susceptible to damage due to its design and location."
+      ],
+      "odiNumbers": [
+        "764683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Loose Lower Ball Joints",
+      "impact": "Loose lower ball joints can cause the vehicle's front suspension to fail, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's front suspension may feel unstable or loose",
+        "the vehicle may pull to one side while driving",
+        "the vehicle may vibrate or shake while driving",
+        "the ball joints may make noise or produce excessive play."
+      ],
+      "odiNumbers": [
+        "10192520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Malfunction",
+      "impact": "The failure of the windshield wipers to operate properly can cause reduced visibility, especially in adverse weather conditions, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Windshield wipers fail to operate",
+        "wipers work less than 50% of the time",
+        "wipers stop operating for no apparent reason",
+        "wipers malfunction in snowy or rainy conditions",
+        "leaving the driver visually impaired."
+      ],
+      "odiNumbers": [
+        "10112107"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The failure of the cruise control system can cause the vehicle to accelerate unexpectedly on downhills, potentially leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The vehicle speeds up on downhills",
+        "the cruise control fails to maintain a set speed",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "761533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Odometer Display Failure",
+      "impact": "The inability to read the odometer display can make it difficult for drivers to track their vehicle's mileage, potentially leading to missed maintenance intervals, which can affect vehicle performance and safety.",
+      "symptoms": [
+        "The odometer display is invisible or difficult to read",
+        "especially during sunlit days."
+      ],
+      "odiNumbers": [
+        "761533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

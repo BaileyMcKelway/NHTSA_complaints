@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Throttle Response After Emissions Modification",
+      "impact": "The delayed throttle response after the emissions modification can cause the vehicle to be dangerous to drive in certain situations, leading to near misses and potential accidents.",
+      "symptoms": [
+        "Significant lag or delay in response to throttle input",
+        "especially when merging",
+        "turning at slow speeds",
+        "or rolling through yield signs",
+        "leading to a lack of response to throttle input and potential near misses."
+      ],
+      "odiNumbers": [
+        "11162255",
+        "11105297",
+        "11100161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Rear Light Sensor or Module",
+      "impact": "The faulty rear light sensor or module can cause incorrect error messages, leading to unnecessary repairs and potential safety concerns if the driver is unaware of the actual functionality of the rear lights.",
+      "symptoms": [
+        "Random error messages indicating rear lights are not working properly",
+        "despite normal function."
+      ],
+      "odiNumbers": [
+        "11579292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "A malfunctioning headlight can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlight not working properly",
+        "reduced light output",
+        "or erratic light behavior."
+      ],
+      "odiNumbers": [
+        "11572810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unauthorized Vehicle Disabling via Porsche Connect",
+      "impact": "The unauthorized disabling of the vehicle by Porsche Connect can leave the driver stranded, potentially in unsafe locations, and can cause inconvenience and financial losses.",
+      "symptoms": [
+        "The vehicle will not start",
+        "despite attempts to jump-start or repair; the vehicle is disabled without the owner's knowledge or consent."
+      ],
+      "odiNumbers": [
+        "11431928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Charging Port and Plug Lock Fault",
+      "impact": "The faulty charging port and plug lock can prevent the vehicle from charging, leading to reduced performance, decreased fuel efficiency, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The electric plug does not disconnect from the vehicle",
+        "error code P0D9400 is displayed",
+        "error description \"High-voltage charger - charging-plug lock fault\" (00A93D) is displayed."
+      ],
+      "odiNumbers": [
+        "11420884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

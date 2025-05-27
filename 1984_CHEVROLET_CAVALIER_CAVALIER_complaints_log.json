@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "SEATS",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause sudden loss of power, unexpected gear shifts, and difficulty controlling the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle often jolts when shifting gears",
+        "the transmission slips or hesitates",
+        "the transmission makes unusual noises",
+        "the vehicle loses power or acceleration."
+      ],
+      "odiNumbers": [
+        "967002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "Torque converter failure can cause transmission slippage, hesitation, and loss of power, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power or acceleration",
+        "the vehicle makes unusual noises."
+      ],
+      "odiNumbers": [
+        "967002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "CV Joint Failure",
+      "impact": "CV joint failure can cause vibration, noise, and loss of control, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle vibrates or shakes",
+        "the CV joint makes clicking or clunking noises",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "481475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Lap Belt Failure",
+      "impact": "The failure of the rear lap belt can lead to inadequate restraint of passengers, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The rear lap belt breaks at the buckle",
+        "fails to restrain passengers",
+        "or does not function properly during a crash."
+      ],
+      "odiNumbers": [
+        "842922"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver's Seat Belt Failure",
+      "impact": "The failure of the driver's seat belt can lead to inadequate restraint of the driver, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The driver's seat belt does not lock up",
+        "fails to restrain the driver",
+        "or does not function properly during a crash",
+        "resulting in the driver hitting the windshield or other interior components."
+      ],
+      "odiNumbers": [
+        "968639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Lock Failure (Recall 84V011)",
+      "impact": "The failure of the driver's seat lock can cause the seat to move unexpectedly while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The driver's seat lock does not engage properly",
+        "the seat moves while driving",
+        "the seat is stuck in a position",
+        "the seat adjustment mechanism is faulty."
+      ],
+      "odiNumbers": [
+        "783827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Head Gasket Failure",
+      "impact": "Premature head gasket failure can cause engine coolant and oil leaks, leading to engine damage, overheating, and potentially causing a loss of vehicle control or stalling, which can increase the risk of accidents.",
+      "symptoms": [
+        "Engine coolant and oil leaks",
+        "white smoke or sweet-smelling smoke from the exhaust",
+        "engine overheating",
+        "engine stalling or loss of power",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "825487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Corrosion and Leaks",
+      "impact": "Corrosion and leaks in the fuel lines can cause fuel to leak, which can lead to a fire, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel odor",
+        "corrosion on fuel lines",
+        "hissing sound near fuel lines",
+        "engine stalling or difficulty starting."
+      ],
+      "odiNumbers": [
+        "813460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Repair of Fuel Line Leaks",
+      "impact": "Inadequate repairs, such as using double clamps on corroded fuel lines, can fail to address the underlying issue, leaving the vehicle at risk of fuel leaks and fires.",
+      "symptoms": [
+        "Fuel leaks persist after repair",
+        "fuel odor",
+        "corrosion on fuel lines",
+        "hissing sound near fuel lines",
+        "engine stalling or difficulty starting."
+      ],
+      "odiNumbers": [
+        "813460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

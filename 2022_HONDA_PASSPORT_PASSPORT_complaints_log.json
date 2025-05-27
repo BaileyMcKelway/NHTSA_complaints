@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause sudden stops, which can lead to accidents, especially if there are vehicles following closely behind. This issue can also cause a loss of control, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly stops or slows down without warning",
+        "the warning system flashes on the dashboard",
+        "the brakes are applied without the driver's input",
+        "the vehicle may lurch or jerk forward."
+      ],
+      "odiNumbers": [
+        "11584667",
+        "11455940"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "Issues with the brake pedal can cause a loss of braking performance, which can lead to accidents or increase the stopping distance.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal depresses to the floor",
+        "the vehicle moves forward when the brake pedal is depressed",
+        "an abnormal squeaking sound emits from the brake pedal."
+      ],
+      "odiNumbers": [
+        "11522812",
+        "11496402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Brake Cylinder Failure",
+      "impact": "The failure of the master brake cylinder can cause a loss of braking performance, which can lead to accidents or increase the stopping distance.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal depresses to the floor",
+        "the vehicle moves forward when the brake pedal is depressed",
+        "the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "11496402",
+        "11522812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Automatic Emergency Braking (AEB) Activation",
+      "impact": "The false activation of the automatic emergency braking system can cause sudden and unexpected braking, leading to a higher risk of rear-end collisions, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle's automatic emergency braking system triggers unnecessarily",
+        "causing the brakes to engage",
+        "the \"BRAKE\" warning light to display on the dashboard",
+        "and a beeping warning alarm to sound. In some cases",
+        "the steering wheel may also \"jiggle\" to the left and right."
+      ],
+      "odiNumbers": [
+        "11583700",
+        "11581955",
+        "11494591",
+        "11454156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Radio/Electrical System Malfunction",
+      "impact": "The malfunctioning radio/electrical system can cause distractions while driving, leading to potential safety risks.",
+      "symptoms": [
+        "Crackling noises in the front speakers",
+        "complete failure of sound",
+        "daily stop and start in the sound system",
+        "blank moments",
+        "and complete sound loss."
+      ],
+      "odiNumbers": [
+        "11567056",
+        "11520893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The sudden stalling of the vehicle can cause accidents, especially when it occurs on a freeway or busy road.",
+      "symptoms": [
+        "The vehicle dies while driving",
+        "unable to start the vehicle or put it in neutral."
+      ],
+      "odiNumbers": [
+        "11556773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal/Hard Start Issue",
+      "impact": "The hard brake pedal and difficulty starting the vehicle can lead to accidents, especially in emergency braking situations.",
+      "symptoms": [
+        "The brake pedal is hard to press",
+        "the car doesn't start",
+        "requires multiple attempts to start the vehicle."
+      ],
+      "odiNumbers": [
+        "11531470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

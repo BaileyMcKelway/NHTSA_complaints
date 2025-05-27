@@ -1,0 +1,167 @@
+{
+  "totalComplaints": 56,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Rail Failure",
+      "impact": "The failure of the fuel rail can cause fuel leaks, which can lead to fires, accidents, or other safety hazards.",
+      "symptoms": [
+        "Strong fuel odor",
+        "fuel leaking from fuel lines",
+        "puddle of fuel on the ground",
+        "fuel mist spraying onto spark plugs",
+        "pinholes in the plastic fuel rail."
+      ],
+      "odiNumbers": [
+        "11118688",
+        "10420102",
+        "10276811",
+        "10178786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge/Tank Unit Failure",
+      "impact": "The failure of the fuel gauge/tank unit can cause inaccurate fuel level readings, leading to unexpected fuel exhaustion, engine stalling, or other safety issues.",
+      "symptoms": [
+        "Fuel gauge failure",
+        "gas gauge failure",
+        "sending unit failure",
+        "complete failure of the gas tank gauge."
+      ],
+      "odiNumbers": [
+        "606192",
+        "608767",
+        "609242",
+        "608685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating and Coolant Leaks",
+      "impact": "Engine overheating can cause damage to the engine, leading to costly repairs, and potentially causing accidents due to loss of power steering and brakes.",
+      "symptoms": [
+        "DIC message \"Low Coolant\"",
+        "engine overheating",
+        "coolant leaks",
+        "cracked head",
+        "stripped head bolt holes."
+      ],
+      "odiNumbers": [
+        "10075059",
+        "535935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Loss of Power",
+      "impact": "Engine stalling can cause loss of power steering and brakes, leading to accidents and injuries.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power steering",
+        "loss of brakes",
+        "violent deployment of airbags."
+      ],
+      "odiNumbers": [
+        "10014931",
+        "856666",
+        "550750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "Exhaust system failure can cause damage to the engine and potentially lead to accidents.",
+      "symptoms": [
+        "Exhaust system failure",
+        "backfiring",
+        "excessive oil consumption."
+      ],
+      "odiNumbers": [
+        "608521",
+        "539892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Poor Workmanship and Engine Component Failure",
+      "impact": "Poor workmanship and engine component failure can cause engine damage, leading to costly repairs and potentially causing accidents.",
+      "symptoms": [
+        "Engine gasket failure",
+        "water pump failure",
+        "cracked head",
+        "stripped head bolt holes."
+      ],
+      "odiNumbers": [
+        "535935",
+        "10075059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "The unintended activation of the brakes can cause the vehicle to suddenly stop or slow down, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The brakes engage without the driver pressing the brake pedal",
+        "sudden stopping or slowing down of the vehicle."
+      ],
+      "odiNumbers": [
+        "10020059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Suspension Issues (Loose and Unstable Vehicle)",
+      "impact": "The loose and unstable suspension can cause the vehicle to lose control, especially at high speeds, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle feels extremely loose",
+        "dives up and down",
+        "and is unstable at speeds between 50 and 70 mph",
+        "bouncing or swaying from side to side."
+      ],
+      "odiNumbers": [
+        "785715",
+        "852325",
+        "700726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Brake Traction Control Module (EBTCM) Failure",
+      "impact": "The failure of the EBTCM can cause unintended brake activation, loss of traction control, and potentially lead to accidents or loss of control.",
+      "symptoms": [
+        "Unintended brake activation",
+        "loss of traction control",
+        "and potentially other related issues."
+      ],
+      "odiNumbers": [
+        "10020059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

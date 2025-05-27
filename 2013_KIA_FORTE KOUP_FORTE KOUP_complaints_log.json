@@ -1,0 +1,248 @@
+{
+  "totalComplaints": 192,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Rod Bearing Failure",
+      "impact": "The failure of the engine rod bearings can cause the engine to seize, leading to a loss of motive power, stalling, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Loud ticking or knocking sound coming from the engine",
+        "engine stalling",
+        "loss of motive power",
+        "smoke coming from the engine compartment",
+        "oil light illumination."
+      ],
+      "odiNumbers": [
+        "11556137",
+        "11523742",
+        "11516037",
+        "11503662",
+        "11458383",
+        "11447733",
+        "11443220",
+        "11397481",
+        "11396326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure due to Oil Control Valve Failure",
+      "impact": "The failure of the oil control valve can cause the engine to seize, leading to a loss of motive power, stalling, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of motive power",
+        "oil light illumination",
+        "smoke coming from the engine compartment."
+      ],
+      "odiNumbers": [
+        "11491863",
+        "11451290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming from the engine compartment",
+        "flames visible under the hood."
+      ],
+      "odiNumbers": [
+        "11550633",
+        "11420163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "Delays or refusal to repair recalled vehicles can lead to continued operation of defective vehicles, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Dealership refusal to repair recalled vehicle",
+        "part unavailability",
+        "delays in repair."
+      ],
+      "odiNumbers": [
+        "11533035",
+        "11524615",
+        "11523742",
+        "11513599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Knocking or Ticking Noise",
+      "impact": "Engine knocking or ticking noise can be a sign of impending engine failure, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Loud ticking or knocking sound coming from the engine."
+      ],
+      "odiNumbers": [
+        "11546726",
+        "11514319",
+        "11458383",
+        "11397481",
+        "11396326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Sticking and Failure to Return",
+      "impact": "The sticking brake pedal can cause accidents or leave the driver stranded, as the vehicle may not respond to braking inputs.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop",
+        "the traction control light comes on."
+      ],
+      "odiNumbers": [
+        "11582549",
+        "11559560",
+        "10936581",
+        "10930120",
+        "10825862",
+        "10615195"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to stick to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Smoke detected from the passenger's side of the engine compartment",
+        "vehicle extremely hot",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "11576183",
+        "11557092",
+        "11311597",
+        "10946901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to stick to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop",
+        "brake lights remain on."
+      ],
+      "odiNumbers": [
+        "11559560",
+        "11311597",
+        "10930120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Delays",
+      "impact": "The delay in recall repairs can cause drivers to continue operating vehicles with known safety issues, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts not available",
+        "manufacturer exceeds reasonable time for recall repair",
+        "dealer confirms parts not available."
+      ],
+      "odiNumbers": [
+        "11590396",
+        "11576183",
+        "11576006",
+        "11563555",
+        "11559684",
+        "11557259",
+        "11556675",
+        "11555976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Fire Hazard",
+      "impact": "The electrical system failure can cause a fire, resulting in vehicle damage or destruction, and potentially putting the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "Smoke or fire from the dashboard",
+        "electrical wires",
+        "or engine compartment; burning odor; melted or charred components; failure of electrical systems",
+        "such as lights",
+        "gauges",
+        "or accessories."
+      ],
+      "odiNumbers": [
+        "11406929",
+        "11398954",
+        "11121043",
+        "11071588",
+        "11040182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Light Assembly Failure",
+      "impact": "The failure of the rear light assembly can cause a safety hazard, as it may lead to accidents or traffic stops due to non-functional brake lights or turn signals.",
+      "symptoms": [
+        "Frequent replacement of rear light bulbs; melted or damaged light sockets; failure of brake lights or turn signals; hot or burning smell from the rear light assembly."
+      ],
+      "odiNumbers": [
+        "11421549",
+        "11482895",
+        "11375927",
+        "11230659",
+        "11176076",
+        "11071588",
+        "11040182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Clutch Issues",
+      "impact": "The failure of the transmission or clutch system can cause the vehicle to stall or become difficult to shift, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Difficulty shifting gears; clutch pedal feels soft or spongy; clutch pedal sticks to the floor; vehicle stalls or hesitates to move; unusual noises or vibrations from the transmission or clutch."
+      ],
+      "odiNumbers": [
+        "11589432",
+        "10475215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

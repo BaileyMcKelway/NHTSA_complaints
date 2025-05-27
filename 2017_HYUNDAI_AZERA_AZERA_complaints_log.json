@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause the steering wheel to lock or stick, making it difficult to control the vehicle, especially at high speeds, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel feels stuck or locked",
+        "the vehicle does not respond to minor adjustments",
+        "the steering requires force to adjust",
+        "the vehicle jerks or lurches when the steering finally responds",
+        "the steering wheel feels like it's locked in place."
+      ],
+      "odiNumbers": [
+        "11423190",
+        "11403869",
+        "11364099",
+        "11301774",
+        "11288053"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Light Illumination",
+      "impact": "The intermittent illumination of the airbag light can be a sign of a faulty airbag system, which can lead to failure of the airbag to deploy in the event of an accident, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The airbag light comes on intermittently while driving."
+      ],
+      "odiNumbers": [
+        "11364099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trunk Latch Actuator or Solenoid Failure",
+      "impact": "The failure of the trunk latch actuator or solenoid can cause the trunk to become stuck, making it impossible to access the trunk's contents, which can be a safety risk in emergency situations.",
+      "symptoms": [
+        "The trunk cannot be opened with the smart key",
+        "button on the driver's side",
+        "or key on the trunk panel",
+        "or manual trunk button."
+      ],
+      "odiNumbers": [
+        "11233677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The spontaneous shattering of the sunroof can cause a loud noise, debris to be expelled onto the road, and a potential risk of injury to the driver and passengers.",
+      "symptoms": [
+        "The sunroof suddenly explodes from the inside out",
+        "followed by shattering and glass debris being expelled from the vehicle",
+        "and a loud \"pop\" or gunshot-like sound."
+      ],
+      "odiNumbers": [
+        "11132861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The electrical system malfunction can cause a range of issues, including battery drain, short circuits, and failure of various systems, which can lead to accidents, loss of vehicle control, and safety risks.",
+      "symptoms": [
+        "Unexplained battery drain",
+        "short circuits",
+        "screeching sounds",
+        "malfunctioning auto start",
+        "faulty lights",
+        "loss of accelerator power",
+        "and warning lights and alerts."
+      ],
+      "odiNumbers": [
+        "11203797",
+        "11013691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Advanced Safety Features Failure",
+      "impact": "The failure of advanced safety features, such as the front-end collision warning and electronic power brake systems, can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "False or failed warnings",
+        "malfunctioning brake systems",
+        "and unexplained system malfunctions."
+      ],
+      "odiNumbers": [
+        "11013691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

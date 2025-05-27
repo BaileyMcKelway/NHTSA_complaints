@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EQUIPMENT",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake calipers can cause the brake pads to drag on the rotors, leading to excessive heat, warped rotors, and potentially a fire. This can result in a loss of braking ability, increasing the risk of accidents.",
+      "symptoms": [
+        "Brake warning light illuminates on the instrument panel",
+        "brake pads wear excessively",
+        "rotors overheat and become discolored",
+        "brake calipers stick",
+        "and the anti-lock system fails."
+      ],
+      "odiNumbers": [
+        "11203747",
+        "10381473",
+        "10347765",
+        "10329713",
+        "10321710",
+        "10256116",
+        "10241015",
+        "10203730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Brake System Repair",
+      "impact": "Inadequate repair of the brake system can lead to recurring brake failures, increasing the risk of accidents and potential fires.",
+      "symptoms": [
+        "Brake system fails multiple times",
+        "brake warning light illuminates on the instrument panel",
+        "and brake pads wear excessively."
+      ],
+      "odiNumbers": [
+        "10241015",
+        "10203730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer's Response to Brake System Failures",
+      "impact": "The manufacturer's inadequate response to brake system failures can lead to frustration and a lack of trust among vehicle owners, potentially causing them to delay or avoid necessary repairs.",
+      "symptoms": [
+        "Manufacturer's response is inadequate",
+        "repair parts are not available",
+        "and owners are left to deal with recurring brake failures."
+      ],
+      "odiNumbers": [
+        "10347765",
+        "10241015",
+        "10203730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Failure at Tow Receiver Mounting Point",
+      "impact": "The failure of the frame at the tow receiver mounting point can cause the towed vehicle to detach while in motion, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "A cracking or ripping noise is heard from the rear end of the vehicle",
+        "the tow bar is seen to be detaching from the frame",
+        "the towed vehicle is found to be on the ground after stopping."
+      ],
+      "odiNumbers": [
+        "10154113",
+        "10149555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crankshaft Position Sensor Failure",
+      "impact": "The failure of the crankshaft position sensor can cause the engine to stall at high speeds, resulting in a loss of power steering and brakes, which can lead to accidents, especially when navigating curves or intersections.",
+      "symptoms": [
+        "The engine stalls at freeway speeds (55-70 mph)",
+        "the vehicle acts as if it is getting no fuel",
+        "loss of power steering",
+        "loss of power brakes",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10354194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

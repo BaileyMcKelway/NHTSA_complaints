@@ -1,0 +1,191 @@
+{
+  "totalComplaints": 52,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Airbag Sensor Failure",
+      "impact": "The failure of the passenger airbag sensor can cause the airbag system to malfunction, potentially leading to the failure of the airbag to deploy in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag light remains on",
+        "the airbag light turns on and off intermittently",
+        "the airbag system service indicator light appears",
+        "the passenger airbag light is not lit when a passenger is present",
+        "the airbag system malfunctions when a passenger is present",
+        "the airbag system fails to deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11587107",
+        "11570464",
+        "11489395",
+        "11416132",
+        "11403685",
+        "11315497",
+        "11208390",
+        "11182277",
+        "11101428",
+        "11043799",
+        "11040554",
+        "10971512"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Side Detection System Failure",
+      "impact": "The failure of the side detection system can cause the loss of various safety features, including blind spot warnings, airbags, and turn signals, which can lead to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The side detection system warning light comes on",
+        "blind spot detectors stop working",
+        "airbag warning lights appear",
+        "and gauge functions (speedometer",
+        "tachometer",
+        "fuel",
+        "or temp gauges) are lost."
+      ],
+      "odiNumbers": [
+        "11582612",
+        "11561719",
+        "11416069",
+        "11265804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intake Cam Solenoid Valve Failure",
+      "impact": "The failure of the intake cam solenoid valve can cause the vehicle to stall or lose power, leading to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "acceleration is difficult or impossible",
+        "and the vehicle may shut off while in motion."
+      ],
+      "odiNumbers": [
+        "11269516",
+        "11124253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can cause the airbag to deploy unnecessarily or fail to deploy in the event of an accident, leading to injuries or fatalities.",
+      "symptoms": [
+        "The passenger airbag is on when no passenger is present",
+        "the airbag warning light appears",
+        "and the airbag may not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11233317",
+        "11115888",
+        "11061181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety features to malfunction, leading to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The radio shuts off randomly",
+        "the vehicle's systems (e.g.",
+        "power steering",
+        "airbag) malfunction",
+        "and warning lights appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11124253",
+        "11115888",
+        "11061181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fire Hazard",
+      "impact": "The fire hazard can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "A fire starts in the vehicle",
+        "often under the driver's seat or in the electrical system."
+      ],
+      "odiNumbers": [
+        "11064377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Control Module Failure",
+      "impact": "The failure of the transmission control module can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "hesitates",
+        "or stalls while driving",
+        "the transmission control module warning light comes on."
+      ],
+      "odiNumbers": [
+        "11398935",
+        "11435225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate independently, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle accelerates independently without warning",
+        "the brake pedal is depressed to stop the unintended acceleration."
+      ],
+      "odiNumbers": [
+        "11302827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Gear Shifting Issues",
+      "impact": "Harsh gear shifting can cause the vehicle to jolt, leading to accidents or injuries.",
+      "symptoms": [
+        "The gear shifts harshly",
+        "causing the vehicle to jolt",
+        "the service airbag warning indicator illuminates."
+      ],
+      "odiNumbers": [
+        "11022677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Federation Violation and Restricted Code",
+      "impact": "Vehicles sold or leased in the US with a \"Federation Violation and Restricted Code\" may not comply with safety requirements, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle lacks essential safety features",
+        "such as anti-lock braking system (ABS)",
+        "traction control system (TSC)",
+        "and heating elements for fluid case holders."
+      ],
+      "odiNumbers": [
+        "10876968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

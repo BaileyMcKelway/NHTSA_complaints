@@ -1,0 +1,168 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Stalling",
+      "impact": "The failure of the engine can cause the vehicle to stall, leading to a loss of motive power, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or hesitates to accelerate",
+        "the check engine warning light is illuminated",
+        "the vehicle makes an abnormal noise",
+        "the RPM's decrease",
+        "the vehicle vibrates intermittently",
+        "the vehicle goes into \"safe mode\"."
+      ],
+      "odiNumbers": [
+        "11592668",
+        "11556212",
+        "11515626",
+        "11503104",
+        "11485422",
+        "11438561",
+        "11220673",
+        "11207459",
+        "11144982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Knock Sensor",
+      "impact": "A faulty knock sensor can cause the engine to hesitate or stall, leading to a loss of motive power, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates to accelerate",
+        "the check engine warning light is illuminated",
+        "the vehicle is sluggish",
+        "the vehicle fails to exceed a certain speed."
+      ],
+      "odiNumbers": [
+        "11592668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Engine Harness and NOX Sensor",
+      "impact": "A faulty engine harness and NOX sensor can cause the engine to malfunction, leading to a loss of motive power, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "the vehicle fails to accelerate properly",
+        "the vehicle vibrates intermittently."
+      ],
+      "odiNumbers": [
+        "11207459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Loss of Acceleration",
+      "impact": "The sudden loss of acceleration can cause a dangerous situation, especially on highways, as the vehicle may slow down unexpectedly, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle lacks acceleration suddenly",
+        "the RPM gauge goes up really high",
+        "the vehicle slows down unexpectedly",
+        "the vehicle hesitates to respond to accelerator input."
+      ],
+      "odiNumbers": [
+        "11217359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Surging Issue",
+      "impact": "The surging issue can cause the vehicle to stall or hesitate, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle acts like it's going to die when coming to a complete stop",
+        "the vehicle hesitates or stalls",
+        "the vehicle surges or jerks when accelerating."
+      ],
+      "odiNumbers": [
+        "11183745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause injury to occupants, especially if the sunshade is open, and can lead to accidents due to the sudden distraction.",
+      "symptoms": [
+        "The sunroof explodes or shatters suddenly",
+        "the glass breaks without any apparent reason",
+        "the sunroof makes a loud noise before shattering."
+      ],
+      "odiNumbers": [
+        "11119372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure (Hydraulic System)",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents or injuries.",
+      "symptoms": [
+        "A slight burning odor while driving",
+        "ABS",
+        "Stabili-trak",
+        "battery",
+        "and TPMS warning lights illuminate",
+        "warning lights remain illuminated every time the vehicle is started",
+        "the vehicle's braking performance is affected."
+      ],
+      "odiNumbers": [
+        "11505003",
+        "11490364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunctioning airbag system can lead to unexpected airbag deployment, which can cause accidents, injuries, or fatalities. Additionally, a faulty airbag system can also lead to false warnings, causing unnecessary stress and distraction to the driver.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the airbag light turns on and off intermittently",
+        "airbags deploy without warning or impact",
+        "airbag warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11196160",
+        "11090050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, or fatalities, especially if it occurs while driving at high speeds. It can also lead to unexpected vehicle behavior, loss of control, and increased risk of collision.",
+      "symptoms": [
+        "Airbags deploy without warning or impact",
+        "sudden and unexpected airbag deployment",
+        "airbag deployment while driving at high speeds."
+      ],
+      "odiNumbers": [
+        "11090050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

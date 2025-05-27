@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to lose control, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The steering wheel shakes or vibrates",
+        "the vehicle is difficult to control",
+        "the vehicle wanders or drifts while driving",
+        "the steering column shakes",
+        "the vehicle exhibits a shimmy or wobble at speeds between 45-70 mph."
+      ],
+      "odiNumbers": [
+        "11005040",
+        "10954912",
+        "10531998",
+        "10499625",
+        "10469353",
+        "10469052",
+        "10429035",
+        "10428997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rust Corrosion of Suspension Components",
+      "impact": "The rust corrosion of suspension components can cause the vehicle to lose control, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The gravel shield falls off",
+        "the control arms and front struts are badly rusted",
+        "the vehicle exhibits a shimmy or wobble at speeds between 45-70 mph."
+      ],
+      "odiNumbers": [
+        "10954912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Rot Issues",
+      "impact": "Frame rot can compromise the structural integrity of the vehicle, leading to safety risks and potential accidents. It can also cause the vehicle to fail inspections, resulting in costly repairs and potential loss of value.",
+      "symptoms": [
+        "Visible signs of rust or corrosion on the frame",
+        "failure to pass inspection due to frame rot."
+      ],
+      "odiNumbers": [
+        "11508181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "Unintended vehicle movement can cause accidents, damage to property, and potentially harm people. It can also lead to costly repairs and emotional distress.",
+      "symptoms": [
+        "Vehicle moves unexpectedly",
+        "even when the emergency brake is engaged",
+        "and the gear shift is in park or neutral."
+      ],
+      "odiNumbers": [
+        "10897936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Frame and Undercarriage Rust",
+      "impact": "Premature rusting of the frame and undercarriage can compromise the structural integrity of the vehicle, leading to safety risks, including brake line failure, fuel tank damage, and potential loss of control.",
+      "symptoms": [
+        "Rust on the frame",
+        "rust on the straps that secure the fuel tank",
+        "rusted brake line attachment points",
+        "rust on the undercarriage",
+        "rapid deterioration of the vehicle's structure."
+      ],
+      "odiNumbers": [
+        "11403897",
+        "11258376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

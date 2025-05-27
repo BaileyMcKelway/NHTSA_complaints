@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries to occupants, including cuts, burns, contusions, and permanent damage to vision, as well as damage to the vehicle.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy while the vehicle is stationary",
+        "airbags deploy without a crash or collision",
+        "windshield breaks due to airbag deployment."
+      ],
+      "odiNumbers": [
+        "10031304",
+        "10005351",
+        "542009",
+        "541875",
+        "541615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in a collision can increase the risk of injury to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash or collision",
+        "occupants are injured due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "487711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Booster Mounting Bolt Failure",
+      "impact": "The failure of the brake booster mounting bolts can cause a sudden loss of braking, leading to increased stopping distances and potential accidents.",
+      "symptoms": [
+        "Snapping sound when applying the brake",
+        "sudden loss of braking with the pedal extended to the floor",
+        "loud crunching noise when applying the brake",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "785491",
+        "785491",
+        "560298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Vehicle continues to accelerate when parking with foot on brake pedal",
+        "intermittent acceleration."
+      ],
+      "odiNumbers": [
+        "837774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping or Jumping into Gear",
+      "impact": "The transmission slipping or jumping into gear can cause loss of control, accidents, or difficulty driving, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "The transmission slips or jumps into gear",
+        "especially when shifting into second gear",
+        "the vehicle hesitates or lags when shifting",
+        "the transmission makes unusual noises",
+        "the vehicle is difficult to drive",
+        "the transmission fails to engage into gear."
+      ],
+      "odiNumbers": [
+        "878949",
+        "712781"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause loss of control, accidents, or leave the driver stranded, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "The transmission fails to engage into gear",
+        "the transmission slips or jumps into gear",
+        "the vehicle hesitates or lags when shifting",
+        "the transmission makes unusual noises",
+        "the vehicle is difficult to drive."
+      ],
+      "odiNumbers": [
+        "878949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer Inaccuracy",
+      "impact": "The speedometer inaccuracy can cause the driver to unknowingly exceed speed limits, which can lead to safety risks, accidents, and traffic violations.",
+      "symptoms": [
+        "The speedometer does not display the correct speed",
+        "the speedometer is inconsistent",
+        "the speedometer is stuck or frozen."
+      ],
+      "odiNumbers": [
+        "881578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

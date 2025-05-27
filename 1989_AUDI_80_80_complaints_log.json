@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Differential Failure Due to Oil Evaporation",
+      "impact": "The failure of the differential due to oil evaporation can cause the vehicle to lose power, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "Vehicle noise",
+        "skidding to a stop",
+        "transmission fluid leaking into the differential",
+        "bearings melting or shredding",
+        "seals melting."
+      ],
+      "odiNumbers": [
+        "708495",
+        "605800",
+        "516308",
+        "511814",
+        "968912",
+        "484152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transaxle/Transmission Assembly Failure",
+      "impact": "The failure of the transaxle/transmission assembly can cause the vehicle to lose power, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "Vehicle skidding to a stop",
+        "transmission fluid leaking into the differential",
+        "bearings melting or shredding",
+        "seals melting."
+      ],
+      "odiNumbers": [
+        "516308",
+        "511814",
+        "968912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lack of Differential Fluid",
+      "impact": "The lack of differential fluid can cause the differential to fail, leading to loss of power, accidents, or stranding the driver.",
+      "symptoms": [
+        "Vehicle noise",
+        "skidding to a stop",
+        "transmission fluid leaking into the differential."
+      ],
+      "odiNumbers": [
+        "511814",
+        "484152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to fail, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake pressure",
+        "brake pedal feels soft or spongy",
+        "brake pedal travels further than usual",
+        "brake warning light illuminates",
+        "inability to stop the vehicle",
+        "accidents or near-misses due to brake failure."
+      ],
+      "odiNumbers": [
+        "605800",
+        "533351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

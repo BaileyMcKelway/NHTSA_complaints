@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Warning Malfunction",
+      "impact": "The malfunctioning shift to park warning system can cause confusion, inconvenience, and potentially lead to battery drain if the warning persists, leaving the driver stranded.",
+      "symptoms": [
+        "The dashboard displays a \"Shift to Park\" warning despite the car being in park",
+        "accompanied by a beeping or buzzing sound; the warning persists even after attempting to shift into park multiple times; the car may not turn off or the electrical power may not shut off",
+        "leading to battery drain."
+      ],
+      "odiNumbers": [
+        "11592750",
+        "11590830",
+        "11565480",
+        "11550058",
+        "11530779",
+        "11529828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The \"Shift to Park\" error can cause the vehicle's power to remain on, leading to battery drain, and potentially strand the driver. In some cases, it can also cause the vehicle to shut off while in motion, resulting in a loss of power brakes and steering, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle displays a \"Shift to Park\" message despite being in park",
+        "the vehicle's power remains on",
+        "the battery drains",
+        "the vehicle shuts off while in motion",
+        "the vehicle cannot be turned off."
+      ],
+      "odiNumbers": [
+        "11589906",
+        "11553473",
+        "11543689",
+        "11534337",
+        "11477685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Key Fob and Starter/Turn Engine-Off Button Malfunction",
+      "impact": "The malfunction of the electronic key fob and starter/turn engine-off button can cause the vehicle to remain running while locked, potentially leading to asphyxiation in certain situations.",
+      "symptoms": [
+        "The vehicle can be locked remotely while still running",
+        "occupants without an electronic key fob cannot open the doors from the inside",
+        "the vehicle continues to run despite being locked."
+      ],
+      "odiNumbers": [
+        "11414799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Issues due to Stretched Drive Chain",
+      "impact": "A stretched drive chain can cause metal debris to enter the transmission, leading to premature wear and potential failure, which can result in loss of vehicle control, accidents, and strandings.",
+      "symptoms": [
+        "Jerking or hesitation while driving",
+        "warning lights on the dashboard",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "11585982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shifter Module Malfunction",
+      "impact": "The malfunctioning shifter module can cause the vehicle to fail to recognize when it is in park, leading to unintended movement, accidents, and safety risks.",
+      "symptoms": [
+        "\"Shift to Park\" warning light appears on the dashboard when the vehicle is already in park",
+        "engine turns off but ignition stays in accessory mode",
+        "wiggling the shifter back and forth to clear the warning",
+        "inability to lock the vehicle."
+      ],
+      "odiNumbers": [
+        "11583570",
+        "11574807",
+        "11574930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parking System Glitch",
+      "impact": "The parking system glitch can cause the vehicle to roll or move unexpectedly, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Parking feature unavailable",
+        "shift disappears",
+        "system glitch when trying to park",
+        "fear of the vehicle rolling or moving on its own."
+      ],
+      "odiNumbers": [
+        "11575718",
+        "11556987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

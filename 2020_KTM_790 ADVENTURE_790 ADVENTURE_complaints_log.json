@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "POWER TRAIN",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Wear of Cam Followers and Cam Lobes",
+      "impact": "The premature wear of cam followers and cam lobes can cause catastrophic engine failure, leading to accidents or leaving the rider stranded, especially in off-highway use.",
+      "symptoms": [
+        "Unusual engine noise",
+        "camshaft lobe and follower wear",
+        "valve knock",
+        "clicking sound coming from the engine",
+        "engine shutdown",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "11578500",
+        "11481716",
+        "11475257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Fuel Supply from Fuel Sensors or Fuel Injectors",
+      "impact": "The inadequate fuel supply can cause the engine to require multiple tries to start when cold, placing an inordinate drain on the battery and putting the rider at risk of being stranded.",
+      "symptoms": [
+        "Engine requires multiple tries to start when cold",
+        "difficulty starting the engine",
+        "engine starts then stalls multiple times when cold starting."
+      ],
+      "odiNumbers": [
+        "11528245",
+        "11447076",
+        "11445516",
+        "11445527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling during Downshifting",
+      "impact": "The sudden stalling of the engine while the vehicle is in motion can cause loss of control, increasing the risk of accidents, especially when decelerating or turning.",
+      "symptoms": [
+        "The engine stalls suddenly while downshifting",
+        "typically between 30-40mph",
+        "when approaching a turn or stop; the engine stalls within 1-2 seconds of reaching neutral gear; the vehicle is still in motion when the engine stalls",
+        "requiring the use of brakes to come to a complete stop."
+      ],
+      "odiNumbers": [
+        "11522598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Shock Shaft Seal Failure",
+      "impact": "The failure of the rear shock shaft seal can cause shock oil to spill onto the catalytic converter, posing a significant risk of fire, especially during transportation.",
+      "symptoms": [
+        "Shock oil leakage",
+        "oil spillage onto the catalytic converter",
+        "failure of the shock absorber",
+        "reduced ride quality",
+        "potential fire hazard."
+      ],
+      "odiNumbers": [
+        "11498129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

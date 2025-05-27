@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "CHILD SEAT"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Deteriorating Engine Wiring Harness Insulation",
+      "impact": "The deteriorating insulation on the engine wiring harness can cause electrical shorts, leading to engine stalling, fires, or crashes, which can result in serious injury or death.",
+      "symptoms": [
+        "Check engine light appears",
+        "vehicle runs erratically",
+        "engine stalling",
+        "wires rubbing together",
+        "exposed bare wiring",
+        "engine shutting off while driving at high speed."
+      ],
+      "odiNumbers": [
+        "10452795",
+        "10225890",
+        "10220009",
+        "10169170",
+        "10157901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brake system can cause the vehicle to surge forward or lose braking capability, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle surges forward while applying brakes",
+        "the vehicle rolls forward after coming to a stop",
+        "the brakes do not respond or are delayed",
+        "unusual sounds or noises when applying brakes."
+      ],
+      "odiNumbers": [
+        "8012437",
+        "761678",
+        "974006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the Anti-lock Brake System (ABS) can cause the vehicle to lose braking capability, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Complete loss of braking",
+        "ABS system activates unnecessarily",
+        "unusual sounds or noises when applying brakes."
+      ],
+      "odiNumbers": [
+        "974006",
+        "477769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad Wear Causing ABS Activation",
+      "impact": "Worn-out brake pads can cause the ABS system to activate unnecessarily, leading to reduced braking performance and increased risk of accidents.",
+      "symptoms": [
+        "Front brake pads squeak",
+        "ABS system activates unnecessarily",
+        "unusual sounds or noises when applying brakes."
+      ],
+      "odiNumbers": [
+        "477769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Child Seat Anchorage System",
+      "impact": "The inability to safely secure a child seat can increase the risk of injury or fatality to children in the event of a crash, compromising their safety and well-being.",
+      "symptoms": [
+        "Difficulty or impossibility of installing a child seat",
+        "inability to securely fasten a child seat",
+        "inadequate seat belt design or functionality",
+        "lack of proper anchorage points for child seats."
+      ],
+      "odiNumbers": [
+        "479198",
+        "701910",
+        "701844",
+        "701805"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

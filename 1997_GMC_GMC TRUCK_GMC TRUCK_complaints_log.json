@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VISIBILITY",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to steer unexpectedly, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle steers unexpectedly into other lanes",
+        "exhibits oversteer at high speeds",
+        "requires excessive effort to steer",
+        "or has a \"funny\" steering feel."
+      ],
+      "odiNumbers": [
+        "10006368",
+        "717855",
+        "548149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Wheel Position Sensor Failure",
+      "impact": "The failure of the steering wheel position sensor can cause the vehicle to steer unexpectedly, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle exhibits oversteer at high speeds",
+        "requires excessive effort to steer",
+        "or has a \"funny\" steering feel."
+      ],
+      "odiNumbers": [
+        "717855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tie Rod Failure",
+      "impact": "The failure of the tie rod can cause the vehicle to lose steering control, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The vehicle's tire/wheel moves backward",
+        "causing loss of steering control."
+      ],
+      "odiNumbers": [
+        "10006368",
+        "548149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Wiper Motor Circuit Board Failure",
+      "impact": "The failure of the windshield wiper motor circuit board can cause the windshield wipers to malfunction, leading to reduced visibility and increased risk of accidents, especially during inclement weather conditions.",
+      "symptoms": [
+        "Windshield wipers do not work at all",
+        "windshield wipers run continuously in an erratic manner",
+        "windshield wipers will not turn off."
+      ],
+      "odiNumbers": [
+        "10102118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Recall Implementation",
+      "impact": "The failure of dealerships to properly implement recalls can lead to frustration and financial burden for vehicle owners, as well as continued safety risks due to unresolved issues.",
+      "symptoms": [
+        "Dealerships claim that the vehicle's VIN number is not included in the recall",
+        "despite the owner experiencing the exact problem that prompted the recall",
+        "dealerships are unaware of or deny knowledge of the recall",
+        "owners are quoted high prices for repairs that should be covered under the recall."
+      ],
+      "odiNumbers": [
+        "10102118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Planetary Gear Set Sun Shell Failure",
+      "impact": "The failure of the sun shell in the planetary gear set can cause a catastrophic transmission failure, leading to loss of power, unexpected acceleration, or sudden stops, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "unexpected acceleration",
+        "sudden stops",
+        "unusual noises or vibrations from the transmission",
+        "difficulty shifting gears",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "555963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Sending Unit Fuel Pump Connector Failure",
+      "impact": "The melting of the fuel tank sending unit fuel pump connectors can cause fuel leaks, leading to potential fires, and may also result in fuel tank failure, which can lead to costly repairs and safety risks.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel pump failure",
+        "fuel tank failure",
+        "loss of fuel pressure",
+        "difficulty starting the vehicle",
+        "or the vehicle stalling."
+      ],
+      "odiNumbers": [
+        "863484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Failure Due to Connector Melting",
+      "impact": "Fuel tank failure can cause fuel leaks, leading to potential fires, and may also result in costly repairs and safety risks.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel tank failure",
+        "loss of fuel pressure",
+        "difficulty starting the vehicle",
+        "or the vehicle stalling."
+      ],
+      "odiNumbers": [
+        "863484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Seat Malfunction Due to Door Design",
+      "impact": "The malfunction of the power seat function can cause inconvenience and discomfort to the driver and passengers, potentially leading to distractions while driving.",
+      "symptoms": [
+        "The power seat functions only work when the door is open",
+        "the power seat does not adjust or move when the door is closed",
+        "the power seat is inoperable unless the door is open."
+      ],
+      "odiNumbers": [
+        "525848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

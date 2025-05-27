@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 88,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, jerk, or hesitate, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle jerks or lurches",
+        "the transmission makes a loud \"clunking\" or \"popping\" noise",
+        "the vehicle is unable to shift into gear",
+        "the transmission overheats",
+        "the check engine light comes on",
+        "the O/D light blinks or flashes."
+      ],
+      "odiNumbers": [
+        "11306609",
+        "10929667",
+        "10907323",
+        "10902003",
+        "10650433",
+        "10611087",
+        "10513615",
+        "10487180",
+        "10483313",
+        "10360348",
+        "10359015",
+        "10357492",
+        "10352478",
+        "10300087",
+        "10283434",
+        "10273539",
+        "10265977",
+        "10263295",
+        "10256186",
+        "10233299",
+        "10232702",
+        "10232019",
+        "10221978",
+        "10219583",
+        "10208602",
+        "10207454",
+        "10202096",
+        "10201599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to not start or crank, leading to inconvenience and potentially dangerous situations, such as the steering column smoking and almost catching on fire.",
+      "symptoms": [
+        "The vehicle is difficult to start or crank",
+        "the vehicle only makes a clicking sound when trying to start",
+        "the steering column smokes or catches on fire while trying to start the vehicle",
+        "the engine light stays on",
+        "the vehicle idles inappropriately."
+      ],
+      "odiNumbers": [
+        "10811234",
+        "10450729",
+        "10000376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "TIRES",
+    "UNKNOWN OR OTHER",
+    "VISIBILITY/WIPER"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (PCF Module Wiring Harness Fire)",
+      "impact": "An electrical system failure can cause a fire, leading to a loss of vehicle control, potential accidents, and risk of injury or death.",
+      "symptoms": [
+        "The instrument panel and speed odometer go dark",
+        "loss of steering",
+        "smoke emanating from the passenger side of the vehicle",
+        "doors lock and cannot be unlocked",
+        "inability to turn off the vehicle."
+      ],
+      "odiNumbers": [
+        "11423261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Control Unit Failure",
+      "impact": "A faulty airbag control unit can lead to malfunctioning airbags, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "Battery and airbag warning lights remain illuminated and continue flashing while driving."
+      ],
+      "odiNumbers": [
+        "11375356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Lock Actuator Failure",
+      "impact": "A faulty door lock actuator can cause the doors to become stuck, making it difficult or impossible to exit the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Doors will not open from inside or outside",
+        "hitting the door lock/unlock button multiple times with no luck getting it open",
+        "door handles do not feel like there is any resistance when pulling on them."
+      ],
+      "odiNumbers": [
+        "11307857"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "An engine stall can cause a loss of vehicle control, leading to potential accidents and injuries.",
+      "symptoms": [
+        "The vehicle stalls without warning while driving."
+      ],
+      "odiNumbers": [
+        "10957902"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Passenger Airbag Pressure Switch",
+      "impact": "A faulty passenger airbag pressure switch can prevent the passenger airbag from deploying in the event of a crash, increasing the risk of injury or fatality to the passenger.",
+      "symptoms": [
+        "The airbag light on the dashboard illuminates",
+        "the passenger airbag does not deploy in a crash",
+        "the airbag system malfunctions."
+      ],
+      "odiNumbers": [
+        "11281949",
+        "11128862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Tire Deterioration",
+      "impact": "Premature tire deterioration can lead to tire blowouts, loss of control, and accidents, posing a significant risk to driver and passenger safety.",
+      "symptoms": [
+        "Dry-rotted tires",
+        "tire blowouts",
+        "uneven tire wear",
+        "cracking or brittleness on the tire surface",
+        "tire failure without warning."
+      ],
+      "odiNumbers": [
+        "10558450",
+        "10511427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Drainage System Failure",
+      "impact": "The failure of the sunroof drainage system can cause water to leak into the vehicle, potentially damaging electrical components and leading to malfunction or failure, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Water puddles on the driver and front passenger side",
+        "water leaks into the car",
+        "sunroof drainage tubes are blocked",
+        "water flows from the sunroof drainage tubes into the vehicle."
+      ],
+      "odiNumbers": [
+        "11012917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Plastic Clamps in Dashboard",
+      "impact": "The failure of the plastic clamps in the dashboard can cause water to leak into the vehicle, potentially damaging electrical components and leading to malfunction or failure, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Plastic clamps in the dashboard break",
+        "water leaks into the vehicle",
+        "water puddles on the driver and front passenger side."
+      ],
+      "odiNumbers": [
+        "11012917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Debris from Road Construction Causing Windshield Damage",
+      "impact": "Debris from road construction can cause windshield damage, which can obstruct the driver's view, leading to potential accidents and safety risks.",
+      "symptoms": [
+        "Windshield cracks or shatters",
+        "debris hits the windshield while driving",
+        "road construction debris on the highway."
+      ],
+      "odiNumbers": [
+        "10519576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

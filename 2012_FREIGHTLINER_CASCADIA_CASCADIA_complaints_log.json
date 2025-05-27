@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of problems, including malfunctioning hazard lights, windshield wipers, and check engine indicators, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Hazard lights malfunction",
+        "windshield wipers do not work",
+        "check engine indicator illuminates",
+        "flames appear from the passenger side headlight assembly",
+        "speedometer displays incorrect speed",
+        "air leaks in the braking system",
+        "vehicle stalls",
+        "dashboard lights blink on and off",
+        "marker lights blink without being turned on."
+      ],
+      "odiNumbers": [
+        "11241759",
+        "11193880",
+        "11130344",
+        "10903504",
+        "10881632",
+        "10744176",
+        "10616901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Diesel Particulate Filter (DPF) Regeneration Issues",
+      "impact": "The failure of the DPF regeneration system can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Regen DPF is not completing",
+        "vehicle loses power",
+        "check engine and warning indicators illuminate."
+      ],
+      "odiNumbers": [
+        "11074391",
+        "11020043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the batteries can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "All four batteries fail",
+        "starter fails",
+        "vehicle fails to start."
+      ],
+      "odiNumbers": [
+        "10515647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to accidents, injuries, and fatalities, especially for commercial vehicles carrying heavy loads or transporting passengers.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "inability to stop the vehicle",
+        "brake pedal feels soft or spongy",
+        "brake warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11309638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "5th Wheel Locking Mechanism Failure",
+      "impact": "Failure of the 5th wheel locking mechanism can cause the trailer to detach while driving, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The 5th wheel locking mechanism does not engage when backing up and coupling to the trailer",
+        "the trailer becomes detached while driving",
+        "difficulty coupling or uncoupling the trailer."
+      ],
+      "odiNumbers": [
+        "11003818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Storage Facility Issues",
+      "impact": "Inadequate storage facilities can lead to damage to vehicles, equipment, and cargo, resulting in financial losses and potential safety hazards.",
+      "symptoms": [
+        "Vehicles are not properly stored or maintained",
+        "equipment is damaged or malfunctioning",
+        "cargo is damaged or lost."
+      ],
+      "odiNumbers": [
+        "11297153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Diesel Particulate Filter (DPF) Failure",
+      "impact": "The premature failure of the DPF system can cause the vehicle to experience reduced performance, decreased fuel efficiency, and increased emissions, which can lead to costly repairs and potential safety risks.",
+      "symptoms": [
+        "The vehicle experiences reduced power",
+        "decreased fuel efficiency",
+        "increased emissions",
+        "the check engine light illuminates",
+        "and the DPF system warning light turns on."
+      ],
+      "odiNumbers": [
+        "11074278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "EXTERIOR LIGHTING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, especially at low speeds when the vehicle is in a confined space, such as a parking lot or garage.",
+      "symptoms": [
+        "The vehicle suddenly accelerates even when the accelerator pedal is not being depressed",
+        "the vehicle accelerates while the brake pedal is being pressed",
+        "the vehicle hesitates or lunges forward when rolling to a stop",
+        "the vehicle accelerates intermittently while entering a highway or making a turn."
+      ],
+      "odiNumbers": [
+        "10959529",
+        "10329281",
+        "10324726",
+        "10313107",
+        "10145358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Adaptive Front-Lighting System (AFS) Failure",
+      "impact": "The failure of the AFS can cause the headlights to malfunction, resulting in reduced visibility and increased risk of accidents, especially at night.",
+      "symptoms": [
+        "Headlights shine directly at the ground",
+        "limited illumination of the highway ahead",
+        "AFS warning light illuminated on the instrumental panel",
+        "reduced visibility at night."
+      ],
+      "odiNumbers": [
+        "10883551",
+        "10392482",
+        "10288912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Height Control Sensor Failure",
+      "impact": "The failure of the height control sensor can cause the headlights to malfunction, resulting in reduced visibility and increased risk of accidents, especially at night.",
+      "symptoms": [
+        "Headlights not angled straight",
+        "limited illumination of the highway ahead",
+        "reduced visibility at night."
+      ],
+      "odiNumbers": [
+        "10392482"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "High-Intensity Discharge (HID) Headlight Glare",
+      "impact": "The glare from HID headlights can cause temporary loss of vision, increasing the risk of accidents, especially at night.",
+      "symptoms": [
+        "Glare from HID headlights",
+        "temporary loss of vision",
+        "reduced visibility at night."
+      ],
+      "odiNumbers": [
+        "10098804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "side curtain airbag does not deploy in a broadside collision",
+        "no airbag deployment in a severe accident."
+      ],
+      "odiNumbers": [
+        "10371139",
+        "10233489",
+        "10200807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration while parking",
+        "inability to stop the vehicle",
+        "racing engine",
+        "vehicle moves in an unintended direction."
+      ],
+      "odiNumbers": [
+        "10200807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A malfunctioning airbag sensor can lead to improper airbag deployment, increasing the risk of injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "Airbag on/off switch malfunctions",
+        "airbag turns off permanently",
+        "\"take to dealer\" light illuminates."
+      ],
+      "odiNumbers": [
+        "10181292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

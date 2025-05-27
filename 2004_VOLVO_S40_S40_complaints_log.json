@@ -1,0 +1,364 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 20,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Proximity to Accelerator Pedal",
+      "impact": "The close proximity of the brake pedal to the accelerator pedal can cause unintended acceleration or braking, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal is too close to the accelerator pedal",
+        "causing the driver's shoe to accidentally activate the brake while pressing the accelerator",
+        "making it difficult to operate the vehicle safely."
+      ],
+      "odiNumbers": [
+        "10908871",
+        "10681587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Feeling Soft or Spongy",
+      "impact": "A soft or spongy brake pedal can cause the vehicle to take longer to stop, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "requiring more pressure to stop the vehicle",
+        "or the pedal travels further than usual before engaging the brakes."
+      ],
+      "odiNumbers": [
+        "10794522",
+        "10448990",
+        "10310851",
+        "10212989"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure or Lockup",
+      "impact": "Brake failure or lockup can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The brakes fail to engage",
+        "or the vehicle continues to move after applying the brakes",
+        "or the brakes lock up",
+        "causing the vehicle to skid or lose control."
+      ],
+      "odiNumbers": [
+        "10794522",
+        "10310851",
+        "10284231",
+        "10130085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to speed out of control, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates rapidly or unexpectedly when the brake pedal is applied",
+        "making it difficult to control the vehicle."
+      ],
+      "odiNumbers": [
+        "10253229",
+        "10113582",
+        "10113589"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Issues",
+      "impact": "Failure of the airbag system can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag light comes on or off intermittently",
+        "or the airbag fails to deploy in a crash",
+        "or the wrong airbag deploys."
+      ],
+      "odiNumbers": [
+        "10284231",
+        "10130085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Illumination and Failure",
+      "impact": "The illumination of the airbag warning light can indicate a faulty airbag system, which can lead to failure to deploy in the event of an accident, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light illuminates continuously",
+        "the airbag warning light comes on intermittently",
+        "the airbag warning light stays on for an extended period",
+        "the airbag warning light is accompanied by a faulty occupant weight sensor",
+        "the airbag warning light is accompanied by a faulty driver-side airbag."
+      ],
+      "odiNumbers": [
+        "11100343",
+        "10485192",
+        "10451589",
+        "10451421",
+        "10380126",
+        "10261682",
+        "10249483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Occupant Weight Sensor Failure",
+      "impact": "A faulty occupant weight sensor can cause the airbag warning light to illuminate, and may lead to airbag failure to deploy in the event of an accident, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light illuminates continuously",
+        "the airbag warning light comes on intermittently",
+        "the airbag warning light stays on for an extended period",
+        "the occupant weight sensor is faulty",
+        "the airbag warning light is accompanied by a faulty driver-side airbag."
+      ],
+      "odiNumbers": [
+        "10485192",
+        "10380126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of an accident can lead to injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light illuminates continuously",
+        "the airbag warning light comes on intermittently",
+        "the airbag warning light stays on for an extended period",
+        "the airbag fails to deploy in an accident",
+        "the airbag warning light is accompanied by a faulty driver-side airbag."
+      ],
+      "odiNumbers": [
+        "10261682",
+        "10249483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Coolant Leakage and Crash Mode",
+      "impact": "The coolant leakage can cause the engine to overheat, leading to damage or failure, and the crash mode can cause the vehicle to shut off, increasing the risk of accidents.",
+      "symptoms": [
+        "Coolant leakage",
+        "crash mode activation",
+        "safety alarm system check",
+        "vehicle shutting off."
+      ],
+      "odiNumbers": [
+        "11373691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Door Locks",
+      "impact": "The faulty door locks can cause the doors to lock up, trapping occupants inside, which can be life-threatening in emergency situations.",
+      "symptoms": [
+        "Doors locking up",
+        "unable to unlock doors",
+        "faulty lock actuators",
+        "wiring harness issues."
+      ],
+      "odiNumbers": [
+        "10903603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration can cause loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle accelerating without pressing the gas pedal",
+        "vehicle shutting off when braking",
+        "RPM surging."
+      ],
+      "odiNumbers": [
+        "10307236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause loss of critical vehicle functions, increasing the risk of accidents.",
+      "symptoms": [
+        "Gauges malfunctioning",
+        "no speedometer",
+        "no gas reading",
+        "no engine heat meter",
+        "message center malfunctioning",
+        "turn signals malfunctioning."
+      ],
+      "odiNumbers": [
+        "10171412",
+        "10169333"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Electrical Problems",
+      "impact": "The intermittent electrical problems can cause loss of critical vehicle functions, increasing the risk of accidents.",
+      "symptoms": [
+        "Dashboard",
+        "radio",
+        "climate controls turning off by themselves",
+        "wipers activating by themselves",
+        "SRS warnings displayed",
+        "fuel door button not activating",
+        "ignition not activating."
+      ],
+      "odiNumbers": [
+        "10169333"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Tail Light Assembly Failure",
+      "impact": "The rear tail light assembly failure can reduce visibility, increasing the risk of accidents.",
+      "symptoms": [
+        "Intermittent rear tail light assembly",
+        "no rear tail lights at night",
+        "faulty CEM."
+      ],
+      "odiNumbers": [
+        "10126887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Electronic Module Failure",
+      "impact": "The failure of the fuel pump electronic module can cause the engine to stall, leading to a loss of propulsion and increasing the risk of a collision or serious physical injury.",
+      "symptoms": [
+        "The engine stalls",
+        "the check engine warning light illuminates",
+        "the vehicle veers to the right",
+        "the vehicle will not restart",
+        "the fuel pump module needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10597709",
+        "10390269",
+        "10352679",
+        "10318428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Insufficient Sealing of Fuel Pump Electronic Module",
+      "impact": "Insufficient sealing of the fuel pump electronic module can lead to water ingress corrosion, causing the unit to fail, resulting in increased, decreased, or loss of fuel pressure, and engine stalling.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of fuel pressure",
+        "corrosion of the fuel pump electronic module."
+      ],
+      "odiNumbers": [
+        "10352679",
+        "10318428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various malfunctions, including windshield wipers, power windows and doors, gas gauge, and airbag light issues, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "Windshield wipers suddenly cut on and off",
+        "power windows and doors do not work",
+        "gas gauge always shows no fuel",
+        "airbag light comes on",
+        "trunk does not open."
+      ],
+      "odiNumbers": [
+        "10115193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Lock-Up/Failure",
+      "impact": "The sudden and unexpected lock-up or failure of the steering system can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel becomes difficult or impossible to turn",
+        "the steering wheel locks up",
+        "the vehicle is hard to steer",
+        "the steering wheel freezes",
+        "and error messages may appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "10411674",
+        "10259980",
+        "10223793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause a range of problems, including loss of vehicle control, unexpected acceleration, and failure of critical safety systems, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The dashboard displays malfunction",
+        "panels fade in and out",
+        "speedometer",
+        "radio",
+        "and temperature gauge become unreadable",
+        "the vehicle accelerates on its own",
+        "and error messages may appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "10195469",
+        "10097709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Bag System Failure",
+      "impact": "The failure of the air bag system can increase the risk of injuries and fatalities in the event of an accident.",
+      "symptoms": [
+        "The air bag light illuminates",
+        "and the air bag system may not deploy properly in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10097709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

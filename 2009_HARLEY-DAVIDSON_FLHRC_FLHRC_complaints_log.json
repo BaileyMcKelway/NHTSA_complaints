@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Braking System (ABS) Hydraulic Unit Failure",
+      "impact": "The failure of the ABS Hydraulic Unit can cause the front brake lever to become resistant or frozen, making it difficult or impossible to slow down or stop the motorcycle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The front brake lever becomes resistant or frozen",
+        "the front brakes do not actuate",
+        "the brake lever requires forceful pressing to slow down",
+        "the motorcycle crashes or loses control."
+      ],
+      "odiNumbers": [
+        "11425758",
+        "10906894",
+        "10893536",
+        "10885064",
+        "10566734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Light Switch Failure",
+      "impact": "The failure of the rear brake light switch can cause the rear brakes to stop working, making it difficult or impossible to slow down or stop the motorcycle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The rear brake light switch melts",
+        "the rear brakes stop working",
+        "the motorcycle loses control."
+      ],
+      "odiNumbers": [
+        "10424304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Compensator Failure Leading to Starting Issues and Battery Drain",
+      "impact": "The failure of the compensator can cause the battery to drain, leading to starting issues, which can leave the rider stranded and potentially cause accidents.",
+      "symptoms": [
+        "The bike has difficulty starting or will not start",
+        "the battery drains quickly",
+        "the bike has intermittent starting issues",
+        "the compensator is faulty."
+      ],
+      "odiNumbers": [
+        "11003065",
+        "10899813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle-by-Wire System Failure",
+      "impact": "The failure of the throttle-by-wire system can cause the motorcycle to enter \"limp mode\" or \"breakdown mode\", resulting in a sudden loss of power and throttle response, which can lead to accidents, especially in heavy traffic or high-speed conditions.",
+      "symptoms": [
+        "The motorcycle's engine runs",
+        "but the throttle response is limited to a low RPM only mode",
+        "making it difficult to maintain speed or accelerate; the motorcycle may enter \"limp mode\" or \"breakdown mode\" without warning",
+        "causing a loss of power and throttle response."
+      ],
+      "odiNumbers": [
+        "10455386",
+        "10432529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "BACK OVER PREVENTION",
+    "STEERING",
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parts Distribution Disconnect for Recall Repair",
+      "impact": "The unavailability of parts for recall repair can lead to delays in fixing safety-critical issues, potentially putting drivers and passengers at risk.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available for repair",
+        "dealer confirms parts are not available",
+        "manufacturer confirms parts are not available."
+      ],
+      "odiNumbers": [
+        "11542969",
+        "11541229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Reverse Gear Failure",
+      "impact": "The failure of the reverse gear can cause the vehicle to move forward instead of backward, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle moves forward instead of backward when put in reverse gear",
+        "intermittent issue",
+        "safety risk due to unexpected vehicle movement."
+      ],
+      "odiNumbers": [
+        "11487740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Sensor and Camera System Failure",
+      "impact": "The failure of the rear sensor and camera system can increase the risk of accidents, injuries, or fatalities, especially when reversing or parking, as the driver may not be alerted to obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "No warning alarms or alerts when reversing or parking",
+        "rear camera not functioning or providing a clear image",
+        "blind spot warning system not working",
+        "difficulty detecting obstacles or pedestrians behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11497201",
+        "11495587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electric Power Steering (EPS) System Failure",
+      "impact": "The failure of the EPS system can cause the steering to lock or become difficult to turn, especially when driving at high speeds, which can lead to loss of control and increase the risk of accidents.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn or locks when turning",
+        "especially when driving at high speeds (above 25mph)",
+        "the steering wheel feels stiff or heavy",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "11538747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Diagnostic and Repair by Dealership",
+      "impact": "The failure of dealerships to properly diagnose and repair issues can lead to continued safety risks and frustration for vehicle owners.",
+      "symptoms": [
+        "Dealership mechanics fail to diagnose the issue",
+        "dealerships claim that no problem is found despite the owner's complaints",
+        "dealerships refuse to replace faulty components",
+        "owners are forced to continue driving a potentially unsafe vehicle."
+      ],
+      "odiNumbers": [
+        "11538747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lift Gate Malfunction",
+      "impact": "The lift gate opening by itself can cause unexpected and uncontrolled movement, potentially leading to accidents, injuries, or property damage. Additionally, the battery drain can leave the vehicle stranded.",
+      "symptoms": [
+        "The lift gate opens unexpectedly while the vehicle is in park",
+        "the lift gate opens overnight while parked",
+        "the battery is drained",
+        "the lift gate opens randomly."
+      ],
+      "odiNumbers": [
+        "11528343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera Display Dimming in Low Light Conditions",
+      "impact": "The dimming of the backup camera display in low light conditions can significantly reduce the driver's visibility, increasing the risk of accidents or injuries when reversing, particularly in dark environments.",
+      "symptoms": [
+        "The backup camera display becomes very dim or difficult to see when shifting into reverse at night",
+        "making it hard to observe the area behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11511198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

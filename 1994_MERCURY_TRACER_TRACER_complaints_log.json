@@ -1,0 +1,316 @@
+{
+  "totalComplaints": 76,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 18,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can cause extended stopping distances, accidents, and injuries, as well as failure of airbags to deploy, which can further exacerbate the severity of the consequences.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "brakes locking up",
+        "excessive pedal travel without vehicle braking",
+        "failure to stop",
+        "brake rotors cracking in half",
+        "and airbag failure to deploy."
+      ],
+      "odiNumbers": [
+        "10254268",
+        "767135",
+        "836338",
+        "806726",
+        "507824",
+        "985156",
+        "504337",
+        "982286",
+        "501528",
+        "962880",
+        "960536",
+        "958707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure",
+      "impact": "Airbag failure can lead to increased risk of injury or fatality in the event of an accident, as the airbag is designed to provide additional protection to occupants.",
+      "symptoms": [
+        "Airbag failure to deploy during an accident",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "10254268",
+        "507824",
+        "985156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "Seatbelt failure can increase the risk of injury or fatality in the event of an accident, as the seatbelt is designed to restrain occupants and prevent ejection from the vehicle.",
+      "symptoms": [
+        "Failure of the seatbelt to tighten or operate correctly",
+        "leading to inadequate restraint of occupants."
+      ],
+      "odiNumbers": [
+        "806726",
+        "985156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "Engine head gasket failure can cause engine overheating, loss of power, and stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "loss of power",
+        "stalling",
+        "coolant leaks",
+        "cracked head gaskets",
+        "warped engine manifold."
+      ],
+      "odiNumbers": [
+        "10128827",
+        "751842",
+        "964924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intake Manifold Gasket Failure",
+      "impact": "Intake manifold gasket failure can cause engine stalling, loss of power, and oxygen sensor malfunction, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "oxygen sensor malfunction",
+        "disintegrated manifold gasket."
+      ],
+      "odiNumbers": [
+        "751842",
+        "556219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Pulley and Belt Failure",
+      "impact": "Engine pulley and belt failure can cause engine stalling, loss of power, and accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "belt tear",
+        "pulley separation."
+      ],
+      "odiNumbers": [
+        "827717"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Motor Mount Failure",
+      "impact": "Motor mount failure can cause engine vibration, noise, and loss of power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine vibration",
+        "noise",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "781508"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Temperature Gauge Failure",
+      "impact": "Temperature gauge failure can cause engine overheating, which can lead to engine damage and accidents.",
+      "symptoms": [
+        "Temperature gauge malfunction."
+      ],
+      "odiNumbers": [
+        "0"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "537601",
+        "536730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Gasket Failure",
+      "impact": "Gasket failure can cause oil leaks, engine overheating, and loss of power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "engine overheating",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "527402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "Timing belt failure can cause engine damage and stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Loud noise from timing belt."
+      ],
+      "odiNumbers": [
+        "964924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seat Belt Failure",
+      "impact": "The failure of the motorized seat belt can lead to inadequate restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to operate",
+        "only goes halfway on the track and stops",
+        "fails to unlock when the door opens",
+        "tightens up too much",
+        "or hangs out of the retractor and won't retract back into the mechanism."
+      ],
+      "odiNumbers": [
+        "853849",
+        "850162",
+        "540928",
+        "825615",
+        "816041",
+        "507560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatback Bolt Failure",
+      "impact": "The failure of the seatback bolt can cause the seat belt to malfunction, leading to inadequate restraint and increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatback bolt breaks",
+        "and the seat belt does not lock."
+      ],
+      "odiNumbers": [
+        "803064",
+        "802596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Shoulder Belt Failure",
+      "impact": "The failure of the shoulder belt can lead to inadequate restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The shoulder belt fails to restrain the occupant in an accident."
+      ],
+      "odiNumbers": [
+        "504501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Motor Belt Failure",
+      "impact": "The failure of the driver's side motor belt can cause the belt to become virtually unusable, leading to a safety issue.",
+      "symptoms": [
+        "The motor belt on the driver's side fails."
+      ],
+      "odiNumbers": [
+        "719843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Malfunction",
+      "impact": "The intermittent flashing of the airbag warning light can indicate a faulty airbag system, which can lead to failure of the airbag to deploy in the event of an accident, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light on the dashboard blinks intermittently",
+        "often in a specific pattern (e.g.",
+        "3-2 or 5-1)."
+      ],
+      "odiNumbers": [
+        "10010112",
+        "753896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of an accident can lead to injuries or fatalities, as the airbag is designed to provide critical protection to occupants in crash situations.",
+      "symptoms": [
+        "The airbag does not deploy during an accident",
+        "or deploys only partially",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "507824",
+        "504337",
+        "502271",
+        "976958",
+        "975834",
+        "971849",
+        "971789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "Improper airbag deployment can cause injuries or fatalities, as the airbag may not provide the necessary protection or may cause harm to occupants.",
+      "symptoms": [
+        "The airbag deploys incorrectly",
+        "resulting in burns",
+        "sparks",
+        "or smoke",
+        "or fails to deploy properly",
+        "leading to injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "975834",
+        "971849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

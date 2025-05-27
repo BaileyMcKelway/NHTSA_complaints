@@ -1,0 +1,151 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of automatic seat belts can increase the risk of injury or death in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belt does not function",
+        "the seat belt freezes and cannot be pulled out",
+        "the seat belt buckle unlatches while driving",
+        "the seat belt jams in the locking mechanism",
+        "the motor belt fails",
+        "the nylon tacks for belts have worn away."
+      ],
+      "odiNumbers": [
+        "898359",
+        "845194",
+        "812428",
+        "507699",
+        "978806",
+        "966026",
+        "489955",
+        "958731",
+        "958539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can lead to a loss of power, stalling, or even a fire, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine failure",
+        "engine blowout",
+        "excessive smoke",
+        "stalling",
+        "knocking or unusual noises from the engine."
+      ],
+      "odiNumbers": [
+        "550323",
+        "534613",
+        "507934",
+        "969439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Failure (Water Pump Failure)",
+      "impact": "Cooling system failure can cause engine overheating, leading to engine damage, failure, or even a fire.",
+      "symptoms": [
+        "Water pump failure",
+        "engine overheating",
+        "coolant leaks."
+      ],
+      "odiNumbers": [
+        "550323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failure (Muffler Failure)",
+      "impact": "Exhaust system failure can cause loud noises, decreased performance, and potentially lead to exhaust leaks, which can be hazardous to occupants.",
+      "symptoms": [
+        "Muffler failure",
+        "loud noises from the exhaust system."
+      ],
+      "odiNumbers": [
+        "550323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "Turbocharger failure can cause decreased engine performance, stalling, or even engine failure.",
+      "symptoms": [
+        "Turbocharger failure",
+        "engine stalling",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "507934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Piston Failure",
+      "impact": "Piston failure can cause engine knocking, stalling, or even engine failure.",
+      "symptoms": [
+        "Engine knocking",
+        "piston failure."
+      ],
+      "odiNumbers": [
+        "969439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Oil System Failure (Potential for Oil Fire)",
+      "impact": "Oil system failure can cause oil leaks, engine damage, or even a fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Oil leaks",
+        "potential for oil fire."
+      ],
+      "odiNumbers": [
+        "744424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Rack and Pinion Failure",
+      "impact": "The failure of the power steering rack and pinion can cause a loss of steering control, making it difficult to maneuver the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The steering becomes difficult or stiff",
+        "the steering wheel feels loose or wanders",
+        "the vehicle pulls to one side",
+        "the steering rack and pinion unit leaks fluid",
+        "unusual noises or vibrations are present while steering."
+      ],
+      "odiNumbers": [
+        "550323",
+        "513202",
+        "502038",
+        "476838",
+        "476747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

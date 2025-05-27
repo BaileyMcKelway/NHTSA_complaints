@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "STRUCTURE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Gear Failure",
+      "impact": "The failure of the starter gear can cause the starter motor to malfunction, leading to difficulty or inability to start the motorcycle, which can leave the rider stranded.",
+      "symptoms": [
+        "Loud noise or clanking sound when starting the motorcycle",
+        "starter gear slips",
+        "starter motor spins without engaging",
+        "inability to start the motorcycle."
+      ],
+      "odiNumbers": [
+        "10020884",
+        "10033941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Overcharging and Rectifier Failure",
+      "impact": "The overcharging of the battery can cause it to leak sulfuric acid, leading to corrosion and damage to surrounding components, and potentially causing a fire. The failure of the rectifier can also cause electrical system malfunctions.",
+      "symptoms": [
+        "Battery leakage",
+        "sulfuric acid spill",
+        "electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "10838037"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Chain Failure",
+      "impact": "The sudden failure of the motorcycle's chain can cause loss of control, accidents, and damage to the vehicle, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The chain snaps or breaks while riding",
+        "resulting in loss of power and control",
+        "and potentially causing damage to the underside of the motorcycle."
+      ],
+      "odiNumbers": [
+        "10080232",
+        "10008800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Rod Seal Failure",
+      "impact": "The failure of the clutch rod seal can cause contaminants to enter the clutch system, leading to discoloration of the DOT 4 brake fluid, which can compromise the clutch system and potentially cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Discoloration of the DOT 4 brake fluid",
+        "clutch system failure",
+        "compromised clutch performance."
+      ],
+      "odiNumbers": [
+        "761056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tip Over Sensor Bracket Failure",
+      "impact": "The failure of the tip over sensor bracket can cause the motorcycle to stall or become disabled, leading to a loss of control and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The motorcycle suddenly stalls or becomes disabled",
+        "the motorcycle is unable to restart",
+        "the tip over sensor bracket is broken or damaged."
+      ],
+      "odiNumbers": [
+        "10103156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Contaminated Clutch Fluid",
+      "impact": "Contaminated clutch fluid can cause the clutch system to malfunction, leading to difficulty shifting gears, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Brake fluid in the clutch system is contaminated",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear",
+        "noisy front brakes."
+      ],
+      "odiNumbers": [
+        "8009850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Brake Maintenance",
+      "impact": "Failure to properly maintain the brakes can lead to reduced stopping power, increasing the risk of accidents.",
+      "symptoms": [
+        "Noisy front brakes",
+        "excessive brake wear",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "8009850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "WHEELS",
+    "STEERING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Hydraulic Control Unit (HCU) Failure",
+      "impact": "The failure of the ABS HCU can cause the loss of front or rear brakes, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The front brake lever is frozen and cannot be depressed",
+        "the front brakes do not work",
+        "the brakes lock up while driving",
+        "the loss of braking system functionality."
+      ],
+      "odiNumbers": [
+        "11375052",
+        "11321064",
+        "11161708",
+        "11039851",
+        "11003185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Rear Wheel Assembly (Smooth Spoke Wheels)",
+      "impact": "The defective rear wheel assembly can cause sudden tire deflation, leading to loss of control, accidents, and potential fatalities.",
+      "symptoms": [
+        "Sudden and unexpected rear tire deflation",
+        "especially when cornering or braking",
+        "causing the motorcycle to slide or wash out",
+        "and potentially leading to accidents or near-misses."
+      ],
+      "odiNumbers": [
+        "10704345",
+        "10702466"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Harley-Davidson Front End Steering Wobble",
+      "impact": "The front end steering wobble can cause loss of control, accidents, and injuries, especially at high speeds. This issue can be particularly dangerous when decelerating or taking hands off the handlebars.",
+      "symptoms": [
+        "The front end of the motorcycle wobbles or shakes",
+        "especially during deceleration or when taking hands off the handlebars",
+        "making it difficult to maintain straight and level riding."
+      ],
+      "odiNumbers": [
+        "10573615",
+        "10538143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Engine Heat",
+      "impact": "Excessive engine heat can cause the engine to stall, leading to a loss of control and increasing the risk of accidents. Prolonged exposure to high temperatures can also cause burns to the rider and passenger, and potentially lead to clothing catching fire.",
+      "symptoms": [
+        "The engine overheats",
+        "especially when idling or at low speeds",
+        "the motorcycle stalls when the throttle is applied",
+        "high cylinder temperatures (measured at 280°F in the front cylinder and 380°F in the rear cylinder)",
+        "unbearable heat emanating from the engine",
+        "discomfort and heat stress for the rider and passenger."
+      ],
+      "odiNumbers": [
+        "10562544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ineffective Engine Idle Temperature Management System (EITMS)",
+      "impact": "The failure of the EITMS to regulate engine temperature can lead to excessive engine heat, causing discomfort, heat stress, and potentially even burns to the rider and passenger.",
+      "symptoms": [
+        "The engine overheats",
+        "especially when idling or at low speeds",
+        "the EITMS fails to reduce engine temperature",
+        "high cylinder temperatures",
+        "unbearable heat emanating from the engine."
+      ],
+      "odiNumbers": [
+        "10562544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

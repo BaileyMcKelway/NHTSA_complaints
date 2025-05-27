@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the engine to stall or misfire, leading to a loss of power and potential accidents, especially when driving on highways. This issue can also cause financial hardship due to the high cost of replacement.",
+      "symptoms": [
+        "Engine stalling",
+        "misfiring",
+        "rough idling",
+        "loss of power",
+        "check engine light illumination",
+        "sudden failure of ignition coils",
+        "repeated replacement of ignition coils."
+      ],
+      "odiNumbers": [
+        "11241999",
+        "11010296",
+        "10882613",
+        "10790459",
+        "10639367",
+        "10637777",
+        "10626978",
+        "10614517",
+        "10605278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of vehicle occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbag warning light is illuminated",
+        "rattling noise from the passenger side airbag area."
+      ],
+      "odiNumbers": [
+        "11499932",
+        "11324093",
+        "10575181",
+        "10524281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Malfunction of the airbag system can lead to false warnings, failure to deploy airbags in a crash, or unintended airbag deployment, which can cause accidents or injuries.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "rattling noise from the passenger side airbag area",
+        "airbag recall notice received but unable to verify recall status."
+      ],
+      "odiNumbers": [
+        "11046099",
+        "10917471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates rapidly without warning",
+        "the gas pedal becomes slack",
+        "the vehicle continues to rev even when in park",
+        "the vehicle bucks and hesitates when accelerating."
+      ],
+      "odiNumbers": [
+        "11162543",
+        "11113538",
+        "10473176",
+        "10386464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "Ignition coil failure can cause the vehicle to hesitate, buck, and lose power, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle hesitates and bucks when accelerating",
+        "the vehicle will not accelerate past a certain speed",
+        "the check engine light does not come on despite the problem."
+      ],
+      "odiNumbers": [
+        "10692591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

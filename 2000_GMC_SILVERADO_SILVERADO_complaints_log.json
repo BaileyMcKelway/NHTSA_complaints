@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rust on Brake Rotors",
+      "impact": "Rust on brake rotors can cause the brakes to fail, leading to accidents or loss of control.",
+      "symptoms": [
+        "Rust on brake rotors",
+        "brake failure",
+        "inability to stop the vehicle",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10152008"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "ABS failure can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS engages unnecessarily",
+        "slow stopping",
+        "unpredictable braking",
+        "brake pedal goes to the floor",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10132859",
+        "10129821",
+        "10090111",
+        "8019747",
+        "564522",
+        "888922",
+        "886578",
+        "877527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "ABS sensor failure can cause the ABS system to malfunction, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS engages at low speed",
+        "prevents stopping",
+        "sensors need to be replaced or cleaned repeatedly."
+      ],
+      "odiNumbers": [
+        "10129821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion of Brake Lines and Components",
+      "impact": "Corrosion of brake lines and components can cause brake fluid leakage, leading to a loss of brake power, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "Wet brake lines",
+        "flaking brake rotors",
+        "rusted brake lines",
+        "brake fluid leakage",
+        "inability to use the emergency brake",
+        "noise in the steering."
+      ],
+      "odiNumbers": [
+        "10172577",
+        "10055427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Failure of Power Brakes and Power Steering",
+      "impact": "Intermittent failure of power brakes and power steering can cause unexpected loss of braking and steering assist, leading to increased stopping distances and difficulty controlling the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "Power brakes and power steering fail",
+        "but return to normal operation after restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "10055427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Cross Member Corrosion",
+      "impact": "Corrosion around the cross member that supports the fuel tank can cause the fuel tank to become dislodged, leading to fuel leaks, fires, and potentially serious accidents.",
+      "symptoms": [
+        "Visible corrosion around the cross member",
+        "rust or flaking metal around the fuel tank support",
+        "fuel tank sagging or hanging low",
+        "fuel leaks",
+        "fuel odor."
+      ],
+      "odiNumbers": [
+        "10785564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

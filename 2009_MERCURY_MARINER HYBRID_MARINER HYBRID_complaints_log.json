@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause a sudden loss of power steering assist, making it difficult or impossible to steer the vehicle, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The power steering assist system fails",
+        "the steering becomes difficult to turn",
+        "the steering locks or becomes stuck",
+        "the vehicle is hard to steer",
+        "the steering system suddenly recovers after a brief failure."
+      ],
+      "odiNumbers": [
+        "11209102",
+        "11186852",
+        "11142526",
+        "11132863",
+        "10956031",
+        "10944964",
+        "10455263",
+        "10418503"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Body Failure",
+      "impact": "The failure of the electronic throttle body can cause sudden loss of power, unintended acceleration, or failure to respond to braking, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of power",
+        "unintended acceleration",
+        "failure to respond to braking",
+        "vehicle surges forward",
+        "RPMs increase unexpectedly",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10929802",
+        "10820879",
+        "10356004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Defect",
+      "impact": "The throttle body defect can cause the vehicle to hesitate or stall, leading to a loss of power and acceleration, which can increase the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The vehicle hesitates or stalls",
+        "the accelerator ceases to function",
+        "the vehicle loses power and cannot accelerate",
+        "warning lights and messages appear",
+        "such as \"STOP SAFELY NOW\"."
+      ],
+      "odiNumbers": [
+        "10924881",
+        "10909735",
+        "10748285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the loss of brakes, leading to accidents or near-misses, especially when driving at higher speeds.",
+      "symptoms": [
+        "The ABS system turns off",
+        "the \"Regen Brake Failure\" warning appears",
+        "the brake pedal feels soft or goes to the floor",
+        "pumping the brake pedal does not help",
+        "and the vehicle may continue to move forward even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10919135",
+        "10429479",
+        "10347348"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause the loss of brakes, leading to accidents or near-misses, especially when driving at higher speeds.",
+      "symptoms": [
+        "The brake pedal feels soft or goes to the floor",
+        "pumping the brake pedal does not help",
+        "and the vehicle may continue to move forward even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10429479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vacuum Pump/Hose Assembly Failure",
+      "impact": "The failure of the vacuum pump/hose assembly can cause the loss of brakes, leading to accidents or near-misses, especially when driving at higher speeds.",
+      "symptoms": [
+        "The brake pedal feels soft or goes to the floor",
+        "pumping the brake pedal does not help",
+        "and the vehicle may continue to move forward even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "10429479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Body Failure",
+      "impact": "The failure of the electronic throttle body can cause the vehicle to lose power, leading to a loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the \"wrench\" fault indicator on the dashboard illuminates",
+        "the vehicle's throttle control is lost",
+        "the vehicle's speed is unpredictable",
+        "the vehicle's acceleration is unpredictable."
+      ],
+      "odiNumbers": [
+        "10717782",
+        "10679147",
+        "10641710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Anti-Lock Braking System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to fail, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The warning lights on the dashboard come on",
+        "the brakes fail",
+        "the vehicle is unable to stop or slow down",
+        "the vehicle's stability is compromised."
+      ],
+      "odiNumbers": [
+        "10717782"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

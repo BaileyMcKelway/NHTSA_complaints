@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The engine stalling can cause loss of power assist systems, leading to a sudden loss of control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine shuts down while driving",
+        "all power assist systems fail",
+        "the vehicle may restart immediately or after several hours",
+        "the vehicle may not start for days after stalling."
+      ],
+      "odiNumbers": [
+        "983337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Belt Failure",
+      "impact": "The failure of the timing belt can cause engine damage, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The timing belt breaks or fails",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "482522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause engine overheating, leading to engine damage, costly repairs, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The water pump fails",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "482522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Fire",
+      "impact": "A fuel tank fire can cause serious injury or death, as well as significant damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Flames or smoke emanating from the fuel tank area",
+        "often while fueling or shortly after."
+      ],
+      "odiNumbers": [
+        "856362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration Due to Faulty Brake Pedal Position Sensor",
+      "impact": "The failure of the brake pedal position sensor can cause the vehicle to accelerate unexpectedly, even when the driver is attempting to brake, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates unintentionally",
+        "the vehicle fails to slow down or stop when the brake pedal is pressed",
+        "the brake pedal feels spongy or soft",
+        "the vehicle's speed increases even when the driver is not pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "984963"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Axle Failure Leading to Loss of Steering/Control",
+      "impact": "The sudden failure of the axle can cause the loss of steering and control, leading to a significant increase in the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The axle drops or separates",
+        "causing the vehicle to lose steering and control",
+        "the vehicle pulls to one side",
+        "the vehicle vibrates or shakes",
+        "the vehicle makes a loud noise",
+        "the vehicle becomes difficult to steer."
+      ],
+      "odiNumbers": [
+        "482522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corroded K-Frame Causing Axle Failure",
+      "impact": "The corrosion of the K-frame can lead to axle failure, resulting in loss of steering and control, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle's axle drops",
+        "causing loss of steering and control",
+        "uneven tire wear",
+        "vibrations while driving",
+        "noises from the axle or wheels",
+        "and difficulty steering."
+      ],
+      "odiNumbers": [
+        "482522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

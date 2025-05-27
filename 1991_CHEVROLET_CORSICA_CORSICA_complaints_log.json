@@ -1,0 +1,294 @@
+{
+  "totalComplaints": 133,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall or shake violently, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the vehicle shakes violently",
+        "the ignition module fails",
+        "the vehicle has increased idle speed",
+        "the vehicle has sudden acceleration."
+      ],
+      "odiNumbers": [
+        "474789",
+        "475024",
+        "472388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Short Circuit",
+      "impact": "The electrical system short circuit can cause fires in the steering column, wiring harness, or under the dash, leading to potential accidents and injuries.",
+      "symptoms": [
+        "Smoke or fire emanates from the steering column",
+        "wiring harness",
+        "or under the dash",
+        "turn signal wires short circuit",
+        "electrical wiring failure."
+      ],
+      "odiNumbers": [
+        "550873",
+        "708010",
+        "812320",
+        "502989",
+        "973282",
+        "968592",
+        "966630",
+        "489251",
+        "963496",
+        "962054",
+        "961977",
+        "962028",
+        "482229",
+        "961935",
+        "961635",
+        "961383",
+        "961393",
+        "961396",
+        "961394",
+        "961414",
+        "961286",
+        "959822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbag system can lead to serious injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "the airbag fails to function properly."
+      ],
+      "odiNumbers": [
+        "10010886",
+        "961935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause loss of control and potential accidents, especially at slow speeds.",
+      "symptoms": [
+        "The vehicle stalls at slow speeds",
+        "the vehicle stalls when applying brakes."
+      ],
+      "odiNumbers": [
+        "877760",
+        "474789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Dimmer Switch Failure",
+      "impact": "The failure of the headlight dimmer switch can cause the headlights to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The headlight switch fails to engage the high/low beam",
+        "the switch becomes hard to operate",
+        "the switch falls off",
+        "the headlights go off when the dimmer switch is employed",
+        "the headlights dim when the steering wheel is turned in a certain direction."
+      ],
+      "odiNumbers": [
+        "10042660",
+        "739781",
+        "854903",
+        "537829",
+        "820519",
+        "808203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Electrical Issues",
+      "impact": "The electrical issues in the steering column can cause smoke and burning odors, leading to a risk of fire and electrical system failure.",
+      "symptoms": [
+        "Smoke comes from the steering column",
+        "smoke comes from the turn signal switch",
+        "burning odor from the steering column",
+        "smoke from the hazard light area",
+        "wiring problem with turn signal actuator",
+        "smoke under the dashboard."
+      ],
+      "odiNumbers": [
+        "507774",
+        "487684",
+        "487684",
+        "487737",
+        "488947",
+        "972540",
+        "970266",
+        "484795",
+        "967528",
+        "966998",
+        "964481",
+        "962981",
+        "961647",
+        "961538",
+        "961231",
+        "960799",
+        "960777",
+        "960757",
+        "472388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "Failure of the airbag sensor can lead to the airbag not deploying in the event of a crash, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag sensor light comes on",
+        "the airbag does not deploy in a crash",
+        "the airbag deploys unexpectedly while driving."
+      ],
+      "odiNumbers": [
+        "826839",
+        "814727",
+        "979143",
+        "974531",
+        "973611",
+        "970301",
+        "970269",
+        "968716",
+        "962545",
+        "962532",
+        "961935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "Failure of the airbag to deploy in a crash can result in serious injury or death.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "the airbag deploys with excessive force",
+        "the airbag deploys unexpectedly while driving."
+      ],
+      "odiNumbers": [
+        "524198",
+        "524181",
+        "817362",
+        "521759",
+        "813631",
+        "812279",
+        "811395",
+        "974531",
+        "973611",
+        "970301",
+        "968716",
+        "962532",
+        "961935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Violent Airbag Deployment",
+      "impact": "Violent airbag deployment can cause serious injury or death, even in low-speed crashes.",
+      "symptoms": [
+        "The airbag deploys with excessive force",
+        "causing injury or loss of control of the vehicle."
+      ],
+      "odiNumbers": [
+        "524198",
+        "524181",
+        "812279",
+        "811395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Rack Failure",
+      "impact": "The failure of the steering rack can cause the steering to become very difficult, making it hard to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The steering is very hard to turn",
+        "the steering wheel locks up",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "898720",
+        "962532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Hydraulic System Failure",
+      "impact": "The failure of the steering hydraulic system can cause the steering to become very difficult, making it hard to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The steering is very hard to turn",
+        "the steering wheel feels loose",
+        "the steering system makes noise."
+      ],
+      "odiNumbers": [
+        "564032",
+        "472388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Column Electrical Failure",
+      "impact": "The failure of the steering column electrical system can cause smoke to come from the steering column, which can lead to a fire, and also cause the turn signals to malfunction, which can lead to accidents.",
+      "symptoms": [
+        "Smoke comes from the steering column",
+        "the turn signals malfunction",
+        "the steering column smokes while driving."
+      ],
+      "odiNumbers": [
+        "813691",
+        "985125",
+        "973309",
+        "964270",
+        "960795",
+        "960807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Paint Defect",
+      "impact": "The paint defect can cause the paint to peel off, which can lead to rust and corrosion, affecting the vehicle's appearance and potentially its safety.",
+      "symptoms": [
+        "The paint peels off",
+        "the vehicle's appearance is affected."
+      ],
+      "odiNumbers": [
+        "717345",
+        "513185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

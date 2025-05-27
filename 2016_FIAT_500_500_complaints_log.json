@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Loss of Motive Power",
+      "impact": "The transmission slipping and loss of motive power can cause the vehicle to stall or lose acceleration, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips",
+        "the vehicle loses motive power",
+        "the vehicle shifts into neutral without warning",
+        "the check engine warning indicator illuminates",
+        "the vehicle jerks and shifts roughly",
+        "the vehicle fails to immediately accelerate."
+      ],
+      "odiNumbers": [
+        "11531886",
+        "11190342",
+        "11120642",
+        "10760850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the vehicle to lose acceleration, making it difficult to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11258624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Drive Axle Failure",
+      "impact": "The failure of the drive axle can cause a loss of power, making it difficult to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The drive axle fails",
+        "the bolts holding the axle to the transmission shear",
+        "the vehicle loses power",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "11464484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to refuse to start, leading to inconvenience and potential safety risks. Additionally, it can affect the operation of various systems, including the AWD system, brakes, and tire sensors, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "The vehicle refuses to start",
+        "electrical problems",
+        "computer problems",
+        "errors with drive mode unavailable",
+        "tire sensor damage or low warnings",
+        "and brakes squeaking when in reverse."
+      ],
+      "odiNumbers": [
+        "11052126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Keyless Entry System Failure",
+      "impact": "The failure of the keyless entry system can cause inconvenience and potential safety risks, as the driver may be unable to unlock the doors or access the vehicle.",
+      "symptoms": [
+        "The doors fail to unlock while using the key fob",
+        "inability to access the vehicle."
+      ],
+      "odiNumbers": [
+        "10894320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "The brake noise and vibration can be a sign of a more serious underlying issue, which can affect vehicle safety and performance.",
+      "symptoms": [
+        "Brakes squeak when in reverse."
+      ],
+      "odiNumbers": [
+        "11052126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag Deployment in Crash Situations",
+      "impact": "The failure of airbags to deploy in crash situations can lead to increased risk of injury or fatality to occupants, particularly in high-impact collisions.",
+      "symptoms": [
+        "Airbags fail to deploy in crash situations",
+        "despite meeting the deployment threshold",
+        "leaving occupants vulnerable to injury or fatality."
+      ],
+      "odiNumbers": [
+        "11319855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EQUIPMENT",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Bose Rear Speaker Amplifier Failure and Fire Hazard",
+      "impact": "The failure of the Bose rear speaker amplifier can cause a fire to break out in the rear compartment, potentially leading to a total loss of the vehicle, and posing a significant risk to the safety of the occupants.",
+      "symptoms": [
+        "Rear speaker crackling and hissing",
+        "progressive worsening of speaker noise",
+        "fire breaking out in the rear compartment",
+        "smoke filling the passenger compartment",
+        "loss of control of the vehicle due to smoke."
+      ],
+      "odiNumbers": [
+        "10098504",
+        "562515",
+        "749562",
+        "551334",
+        "718851",
+        "855932",
+        "718067",
+        "711484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Harness Failure to Driver's Door",
+      "impact": "The failure of the wiring harness to the driver's door can cause intermittent and unpredictable activation of power windows and locks, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "Power windows and locks activate intermittently and without warning",
+        "power windows and locks malfunction when the driver's door is opened or closed",
+        "faulty electrical connections cause unexpected behavior of power accessories."
+      ],
+      "odiNumbers": [
+        "10260952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Rotor Warping",
+      "impact": "Warped front brake rotors can cause the vehicle to vibrate or pulsate when the brakes are applied, leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle vibrates or pulsates when the brakes are applied",
+        "the brake pedal feels spongy or soft",
+        "the brakes make a grinding or screeching noise",
+        "the rotors are excessively worn or have visible scoring."
+      ],
+      "odiNumbers": [
+        "500801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

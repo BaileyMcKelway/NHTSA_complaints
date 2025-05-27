@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "VISIBILITY",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Backrest Failure",
+      "impact": "The sudden collapse of the driver's seat backrest can cause loss of control, accidents, or injuries, especially when driving at high speeds.",
+      "symptoms": [
+        "The driver's seat backrest suddenly falls backward",
+        "the seat does not lock or relatch in place",
+        "the seat is stuck in a reclined position",
+        "the seat is broken and cannot be adjusted."
+      ],
+      "odiNumbers": [
+        "886460",
+        "838526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Windshield Wiper Electric Module",
+      "impact": "The failure of the windshield wiper electric module can cause the windshield wipers to malfunction or not operate at all, reducing visibility during inclement weather and increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers intermittently fail during operation",
+        "windshield wipers will not come on at all",
+        "inconsistent or erratic windshield wiper performance."
+      ],
+      "odiNumbers": [
+        "868700",
+        "841849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Malfunction in Wet Weather",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) in wet weather can cause the vehicle's brakes to lock up, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brakes lock up when applying the ABS brakes in wet weather",
+        "the vehicle surges forward after brake release",
+        "the ABS light comes on",
+        "and the stopping distance is increased."
+      ],
+      "odiNumbers": [
+        "813541",
+        "973785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VISIBILITY",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the deployment of airbags without reason, causing injuries, or the failure to deploy airbags in the event of a crash, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag light flashes constantly",
+        "the airbag light flickers on and off",
+        "the airbag deploys without reason",
+        "the airbag fails to deploy in the event of a crash",
+        "the SRS control unit fails without any reason."
+      ],
+      "odiNumbers": [
+        "10058723",
+        "767355",
+        "757407",
+        "855829",
+        "712016",
+        "842014",
+        "829987",
+        "827960",
+        "817008",
+        "806903",
+        "801511",
+        "985936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "SRS Control Unit Failure",
+      "impact": "The failure of the SRS control unit can cause the airbag system to malfunction, leading to the deployment of airbags without reason or the failure to deploy airbags in the event of a crash, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag light flashes constantly",
+        "the SRS control unit fails without any reason",
+        "the airbag deploys without reason",
+        "the airbag fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10058723",
+        "757407",
+        "712016",
+        "842014",
+        "985936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment without Reason",
+      "impact": "The deployment of airbags without reason can cause injuries to the driver and passengers, and can lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The airbag deploys without reason",
+        "the airbag light flickers on and off",
+        "the driver and passengers suffer injuries."
+      ],
+      "odiNumbers": [
+        "855829",
+        "842014",
+        "806903",
+        "829987",
+        "827960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure to Deploy Airbags in Crash",
+      "impact": "The failure to deploy airbags in the event of a crash can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag fails to deploy in the event of a crash",
+        "the vehicle is involved in a crash",
+        "the driver and passengers suffer injuries."
+      ],
+      "odiNumbers": [
+        "767355",
+        "817008",
+        "985936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Arm Linkage Failure",
+      "impact": "The failure of the windshield wiper arm linkage can cause the wipers to stop functioning, reducing visibility while driving in rain or snow, which can lead to accidents.",
+      "symptoms": [
+        "The windshield wiper arm linkage pops off",
+        "the wipers become non-functional",
+        "the driver's side windshield wiper does not work",
+        "the passenger side windshield wiper works intermittently",
+        "the wipers stop working while driving in rain or snow."
+      ],
+      "odiNumbers": [
+        "10211068",
+        "10164385",
+        "10161804",
+        "10141372",
+        "10126935",
+        "10100510",
+        "10034131",
+        "568184"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Loud noise",
+        "feeling of something hitting the side of the car",
+        "tire tread peeling off",
+        "bulge on the sidewall",
+        "loss of air pressure."
+      ],
+      "odiNumbers": [
+        "10142207",
+        "563846",
+        "555087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Tire Belt",
+      "impact": "A defective tire belt can cause tire failure, leading to loss of vehicle control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Damaged belt",
+        "bulge on the sidewall",
+        "tire failure."
+      ],
+      "odiNumbers": [
+        "563846",
+        "555087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Underinflation-Related Tire Failure",
+      "impact": "Underinflation can cause tire failure, leading to loss of vehicle control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Tire failure",
+        "tread separation",
+        "bulge on the sidewall",
+        "loss of air pressure."
+      ],
+      "odiNumbers": [
+        "10142207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

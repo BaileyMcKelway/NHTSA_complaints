@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to a lack of protection for the driver and passengers in the event of an accident, which can result in serious injury or fatality.",
+      "symptoms": [
+        "The seat belt does not retract properly",
+        "the seat belt jams or tightens up while driving",
+        "the seat belt does not slide back over the body",
+        "a clicking noise is heard in the center console",
+        "the red seat belt light blinks."
+      ],
+      "odiNumbers": [
+        "10651769",
+        "844862",
+        "845882",
+        "709833",
+        "838754",
+        "528587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inoperative Automatic Shoulder Belt Assembly",
+      "impact": "The failure of the automatic shoulder belt assembly can cause the seat belt to malfunction, leading to a lack of protection for the driver and passengers in the event of an accident, which can result in serious injury or fatality.",
+      "symptoms": [
+        "The rail of the automatic shoulder belt assembly gets jammed",
+        "the shoulder belt is rendered inoperative."
+      ],
+      "odiNumbers": [
+        "844862",
+        "528587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Failure of Seat Belt to Lock in Crash",
+      "impact": "The failure of the seat belt to lock in a crash can cause the driver and passengers to be inadequately protected, leading to serious injury or fatality.",
+      "symptoms": [
+        "The seat belt did not lock up to protect the consumer in a side collision."
+      ],
+      "odiNumbers": [
+        "838754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Module Failure and Unavailability of Replacement Parts",
+      "impact": "The failure of the airbag module can cause the airbag system to malfunction, potentially leading to injuries or fatalities in the event of an accident. The unavailability of replacement parts can leave vehicle owners without a functioning airbag system, increasing the risk of harm.",
+      "symptoms": [
+        "The airbag light on the dashboard blinks a code (51) indicating failure of the airbag module",
+        "the airbag system may not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10691210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Support from Manufacturer for Airbag Module Replacement",
+      "impact": "The lack of support from the manufacturer can leave vehicle owners without a functioning airbag system, increasing the risk of harm. The recommendation to purchase used airbag modules from junkyard dealers can be costly and may not ensure the reliability of the airbag system.",
+      "symptoms": [
+        "The manufacturer fails to provide replacement parts",
+        "recommends purchasing used parts from junkyard dealers",
+        "and does not offer adequate support for repairing or replacing the airbag system."
+      ],
+      "odiNumbers": [
+        "10691210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Non-Compliance with FMVSS 208 (Occupant Crash Protection Passive Restraint Requirement)",
+      "impact": "The vehicle's non-compliance with FMVSS 208 can increase the risk of injury or fatality in the event of a crash, as the passive restraint system may not provide adequate protection to occupants.",
+      "symptoms": [
+        "None reported",
+        "as this is a regulatory compliance issue rather than a functional problem."
+      ],
+      "odiNumbers": [
+        "10004113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Occupancy Sensor Failure in Passenger Seat",
+      "impact": "The failure of the occupancy sensor in the passenger seat can cause the airbag system to malfunction, shutting off the passenger airbag and potentially leading to injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag light on the dashboard is flashing",
+        "the SRS system faults out",
+        "an error code appears stating an OCS malfunction",
+        "the passenger airbag is shut off",
+        "the SRS system error starts flashing when someone sits in the passenger seat."
+      ],
+      "odiNumbers": [
+        "11512683",
+        "11497654",
+        "11446449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to shake uncontrollably, making it difficult to control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle shakes uncontrollably while driving",
+        "the transmission fails to engage properly",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11144755",
+        "11517252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the transmission to malfunction, leading to erratic shifting, loss of power, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Error codes P0720 and P0500 appear on the dashboard",
+        "the transmission shifts erratically",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11517252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Battery Drain",
+      "impact": "The intermittent battery drain can cause the vehicle to not start, leaving the driver stranded, and potentially causing inconvenience, delay, and safety risks.",
+      "symptoms": [
+        "The battery goes dead after the vehicle sits for 1-2 weeks",
+        "the vehicle won't start",
+        "the battery needs to be replaced multiple times",
+        "the problem persists despite replacing the battery and remote start batteries."
+      ],
+      "odiNumbers": [
+        "11388152",
+        "11090979"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The battery failure can cause the vehicle to not start, leaving the driver stranded, and potentially causing inconvenience, delay, and safety risks.",
+      "symptoms": [
+        "The battery goes dead",
+        "the vehicle won't start",
+        "the battery needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "11388152",
+        "11090979"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Windshield Failure",
+      "impact": "The sudden and unexpected shattering of the windshield can cause driver distraction, loss of visibility, and potentially lead to accidents or injuries from sharp glass shards.",
+      "symptoms": [
+        "Loud noise",
+        "sudden implosion of the windshield",
+        "shower of small",
+        "sharp glass shards",
+        "cuts or injuries from glass fragments."
+      ],
+      "odiNumbers": [
+        "10750120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Windshield Glass",
+      "impact": "The use of non-tempered glass in the windshield can lead to sharp shards upon breakage, increasing the risk of injury to occupants.",
+      "symptoms": [
+        "Sharp glass shards",
+        "cuts or injuries from glass fragments",
+        "difficulty cleaning up due to sharp edges."
+      ],
+      "odiNumbers": [
+        "10750120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

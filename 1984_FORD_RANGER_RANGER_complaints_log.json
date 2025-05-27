@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of power steering and braking, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle loses power",
+        "the vehicle comes to a sudden stop",
+        "the engine dies while driving."
+      ],
+      "odiNumbers": [
+        "10015609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Flames or smoke are visible from the engine compartment",
+        "the vehicle's engine or surrounding components are damaged",
+        "the vehicle's electrical system is malfunctioning",
+        "the vehicle's warning lights or alarms are activated."
+      ],
+      "odiNumbers": [
+        "506871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Motor Speed Control Resistor Coil Fire Hazard",
+      "impact": "The design and location of the open wire wound motor speed control resistor block can cause debris, such as leaves, to collect and ignite, resulting in a vehicle fire, which can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden appearance of smoke or flames from the heating/ventilating system",
+        "ashes blowing from the vent system",
+        "odor of smoldering leaves",
+        "loss of visibility while driving",
+        "need to immediately stop the vehicle and exit."
+      ],
+      "odiNumbers": [
+        "703638",
+        "536262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Fire",
+      "impact": "An electrical system fire can cause damage to the vehicle's electrical components, potentially leading to a loss of critical vehicle functions, and in extreme cases, can spread to other parts of the vehicle, posing a risk to the occupants and bystanders.",
+      "symptoms": [
+        "The vehicle experiences an electrical fire",
+        "often accompanied by smoke",
+        "flames",
+        "and a burning smell. The fire may be localized to a specific area",
+        "such as the ignition switch",
+        "or may spread to other parts of the vehicle."
+      ],
+      "odiNumbers": [
+        "983521",
+        "979223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

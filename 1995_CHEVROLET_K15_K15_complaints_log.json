@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the airbag is designed to provide critical protection to the driver and passengers.",
+      "symptoms": [
+        "Airbags do not deploy in a frontal collision",
+        "driver's side airbag fails to deploy",
+        "airbag does not deploy at a certain speed (e.g. 35mph",
+        "38mph",
+        "50mph)",
+        "airbag failure to deploy in a head-on accident",
+        "airbag failure to deploy in a collision with an embankment."
+      ],
+      "odiNumbers": [
+        "504730",
+        "504718",
+        "981391",
+        "980843",
+        "980052",
+        "980215",
+        "976630",
+        "974056",
+        "971577",
+        "958634",
+        "958471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause loss of control of the vehicle, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes lock up",
+        "loss of control of the vehicle",
+        "no brake pressure",
+        "brake pedal goes to the floor",
+        "excessive stopping distance."
+      ],
+      "odiNumbers": [
+        "876538",
+        "807423",
+        "504718",
+        "980298",
+        "980298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the driver to lose control of the vehicle, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "no brake pressure",
+        "excessive stopping distance."
+      ],
+      "odiNumbers": [
+        "876538",
+        "804990",
+        "972785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotors can cause the brakes to fail, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake rotors separate",
+        "grinding noise when braking",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "8005243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brake pedal to go to the floor, leading to loss of control of the vehicle and accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "no brake pressure",
+        "excessive stopping distance."
+      ],
+      "odiNumbers": [
+        "972785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Frame Failure",
+      "impact": "The failure of the seat frame can cause the seat to rock, recline, or collapse, which can lead to accidents or injuries due to loss of control or compromised driving position.",
+      "symptoms": [
+        "The seat rocks or moves excessively",
+        "the seat back collapses",
+        "the seat does not slide in its track",
+        "abnormal noise from the seat",
+        "the seat frame cracks or breaks."
+      ],
+      "odiNumbers": [
+        "513173",
+        "802951",
+        "503432",
+        "979425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

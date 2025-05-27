@@ -1,0 +1,338 @@
+{
+  "totalComplaints": 317,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 18,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly",
+        "without warning",
+        "and may continue to accelerate even when the accelerator pedal is released. The brakes may not respond effectively",
+        "and the vehicle may surge forward."
+      ],
+      "odiNumbers": [
+        "11432816",
+        "11352503",
+        "11242784",
+        "11124544",
+        "11074167",
+        "10940044",
+        "10849794",
+        "10653624",
+        "10640137",
+        "10567664",
+        "10533082",
+        "10531925",
+        "10522389",
+        "10520432",
+        "10520216",
+        "10514556",
+        "10513043",
+        "10505205",
+        "10482025",
+        "10466482",
+        "10464444",
+        "10456380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stuck Accelerator Pedal",
+      "impact": "A stuck accelerator pedal can cause the vehicle to accelerate unexpectedly, leading to loss of control and accidents.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck",
+        "causing the vehicle to accelerate rapidly",
+        "and may not respond to braking."
+      ],
+      "odiNumbers": [
+        "11413711",
+        "10903057",
+        "10817317",
+        "10620808",
+        "10520216",
+        "10482025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine RPM Surge",
+      "impact": "An engine RPM surge can cause the vehicle to accelerate unexpectedly, leading to loss of control and accidents.",
+      "symptoms": [
+        "The engine RPM surges or increases rapidly",
+        "causing the vehicle to accelerate",
+        "and may not respond to braking."
+      ],
+      "odiNumbers": [
+        "11110879",
+        "11048607",
+        "10806706",
+        "10567664",
+        "10520216",
+        "10456380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine shuts off",
+        "the fuel pump fuse melts",
+        "the fuse box is damaged",
+        "and the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "11289174",
+        "11265445",
+        "11208286",
+        "11205836",
+        "11205077",
+        "11103384",
+        "11065953",
+        "10959586",
+        "10914371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Fuse Failure",
+      "impact": "The failure of the fuel pump fuse can cause the engine to stall, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The fuel pump fuse melts",
+        "the engine stalls",
+        "and the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "11289174",
+        "11265445",
+        "11208286",
+        "11205836",
+        "11205077",
+        "10959586",
+        "10914371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose traction, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the vehicle's traction control system engages",
+        "and the vehicle's brakes lock up."
+      ],
+      "odiNumbers": [
+        "10788584",
+        "10723429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Handle and Lock Failure",
+      "impact": "The failure of the door handle and lock can cause the doors to open or close unexpectedly, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The door handle breaks",
+        "the door lock fails",
+        "and the door opens or closes unexpectedly."
+      ],
+      "odiNumbers": [
+        "11533098",
+        "11011365",
+        "10924324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Instrument Panel Illumination Failure",
+      "impact": "The failure of the instrument panel illumination can cause the driver to be unable to read the gauges, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The instrument panel is not illuminated during daylight conditions",
+        "making it difficult to read the gauges."
+      ],
+      "odiNumbers": [
+        "10524142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Drive-By-Wire System Failure",
+      "impact": "The failure of the drive-by-wire system can cause the vehicle to lose acceleration, leading to a loss of control, and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle's acceleration is limited",
+        "and the driver is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "10515229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Water Leaks and Mold Growth",
+      "impact": "The failure of the vehicle's seals and water leaks can cause mold growth, leading to a health hazard.",
+      "symptoms": [
+        "Water leaks into the vehicle",
+        "and mold growth is present."
+      ],
+      "odiNumbers": [
+        "10511764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Erratic shifting",
+        "slipping",
+        "chattering",
+        "surging",
+        "and failure to engage gears",
+        "including park."
+      ],
+      "odiNumbers": [
+        "10397388",
+        "10386567",
+        "10349403",
+        "10303259",
+        "10296802",
+        "10261828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Pack Failure",
+      "impact": "Clutch pack failure can cause loss of control, accidents, and injuries, especially when towing or driving on inclines.",
+      "symptoms": [
+        "Grinding and shaking of the drive train",
+        "especially when towing or driving on inclines."
+      ],
+      "odiNumbers": [
+        "10414952",
+        "10361618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Reverse Gear Failure",
+      "impact": "Reverse gear failure can cause loss of control, accidents, and injuries, especially when reversing on inclines.",
+      "symptoms": [
+        "Vehicle rolls backwards when stopped on an incline",
+        "even when in park."
+      ],
+      "odiNumbers": [
+        "10318631",
+        "10303259",
+        "10296802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Drive Shaft Bracket Failure",
+      "impact": "Drive shaft bracket failure can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Weld failure of the drive shaft bracket",
+        "which can cause the drive shaft to break and puncture the fuel tank."
+      ],
+      "odiNumbers": [
+        "11217623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Fluid Leaks",
+      "impact": "Transmission fluid leaks can cause loss of control, accidents, and injuries, especially if the leak is not addressed promptly.",
+      "symptoms": [
+        "Transmission fluid leaks",
+        "which can cause the transmission to fail."
+      ],
+      "odiNumbers": [
+        "10586022",
+        "10397388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Spontaneous Acceleration",
+      "impact": "Spontaneous acceleration can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle accelerates suddenly and uncontrollably",
+        "even when the driver is not pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "10628543",
+        "10471575",
+        "10465648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "Cruise control failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Cruise control fails to disengage",
+        "causing the vehicle to accelerate uncontrollably."
+      ],
+      "odiNumbers": [
+        "10628543",
+        "10465648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Reverse Sensing System Failure",
+      "impact": "Reverse sensing system failure can cause accidents and injuries, especially when reversing.",
+      "symptoms": [
+        "Reverse sensing system fails to display objects behind the vehicle",
+        "making it difficult to back up safely."
+      ],
+      "odiNumbers": [
+        "10261828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

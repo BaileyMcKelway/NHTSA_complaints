@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure due to Rust and Corrosion",
+      "impact": "The failure of the brake lines can cause the brake pedal to go to the floor, leading to a loss of braking ability, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop",
+        "the brake warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11052369",
+        "10667482",
+        "10650279",
+        "10549434",
+        "10513515",
+        "10509368",
+        "10509419",
+        "10479667",
+        "10464592",
+        "10417832",
+        "10403668",
+        "10398928",
+        "10392416",
+        "10356781",
+        "10324843",
+        "10140122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to take longer to stop, increasing the risk of accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS motor blows out",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the ABS light illuminates."
+      ],
+      "odiNumbers": [
+        "10140122",
+        "10006841",
+        "878286",
+        "874916"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure (Belt Separation, Blowout, or Tread Peel-Off)",
+      "impact": "Tire failure can lead to loss of vehicle control, accidents, and injuries, especially when driving at high speeds.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire blowout",
+        "tire tread peeling off",
+        "vibration or shaking while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10288680",
+        "10197987",
+        "873421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Leaf Spring Shackle Failure",
+      "impact": "The failure of the rear leaf spring shackle can cause loss of vehicle control, leading to accidents or damage to the vehicle.",
+      "symptoms": [
+        "Loud clunking or banging noise",
+        "broken or rusted rear leaf spring shackle",
+        "difficulty steering or maintaining control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10512624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the vehicle to jerk forward or lose control, leading to accidents or damage to the vehicle.",
+      "symptoms": [
+        "ABS engages unnecessarily",
+        "vehicle jerks forward when approaching a stop",
+        "uneven or rough braking",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "10206185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

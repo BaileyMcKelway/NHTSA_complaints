@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EQUIPMENT",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Cooler Failure",
+      "impact": "The failure of the transmission cooler can cause damage to the transmission, leading to erratic shifting, loss of power, and potentially leaving the driver stranded. Repeated failures can lead to costly repairs and compromise vehicle safety.",
+      "symptoms": [
+        "Transmission cooler leaking fluid",
+        "cracking",
+        "abnormal drive train vibration",
+        "transmission shifting erratically",
+        "transmission slipping into gear without driver input."
+      ],
+      "odiNumbers": [
+        "565364",
+        "565026",
+        "565026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Electronic Control Issues",
+      "impact": "The malfunction of the transmission's electronic control system can cause the transmission to shift erratically, leading to loss of power, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission shifts on its own",
+        "transmission shifts from high to low or to neutral",
+        "transmission goes into gear by itself without driver input",
+        "loose connections in the transmission."
+      ],
+      "odiNumbers": [
+        "565365",
+        "558455"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "In-Dash Radio Failure",
+      "impact": "The failure of the in-dash radio can cause inconvenience and disappointment to the vehicle owner, and may also lead to a dispute with the manufacturer or dealership regarding warranty coverage.",
+      "symptoms": [
+        "The in-dash radio stops functioning",
+        "no sound or display on the radio."
+      ],
+      "odiNumbers": [
+        "565088",
+        "565088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "A/C Compressor Bracket Bolt Failure",
+      "impact": "The failure of the bolt on the A/C compressor bracket can cause the air conditioning system to malfunction, leading to reduced cooling performance or complete failure, which can be a safety concern in extreme temperatures.",
+      "symptoms": [
+        "The air conditioning system is not cooling properly",
+        "the A/C compressor is making unusual noises",
+        "the bolt on the A/C compressor bracket is broken or sheared."
+      ],
+      "odiNumbers": [
+        "565026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission-Engine Interference Issue",
+      "impact": "The ambiguity between transmission and engine problems can lead to misdiagnosis, delayed repairs, and potential safety risks, such as loss of vehicle control or stalling, especially when driving at high speeds.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "hesitation or delay in gear engagement",
+        "unusual noises or vibrations during gear shifts",
+        "loss of power or acceleration",
+        "engine stalling or hesitation."
+      ],
+      "odiNumbers": [
+        "565596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manufacturer Finger-Pointing",
+      "impact": "The lack of accountability and clarity from manufacturers can lead to frustration, wasted time, and financial losses for vehicle owners, as well as potential safety risks due to delayed or inadequate repairs.",
+      "symptoms": [
+        "Conflicting diagnoses from different manufacturers",
+        "lack of clear responsibility for repairs",
+        "delayed or inadequate repair attempts",
+        "owner frustration and financial losses."
+      ],
+      "odiNumbers": [
+        "565596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

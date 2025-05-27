@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Speedometer Cable Failure",
+      "impact": "The failure of the speedometer cable can cause the speedometer to malfunction or stop working, making it difficult for the driver to determine the vehicle's speed, which can lead to accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer needle does not move",
+        "the speedometer displays an incorrect speed",
+        "the speedometer is stuck on a specific speed",
+        "the speedometer is not functioning at all."
+      ],
+      "odiNumbers": [
+        "549352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Adjustment Issues with Clicking Noise",
+      "impact": "The brake adjustment issue with a clicking noise can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "The brakes make a clicking noise",
+        "the brakes are out of adjustment",
+        "the brake pedal feels spongy or soft",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "549352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unexpected Engine Stalling and Wheel Lockup",
+      "impact": "The sudden stalling of the engine and locking of the wheels can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The engine stops running while driving",
+        "the wheels lock up",
+        "loss of power and control",
+        "sudden and unexpected stalling."
+      ],
+      "odiNumbers": [
+        "549352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Failure",
+      "impact": "The failure of the headlight can reduce visibility, making it difficult to drive safely, especially at night or in low-light conditions, which can increase the risk of accidents.",
+      "symptoms": [
+        "The headlight does not turn on",
+        "the headlight is dim or flickering",
+        "the headlight has a reduced beam distance",
+        "the headlight has a yellow or discolored tint."
+      ],
+      "odiNumbers": [
+        "549352",
+        "549352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

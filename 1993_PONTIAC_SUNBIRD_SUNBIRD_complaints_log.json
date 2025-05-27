@@ -1,0 +1,284 @@
+{
+  "totalComplaints": 46,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake power",
+        "brake pedal travels to the floorboard",
+        "anti-lock brake light comes on",
+        "no braking ability",
+        "vehicle feels like it's skating on ice",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "755254",
+        "857413",
+        "826937",
+        "804685",
+        "501460",
+        "480744",
+        "480984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake power",
+        "brake pedal travels to the floorboard",
+        "anti-lock brake light comes on",
+        "no braking ability",
+        "vehicle feels like it's skating on ice."
+      ],
+      "odiNumbers": [
+        "857413",
+        "826937",
+        "804685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic Brake Hose Failure",
+      "impact": "The failure of the hydraulic brake hose can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake power",
+        "brake pedal travels to the floorboard",
+        "anti-lock brake light comes on",
+        "no braking ability."
+      ],
+      "odiNumbers": [
+        "480744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Pad Failure",
+      "impact": "The failure of the front brake pads can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brake power",
+        "brake pedal travels to the floorboard",
+        "anti-lock brake light comes on",
+        "no braking ability."
+      ],
+      "odiNumbers": [
+        "480984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause engine damage, overheating, and loss of vehicle control, which can lead to accidents or strand the driver.",
+      "symptoms": [
+        "Water leaks inside the car",
+        "radiator leak",
+        "heater core failure",
+        "head gasket failure",
+        "thermostat failure",
+        "freeze out plugs",
+        "engine wet with oil."
+      ],
+      "odiNumbers": [
+        "10070865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, breakdown, or even engine fire, which can result in accidents or injuries.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the engine is overheating",
+        "coolant is leaking",
+        "the radiator cap and valve are corroded and rusted",
+        "the vehicle is losing coolant."
+      ],
+      "odiNumbers": [
+        "718659",
+        "814403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Serpentine Belt Failure",
+      "impact": "The failure of the serpentine belt can cause the engine to overheat, leading to engine damage, breakdown, or even engine fire, which can result in accidents or injuries.",
+      "symptoms": [
+        "The serpentine belt has failed",
+        "the engine is overheating",
+        "the vehicle is losing power."
+      ],
+      "odiNumbers": [
+        "781957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or break down, leading to accidents or injuries, and can result in costly repairs.",
+      "symptoms": [
+        "The engine has failed",
+        "the vehicle is unable to move",
+        "the engine is making unusual noises."
+      ],
+      "odiNumbers": [
+        "605543",
+        "482009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Thermostat Failure",
+      "impact": "Thermostat failure can cause the engine to overheat, leading to engine damage, breakdown, or even engine fire, which can result in accidents or injuries.",
+      "symptoms": [
+        "The thermostat has failed",
+        "the engine is overheating",
+        "the temperature gauge is in the red zone."
+      ],
+      "odiNumbers": [
+        "483957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oil Pressure Switch Failure",
+      "impact": "Oil pressure switch failure can cause the engine to seize or fail, leading to engine damage, breakdown, or even engine fire, which can result in accidents or injuries.",
+      "symptoms": [
+        "The oil pressure switch has failed",
+        "the engine is making unusual noises",
+        "the oil pressure light is on."
+      ],
+      "odiNumbers": [
+        "483957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "EGR valve failure can cause the engine to run poorly, leading to decreased performance, decreased fuel efficiency, and increased emissions.",
+      "symptoms": [
+        "The EGR valve has failed",
+        "the engine is running poorly",
+        "the check engine light is on."
+      ],
+      "odiNumbers": [
+        "483957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a short circuit, leading to a fire, which can result in damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "The vehicle's battery drains quickly",
+        "the vehicle won't start",
+        "smoke or flames coming from the dashboard or glove box area",
+        "the horn fails to work",
+        "and the auto lock system malfunctions."
+      ],
+      "odiNumbers": [
+        "10053146",
+        "8016716",
+        "542747",
+        "830806",
+        "980643",
+        "969419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seat Belt Retraction Failure",
+      "impact": "Failure of the front seat belts to retract properly can increase the risk of injury or accident in the event of sudden stops or crashes, as the belts may not be in the correct position to restrain the occupant.",
+      "symptoms": [
+        "The seat belts do not retract properly",
+        "get jammed",
+        "or do not reach the buckle receiver",
+        "making it difficult or impossible to buckle up."
+      ],
+      "odiNumbers": [
+        "851697",
+        "533288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shoulder Harness Failure",
+      "impact": "Failure of the shoulder harness can lead to serious injury or fatality in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The shoulder harness fails to operate properly",
+        "causing the occupant to hit the steering wheel or other objects in the vehicle."
+      ],
+      "odiNumbers": [
+        "780192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Material Failure",
+      "impact": "Failure of the seat belt material can lead to serious injury or fatality in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt breaks or comes apart",
+        "such as stitches coming out of the belt",
+        "while buckled."
+      ],
+      "odiNumbers": [
+        "605799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lap Shoulder Belt Failure",
+      "impact": "Failure of the lap shoulder belt can lead to serious injury or fatality in the event of a crash, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The lap shoulder belt fails to operate properly",
+        "such as in the 12:00 position",
+        "at a speed of 50 mph."
+      ],
+      "odiNumbers": [
+        "965174"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

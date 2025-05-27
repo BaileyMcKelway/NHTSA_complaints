@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Solenoid Failure",
+      "impact": "The failure of the ABS solenoid can cause the vehicle to lose partial braking ability, pull to one side, and veer off course, increasing the risk of accidents.",
+      "symptoms": [
+        "Intermittent ABS brake failure",
+        "vehicle pulls to one side (left or right) during brake application",
+        "loss of braking power",
+        "vehicle veers off course during sudden stopping conditions."
+      ],
+      "odiNumbers": [
+        "854618",
+        "538399",
+        "528852",
+        "527531",
+        "816853",
+        "805188",
+        "802305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Idle Control Valve Failure",
+      "impact": "The sudden and unpredictable acceleration of the vehicle can lead to accidents, loss of control, and potentially cause harm to the driver and passengers.",
+      "symptoms": [
+        "The engine suddenly accelerates as the RPMs drop",
+        "the vehicle accelerates unexpectedly while in park or neutral",
+        "the vehicle fails to cut off when slowing down or coming to a stop."
+      ],
+      "odiNumbers": [
+        "527552",
+        "977828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "The failure of the cruise control system can cause the vehicle to accelerate unexpectedly, leading to loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The cruise control system fails to disengage",
+        "the vehicle accelerates unexpectedly while using cruise control",
+        "the vehicle fails to respond to cruise control inputs."
+      ],
+      "odiNumbers": [
+        "509813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

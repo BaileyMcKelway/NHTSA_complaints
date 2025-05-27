@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Brake Sensor",
+      "impact": "The faulty brake sensor can prevent the vehicle from starting, as the car may not register that it is in park, which can lead to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the brake pedal will not engage",
+        "the green key light on the dash flashes",
+        "the vehicle is in park but the car is not registering it."
+      ],
+      "odiNumbers": [
+        "11208564",
+        "11244726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Drain and Acceleration Issues",
+      "impact": "The battery drain and acceleration issues can cause the vehicle to stop accelerating, leading to potential safety risks, especially in traffic or emergency situations.",
+      "symptoms": [
+        "The vehicle stops accelerating",
+        "the service engine light and traction control warning light turn on",
+        "little acceleration occurs",
+        "the engine seems to overheat in hot weather",
+        "the battery acid leaks",
+        "causing damage."
+      ],
+      "odiNumbers": [
+        "11493768",
+        "11529300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "The premature tire wear can lead to reduced traction, increased stopping distances, and potential accidents.",
+      "symptoms": [
+        "The front tires wear out prematurely",
+        "the back tires look almost new",
+        "the tires are too worn to rotate."
+      ],
+      "odiNumbers": [
+        "11244726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause severe damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Smoke or burning odor coming from under the hood",
+        "black smoke pouring out of the engine",
+        "flames erupting from the engine compartment",
+        "vehicle filling with smoke",
+        "windshield bursting out."
+      ],
+      "odiNumbers": [
+        "11219568",
+        "11123265",
+        "11089115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loss of Power and Deceleration",
+      "impact": "Sudden loss of power and deceleration can cause accidents, especially if it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Vehicle decelerates without warning",
+        "loss of power",
+        "engine failure to restart."
+      ],
+      "odiNumbers": [
+        "11219568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Non-Functional Burglar Alarm and Ignition Lock-out",
+      "impact": "The absence of a functioning burglar alarm and ignition lock-out can leave the vehicle vulnerable to theft and vandalism, potentially causing financial loss and compromising safety.",
+      "symptoms": [
+        "No alarm sounds when attempting to break into the vehicle",
+        "no ignition lock-out feature",
+        "armed indicator light on the dash is present",
+        "but no alarm sounds when the vehicle is locked and armed."
+      ],
+      "odiNumbers": [
+        "11518417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Traction Control and Brake System",
+      "impact": "The malfunctioning traction control and brake system can cause the vehicle to lose control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Traction light and brake light repeatedly come on and remain on",
+        "humming sound as if the traction system is engaging at each stop",
+        "brakes may not function properly",
+        "lights may return after servicing and brake replacement."
+      ],
+      "odiNumbers": [
+        "11289043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

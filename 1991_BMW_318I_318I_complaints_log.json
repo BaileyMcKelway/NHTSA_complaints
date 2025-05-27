@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER",
+    "SEAT BELTS",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Profile Gasket Failure (M42 Engine 4CYL, 16 Valve)",
+      "impact": "The failure of the engine profile gasket can cause a complete loss of coolant fluid, leading to engine overheating, damage, and potentially catastrophic failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leakage from the engine",
+        "loss of coolant fluid",
+        "engine overheating",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "10067830",
+        "10032495",
+        "529537",
+        "513347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Crankshaft Position Sensor",
+      "impact": "The failure of the crankshaft position sensor can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the check engine light is illuminated",
+        "the vehicle experiences rough idling",
+        "the vehicle hesitates or stumbles when accelerating."
+      ],
+      "odiNumbers": [
+        "730570",
+        "730570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inconsistent Seat Belt Buckle Latching",
+      "impact": "The intermittent failure of the seat belt buckle to latch can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The driver's side seat belt buckle will not latch",
+        "the passenger's side seat belt buckle will latch intermittently",
+        "difficulty fastening or unfastening the seat belt."
+      ],
+      "odiNumbers": [
+        "8007211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manufacturer and Dealer Unresponsiveness",
+      "impact": "The lack of assistance from the manufacturer and dealer can lead to frustration and financial burden on the consumer, as they may be forced to seek alternative solutions, such as replacing parts with second-hand components.",
+      "symptoms": [
+        "Manufacturer and dealer unwilling to assist with repair or replacement",
+        "consumer forced to seek alternative solutions",
+        "consumer experiences financial burden due to lack of assistance."
+      ],
+      "odiNumbers": [
+        "8007211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag Deployment in Crash Situations",
+      "impact": "The failure of airbag deployment in crash situations can lead to serious injury or even death, as the airbag is designed to provide critical protection to the driver and passengers.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "despite meeting the deployment threshold",
+        "resulting in potential harm to the driver and passengers."
+      ],
+      "odiNumbers": [
+        "876191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Lock Cylinder Failure",
+      "impact": "The failure of the ignition lock cylinder can prevent the vehicle from starting, leaving the driver stranded and potentially causing inconvenience or safety risks.",
+      "symptoms": [
+        "The key cannot be turned in the ignition",
+        "the key is stuck in the ignition",
+        "the ignition switch is difficult to turn",
+        "the vehicle will not start."
+      ],
+      "odiNumbers": [
+        "865697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

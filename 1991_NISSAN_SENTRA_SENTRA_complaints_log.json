@@ -1,0 +1,181 @@
+{
+  "totalComplaints": 72,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to not lock up, leading to increased risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt does not retract",
+        "the seat belt warning light and buzzer activate",
+        "the seat belt tightens up unexpectedly."
+      ],
+      "odiNumbers": [
+        "8007737",
+        "984061",
+        "971387",
+        "960794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motorized Seat Belt Failure",
+      "impact": "The failure of the motorized seat belt can cause the seat belt to not release or lock up, leading to increased risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt will not release",
+        "the seat belt locks halfway",
+        "the seat belt becomes stuck."
+      ],
+      "odiNumbers": [
+        "505824",
+        "487894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to come undone, leading to increased risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle fails",
+        "the seat belt comes undone",
+        "the seat belt buckle cracks."
+      ],
+      "odiNumbers": [
+        "503283",
+        "501555",
+        "964713",
+        "960563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frontal Crash Restraint Failure",
+      "impact": "The failure of the frontal crash restraints can cause the seat belt to not hold the passenger in place, leading to increased risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The seat belt does not hold the passenger in place",
+        "the seat belt fails to restrain during a frontal crash."
+      ],
+      "odiNumbers": [
+        "816597",
+        "980917",
+        "983999",
+        "965047",
+        "964648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Hose Failure",
+      "impact": "The failure of fuel system hoses can lead to liquid fuel leakage, increasing the risk of fire hazards, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Strong smell of fuel",
+        "smoke from under the hood",
+        "fuel leakage",
+        "engine hesitation",
+        "transmission hesitation",
+        "vehicle catching on fire."
+      ],
+      "odiNumbers": [
+        "10445009",
+        "868763",
+        "701444",
+        "813893",
+        "806931"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of fuel injectors can cause engine hesitation, transmission hesitation, and decreased vehicle performance, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine hesitation",
+        "transmission hesitation",
+        "decreased vehicle performance."
+      ],
+      "odiNumbers": [
+        "529913",
+        "523742",
+        "964076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause engine hesitation, transmission hesitation, and decreased vehicle performance, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine hesitation",
+        "transmission hesitation",
+        "decreased vehicle performance",
+        "fuel pump replacement required."
+      ],
+      "odiNumbers": [
+        "529913",
+        "974377",
+        "459962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure (Slipping, Hanging, or Not Shifting Properly)",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become stuck in a particular gear, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission slips between gears",
+        "transmission hangs up in a particular gear",
+        "transmission does not shift properly into gear",
+        "vehicle pops out of gear",
+        "transmission remains in neutral after shifting to drive gear",
+        "loss of power",
+        "vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10166980",
+        "713804",
+        "710115",
+        "825191",
+        "518325",
+        "520629",
+        "514657"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Clutch Failure (Loose or Faulty Clutch)",
+      "impact": "Clutch failure can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "10166980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

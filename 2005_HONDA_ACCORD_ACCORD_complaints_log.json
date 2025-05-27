@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 680,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a potential problem with the airbag system, which can lead to failure to deploy or improper deployment in the event of an accident, resulting in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light stays on",
+        "the airbag warning light flashes",
+        "the airbag warning light is illuminated intermittently",
+        "the airbag system is not functioning properly",
+        "the airbag did not deploy in an accident."
+      ],
+      "odiNumbers": [
+        "11475312",
+        "11453847",
+        "11425263",
+        "11420423",
+        "11417792",
+        "11406746",
+        "11355639",
+        "11342442",
+        "11318540",
+        "11302699",
+        "11298596",
+        "11289386",
+        "11282596",
+        "11270113",
+        "11270067",
+        "11258471",
+        "11254958",
+        "11229619",
+        "11228720",
+        "11210154",
+        "11192170",
+        "11190576",
+        "11182001",
+        "11172525",
+        "11172059",
+        "11171345",
+        "11170607",
+        "11161479",
+        "11152056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in an accident can result in serious injury or death.",
+      "symptoms": [
+        "The airbag did not deploy in an accident",
+        "the airbag deployed improperly",
+        "the airbag failed to deploy despite meeting the deployment criteria."
+      ],
+      "odiNumbers": [
+        "11420423",
+        "11417792",
+        "11282596",
+        "11182001",
+        "11172525",
+        "11152056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "A malfunctioning airbag system can lead to failure to deploy or improper deployment in the event of an accident, resulting in serious injury or death.",
+      "symptoms": [
+        "The airbag system is not functioning properly",
+        "the airbag warning light is illuminated",
+        "the airbag did not deploy in an accident",
+        "the airbag deployed improperly."
+      ],
+      "odiNumbers": [
+        "11425263",
+        "11318540",
+        "11289386",
+        "11270113",
+        "11254958",
+        "11192170",
+        "11190576",
+        "11170607",
+        "11161479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

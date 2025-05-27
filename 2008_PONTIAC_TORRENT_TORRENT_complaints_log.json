@@ -1,0 +1,207 @@
+{
+  "totalComplaints": 122,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Presence System (PPS) Failure",
+      "impact": "The failure of the Passenger Presence System can cause the airbag warning light to illuminate, indicating that the passenger airbag is not activated, which can lead to serious injury or death in the event of a crash.",
+      "symptoms": [
+        "The airbag warning light is on",
+        "the passenger airbag light is off or intermittent",
+        "the passenger airbag does not deploy in a crash",
+        "the light comes on and off when someone is sitting in the passenger seat",
+        "the light stays on even when no one is in the passenger seat."
+      ],
+      "odiNumbers": [
+        "11505419",
+        "11441849",
+        "11440620",
+        "11366679",
+        "11349766",
+        "11246039",
+        "11154442",
+        "11150092",
+        "11140730",
+        "11131791",
+        "11047027",
+        "11043439",
+        "11030142",
+        "11001434",
+        "10954514",
+        "10948985",
+        "10929511",
+        "10889026",
+        "10861033",
+        "10851976",
+        "10838111",
+        "10837750",
+        "10825943",
+        "10825533",
+        "10775319",
+        "10722484",
+        "10722505",
+        "10722221",
+        "10690278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Leak and Fuel Odor Issues",
+      "impact": "A fuel leak can cause a fire hazard, potentially leading to serious injury or death. The strong odor of fuel can also cause discomfort and distraction while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Strong fuel odor inside and outside the vehicle",
+        "fuel leak from the gas tank area",
+        "fuel dripping from the bottom of the car",
+        "wet spot on the underside of the vehicle",
+        "fuel smell coming from the rear of the vehicle",
+        "fuel pump module leak",
+        "cracked fuel pump",
+        "and faulty fuel neck."
+      ],
+      "odiNumbers": [
+        "11256332",
+        "11166385",
+        "11120463",
+        "11084320",
+        "11064530",
+        "10906353",
+        "10870928",
+        "10864257",
+        "10853153",
+        "10783387",
+        "10782237",
+        "10749369",
+        "10671549",
+        "10637309",
+        "10524555",
+        "10486744",
+        "10474162",
+        "10471517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Module Failure",
+      "impact": "A faulty fuel pump module can cause a fuel leak, leading to a fire hazard and potentially serious injury or death.",
+      "symptoms": [
+        "Fuel leak from the fuel pump module",
+        "cracked fuel pump",
+        "and faulty fuel neck."
+      ],
+      "odiNumbers": [
+        "10906353",
+        "10870928",
+        "10864257",
+        "10853153",
+        "10671549",
+        "10637309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank and Fuel Neck Issues",
+      "impact": "A faulty fuel tank or fuel neck can cause a fuel leak, leading to a fire hazard and potentially serious injury or death.",
+      "symptoms": [
+        "Fuel leak from the gas tank area",
+        "fuel dripping from the bottom of the car",
+        "wet spot on the underside of the vehicle",
+        "and faulty fuel neck."
+      ],
+      "odiNumbers": [
+        "11084320",
+        "11064530",
+        "10864257",
+        "10853153",
+        "10474162",
+        "10471517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various malfunctions, including power window and lock failures, airbag light issues, and ignition switch problems, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "Power windows and locks stop working",
+        "airbag light is on and off",
+        "ignition switch gets stuck",
+        "key won't come out",
+        "and electrical issues with the dashboard lights."
+      ],
+      "odiNumbers": [
+        "11176054",
+        "10978675",
+        "10840147",
+        "10785177",
+        "10706496",
+        "10578719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of an accident, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Airbag light is on and off",
+        "airbags do not deploy in an accident",
+        "and faulty seat belt and airbag warning lights."
+      ],
+      "odiNumbers": [
+        "10985481",
+        "10872585",
+        "10470714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the key to get stuck, the engine to not shut off, and the battery to drain, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "Ignition switch gets stuck",
+        "key won't come out",
+        "engine won't shut off",
+        "and battery drain."
+      ],
+      "odiNumbers": [
+        "10706496",
+        "10578719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause electrical issues, including power window and lock failures, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "Power windows and locks stop working",
+        "broken wires in the wiring harness",
+        "and electrical issues with the dashboard lights."
+      ],
+      "odiNumbers": [
+        "11176054",
+        "10840147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

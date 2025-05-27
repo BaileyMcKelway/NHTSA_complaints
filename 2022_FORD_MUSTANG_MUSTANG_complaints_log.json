@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Window Regulatory Failure",
+      "impact": "The failure of the window regulatory system can cause driver distraction while driving, leading to hazardous situations, and also leaves the vehicle vulnerable to theft.",
+      "symptoms": [
+        "The window does not return to the fully closed position when the door is shut",
+        "the window tries to fully close but then goes down a 1/2\" and returns to fully closed repeatedly while driving."
+      ],
+      "odiNumbers": [
+        "11578073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Warning Light Failure",
+      "impact": "The failure of the brake warning light can increase the risk of a crash, as the driver may not be aware of low brake fluid levels.",
+      "symptoms": [
+        "The brake warning light is intermittently illuminated",
+        "no brake system warning indicator when the brake fluid is below the recommended level."
+      ],
+      "odiNumbers": [
+        "11558752",
+        "11558590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure (Instrument Cluster and Infotainment Screens)",
+      "impact": "The failure of the electrical system can cause driver distraction and loss of critical vehicle functions, leading to hazardous situations.",
+      "symptoms": [
+        "The instrument cluster and infotainment screens go black",
+        "loss of turn signals or hazard lights",
+        "possible loss of brake lights."
+      ],
+      "odiNumbers": [
+        "11516997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Convertible Top Latching System Failure",
+      "impact": "The failure of the convertible top latching system can cause the roof to not close properly, potentially leading to water damage, noise, and reduced structural integrity, which can compromise the safety of the vehicle occupants.",
+      "symptoms": [
+        "The convertible top requires excessive force to open or close",
+        "the convertible top fails to latch and close properly",
+        "the handle fails to connect with the latching system."
+      ],
+      "odiNumbers": [
+        "11580432",
+        "11525050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Rear Windshield Shattering",
+      "impact": "The sudden and unexpected shattering of the rear windshield can cause driver distraction, loss of visibility, and potentially lead to accidents.",
+      "symptoms": [
+        "The rear windshield shatters or cracks without any apparent reason",
+        "often in cold weather conditions."
+      ],
+      "odiNumbers": [
+        "11560109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Disclose Recall Information",
+      "impact": "Failing to disclose recall information to customers can lead to safety risks, as the recalled vehicles may still have unresolved issues that can cause accidents or injuries.",
+      "symptoms": [
+        "Dealerships fail to inform customers about outstanding recalls",
+        "or sell vehicles with open recalls without disclosing the information."
+      ],
+      "odiNumbers": [
+        "11486683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

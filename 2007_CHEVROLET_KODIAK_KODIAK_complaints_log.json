@@ -1,0 +1,163 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "AIR BAGS",
+    "STEERING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Emergency brake failure to hold the truck while in gear with the motor running",
+        "service brakes failing to stop the truck",
+        "brake warning lights and audible alarms malfunctioning",
+        "brake pedal going to the floorboards",
+        "water leakage from the brake actuator rod area."
+      ],
+      "odiNumbers": [
+        "10324425",
+        "10217566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electric Trailer Brake Controller Failure",
+      "impact": "The failure of the electric trailer brake controller can cause the brakes to malfunction, leading to accidents or loss of control.",
+      "symptoms": [
+        "Factory-installed electric trailer brake controller failed",
+        "turning on and off randomly",
+        "wiring issues between the service brakes and electric trailer brakes."
+      ],
+      "odiNumbers": [
+        "10324425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Stop Lamp Switch Failure",
+      "impact": "The failure of the stop lamp switch can cause the brake warning lights and audible alarms to malfunction, leading to potential safety risks.",
+      "symptoms": [
+        "Stop lamp switch failure",
+        "brake warning lights and audible alarms malfunctioning",
+        "code C0164",
+        "part number 15128874."
+      ],
+      "odiNumbers": [
+        "10324425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress and Corrosion",
+      "impact": "Water ingress and corrosion can cause brake system failures, leading to accidents or loss of control.",
+      "symptoms": [
+        "Water leakage from the brake actuator rod area",
+        "corrosion or moisture in the passenger footwell."
+      ],
+      "odiNumbers": [
+        "10217566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Axle Vibration and Steering Issues",
+      "impact": "The vibration and steering issues can cause loss of control, accidents, and uneven tire wear, which can lead to a blowout or loss of traction.",
+      "symptoms": [
+        "Front axle shakes",
+        "passenger side tire wears faster",
+        "moderate to severe front end vibration",
+        "severe steering wheel vibration",
+        "moderate bump steer issues",
+        "vehicle darts in one direction or another over bumps or bridge seams",
+        "steering wheel is off-center."
+      ],
+      "odiNumbers": [
+        "10224086",
+        "10217562"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment can increase the risk of serious injury or death in the event of a crash, especially in high-impact accidents.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "despite meeting the deployment threshold",
+        "resulting in increased risk of injury or death."
+      ],
+      "odiNumbers": [
+        "10254501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improper Steering Alignment and Modification",
+      "impact": "The improper alignment and modification of the steering system can cause uneven steering, reduced turning radius, and increased risk of accidents, particularly during sudden steering events such as \"bump steer\".",
+      "symptoms": [
+        "Uneven steering",
+        "reduced turning radius",
+        "difficulty recovering from sudden steering events",
+        "increased \"play\" in the steering system",
+        "and inconsistent steering response."
+      ],
+      "odiNumbers": [
+        "10220076",
+        "10217562"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improper Door Assembly and Weather Sealing",
+      "impact": "The improper assembly of the door can cause water and air to enter the door jamb, leading to freezing and making it impossible to open the door, which can be a safety hazard in emergency situations.",
+      "symptoms": [
+        "Loud wind-howl or noise coming from the door",
+        "water accumulation in the door jamb",
+        "door freezing shut",
+        "difficulty opening the door",
+        "improper door alignment with the body."
+      ],
+      "odiNumbers": [
+        "10217563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Door Weather Sealing Failure",
+      "impact": "The failure of the door weather sealing can cause water and air to enter the door jamb, leading to freezing and making it impossible to open the door, which can be a safety hazard in emergency situations.",
+      "symptoms": [
+        "Water accumulation in the door jamb",
+        "door freezing shut",
+        "difficulty opening the door",
+        "loud wind-howl or noise coming from the door."
+      ],
+      "odiNumbers": [
+        "10217563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

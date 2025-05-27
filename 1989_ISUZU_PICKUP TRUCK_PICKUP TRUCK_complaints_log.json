@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "PARKING BRAKE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Seat Belts",
+      "impact": "The failure of seat belts to retract or restrain occupants can lead to increased risk of injury or fatality in the event of a crash, compromising vehicle safety.",
+      "symptoms": [
+        "The seat belts do not fully retract",
+        "the seat belts get caught in the door when exiting the vehicle",
+        "the seat belts do not restrain occupants in a crash",
+        "the seat belts do not lock in the holders."
+      ],
+      "odiNumbers": [
+        "811730",
+        "981302",
+        "974807"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Failure (Recurring)",
+      "impact": "The recurring failure of the clutch can cause the vehicle to slip or hesitate while shifting gears, leading to a loss of control and increasing the risk of accidents. Additionally, frequent clutch replacements can lead to increased maintenance costs and downtime.",
+      "symptoms": [
+        "The transmission slips or hesitates while shifting gears",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "602471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Rust and Corrosion",
+      "impact": "The excessive rust and corrosion of the frame can compromise the structural integrity of the vehicle, leading to a loss of safety and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Visible rust and corrosion on the frame",
+        "weakened frame structure",
+        "vehicle no longer safe to drive."
+      ],
+      "odiNumbers": [
+        "10381408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Caliper Failure",
+      "impact": "The failure of the rear brake caliper can cause a loss of braking power, leading to increased stopping distances and a higher risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "uneven brake wear",
+        "grinding or screeching noise when applying the brakes",
+        "brake warning light on the dashboard",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "602471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake Malfunction",
+      "impact": "The parking brake malfunction can cause the vehicle to roll or move unexpectedly, even when the parking brake is engaged, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The parking brake does not release properly",
+        "the parking brake sticks",
+        "the parking brake pedal feels stiff or hard to push",
+        "the vehicle rolls or moves when the parking brake is engaged",
+        "the parking brake warning light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "975881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

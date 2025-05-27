@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often without warning",
+        "making it difficult or impossible to control the vehicle. The vehicle may surge forward",
+        "accelerate out of control",
+        "or continue to accelerate even when the brakes are applied."
+      ],
+      "odiNumbers": [
+        "769366",
+        "835915",
+        "538731",
+        "984979",
+        "504594",
+        "965912",
+        "489061"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration in Reverse Gear",
+      "impact": "The sudden and unintended acceleration of the vehicle in reverse gear can cause loss of control, accidents, and injuries, posing a significant risk to the driver, passengers, and others in the vicinity.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably in reverse gear",
+        "often without warning",
+        "and may not respond to braking attempts."
+      ],
+      "odiNumbers": [
+        "10429979",
+        "10004024",
+        "8022279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Filler Neck Design Flaw",
+      "impact": "The faulty design of the fuel tank filler neck can cause fuel to spill out when filling the tank, leading to a fire hazard, environmental damage, and potential harm to people nearby.",
+      "symptoms": [
+        "Fuel spills out when filling the tank",
+        "fuel leaks from the filler neck",
+        "fuel odor is present near the filler neck."
+      ],
+      "odiNumbers": [
+        "10050538"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

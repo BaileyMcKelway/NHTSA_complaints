@@ -1,0 +1,153 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "TIRES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Actuator Failure",
+      "impact": "The failure of the brake actuator can cause abnormal noises, such as squeaking or roaring sounds, which can be a precursor to brake system failure, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "Abnormal squeaking or roaring sounds coming from the brake actuator",
+        "loud noises when pressing the brake pedal",
+        "no warning lights illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "11572911",
+        "11423499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a loss of braking power, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "Loud roaring noise when pressing the brake pedal",
+        "no warning lights illuminated on the dashboard",
+        "no preceding squeaking noise before the loud roaring noise."
+      ],
+      "odiNumbers": [
+        "11423499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Schrader Valve Failure",
+      "impact": "The failure of the Schrader valve can cause refrigerant leaks, leading to a loss of air conditioning performance and potentially causing damage to the air conditioning system.",
+      "symptoms": [
+        "Cracked Schrader valve",
+        "refrigerant leaking out",
+        "air conditioning not blowing cold air."
+      ],
+      "odiNumbers": [
+        "11423499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Actuator Failure",
+      "impact": "The failure of the door actuator can prevent the door from being locked or unlocked, compromising the safety and security of the vehicle's occupants. This can lead to difficulties in emergency situations, such as the inability to quickly exit the vehicle.",
+      "symptoms": [
+        "The door cannot be locked or unlocked with the remote or by pressing any lock/unlock button",
+        "the door can only be unlocked manually",
+        "intermittent failure of the door actuator."
+      ],
+      "odiNumbers": [
+        "11537787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Recurring Door Actuator Failure",
+      "impact": "The repeated failure of the door actuator can lead to a loss of trust in the vehicle's safety features and compromise the overall reliability of the vehicle.",
+      "symptoms": [
+        "Multiple door actuators fail over time",
+        "requiring repeated repairs",
+        "intermittent failure of the door actuator."
+      ],
+      "odiNumbers": [
+        "11537787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Lack of Warning Signs or Lights",
+      "impact": "The absence of warning signs or lights can make it difficult for the driver to diagnose the problem, leading to a delay in repairs and potentially compromising the safety of the vehicle's occupants.",
+      "symptoms": [
+        "No warning signs or lights indicate a problem with the door actuator",
+        "making it difficult to diagnose the issue."
+      ],
+      "odiNumbers": [
+        "11537787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Tire Failure",
+      "impact": "The sudden and unexpected failure of a tire can cause loss of vehicle control, accidents, and potential injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Tire blowout",
+        "tire failure",
+        "sudden loss of air pressure",
+        "tire damage",
+        "vehicle vibration",
+        "or unusual noise."
+      ],
+      "odiNumbers": [
+        "11502598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Side Curtain Airbag Failure to Deploy",
+      "impact": "The failure of the side curtain airbags to deploy in a crash can increase the risk of injury or fatality to occupants, particularly to the head, neck, and torso.",
+      "symptoms": [
+        "The side curtain airbags do not deploy in a crash",
+        "despite meeting the deployment criteria."
+      ],
+      "odiNumbers": [
+        "11453349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Internal Bearing Failure",
+      "impact": "The failure of the transmission internal bearing can cause the transmission to lose power, leading to a loss of vehicle control, which can increase the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The transmission loses power",
+        "the engine revs with no movement",
+        "the vehicle slows down or comes to a complete stop without warning",
+        "the vehicle is unable to accelerate",
+        "the transmission makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "11450590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

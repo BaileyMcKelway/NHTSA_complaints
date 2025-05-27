@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "VISIBILITY/WIPER",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Fuel pump failure can cause the engine to stall or fail to start, leading to accidents or leaving the rider stranded. In some cases, fuel leaks can occur, creating a fire hazard.",
+      "symptoms": [
+        "Fuel pump failure",
+        "fuel leaks",
+        "engine stalling",
+        "failure to start",
+        "low fuel pressure."
+      ],
+      "odiNumbers": [
+        "11351191",
+        "11240472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "Fuel level sensor failure can cause the fuel gauge to malfunction, leading to unexpected fuel depletion, engine stalling, and accidents.",
+      "symptoms": [
+        "Fuel gauge malfunction",
+        "sudden drop in fuel level",
+        "incorrect fuel level reading",
+        "engine stalling",
+        "running out of fuel while in operation."
+      ],
+      "odiNumbers": [
+        "10911142",
+        "10586139",
+        "10533906",
+        "10502264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Left Side Mirror Glass Failure",
+      "impact": "The detachment of the left side mirror glass can reduce visibility, making lane changes and driving more hazardous, and potentially leading to accidents.",
+      "symptoms": [
+        "The left side mirror glass falls out",
+        "the mirror glass is held in place by a small amount of silicone",
+        "the mirror glass detaches while driving",
+        "reduced visibility",
+        "difficulty with lane changes."
+      ],
+      "odiNumbers": [
+        "11119405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Poorly Secured Mirror Glass",
+      "impact": "The inadequate securing of the mirror glass can cause it to detach, reducing visibility and increasing the risk of accidents.",
+      "symptoms": [
+        "The mirror glass is held in place by a small amount of silicone",
+        "the mirror glass falls out",
+        "the mirror glass detaches while driving",
+        "reduced visibility",
+        "difficulty with lane changes."
+      ],
+      "odiNumbers": [
+        "11119405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty In-Tank Fuel Sensor",
+      "impact": "A faulty in-tank fuel sensor can cause the engine to stall or fail to restart, leading to a loss of power and potentially causing accidents, especially on highways or busy roads.",
+      "symptoms": [
+        "The engine stops running",
+        "the engine cranks but does not restart",
+        "the fuel gauge on the electronic readout shows incorrect or misleading information",
+        "no warning lights are flashing."
+      ],
+      "odiNumbers": [
+        "10616753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "An inaccurate fuel gauge can lead to unexpected engine stalling, stranding the driver, and potentially causing accidents.",
+      "symptoms": [
+        "The fuel gauge shows incorrect or misleading information",
+        "the engine stops running",
+        "the engine cranks but does not restart",
+        "no warning lights are flashing."
+      ],
+      "odiNumbers": [
+        "10616753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

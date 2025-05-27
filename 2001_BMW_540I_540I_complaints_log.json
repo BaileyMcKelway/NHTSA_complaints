@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The unintended deployment of airbags can cause damage to the vehicle, injury to occupants, and potentially lead to accidents.",
+      "symptoms": [
+        "Airbag deployment without impact",
+        "shattered windshield",
+        "illuminated airbag warning light",
+        "abnormal sound after turning off the vehicle."
+      ],
+      "odiNumbers": [
+        "11513083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause a range of problems, including overheating, melting of components, and damage to internal equipment, which can lead to fires, injuries, and accidents.",
+      "symptoms": [
+        "Overheating and melting of tail light bulb and socket",
+        "electrical short in thermostat",
+        "damage to main computer",
+        "internal heating and electrical equipment damage",
+        "extreme temperature changes in the car interior",
+        "hot and cold sensations causing driver discomfort."
+      ],
+      "odiNumbers": [
+        "10331632",
+        "10262484",
+        "10002772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Starting System Failure",
+      "impact": "Vehicle starting system failures can leave drivers stranded, cause inconvenience, and potentially lead to accidents.",
+      "symptoms": [
+        "Vehicle fails to start",
+        "unable to locate source of problem."
+      ],
+      "odiNumbers": [
+        "8002567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Inflator Failure and Inspection Issues",
+      "impact": "The failure of the Takata airbag inflator can cause the airbag to deploy improperly, leading to injuries or fatalities. The refusal to perform the inspection and replacement of the inflator can increase the risk of an accident.",
+      "symptoms": [
+        "The passenger airbag light comes on occasionally or remains on constantly",
+        "the airbag deploys unexpectedly",
+        "warning lights appear on the dashboard",
+        "and the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "10990793",
+        "10882005",
+        "884456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unexpected Airbag Deployment",
+      "impact": "The unexpected deployment of airbags can cause accidents, injuries, or fatalities, especially if the vehicle is in motion.",
+      "symptoms": [
+        "The side and/or top airbags deploy without warning",
+        "warning lights appear on the dashboard",
+        "and the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "884456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ZF 5HP24 Transmission Failure",
+      "impact": "The failure of the ZF 5HP24 transmission can cause the vehicle to lose functionality, leading to safety risks, such as sudden loss of power or unexpected jerking movements, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle will not engage reverse gear",
+        "the vehicle feels like it is still in neutral",
+        "the vehicle moves slowly in drive",
+        "the vehicle revs up before jumping into gear",
+        "the vehicle experiences a strong jerk."
+      ],
+      "odiNumbers": [
+        "10382233",
+        "10257554",
+        "10144779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Slipping/Jerking",
+      "impact": "The transmission slipping or jerking can cause the vehicle to lose traction, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle revs up before jumping into gear",
+        "the vehicle experiences a strong jerk",
+        "the vehicle moves slowly in drive."
+      ],
+      "odiNumbers": [
+        "10144779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Bracket Failure",
+      "impact": "The failure of the power steering bracket can cause the serpentine belt to break, leading to a loss of power steering, which can result in a loss of control of the vehicle, especially during turns, and increase the risk of accidents.",
+      "symptoms": [
+        "The power steering bracket snaps or breaks",
+        "causing the serpentine belt to break or be thrown",
+        "resulting in a loss of power steering",
+        "difficulty steering",
+        "and potential engine damage."
+      ],
+      "odiNumbers": [
+        "10714790",
+        "10564400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

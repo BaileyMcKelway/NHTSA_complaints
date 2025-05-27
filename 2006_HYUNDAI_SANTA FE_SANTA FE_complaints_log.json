@@ -1,0 +1,303 @@
+{
+  "totalComplaints": 104,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a malfunction in the airbag system, which can prevent the airbags from deploying in the event of an accident, potentially leading to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is on",
+        "the passenger airbag on/off warning lamp is illuminated",
+        "the airbag light stays on after initial startup display",
+        "the airbag light is on intermittently",
+        "the airbag light goes on and off",
+        "the airbag light remains on",
+        "the airbag light does not go off after the passenger seat is occupied."
+      ],
+      "odiNumbers": [
+        "11512412",
+        "11329602",
+        "11279697",
+        "11230814",
+        "11097946",
+        "11076557",
+        "11034050",
+        "11006782",
+        "11002118",
+        "10984271",
+        "10875655",
+        "10692512",
+        "10691744",
+        "10643401",
+        "10562255",
+        "10561147",
+        "10554650",
+        "10537006",
+        "10515164",
+        "10480017",
+        "10468803",
+        "10459156",
+        "10249782",
+        "10188853",
+        "10179423",
+        "10151342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Occupant Classification System (OCS) Failure",
+      "impact": "The failure of the OCS can cause the airbag system to malfunction, leading to the airbag warning light to illuminate, and potentially preventing the airbags from deploying in the event of an accident, which can increase the risk of injury or death.",
+      "symptoms": [
+        "The airbag light is on",
+        "the passenger airbag on/off warning lamp is illuminated",
+        "the OCS sensor is defective",
+        "the passenger seat tracking position sensor is defective",
+        "the airbag system is disabled on the passenger side."
+      ],
+      "odiNumbers": [
+        "11097946",
+        "10562255",
+        "10561147",
+        "10554650",
+        "10480017",
+        "10249782"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can prevent the airbags from deploying in the event of an accident, which can increase the risk of injury or death.",
+      "symptoms": [
+        "The airbags did not deploy in an accident",
+        "the airbag warning light is on",
+        "the airbag system is disabled."
+      ],
+      "odiNumbers": [
+        "10188853",
+        "10179423",
+        "10151342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Coil Spring Failure",
+      "impact": "The failure of the front coil spring can cause the tire to puncture, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's front end collapses",
+        "the tire is punctured",
+        "the coil spring breaks or fractures",
+        "the vehicle makes a loud noise",
+        "the tire is flat",
+        "the vehicle is unable to move",
+        "the coil spring has cracks and rust."
+      ],
+      "odiNumbers": [
+        "11112210",
+        "10724338",
+        "10703943",
+        "10669566",
+        "10568906",
+        "10508017",
+        "10442265",
+        "10389701",
+        "10374602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbag system can lead to serious injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbags do not deploy in an accident",
+        "resulting in serious injuries."
+      ],
+      "odiNumbers": [
+        "11496694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front End Assembly Failure",
+      "impact": "The failure of the front end assembly can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The lower control arm is broken",
+        "the wheel could come off",
+        "the car could flip over",
+        "the vehicle rides rough",
+        "the engine light comes on and goes off",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "10650168",
+        "10592317"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Light Failure",
+      "impact": "The failure of the brake lights can lead to accidents or injuries, as other drivers may not be aware that the vehicle is braking.",
+      "symptoms": [
+        "Brake lights fail to illuminate when the brake pedal is depressed",
+        "brake lights remain illuminated after the brake pedal is released."
+      ],
+      "odiNumbers": [
+        "10836992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rusted Brake Backing Plate",
+      "impact": "A rusted brake backing plate can cause the parking brake to engage without warning, leading to accidents or injuries.",
+      "symptoms": [
+        "Rusted brake backing plate",
+        "brake shoe retaining pins come out",
+        "parking brake engages without warning."
+      ],
+      "odiNumbers": [
+        "10744200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to accidents or injuries, as the vehicle may not be able to stop in time.",
+      "symptoms": [
+        "Brakes fail to respond",
+        "brakes fail to engage",
+        "vehicle slides or does not stop",
+        "ABS sensor light comes on."
+      ],
+      "odiNumbers": [
+        "10639296",
+        "10574500",
+        "10574278",
+        "10572916",
+        "10563000",
+        "10477418",
+        "10175009",
+        "10174937",
+        "10174382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Sensor Ring Failure",
+      "impact": "ABS sensor ring failure can cause the brakes to fail, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS sensor light comes on",
+        "brakes fail to engage",
+        "ABS engages on one wheel",
+        "sensor ring cracks or breaks."
+      ],
+      "odiNumbers": [
+        "10574278",
+        "10477418",
+        "10161084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pad Issues",
+      "impact": "Brake pad issues can cause the brakes to fail, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake pads wear down excessively",
+        "brake pads separate",
+        "brake pads are defective."
+      ],
+      "odiNumbers": [
+        "10294891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, potentially leading to fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often without warning",
+        "even when the driver's foot is on the brake pedal. The acceleration can be rapid and uncontrollable",
+        "making it difficult to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11435555",
+        "11320353",
+        "11171306",
+        "10859891",
+        "10787733",
+        "10577027",
+        "10379981",
+        "10358247",
+        "10324949",
+        "10256145",
+        "10255398",
+        "10217044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of control, accidents, and injuries, potentially leading to fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes are unresponsive",
+        "or the vehicle fails to stop even when the brake pedal is fully depressed."
+      ],
+      "odiNumbers": [
+        "11171306",
+        "10577027",
+        "10379981"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Control Module (ECM) Issues",
+      "impact": "ECM issues can cause unintended acceleration, brake failure, and other safety-related problems, potentially leading to accidents and injuries.",
+      "symptoms": [
+        "The vehicle's ECM system malfunctions",
+        "causing unpredictable behavior",
+        "such as sudden acceleration or brake failure."
+      ],
+      "odiNumbers": [
+        "10787733",
+        "10358247",
+        "10255398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

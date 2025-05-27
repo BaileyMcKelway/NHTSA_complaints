@@ -1,0 +1,225 @@
+{
+  "totalComplaints": 73,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become inoperable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt locks up",
+        "the seat belt does not return to its normal position",
+        "the seat belt has a sudden loss of pressure",
+        "the vehicle is unable to restrain the driver or passenger in case of an accident."
+      ],
+      "odiNumbers": [
+        "8020174",
+        "750800",
+        "739937",
+        "555613",
+        "732462",
+        "554585",
+        "869883",
+        "720533",
+        "840527",
+        "837272",
+        "702894",
+        "537192",
+        "528287",
+        "517659",
+        "517392",
+        "808705",
+        "511741",
+        "805494",
+        "804910",
+        "801769",
+        "970248",
+        "969463",
+        "966477",
+        "486504",
+        "964063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dealer Refusal to Honor Recall Notice",
+      "impact": "The dealer's refusal to honor the recall notice can lead to the continued use of a faulty seat belt system, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The dealer refuses to repair or replace the faulty seat belt system",
+        "despite the presence of a recall notice",
+        "leaving the vehicle owner with a safety risk."
+      ],
+      "odiNumbers": [
+        "8020174",
+        "805494"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer's Refusal to Admit Defect",
+      "impact": "The manufacturer's refusal to admit the defect can lead to a lack of accountability and a failure to provide a timely and effective solution, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The manufacturer denies the existence of a defect or refuses to take responsibility for the faulty seat belt system",
+        "leaving vehicle owners with a safety risk."
+      ],
+      "odiNumbers": [
+        "750800",
+        "739937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Cooling Line Failure",
+      "impact": "The failure of the transmission cooling line can cause a fire, leading to a total loss of the vehicle, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Smoke coming from the wheel well",
+        "transmission fluid leaking onto the wheel and brake pads",
+        "strange odor",
+        "flames",
+        "transmission coolant line rupture",
+        "transmission fluid spraying up into the engine."
+      ],
+      "odiNumbers": [
+        "871273",
+        "706197",
+        "808663",
+        "978643",
+        "978643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to become inoperable, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle unable to stop",
+        "brake pedal with no response",
+        "transmission on fire within the engine compartment."
+      ],
+      "odiNumbers": [
+        "871273",
+        "486504",
+        "486504"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Issues",
+      "impact": "The failure of the manufacturer to properly notify vehicle owners of recalls can lead to a lack of awareness about potential safety issues, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Vehicle owners unaware of recalls",
+        "despite matching recall criteria",
+        "being given the runaround by the manufacturer and dealerships."
+      ],
+      "odiNumbers": [
+        "707426",
+        "836448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling and Idling Issues",
+      "impact": "The engine stalling and idling issues can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. The constant stalling can also cause damage to the engine and other components.",
+      "symptoms": [
+        "The \"Service Engine Soon\" light turns on",
+        "the engine idles high",
+        "the engine goes into a \"super idle\" mode",
+        "the vehicle stalls frequently",
+        "power drain",
+        "battery indicator shoots up",
+        "lights dim",
+        "heater goes out",
+        "and the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10105912",
+        "703757"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Pressure Loss",
+      "impact": "The loss of oil pressure can cause engine damage, leading to costly repairs or even engine failure.",
+      "symptoms": [
+        "The engine loses all oil pressure at speeds of 15 to 25mph until driving straight again."
+      ],
+      "odiNumbers": [
+        "753207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Component Failure",
+      "impact": "The failure of engine components can cause engine damage, leading to costly repairs or even engine failure.",
+      "symptoms": [
+        "Headbolt failure",
+        "fuel pump failure",
+        "thermostat failure",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "528800",
+        "517644",
+        "482009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause various systems to fail, leading to safety concerns and inconvenience.",
+      "symptoms": [
+        "The air conditioner never worked",
+        "the window controllers had to be replaced",
+        "the battery had to be replaced twice",
+        "the alternator had to be replaced once",
+        "the rear wiper's solvent system does not work",
+        "the front wipers will not work occasionally",
+        "the horn does not work."
+      ],
+      "odiNumbers": [
+        "10105912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccurate fuel gauge can cause the driver to run out of fuel, leading to inconvenience and potential safety concerns.",
+      "symptoms": [
+        "The fuel gauge is off by 1/4 tank",
+        "reading 1/4 tank of gas left when the tank is actually empty."
+      ],
+      "odiNumbers": [
+        "10105912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

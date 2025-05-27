@@ -1,0 +1,200 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEATS",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility, especially during sudden rain or snow, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "wipers stop working suddenly",
+        "wipers fail to clear water or debris from the windshield",
+        "poor driver visibility."
+      ],
+      "odiNumbers": [
+        "10000574",
+        "860919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper System Failure",
+      "impact": "The failure of the windshield wiper system can cause reduced visibility, especially during sudden rain or snow, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "Windshield wipers do not work at all",
+        "wipers fail to clear water or debris from the windshield",
+        "poor driver visibility."
+      ],
+      "odiNumbers": [
+        "860919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Mirror Component Failure",
+      "impact": "The failure of the mirror component can cause debris to fly off and obstruct the driver's view, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Glass from the mirror breaks off",
+        "debris obstructs the driver's view",
+        "sudden loss of mirror component."
+      ],
+      "odiNumbers": [
+        "958624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatback Bolt Failure",
+      "impact": "The failure of the seatback bolts can cause the seat to collapse, potentially leading to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatback collapses",
+        "the bolts on the seatback are broken or sheared off",
+        "the seatback is stuck in the reclining position."
+      ],
+      "odiNumbers": [
+        "898481",
+        "803271",
+        "974068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion and Rupture",
+      "impact": "The corrosion and rupture of the brake line can cause brake fluid to leak, leading to a loss of brake performance, increased stopping distances, and potentially, accidents.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "spongy brake pedal",
+        "reduced brake performance",
+        "warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "826487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent ABS Brake Failure",
+      "impact": "The intermittent failure of the Anti-lock Braking System (ABS) can cause the brakes to malfunction, leading to a loss of control, increased stopping distances, and potentially, accidents.",
+      "symptoms": [
+        "ABS light on the dashboard",
+        "intermittent brake failure",
+        "spongy brake pedal",
+        "reduced brake performance."
+      ],
+      "odiNumbers": [
+        "503122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, as the driver may be unable to stop the vehicle or maintain control.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the gas pedal sticks to the floor",
+        "the vehicle is unable to be stopped or slowed",
+        "the brakes are unresponsive",
+        "the shifter is unresponsive."
+      ],
+      "odiNumbers": [
+        "705533",
+        "10434459",
+        "10394919",
+        "10343411",
+        "10293419",
+        "10264411",
+        "10244459",
+        "10234419",
+        "10193411",
+        "10184459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Accelerator Pedal Sensor",
+      "impact": "A faulty accelerator pedal sensor can cause unintended acceleration, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the gas pedal sticks to the floor",
+        "the vehicle is unable to be stopped or slowed",
+        "the brakes are unresponsive",
+        "the shifter is unresponsive."
+      ],
+      "odiNumbers": [
+        "10434459",
+        "10394919",
+        "10343411",
+        "10293419",
+        "10264411",
+        "10244459",
+        "10234419",
+        "10193411",
+        "10184459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electronic Throttle Control (ETC) System Failure",
+      "impact": "Failure of the ETC system can cause unintended acceleration, leading to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the gas pedal sticks to the floor",
+        "the vehicle is unable to be stopped or slowed",
+        "the brakes are unresponsive",
+        "the shifter is unresponsive."
+      ],
+      "odiNumbers": [
+        "10343411",
+        "10293419",
+        "10264411",
+        "10244459",
+        "10234419",
+        "10193411",
+        "10184459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Interlock Failure",
+      "impact": "The failure of the transmission interlock can cause the vehicle to shift into gear unexpectedly, leading to loss of control, accidents, or damage to the transmission.",
+      "symptoms": [
+        "The transmission shifts into gear unexpectedly",
+        "the transmission is stuck in park or neutral",
+        "the vehicle rolls or moves when the transmission is in park",
+        "the transmission makes unusual noises or grinding sounds."
+      ],
+      "odiNumbers": [
+        "503122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

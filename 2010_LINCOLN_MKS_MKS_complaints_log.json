@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering Assist Failure",
+      "impact": "The failure of the electric power steering assist can cause the steering wheel to become difficult or impossible to turn, making it challenging to control the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The steering wheel becomes difficult or impossible to turn",
+        "the power steering assist warning indicator illuminates",
+        "the vehicle loses power steering assist",
+        "the steering wheel seizes",
+        "the vehicle is difficult to maneuver",
+        "the power steering assist fails intermittently."
+      ],
+      "odiNumbers": [
+        "11482781",
+        "11481899",
+        "11404491",
+        "11394950",
+        "11394676",
+        "11301534",
+        "11299362",
+        "11279383",
+        "11255415",
+        "11251920",
+        "11144985",
+        "11111204",
+        "10860262",
+        "10662611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden acceleration",
+        "increased engine speed",
+        "failure of cruise control",
+        "jerking or stuttering of the vehicle",
+        "loss of power",
+        "and difficulty braking."
+      ],
+      "odiNumbers": [
+        "10993588",
+        "10506052",
+        "10488113",
+        "10483524",
+        "10328617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle and Acceleration Control Sensor Failure",
+      "impact": "Failure of the throttle and acceleration control sensors can cause loss of acceleration, jerking or stuttering of the vehicle, and difficulty shifting gears.",
+      "symptoms": [
+        "Loss of acceleration",
+        "jerking or stuttering of the vehicle",
+        "difficulty shifting gears",
+        "and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10936654",
+        "10748352",
+        "10521374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accelerator Pedal Seizure",
+      "impact": "Accelerator pedal seizure can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Accelerator pedal sticks or seizes",
+        "sudden acceleration",
+        "and difficulty braking."
+      ],
+      "odiNumbers": [
+        "10583451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injury or death, as the occupants of the vehicle are not protected from the impact.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "despite the severity of the impact warranting deployment."
+      ],
+      "odiNumbers": [
+        "11549383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "The Takata airbag recall has left many vehicles with defective airbags that can cause serious injury or death in the event of a crash. The lack of available replacement parts has delayed the repair process, leaving vehicles on the road with potentially deadly airbags.",
+      "symptoms": [
+        "Receipt of recall notice",
+        "inability to obtain replacement parts",
+        "dealerships claiming lack of parts or uncertainty about recall status due to Takata bankruptcy."
+      ],
+      "odiNumbers": [
+        "11143512",
+        "11044856",
+        "11035900",
+        "11011132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

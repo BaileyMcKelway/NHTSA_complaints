@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Battery Failure",
+      "impact": "The failure of the hybrid battery can cause the vehicle to stall, shut off, or experience electrical system failures, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or shuts off while driving",
+        "the engine warning light illuminates",
+        "the vehicle tries to restart but fails",
+        "the hybrid battery leaks fluids."
+      ],
+      "odiNumbers": [
+        "10419246",
+        "10360156",
+        "10354203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to experience sudden shutdowns, stalling, or warning light illuminations, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The electrical system fails without warning",
+        "the vehicle stalls or shuts off while driving",
+        "warning lights illuminate",
+        "the vehicle tries to restart but fails."
+      ],
+      "odiNumbers": [
+        "10369069",
+        "10354203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hybrid Mode Malfunction",
+      "impact": "The malfunction of the hybrid mode can cause the vehicle to shut off or stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle moves into hybrid mode and suddenly shuts off",
+        "the vehicle tries to restart but fails",
+        "the engine warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10360156",
+        "10354203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to stall, lose power, and shut down, which can lead to accidents, especially on busy highways.",
+      "symptoms": [
+        "The vehicle powers down to 50% before the engine shuts down",
+        "the vehicle refuses to start",
+        "the key seems stuck inside making it hard to turn or remove",
+        "the stabilitrak and service hybrid system warnings come on along with the check engine light."
+      ],
+      "odiNumbers": [
+        "10644697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to only move in reverse, making it difficult to control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle only moves in reverse",
+        "the transmission needs replacement."
+      ],
+      "odiNumbers": [
+        "10606762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the key to become stuck in the \"on\" position, making it difficult to turn off the engine and remove the key, which can lead to security concerns and potential theft.",
+      "symptoms": [
+        "The ignition switch cannot be turned to the off position",
+        "the key cannot be removed",
+        "the car cannot be turned off",
+        "the issue occurs regardless of the set of keys used."
+      ],
+      "odiNumbers": [
+        "10592962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, lose power, and experience a range of warning lights, including stability control and airbag warnings, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's electrical system suddenly pulls back",
+        "all warning lights on the dashboard illuminate",
+        "the steering system locks up",
+        "the vehicle stalls",
+        "and the airbag and stability control systems malfunction."
+      ],
+      "odiNumbers": [
+        "10605047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

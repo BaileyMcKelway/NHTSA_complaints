@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Control Unit (ECU) Failure",
+      "impact": "The failure of the ECU can cause the engine to stall or rev uncontrollably, leading to loss of vehicle control, accidents, and potentially life-threatening situations.",
+      "symptoms": [
+        "Erratic idle",
+        "engine revving up and dropping to the point where the engine dies",
+        "stalling at any speed",
+        "including on the highway",
+        "high idle",
+        "and failure to start after warming up."
+      ],
+      "odiNumbers": [
+        "10066469",
+        "564213",
+        "747780",
+        "747508",
+        "726225",
+        "720403",
+        "716230",
+        "712958",
+        "823096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Control Module (ECM) Failure due to Temperature Sensitivity",
+      "impact": "The failure of the ECM can cause the engine to idle erratically, rev, or stall, leading to potential accidents, especially in warm weather conditions.",
+      "symptoms": [
+        "Erratic idle",
+        "idle revving and dropping",
+        "idle dipping often with engine dying",
+        "idle hanging high above 2",
+        "000 RPM",
+        "and engine dying or stalling for no reason with no trouble codes. The symptoms are more frequent in warm weather (above 80°F) and may subside in cooler weather."
+      ],
+      "odiNumbers": [
+        "763608",
+        "756046",
+        "715941",
+        "710304",
+        "708619"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the engine to stall or idle irregularly, leading to a loss of power steering and brakes, which can result in accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls or idles irregularly",
+        "the engine surges for no apparent reason",
+        "the engine idles very high",
+        "the vehicle loses power steering and brakes",
+        "the vehicle stalls while making a stop."
+      ],
+      "odiNumbers": [
+        "752999",
+        "732129",
+        "723786",
+        "853329",
+        "713307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unknown Issue",
+      "impact": "Unable to determine the impact without a specific issue description.",
+      "symptoms": [
+        "None listed."
+      ],
+      "odiNumbers": [
+        "724023",
+        "721783",
+        "719849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Misinterpretation of Failure Data",
+      "impact": "The incorrect interpretation of failure data can lead to misunderstandings about the frequency or severity of issues.",
+      "symptoms": [
+        "None listed."
+      ],
+      "odiNumbers": [
+        "710305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

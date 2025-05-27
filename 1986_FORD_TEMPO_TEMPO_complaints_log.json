@@ -1,0 +1,203 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the vehicle to stall or not start, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the vehicle stalls intermittently",
+        "the vehicle dies while driving",
+        "the ignition switch shorts",
+        "causing an engine fire."
+      ],
+      "odiNumbers": [
+        "10434235",
+        "754610",
+        "877418",
+        "983772",
+        "983710",
+        "983243",
+        "979697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or not start, leading to inconvenience, safety risks, and potential accidents. In severe cases, it can cause a fire.",
+      "symptoms": [
+        "White smoke comes from under the hood",
+        "flames come out from under the hood",
+        "the alternator plug melts",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10145189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Drive Train Failure",
+      "impact": "The failure of the drive train can cause the vehicle to lose power, making it difficult to steer, leading to safety risks and potential accidents.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the drive axle falls off",
+        "the vehicle is unable to steer."
+      ],
+      "odiNumbers": [
+        "754610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to not start, leading to inconvenience and safety risks.",
+      "symptoms": [
+        "The battery is defective",
+        "the vehicle will not start."
+      ],
+      "odiNumbers": [
+        "873170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to inconvenience, safety risks, and potential accidents. In severe cases, it can cause a fire.",
+      "symptoms": [
+        "The vehicle stalls intermittently",
+        "the electrical system shorts",
+        "causing a fire",
+        "the vehicle catches on fire."
+      ],
+      "odiNumbers": [
+        "504106",
+        "504248",
+        "983772",
+        "983710",
+        "983243",
+        "983082",
+        "979697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line/Hose Failure",
+      "impact": "The failure of brake lines or hoses can cause a loss of brake fluid, leading to reduced braking ability, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal feels soft",
+        "brake pedal travels further than usual",
+        "brake fluid leaks",
+        "vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "525458",
+        "984111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Adjuster Failure",
+      "impact": "The failure of the rear brake adjuster can cause partial loss of braking ability, leading to increased stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal feels soft",
+        "brake pedal travels further than usual",
+        "vehicle pulls to one side when braking",
+        "reduced braking ability."
+      ],
+      "odiNumbers": [
+        "504903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure Requiring Replacement",
+      "impact": "The failure of brake components can cause a loss of braking ability, leading to increased stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal feels soft",
+        "brake pedal travels further than usual",
+        "brake fluid leaks",
+        "vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "488691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Constant Velocity (CV) Joint Failure",
+      "impact": "The failure of the CV joint can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Clicking or clunking noise when turning",
+        "vibration while driving",
+        "uneven tire wear",
+        "difficulty steering."
+      ],
+      "odiNumbers": [
+        "525458"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Slipping or Failure",
+      "impact": "The failure of the transmission can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Gears slipping or jumping",
+        "hesitation or delay when shifting",
+        "unusual noises or vibrations",
+        "transmission overheating",
+        "fire."
+      ],
+      "odiNumbers": [
+        "802352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Cooling System Failure",
+      "impact": "The failure of the transmission cooling system can cause overheating, leading to transmission damage, loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Transmission fluid leaks",
+        "overheating",
+        "unusual noises or vibrations",
+        "transmission slipping or failure."
+      ],
+      "odiNumbers": [
+        "488691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

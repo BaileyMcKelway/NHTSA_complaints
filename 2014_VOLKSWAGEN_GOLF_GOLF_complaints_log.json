@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Issues",
+      "impact": "The failure to complete the Takata airbag recall can lead to serious injury or death in the event of an accident, as the airbag may not deploy properly or may rupture, causing shrapnel to be ejected into the passenger compartment.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall and not a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "11122097",
+        "11019620",
+        "11004331",
+        "10986174"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective AC Belt Tensioner Design",
+      "impact": "The faulty design of the AC belt tensioner can cause the accessory belt to rub against it, leading to premature wear and eventual failure, which can result in the loss of critical vehicle systems such as cooling, charging, and power steering, posing a safety risk to the driver and passengers.",
+      "symptoms": [
+        "The accessory belt rubs against the AC tensioner",
+        "causing premature wear and eventual failure."
+      ],
+      "odiNumbers": [
+        "11541789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Manifold Absolute Pressure (MAP) Sensor and ECM Issues",
+      "impact": "The malfunctioning MAP sensor and potential ECM issues can cause the check engine light to illuminate intermittently, leading to uncertainty and frustration for the driver. If left unaddressed, this issue can lead to decreased engine performance, reduced fuel efficiency, and potentially cause more severe engine damage.",
+      "symptoms": [
+        "The check engine light comes on and off randomly",
+        "P0106 code is displayed",
+        "and the issue persists despite replacing the MAP sensor and cleaning the intake."
+      ],
+      "odiNumbers": [
+        "11353090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Gear Shift Module Failure",
+      "impact": "The failure of the gear shift module can cause the vehicle to lose acceleration, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle stops accelerating",
+        "the engine revs when the gas pedal is pressed",
+        "the vehicle is unable to shift into gear",
+        "error code U0103 appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11465862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Concentric Slave Cylinder Failure",
+      "impact": "The failure of the concentric slave cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "fluid leaks from the slave cylinder."
+      ],
+      "odiNumbers": [
+        "11254699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

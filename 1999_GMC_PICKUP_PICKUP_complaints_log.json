@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to malfunction, leading to extended stopping distances, loss of vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The ABS light stays on",
+        "the brake pedal travels to the floorboard",
+        "the vehicle pulls to one side",
+        "the brakes fail to engage",
+        "the ABS pump continues to run and drains the battery",
+        "the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "10133875",
+        "10075701",
+        "10072011",
+        "10006565",
+        "10001299",
+        "879766",
+        "874132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty ABS Control Sensors",
+      "impact": "The failure of the ABS control sensors can cause the brakes to malfunction, leading to extended stopping distances, loss of vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The brakes fail to engage",
+        "the ABS light stays on",
+        "the brake pedal feels spongy or soft",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "10075701",
+        "10072011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to malfunction, leading to extended stopping distances, loss of vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal travels to the floorboard",
+        "the brake pedal feels spongy or soft",
+        "the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "879766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Broken Tailgate Cables",
+      "impact": "Broken tailgate cables can cause the tailgate to fall open, potentially causing damage to the vehicle or other objects, and may lead to accidents or injuries.",
+      "symptoms": [
+        "Tailgate cables break",
+        "tailgate falls open",
+        "inability to secure the tailgate."
+      ],
+      "odiNumbers": [
+        "10193049",
+        "10089400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Frame Cracking",
+      "impact": "A cracked rear frame can compromise the structural integrity of the vehicle, leading to potential safety risks, including loss of control or accidents.",
+      "symptoms": [
+        "Cracking or breaking of the rear frame",
+        "often just behind the rear axle."
+      ],
+      "odiNumbers": [
+        "10161553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Fuel Gauge",
+      "impact": "A faulty fuel gauge can cause uncertainty about the fuel level, leading to unexpected fuel exhaustion, which can strand the driver or cause accidents.",
+      "symptoms": [
+        "The fuel gauge needle jumps back and forth between empty and full",
+        "making it impossible to determine the actual fuel level."
+      ],
+      "odiNumbers": [
+        "10114154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Cracking and Leaking",
+      "impact": "A cracked fuel tank can cause fuel leakage, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Sudden loud noise",
+        "fuel leakage",
+        "and the fuel tank collapsing."
+      ],
+      "odiNumbers": [
+        "10012181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

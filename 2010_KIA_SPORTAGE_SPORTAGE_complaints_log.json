@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Hydraulic Brake System",
+      "impact": "The delay in repairing the hydraulic brake system can lead to a loss of braking performance, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "None reported",
+        "as the complaints are related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11586194",
+        "11572889",
+        "11570381",
+        "11566096",
+        "11557840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of the vehicle occupants.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "resulting in injuries or fatalities to occupants; warning lights may or may not be illuminated prior to the accident."
+      ],
+      "odiNumbers": [
+        "11141234",
+        "11101169",
+        "11061398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "Defective airbag sensors can cause the airbag warning light to illuminate, indicating a potential problem with the airbag system, which can lead to airbag failure to deploy in the event of a crash.",
+      "symptoms": [
+        "Airbag warning light is illuminated; passenger occupant seat sensor and/or driver's side seat belt tension sensor are defective."
+      ],
+      "odiNumbers": [
+        "10556636"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Denial",
+      "impact": "The denial of recall repair can leave vehicles with unresolved safety issues, potentially causing accidents or other safety hazards.",
+      "symptoms": [
+        "Dealership refuses to perform recall repair",
+        "citing that the manufacturer is no longer providing parts or support for the recall."
+      ],
+      "odiNumbers": [
+        "11590503"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Stalling in Wet Conditions",
+      "impact": "The engine stalling in wet conditions can cause loss of vehicle control, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine turns off or stalls when driving through large puddles of water",
+        "in heavy rain",
+        "or when splashed with water from another vehicle."
+      ],
+      "odiNumbers": [
+        "11061373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Hydraulic Brake System",
+      "impact": "The delay in repairing the hydraulic brake system can increase the risk of brake failure, which can lead to accidents or injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11560288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure due to Oil Starvation",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, increasing the risk of accidents or injuries, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine knocks or makes unusual noises",
+        "the oil light illuminates intermittently",
+        "the vehicle stalls or loses power",
+        "the engine fails to turn over",
+        "no oil is found in the engine."
+      ],
+      "odiNumbers": [
+        "11110944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frayed Seatbelt Failure",
+      "impact": "A frayed seatbelt can fail to provide adequate protection in the event of an accident, leading to serious injury or death.",
+      "symptoms": [
+        "The seatbelt is visibly frayed",
+        "the frayed portion is located across the chest area",
+        "the frayed portion is hidden when the seatbelt is not in use."
+      ],
+      "odiNumbers": [
+        "11144546",
+        "11127973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to loss of vehicle control, skidding, and increased stopping distances, which can result in accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The anti-lock brake warning light illuminates",
+        "the brakes lock up",
+        "the vehicle skids or loses traction",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "516676",
+        "980822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Rack/Pinion Failure",
+      "impact": "The failure of the steering rack/pinion can cause the vehicle to lose steering control, leading to accidents and injuries.",
+      "symptoms": [
+        "The vehicle weaves or wanders while making turns",
+        "the steering wheel becomes difficult to turn or locks up",
+        "the vehicle experiences a temporary loss of control",
+        "the steering system makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "510314",
+        "503475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective 'O' Rings in Steering Rack/Pinion",
+      "impact": "The defective 'O' rings in the steering rack/pinion can cause the steering system to malfunction, leading to a temporary loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering system experiences intermittent lock-ups",
+        "the steering wheel becomes difficult to turn",
+        "the vehicle experiences a temporary loss of control",
+        "the steering system makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "503475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Failure",
+      "impact": "Transmission slipping and failure can cause loss of power, hesitation, and stalling, leading to accidents or stranding the driver. It can also cause damage to other components, resulting in costly repairs.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting",
+        "the vehicle loses power or acceleration",
+        "the vehicle stalls or hesitates when shifting",
+        "unusual noises or vibrations when shifting",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "483400",
+        "486297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Throttle Response",
+      "impact": "The sudden and unintended acceleration of the vehicle can lead to accidents, loss of control, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without pressing the gas pedal",
+        "the RPMs increase unexpectedly",
+        "the throttle opens wide without input",
+        "the gas pedal feels stiff or unresponsive."
+      ],
+      "odiNumbers": [
+        "486107",
+        "965145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front End Suspension Cradle Failure",
+      "impact": "The failure of the front end suspension cradle can cause the loss of steering control, leading to accidents, especially when slowing down from high speeds.",
+      "symptoms": [
+        "The vehicle experiences sudden loss of steering",
+        "the steering becomes difficult or impossible",
+        "the vehicle pulls to one side",
+        "the front end suspension cradle pulls through",
+        "the steering system is compromised."
+      ],
+      "odiNumbers": [
+        "813984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the loss of steering control, leading to accidents, especially when slowing down from high speeds.",
+      "symptoms": [
+        "The vehicle experiences sudden loss of steering",
+        "the steering becomes difficult or impossible",
+        "the vehicle pulls to one side",
+        "the steering system is compromised."
+      ],
+      "odiNumbers": [
+        "813984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

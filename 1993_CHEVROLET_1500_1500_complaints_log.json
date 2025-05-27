@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEATS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Malfunction",
+      "impact": "The failure of the windshield wipers can cause poor visibility, especially in rainy weather, which can lead to accidents, loss of control, or collisions.",
+      "symptoms": [
+        "Windshield wipers fail to operate",
+        "windshield wipers operate intermittently",
+        "windshield wipers stop working while driving",
+        "windshield wipers can be temporarily restored by hitting the wiper motor or wiggling the wiper harness",
+        "but eventually fail again."
+      ],
+      "odiNumbers": [
+        "10066176",
+        "10039677",
+        "892703",
+        "864849",
+        "857349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Back Failure",
+      "impact": "The sudden failure of the seat back can cause loss of control, accidents, or injuries to the occupants, especially if the driver is thrown into the back seat while driving.",
+      "symptoms": [
+        "Squeaking or unusual noises from the seat while in motion",
+        "broken seat back bolts",
+        "damaged recliner and frame",
+        "seat back collapses without warning",
+        "seat becomes stuck in a reclined position",
+        "driver or passenger is thrown into the back seat."
+      ],
+      "odiNumbers": [
+        "10091468",
+        "565691",
+        "8003713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Cruise Control/Throttle System",
+      "impact": "The malfunction of the cruise control/throttle system can cause the vehicle to fail to decelerate, leading to excessive braking and potential loss of control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Vehicle fails to decelerate from high speed",
+        "excessive braking is required to stop",
+        "engine idle speed is higher than normal when the vehicle is stopped."
+      ],
+      "odiNumbers": [
+        "10585371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, breakdown, or even engine failure, which can leave the driver stranded and potentially cause accidents.",
+      "symptoms": [
+        "Water pump failure",
+        "fan failure",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "10555905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

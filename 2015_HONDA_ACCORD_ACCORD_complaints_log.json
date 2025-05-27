@@ -1,0 +1,354 @@
+{
+  "totalComplaints": 546,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the battery drains quickly",
+        "the starter motor clicks but does not turn the engine",
+        "the dashboard lights flash",
+        "and the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "11580400",
+        "11577180",
+        "11576446",
+        "11545798",
+        "11542672",
+        "11534200",
+        "11530577",
+        "11528944",
+        "11524096",
+        "11517528",
+        "11516819",
+        "11516234",
+        "11508078",
+        "11504261",
+        "11501669",
+        "11500036",
+        "11494832",
+        "11474502",
+        "11470917",
+        "11468834",
+        "11468779",
+        "11463892",
+        "11459192",
+        "11456551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The starter motor clicks but does not turn the engine",
+        "the vehicle fails to start",
+        "and the battery drains quickly."
+      ],
+      "odiNumbers": [
+        "11576446",
+        "11545798",
+        "11534200",
+        "11517528",
+        "11501669",
+        "11468779",
+        "11456551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Sensor Failure",
+      "impact": "The failure of the battery sensor can cause the vehicle to not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The battery drains quickly",
+        "the vehicle fails to start",
+        "and the dashboard lights flash."
+      ],
+      "odiNumbers": [
+        "11545798",
+        "11534200",
+        "11524096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or not start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the battery drains quickly",
+        "and the dashboard lights flash."
+      ],
+      "odiNumbers": [
+        "11576446",
+        "11534200",
+        "11530577",
+        "11494832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "VSA Modulator Failure",
+      "impact": "The failure of the VSA modulator can cause the vehicle to lose motive power and stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses motive power and stalls",
+        "the dashboard lights flash",
+        "and the ABS",
+        "brake",
+        "and power steering systems become inoperable."
+      ],
+      "odiNumbers": [
+        "11574653",
+        "11574679",
+        "11516234",
+        "11470917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can cause accidents or injuries due to reduced visibility.",
+      "symptoms": [
+        "The backup camera displays a black screen or does not function properly."
+      ],
+      "odiNumbers": [
+        "11468834",
+        "11459192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause the steering wheel to become difficult to turn or jerk to one side, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the steering wheel jerks to one side",
+        "the EPS light on the dashboard illuminates",
+        "the vehicle pulls to one side",
+        "the steering wheel becomes stuck",
+        "and the vehicle may enter limp mode."
+      ],
+      "odiNumbers": [
+        "11570470",
+        "11549189",
+        "11543698",
+        "11532499",
+        "11528008",
+        "11525039",
+        "11522953",
+        "11518228",
+        "11510687",
+        "11498153",
+        "11497276",
+        "11495837",
+        "11479399",
+        "11476758",
+        "11465405",
+        "11460500",
+        "11454854",
+        "11444638",
+        "11436866",
+        "11435139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-lock Braking System (ABS) and Vehicle Stability Assist (VSA) Failure",
+      "impact": "The failure of the ABS and VSA systems can cause the vehicle to lose traction and stability, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The ABS and VSA lights on the dashboard illuminate",
+        "the vehicle's brakes lock up",
+        "the vehicle's traction control system malfunctions",
+        "and the vehicle may enter limp mode."
+      ],
+      "odiNumbers": [
+        "11582782",
+        "11557488",
+        "11541757",
+        "11450147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Drive Shaft and Power Steering Pump Failure",
+      "impact": "The failure of the drive shaft and power steering pump can cause the vehicle to lose power and steering, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The drive shaft light on the dashboard illuminates",
+        "the vehicle's power steering system fails",
+        "the vehicle's drive shaft clicks or makes a noise",
+        "and the vehicle may enter limp mode."
+      ],
+      "odiNumbers": [
+        "11520544",
+        "11491349",
+        "11410627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Actuator Failure",
+      "impact": "The failure of the door actuators can cause the doors to malfunction, making it difficult or impossible to enter or exit the vehicle, which can lead to safety risks in emergency situations.",
+      "symptoms": [
+        "The door will not open or close",
+        "the door lock is not working",
+        "the door is stuck",
+        "and the door actuator is faulty."
+      ],
+      "odiNumbers": [
+        "11578592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or not start, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the ignition switch is worn out",
+        "and the starter grinds or spins."
+      ],
+      "odiNumbers": [
+        "11569765",
+        "11493565",
+        "11491306",
+        "11340884",
+        "11328633",
+        "11322268",
+        "11320831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "VSA Module Failure",
+      "impact": "The failure of the VSA module can cause the vehicle's stability and traction control systems to malfunction, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "The VSA module is faulty",
+        "the vehicle's stability and traction control systems are malfunctioning",
+        "and the ABS module is faulty."
+      ],
+      "odiNumbers": [
+        "11548322",
+        "11529510",
+        "11470144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the vehicle to not start, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The starter is faulty",
+        "the vehicle will not start",
+        "and the starter grinds or spins."
+      ],
+      "odiNumbers": [
+        "11470144",
+        "11491306",
+        "11328633",
+        "11322268",
+        "11320831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sunroof Failure",
+      "impact": "The failure of the sunroof can cause it to shatter or explode, which can lead to safety risks and injuries.",
+      "symptoms": [
+        "The sunroof shattered or exploded",
+        "and the sunroof is faulty."
+      ],
+      "odiNumbers": [
+        "11518297",
+        "11363705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electrical Issues",
+      "impact": "Electrical issues can cause various systems in the vehicle to malfunction, which can lead to safety risks and accidents.",
+      "symptoms": [
+        "The vehicle's electrical systems are malfunctioning",
+        "the battery is draining",
+        "and the vehicle's accessories are not working properly."
+      ],
+      "odiNumbers": [
+        "11477064",
+        "11465577",
+        "11364017",
+        "11363720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause the vehicle to lose control and lead to accidents.",
+      "symptoms": [
+        "The brakes are malfunctioning",
+        "the vehicle is accelerating out of control",
+        "and the brake pedal is not responding."
+      ],
+      "odiNumbers": [
+        "11418016",
+        "11364017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Airbag Failure",
+      "impact": "The failure of the airbag system can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag system is malfunctioning",
+        "the airbag did not deploy",
+        "and the airbag warning light is on."
+      ],
+      "odiNumbers": [
+        "11418016",
+        "11364017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

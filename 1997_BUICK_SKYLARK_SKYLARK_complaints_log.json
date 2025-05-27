@@ -1,0 +1,271 @@
+{
+  "totalComplaints": 93,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose braking power, leading to extended stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the vehicle stalls",
+        "the brake system makes a grinding or thumping noise",
+        "the brake system engages intermittently",
+        "the vehicle locks up on turns or wet surfaces."
+      ],
+      "odiNumbers": [
+        "10721213",
+        "10057534",
+        "10008729",
+        "895431",
+        "561727",
+        "885173",
+        "880498",
+        "880013",
+        "876252",
+        "865897",
+        "549202",
+        "850466",
+        "548074",
+        "834674",
+        "821738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Brake Wear",
+      "impact": "Premature brake wear can cause the vehicle to lose braking power, leading to extended stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brake pads wear out quickly",
+        "the brake rotors wear out quickly",
+        "the brake system makes a grinding or thumping noise."
+      ],
+      "odiNumbers": [
+        "10057534",
+        "821738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Fluid Formulation Issue",
+      "impact": "The faulty brake fluid formulation can cause the brake system to malfunction, leading to extended stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brake system makes a thumping noise",
+        "the brake fluid builds up on the brake lining/pad",
+        "the brake fluid coats the brake lining",
+        "causing potential brake failure."
+      ],
+      "odiNumbers": [
+        "561727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failure can cause the vehicle to stall intermittently, leading to a loss of braking ability and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle stalls intermittently",
+        "engine turns off",
+        "engine check light comes on."
+      ],
+      "odiNumbers": [
+        "8011016",
+        "832708",
+        "544733"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain and Tensioner Failure",
+      "impact": "Failure of the timing chain and tensioner can cause the engine to stall or fail, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Timing chain jumps",
+        "tensioner collapses",
+        "plastic guides break",
+        "engine stalls."
+      ],
+      "odiNumbers": [
+        "8007249",
+        "8000747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Failure of the cooling system can cause engine damage, overheating, and stalling, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Water pump leaks",
+        "engine overheats."
+      ],
+      "odiNumbers": [
+        "10223950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Failure of the electrical system can cause various malfunctions, including stalling, loss of braking ability, and increased risk of accidents.",
+      "symptoms": [
+        "Alternator fails",
+        "batteries fail",
+        "power window motor fails",
+        "headlight control knob breaks",
+        "lighter falls apart."
+      ],
+      "odiNumbers": [
+        "8011016",
+        "724701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause hesitation, stalling, and loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle hesitates while driving",
+        "stalls intermittently",
+        "accelerates at full throttle."
+      ],
+      "odiNumbers": [
+        "549917",
+        "544733",
+        "700869",
+        "540010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause unexpected injuries, distractions, and accidents, which can lead to fatalities.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "airbags deploy while driving",
+        "airbags deploy for no reason."
+      ],
+      "odiNumbers": [
+        "10597478",
+        "10178307",
+        "10108700",
+        "538259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "Failure of airbags to deploy in a crash can lead to severe injuries or fatalities, as the airbags are designed to provide critical safety protection in the event of an accident.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbags fail to deploy in a frontal collision",
+        "airbags do not deploy despite meeting deployment criteria."
+      ],
+      "odiNumbers": [
+        "10033831",
+        "10022941",
+        "899469",
+        "871274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Horn Malfunction",
+      "impact": "A malfunctioning horn can lead to accidents or near-misses, as the driver may not be able to alert other drivers or pedestrians in emergency situations.",
+      "symptoms": [
+        "Horn blows without being touched",
+        "horn is inoperative",
+        "internal contact failure within the horn assembly."
+      ],
+      "odiNumbers": [
+        "8024082",
+        "8010085",
+        "754639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Theft System Failure",
+      "impact": "The failure of the anti-theft system can cause the vehicle to stall without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The anti-theft warning light illuminates",
+        "the vehicle stalls",
+        "the vehicle won't start with the key in the ignition",
+        "the theft system light flashes."
+      ],
+      "odiNumbers": [
+        "10576917",
+        "10291114",
+        "711168"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall, making it difficult or impossible to start the engine, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine makes a clicking sound but doesn't start",
+        "the vehicle won't restart after being turned off",
+        "the battery drains."
+      ],
+      "odiNumbers": [
+        "10433382",
+        "8014052",
+        "8013655",
+        "566556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various components to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The horn activates by itself",
+        "the windshield wipers stall and stop working",
+        "the alternator fails",
+        "the generator assembly fails."
+      ],
+      "odiNumbers": [
+        "10014642",
+        "825744",
+        "548446",
+        "607531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

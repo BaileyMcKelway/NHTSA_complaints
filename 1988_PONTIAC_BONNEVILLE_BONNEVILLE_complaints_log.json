@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "UNKNOWN OR OTHER",
+    "STRUCTURE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall, leaving the driver stranded, which can lead to accidents, injuries, or even death, especially if it occurs on a highway or in a remote area.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the electrical system fails",
+        "the car shuts down while driving",
+        "the alternator fails to recharge the battery",
+        "the vehicle won't start."
+      ],
+      "odiNumbers": [
+        "748501",
+        "748439",
+        "971635",
+        "486054",
+        "959601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the vehicle to stall, leaving the driver stranded, which can lead to accidents, injuries, or even death, especially if it occurs on a highway or in a remote area.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the starter fails to turn the engine",
+        "the car won't start."
+      ],
+      "odiNumbers": [
+        "486054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, leaving the driver stranded, which can lead to accidents, injuries, or even death, especially if it occurs on a highway or in a remote area.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the electrical system fails",
+        "the car shuts down while driving",
+        "the alternator fails to recharge the battery",
+        "the vehicle won't start."
+      ],
+      "odiNumbers": [
+        "971635",
+        "959601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Seat Belts",
+      "impact": "The failure of the seat belts to properly latch or lock can increase the risk of injury or fatality in the event of an accident, compromising the safety of occupants.",
+      "symptoms": [
+        "The seat belts do not click in or hold through the retractor",
+        "the seat belts do not lock during impact",
+        "the driver's side shoulder belt does not lock."
+      ],
+      "odiNumbers": [
+        "10029667",
+        "818629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Check Engine Light",
+      "impact": "The intermittent illumination of the check engine light can indicate a underlying issue with the vehicle's engine or emissions system, which if left unaddressed, can lead to decreased fuel efficiency, increased emissions, and potentially cause engine damage.",
+      "symptoms": [
+        "The check engine light comes on and goes off",
+        "the light may flash or stay steady",
+        "the vehicle may experience a loss of power or hesitation",
+        "the vehicle may have a rough idle."
+      ],
+      "odiNumbers": [
+        "486054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unknown/Electrical Issue (No Summary Listed)",
+      "impact": "The lack of a specific summary or diagnosis can make it difficult to determine the root cause of the issue, which can lead to a prolonged period of uncertainty and potential safety risks.",
+      "symptoms": [
+        "No specific symptoms listed",
+        "unknown or unexplained issue with the vehicle."
+      ],
+      "odiNumbers": [
+        "722974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion of A-Frame Mount",
+      "impact": "The corrosion of the A-frame mount can cause the engine to fall out of the vehicle, leading to a loss of steering control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Engine falls out of the vehicle",
+        "sudden loss of steering control",
+        "no warning signs or symptoms before the failure."
+      ],
+      "odiNumbers": [
+        "822057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Left Rear Door Mechanism",
+      "impact": "The faulty left rear door mechanism can cause the door to become stuck or inoperable, which can lead to inconvenience, difficulty in accessing the vehicle, and potentially cause safety issues in emergency situations.",
+      "symptoms": [
+        "Unable to open the left rear door",
+        "dealer claims that there is no available part to fix the issue."
+      ],
+      "odiNumbers": [
+        "958701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall, which can lead to accidents, especially when driving at high speeds or in heavy traffic. This can also result in costly repairs and inconvenience to the driver.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine sputters or hesitates",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump fails to prime",
+        "the vehicle has difficulty starting",
+        "the check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "970737",
+        "486054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

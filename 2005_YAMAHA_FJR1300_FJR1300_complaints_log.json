@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the motorcycle to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The motorcycle stalls or fails to start",
+        "the ignition switch is intermittent",
+        "the motorcycle loses power while in operation",
+        "the ignition switch fails to turn off",
+        "the motorcycle requires repeated attempts to start."
+      ],
+      "odiNumbers": [
+        "11208378",
+        "10913638",
+        "10514103",
+        "10512750",
+        "10403967",
+        "10367838",
+        "10238924",
+        "10237610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the rear ABS can cause the rear wheel to lock up, leading to loss of control, accidents, and increased stopping distances, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The rear anti-lock brakes stop working",
+        "the rear wheel locks up during emergency braking",
+        "the motorcycle loses control",
+        "the ABS system is no longer functional."
+      ],
+      "odiNumbers": [
+        "10652625",
+        "10484957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Geysering/Fuel Tank Pressure Build-up",
+      "impact": "The sudden release of fuel from the tank can cause serious personal injury, property damage, and potentially lead to fires or explosions.",
+      "symptoms": [
+        "Fuel spews out of the tank when the fuel cap is opened",
+        "creating a geyser-like effect",
+        "covering the surrounding area and potentially causing damage to the vehicle and nearby objects."
+      ],
+      "odiNumbers": [
+        "10424144",
+        "10196884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

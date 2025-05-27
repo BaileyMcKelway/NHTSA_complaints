@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "The improper deployment of airbags can cause serious injuries or fatalities, and the failure of airbags to deploy can leave occupants unprotected in the event of a crash.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "airbags deploy unnecessarily",
+        "airbags deploy with excessive force",
+        "airbags shatter the windshield",
+        "airbags scatter glass and debris throughout the vehicle interior",
+        "airbags cause respiratory problems due to powder inhalation",
+        "airbags cause hearing loss or diminished hearing."
+      ],
+      "odiNumbers": [
+        "10818551",
+        "718421",
+        "843241",
+        "836164",
+        "978324",
+        "965434",
+        "476539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Right Rear ABS Brakes Failure",
+      "impact": "The failure of the right rear ABS brakes can cause the vehicle to lose control, leading to accidents, injuries, and potentially fatalities.",
+      "symptoms": [
+        "The vehicle shifts to the right while braking",
+        "the vehicle spins out of control",
+        "the airbag deploys unexpectedly",
+        "the windshield bursts."
+      ],
+      "odiNumbers": [
+        "781479",
+        "801301",
+        "476539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Seatbelt Failure",
+      "impact": "The failure of the rear seatbelts can lead to a significant risk of injury or death in the event of an accident, compromising the safety of rear seat passengers.",
+      "symptoms": [
+        "Rear seatbelts break or fail",
+        "rear seatbelt anchors loosen or detach",
+        "rear seatbelts become damaged or worn out prematurely."
+      ],
+      "odiNumbers": [
+        "765276",
+        "709772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Sticking",
+      "impact": "The throttle sticking can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, or near-misses, especially in city traffic.",
+      "symptoms": [
+        "Throttle sticks in the closed position",
+        "difficulty accelerating or decelerating",
+        "unpredictable vehicle behavior."
+      ],
+      "odiNumbers": [
+        "709772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to pull to one side, making it difficult to control, which can lead to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle pulls severely to one side",
+        "the vehicle is difficult to steer",
+        "the steering wheel is hard to turn",
+        "the steering wheel vibrates or shakes",
+        "the power steering fluid leaks",
+        "unusual noises are heard while steering."
+      ],
+      "odiNumbers": [
+        "541505",
+        "472898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag light to stay on, potentially leading to a failure to deploy in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the clock flashes continuously",
+        "the airbag sensor light comes on for no reason",
+        "the airbag system malfunctions."
+      ],
+      "odiNumbers": [
+        "10715065",
+        "10566594",
+        "10525374",
+        "10225681"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and damage to property.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "even when the brake is depressed",
+        "the vehicle lunges forward or into reverse without assistance",
+        "the vehicle accelerates rapidly without input from the driver."
+      ],
+      "odiNumbers": [
+        "10475919",
+        "10249279",
+        "10197325",
+        "10192934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Failure",
+      "impact": "The failure of the rear seat belts can lead to entrapment, difficulty in exiting the vehicle, and potentially life-threatening situations in the event of an accident.",
+      "symptoms": [
+        "The rear seat belts fail to retract",
+        "the rear seat belts become shredded",
+        "the rear seat belts latch and cannot be unlatched",
+        "the rear seat belts trap occupants",
+        "the rear seat belts will not release."
+      ],
+      "odiNumbers": [
+        "10546272",
+        "10475315",
+        "10243849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Brake Wear and Failure",
+      "impact": "Premature brake wear and failure can lead to a loss of braking performance, increasing the risk of accidents and compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal vibration",
+        "grinding or screeching noise when applying the brakes",
+        "overheated front rotors",
+        "brake failure",
+        "shuttering or jerking sensation when braking."
+      ],
+      "odiNumbers": [
+        "10468433",
+        "10217932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

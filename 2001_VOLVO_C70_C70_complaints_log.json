@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incompatible Tire and Rim Design",
+      "impact": "The incompatibility of the 17-inch tires and rims can cause tire blowouts, rim bending, and loss of control, leading to accidents and potential injuries.",
+      "symptoms": [
+        "Tire blowouts",
+        "rim bending",
+        "tire and rim replacement",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10059216",
+        "563792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Tire Design",
+      "impact": "The defective tire design can cause tire blowouts, loss of control, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Tire blowouts",
+        "loss of tire pressure",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10059216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Body Failure",
+      "impact": "The failure of the electronic throttle body can cause the engine to lose power, stall, or lurch forward, leading to a loss of control, accidents, or near-misses, especially on the highway.",
+      "symptoms": [
+        "The engine loses power when accelerating",
+        "the vehicle stalls",
+        "the vehicle lurches forward",
+        "the engine check light comes on and off",
+        "the vehicle idles rough",
+        "the vehicle dies at low speeds."
+      ],
+      "odiNumbers": [
+        "10490241",
+        "10458815",
+        "10131363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Module (ETM) Failure",
+      "impact": "The failure of the Electronic Throttle Module (ETM) can cause the vehicle to stall or hesitate, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls or hesitates",
+        "the engine light comes on",
+        "the vehicle has a rough or erratic idle",
+        "the throttle response is slow or delayed",
+        "the vehicle has a lack of power or acceleration."
+      ],
+      "odiNumbers": [
+        "10143076",
+        "10545119",
+        "10493415",
+        "10464214",
+        "10392111",
+        "10364210",
+        "10294209",
+        "10264208",
+        "10234107",
+        "10194106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Control System (ETC) Failure",
+      "impact": "The failure of the ETC system can cause the vehicle to become difficult to drive, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The ETC warning light comes on while driving",
+        "the vehicle experiences drivability issues",
+        "the throttle body needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10133101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

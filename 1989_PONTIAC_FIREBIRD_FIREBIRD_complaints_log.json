@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Buckle Failure",
+      "impact": "The failure of the seatbelt buckle can lead to inadequate restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatbelt buckle does not click into place properly",
+        "the seatbelt buckle does not provide any restraint",
+        "the seatbelt buckle cracks or breaks",
+        "the seatbelt does not retract properly",
+        "excessive slack in the seatbelt."
+      ],
+      "odiNumbers": [
+        "11577040",
+        "10120394",
+        "711608",
+        "702138",
+        "812531",
+        "958274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Booster Rod Clip Failure",
+      "impact": "The failure of the brake booster rod clip can cause the brake pedal to go to the floor, resulting in a loss of braking ability, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle does not stop or slows down unexpectedly",
+        "the driver must use the emergency brake to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "830673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic Line Failure",
+      "impact": "The failure of the brake hydraulic line can cause a loss of braking ability, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle does not stop or slows down unexpectedly",
+        "the park brake cable rubs against the hydraulic brake line."
+      ],
+      "odiNumbers": [
+        "963024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Multiple System Failure (Brakes, Air Conditioning, Power Door Locks, Horn)",
+      "impact": "The simultaneous failure of multiple systems can cause a loss of control and increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The brakes",
+        "air conditioning",
+        "power door locks",
+        "and horn fail to function properly",
+        "the vehicle experiences a loss of control."
+      ],
+      "odiNumbers": [
+        "537642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure and Unexplained Vehicle Fires",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. Unexplained vehicle fires can result in injuries or fatalities, as well as significant property damage.",
+      "symptoms": [
+        "Engine failure",
+        "sudden loss of power",
+        "vehicle stalling",
+        "unexplained vehicle fires",
+        "smoke or flames emanating from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10113605",
+        "604321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Failure Due to Mechanical Issues",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "sudden loss of power",
+        "vehicle stalling",
+        "unusual engine noises",
+        "oil leaks",
+        "coolant leaks."
+      ],
+      "odiNumbers": [
+        "604321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

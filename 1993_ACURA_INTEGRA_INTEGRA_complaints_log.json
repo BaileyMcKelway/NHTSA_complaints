@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Restraint System Failure",
+      "impact": "The failure of the automatic seat belt restraint system can cause injuries or fatalities in the event of a collision, as the passengers may not be properly restrained.",
+      "symptoms": [
+        "The automatic seat belts stay in the unlocked position",
+        "the automatic seat belts do not engage when the ignition is turned on",
+        "the driver's side automatic shoulder belts do not work",
+        "the motorized shoulder belts move in track/tighten after closing the door",
+        "the lower portion of the shoulder belt gets caught in the lower reel assembly."
+      ],
+      "odiNumbers": [
+        "10097499",
+        "701472",
+        "832221",
+        "518792",
+        "757158",
+        "709671"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling and Failure to Start",
+      "impact": "The intermittent engine stalling and failure to start can cause unexpected loss of power while driving, increasing the risk of accidents, and leaving the driver stranded. This issue can also lead to inconvenience and disruption of daily activities.",
+      "symptoms": [
+        "The engine dies while driving",
+        "the engine shuts off without warning",
+        "the engine RPMs drop to 0",
+        "the engine stalls and restarts while coasting",
+        "the engine fails to start",
+        "the engine starts after waiting for 10-15 minutes or longer."
+      ],
+      "odiNumbers": [
+        "10651892",
+        "10051265",
+        "744104",
+        "784432",
+        "540548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Distributor and Ignition System Failure",
+      "impact": "The failure of the distributor and ignition system can cause the engine to stall or fail to start, leading to unexpected loss of power while driving, increasing the risk of accidents, and leaving the driver stranded.",
+      "symptoms": [
+        "The engine dies while driving",
+        "the engine shuts off without warning",
+        "the engine RPMs drop to 0",
+        "the engine stalls and restarts while coasting",
+        "the engine fails to start",
+        "the distributor bearing fails."
+      ],
+      "odiNumbers": [
+        "744104",
+        "784432",
+        "540548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Fuel Intake System Issues (Suspected)",
+      "impact": "The suspected issues with the fuel intake system can cause the engine to fail to start, leading to inconvenience and disruption of daily activities.",
+      "symptoms": [
+        "The car won't start in high temperatures",
+        "the car starts after waiting for 20-30 minutes or longer",
+        "the car is not necessarily okay for trips after starting."
+      ],
+      "odiNumbers": [
+        "10651892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Main Relays",
+      "impact": "The poor solder job on the main relays can cause the vehicle to stall or not start, especially in hot weather, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle turns over but doesn't start",
+        "the RPM starts to go down slowly and then shuts off",
+        "the vehicle takes a long time to turn on again",
+        "the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "10254062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Distributor Failure",
+      "impact": "The failure of the distributor can cause damage to the timing belt and cam shafts, leading to costly repairs and potentially causing the engine to stall or fail.",
+      "symptoms": [
+        "The engine stalls or fails",
+        "the timing belt is damaged",
+        "the cam shafts are damaged."
+      ],
+      "odiNumbers": [
+        "522937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Water Ingress into Engine Air Intake",
+      "impact": "Water entering the engine air intake can cause severe engine damage, leading to costly repairs and potentially causing the engine to fail or stall.",
+      "symptoms": [
+        "Water enters the engine air intake",
+        "severe engine damage occurs",
+        "the engine stalls or fails."
+      ],
+      "odiNumbers": [
+        "978437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

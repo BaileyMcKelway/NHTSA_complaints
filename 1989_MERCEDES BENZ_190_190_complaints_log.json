@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause hot coolant to leak inside the vehicle, potentially leading to severe burns, loss of control, and accidents.",
+      "symptoms": [
+        "Hot coolant leaking from underneath the dashboard",
+        "steamy windows",
+        "hot antifreeze leaking inside the vehicle",
+        "and burns on the driver's legs."
+      ],
+      "odiNumbers": [
+        "10117645",
+        "741548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can cause reduced visibility, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "Windshield wipers unable to clean the window",
+        "fumes or fog remaining on the windshield",
+        "and reduced visibility."
+      ],
+      "odiNumbers": [
+        "806678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "often without warning",
+        "and may not respond to braking input. This can occur while shifting into gear",
+        "driving at low speeds",
+        "or when the vehicle is stationary."
+      ],
+      "odiNumbers": [
+        "10068339",
+        "982595",
+        "958856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Airbag System",
+      "impact": "The failure of the airbag system can lead to a failure to deploy in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The SRS (Supplemental Restraint System) light comes on during startup and stays on",
+        "the airbag fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "526312",
+        "488480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

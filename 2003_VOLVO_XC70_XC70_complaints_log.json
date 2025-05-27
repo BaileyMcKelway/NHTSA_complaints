@@ -1,0 +1,175 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates continuously",
+        "the airbag system malfunction indicator is displayed on the dashboard",
+        "the airbag system fails to deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10810285",
+        "10671821",
+        "10357281",
+        "10250583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dim (Driver Information Module) Failure",
+      "impact": "The failure of the Dim can cause the dashboard to go black, leading to the loss of critical information such as speed, fuel level, and clock, and potentially affecting the proper operation of the airbag system.",
+      "symptoms": [
+        "The dashboard suddenly goes black",
+        "all gauges including speedometer",
+        "tachometer",
+        "gas gauge",
+        "and clock stop working",
+        "every warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10671821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Central SRS Computer Failure",
+      "impact": "The failure of the central SRS computer can cause the airbag system to malfunction, leading to the failure of airbags to deploy in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The service light illuminates indicating failure in the SRS airbag system",
+        "the central computer on the auto fails",
+        "the airbag system fails to deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10357281",
+        "10250583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "A faulty fuel pump can cause a fuel leak, which can lead to a fire or explosion, posing a significant risk to the safety of the driver and passengers.",
+      "symptoms": [
+        "Strong fuel odor",
+        "fuel leak",
+        "poor starting",
+        "fuel dripping from the rear of the vehicle",
+        "fuel lines hanging loose."
+      ],
+      "odiNumbers": [
+        "10597024",
+        "10554719",
+        "10289746",
+        "10128803"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Line Failure",
+      "impact": "A faulty fuel line can cause a fuel leak, which can lead to a fire or explosion, posing a significant risk to the safety of the driver and passengers.",
+      "symptoms": [
+        "Fuel lines hanging loose",
+        "fuel leak",
+        "strong fuel odor",
+        "fuel dripping from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "10128803"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver Information Module (DIM) Failure",
+      "impact": "The failure of the DIM can cause the loss of critical vehicle information, including speed, fuel level, and warning lights, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The dashboard suddenly goes black",
+        "all gauges",
+        "including speedometer",
+        "tachometer",
+        "gas gauge",
+        "and clock",
+        "stop working",
+        "and warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "10510254",
+        "10448849",
+        "10400019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Exterior Safety Features",
+      "impact": "The absence of exterior safety features, such as chrome trim, side lights, and door lights, can increase the risk of accidents, especially for black vehicles.",
+      "symptoms": [
+        "No exterior indicators or lights to alert other drivers of the vehicle's presence."
+      ],
+      "odiNumbers": [
+        "10375373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Geartronic Transmission Failure",
+      "impact": "The failure of the Geartronic transmission can cause the vehicle to jerk and hesitate, leading to loss of control and potential accidents. It can also result in costly repairs, leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle jerks and hesitates",
+        "transmission flares when shifting gears",
+        "clunking noise when downshifting into first gear",
+        "loss of first gear",
+        "hard shifting between gears."
+      ],
+      "odiNumbers": [
+        "10427544",
+        "10405959",
+        "10363871",
+        "10349152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Coil Spring Failure",
+      "impact": "The failure of the front coil spring can cause uneven tire wear, reduced vehicle stability, and potentially lead to loss of control, especially during off-road use or when making turns.",
+      "symptoms": [
+        "Rubbing noise coming from the front wheel well",
+        "especially when making turns",
+        "premature wear on front tires",
+        "broken or cracked coil spring."
+      ],
+      "odiNumbers": [
+        "10396979",
+        "10357283",
+        "10326536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

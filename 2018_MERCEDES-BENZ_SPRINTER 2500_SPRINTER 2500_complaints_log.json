@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission/Limp Mode Issues",
+      "impact": "The vehicle's transmission shifting into limp mode without warning can cause loss of power, making it difficult to maintain speed, especially on hills, and potentially leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle intermittently shifts into limp mode",
+        "loss of power",
+        "unable to maintain speed",
+        "especially on hills."
+      ],
+      "odiNumbers": [
+        "11387713",
+        "11503321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idling and Stalling Issues",
+      "impact": "The vehicle's inability to idle properly can cause it to stall, leading to loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle will not idle",
+        "turns off frequently",
+        "requires putting the vehicle in drive and engaging the emergency brake to keep it running."
+      ],
+      "odiNumbers": [
+        "11503321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical/Lock System Issues",
+      "impact": "The malfunctioning of the electrical system, specifically the lock system, can cause safety issues, such as the vehicle turning off while in motion, and inconvenience to passengers.",
+      "symptoms": [
+        "The back doors are always locked",
+        "unlocking the back doors causes the vehicle to turn off."
+      ],
+      "odiNumbers": [
+        "11503321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Heating System Issues",
+      "impact": "The malfunctioning of the heating system can cause discomfort and safety issues for passengers, especially in cold weather.",
+      "symptoms": [
+        "The heating system does not function properly",
+        "causing passengers to freeze in cold weather."
+      ],
+      "odiNumbers": [
+        "11503321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Retractor Failure",
+      "impact": "A faulty seat belt retractor can lead to a malfunctioning seat belt, compromising the safety of the driver and increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The driver's side seat belt is slow to retract or doesn't retract at all",
+        "the seat belt mechanism to adjust up and down is broken."
+      ],
+      "odiNumbers": [
+        "11496820",
+        "11311159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Buckle Receiver Failure",
+      "impact": "The frequent breakage of the seat belt buckle receiver can cause the seat belt to malfunction, putting the driver at risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle receiver breaks frequently",
+        "the cables shear at the internal mount point",
+        "the entire cable breaks over time."
+      ],
+      "odiNumbers": [
+        "11311159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Rear Wheel Speed Sensor",
+      "impact": "A faulty rear wheel speed sensor can cause the vehicle to suddenly and erratically accelerate, leading to loss of control and potential accidents. Additionally, it can trigger multiple warning messages, including ESP, ABS, and Blind Spot Assist, which can distract the driver and further compromise safety.",
+      "symptoms": [
+        "Sudden and erratic acceleration",
+        "erratic transmission shifting",
+        "multiple warning messages on the dashboard",
+        "including ESP",
+        "ABS",
+        "and Blind Spot Assist",
+        "ASR/BAS symbol appearance."
+      ],
+      "odiNumbers": [
+        "11383866",
+        "11374151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "EGR Valve and EGR Cooler Failure",
+      "impact": "The failure of the EGR valve and EGR cooler can cause a significant loss of engine power, making it difficult to maintain speed, especially on highways, which can increase the risk of accidents.",
+      "symptoms": [
+        "Abnormal sounds emanating from the engine compartment",
+        "loss of motive power",
+        "inability to accelerate above a certain speed (in this case",
+        "45 MPH)."
+      ],
+      "odiNumbers": [
+        "11575524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning Seal Failure",
+      "impact": "The failure of the air conditioning seal can cause water to leak into the interior cabin, resulting in moisture accumulation on the carpet, wall panels, and headliner, which can lead to mold growth and unpleasant odors, compromising the vehicle's interior environment and potentially affecting the health of occupants.",
+      "symptoms": [
+        "Water leaks into the interior cabin",
+        "moisture accumulation on the carpet",
+        "wall panels",
+        "and headliner",
+        "musty or unpleasant odors",
+        "visible signs of mold or mildew."
+      ],
+      "odiNumbers": [
+        "11430623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

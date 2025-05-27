@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatback Failure",
+      "impact": "The sudden failure of the seatback can cause the driver or passenger to lose control of the vehicle, leading to accidents or injuries.",
+      "symptoms": [
+        "The seatback collapses or reclines on its own",
+        "the seatback breaks or shears",
+        "the seatback bolts break",
+        "the seat moves forward and backward freely",
+        "the lower lumbar support moves forward."
+      ],
+      "odiNumbers": [
+        "806998",
+        "980083",
+        "980246",
+        "978419",
+        "976696",
+        "970859",
+        "970097",
+        "963127"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Locking",
+      "impact": "The steering column locking can cause the vehicle to become difficult to steer, leading to a loss of control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The steering column becomes stuck or locked",
+        "making it hard to turn the wheel",
+        "the vehicle becomes difficult to steer",
+        "the driver experiences a sudden loss of control."
+      ],
+      "odiNumbers": [
+        "975993"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Poor Handling and Loss of Control",
+      "impact": "The poor handling and loss of control can cause the vehicle to become unstable, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "The vehicle wanders or drifts while driving",
+        "the vehicle is difficult to control",
+        "the vehicle responds slowly to steering input",
+        "the vehicle tends to pull to one side",
+        "the driver experiences a sudden loss of control."
+      ],
+      "odiNumbers": [
+        "962113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to a loss of control, accidents, or stranding the driver on the road. In addition, transmission failure can also cause damage to other components, leading to costly repairs.",
+      "symptoms": [
+        "Transmission starts to smoke",
+        "transmission slips",
+        "loss of power",
+        "vehicle hesitates or stalls",
+        "unusual noises or vibrations from the transmission",
+        "difficulty shifting gears",
+        "warning lights or error messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "975812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

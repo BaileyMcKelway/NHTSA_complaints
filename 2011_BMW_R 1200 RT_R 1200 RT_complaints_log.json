@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure - Fuel Leaking from Fuel Line",
+      "impact": "Fuel leaking from the fuel line can cause a fire hazard, potentially leading to serious accidents or injuries.",
+      "symptoms": [
+        "Fuel spraying from the fuel line",
+        "fuel leaking from the motorcycle."
+      ],
+      "odiNumbers": [
+        "11485901",
+        "11428477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect - Delayed Recall Repair",
+      "impact": "The delayed availability of parts for the recall repair can leave the vehicle in an unsafe condition, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available for repair",
+        "dealer confirms parts are not yet available",
+        "manufacturer exceeds a reasonable amount of time for recall repair."
+      ],
+      "odiNumbers": [
+        "11430640",
+        "11427749",
+        "11428477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump High Pressure Fitting Failure",
+      "impact": "The failure of the fuel pump high pressure fitting can cause a major fuel leak, which can lead to a fire hazard, especially when fuel drips onto the hot exhaust pipe or engine. This can result in serious injury or even death.",
+      "symptoms": [
+        "Fuel leak from the high pressure fitting on the fuel pump",
+        "fuel dripping onto the hot exhaust pipe or engine",
+        "fuel pooling on top of the fuel pump",
+        "risk of fire",
+        "possibility of fuel getting on the rider's pant leg and causing burns."
+      ],
+      "odiNumbers": [
+        "11483260",
+        "11329259",
+        "11328609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Cable Bell Crank/Cam Failure",
+      "impact": "The cracking of the throttle cable bell cranks/cams due to poor quality plastic material can cause the motorcycle to suddenly lose power, leading to a loss of control and increased risk of accidents, especially when entering traffic, turning, or traveling at high speeds.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine returns to idle RPM",
+        "hand throttle no longer works."
+      ],
+      "odiNumbers": [
+        "11408223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or hesitate, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The fuel pump makes a loud whining or grinding noise",
+        "the engine stalls or hesitates",
+        "the vehicle loses power",
+        "the fuel pump leaks fuel",
+        "the fuel pump overflows."
+      ],
+      "odiNumbers": [
+        "11355042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brakes to seize or drag, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The brakes feel spongy or soft",
+        "the brakes make a grinding or screeching noise",
+        "the brakes vibrate or pulse",
+        "the brakes overheat",
+        "the brake caliper seizes or drags."
+      ],
+      "odiNumbers": [
+        "11355042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

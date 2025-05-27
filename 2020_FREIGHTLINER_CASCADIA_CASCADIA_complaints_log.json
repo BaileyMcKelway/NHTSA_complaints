@@ -1,0 +1,191 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking (AEB) and Collision Avoidance System (CAS)",
+      "impact": "The false activation of AEB and CAS can cause sudden and unexpected braking, leading to loss of control, accidents, or rear-end collisions, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected braking",
+        "loss of power",
+        "cutting off engine power",
+        "false collision warnings",
+        "and unnecessary panic braking."
+      ],
+      "odiNumbers": [
+        "11570495",
+        "11522762",
+        "11513719",
+        "11474018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Overriding of Driver Input by AEB and CAS",
+      "impact": "The AEB and CAS systems overriding the driver's input can cause loss of control, accidents, or rear-end collisions, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Unnecessary panic braking",
+        "loss of power",
+        "cutting off engine power",
+        "and false collision warnings."
+      ],
+      "odiNumbers": [
+        "11522762",
+        "11513719",
+        "11474018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective ABS System",
+      "impact": "A defective ABS system can cause loss of control, accidents, or rear-end collisions, which can result in injuries or fatalities.",
+      "symptoms": [
+        "ABS not working",
+        "service required",
+        "internal problem detected",
+        "and error codes 520247 and 1810."
+      ],
+      "odiNumbers": [
+        "11444204"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure (Decoupling Groove Failure)",
+      "impact": "The failure of the tire sidewall can cause a tire blowout, leading to loss of vehicle control, accidents, and risk to the safety of others.",
+      "symptoms": [
+        "No warning signs or symptoms prior to failure",
+        "sudden tire blowout",
+        "excessive heat on the sidewall",
+        "decoupling groove failure on the inside edge of the steer tire."
+      ],
+      "odiNumbers": [
+        "11477347",
+        "11476302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Blowout (Tread Separation)",
+      "impact": "The tire blowout can cause loss of vehicle control, accidents, and risk to the safety of others.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tire shredding",
+        "loss of tire pressure",
+        "vehicle vibration or shaking."
+      ],
+      "odiNumbers": [
+        "11471381",
+        "11398098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Automatic Emergency Braking System Engagement",
+      "impact": "The unexpected activation of the automatic emergency braking system can cause the vehicle to suddenly stop, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly comes to a dead stop without warning",
+        "even when there is no obstacle or hazard in front of the vehicle."
+      ],
+      "odiNumbers": [
+        "11547088",
+        "11326113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust Gas Infiltration into the Cab",
+      "impact": "The design flaw of down-facing exhaust systems with aerodynamic panels can cause exhaust gases, including regen soot, to enter the cab, posing a health risk to drivers and potentially impairing cognitive function.",
+      "symptoms": [
+        "Drivers can smell regen soot and exhaust gases while driving or idling",
+        "and may experience coughing or other health issues due to prolonged exposure."
+      ],
+      "odiNumbers": [
+        "11509676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Malfunctioning Lane Guidance and Traction Sensors",
+      "impact": "Faulty lane guidance and traction sensors can cause false alarms, leading to unnecessary activation of safety features, such as automatic emergency braking, and potentially causing accidents or disruptions to traffic flow.",
+      "symptoms": [
+        "The lane guidance sensor activates even when there is no line to guide it",
+        "and the traction sensor comes on even when there is no loss of traction."
+      ],
+      "odiNumbers": [
+        "11326113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Electronic Logging System",
+      "impact": "A malfunctioning electronic logging system can lead to inaccurate records, potentially resulting in non-compliance with regulations, fines, and even accidents due to driver fatigue.",
+      "symptoms": [
+        "The system fails to log hours correctly",
+        "wires are damaged or malfunctioning",
+        "and the system may not provide accurate records."
+      ],
+      "odiNumbers": [
+        "11521957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Erratic Tire Pressure Monitoring System (TPMS)",
+      "impact": "An faulty TPMS can lead to inaccurate tire pressure readings, potentially causing tire failure, loss of control, and accidents.",
+      "symptoms": [
+        "The low tire pressure alarm sounds at incorrect pressures",
+        "abnormal buzzing sounds are detected",
+        "and the system may not provide accurate readings."
+      ],
+      "odiNumbers": [
+        "11498496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Fan and Cruise Control Malfunction",
+      "impact": "The malfunction of the clutch fan and cruise control can cause sudden loss of control, leading to accidents, especially at high speeds.",
+      "symptoms": [
+        "The clutch fan kicks in unexpectedly",
+        "cruise control cancels automatically",
+        "gear shifts in and out",
+        "RPM rises and falls rapidly",
+        "and the vehicle may not display any warning lights."
+      ],
+      "odiNumbers": [
+        "11329834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

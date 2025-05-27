@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "A blown head gasket can cause engine overheating, coolant leaks, and engine damage, leading to a loss of power and potential accidents.",
+      "symptoms": [
+        "Coolant light on",
+        "low coolant warning",
+        "engine overheating",
+        "coolant leaks",
+        "loss of engine power."
+      ],
+      "odiNumbers": [
+        "11583095",
+        "11561369"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Misfire and Loss of Power",
+      "impact": "Engine misfire and loss of power can cause a loss of control, especially on highways, leading to potential accidents.",
+      "symptoms": [
+        "Engine shaking",
+        "loss of engine power",
+        "check engine light on",
+        "flashing check engine light",
+        "difficulty accelerating",
+        "EPC light on."
+      ],
+      "odiNumbers": [
+        "11565688",
+        "11518531",
+        "11527094"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Computer Failure",
+      "impact": "Engine computer failure can cause a loss of engine power, difficulty accelerating, and potential accidents.",
+      "symptoms": [
+        "Engine computer failure",
+        "difficulty accelerating",
+        "loss of engine power",
+        "EPC light on."
+      ],
+      "odiNumbers": [
+        "11509158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Digital Cockpit Failure",
+      "impact": "The failure of the digital cockpit can cause the vehicle to shut down while driving, leaving the driver without essential information such as speed, and potentially leading to accidents or stranding.",
+      "symptoms": [
+        "The digital cockpit display shuts down",
+        "a red caution \"do not drive\" warning indicator appears",
+        "the display locks into \"night\" mode during the day",
+        "making it impossible to read in bright sunlight",
+        "and the display may not return to normal operation after shutting down."
+      ],
+      "odiNumbers": [
+        "11566906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Misfire and Stalling",
+      "impact": "The engine misfire and stalling can cause the vehicle to hesitate, lose power, and stall while driving, which can lead to accidents, especially when merging or stopping in traffic.",
+      "symptoms": [
+        "Engine misfire on all cylinders",
+        "engine start/stop failure",
+        "check engine light illumination",
+        "vehicle hesitation and loss of power when accelerating",
+        "vehicle stalling while operating",
+        "and inability to clear intersections."
+      ],
+      "odiNumbers": [
+        "11555705",
+        "11533858",
+        "11519205",
+        "11490404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Power Control (EPC) Issues",
+      "impact": "The EPC issues can cause the vehicle to bog down, limit RPMs, and make it dangerous to drive on highways or local roads, potentially leading to accidents.",
+      "symptoms": [
+        "EPC warning lights",
+        "engine running rough",
+        "shaking",
+        "and loud banging sounds from under the car",
+        "spontaneous acceleration limitations",
+        "and erroneous messages on the display",
+        "such as \"turn lights on\" or \"accident\" warnings."
+      ],
+      "odiNumbers": [
+        "11533858",
+        "11490404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Noise and Premature Wear",
+      "impact": "The excessive noise and premature wear of the rear brakes can lead to brake failure, increasing the risk of accidents and putting occupants and others on the road at risk.",
+      "symptoms": [
+        "Squealing sound",
+        "especially when cold",
+        "excessive sounds",
+        "sensation of dragging",
+        "noises from the left rear of the car after releasing the brakes",
+        "metal-on-metal grinding noises."
+      ],
+      "odiNumbers": [
+        "11591032",
+        "11512817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Seizure due to Hill Start Assist",
+      "impact": "The brake seizure caused by the hill start assist feature can cause the vehicle to not move, increasing the risk of accidents and leaving the driver stranded.",
+      "symptoms": [
+        "Brakes seize",
+        "vehicle does not move",
+        "brakes release after several minutes."
+      ],
+      "odiNumbers": [
+        "11477372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

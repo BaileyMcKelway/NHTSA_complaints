@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Fuel Gauge",
+      "impact": "The erratic fuel gauge can cause the motorcycle to suddenly shut down, leading to accidents or serious injuries, especially when crossing busy intersections or riding at high speeds.",
+      "symptoms": [
+        "The fuel gauge reads empty when the tank is not empty",
+        "the fuel gauge reads full when the tank is not full",
+        "the fuel gauge is inconsistent",
+        "the fuel gauge does not display the correct amount of remaining fuel",
+        "the motorcycle engine shuts down unexpectedly due to fuel depletion."
+      ],
+      "odiNumbers": [
+        "10410812",
+        "10402553",
+        "10389791",
+        "10354872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Hydraulic Control Unit Failure",
+      "impact": "The failure of the ABS hydraulic control unit can cause the ABS feature to become unusable, leading to degraded and faulty brakes, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS feature is inoperable",
+        "the brakes are degraded and faulty",
+        "the vehicle's braking performance is compromised."
+      ],
+      "odiNumbers": [
+        "11402519",
+        "18"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Failure due to Excessive Heat",
+      "impact": "The failure of the rear brake can cause a loss of braking performance, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The rear brake fails",
+        "brake fluid leaks out of the system",
+        "the plastic portion of the switch melts",
+        "the brake is exposed to excessive heat due to its proximity to the exhaust pipe."
+      ],
+      "odiNumbers": [
+        "10432905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccurate fuel gauge can cause the vehicle to run out of gas, leading to unexpected stalls, accidents, or strandings, especially in heavy traffic or high-speed conditions.",
+      "symptoms": [
+        "The fuel gauge reads inaccurately",
+        "displaying a lower level than the actual amount of fuel in the tank",
+        "the gauge fluctuates erratically",
+        "the gauge reads full when the tank is full but drops to a lower level after restarting the vehicle",
+        "uncommanded changes in power or speed."
+      ],
+      "odiNumbers": [
+        "10816486",
+        "10465304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "An inaccurate fuel gauge can lead to unexpected fuel exhaustion, stranding the rider, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The fuel gauge provides incorrect readings",
+        "the fuel gauge sticks or freezes",
+        "the fuel gauge is inconsistent",
+        "the fuel gauge does not accurately reflect the amount of fuel in the tank."
+      ],
+      "odiNumbers": [
+        "10474394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "totalComplaints": 49,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "EXTERIOR LIGHTING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a lack of protection in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the airbag fails to deploy in a crash",
+        "the passenger airbag sensor does not detect the presence of a passenger",
+        "the airbag system malfunctions",
+        "and the seat sensor needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11442672",
+        "11001621",
+        "10914494",
+        "10892180",
+        "10861389",
+        "10854458",
+        "10854461",
+        "10734866",
+        "10703533",
+        "10690382",
+        "10682898",
+        "10676821",
+        "10664899",
+        "10641286",
+        "10618642",
+        "10615551",
+        "10551111",
+        "10512119",
+        "10503105",
+        "10405575",
+        "10399496",
+        "10376849",
+        "10359001",
+        "10291497",
+        "10256496",
+        "10242039",
+        "10238421",
+        "10231834",
+        "10222953"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Occupant Classification System (OCS) Failure",
+      "impact": "The failure of the OCS can lead to the airbag system malfunctioning, which can increase the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the passenger airbag sensor does not detect the presence of a passenger",
+        "the OCS mat sensor needs to be replaced",
+        "and the seat sensor needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10854458",
+        "10854461",
+        "10734866",
+        "10676821",
+        "10641286",
+        "10512119",
+        "10503105",
+        "10405575",
+        "10376849",
+        "10242039"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Light Failure",
+      "impact": "The failure of the brake lights can increase the risk of accidents, as other drivers may not be aware of the vehicle's intention to stop, leading to potential rear-end collisions.",
+      "symptoms": [
+        "Brake lights do not illuminate when the brake pedal is depressed",
+        "brake lights remain stuck on",
+        "brake lights do not function at night or when headlights are used",
+        "dashboard warning lights for airbags may be illuminated incorrectly."
+      ],
+      "odiNumbers": [
+        "10735040",
+        "10579186",
+        "10564990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Fade and Unreliable Stopping",
+      "impact": "The excessive brake fade and unreliable stopping can lead to accidents, injuries, and fatalities, especially when driving with multiple passengers or in emergency braking situations.",
+      "symptoms": [
+        "The brakes feel spongy or soft",
+        "the vehicle takes longer to stop than usual",
+        "the brakes lock up without warning",
+        "the vehicle skids or loses control",
+        "the brakes fail to respond to pedal input."
+      ],
+      "odiNumbers": [
+        "10305833",
+        "10273005",
+        "10266513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Malfunction and Unintended Acceleration",
+      "impact": "The throttle malfunction and unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when reversing or driving at low speeds.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the throttle pedal sticks or gets stuck",
+        "the vehicle fails to respond to brake input",
+        "the vehicle moves unintentionally."
+      ],
+      "odiNumbers": [
+        "10273005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent brake failure can lead to accidents, injuries, and fatalities, especially when driving at moderate to high speeds or in emergency braking situations.",
+      "symptoms": [
+        "The brakes fail to respond to pedal input",
+        "the brakes lock up without warning",
+        "the vehicle skids or loses control",
+        "the brakes feel spongy or soft."
+      ],
+      "odiNumbers": [
+        "10266513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

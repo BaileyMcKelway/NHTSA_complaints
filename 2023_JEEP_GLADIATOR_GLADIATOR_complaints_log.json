@@ -1,0 +1,162 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Auxiliary Battery Drainage/Dead Battery",
+      "impact": "The sudden loss of power and inability to start the vehicle can leave the driver stranded, potentially causing safety risks, especially if it occurs while driving on a highway.",
+      "symptoms": [
+        "No power to the vehicle",
+        "dead battery",
+        "no lights",
+        "inability to start the engine",
+        "occasional faint lights or partial system functionality when attempting to jump-start."
+      ],
+      "odiNumbers": [
+        "11592749",
+        "11577731",
+        "11574696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Power Train Issue (23V116000)",
+      "impact": "The delay in repairing the power train issue can lead to potential safety risks, including loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a recall repair that has not been completed due to parts being on backorder."
+      ],
+      "odiNumbers": [
+        "11586087",
+        "11553826",
+        "11553827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Parts Associated with Power Train Issue (23V116000)",
+      "impact": "The defective parts can cause the check engine warning light to illuminate, and if left unrepaired, can lead to potential safety risks, including loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Check engine warning light illuminates",
+        "loosened fasteners."
+      ],
+      "odiNumbers": [
+        "11586087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking/Emergency Brake Failure",
+      "impact": "The failure of the parking/emergency brake can cause the vehicle to roll or move unexpectedly, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The parking brake is unattached and no longer functions",
+        "the vehicle rolls or moves when parked on an incline."
+      ],
+      "odiNumbers": [
+        "11584730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vacuum Pump Failure (Steering Area Hissing Sound)",
+      "impact": "The failure of the vacuum pump can cause the vehicle to move unexpectedly when the brake pedal is pressed, leading to potential accidents or injuries.",
+      "symptoms": [
+        "A hissing sound is heard from the steering area",
+        "typically upon first morning startup",
+        "the vehicle moves forward or in reverse when attempting to shift out of park without releasing the brake",
+        "the brakes require pumping several times to function properly."
+      ],
+      "odiNumbers": [
+        "11580496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Caliper Bolt Failure",
+      "impact": "The failure of the brake caliper bolt can cause the caliper to pivot and lodge into the wheel, making it difficult or impossible to back up, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "A loud banging noise is heard from the wheel",
+        "the brake caliper pivots and lodges into the wheel",
+        "the vehicle is unable to back up."
+      ],
+      "odiNumbers": [
+        "11554745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Filler Neck Design Flaw",
+      "impact": "The faulty design of the fuel filler neck can cause gasoline to splash out of the receptacle, creating a safety hazard for the driver and bystanders, as well as an environmental concern due to the spilled fuel.",
+      "symptoms": [
+        "Gasoline splashes out of the fuel filler neck during refueling",
+        "pouring onto the fender and ground",
+        "causing a mess and potential safety risks. The fuel nozzle cannot fully insert into the receptacle",
+        "preventing the pump from sensing when the tank is full",
+        "leading to overfilling and spillage."
+      ],
+      "odiNumbers": [
+        "11581614",
+        "11549445",
+        "11529869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Power Steering Assist System Failure",
+      "impact": "The failure of the electrical power steering assist system can cause the vehicle to shut down while in motion, leading to a loss of control and increasing the risk of accidents. Additionally, the failure can also affect other electrical systems, such as the radio, backup camera, and windows, making it difficult to operate the vehicle safely.",
+      "symptoms": [
+        "The vehicle displays a warning message indicating an issue with the electrical power steering assist system",
+        "the vehicle shuts down while in motion",
+        "the vehicle puts itself in park and shuts down",
+        "the steering function is affected",
+        "the radio",
+        "backup camera",
+        "and windows do not function."
+      ],
+      "odiNumbers": [
+        "11524214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Vibration and Alignment Issues",
+      "impact": "The vibration caused by tire alignment issues can lead to a loss of control, especially at high speeds, increasing the risk of accidents. Additionally, the vibration can also cause damage to other vehicle components, such as the suspension and steering systems.",
+      "symptoms": [
+        "The vehicle vibrates violently",
+        "especially when driving over bumps",
+        "the vibration is felt at high speeds",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "11552898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Wear and Failure",
+      "impact": "Premature brake wear and failure can lead to increased stopping distances, accidents, and damage to other vehicle components, such as rotors and tires.",
+      "symptoms": [
+        "Brake pads wear out quickly",
+        "brake rotors fail",
+        "vibration while braking",
+        "premature wear of rotors and tires",
+        "brake pedal goes to the floor",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "827735",
+        "528466",
+        "819534",
+        "525119",
+        "605399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Component Failure",
+      "impact": "Failure of brake system components can cause accidents, damage to other vehicle components, and increased stopping distances.",
+      "symptoms": [
+        "Brake pads fail",
+        "brake rotors fail",
+        "brake pedal goes to the floor",
+        "vibration while braking",
+        "premature wear of rotors and tires."
+      ],
+      "odiNumbers": [
+        "528466",
+        "525119",
+        "605399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Brake System Performance",
+      "impact": "Inadequate brake system performance can lead to accidents, increased stopping distances, and damage to other vehicle components.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "increased stopping distance",
+        "vibration while braking",
+        "premature wear of rotors and tires."
+      ],
+      "odiNumbers": [
+        "819534",
+        "525119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Stress Cracking",
+      "impact": "A stress crack in the fuel tank can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Fuel leaks from the tank",
+        "fuel smell or odor",
+        "fuel level drops rapidly",
+        "difficulty filling the tank",
+        "tank cannot be filled above 3/4 capacity."
+      ],
+      "odiNumbers": [
+        "11244475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected acceleration",
+        "even when the accelerator pedal is not being pressed",
+        "failure of the engine to return to idle",
+        "and difficulty stopping the vehicle with the brakes."
+      ],
+      "odiNumbers": [
+        "10323193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Electronic Throttle Control",
+      "impact": "Malfunction of the electronic throttle control can cause unintended acceleration, loss of vehicle control, and accidents, potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected acceleration",
+        "failure of the engine to return to idle",
+        "and difficulty stopping the vehicle with the brakes."
+      ],
+      "odiNumbers": [
+        "10323193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

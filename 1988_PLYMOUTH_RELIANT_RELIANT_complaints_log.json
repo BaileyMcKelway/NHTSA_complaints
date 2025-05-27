@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often without warning",
+        "and may cause the vehicle to move in an unexpected direction or speed."
+      ],
+      "odiNumbers": [
+        "708526",
+        "509664",
+        "978175"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Crankshaft Failure",
+      "impact": "The failure of the engine crankshaft can cause the engine to seize, leading to costly repairs, potential engine replacement, and increased risk of accidents due to sudden loss of power.",
+      "symptoms": [
+        "Engine failure",
+        "engine seizure",
+        "unusual engine noises",
+        "loss of power",
+        "difficulty starting the engine."
+      ],
+      "odiNumbers": [
+        "526613"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Jerking or Stalling",
+      "impact": "The intermittent jerking or stalling of the engine can cause loss of control, increased risk of accidents, and decreased vehicle safety.",
+      "symptoms": [
+        "Vehicle jerks or stalls intermittently",
+        "especially during warm weather",
+        "loss of power",
+        "difficulty maintaining speed."
+      ],
+      "odiNumbers": [
+        "507828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause serious damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine fire",
+        "smoke or flames from the engine compartment",
+        "unusual engine noises",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "504298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Indicator Light Failure",
+      "impact": "The failure of the oil indicator light to alert the driver in a timely manner can cause engine damage, leading to costly repairs and potential engine replacement.",
+      "symptoms": [
+        "Oil indicator light does not illuminate or illuminates too late",
+        "engine damage",
+        "unusual engine noises",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "959864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pads disintegrate",
+        "brake calipers fail",
+        "brake rotors wear out prematurely",
+        "difficulty stopping the vehicle",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "483433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

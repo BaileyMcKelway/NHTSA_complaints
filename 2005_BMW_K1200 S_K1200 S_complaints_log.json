@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Quick Disconnect Failure",
+      "impact": "The failure of the fuel tank quick disconnect can cause gasoline to leak from the bike, creating a fire hazard and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Gasoline smell",
+        "wetness on the leg or body",
+        "gasoline puddling under the bike",
+        "fuel dripping onto the engine and exhaust."
+      ],
+      "odiNumbers": [
+        "11222304",
+        "10594013",
+        "10556753",
+        "10549259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Integral ABS Pressure Modulator Failure",
+      "impact": "The failure of the integral ABS pressure modulator can cause complete brake/ABS failure, leading to accidents or near-misses, especially in high-traffic areas or tight turns.",
+      "symptoms": [
+        "Near-total loss of braking power",
+        "brake failure warning lights",
+        "inability to stop or slow down",
+        "erratic braking behavior."
+      ],
+      "odiNumbers": [
+        "10924990",
+        "10617881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Crankshaft Connector Rod Failure",
+      "impact": "The failure of the crankshaft connector rod can cause sudden engine failure, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden explosion",
+        "loud noise",
+        "or jerk in the engine",
+        "followed by a large amount of smoke and oil pouring from the bottom of the motor. The connector rod may be hanging out of a hole in the engine casing."
+      ],
+      "odiNumbers": [
+        "10403676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling due to Throttle Closure",
+      "impact": "The engine stalling can cause loss of control, accidents, and potentially serious injuries or fatalities, especially when occurring at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine stalls unexpectedly when closing the throttle to slow down",
+        "such as when approaching a stop signal or making a turn. The motorcycle may bog down when approaching a stop",
+        "even with the clutch fully pulled in."
+      ],
+      "odiNumbers": [
+        "10175239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

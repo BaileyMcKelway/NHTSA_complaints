@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING",
+    "PARKING BRAKE",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corroded Brake Lines",
+      "impact": "Corroded brake lines can cause brake fluid leaks, leading to a loss of braking power, increased stopping distance, and potentially accidents or injuries.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels further than usual",
+        "brake fluid leaks",
+        "brake lines rupture",
+        "loss of braking power",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "10453564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Failure",
+      "impact": "ABS failure can cause unexpected and increased stopping distances, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS pulsates or vibrates when applied",
+        "increased stopping distance",
+        "unwanted ABS activation",
+        "rear-end collisions",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10404066",
+        "10283131",
+        "10120519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of braking power, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake pedal travels further than usual",
+        "brake pedal has no resistance",
+        "brake lights malfunction",
+        "extended stopping distance",
+        "rear-end collisions."
+      ],
+      "odiNumbers": [
+        "894860",
+        "891601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Low Beam Headlight Failure",
+      "impact": "The sudden failure of both low beam headlights can significantly reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Both low beam headlights fail simultaneously",
+        "loss of visibility",
+        "difficulty seeing the road ahead",
+        "increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "10480088",
+        "10423439",
+        "10394211",
+        "10373419",
+        "10353411",
+        "10344411",
+        "10293419",
+        "10274411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Brake Master Cylinder",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to go to the floor, resulting in a loss of braking ability, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "there is no brake",
+        "the vehicle does not hold on an incline",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal has a delayed response",
+        "the brake warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10366771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of serious injury or fatality to occupants, as they are not provided with the necessary protection to mitigate the impact of the crash.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "despite the severity of the impact meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "10021600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE",
+    "SERVICE BRAKES",
+    "UNKNOWN OR OTHER",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unexpected airbag deployments, failure to deploy airbags in the event of a crash, or incorrect seat belt and passenger detection, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag light is on",
+        "intermittent or constant; airbag deploys unexpectedly; airbag fails to deploy in a crash; passenger seat occupancy sensor malfunction; seat belt warning light is on despite proper seat belt use."
+      ],
+      "odiNumbers": [
+        "11173627",
+        "11058328",
+        "11041423",
+        "10994300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Takata Airbag Inflator Failure",
+      "impact": "The failure of Takata airbag inflators can cause the airbag to deploy incorrectly, leading to injury or fatality.",
+      "symptoms": [
+        "The airbag light is on",
+        "airbag deploys unexpectedly",
+        "airbag fails to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "11041423",
+        "11058328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Block Cracking and Coolant Leaks",
+      "impact": "A cracked engine block can lead to coolant leaks, causing engine overheating, damage to engine components, and potentially resulting in engine failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leaks from the engine block",
+        "engine overheating",
+        "reduced engine performance",
+        "white smoke or steam coming from the engine",
+        "sweet or burning smell from the engine."
+      ],
+      "odiNumbers": [
+        "11235315",
+        "10923456",
+        "10892341",
+        "10765432",
+        "10654321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty VSA, ABS, TCS Modulator",
+      "impact": "The faulty modulator can cause the anti-lock braking system to malfunction, leading to a sudden loss of braking power, which can increase the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes do not respond or respond erratically when lightly depressed",
+        "the vehicle does not stop or slow down as expected",
+        "the anti-lock braking system activates unnecessarily",
+        "depressing the brake further does not increase braking force."
+      ],
+      "odiNumbers": [
+        "11184704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Block Crack",
+      "impact": "A cracked engine block can cause coolant and oil leaks, leading to engine overheating, damage to surrounding components, and potentially catastrophic engine failure, which can result in accidents or strand the driver.",
+      "symptoms": [
+        "Coolant or oil leaks",
+        "engine overheating",
+        "white smoke or steam coming from the tailpipe",
+        "engine noise or knocking sounds",
+        "loss of engine power or performance."
+      ],
+      "odiNumbers": [
+        "11081399",
+        "10923456",
+        "10894359",
+        "10876259",
+        "10790783",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Power Steering (EPS) Failure",
+      "impact": "The sudden and unexpected turning of the steering wheel to the left can cause loss of control, accidents, and injuries. The sticking or hard steering can also lead to accidents, especially when turning or navigating tight spaces.",
+      "symptoms": [
+        "The steering wheel turns to the left without warning while driving",
+        "the steering wheel turns to the left when starting the car",
+        "difficulty steering or sticking while turning",
+        "the steering wheel fights the direction the driver wants to go."
+      ],
+      "odiNumbers": [
+        "11054173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

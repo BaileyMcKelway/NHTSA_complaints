@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a collision can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbag light illuminates on the dashboard",
+        "airbag fails to deploy in the event of a collision",
+        "injuries sustained by occupants despite the presence of airbags."
+      ],
+      "odiNumbers": [
+        "10659426",
+        "10115140",
+        "10111384",
+        "10016534",
+        "8004292",
+        "608581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a faulty airbag system, which can lead to a failure to deploy in the event of a collision, putting the vehicle's occupants at risk.",
+      "symptoms": [
+        "Airbag warning light illuminates on the dashboard",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "10659426",
+        "8004292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure Leading to Engine Stall",
+      "impact": "The failure of the alternator can cause the engine to stall without warning, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine shuts off without warning",
+        "the vehicle loses power",
+        "the alternator malfunctions."
+      ],
+      "odiNumbers": [
+        "8015106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire Due to Alternator Failure",
+      "impact": "The failure of the alternator can cause an electrical fire, which can spread quickly and cause significant damage to the vehicle and potentially harm occupants.",
+      "symptoms": [
+        "Smoke coming out of the vehicle",
+        "burning smell",
+        "electrical burning smell",
+        "fire in the engine compartment."
+      ],
+      "odiNumbers": [
+        "762141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Engine Control Module (ECM) or Crankshaft Position Sensor",
+      "impact": "The faulty ECM or crankshaft position sensor can cause the engine to stall or lose power, increasing the risk of accidents or stranding the driver.",
+      "symptoms": [
+        "The service engine sensor illuminates",
+        "the vehicle stalls or loses power",
+        "the vehicle is difficult to restart",
+        "the vehicle experiences intermittent stalling."
+      ],
+      "odiNumbers": [
+        "10639792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

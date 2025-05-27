@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure (Reverse Gear)",
+      "impact": "The failure of the transmission's reverse gear can cause the vehicle to be unable to reverse, leading to safety risks, inconvenience, and potential accidents.",
+      "symptoms": [
+        "Delay in engaging reverse gear",
+        "reverse gear fails to engage",
+        "reverse gear engages intermittently",
+        "complete failure of reverse gear."
+      ],
+      "odiNumbers": [
+        "10406059",
+        "10296044",
+        "10262928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Valve Body Failure",
+      "impact": "The failure of the valve body can cause transmission problems, including delayed or failed engagement of reverse gear, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Delay in engaging reverse gear",
+        "reverse gear fails to engage",
+        "reverse gear engages intermittently",
+        "complete failure of reverse gear."
+      ],
+      "odiNumbers": [
+        "10262928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall without warning, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump fails to prime",
+        "the vehicle has difficulty starting",
+        "the vehicle has a rough idle."
+      ],
+      "odiNumbers": [
+        "10061111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Tank Leakage",
+      "impact": "A fuel tank leak can cause gasoline to spill onto the ground, creating a fire hazard and potentially causing explosions or fires.",
+      "symptoms": [
+        "Gasoline leaks from the tank",
+        "the tank is wet with gasoline",
+        "the garage or surrounding area is filled with gasoline vapor",
+        "the vehicle has a strong gasoline smell."
+      ],
+      "odiNumbers": [
+        "10056280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Heater Malfunction",
+      "impact": "A malfunctioning seat heater can cause a burning smell, potentially leading to a fire or burns to the driver or passengers.",
+      "symptoms": [
+        "Burning smell when the seat heater is turned on",
+        "visible signs of burn or scorching on the seat leather or fabric."
+      ],
+      "odiNumbers": [
+        "11023377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Seat Heater Element",
+      "impact": "A faulty seat heater element can overheat, causing a burning smell, potentially leading to a fire or burns to the driver or passengers.",
+      "symptoms": [
+        "Burning smell when the seat heater is turned on",
+        "visible signs of burn or scorching on the seat leather or fabric",
+        "excessive heat emanating from the seat."
+      ],
+      "odiNumbers": [
+        "11023377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

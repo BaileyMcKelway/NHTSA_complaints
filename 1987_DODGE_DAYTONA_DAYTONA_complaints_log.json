@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEATS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Harness Failure",
+      "impact": "The failure of the electrical wiring harness can cause a short circuit, leading to an electrical fire, which can result in a total loss of the vehicle and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "flames visible near the engine and electrical wires",
+        "burning smell",
+        "and electrical malfunctions."
+      ],
+      "odiNumbers": [
+        "864960",
+        "522486",
+        "813710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust Pipe Design Flaw",
+      "impact": "The poor location of the exhaust pipe can cause the cargo area to overheat, potentially leading to fires, damage to cargo, and risk to occupant safety.",
+      "symptoms": [
+        "Overheating in the cargo area",
+        "melting of plastic items",
+        "burning smell",
+        "engine fire."
+      ],
+      "odiNumbers": [
+        "510213",
+        "480220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seatback Failure",
+      "impact": "The failure of the front seatback can cause the seat to collapse in a reclining position, potentially leading to loss of control, accidents, or injuries, especially in the event of a rear-end collision.",
+      "symptoms": [
+        "The driver's side seatback breaks",
+        "two bolts break",
+        "the front seats collapse in a reclining position during a rear-end collision."
+      ],
+      "odiNumbers": [
+        "980878",
+        "974137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Hose Failure",
+      "impact": "The failure of the fuel hose can cause a fuel leak, leading to a fire, which can result in serious injury or death.",
+      "symptoms": [
+        "The driver hears a popping or hissing sound",
+        "followed by a visible fuel leak",
+        "and potentially a fire. The vehicle may exhibit a loss of power",
+        "sputtering",
+        "or stalling."
+      ],
+      "odiNumbers": [
+        "985372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

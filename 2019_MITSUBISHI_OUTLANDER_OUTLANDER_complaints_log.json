@@ -1,0 +1,217 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without input from the driver",
+        "sudden acceleration",
+        "unexpected speed increase."
+      ],
+      "odiNumbers": [
+        "11592741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause the vehicle to stall or shut off, leading to loss of power and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle turns off completely",
+        "sudden loss of power",
+        "vehicle stalls without warning."
+      ],
+      "odiNumbers": [
+        "11580234",
+        "11128776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Parking Brake (EPB) Failure",
+      "impact": "EPB failure can cause the vehicle to become stuck, making it difficult or impossible to drive, and increasing the risk of accidents.",
+      "symptoms": [
+        "The EPB is activated unintentionally",
+        "the EPB will not disengage",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "11385561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Computer System Failure",
+      "impact": "Computer system failure can cause the vehicle to malfunction, leading to inaccurate fuel range readings, stalling, and other issues that can increase the risk of accidents.",
+      "symptoms": [
+        "Inaccurate fuel range readings",
+        "stalling",
+        "deceleration without warning",
+        "incorrect computer system readings."
+      ],
+      "odiNumbers": [
+        "11128776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Overheating and Failure",
+      "impact": "The transmission overheating and failure can cause the vehicle to suddenly stop driving, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The transmission overheats",
+        "the vehicle stops driving suddenly",
+        "the transmission does not engage properly",
+        "hesitation when shifting gears",
+        "RPMs fluctuate continuously."
+      ],
+      "odiNumbers": [
+        "11587016",
+        "11559788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Hesitation and Stuttering",
+      "impact": "The transmission hesitation and stuttering can cause the vehicle to jerk or stutter while accelerating, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "Hesitation when shifting gears",
+        "RPMs fluctuate continuously",
+        "stuttering when accelerating from a complete stop."
+      ],
+      "odiNumbers": [
+        "11559788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The brake failure can cause the vehicle to lose control, leading to potential accidents or injuries.",
+      "symptoms": [
+        "The brakes do not work",
+        "the vehicle rolls backwards or forwards without control",
+        "the parking brake fails to engage."
+      ],
+      "odiNumbers": [
+        "11587016",
+        "11219577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended vehicle movement can cause the vehicle to lose control, leading to potential accidents or injuries.",
+      "symptoms": [
+        "The vehicle moves in an unintended direction",
+        "the vehicle rolls backwards or forwards without control."
+      ],
+      "odiNumbers": [
+        "11219577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11426548",
+        "11301971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Improper Airbag Deployment",
+      "impact": "Improper deployment of airbags can cause injuries or fatalities, as the airbag may not provide the necessary protection or may even cause harm to the occupants.",
+      "symptoms": [
+        "Airbag deploys incorrectly",
+        "causing injuries or fatalities",
+        "such as uneven deployment",
+        "failure to deploy in certain areas",
+        "or deploying in a way that causes harm."
+      ],
+      "odiNumbers": [
+        "11301971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "Failure of seatbelts can lead to serious injuries or fatalities, as the occupants are not properly restrained in the event of a crash.",
+      "symptoms": [
+        "Seatbelts fail to lock or malfunction",
+        "resulting in injuries or fatalities",
+        "such as the seatbelt not locking up",
+        "or the occupant being thrown from the seat."
+      ],
+      "odiNumbers": [
+        "11290032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Auto Hold System Malfunction",
+      "impact": "The malfunction of the brake auto hold system can cause the vehicle to suddenly stop or apply the parking brake, potentially leading to accidents or injuries, especially in heavy traffic or hazardous road conditions.",
+      "symptoms": [
+        "The brake auto hold system disengages and applies the parking brake unexpectedly",
+        "the vehicle stops suddenly",
+        "the parking brake cannot be disengaged until the seat belt is rebuckled."
+      ],
+      "odiNumbers": [
+        "11387611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Brake Wear and Failure",
+      "impact": "Premature brake wear and failure can lead to reduced stopping power, increased stopping distances, and potentially cause accidents or injuries.",
+      "symptoms": [
+        "Loud sounds or screeching noises coming from the brakes",
+        "excessive brake wear",
+        "brake failure",
+        "frequent brake replacements."
+      ],
+      "odiNumbers": [
+        "11319010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

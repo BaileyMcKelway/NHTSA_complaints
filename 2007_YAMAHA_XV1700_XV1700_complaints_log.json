@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carburetor Fuel Overflow",
+      "impact": "The carburetor fuel overflow can cause fuel to spill onto the hot engine and exhaust pipes, leading to a high risk of fire or explosion.",
+      "symptoms": [
+        "Fuel spills or pours out of the carburetor onto the engine or exhaust pipes",
+        "especially when the engine is hot",
+        "after riding",
+        "or when stopping for gas; strong smell of gasoline; difficulty restarting the engine; fuel pooling under the motorcycle."
+      ],
+      "odiNumbers": [
+        "11423823",
+        "10334709",
+        "10334711",
+        "10331240",
+        "10277252",
+        "10277262",
+        "10277316",
+        "10255109",
+        "10186627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure (Ethanol-related issue)",
+      "impact": "The fuel system failure can cause fuel to spill onto the hot engine and exhaust pipes, leading to a high risk of fire or explosion.",
+      "symptoms": [
+        "Fuel spills or pours out of the carburetor onto the engine or exhaust pipes",
+        "especially when the engine is hot",
+        "after riding",
+        "or when stopping for gas; strong smell of gasoline; difficulty restarting the engine; fuel pooling under the motorcycle."
+      ],
+      "odiNumbers": [
+        "10255109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fly-by-Wire System Issue",
+      "impact": "The fly-by-wire system issue can cause the motorcycle to not accelerate properly, leading to a potential safety risk.",
+      "symptoms": [
+        "Motorcycle does not accelerate properly at high RPMs (5",
+        "300-5",
+        "600 RPM); motorcycle does not pick up speed once it reaches high RPMs."
+      ],
+      "odiNumbers": [
+        "10183540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stuck Exhaust Valves",
+      "impact": "Stuck exhaust valves can cause the motorcycle to lose power, potentially leading to accidents or leaving the rider stranded in heavy traffic. This issue can also lead to frustration and financial losses for the owner.",
+      "symptoms": [
+        "The motorcycle loses power",
+        "the engine stalls",
+        "the valves stick open",
+        "the bike almost comes to a stop",
+        "difficulty riding in heavy traffic."
+      ],
+      "odiNumbers": [
+        "10202013",
+        "10193554",
+        "10191208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Acceleration Lag in 2nd Gear",
+      "impact": "The acceleration lag in 2nd gear can cause the motorcycle to merge slowly onto highways or into traffic, increasing the risk of accidents or near-misses.",
+      "symptoms": [
+        "The motorcycle takes 4-9 seconds to accelerate when in 2nd gear",
+        "typically between 47-49 mph and 5500 rpms",
+        "and may lurch forward once acceleration occurs."
+      ],
+      "odiNumbers": [
+        "10183658",
+        "10183498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lower Control Arm and Ball Joint Failure",
+      "impact": "The failure of the lower control arm and ball joints can cause the vehicle to lean or drop, leading to loss of control, accidents, and potential injuries. It can also cause damage to other suspension components, making the vehicle undrivable.",
+      "symptoms": [
+        "The vehicle leans or drops to one side",
+        "the wheel falls onto its side",
+        "the front end of the vehicle drops to the pavement",
+        "the vehicle is no longer drivable."
+      ],
+      "odiNumbers": [
+        "10661423",
+        "10102833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Suspension Component Failure (Related to Lower Control Arm and Ball Joint Failure)",
+      "impact": "The failure of suspension components, such as the steel wheel, can cause further damage to the vehicle's suspension system, leading to additional repairs and safety risks.",
+      "symptoms": [
+        "The steel wheel is damaged",
+        "other suspension components are affected",
+        "the vehicle's suspension system is compromised."
+      ],
+      "odiNumbers": [
+        "10661423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle accelerates independently",
+        "often when the brakes are applied",
+        "causing the vehicle to surge forward or change direction unexpectedly. In some cases",
+        "the engine RPMs may increase suddenly while the vehicle is parked."
+      ],
+      "odiNumbers": [
+        "10658958",
+        "10381888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The sudden loss of electrical power can cause the vehicle to stall, leaving the driver stranded and potentially trapped inside the vehicle, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The dashboard becomes illuminated",
+        "the vehicle loses all electrical power",
+        "the vehicle stalls",
+        "the driver is trapped inside the vehicle."
+      ],
+      "odiNumbers": [
+        "8003353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inertial Seatbelt Sensor Malfunction",
+      "impact": "The malfunction of the inertial seatbelt sensor can cause the seatbelt to appear secure when it is not, leading to a false sense of safety and potentially resulting in injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt feels secure but comes undone",
+        "the seatbelt appears to be locked in place but is not",
+        "the seatbelt warning light does not illuminate despite the seatbelt being unfastened."
+      ],
+      "odiNumbers": [
+        "736472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Rear Windshield Failure",
+      "impact": "The sudden and unexpected shattering of the rear windshield can cause a significant distraction to the driver, potentially leading to accidents or loss of control. The broken glass can also cause injuries to occupants and create a hazardous environment.",
+      "symptoms": [
+        "The rear windshield suddenly shatters or explodes without any apparent reason",
+        "glass fragments are scattered throughout the vehicle",
+        "and the driver and passengers may be injured by the broken glass."
+      ],
+      "odiNumbers": [
+        "542714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Rear Windshield Manufacturing",
+      "impact": "A defective rear windshield can lead to a higher risk of spontaneous shattering, which can cause accidents, injuries, and property damage.",
+      "symptoms": [
+        "The rear windshield appears to have imperfections",
+        "such as cracks",
+        "chips",
+        "or unevenness",
+        "the rear windshield shatters or explodes without any apparent reason",
+        "and the driver and passengers may be injured by the broken glass."
+      ],
+      "odiNumbers": [
+        "542714"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

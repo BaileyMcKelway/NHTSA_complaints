@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Electrical Short",
+      "impact": "An electrical short in the ignition switch can cause smoke to emanate from the steering column, potentially leading to a fire, which can result in vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Smoke coming from the steering column",
+        "smoke coming from the ignition switch",
+        "turn signal failure",
+        "electrical burning smell."
+      ],
+      "odiNumbers": [
+        "985107",
+        "983799",
+        "983840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "Intermittent engine stalling can cause the vehicle to lose power and stall, leading to a loss of control and increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine stalls while driving at any speed",
+        "the vehicle drifts to the side of the road",
+        "the vehicle may experience sudden loss of power",
+        "the driver may experience difficulty maintaining control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10065489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Diagnose Engine Stalling",
+      "impact": "The inability of mechanics to diagnose and repair the engine stalling issue can lead to prolonged periods of vehicle downtime, increased repair costs, and continued safety risks for the driver and passengers.",
+      "symptoms": [
+        "The mechanic is unable to duplicate the problem",
+        "the vehicle is returned to the owner without a diagnosis or repair",
+        "the owner continues to experience engine stalling",
+        "the owner may experience frustration and mistrust of the dealership or repair service."
+      ],
+      "odiNumbers": [
+        "10065489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure due to Rubber Seal Degradation",
+      "impact": "The degradation of the rubber seals in the transmission can cause fluid leaks, leading to transmission failure, which can result in costly repairs, loss of vehicle control, and potential accidents.",
+      "symptoms": [
+        "Transmission fluid leaks",
+        "transmission slippage",
+        "difficulty shifting gears",
+        "transmission failure",
+        "unusual noises or vibrations from the transmission."
+      ],
+      "odiNumbers": [
+        "854633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

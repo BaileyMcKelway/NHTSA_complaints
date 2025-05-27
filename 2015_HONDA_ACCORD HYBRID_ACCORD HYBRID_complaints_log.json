@@ -1,0 +1,347 @@
+{
+  "totalComplaints": 570,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 17,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or not start, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the battery warning light comes on",
+        "the dashboard lights flash",
+        "the vehicle stalls while driving",
+        "and the power steering and brakes become inoperable."
+      ],
+      "odiNumbers": [
+        "11580400",
+        "11577180",
+        "11576446",
+        "11574653",
+        "11569832",
+        "11556436",
+        "11545798",
+        "11542672",
+        "11534200",
+        "11530577",
+        "11528944",
+        "11524096",
+        "11517528",
+        "11516819",
+        "11516234",
+        "11508078",
+        "11504261",
+        "11501669",
+        "11500036",
+        "11494832",
+        "11474502",
+        "11471340",
+        "11470917",
+        "11468834",
+        "11468779",
+        "11463892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the vehicle to not start, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the starter clicks but does not turn the engine",
+        "and the dashboard lights flash."
+      ],
+      "odiNumbers": [
+        "11517528",
+        "11501669",
+        "11500036",
+        "11468779",
+        "11463892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to not start, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The battery warning light comes on",
+        "the vehicle fails to start",
+        "and the dashboard lights flash."
+      ],
+      "odiNumbers": [
+        "11580400",
+        "11545798",
+        "11542672",
+        "11534200",
+        "11474502",
+        "11471340"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or not start, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The battery warning light comes on",
+        "the vehicle stalls while driving",
+        "and the power steering and brakes become inoperable."
+      ],
+      "odiNumbers": [
+        "11576446",
+        "11534200",
+        "11530577",
+        "11494832",
+        "11470917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Modulator Failure",
+      "impact": "The failure of the ABS modulator can cause the vehicle to lose motive power and stall, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The ABS warning light comes on",
+        "the vehicle loses motive power",
+        "and the power steering and brakes become inoperable."
+      ],
+      "odiNumbers": [
+        "11550068",
+        "11516234",
+        "11470917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "VSA Solenoid Valve Malfunction",
+      "impact": "The failure of the VSA solenoid valve can cause the loss of power steering, traction control, and anti-lock braking, leading to a loss of vehicle control and increasing the risk of accidents.",
+      "symptoms": [
+        "The power steering light",
+        "traction control light",
+        "and anti-lock braking light come on",
+        "the vehicle loses power steering",
+        "the vehicle's steering becomes difficult or impossible",
+        "the vehicle's brakes lock up",
+        "and the vehicle's traction control system fails."
+      ],
+      "odiNumbers": [
+        "11582782",
+        "11570470",
+        "11557488",
+        "11541757",
+        "11543698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electric Power Steering Assist Failure",
+      "impact": "The failure of the electric power steering assist can cause the loss of power steering, making it difficult or impossible to control the vehicle, increasing the risk of accidents.",
+      "symptoms": [
+        "The power steering light comes on",
+        "the steering becomes difficult or impossible",
+        "the vehicle's steering wheel jerks or pulls to one side",
+        "and the vehicle's power steering assist fails."
+      ],
+      "odiNumbers": [
+        "11555394",
+        "11549189",
+        "11528008",
+        "11522953",
+        "11518228",
+        "11498153",
+        "11497276",
+        "11476758",
+        "11465405",
+        "11460500",
+        "11454854",
+        "11444638",
+        "11436866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel jerks or pulls to one side",
+        "the vehicle's steering becomes difficult or impossible",
+        "the vehicle's power steering assist fails",
+        "and the vehicle's traction control system fails."
+      ],
+      "odiNumbers": [
+        "11525039",
+        "11520544",
+        "11510627",
+        "11510687",
+        "11491349",
+        "11479399",
+        "11435139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Actuator Failure",
+      "impact": "The failure of the door actuator can cause the door to not open, which can lead to safety issues in emergency situations.",
+      "symptoms": [
+        "The door does not open",
+        "the door lock is not working",
+        "the door is stuck."
+      ],
+      "odiNumbers": [
+        "11578592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to not start, which can lead to safety issues in emergency situations.",
+      "symptoms": [
+        "The vehicle does not start",
+        "the ignition switch is worn out",
+        "the vehicle starts intermittently."
+      ],
+      "odiNumbers": [
+        "11569765",
+        "11465577",
+        "11443894",
+        "11322268",
+        "11320831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "VSA Module Failure",
+      "impact": "The failure of the VSA module can cause the vehicle to lose traction and stability, which can lead to accidents.",
+      "symptoms": [
+        "The VSA module fails",
+        "the vehicle loses traction and stability."
+      ],
+      "odiNumbers": [
+        "11548322",
+        "11529510",
+        "11491306"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the vehicle to not start, which can lead to safety issues in emergency situations.",
+      "symptoms": [
+        "The vehicle does not start",
+        "the starter is faulty",
+        "the starter grinds or spins."
+      ],
+      "odiNumbers": [
+        "11493565",
+        "11491306",
+        "11340884",
+        "11328633",
+        "11322268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sunroof Explosion",
+      "impact": "The explosion of the sunroof can cause injury and damage to the vehicle.",
+      "symptoms": [
+        "The sunroof explodes",
+        "the sunroof shatters spontaneously."
+      ],
+      "odiNumbers": [
+        "11518297",
+        "11363705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "AC Compressor Failure",
+      "impact": "The failure of the AC compressor can cause the air conditioning to not work, which can lead to discomfort and safety issues in hot weather.",
+      "symptoms": [
+        "The AC compressor fails",
+        "the air conditioning does not work."
+      ],
+      "odiNumbers": [
+        "11470144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Window Run Channel Failure",
+      "impact": "The failure of the window run channel can cause the window to not close, which can lead to safety issues.",
+      "symptoms": [
+        "The window run channel folds and buckles",
+        "the window does not close."
+      ],
+      "odiNumbers": [
+        "11470146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Electrical Issues",
+      "impact": "Electrical issues can cause various safety issues, such as the vehicle not starting or the lights not working.",
+      "symptoms": [
+        "The vehicle has electrical issues",
+        "the lights do not work",
+        "the vehicle does not start."
+      ],
+      "odiNumbers": [
+        "11477064",
+        "11438539",
+        "11436647",
+        "11364017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 9,
+      "issueCategory": "Rear Camera Failure",
+      "impact": "The failure of the rear camera can cause the driver to not be able to see behind the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The rear camera does not work",
+        "the rear camera is faulty."
+      ],
+      "odiNumbers": [
+        "11403390",
+        "11315811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

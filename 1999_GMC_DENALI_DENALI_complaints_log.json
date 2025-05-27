@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unwanted Anti-lock Braking System (ABS) Activation",
+      "impact": "The unwanted activation of the ABS can cause increased stopping distances, leading to potential accidents or near-misses.",
+      "symptoms": [
+        "The ABS engages unnecessarily",
+        "causing the vehicle to take longer than expected to come to a stop",
+        "and potentially leading to near-accidents or accidents."
+      ],
+      "odiNumbers": [
+        "10177720",
+        "10169748"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle takes longer than expected to stop",
+        "the rear brakes become inoperative",
+        "and the front tires wear out unevenly."
+      ],
+      "odiNumbers": [
+        "10282698",
+        "10135534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Brake Wear",
+      "impact": "Premature brake wear can lead to reduced stopping power, increasing the risk of accidents.",
+      "symptoms": [
+        "The brake pads wear down excessively",
+        "scoring the rotors and requiring premature replacement."
+      ],
+      "odiNumbers": [
+        "709885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Body Control Module Failure",
+      "impact": "The failure of the Body Control Module can cause various electrical systems to malfunction, including windows, door locks, radio, and windshield wipers, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "Windows",
+        "door locks",
+        "radio",
+        "and windshield wipers stop working or malfunction."
+      ],
+      "odiNumbers": [
+        "10358855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Battery Cables and Terminals)",
+      "impact": "Loose or faulty battery cables and terminals can cause the vehicle to lose power, stall, or even catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "Vehicle loses power",
+        "stalls",
+        "or catches fire; battery acid leaks onto engine or surrounding components; battery cables or terminals loosen or disconnect."
+      ],
+      "odiNumbers": [
+        "10063409",
+        "10003766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Fire (Possible Electrical or Mechanical Defect)",
+      "impact": "A vehicle fire can cause damage, injury, or even fatalities.",
+      "symptoms": [
+        "Vehicle catches fire",
+        "often preceded by loss of power or other electrical issues."
+      ],
+      "odiNumbers": [
+        "10155973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Shifter Failure",
+      "impact": "The failure of the steering column shifter can cause the vehicle to become stuck in gear, making it difficult or impossible to drive, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The steering column shifter breaks or becomes stuck",
+        "the vehicle is unable to shift into gear",
+        "the steering column needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10105250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SEATS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Cable Chafing and Pedal Sticking",
+      "impact": "The throttle pedal sticking to the floor can cause unintended acceleration, loss of control, and accidents, posing a significant risk to vehicle safety and occupant well-being.",
+      "symptoms": [
+        "The throttle pedal sticks to the floor",
+        "the throttle pedal is difficult to press or release",
+        "the throttle pedal feels stuck or binding",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "549382",
+        "549362",
+        "549359",
+        "549364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Back Weld Failure",
+      "impact": "The failure of the welds on the seat backs can cause them to come loose or break, potentially leading to accidents or injuries, especially in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The seat back comes loose or breaks at the base",
+        "the seat back is not securely attached to the seat frame",
+        "the seat back moves or shifts during driving",
+        "the seat back is unstable or wobbly."
+      ],
+      "odiNumbers": [
+        "533295",
+        "605763",
+        "605945",
+        "605946",
+        "532584",
+        "605947",
+        "605948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unpadded Overhead Compartment in School Bus",
+      "impact": "The lack of padding on the sharp corner of the overhead compartment can cause death or serious injury to the occupant of the seat located immediately behind the driver in the event of a crash or sudden stop.",
+      "symptoms": [
+        "The overhead compartment is not padded as required by safety standards",
+        "and the sharp corner of the compartment poses a risk of injury to the occupant of the seat behind the driver."
+      ],
+      "odiNumbers": [
+        "784240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

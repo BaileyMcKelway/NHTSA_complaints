@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Switch Failure",
+      "impact": "The failure of electrical switches can cause various safety-related issues, such as loss of turn signals, horn, and engine control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Turn signals will not turn off",
+        "high/low beam switch failure",
+        "menu button failure",
+        "mode switch failure",
+        "horn failure",
+        "windscreen height control failure",
+        "engine kill switch failure."
+      ],
+      "odiNumbers": [
+        "10541996",
+        "10525449",
+        "10523171",
+        "10512968",
+        "10413494"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Control Failure",
+      "impact": "The failure of throttle control can cause sudden loss of power, making it difficult to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Sudden loss of power",
+        "throttle control failure",
+        "engine going into emergency operation mode."
+      ],
+      "odiNumbers": [
+        "10542125",
+        "10520335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Left Drift or Pull",
+      "impact": "The unintended left drift or pull can cause the motorcycle to veer into oncoming traffic, leading to potential accidents, injuries, or fatalities. It also leads to rider fatigue, discomfort, and distraction due to constant counter-steering.",
+      "symptoms": [
+        "The motorcycle drifts or pulls to the left while in motion",
+        "requiring constant steering input to the right to counteract the pull",
+        "leading to rider fatigue",
+        "arm and shoulder pain",
+        "and unusual tire wear."
+      ],
+      "odiNumbers": [
+        "11130992",
+        "10577912",
+        "10549579",
+        "10543150",
+        "10429394",
+        "10429391",
+        "10429376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause gasoline to leak onto the engine and exhaust pipes, creating a high risk of fire.",
+      "symptoms": [
+        "Gasoline leaks from the fuel pump flange",
+        "spraying gasoline onto the engine and exhaust pipes",
+        "creating a strong fuel smell",
+        "and potentially causing a fire."
+      ],
+      "odiNumbers": [
+        "11424777",
+        "11364206",
+        "11360678",
+        "11353561",
+        "11280916"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Recall Part Unavailability",
+      "impact": "The unavailability of recall parts can lead to delays in repairing the fuel system, potentially causing fuel leaks, fires, or explosions, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for a recall repair."
+      ],
+      "odiNumbers": [
+        "11422557",
+        "11407053",
+        "11406475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Hose Clip Failure",
+      "impact": "The failure of the fuel hose clips can cause fuel leaks, which can lead to fires or explosions, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Fuel pouring out of the bottom of the engine",
+        "fuel pump audible when turning on the ignition key",
+        "bike fails to start."
+      ],
+      "odiNumbers": [
+        "10438769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

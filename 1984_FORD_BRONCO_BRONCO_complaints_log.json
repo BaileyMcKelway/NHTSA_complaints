@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the vehicle to stall or fail to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or fails to start",
+        "the vehicle only starts after sitting overnight",
+        "the vehicle fails to start when the engine reaches normal operating temperature."
+      ],
+      "odiNumbers": [
+        "742597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Steering Column)",
+      "impact": "The failure of the electrical system in the steering column can cause various components to malfunction, including the flashers, radio, and heater fan, and can lead to a fire.",
+      "symptoms": [
+        "The flashers",
+        "radio",
+        "and heater fan do not operate",
+        "the owner must bang on the steering column to get the components to operate",
+        "a wisp of smoke appears from the steering column",
+        "the switch in the steering column melts."
+      ],
+      "odiNumbers": [
+        "506562",
+        "983635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Fire",
+      "impact": "The ignition system fire can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "the ignition system is on fire",
+        "smoke appears from the steering column or under the hood."
+      ],
+      "odiNumbers": [
+        "803191",
+        "983467",
+        "489079"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a total loss, and can also pose a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "The vehicle catches on fire while parked",
+        "flames or smoke are visible from the engine compartment",
+        "the engine compartment is damaged or destroyed",
+        "the vehicle's electrical system is damaged",
+        "the vehicle is unable to start or operate."
+      ],
+      "odiNumbers": [
+        "983707",
+        "983707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rollover Accident Due to Vehicle Instability",
+      "impact": "The vehicle's instability can cause it to rollover, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle's loss of traction",
+        "sudden swaying",
+        "or unexpected changes in direction can cause it to flip over",
+        "resulting in accidents."
+      ],
+      "odiNumbers": [
+        "10011921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

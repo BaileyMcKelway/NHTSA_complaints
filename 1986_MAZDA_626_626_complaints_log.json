@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to stall or fail to start, leading to unexpected loss of power, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The key does not go all the way back to the start position after the car is started",
+        "the engine stalls or has difficulty starting",
+        "the cooling fan fails to turn on",
+        "the radiator overheats",
+        "the fuel pump fails."
+      ],
+      "odiNumbers": [
+        "566187",
+        "714563",
+        "534003",
+        "521138",
+        "967366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt System Failure",
+      "impact": "The failure of the seat belt system can increase the risk of injury or death in the event of an accident, as the seat belt may not properly restrain the occupant.",
+      "symptoms": [
+        "The seat belt cable breaks",
+        "the seat belt buckle fails to latch",
+        "the seat belt fails to retract",
+        "the seat belt unfastens while riding in the vehicle."
+      ],
+      "odiNumbers": [
+        "528453",
+        "964789",
+        "963195",
+        "960656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause the engine to overheat, leading to engine damage, vehicle fires, and potentially life-threatening accidents.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "smoke or steam coming from the engine",
+        "sweet or burning smell from the vents",
+        "exhaust leaks",
+        "anti-freeze smoke coming through the heater vents."
+      ],
+      "odiNumbers": [
+        "545268",
+        "701464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause hot water to spill into the passenger compartment, potentially leading to injuries, burns, or discomfort.",
+      "symptoms": [
+        "Hot water spills into the passenger compartment",
+        "fog or steam appears on the windshield",
+        "the heating system malfunctions",
+        "the air conditioning system malfunctions."
+      ],
+      "odiNumbers": [
+        "835128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Washer Pump Failure",
+      "impact": "The failure of the windshield washer pump can reduce visibility while driving, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The windshield washer fluid does not spray",
+        "the windshield washer pump is noisy",
+        "the windshield washer pump is leaking",
+        "the windshield washer fluid is not dispensed."
+      ],
+      "odiNumbers": [
+        "521138"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

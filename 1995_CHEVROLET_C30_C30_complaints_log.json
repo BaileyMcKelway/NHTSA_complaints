@@ -1,0 +1,55 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle does not respond to a complete stop",
+        "the vehicle skids forward",
+        "the brakes apply for a fraction of a second and then release",
+        "the vehicle coasts without brakes",
+        "the brakes resist when applied",
+        "the brakes release and the vehicle keeps going over a bump",
+        "complete loss of brakes",
+        "the vehicle speeds up instead of slowing down",
+        "the brake pedal is hard when applied",
+        "a delay is experienced."
+      ],
+      "odiNumbers": [
+        "8002898",
+        "876651",
+        "817941",
+        "817347",
+        "812218",
+        "806729",
+        "802210",
+        "800878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Infant Car Seat Compatibility",
+      "impact": "The lack of compatibility with infant car seats can lead to unsafe transportation of infants, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "Difficulty installing infant car seats",
+        "inability to securely fasten infant car seats",
+        "need to modify or replace vehicle seats to accommodate infant car seats."
+      ],
+      "odiNumbers": [
+        "11376787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

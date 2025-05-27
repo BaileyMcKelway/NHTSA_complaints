@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Master Cylinder Defect",
+      "impact": "The failure of the brake system can lead to a loss of braking power, causing accidents, injuries, or fatalities. The master cylinder defect can cause the brake pedal to go to the floor, making it difficult or impossible to stop the vehicle.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal pulsates",
+        "the vehicle vibrates when applying the brakes",
+        "extended stopping distances",
+        "loss of braking power",
+        "especially when driving uphill or in inclement weather."
+      ],
+      "odiNumbers": [
+        "10121913",
+        "869738",
+        "825667",
+        "517214",
+        "511753",
+        "804453",
+        "502705",
+        "968968"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause a loss of control, leading to accidents, injuries, or fatalities. The ABS failure can cause the brakes to grab and then release, allowing the vehicle to roll forward before stopping.",
+      "symptoms": [
+        "The ABS brakes fail",
+        "especially in inclement weather",
+        "the brakes grab and then release",
+        "the vehicle rolls forward before stopping",
+        "loss of control",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "511753",
+        "804453",
+        "502705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Fuel Tank System Failure",
+      "impact": "The failure of the dual fuel tank system can cause fuel leakage, fuel vapor lock, and engine stalling, leading to a loss of vehicle control and increased risk of accidents.",
+      "symptoms": [
+        "Fuel leakage from the tanks",
+        "fuel overflow from one tank to another",
+        "fuel pump failure",
+        "engine stalling",
+        "vehicle cutting off while driving",
+        "fuel vapor lock",
+        "difficulty restarting the engine."
+      ],
+      "odiNumbers": [
+        "10404296",
+        "8014166",
+        "866827",
+        "862762",
+        "721627",
+        "845754",
+        "812645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Recall and Replacement Issues",
+      "impact": "Failure to properly replace recalled tires can lead to tire failure, accidents, and injuries, as well as frustration and inconvenience for vehicle owners.",
+      "symptoms": [
+        "Difficulty in getting recalled tires replaced",
+        "lack of communication from dealerships and manufacturers",
+        "incorrect or incomplete information provided",
+        "failure to acknowledge recall requests",
+        "and uncertainty about reimbursement."
+      ],
+      "odiNumbers": [
+        "10550537",
+        "873311",
+        "733827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure due to Belt Separation",
+      "impact": "Tire failure due to belt separation can cause loss of control, accidents, and injuries, as well as damage to the vehicle.",
+      "symptoms": [
+        "Tire explosion",
+        "tire shredding",
+        "cracks on the tire surface",
+        "and rapid air loss."
+      ],
+      "odiNumbers": [
+        "873311",
+        "733827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure to Acknowledge Recall Requests",
+      "impact": "Failure to acknowledge recall requests can lead to delayed or incomplete repairs, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Lack of response from dealerships and manufacturers",
+        "incorrect or incomplete information provided",
+        "and uncertainty about reimbursement."
+      ],
+      "odiNumbers": [
+        "10550537",
+        "873311",
+        "733827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

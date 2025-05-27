@@ -1,0 +1,195 @@
+{
+  "totalComplaints": 61,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brake lights come on",
+        "VSC Trac and VSC Off lights come on",
+        "ABS light comes on",
+        "brake pedal feels soft or spongy",
+        "brake pedal vibrates",
+        "vehicle shakes violently when applying brakes",
+        "brake failure",
+        "unable to stop the vehicle",
+        "spinning out of control."
+      ],
+      "odiNumbers": [
+        "10209150",
+        "10137772",
+        "10121251",
+        "10120968",
+        "10107970",
+        "10104251",
+        "10050198",
+        "8023964",
+        "8023425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Undersized Brake Caliper and Associated Rotor and Brake Pad Quality Issues",
+      "impact": "The undersized brake caliper and associated rotor and brake pad quality issues can cause the brakes to overheat, leading to warped rotors, excessive wear, and potentially serious accidents.",
+      "symptoms": [
+        "Vehicle shakes violently when applying brakes",
+        "brake rotors overheat",
+        "brake rotors warp",
+        "excessive wear on brake pads",
+        "brake caliper is too small."
+      ],
+      "odiNumbers": [
+        "10121251",
+        "10107970",
+        "10104251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ECU Failure",
+      "impact": "The failure of the ECU can cause the VSC Trac, VSC Off, ABS, and brake lights to come on, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "VSC Trac",
+        "VSC Off",
+        "ABS",
+        "and brake lights come on",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10209150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, compromising the safety of vehicle occupants.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "airbag failure to deploy in a crash",
+        "lack of airbag deployment despite meeting deployment criteria."
+      ],
+      "odiNumbers": [
+        "11090041",
+        "10182367",
+        "10133776",
+        "10120728",
+        "10088269",
+        "10000763",
+        "8020001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall",
+      "impact": "The recall of Takata airbags can lead to a failure of the airbag to deploy properly, causing serious injuries or fatalities.",
+      "symptoms": [
+        "Notification of recall",
+        "concern about airbag safety",
+        "request for repair or replacement."
+      ],
+      "odiNumbers": [
+        "11013961"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden acceleration",
+        "inability to brake",
+        "vehicle moving on its own",
+        "unexpected gear shifts."
+      ],
+      "odiNumbers": [
+        "10608192",
+        "10375302",
+        "10103145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle shifting into reverse while in drive",
+        "deceleration while turning",
+        "lethargic downshifting",
+        "near misses."
+      ],
+      "odiNumbers": [
+        "10324394",
+        "10375302",
+        "10118218",
+        "567810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Gear Shift Mechanism Failure",
+      "impact": "Gear shift mechanism failure can cause the vehicle to refuse to start, or shift into gear, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "Vehicle refusing to start",
+        "broken gear shift bracket and lever",
+        "inability to shift into park."
+      ],
+      "odiNumbers": [
+        "10191237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sequential Manual Transmission (SMT) Creeping",
+      "impact": "SMT creeping can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle creeping while in forward or reverse gear",
+        "ECU replacement ineffective."
+      ],
+      "odiNumbers": [
+        "10118218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Abnormal Thumping Noise",
+      "impact": "Abnormal thumping noise can be a symptom of a underlying problem, potentially leading to loss of control or accidents.",
+      "symptoms": [
+        "Thumping noise when starting to move forward from a stop",
+        "similar to being hit from the rear."
+      ],
+      "odiNumbers": [
+        "10105724"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

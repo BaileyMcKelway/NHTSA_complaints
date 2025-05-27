@@ -1,0 +1,75 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "AIR BAGS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Coil Spring Failure",
+      "impact": "The failure of the front coil spring can cause the tire to puncture or blow out, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "Loud popping or clunking noise",
+        "tire blowout",
+        "front end collapse",
+        "punctured tire",
+        "damaged wheel well",
+        "and difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10496731",
+        "10212758",
+        "10210991",
+        "10158359",
+        "10152139",
+        "10101801",
+        "10100670",
+        "10010511",
+        "836447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment can lead to serious injuries or fatalities in the event of a crash, as the airbag is designed to provide critical protection to the driver and passengers.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "resulting in injuries or fatalities",
+        "broken windows due to metal pieces on the airbag cover",
+        "burns to the face from deploying airbags."
+      ],
+      "odiNumbers": [
+        "834142",
+        "536235",
+        "809304",
+        "808537",
+        "806746",
+        "965538"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Failure",
+      "impact": "The failure of the power window system can cause inconvenience and discomfort to the driver and passengers, and in some cases, may lead to safety issues if the window becomes stuck in a position that obstructs the driver's view.",
+      "symptoms": [
+        "The power window does not roll down or up",
+        "the window gets stuck in a position",
+        "the window has to be pulled up or down manually",
+        "the window switch does not respond."
+      ],
+      "odiNumbers": [
+        "856088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY/WIPER",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Failure and Drainage Issues",
+      "impact": "The failure of the battery can cause the vehicle to not start, leaving the driver stranded, and potentially lead to accidents or injuries. Repeated battery failures can also lead to frustration, inconvenience, and financial losses for the vehicle owner.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the battery drains quickly",
+        "the vehicle dies randomly",
+        "the dashboard lights come on",
+        "the cold cranking amps are below the recommended level."
+      ],
+      "odiNumbers": [
+        "11513689",
+        "11465605",
+        "11449483",
+        "11417403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Diagnose and Address Battery Issues",
+      "impact": "The failure of dealerships and mechanics to properly diagnose and address battery issues can lead to continued problems, financial losses, and frustration for vehicle owners.",
+      "symptoms": [
+        "Dealerships or mechanics fail to diagnose the battery issue",
+        "fail to replace the battery",
+        "or attribute the problem to driver behavior (e.g.",
+        "not driving the vehicle enough)."
+      ],
+      "odiNumbers": [
+        "11449483",
+        "11417403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Windshield Failure",
+      "impact": "The sudden and unexpected failure of the windshield can cause a significant distraction to the driver, potentially leading to accidents or injuries. Additionally, the shattered glass can pose a risk to occupants, especially children, and create a hazardous driving environment.",
+      "symptoms": [
+        "The windshield cracks or shatters suddenly",
+        "without any apparent cause or external impact",
+        "while the vehicle is stationary or in motion."
+      ],
+      "odiNumbers": [
+        "11447146",
+        "11388491",
+        "11366449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Drainage and Unexplained Discharge",
+      "impact": "Sudden and unexplained battery drainage can leave the vehicle stranded, posing a safety risk to the driver, especially at night or in isolated areas. This issue can also cause inconvenience and disrupt daily activities.",
+      "symptoms": [
+        "The vehicle's battery drains unexpectedly",
+        "often when the vehicle has not been moved for more than a day",
+        "leaving the driver stranded. No warning symptoms or signs are present before the battery drainage occurs."
+      ],
+      "odiNumbers": [
+        "11485826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Battery Testing and Diagnosis by Dealers",
+      "impact": "Failure of dealers to properly diagnose and address battery drainage issues can lead to repeated instances of battery failure, further compromising vehicle safety and reliability.",
+      "symptoms": [
+        "Dealers may simply recharge the battery without identifying the underlying cause",
+        "leading to repeated battery drainage issues and leaving the driver stranded."
+      ],
+      "odiNumbers": [
+        "11485826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

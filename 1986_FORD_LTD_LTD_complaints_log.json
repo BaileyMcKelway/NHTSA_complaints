@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the engine to shut down without prior warning, leading to a loss of power and control, which can increase the risk of accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The engine dies or shuts down suddenly",
+        "the vehicle stalls without warning",
+        "the ignition module fails repeatedly."
+      ],
+      "odiNumbers": [
+        "522174",
+        "522174",
+        "505094"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Short Circuit",
+      "impact": "A short circuit in the ignition switch can cause electrical fires, which can spread quickly and lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The ignition switch comes apart",
+        "electrical fires occur",
+        "smoke or burning odors are detected."
+      ],
+      "odiNumbers": [
+        "505094",
+        "505049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Leading to Vehicle Fire",
+      "impact": "Engine failure can cause a vehicle fire, which can lead to serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The engine overheats",
+        "the engine makes unusual noises",
+        "the engine loses power",
+        "the vehicle catches fire",
+        "smoke comes from the engine compartment."
+      ],
+      "odiNumbers": [
+        "554259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Used Vehicle Sale with Pre-Existing Engine Issues",
+      "impact": "Selling a used vehicle with pre-existing engine issues can lead to unexpected breakdowns, accidents, or even fires, putting the buyer's safety at risk.",
+      "symptoms": [
+        "The engine fails to start",
+        "the engine stalls",
+        "the engine makes unusual noises",
+        "the vehicle loses power",
+        "the vehicle has a history of repairs or maintenance."
+      ],
+      "odiNumbers": [
+        "964241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Back Strength",
+      "impact": "The failure of the seat back to maintain its upright position during a rear-end collision can cause occupants to be thrown backward, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The front seats recline or fold backward during a rear-end collision",
+        "occupants are thrown backward or experience whiplash",
+        "the seat back structure is compromised or broken."
+      ],
+      "odiNumbers": [
+        "981308"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

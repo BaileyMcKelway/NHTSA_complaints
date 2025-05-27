@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to a loss of restraint, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle falls apart",
+        "the seat belt buckle disintegrates",
+        "the seat belt latch fails",
+        "the seat belt buckle comes apart",
+        "the seat belt retractor jams",
+        "excess slack in the seat belt."
+      ],
+      "odiNumbers": [
+        "704872",
+        "975971",
+        "968776",
+        "601556",
+        "480311",
+        "478765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to jam or fail to retract, leading to a loss of restraint and increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt retractor jams",
+        "the seat belt retractor spring breaks",
+        "the seat belt fails to retract",
+        "excess slack in the seat belt."
+      ],
+      "odiNumbers": [
+        "510025",
+        "478765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, fire, or even complete engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine overheats",
+        "the temperature gauge rises",
+        "the coolant level drops",
+        "the vehicle leaks coolant",
+        "the water pump fails",
+        "the engine catches fire."
+      ],
+      "odiNumbers": [
+        "601556",
+        "478321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure and Tread Separation",
+      "impact": "The sudden failure of a tire can cause loss of vehicle control, leading to accidents, injuries, and fatalities. Tread separation can also cause damage to the vehicle's underbody and structural components.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire blowout",
+        "tread separation",
+        "vibration or shaking of the vehicle",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10026488",
+        "522290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vehicle Rollover and Structural Integrity",
+      "impact": "Vehicle rollover can result in serious injuries or fatalities, and damage to the vehicle's structural components can compromise its safety and integrity.",
+      "symptoms": [
+        "Vehicle rollover",
+        "damage to the underbody or structural components",
+        "loss of vehicle control",
+        "accidents or near-miss accidents."
+      ],
+      "odiNumbers": [
+        "522290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

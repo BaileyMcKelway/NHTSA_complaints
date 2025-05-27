@@ -1,0 +1,142 @@
+{
+  "totalComplaints": 51,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Latch and Retraction Failure",
+      "impact": "Failure of the seat belt latches and retraction mechanisms can lead to inadequate restraint of occupants in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Seat belts will not catch and lock",
+        "seat belts fail to retract",
+        "seat belts get caught under the backrest hinge",
+        "seat belts do not restrain occupants in a crash",
+        "difficulty latching seat belts",
+        "seat belts tighten and won't release."
+      ],
+      "odiNumbers": [
+        "10009045",
+        "845908",
+        "605628",
+        "804505",
+        "546867",
+        "803712",
+        "977823",
+        "966242",
+        "965722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Harness Failure",
+      "impact": "The failure of the electrical wiring harness can cause electrical shorts, leading to fires, smoke, and damage to the vehicle's electrical system, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Smoke coming from the signal switch",
+        "electrical short in the turn signal",
+        "instrument panel cluster module failure",
+        "starter fails to shut off",
+        "ignition control module failure",
+        "vehicle catches fire while driving."
+      ],
+      "odiNumbers": [
+        "818578",
+        "803585",
+        "506949",
+        "503309",
+        "975622",
+        "972800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to catch fire, resulting in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle catches fire while driving",
+        "alternator freezing up."
+      ],
+      "odiNumbers": [
+        "975622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Control Module Failure",
+      "impact": "The failure of the ignition control module can cause the starter to fail to shut off, leading to electrical system damage, fires, or accidents.",
+      "symptoms": [
+        "Starter fails to shut off",
+        "ignition control module failure."
+      ],
+      "odiNumbers": [
+        "503309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "Tire sidewall failure can lead to a sudden loss of air pressure, causing the driver to lose control of the vehicle, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sidewall cracks or splits",
+        "tire blowout",
+        "loss of air pressure",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "10102758",
+        "10026361",
+        "872208",
+        "732859",
+        "727663",
+        "537991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause the driver to lose control of the vehicle, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tread coming off",
+        "tire blowout",
+        "loss of air pressure",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "872208",
+        "732859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Tire Cracking",
+      "impact": "Premature tire cracking can lead to tire failure, causing the driver to lose control of the vehicle, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Cracks in the tread area",
+        "tire wear unevenness",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "727663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

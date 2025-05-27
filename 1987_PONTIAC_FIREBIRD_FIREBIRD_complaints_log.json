@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "WHEELS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to become inoperative, leading to a lack of restraint in the event of sudden stops or accidents, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle cracks or shatters",
+        "the seat belt does not latch",
+        "the seat belt does not retract",
+        "the seat belt becomes trapped",
+        "the seat belt is inoperative."
+      ],
+      "odiNumbers": [
+        "8023483",
+        "834628",
+        "971260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incomplete or Improper Seat Belt Recall Repairs",
+      "impact": "Incomplete or improper repairs to seat belt buckles can lead to a lack of restraint in the event of sudden stops or accidents, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "Wrong parts installed",
+        "some belts not replaced",
+        "recall repair work fails."
+      ],
+      "odiNumbers": [
+        "537034",
+        "834628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Missing Seat Belt Components",
+      "impact": "Missing seat belt components, such as the latch cover, can render the seat belt inoperative, leading to a lack of restraint in the event of sudden stops or accidents, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "Seat belt latch cover missing."
+      ],
+      "odiNumbers": [
+        "759971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Stud Failure",
+      "impact": "The failure of the wheel studs can cause the wheel to come off the vehicle while driving, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The wheel comes off the vehicle while driving",
+        "the vehicle pulls to one side",
+        "the vehicle vibrates or shakes",
+        "the wheel studs break or fracture",
+        "the wheel bearings fail."
+      ],
+      "odiNumbers": [
+        "558992",
+        "558992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries to occupants.",
+      "symptoms": [
+        "The engine compartment is on fire",
+        "smoke or flames are visible from the hood",
+        "the vehicle's electrical systems may malfunction",
+        "the vehicle may lose power or stall."
+      ],
+      "odiNumbers": [
+        "10040334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unknown or Undiagnosed Engine Problem",
+      "impact": "An unknown or undiagnosed engine problem can cause the engine to fail, leading to a loss of power, stalling, or even engine compartment fires, which can result in accidents or injuries.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the engine runs rough or misfires",
+        "the engine produces unusual noises or vibrations",
+        "the engine warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10040334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

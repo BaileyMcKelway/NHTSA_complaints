@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Gauge Cluster LED Failure",
+      "impact": "The failure of the instrument gauge cluster LEDs can cause difficulty in reading essential vehicle information, such as speed and gear position, which can lead to accidents or safety hazards, especially during nighttime driving.",
+      "symptoms": [
+        "Multiple LEDs in the dash cluster have gone out",
+        "making it difficult to read speed",
+        "gear position",
+        "and other vital information; inaccurate speedometer readings; faulty fuel gauge; non-functional digital screen on the gauge cluster; and warning lights or icons illuminated on the gauge cluster."
+      ],
+      "odiNumbers": [
+        "11048465",
+        "10991660",
+        "10898016",
+        "10824837",
+        "10816307",
+        "10783023"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "AM/FM Tuner Failure",
+      "impact": "The failure of the AM/FM tuner can cause inconvenience and distraction while driving, potentially leading to accidents or decreased vehicle safety.",
+      "symptoms": [
+        "Failure of the AM/FM tuner",
+        "resulting in loss of radio functionality."
+      ],
+      "odiNumbers": [
+        "11048465"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak/EVAP System Failure",
+      "impact": "The fuel system leak/EVAP system failure can cause fuel to spill out during refueling, creating a fire hazard, and strong fuel fumes can enter the cabin, posing a health risk to occupants.",
+      "symptoms": [
+        "Fuel spills out from the filler neck during refueling",
+        "strong fuel smell inside the cabin",
+        "especially during spirited driving or track use",
+        "fuel leaks through the EVAP system."
+      ],
+      "odiNumbers": [
+        "10447751",
+        "10307343",
+        "10290422",
+        "10272986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Gauge Cluster LED Failure",
+      "impact": "The failure of the instrument gauge cluster LEDs can lead to a lack of visibility of important vehicle information, such as fuel level, speed, and warning indicators, which can compromise vehicle safety and increase the risk of accidents.",
+      "symptoms": [
+        "LEDs behind the fuel gauge or other indicators burn out",
+        "instrument cluster display goes out",
+        "indicator lights do not function",
+        "important vehicle information is not visible to the driver."
+      ],
+      "odiNumbers": [
+        "10966003",
+        "10853359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

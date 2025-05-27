@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Harness Failure",
+      "impact": "The failure of the electrical wiring harness can cause electrical shorts, overheating, and fires, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "Wires melt",
+        "smoke is emitted from the wiring",
+        "the vehicle's electrical system malfunctions",
+        "the engine dies and occasionally restarts",
+        "the vehicle will not shut down even when the ignition is turned off and the key is removed."
+      ],
+      "odiNumbers": [
+        "543675",
+        "532817",
+        "530485",
+        "528266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the vehicle to lose power and potentially lead to accidents, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "The engine dies or stalls",
+        "the vehicle may restart occasionally",
+        "loss of power while driving."
+      ],
+      "odiNumbers": [
+        "528319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idler Arm Failure",
+      "impact": "The failure of the idler arm can cause the engine to suddenly accelerate, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The engine suddenly accelerates while shifting from park to reverse",
+        "loss of control while shifting gears."
+      ],
+      "odiNumbers": [
+        "961062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Radiator Failure",
+      "impact": "The failure of the radiator can cause coolant to leak onto the windshield, obstructing the driver's vision and potentially leading to accidents.",
+      "symptoms": [
+        "Radiator failure occurs at high speeds",
+        "coolant leaks onto the windshield",
+        "temporary obstruction of driver's vision."
+      ],
+      "odiNumbers": [
+        "958241"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the vehicle's RPMs surge",
+        "the vehicle's throttle opens unexpectedly",
+        "the vehicle becomes difficult to control",
+        "the vehicle crashes or is involved in an accident."
+      ],
+      "odiNumbers": [
+        "807301",
+        "982603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

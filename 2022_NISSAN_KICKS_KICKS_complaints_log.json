@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE",
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unstable Steering in Windy Conditions",
+      "impact": "The unstable steering in windy conditions can cause the vehicle to drift or veer off the road, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle is difficult to control in windy conditions",
+        "the steering becomes sloppy",
+        "the vehicle drifts or veers off the road",
+        "the steering wheel requires firm grip to maintain control",
+        "the vehicle is sensitive to wind and passing trucks."
+      ],
+      "odiNumbers": [
+        "11555948",
+        "11524574",
+        "11498776",
+        "11474721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Brake Rotors",
+      "impact": "Cracked brake rotors can lead to brake failure, causing loss of control and increasing the risk of accidents, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "No noticeable symptoms",
+        "but cracks on the brake rotors can be visually observed",
+        "often after inflating tires to recommended pressure or during routine maintenance."
+      ],
+      "odiNumbers": [
+        "11553073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause the vehicle to come to an abrupt stop, increasing the risk of accidents, injuries, or fatalities, especially if the vehicle is traveling at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle suddenly and unexpectedly stops or slows down",
+        "the brake warning light illuminates on the instrument panel",
+        "the vehicle's brakes engage without driver input",
+        "the vehicle's speed decreases rapidly without warning."
+      ],
+      "odiNumbers": [
+        "11509675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Abnormal Grinding Noise and Erratic Parking Assist",
+      "impact": "The abnormal grinding noise and erratic parking assist can cause sudden stops, which can lead to accidents, and may also indicate a potential failure of the vehicle's safety features, compromising the driver's and passengers' safety.",
+      "symptoms": [
+        "Sudden stops when parking assist is activated",
+        "abnormal grinding noise coming from underneath the driver's and passenger's side front-end while driving at various speeds",
+        "popping sound underneath the vehicle while in reverse or on an incline."
+      ],
+      "odiNumbers": [
+        "11493031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Erratic Parking Assist System",
+      "impact": "The erratic parking assist system can cause sudden stops, which can lead to accidents, and may also indicate a potential failure of the vehicle's safety features, compromising the driver's and passengers' safety.",
+      "symptoms": [
+        "Sudden stops when parking assist is activated",
+        "false alarms or warnings of obstacles or pedestrians."
+      ],
+      "odiNumbers": [
+        "11493031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unidentified Front-End Noise",
+      "impact": "The unidentified front-end noise can indicate a potential failure of the vehicle's suspension or steering system, which can lead to loss of control or accidents.",
+      "symptoms": [
+        "Abnormal grinding noise coming from underneath the driver's and passenger's side front-end while driving at various speeds."
+      ],
+      "odiNumbers": [
+        "11493031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Unidentified Popping Sound",
+      "impact": "The unidentified popping sound can indicate a potential failure of the vehicle's suspension or steering system, which can lead to loss of control or accidents.",
+      "symptoms": [
+        "Popping sound underneath the vehicle while in reverse or on an incline."
+      ],
+      "odiNumbers": [
+        "11493031"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

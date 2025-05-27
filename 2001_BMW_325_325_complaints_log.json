@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating due to Faulty Cooling Fan",
+      "impact": "Engine overheating can cause damage to the engine, transmission, and other components, leading to costly repairs, breakdowns, and potentially even fires. This can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Engine overheating",
+        "temperature gauge in the red zone",
+        "coolant leaks",
+        "engine stalling",
+        "loss of power",
+        "and smoke or fire from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10273937",
+        "10010007",
+        "566507",
+        "754347",
+        "896968",
+        "752113",
+        "750310",
+        "749438",
+        "747007",
+        "746871",
+        "746675",
+        "889848",
+        "745743"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Auxiliary Cooling Fan",
+      "impact": "Failure of the auxiliary cooling fan can cause engine overheating, leading to damage to the engine, transmission, and other components, breakdowns, and potentially even fires.",
+      "symptoms": [
+        "Engine overheating",
+        "temperature gauge in the red zone",
+        "coolant leaks",
+        "engine stalling",
+        "loss of power",
+        "and smoke or fire from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10273937",
+        "754347",
+        "896968",
+        "752113",
+        "750310",
+        "749438",
+        "747007",
+        "746871",
+        "746675",
+        "889848",
+        "745743"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Damage due to Overheating",
+      "impact": "Engine damage due to overheating can lead to costly repairs, breakdowns, and potentially even accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Engine overheating",
+        "temperature gauge in the red zone",
+        "coolant leaks",
+        "engine stalling",
+        "loss of power",
+        "and smoke or fire from the engine compartment."
+      ],
+      "odiNumbers": [
+        "10010007",
+        "749438",
+        "747007",
+        "746871",
+        "746675",
+        "889848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to injuries or fatalities in the event of a crash, as the airbags may not deploy properly or may deploy unexpectedly, causing harm to occupants.",
+      "symptoms": [
+        "The airbag light on the dashboard illuminates",
+        "the airbag deploys without warning",
+        "the airbag fails to deploy in a crash",
+        "the passenger airbag deploys without warning",
+        "the driver's side airbag deploys without warning."
+      ],
+      "odiNumbers": [
+        "10664836",
+        "10664553",
+        "10649815",
+        "10300335",
+        "8020428",
+        "8018126",
+        "8009100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Rotational Rate Sensor (Yaw) Causing Uncommanded Brake Application and Loss of Vehicle Control",
+      "impact": "A faulty yaw sensor can cause the Dynamic Stability Control (DSC) system to malfunction, leading to uncommanded brake application, loss of vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The DSC light illuminates",
+        "individual brakes apply themselves uncommanded",
+        "the vehicle pulls violently to one side",
+        "the vehicle slows down suddenly",
+        "the ABS engages and causes the vehicle to judder."
+      ],
+      "odiNumbers": [
+        "10780726",
+        "10746882"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

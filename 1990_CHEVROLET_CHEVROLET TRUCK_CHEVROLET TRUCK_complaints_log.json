@@ -1,0 +1,143 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "TIRES",
+    "SEAT BELTS",
+    "EQUIPMENT",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Paint Defect: Peeling and Flaking",
+      "impact": "The peeling and flaking of paint can lead to corrosion and rust, which can compromise the structural integrity of the vehicle, potentially affecting its safety and performance.",
+      "symptoms": [
+        "Paint is peeling or flaking off",
+        "primer is still visible",
+        "paint is falling off",
+        "paint is peeling from specific areas of the vehicle (e.g. right/front)."
+      ],
+      "odiNumbers": [
+        "705444",
+        "781677",
+        "523856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause loss of control, accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "The tire's sidewall shreds or blows out while driving",
+        "leading to loss of air pressure and potentially causing the vehicle to lose control."
+      ],
+      "odiNumbers": [
+        "8020129",
+        "520617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can lead to reduced traction, increased stopping distances, and increased risk of tire failure, which can cause accidents and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "The tire tread wears down excessively",
+        "often unevenly",
+        "leading to reduced tire performance and increased risk of tire failure."
+      ],
+      "odiNumbers": [
+        "8020129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "A malfunctioning seat belt buckle can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt buckle does not latch or unlatch properly",
+        "the seat belt buckle is stuck",
+        "the seat belt buckle does not click into place",
+        "the seat belt is unable to be secured."
+      ],
+      "odiNumbers": [
+        "896050",
+        "486498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "TAKATA Seat Belt Locking Failure",
+      "impact": "The failure of the TAKATA seat belts to lock can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt does not lock into place",
+        "the seat belt is unable to be secured",
+        "the seat belt does not tighten properly",
+        "the seat belt is loose or slack."
+      ],
+      "odiNumbers": [
+        "486498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spare Tire Cable Rust Failure",
+      "impact": "The rusted spare tire cable can cause the spare tire to fall off, potentially striking nearby individuals or objects, resulting in injury or damage.",
+      "symptoms": [
+        "The spare tire falls off while the vehicle is being worked on",
+        "the spare tire cable is rusted or corroded",
+        "the spare tire is not securely held in place."
+      ],
+      "odiNumbers": [
+        "557061"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can prevent the engine from starting, leaving the driver stranded and potentially causing safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The engine does not turn over",
+        "the starter motor makes a clicking sound but the engine does not start",
+        "the starter motor is slow to turn the engine",
+        "the starter motor is noisy or produces a grinding sound."
+      ],
+      "odiNumbers": [
+        "517505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can prevent the engine from starting, cause electrical system malfunctions, and lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The engine does not turn over",
+        "the headlights or interior lights are dim",
+        "the battery warning light is illuminated on the dashboard",
+        "the battery is slow to hold a charge",
+        "the battery is swollen or leaking acid."
+      ],
+      "odiNumbers": [
+        "517505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

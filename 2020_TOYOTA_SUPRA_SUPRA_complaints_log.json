@@ -1,0 +1,153 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "VISIBILITY/WIPER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to vibrate, become difficult to turn, or seize, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering wheel vibrates",
+        "becomes difficult to turn",
+        "or seizes; the power steering malfunction warning indicator illuminates; the wheels fail to move when turning the steering wheel; the vehicle is unable to be driven."
+      ],
+      "odiNumbers": [
+        "11290586",
+        "11253613",
+        "11253592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lane Sensor Failure",
+      "impact": "The failure of the lane sensor system can cause the vehicle to malfunction, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle takes control of the steering without allowing the driver to control it; the vehicle turns in an unexpected direction; the vehicle fails to respond to driver input."
+      ],
+      "odiNumbers": [
+        "11290586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Software Failure",
+      "impact": "The failure of the software system can cause various malfunctions, including power steering failure, lane sensor failure, and other issues, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle malfunctions without warning; the vehicle's systems fail to communicate properly; the vehicle's software fails to function as intended."
+      ],
+      "odiNumbers": [
+        "11290586",
+        "11253613",
+        "11253592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Hatch Latch Failure",
+      "impact": "The failure of the rear hatch latch can cause individuals or pets to become trapped in the trunk, posing a significant safety risk, especially if there are hazardous items inside.",
+      "symptoms": [
+        "The rear hatch will not open electrically",
+        "the rear hatch will not open from the interior manual release handle",
+        "the latch release cable feels stiff when pulled gently."
+      ],
+      "odiNumbers": [
+        "11510758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dashboard Malfunction",
+      "impact": "The sudden loss of dashboard functionality can cause a significant distraction to the driver, increasing the risk of accidents, and may also lead to a loss of critical information such as speed, fuel level, and navigation.",
+      "symptoms": [
+        "The dashboard goes completely blank",
+        "the dashboard displays a \"reduced driver assistance\" warning without specifying the issue",
+        "the dashboard failure occurs suddenly and without warning."
+      ],
+      "odiNumbers": [
+        "11455413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Service and Failure to Address Recall Issues",
+      "impact": "The failure of the dealership to address the recall issue and perform the scheduled maintenance can put the driver's safety at risk, as the unresolved issue may lead to accidents or other safety hazards.",
+      "symptoms": [
+        "The dealership fails to prioritize scheduled appointments",
+        "neglects to address recall issues",
+        "and leaves customers with unresolved safety concerns",
+        "potentially putting them at risk."
+      ],
+      "odiNumbers": [
+        "11439404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Poor Customer Service and Communication",
+      "impact": "The lack of communication and poor customer service from the dealership can lead to frustration, inconvenience, and a lack of trust in the dealership, potentially affecting the customer's overall experience and satisfaction.",
+      "symptoms": [
+        "The dealership fails to provide timely updates",
+        "neglects to prioritize scheduled appointments",
+        "and leaves customers feeling ignored or dismissed",
+        "leading to a negative experience."
+      ],
+      "odiNumbers": [
+        "11439404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Cracking Due to Minor Impacts",
+      "impact": "The windshield cracking due to minor impacts can compromise the structural integrity of the vehicle, potentially leading to shattered windshields, obstructed visibility, and increased risk of injury or accident.",
+      "symptoms": [
+        "Windshield cracks or shatters from very small impacts",
+        "such as tiny knicks or stone chips",
+        "windshield appears to be a single pane of glass rather than laminated double pane."
+      ],
+      "odiNumbers": [
+        "11414104"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own without input from the driver",
+        "the vehicle oversteers or understeers",
+        "the vehicle's speed increases unexpectedly",
+        "the brakes are unable to slow or stop the vehicle",
+        "the vehicle's electronic data recorder may not accurately capture the incident."
+      ],
+      "odiNumbers": [
+        "11329047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

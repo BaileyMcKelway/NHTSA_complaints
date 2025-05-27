@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Wiring Harness Degradation)",
+      "impact": "The degradation of the wiring harness can cause electrical system failures, leading to engine malfunction, stalling, and potentially, fires.",
+      "symptoms": [
+        "Slight odor in hot weather or on long runs",
+        "windshield washer light comes on",
+        "damage to sensors",
+        "minor wires still attached",
+        "engine malfunction",
+        "stalling."
+      ],
+      "odiNumbers": [
+        "11053976",
+        "10484620",
+        "10181895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Cylinder Failure",
+      "impact": "The failure of the ignition cylinder can cause the vehicle to become inoperable, leading to safety risks.",
+      "symptoms": [
+        "Ignition cylinder jams",
+        "vehicle becomes inoperable."
+      ],
+      "odiNumbers": [
+        "10594841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Light Failure",
+      "impact": "The failure of the brake light can cause reduced visibility, increasing the risk of accidents.",
+      "symptoms": [
+        "Dash warning message shows third brake light not working."
+      ],
+      "odiNumbers": [
+        "10222698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Modulator Failure (Electrical Fire)",
+      "impact": "The failure of the power modulator can cause electrical fires, leading to vehicle damage and potential harm to occupants.",
+      "symptoms": [
+        "Loss of power",
+        "smoke and flames from the front end of the vehicle."
+      ],
+      "odiNumbers": [
+        "10181895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Recall Repair Delay",
+      "impact": "The delay in repairing the recalled airbag can lead to a potentially dangerous situation for the driver and passengers, as the airbag may not deploy properly in the event of an accident.",
+      "symptoms": [
+        "Notification of airbag recall",
+        "but parts are unavailable",
+        "dealer puts customer on a waiting list",
+        "customer is not contacted by the dealership",
+        "and the recall is still not repaired."
+      ],
+      "odiNumbers": [
+        "11513713",
+        "11461566",
+        "11460799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Deactivation Warning",
+      "impact": "The deactivation of the passenger airbag can lead to a potentially dangerous situation for the passenger, as they may not be protected in the event of an accident.",
+      "symptoms": [
+        "Message on the dashboard indicates that the passenger airbag is not active",
+        "despite previous repairs by the dealer",
+        "and the issue persists."
+      ],
+      "odiNumbers": [
+        "10402888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lunge or jerk while driving, leading to loss of control and potential accidents. It can also cause the vehicle to be unable to shift gears properly, making it difficult to accelerate or decelerate.",
+      "symptoms": [
+        "The vehicle lunges or jerks while driving",
+        "the gears do not shift properly",
+        "the vehicle jerks when trying to accelerate",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10490926",
+        "10437258",
+        "10362415"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

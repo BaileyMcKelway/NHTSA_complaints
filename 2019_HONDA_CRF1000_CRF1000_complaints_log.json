@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Contamination and Sludging",
+      "impact": "The contamination of the fuel tank can cause the fuel filter to clog, leading to a loss of power, stalling, and hesitation while driving, which can result in dangerous situations, especially when driving on the highway.",
+      "symptoms": [
+        "White sludge particles or flakes coming off the weld seams of the fuel tank",
+        "clogging the fuel filter",
+        "loss of power",
+        "stalling",
+        "hesitation",
+        "misfire",
+        "popping sound",
+        "and engine dying while in motion."
+      ],
+      "odiNumbers": [
+        "11373497",
+        "11349771",
+        "11329888",
+        "11329851",
+        "11328160",
+        "11328216",
+        "11316901",
+        "11307903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling and Power Loss",
+      "impact": "The sudden loss of power and stalling of the engine can lead to accidents, especially when happening at high speeds or in heavy traffic, and can cause a loss of control of the vehicle.",
+      "symptoms": [
+        "Momentary loss of power",
+        "engine stalling",
+        "hesitation",
+        "and power loss when accelerating",
+        "especially at high speeds",
+        "and difficulty taking off from a stop."
+      ],
+      "odiNumbers": [
+        "11490820",
+        "11436950",
+        "11351632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause loss of power, leading to accidents or near-miss situations, especially when riding at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine cuts out or stalls while riding",
+        "loss of power",
+        "delay when opening the throttle",
+        "engine turns off at speeds above 25mph",
+        "multiple instances of engine stalling during a single ride."
+      ],
+      "odiNumbers": [
+        "11324033",
+        "11319660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause a gasoline leak, which can lead to a fire hazard, bodily injury, or even worse. This issue can occur while riding, making it a critical safety concern.",
+      "symptoms": [
+        "Gasoline leak from the fuel pump flange",
+        "strong smell of gasoline",
+        "puddle of gasoline on the left side of the bike (right side when facing the bike)",
+        "fuel leaking down the side of the bike and onto hot components while riding."
+      ],
+      "odiNumbers": [
+        "11234146",
+        "11234286",
+        "11205457",
+        "11185809",
+        "11020121",
+        "11006651"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Combination Engine Run/Start Switch Failure",
+      "impact": "The failure of the combination engine run/start switch can prevent the engine from starting, and if it disconnects while driving, the engine will cut off without being able to restart, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine will not start",
+        "the switch does not engage in the run position",
+        "the switch disconnects while driving",
+        "the engine cuts off without being able to restart."
+      ],
+      "odiNumbers": [
+        "10715513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Left Combination Switch Failure",
+      "impact": "The failure of the left combination switch can cause various essential systems to malfunction, including high beam lights, turn signals, horn, and cruise control, which can increase the risk of accidents or reduce vehicle safety.",
+      "symptoms": [
+        "High beam lights do not function",
+        "turn signals do not function",
+        "horn does not function",
+        "cruise control does not function",
+        "multiple systems malfunction simultaneously."
+      ],
+      "odiNumbers": [
+        "10435099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause fuel leaks, which can lead to fires, accidents, or engine damage.",
+      "symptoms": [
+        "Fuel leaking from the fuel pump area",
+        "fuel squirting from the inner radius of the metal crimp ring",
+        "fuel flowing down the left side of the bike to the bottom of the left cylinder base",
+        "fuel leaks only occur when the engine is running."
+      ],
+      "odiNumbers": [
+        "11013071"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Failure (Paralever) - Lateral Play in Brake Carrier",
+      "impact": "The failure of the final drive can cause the rear of the motorcycle to weave or wobble, making it difficult to control, especially when riding in a straight line or in turns, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The rear of the motorcycle weaves or wobbles when riding in a straight line or in turns",
+        "the rear wheel has excessive play when twisted side to side",
+        "the brake carrier on the final drive has lateral play."
+      ],
+      "odiNumbers": [
+        "10522464",
+        "10439549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

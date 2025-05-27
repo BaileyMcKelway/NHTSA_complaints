@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Starter Relay",
+      "impact": "A faulty starter relay can cause intermittent starting issues, leading to safety hazards, especially when the auto start/stop feature shuts down the engine at a stop light and the car fails to restart.",
+      "symptoms": [
+        "The dashboard illuminates properly",
+        "but the starter does not engage",
+        "and the engine does not attempt to crank; a warning lamp may appear saying \"auto start/stop unavailable\"."
+      ],
+      "odiNumbers": [
+        "11437604"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Seatbelts and Airbags to Deploy",
+      "impact": "The failure of seatbelts to lock and airbags to deploy in the event of an accident can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the failure of safety features during an accident."
+      ],
+      "odiNumbers": [
+        "11407146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause the vehicle to stall or become stuck, leaving the driver stranded and potentially in danger.",
+      "symptoms": [
+        "The vehicle stalls or stops running while in motion",
+        "and the driver is unable to put the car in neutral to push it out of the road."
+      ],
+      "odiNumbers": [
+        "11363581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Issues",
+      "impact": "Electrical system issues can cause various problems, including starting issues, fuel system failures, and other safety hazards.",
+      "symptoms": [
+        "The vehicle may experience intermittent starting issues",
+        "fuel system failures",
+        "or other electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "11363581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Failure (Split Fuel Hose)",
+      "impact": "The failure of the fuel line can cause a significant amount of gasoline to leak onto the engine and surrounding areas, creating a fire hazard and potentially leading to an engine compartment fire.",
+      "symptoms": [
+        "Strong odor of gasoline in the cockpit",
+        "visible trail of fluid on the driveway",
+        "gasoline pooling on the engine and surrounding areas",
+        "engine compartment fire risk."
+      ],
+      "odiNumbers": [
+        "11385565",
+        "11353843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Pump Failure Leading to Sudden Engine Failure",
+      "impact": "The failure of the oil pump can cause the engine to suddenly die, leading to a loss of power and control, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The \"Service Electronic Throttle Control\" light comes on",
+        "the vehicle goes into limp mode",
+        "the engine dies or loses power",
+        "the vehicle slows down or stalls",
+        "the engine fails to recover after stalling."
+      ],
+      "odiNumbers": [
+        "11550890"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

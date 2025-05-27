@@ -1,0 +1,144 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Battery Fault and Charging Issues)",
+      "impact": "The electrical system failure can cause the vehicle to stall, leading to accidents or leaving the driver stranded. It can also cause the battery to overheat, potentially leading to a fire.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the battery fault notice appears",
+        "the vehicle is unable to charge",
+        "the battery overheats",
+        "the vehicle's range decreases unexpectedly."
+      ],
+      "odiNumbers": [
+        "11566315",
+        "11547060",
+        "11535991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Recall Repairs (Electrical System)",
+      "impact": "The delayed or unavailable recall repairs can lead to prolonged exposure to electrical system failures, potentially causing accidents or fires.",
+      "symptoms": [
+        "The vehicle is not repaired despite notification of a recall",
+        "the part to perform the recall repair is not available",
+        "the manufacturer exceeds a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11541599",
+        "11535991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transceiver Failure (Smart Key Issues)",
+      "impact": "The transceiver failure can cause the vehicle to be unable to start or enter, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle is unable to start",
+        "the vehicle is unable to be entered",
+        "the dash warning indicates that the \"Smart Key\" is not present in the vehicle",
+        "the transceiver part is faulty and unable to be imported due to inherent failure issues."
+      ],
+      "odiNumbers": [
+        "11494745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Total Brake System Failure",
+      "impact": "The complete failure of the brake system can lead to accidents, injuries, or fatalities, as the vehicle is unable to stop, even with both feet applied to the brake pedal.",
+      "symptoms": [
+        "The vehicle does not stop or slow down when the brake pedal is pressed",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor with little to no resistance."
+      ],
+      "odiNumbers": [
+        "11588132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Pad Failure",
+      "impact": "The failure of the brake pedal pad can cause the driver's foot to slip and hit the accelerator, leading to unintended acceleration and potential accidents.",
+      "symptoms": [
+        "The brake pedal pad falls off",
+        "the driver's foot slips and hits the accelerator",
+        "the vehicle accelerates unintentionally",
+        "the brake pedal feels unstable or loose."
+      ],
+      "odiNumbers": [
+        "11571371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down while in motion, leading to loss of control, increased risk of accidents, and potential harm to occupants and other road users.",
+      "symptoms": [
+        "Multiple error messages appear on the information display",
+        "including \"traction battery fault - safe to drive with caution\" and \"pull over and stop the car\"",
+        "followed by the shutdown of all electrical systems",
+        "including brakes and steering",
+        "leaving the vehicle unable to stop or steer."
+      ],
+      "odiNumbers": [
+        "11417426",
+        "11572972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle's systems to malfunction, leading to loss of control, increased risk of accidents, and potential harm to occupants.",
+      "symptoms": [
+        "The steering column locks up",
+        "all doors lock",
+        "and the vehicle's components malfunction",
+        "making it difficult or impossible to exit the vehicle."
+      ],
+      "odiNumbers": [
+        "11572972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Error Message and System Failure",
+      "impact": "The failure of the vehicle's systems, accompanied by error messages, can cause the vehicle to shut down while in motion, leading to loss of control, increased risk of accidents, and potential harm to occupants and other road users.",
+      "symptoms": [
+        "Multiple error messages appear on the information display",
+        "followed by the shutdown of all electrical systems",
+        "including brakes and steering",
+        "leaving the vehicle unable to stop or steer."
+      ],
+      "odiNumbers": [
+        "11417426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

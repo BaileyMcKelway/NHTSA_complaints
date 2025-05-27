@@ -1,0 +1,426 @@
+{
+  "totalComplaints": 58,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 24,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Control Module Failure",
+      "impact": "The failure of the airbag control module can cause the airbag warning light to illuminate, and the airbag may not deploy in the event of an accident, which can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the passenger airbag is not turned on when a passenger is seated",
+        "the airbag system is faulty",
+        "and the vehicle is at risk of not deploying the airbag in an accident."
+      ],
+      "odiNumbers": [
+        "11176599",
+        "11060999",
+        "11034075",
+        "10881267",
+        "10864188",
+        "10863026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Passenger Occupancy Detection System (PODS) Failure",
+      "impact": "The failure of the PODS can cause the passenger airbag to not deploy in the event of an accident, which can lead to serious injury or death.",
+      "symptoms": [
+        "The passenger airbag is not turned on when a passenger is seated",
+        "the airbag warning light is illuminated",
+        "and the PODS sensor has an internal open circuit fault."
+      ],
+      "odiNumbers": [
+        "11060999",
+        "11034075",
+        "10881267",
+        "10864188",
+        "10863026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Takata Recall Issues",
+      "impact": "The Takata recall issues can cause the airbag to not deploy properly in the event of an accident, which can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the vehicle is part of the Takata recall",
+        "but the parts are not available for repair",
+        "and the manufacturer is unable to confirm when the parts will be available."
+      ],
+      "odiNumbers": [
+        "11100598",
+        "11063220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cylinder Failure",
+      "impact": "The failure of the engine cylinders can cause the vehicle to suddenly reduce speed, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly reduces speed",
+        "an unknown message is displayed",
+        "and the engine cylinders have failed."
+      ],
+      "odiNumbers": [
+        "11118997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The parts distribution disconnect can cause delays in repairing recalled vehicles, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The parts are not available for repair",
+        "the dealer is unable to confirm when the parts will be available",
+        "and the manufacturer is unable to provide a time frame for when the parts will be available."
+      ],
+      "odiNumbers": [
+        "11149920",
+        "11100598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ECU Failure/Communication Issues",
+      "impact": "Failure of the Engine Control Unit (ECU) can cause communication issues with the vehicle's computer, leading to faulty diagnoses, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Difficulty communicating with the vehicle's computer",
+        "faulty diagnoses",
+        "and issues with resetting maintenance messages on the dashboard."
+      ],
+      "odiNumbers": [
+        "11397718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant Valve Leaks and Electrical Malfunctions",
+      "impact": "Coolant valve leaks can cause electrical malfunctions, leading to catastrophic failures, engine stalling, loss of power, and increased risk of crashes.",
+      "symptoms": [
+        "Coolant leaks",
+        "electrical malfunctions",
+        "engine stalling",
+        "loss of power",
+        "squealing",
+        "whining noise near the timing belt area",
+        "delayed reaction at acceleration",
+        "and temperature gauge issues."
+      ],
+      "odiNumbers": [
+        "11322857",
+        "11066897",
+        "10840419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Bag Warning Indicator Issues",
+      "impact": "Faulty air bag warning indicators can lead to incorrect diagnoses, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Air bag warning indicator illumination",
+        "air bag off indicator flashing",
+        "and incorrect diagnoses."
+      ],
+      "odiNumbers": [
+        "11065744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Relay Failure",
+      "impact": "Starter relay failure can cause the vehicle to stall without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling without warning",
+        "reduction in engine power",
+        "and accelerator pedal issues."
+      ],
+      "odiNumbers": [
+        "10888936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Issues",
+      "impact": "Transmission issues can cause loss of power, stalling, and increased risk of crashes.",
+      "symptoms": [
+        "Transmission issues",
+        "loss of power",
+        "stalling",
+        "and multiple system failure warnings."
+      ],
+      "odiNumbers": [
+        "10840419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "Windshield wiper failure can create dangerous situations, particularly in adverse weather conditions.",
+      "symptoms": [
+        "Windshield wipers ceasing to work",
+        "flimsy wiring",
+        "and dealer denial of express warranty claims."
+      ],
+      "odiNumbers": [
+        "10668224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause engine stalling, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "check engine warning indicator illumination",
+        "and alternator failure."
+      ],
+      "odiNumbers": [
+        "10661561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Coolant Leak into Transmission Wiring/Electrical System",
+      "impact": "The coolant leak can cause electrical system failure, leading to transmission malfunction, loss of power, and potential fire hazards, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission malfunction warning",
+        "transmission shifting issues",
+        "loss of power",
+        "coolant leak onto transmission wires",
+        "electrical system failure",
+        "warning lights on the dashboard (e.g.",
+        "check engine",
+        "gearbox",
+        "MIL",
+        "EPC",
+        "airbag",
+        "hi-speed cooling fan",
+        "tire pressure)."
+      ],
+      "odiNumbers": [
+        "11466406",
+        "11316250",
+        "11206823",
+        "10810939",
+        "10721255"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction/Hunting for Gears",
+      "impact": "The transmission malfunction can cause rough shifting, loss of power, and difficulty shifting gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Rough shifting",
+        "transmission hunting for gears",
+        "difficulty shifting gears",
+        "transmission malfunction warning",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11319084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Mechatronic Device Failure",
+      "impact": "The mechatronic device failure can cause transmission malfunction, loss of power, and potential electrical system failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission malfunction warning",
+        "loss of power",
+        "mechatronic device failure",
+        "EPC and PRNDS warning lights",
+        "sticking in gear",
+        "deactivation of half of the gears",
+        "no reverse or gears above first."
+      ],
+      "odiNumbers": [
+        "11244691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the engine ceases to function",
+        "the engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11459608",
+        "11072674",
+        "10991359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "After-Run Coolant Pump Failure",
+      "impact": "The failure of the after-run coolant pump can cause the engine to overheat, leading to engine damage or failure.",
+      "symptoms": [
+        "The EPC light is illuminated",
+        "the coolant pump is defective",
+        "debris builds up in the cooling system",
+        "pellets are expelled throughout the entire cooling system."
+      ],
+      "odiNumbers": [
+        "11316135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause fuel leaks, leading to fires or engine damage.",
+      "symptoms": [
+        "Fuel odor is present",
+        "extended cranking",
+        "fuel injector failure",
+        "fuel leaks."
+      ],
+      "odiNumbers": [
+        "11193012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Timing Chain Rattle",
+      "impact": "The timing chain rattle can cause engine damage or failure if left unchecked.",
+      "symptoms": [
+        "A loud rattling noise is present when starting the engine",
+        "a loose heat shield sound."
+      ],
+      "odiNumbers": [
+        "11109864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Flex Pipe Failure",
+      "impact": "Flex pipe failure can cause the vehicle to make a loud noise, leading to distraction or loss of control.",
+      "symptoms": [
+        "A loud tin can sound is present",
+        "the flex pipe is broken."
+      ],
+      "odiNumbers": [
+        "11109864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Oil Leak",
+      "impact": "Transmission oil leaks can cause the transmission to fail, leading to loss of power or vehicle stalling.",
+      "symptoms": [
+        "The check engine warning light is illuminated",
+        "transmission oil needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10468939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause the steering wheel to lock, making it difficult or impossible to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel feels locked or stuck",
+        "the vehicle displays a \"steering malfunction\" or \"do not drive\" message",
+        "the power steering assist motor fails",
+        "the steering wheel is difficult to turn",
+        "the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "11566847",
+        "11320629",
+        "11288818",
+        "11079792",
+        "11053965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Rack Failure",
+      "impact": "The failure of the steering rack can cause the steering wheel to become difficult to turn, making it challenging to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel is difficult to turn",
+        "the steering rack completely fails",
+        "the vehicle is hard to steer",
+        "the steering wheel feels notchy and unstable."
+      ],
+      "odiNumbers": [
+        "11320629",
+        "10504796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Control Module Failure",
+      "impact": "The failure of the steering control module can cause the steering system to malfunction, leading to a loss of power steering assist, which can make it difficult or impossible to control the vehicle.",
+      "symptoms": [
+        "The steering system malfunctions",
+        "the power steering assist motor fails",
+        "the steering wheel feels locked or stuck",
+        "the vehicle displays a \"steering malfunction\" or \"do not drive\" message."
+      ],
+      "odiNumbers": [
+        "11053965",
+        "11288818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

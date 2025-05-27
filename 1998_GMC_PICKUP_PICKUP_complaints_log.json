@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "VISIBILITY",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wheel Cylinder Failure",
+      "impact": "The failure of the wheel cylinder can cause brake fluid leaks, leading to a loss of brake pressure, which can increase stopping distances and potentially cause accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brakes overheat",
+        "wheel cylinder cap cracked",
+        "brake fluid leaks",
+        "ABS system malfunction."
+      ],
+      "odiNumbers": [
+        "785252",
+        "558264",
+        "730554",
+        "722862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Frame Corrosion",
+      "impact": "Severe corrosion on the front frame can compromise the structural integrity of the vehicle, leading to potential safety risks, including loss of control or collapse of the frame, which can result in accidents or injuries.",
+      "symptoms": [
+        "Visible signs of corrosion on the front frame",
+        "rust or flaking metal",
+        "weakened frame structure",
+        "potential loss of vehicle control or collapse of the frame."
+      ],
+      "odiNumbers": [
+        "10203745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Weather Strip Failure",
+      "impact": "A loose weather strip can cause water to enter the vehicle, leading to corrosion, electrical issues, or other problems, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "Weather strip comes loose",
+        "water enters the vehicle",
+        "corrosion or rust appears",
+        "electrical issues or other problems arise."
+      ],
+      "odiNumbers": [
+        "558264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can reduce visibility during rain or snow, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "wipers stop working for no apparent reason",
+        "wipers may completely fail while driving",
+        "wipers may come on unexpectedly",
+        "wiper function is erratic",
+        "delay feature does not work as intended",
+        "low- or high-speed settings do not function properly."
+      ],
+      "odiNumbers": [
+        "10094292",
+        "10060753",
+        "755353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Manifold Gasket Failure",
+      "impact": "The failure of the intake manifold gasket can cause coolant leaks, engine damage, and potentially lead to engine failure, resulting in costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "engine damage",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "10010830",
+        "754740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The throttle remaining open and failing to decelerate can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the throttle pedal remains open",
+        "the vehicle fails to decelerate when the gas pedal is released",
+        "the vehicle surges forward without input from the driver."
+      ],
+      "odiNumbers": [
+        "558264",
+        "558264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

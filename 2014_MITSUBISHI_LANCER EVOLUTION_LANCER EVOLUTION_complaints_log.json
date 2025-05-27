@@ -1,0 +1,170 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to hesitate or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates for 1-2 seconds before moving from a stop",
+        "the vehicle completely stops and won't drive while in \"Drive\" range",
+        "the \"Slow Down\" message displays on the instrument panel",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11551801",
+        "11337776",
+        "11035277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "AYC Pump Failure",
+      "impact": "AYC pump failure can cause the vehicle to lose traction and stability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The AYC pump warning light comes on",
+        "the pump needs to be relocated and replaced",
+        "the pump fails while driving",
+        "causing a safety hazard."
+      ],
+      "odiNumbers": [
+        "11241884",
+        "10903647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences a loss of power",
+        "increased exhaust noise",
+        "and the illumination of powertrain fault lights on the instrument cluster",
+        "the engine bay catches fire",
+        "the main relay catches fire and melts."
+      ],
+      "odiNumbers": [
+        "11186330",
+        "11044251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to hesitate or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "An abnormal clicking sound emits from the vehicle when the clutch pedal is depressed",
+        "brake fluid leaks inside the vehicle onto the floorboard."
+      ],
+      "odiNumbers": [
+        "10966440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "CVT Transmission Failure",
+      "impact": "CVT transmission failure can cause the vehicle to hesitate or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission will not move the car when the car and engine are cold",
+        "the car revs to 1500-2000 RPM and eventually begins to creep forward."
+      ],
+      "odiNumbers": [
+        "11035277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injury or fatalities, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "warning indicators light up on the dashboard",
+        "seatbelt and airbag warning pictures appear on the display."
+      ],
+      "odiNumbers": [
+        "11316710",
+        "11183136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Airbag Recall Repairs",
+      "impact": "The delay or unavailability of airbag recall repairs can leave vehicles on the road with potentially faulty airbags, putting drivers and passengers at risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "Notification of airbag recall",
+        "part not available for repair",
+        "manufacturer exceeds reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11064971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Aggressive Airbag Deployment",
+      "impact": "Overly aggressive airbag deployment can cause injuries, even in low-speed crashes, and may be particularly dangerous for vulnerable individuals, such as the elderly or those with pre-existing medical conditions.",
+      "symptoms": [
+        "Airbag deploys with excessive force",
+        "causing pain or injury",
+        "prolonged recovery time from airbag deployment."
+      ],
+      "odiNumbers": [
+        "10853942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Subframe Rust and Cracking",
+      "impact": "The rusting and cracking of the subframe can compromise the structural integrity of the vehicle, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "Rust or corrosion on the subframe",
+        "cracks or damage to the subframe",
+        "uneven tire wear",
+        "difficulty steering or handling the vehicle."
+      ],
+      "odiNumbers": [
+        "11506744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "vehicle fails to shut off engine after impact",
+        "lack of warning lights or indicators."
+      ],
+      "odiNumbers": [
+        "10700824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

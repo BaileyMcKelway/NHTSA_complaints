@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure (Tread Separation/Blowout)",
+      "impact": "Sudden tire failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Loud thumping or banging noise from the tire",
+        "tire tread separation",
+        "tire blowout",
+        "loss of vehicle control",
+        "skidding",
+        "or swerving."
+      ],
+      "odiNumbers": [
+        "9005083",
+        "749928",
+        "747850",
+        "870377",
+        "731062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Brake Performance",
+      "impact": "The inadequate brake performance can lead to extended stopping distances, increased risk of accidents, and potentially life-threatening situations, especially when sudden stops are required.",
+      "symptoms": [
+        "Brakes feel weak or spongy",
+        "brakes require excessive pressure to stop the vehicle",
+        "brakes do not respond promptly",
+        "vehicle takes longer than expected to stop",
+        "brakes only work effectively at slow speeds."
+      ],
+      "odiNumbers": [
+        "9000447",
+        "829776",
+        "817237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Failure",
+      "impact": "A faulty steering column can lead to complete loss of steering control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering column feels loose",
+        "moves excessively while steering",
+        "the steering wheel can turn but the wheels do not respond",
+        "a thumping noise is heard while turning",
+        "sudden and unexpected loss of steering control."
+      ],
+      "odiNumbers": [
+        "8019183",
+        "723898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

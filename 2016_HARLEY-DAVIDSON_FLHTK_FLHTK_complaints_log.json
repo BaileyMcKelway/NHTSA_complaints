@@ -1,0 +1,143 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "WHEELS",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure - Cracking",
+      "impact": "The cracking of the tire can lead to a loss of air pressure, causing the tire to blow out, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Cracking of the tire in the center",
+        "thread depth reduction",
+        "tire pressure loss."
+      ],
+      "odiNumbers": [
+        "11546765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Wheel Bearing Failure",
+      "impact": "The failure of the front wheel bearings can cause the motorcycle to lose control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Front wheel shaking",
+        "loss of braking ability",
+        "front wheel bearings falling apart",
+        "ABS system malfunction."
+      ],
+      "odiNumbers": [
+        "11268911",
+        "11046397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wheel-Tire Interface Failure",
+      "impact": "The failure of the wheel-tire interface can cause the tire to go flat, leading to loss of control or accidents.",
+      "symptoms": [
+        "Material separation at the wheel-tire interface",
+        "tire going flat."
+      ],
+      "odiNumbers": [
+        "11221767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to lock up suddenly, leading to loss of control, accidents, and potential fatalities.",
+      "symptoms": [
+        "Sudden and unexpected brake lockup",
+        "inability to move the vehicle",
+        "brake lights may not illuminate",
+        "ABS light may not indicate an issue",
+        "front end of the bike may drop down."
+      ],
+      "odiNumbers": [
+        "11339520",
+        "11510017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Coolant Pump Failure",
+      "impact": "The failure of the coolant pump can cause the engine to overheat, leading to engine damage, stalling, or failure, which can result in accidents or leave the rider stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "engine stalling or failure",
+        "coolant pump failure."
+      ],
+      "odiNumbers": [
+        "11510017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Malfunction due to Six Terminal Socket Failure",
+      "impact": "The failure of the six terminal socket can cause the throttle to malfunction, leading to a sudden loss of power, which can increase the risk of accidents, especially when driving in traffic.",
+      "symptoms": [
+        "The cruise control disengages automatically when driving over bumps",
+        "the throttle decreases",
+        "the vehicle loses power",
+        "the throttle completely fails",
+        "the vehicle rolls to the side of the road."
+      ],
+      "odiNumbers": [
+        "11255545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Wiring Issues leading to Throttle Malfunction",
+      "impact": "Wiring issues can cause the throttle to malfunction, leading to a sudden loss of power, which can increase the risk of accidents, especially when driving in traffic.",
+      "symptoms": [
+        "The throttle decreases",
+        "the vehicle loses power",
+        "the throttle completely fails",
+        "the vehicle rolls to the side of the road."
+      ],
+      "odiNumbers": [
+        "11255545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Delamination",
+      "impact": "Tire tread delamination can lead to a sudden loss of tire pressure, causing loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Visible bubbles or blisters on the tire tread",
+        "uneven tire wear",
+        "vibrations while driving",
+        "loss of tire pressure",
+        "tire failure."
+      ],
+      "odiNumbers": [
+        "11004352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

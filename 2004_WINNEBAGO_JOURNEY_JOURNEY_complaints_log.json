@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "EQUIPMENT",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Propane Tank Weld Joint Failure",
+      "impact": "The failure of the propane tank weld joints can cause propane leakage, which can lead to a fire or explosion, putting the occupants of the vehicle at risk of injury or death.",
+      "symptoms": [
+        "Strong propane odor",
+        "propane detection alarm sounds",
+        "small cracks or holes in the propane tank bracket mounting area",
+        "propane leakage."
+      ],
+      "odiNumbers": [
+        "11421799",
+        "10457769",
+        "10339699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inverter Overcharging Issue",
+      "impact": "The inverter overcharging issue can cause damage to the coach batteries and electronic instruments, leading to a loss of functionality and potentially causing a safety hazard.",
+      "symptoms": [
+        "The inverter overcharges the coach batteries above 16 volts",
+        "causing damage to electronic instruments",
+        "and preventing the motorhome from restarting."
+      ],
+      "odiNumbers": [
+        "10229978"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Engine Restart Failure",
+      "impact": "The intermittent engine restart failure can leave the driver stranded, causing inconvenience and potentially leading to safety risks, especially if the motorhome is left unattended on a busy road.",
+      "symptoms": [
+        "The motorhome fails to restart after being driven and turned off",
+        "requiring towing to a dealership",
+        "and the dealership is unable to duplicate the problem."
+      ],
+      "odiNumbers": [
+        "10083281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Propane Tank Mounting Bracket Failure",
+      "impact": "The failure of the propane tank mounting bracket can cause a crack in the tank, leading to a propane leak, which can result in a fire or explosion, posing a significant risk to the occupants and other road users.",
+      "symptoms": [
+        "Audible propane leak",
+        "visible crack in the tank",
+        "propane smell",
+        "loss of propane pressure",
+        "tank rupture."
+      ],
+      "odiNumbers": [
+        "11460901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

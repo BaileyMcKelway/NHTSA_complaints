@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Malformation or Restriction",
+      "impact": "The inability to fill the fuel tank to its full capacity can lead to frequent refueling, reduced fuel efficiency, and potentially environmental harm and vehicle emission control damage.",
+      "symptoms": [
+        "The fuel tank can only be filled to 9-10 gallons",
+        "even when the gauge reads empty",
+        "despite the tank's advertised capacity of 14.5 gallons; the fuel pump handle/nozzle clicks off early",
+        "indicating the tank is not full; the vehicle's range is reduced",
+        "and frequent refueling is necessary."
+      ],
+      "odiNumbers": [
+        "11375813",
+        "11301909",
+        "11290880",
+        "11233443",
+        "11230375",
+        "11229761",
+        "11229116",
+        "11222043",
+        "11221951",
+        "11221991",
+        "11221485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Resistance and Failure",
+      "impact": "The failure of the brake pedal to respond properly can lead to accidents, injuries, and damage to the vehicle, as the driver may not be able to stop the vehicle in time.",
+      "symptoms": [
+        "The brake pedal requires excessive force to stop the vehicle",
+        "the brake pedal fails to respond when depressed",
+        "the brake pedal is depressed to the floorboard",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle swerves or loses control."
+      ],
+      "odiNumbers": [
+        "11555224",
+        "11258524",
+        "11234732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Handle Failure",
+      "impact": "The failure of the fuel pump handle can prevent the vehicle from being refueled, leaving the driver stranded and potentially causing safety risks.",
+      "symptoms": [
+        "The fuel pump handle clicks off inadvertently while attempting to refuel the vehicle",
+        "preventing the vehicle from being refueled."
+      ],
+      "odiNumbers": [
+        "11520465"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Leak and Fuel Sending Unit Failure",
+      "impact": "The fuel leak and fuel sending unit failure can cause fuel to leak onto the floor, creating a fire hazard and potential safety risks.",
+      "symptoms": [
+        "Fuel leaking onto the floor under the fuel filler neck",
+        "no warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11513091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inaccurate Fuel Tank Capacity and Fuel Gauge Readings",
+      "impact": "The inaccurate fuel tank capacity and fuel gauge readings can cause drivers to run out of fuel unexpectedly, leading to safety risks and potentially leaving them stranded.",
+      "symptoms": [
+        "The fuel tank capacity is listed as 14.5 gallons but can only fill to approximately 9 gallons",
+        "the \"miles to empty\" reading on the fuel gauge is inaccurate",
+        "the actual gas in the tank is much lower than the vehicle's reading."
+      ],
+      "odiNumbers": [
+        "11321108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

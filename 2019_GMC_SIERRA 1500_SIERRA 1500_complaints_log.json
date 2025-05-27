@@ -1,0 +1,522 @@
+{
+  "totalComplaints": 249,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 27,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Brake Control Module (EBCM) Failure",
+      "impact": "The failure of the EBCM can cause the vehicle to suddenly brake or lose braking ability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly brakes or slows down without warning",
+        "the brake pedal is hard to press",
+        "the brake pedal feels spongy",
+        "the vehicle's speed is limited to 62 mph or less",
+        "and warning messages such as \"Service ESC\" and \"Brake System Failure\" appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11529427",
+        "11491261",
+        "11413944",
+        "11309954",
+        "11308229",
+        "11307699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal is hard to press",
+        "the brake pedal feels spongy",
+        "the vehicle's brakes lock up or fail to engage",
+        "and warning messages such as \"Service Brake Monitor\" and \"Brake Failure\" appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11532538",
+        "11521625",
+        "11481028",
+        "11471938",
+        "11450961",
+        "11326035",
+        "11322264",
+        "11320384",
+        "11320460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Trailer Brake System Failure",
+      "impact": "The failure of the trailer brake system can cause the vehicle to lose control or crash, especially when towing a trailer.",
+      "symptoms": [
+        "Warning messages such as \"Service Trailer Brake System\" appear on the dashboard",
+        "and the trailer brakes may not engage or may engage unexpectedly."
+      ],
+      "odiNumbers": [
+        "11417820",
+        "11309954",
+        "11307699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose braking ability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal is hard to press",
+        "or the brake pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "11555867",
+        "11308509",
+        "11308229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping/Jerking/Hesitation",
+      "impact": "The transmission slipping, jerking, or hesitation can cause loss of power, unexpected acceleration, and difficulty shifting gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission slips or jerks when shifting gears",
+        "hesitation when accelerating",
+        "hard shifting",
+        "sudden loss of power",
+        "feeling of being rear-ended."
+      ],
+      "odiNumbers": [
+        "11549389",
+        "11549469",
+        "11533073",
+        "11491481",
+        "11489057",
+        "11475365",
+        "11467077",
+        "11461910",
+        "11460511",
+        "11457221",
+        "11449575",
+        "11448966",
+        "11446954",
+        "11442039",
+        "11418280",
+        "11418251",
+        "11413512",
+        "11406080",
+        "11404565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Cooler Line Failure",
+      "impact": "The failure of the oil cooler line can cause loss of oil pressure, engine damage, and potentially lead to an engine failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil cooler line detachment",
+        "loss of oil pressure",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "11531861",
+        "11477042"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause difficulty shifting gears, loss of power, and potentially lead to an accident or leave the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11590962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transfer Case Module Failure",
+      "impact": "The failure of the transfer case module can cause loss of power, unexpected shutdown, and potentially lead to an accident or leave the driver stranded.",
+      "symptoms": [
+        "Unexpected shutdown",
+        "loss of power",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11575472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shift to Park Message",
+      "impact": "The shift to park message can cause confusion, difficulty shifting gears, and potentially lead to an accident or leave the driver stranded.",
+      "symptoms": [
+        "Shift to park message displayed",
+        "abnormal beeping sound",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "11566204",
+        "11537167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Leak Issues",
+      "impact": "Water leaks can cause electrical issues, mold growth, and safety hazards.",
+      "symptoms": [
+        "Water leaking into the back cab",
+        "moldy smell",
+        "water damage to electrical components."
+      ],
+      "odiNumbers": [
+        "11554368",
+        "11492905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can lead to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Brake system failure warnings",
+        "loss of braking ability",
+        "ABS light illumination",
+        "brake pedal going to the floor."
+      ],
+      "odiNumbers": [
+        "11550005",
+        "11518659",
+        "11465470",
+        "11306185",
+        "11301677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical Issues",
+      "impact": "Electrical issues can cause fires, damage to electrical components, and safety hazards.",
+      "symptoms": [
+        "Burning odor",
+        "smoke",
+        "electrical shorts",
+        "rear window defogger malfunction",
+        "alarm codes."
+      ],
+      "odiNumbers": [
+        "11531927",
+        "11496962",
+        "11349512",
+        "11308553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "Infotainment system malfunction can cause distractions, safety hazards, and inconvenience.",
+      "symptoms": [
+        "Infotainment screen malfunction",
+        "camera malfunction",
+        "volume control issues",
+        "phone feature malfunction."
+      ],
+      "odiNumbers": [
+        "11349512",
+        "11308553",
+        "11315710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission and Engine Issues",
+      "impact": "Transmission and engine issues can cause loss of power, stalling, and safety hazards.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "transmission malfunction",
+        "lifters failure",
+        "camshaft failure."
+      ],
+      "odiNumbers": [
+        "11474551",
+        "11458860",
+        "11441653",
+        "11338266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Shift to Park Issues",
+      "impact": "Shift to park issues can cause inconvenience, safety hazards, and damage to the vehicle.",
+      "symptoms": [
+        "Shift to park warning",
+        "inability to shift into park",
+        "transmission malfunction."
+      ],
+      "odiNumbers": [
+        "11458860",
+        "11388388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Rear Vision Module Failure",
+      "impact": "Rear vision module failure can cause safety hazards, inconvenience, and damage to the vehicle.",
+      "symptoms": [
+        "Rear vision module failure",
+        "\"Service rear vision system\" warning."
+      ],
+      "odiNumbers": [
+        "11489355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Clutch and Hydraulic System Failure",
+      "impact": "Clutch and hydraulic system failure can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Clutch pedal malfunction",
+        "hydraulic system failure",
+        "inability to shift gears."
+      ],
+      "odiNumbers": [
+        "11574417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake failure warning",
+        "brake pedal goes to the floor",
+        "delayed braking response",
+        "loss of power steering",
+        "and warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "11499667",
+        "11495342",
+        "11320093",
+        "11308470",
+        "11298496",
+        "11282131",
+        "11269092",
+        "11265555",
+        "11234860",
+        "11221288",
+        "11193906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to be difficult to steer, leading to accidents or injuries.",
+      "symptoms": [
+        "Power steering failure warning",
+        "loss of power steering",
+        "stiff steering wheel",
+        "and difficulty turning the vehicle."
+      ],
+      "odiNumbers": [
+        "11474987",
+        "11329135",
+        "11328086",
+        "11288153",
+        "11269092",
+        "11234860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Stability Control (ESC) Failure",
+      "impact": "The failure of the ESC system can cause the vehicle to lose traction and stability, leading to accidents or injuries.",
+      "symptoms": [
+        "ESC failure warning",
+        "loss of traction",
+        "and difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "11499667",
+        "11495342",
+        "11320093",
+        "11308470",
+        "11298496",
+        "11282131",
+        "11269092",
+        "11265555",
+        "11221288",
+        "11193906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Wheel Slippage",
+      "impact": "The slippage of the steering wheel can cause the vehicle to be difficult to control, leading to accidents or injuries.",
+      "symptoms": [
+        "Steering wheel slippage",
+        "loss of steering control",
+        "and difficulty turning the vehicle."
+      ],
+      "odiNumbers": [
+        "11396505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air in Brake Fluid System",
+      "impact": "The presence of air in the brake fluid system can cause the brake system to fail, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake failure warning",
+        "brake pedal goes to the floor",
+        "and delayed braking response."
+      ],
+      "odiNumbers": [
+        "11495342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lifter Failure",
+      "impact": "The failure of the lifters can cause the engine to seize, leading to a loss of power, rough driving, and potentially causing an accident.",
+      "symptoms": [
+        "Loud ticking noise",
+        "loss of power",
+        "rough driving",
+        "engine seizure."
+      ],
+      "odiNumbers": [
+        "11539535",
+        "11511984",
+        "11508370",
+        "11502735",
+        "11477555",
+        "11446689",
+        "11418108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Oil Cooler Line Failure",
+      "impact": "The failure of the engine oil cooler line can cause the engine to lose oil pressure, leading to engine damage, seizure, or even fire.",
+      "symptoms": [
+        "Low oil pressure warning light",
+        "oil leak",
+        "engine seizure",
+        "loud noise."
+      ],
+      "odiNumbers": [
+        "11573739",
+        "11543828",
+        "11520350",
+        "11517576",
+        "11508382",
+        "11504522",
+        "11495642",
+        "11460532",
+        "11448369",
+        "11205697",
+        "11193645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to lose power, leading to a loss of control, potentially causing an accident.",
+      "symptoms": [
+        "Engine seizure",
+        "loss of power",
+        "loud noise."
+      ],
+      "odiNumbers": [
+        "11514868",
+        "11242742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Fuel Sensor Failure",
+      "impact": "The failure of the fuel sensor can cause the check engine warning light to illuminate, potentially leading to engine damage or failure.",
+      "symptoms": [
+        "Check engine warning light."
+      ],
+      "odiNumbers": [
+        "11343062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Transmission Module Failure",
+      "impact": "The failure of the transmission module can cause the vehicle to lose power, leading to a loss of control, potentially causing an accident.",
+      "symptoms": [
+        "Vehicle seizure",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11242742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

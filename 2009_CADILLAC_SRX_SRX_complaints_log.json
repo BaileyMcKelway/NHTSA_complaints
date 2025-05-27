@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injury or fatality in the event of an accident, as the airbags may not deploy or may deploy unexpectedly.",
+      "symptoms": [
+        "The service airbag indicator illuminates consistently",
+        "airbags malfunction and deploy unexpectedly",
+        "airbags fail to deploy in the event of an accident",
+        "passenger airbag does not activate when a passenger is seated",
+        "airbag sensor does not register the presence of a passenger."
+      ],
+      "odiNumbers": [
+        "10761456",
+        "10621011",
+        "10509932",
+        "10508881",
+        "10371799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission and Transfer Case Issues",
+      "impact": "The problems with the transmission and transfer case can cause the vehicle to jerk, shudder, or lose power, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle jerks or shudders heavily when accelerating",
+        "the vehicle bucks or shutters at certain speeds",
+        "the \"Reduce Engine Speed\" warning appears on the dashboard",
+        "the vehicle will not let you drive over a certain speed."
+      ],
+      "odiNumbers": [
+        "11163289",
+        "10839792",
+        "10794678",
+        "10616085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transfer Case Chain Failure",
+      "impact": "The failure of the transfer case chain can cause the vehicle to lose power, jerk, or shudder, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The chain in the transfer case becomes loose",
+        "the chain skips on the sprockets",
+        "the vehicle jerks or shudders when accelerating",
+        "especially when under load",
+        "the vehicle may roll backwards uphill while trying to accelerate."
+      ],
+      "odiNumbers": [
+        "10616085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Sensor Failure",
+      "impact": "The failure of the accelerator pedal sensor can cause the vehicle to decelerate independently, fail to respond to accelerator pedal input, or even accelerate unexpectedly, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The \"Reduce Engine Speed\" warning message illuminates",
+        "the vehicle decelerates independently",
+        "the accelerator pedal is depressed but the vehicle fails to respond",
+        "the vehicle accelerates unexpectedly",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10899424",
+        "10794674",
+        "10702817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

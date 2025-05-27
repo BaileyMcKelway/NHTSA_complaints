@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY",
+    "SEAT BELTS",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, loss of power, and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle runs extremely hot",
+        "the dashboard is extremely hot",
+        "the coolant level is sufficient but the engine temperature is high",
+        "a cloudy substance enters the car through the vents along with a peculiar odor."
+      ],
+      "odiNumbers": [
+        "853129",
+        "710797",
+        "810311",
+        "510264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ECU Failure",
+      "impact": "The failure of the Engine Control Unit (ECU) can cause the vehicle to lose power, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The computer system malfunctions",
+        "the oil light and battery light come on",
+        "the vehicle loses power intermittently."
+      ],
+      "odiNumbers": [
+        "710797",
+        "853129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause accidents or damage to other components, and can also lead to carbon monoxide poisoning if the exhaust system leaks into the passenger compartment.",
+      "symptoms": [
+        "The muffler system falls apart",
+        "hangs up on the rear tire",
+        "causes an accident."
+      ],
+      "odiNumbers": [
+        "488977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Repair of Recalled Defects",
+      "impact": "Failure to properly repair recalled defects can lead to continued safety risks and inconvenience to the driver, potentially causing accidents or other harm.",
+      "symptoms": [
+        "The problem persists despite multiple repair attempts",
+        "the driver experiences continued issues with the vehicle."
+      ],
+      "odiNumbers": [
+        "802666"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Heater Hose Failure",
+      "impact": "A bent heater hose can cause the defroster to fail, reducing visibility and increasing the risk of accidents, especially in low-visibility conditions.",
+      "symptoms": [
+        "The defroster fails to work properly",
+        "occasionally obstructing the driver's vision."
+      ],
+      "odiNumbers": [
+        "505230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Seat Belt Locking Issue",
+      "impact": "The sudden and unexpected locking of the driver's side seat belt can cause the driver to lose control of the vehicle, leading to accidents or injuries.",
+      "symptoms": [
+        "The driver's side seat belt locks suddenly and without warning",
+        "the seat belt becomes stuck in the locked position",
+        "the driver is unable to move freely while driving",
+        "the seat belt warning light may illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "975547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while driving, obstructing the driver's view, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The hood latch comes loose",
+        "the plastic latch breaks",
+        "the hood flies open while driving",
+        "the windshield is struck and broken",
+        "the hood is buckled",
+        "the hinges are broken."
+      ],
+      "odiNumbers": [
+        "965797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

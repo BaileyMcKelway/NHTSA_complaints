@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "EXTERIOR LIGHTING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to failure of the airbags to deploy in the event of a crash, potentially causing serious injury or fatalities.",
+      "symptoms": [
+        "The airbag light illuminates on the dashboard",
+        "the airbag does not deploy or partially deploys in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10002418",
+        "8012908",
+        "607932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unavailability of Airbag On/Off Switch",
+      "impact": "The lack of an airbag on/off switch can prevent owners from disabling the airbag system, potentially causing harm to passengers, especially children, who may be at risk due to the airbag deployment.",
+      "symptoms": [
+        "Unable to install airbag on/off switch due to lack of parts or unavailability."
+      ],
+      "odiNumbers": [
+        "607932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Temperature-Related Headlight Malfunction",
+      "impact": "The unintended activation of headlights in cold temperatures can cause battery drain, leading to difficulties in starting the vehicle, and potentially stranding the driver.",
+      "symptoms": [
+        "Headlights turn on by themselves when the temperature is 30 degrees or lower",
+        "despite no input from the driver; battery drain occurs as a result."
+      ],
+      "odiNumbers": [
+        "10246866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ball Joint Failure (Recall 99V-069)",
+      "impact": "The failure of the ball joints can cause the vehicle to lose control, leading to accidents, injuries, and fatalities. The lack of airbag deployment and headrest failure can exacerbate the severity of injuries.",
+      "symptoms": [
+        "Loss of vehicle control",
+        "uneven tire wear",
+        "loose or wandering steering",
+        "clunking or rattling noises from the front suspension."
+      ],
+      "odiNumbers": [
+        "552941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in the event of a collision can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "No airbag deployment during a collision",
+        "crash sensors malfunctioning",
+        "wiring or electrical issues affecting airbag deployment."
+      ],
+      "odiNumbers": [
+        "552941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Headrest Failure",
+      "impact": "The failure of the headrest can lead to serious head and neck injuries, including lacerations and concussions.",
+      "symptoms": [
+        "Headrest breaks or splits",
+        "headrest posts fail",
+        "headrest padding material tears or ruptures",
+        "headrest does not provide adequate support or protection."
+      ],
+      "odiNumbers": [
+        "552941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

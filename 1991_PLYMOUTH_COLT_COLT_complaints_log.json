@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt can cause the belt to malfunction, leading to inadequate restraint in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt tightens too much and over-retracts",
+        "the seat belt fails intermittently",
+        "the seat belt retracts too tightly and chokes the occupants",
+        "the seat belt buckle fails",
+        "the motor belt part of the seat belt fails."
+      ],
+      "odiNumbers": [
+        "516865",
+        "810251",
+        "806898",
+        "506597",
+        "983911"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Blowout",
+      "impact": "A tire blowout can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. In this case, the vehicle was totaled, and although there were no injuries, the potential for harm was high.",
+      "symptoms": [
+        "The vehicle sways or pulls to one side",
+        "loss of control",
+        "sudden loud noise",
+        "rapid air loss",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "870334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Firestone FR360 Tire Failure",
+      "impact": "The failure of the Firestone FR360 tire can lead to a blowout, causing the vehicle to lose control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle sways or pulls to one side",
+        "loss of control",
+        "sudden loud noise",
+        "rapid air loss",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "870334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front and Rear Axle Assembly Failure",
+      "impact": "The failure of the front and rear axle assemblies can cause loss of vehicle control, leading to accidents, and can also result in costly repairs.",
+      "symptoms": [
+        "Unusual noises or vibrations from the front or rear axle",
+        "difficulty steering",
+        "uneven tire wear",
+        "pulling to one side while driving",
+        "loss of power to the wheels."
+      ],
+      "odiNumbers": [
+        "809292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

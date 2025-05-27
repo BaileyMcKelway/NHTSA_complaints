@@ -1,0 +1,230 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Failure",
+      "impact": "The failure of the ESC system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the vehicle pulls to one side",
+        "the vehicle loses control",
+        "the airbags do not deploy."
+      ],
+      "odiNumbers": [
+        "11205591",
+        "11205600",
+        "11205605",
+        "11170277",
+        "11097999",
+        "11033086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the vehicle pulls to one side",
+        "the vehicle loses control",
+        "the airbags do not deploy."
+      ],
+      "odiNumbers": [
+        "11485364",
+        "11205591",
+        "11205600",
+        "11205605",
+        "11097999",
+        "11033086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Safety System Failure",
+      "impact": "The failure of the safety system can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle's safety system takes control of the vehicle",
+        "causing the steering to lock up",
+        "the vehicle to pull to one side",
+        "and the airbags to not deploy."
+      ],
+      "odiNumbers": [
+        "11205591",
+        "11205600",
+        "11205605",
+        "11170277",
+        "11097999",
+        "11033086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Parasitic Battery Drain",
+      "impact": "The parasitic battery drain can cause the vehicle to be rendered inoperable, leaving the driver stranded, which can pose a major safety hazard, especially in unsafe areas.",
+      "symptoms": [
+        "The battery dies after short periods of non-use",
+        "the vehicle is unable to start",
+        "the battery needs to be replaced multiple times",
+        "the battery is drained even when no lights are left on",
+        "the vehicle needs to be jump-started multiple times."
+      ],
+      "odiNumbers": [
+        "11446839",
+        "11446144",
+        "11432906",
+        "11416770",
+        "11416671"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Turbocharger-Related Electrical System Overload",
+      "impact": "The extreme electrical system overload caused by the turbocharger engaging can lead to erratic vehicle performance, causing the vehicle to stutter, fluctuate in speed, and potentially overheat, which can cause a tragic situation, especially in heavy traffic.",
+      "symptoms": [
+        "The vehicle stutters",
+        "speed fluctuates",
+        "the turbocharger engages dramatically",
+        "the electrical system is overloaded",
+        "the cooling system is overloaded",
+        "the vehicle almost overheats."
+      ],
+      "odiNumbers": [
+        "11354086"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Rod Bearing Failure",
+      "impact": "Engine rod bearing failure can cause sudden loss of power and control, leading to accidents or leaving the driver stranded. This failure can also result in catastrophic engine damage, requiring expensive repairs or replacement.",
+      "symptoms": [
+        "Engine rod knock",
+        "loss of power",
+        "loss of control",
+        "sudden failure of engine components",
+        "check engine lights illuminating",
+        "reduced vehicle performance."
+      ],
+      "odiNumbers": [
+        "11579828",
+        "11564282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "FA20DIT Engine Failure",
+      "impact": "The failure of the FA20DIT engine can cause sudden loss of power and control, leading to accidents or leaving the driver stranded. This failure can also result in catastrophic engine damage, requiring expensive repairs or replacement.",
+      "symptoms": [
+        "Engine failure",
+        "rod bearing failure",
+        "loss of power",
+        "loss of control",
+        "sudden failure of engine components",
+        "check engine lights illuminating",
+        "reduced vehicle performance."
+      ],
+      "odiNumbers": [
+        "11564282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Crankshaft Position Camshaft Position Correlation Bank 1 Sensor A Failure",
+      "impact": "The failure of the crankshaft position camshaft position correlation bank 1 sensor A can cause reduced vehicle performance, loss of power, and illumination of check engine lights, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Check engine lights illuminating",
+        "traction control light illuminating",
+        "ABS light illuminating",
+        "hill decent assist light illuminating",
+        "cruise control icon flashing",
+        "reduced vehicle performance",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11154864"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Leaking Fluid and Slippage",
+      "impact": "The transmission leaking fluid and slippage can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission fluid leaking",
+        "slippage while driving",
+        "clutch pedal feeling soft or spongy",
+        "clutch pedal sticking to the floor",
+        "delayed return of the clutch pedal to its normal position",
+        "sudden loss of pressure on the clutch pedal."
+      ],
+      "odiNumbers": [
+        "11527400",
+        "11340539",
+        "11340541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Throw-Out Bearing and Fork in 6-Speed Manual Transmission",
+      "impact": "The defective throw-out bearing and fork can cause the clutch to burn out, leading to complete failure of the transmission, resulting in accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Loud chirping noise from the transmission",
+        "clutch pedal feeling soft or spongy",
+        "clutch pedal sticking to the floor",
+        "delayed return of the clutch pedal to its normal position",
+        "sudden loss of pressure on the clutch pedal",
+        "vehicle revving up and slipping",
+        "vehicle stopping in the road."
+      ],
+      "odiNumbers": [
+        "11340539",
+        "11340541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Knocking and Loss of Power",
+      "impact": "The engine knocking and loss of power can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine knocking",
+        "loss of power",
+        "hesitation",
+        "surging",
+        "and fluctuating boost gauge readings."
+      ],
+      "odiNumbers": [
+        "11203653",
+        "11104249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

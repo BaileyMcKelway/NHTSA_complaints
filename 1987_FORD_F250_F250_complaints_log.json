@@ -1,0 +1,283 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause electrical shorts, leading to fires in the steering column, underdash, or dashboard, which can result in vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "The steering column becomes hot",
+        "the ignition switch shorts out",
+        "the vehicle catches on fire",
+        "the wiring harness under the dash shorts",
+        "the starter engages when the brake is stepped on",
+        "the ignition switch does not activate",
+        "the dashboard and steering wheel are damaged by fire."
+      ],
+      "odiNumbers": [
+        "507096",
+        "811399",
+        "800107",
+        "986058",
+        "504986",
+        "984511",
+        "504119",
+        "504242",
+        "983654",
+        "983512",
+        "983023"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Overheating of Fluid",
+      "impact": "Brake failure can cause extended stopping distances, accidents, or loss of control, especially when towing or driving in mountainous areas.",
+      "symptoms": [
+        "Brakes fade out",
+        "pedal travels to the floor",
+        "loss of effectiveness",
+        "ABS light comes on",
+        "brake fluid leak."
+      ],
+      "odiNumbers": [
+        "539389",
+        "544400",
+        "816965",
+        "806381",
+        "985692",
+        "983242",
+        "967008"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Master cylinder failure can cause brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "brake failure",
+        "ABS light comes on."
+      ],
+      "odiNumbers": [
+        "544400",
+        "806381",
+        "983242"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "Brake hydraulic system failure can cause brake failure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "brake failure",
+        "ABS light comes on",
+        "brake fluid leak."
+      ],
+      "odiNumbers": [
+        "983242",
+        "962206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "Cruise control malfunction can cause loss of control, especially when combined with brake failure.",
+      "symptoms": [
+        "Cruise control gets stuck",
+        "brakes do not work",
+        "vehicle cannot be stopped."
+      ],
+      "odiNumbers": [
+        "840687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Engine Shut-Off",
+      "impact": "The sudden shut-off of the engine can cause loss of power steering and brakes, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine cuts off without warning",
+        "the vehicle stalls",
+        "the vehicle takes an extended period to restart (in this case",
+        "5 hours)."
+      ],
+      "odiNumbers": [
+        "816712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling Fan Failure",
+      "impact": "The failure of the cooling fan can cause engine overheating, leading to engine damage or even engine blow-up.",
+      "symptoms": [
+        "The fan breaks",
+        "a piece of the fan flies through the hood of the vehicle",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "544400",
+        "522400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause loss of power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine blows up",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "544400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause damage to the vehicle and surrounding property, and can potentially harm the occupants.",
+      "symptoms": [
+        "The vehicle catches on fire while parked."
+      ],
+      "odiNumbers": [
+        "986561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Lock-Up",
+      "impact": "The transmission lock-up can cause loss of control, leading to accidents.",
+      "symptoms": [
+        "The transmission locks up without warning",
+        "making it difficult or impossible to control the vehicle."
+      ],
+      "odiNumbers": [
+        "826290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Master Cylinder Failure",
+      "impact": "The failure of the clutch master cylinder can cause the clutch to fail to disengage properly, leading to hazardous driving situations, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "748330",
+        "800387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Assembly/Bell Housing Failure",
+      "impact": "The failure of the clutch assembly or bell housing can cause the clutch to fail to disengage properly, leading to hazardous driving situations, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The clutch assembly or bell housing cracks",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "484698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lightweight Design of Drive Train",
+      "impact": "The lightweight design of the drive train can cause the transfer case to crack, leading to hazardous driving situations, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The transfer case cracks",
+        "the clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "484698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improper Shifting of Clutch Assembly",
+      "impact": "Improper shifting of the clutch assembly can cause the clutch to fail to disengage properly, leading to hazardous driving situations, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "961472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Line to Carburator Float Bowl Fitting Failure",
+      "impact": "The failure of the fuel line to carburator float bowl fitting can cause fuel leaks, which can lead to vehicle fires, especially when the fuel leaks onto the hot manifold.",
+      "symptoms": [
+        "Fuel leaks between the fuel line and front float bowl",
+        "fuel leaks onto the hot manifold",
+        "fuel spills while driving."
+      ],
+      "odiNumbers": [
+        "736773",
+        "705686",
+        "512064",
+        "962206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

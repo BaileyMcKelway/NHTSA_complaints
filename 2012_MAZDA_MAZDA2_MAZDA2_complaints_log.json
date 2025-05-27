@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "SEATS",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Rack Failure",
+      "impact": "The failure of the steering rack can cause loss of steering control, making it difficult to maneuver the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Clunking noise when turning",
+        "\"hitch\" or \"catch\" in the steering when turning left or right",
+        "steering becomes stiff or difficult to turn",
+        "loss of steering control",
+        "vehicle swerves or wanders while driving."
+      ],
+      "odiNumbers": [
+        "11322956",
+        "10861541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Takata Airbag Inflator Failure",
+      "impact": "The failure of the Takata airbag inflator can cause the airbag to deploy improperly, leading to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is illuminated on the dashboard",
+        "the airbag deploys unexpectedly",
+        "the airbag does not deploy in the event of a crash",
+        "the airbag deploys with excessive force."
+      ],
+      "odiNumbers": [
+        "11024202",
+        "11013015",
+        "10893445",
+        "10790611",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Vibration and Rotor Failure",
+      "impact": "The vibration when braking can cause loss of control, accidents, and increased stopping distance, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Vibration in steering when braking",
+        "especially when braking from high speeds",
+        "violent vibration in steering when braking from highway speeds to an exit ramp."
+      ],
+      "odiNumbers": [
+        "10605450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pedal Design and Interference",
+      "impact": "The close proximity of the brake and accelerator pedals can cause foot interference, leading to unintended acceleration or braking, which can result in accidents or injuries.",
+      "symptoms": [
+        "Foot gets caught between the brake and accelerator pedals",
+        "metal lever for the brake extends outward toward the accelerator",
+        "foot becomes stuck under the brake pedal."
+      ],
+      "odiNumbers": [
+        "10456610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Detachment",
+      "impact": "The sudden detachment of the driver's seat can cause the driver to lose control of the vehicle, leading to accidents, serious injuries, or even fatalities.",
+      "symptoms": [
+        "The driver's seat comes loose or completely detaches from the frame",
+        "the driver is rotated or thrown backwards",
+        "loss of control of the vehicle."
+      ],
+      "odiNumbers": [
+        "11575635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Warped Brake Rotor and Airbag Sensor Issue",
+      "impact": "The warped brake rotor can cause violent vibrations in the steering wheel when braking, leading to a loss of control and increased risk of accidents. The airbag sensor issue can also lead to faulty airbag deployment, which can result in serious injury or fatality.",
+      "symptoms": [
+        "Violent vibrations in the steering wheel when braking",
+        "especially when braking from high speeds",
+        "airbag sensor light is on",
+        "repeated issues despite dealer attempts to repair."
+      ],
+      "odiNumbers": [
+        "11241071"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

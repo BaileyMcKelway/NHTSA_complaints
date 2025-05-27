@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause loss of vehicle control, unexpected downshifting, and even engine compartment fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The transmission downshifts unexpectedly",
+        "the transmission fails to engage",
+        "the transmission slips or hesitates",
+        "the transmission leaks fluid",
+        "the vehicle experiences a sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10078709",
+        "802165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Fluid Leak",
+      "impact": "The transmission fluid leak can cause a fire, especially if the fluid comes into contact with hot engine components, which can lead to engine compartment fires, injuries, or fatalities.",
+      "symptoms": [
+        "Transmission fluid leaks onto the ground or engine components",
+        "the transmission fluid level is low",
+        "the transmission is overheating",
+        "the vehicle is experiencing a burning smell."
+      ],
+      "odiNumbers": [
+        "802165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause a loss of vehicle braking and steering, leading to a significant increase in the risk of accidents.",
+      "symptoms": [
+        "Loss of power steering assist",
+        "difficulty steering",
+        "increased effort required to steer",
+        "loss of vehicle braking",
+        "vehicle stalling."
+      ],
+      "odiNumbers": [
+        "865575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Vehicle stalling",
+        "loss of engine power",
+        "difficulty starting the engine",
+        "engine sputtering or hesitation."
+      ],
+      "odiNumbers": [
+        "518069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Gear Box Failure",
+      "impact": "The failure of the steering gear box can cause a loss of vehicle steering, leading to a significant increase in the risk of accidents.",
+      "symptoms": [
+        "Difficulty steering",
+        "loss of power steering assist",
+        "increased effort required to steer",
+        "uneven tire wear",
+        "noise or vibration when steering."
+      ],
+      "odiNumbers": [
+        "518069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fiberglass Siding Cracks and Rust",
+      "impact": "Cracks in the fiberglass siding and rusted areas underneath can lead to water intrusion, causing damage to the underlying structure, and potentially compromising the vehicle's integrity and safety.",
+      "symptoms": [
+        "Cracks in the front corners of the fiberglass siding",
+        "rusted areas underneath the shingles of siding where paint has worn off."
+      ],
+      "odiNumbers": [
+        "478677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Door Hinge Failure",
+      "impact": "The failure of the hinges on the engine compartment door can cause the hood to become loose, potentially obstructing the driver's view or causing an accident.",
+      "symptoms": [
+        "Hinges came off engine compartment door",
+        "hood became loose."
+      ],
+      "odiNumbers": [
+        "478677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

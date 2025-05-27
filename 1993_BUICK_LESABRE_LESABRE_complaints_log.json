@@ -1,0 +1,407 @@
+{
+  "totalComplaints": 243,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Brake Cylinder Failure",
+      "impact": "The failure of the master brake cylinder can cause the brake pedal to travel to the floor, leading to extended stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "sudden loss of brake pressure",
+        "ABS warning light illuminates",
+        "vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "10346237",
+        "547516",
+        "822751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to travel to the floor, leading to extended stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "sudden loss of brake pressure",
+        "brake fluid leaks",
+        "corrosion in brake lines",
+        "ABS warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10316051",
+        "10034097",
+        "8023938",
+        "754680",
+        "730009",
+        "547516",
+        "715260",
+        "822751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction, leading to accidents, loss of control, or extended stopping distances.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "vehicle takes longer to stop",
+        "sudden loss of brake pressure",
+        "vibration when applying brakes",
+        "warped front rotors."
+      ],
+      "odiNumbers": [
+        "843901",
+        "843640",
+        "842878",
+        "829249",
+        "828362",
+        "826587",
+        "824567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Proportional Valve Failure",
+      "impact": "The failure of the brake proportional valve can cause the brake pedal to travel to the floor, leading to extended stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "sudden loss of brake pressure",
+        "ABS warning light illuminates."
+      ],
+      "odiNumbers": [
+        "547516",
+        "842878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Brake Cylinder Failure",
+      "impact": "The failure of the rear brake cylinder can cause the brake pedal to travel to the floor, leading to extended stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "sudden loss of brake pressure",
+        "ABS warning light illuminates."
+      ],
+      "odiNumbers": [
+        "547516",
+        "715260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Cooling Unit and Lines Failure",
+      "impact": "The failure of the transmission cooling unit and lines can cause transmission fluid leaks, engine fires, and loss of vehicle control, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Transmission fluid leaks",
+        "white smoke emanating from under the hood",
+        "smell of antifreeze",
+        "loud clanking noise while shifting",
+        "hesitation to accelerate",
+        "and difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10176529",
+        "10170628",
+        "10087870",
+        "10071704",
+        "566408",
+        "720384",
+        "855636",
+        "715254",
+        "549136",
+        "835550",
+        "833627",
+        "543337",
+        "542802",
+        "538482",
+        "536954",
+        "536790",
+        "817054",
+        "812447",
+        "807394",
+        "509171",
+        "984977",
+        "983915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause loss of vehicle control, hesitation to accelerate, and difficulty shifting gears, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Vehicle does not accelerate when pressing the accelerator pedal",
+        "loud clanking noise while shifting",
+        "hesitation to accelerate",
+        "and difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10087870",
+        "10071704",
+        "8010548",
+        "715254",
+        "835550",
+        "543337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Motor-Transmission Mount Failure",
+      "impact": "The failure of the motor-transmission mount can cause loss of steering and braking, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The rear of the mount drops to the pavement",
+        "resulting in a complete loss of steering and braking."
+      ],
+      "odiNumbers": [
+        "10235132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Engine fire",
+        "smoke emanating from under the hood",
+        "and a burning smell."
+      ],
+      "odiNumbers": [
+        "566408",
+        "536790",
+        "536205",
+        "509171",
+        "983915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the vehicle to stall, leading to loss of control and potential accidents. It can also cause electrical system failures, leading to fires and injuries.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the alternator makes a noise",
+        "the battery fails",
+        "the electrical system fails",
+        "the vehicle loses power",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "740911",
+        "875063",
+        "547516",
+        "542802",
+        "531675",
+        "526113",
+        "605617",
+        "604360",
+        "518095",
+        "812704",
+        "515457",
+        "508415",
+        "507605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause the vehicle to stall, leading to loss of control and potential accidents. It can also cause electrical system failures, leading to fires and injuries.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the electrical system fails",
+        "the vehicle loses power",
+        "the vehicle catches fire",
+        "smoke comes out of the hood",
+        "flames enter the car through the air vent."
+      ],
+      "odiNumbers": [
+        "10099435",
+        "986288",
+        "978219",
+        "977602",
+        "976845",
+        "971245",
+        "962482"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Ignition system failure can cause the vehicle to stall, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the ignition lock cylinder fails",
+        "the spark plugs fail."
+      ],
+      "odiNumbers": [
+        "542802",
+        "483244",
+        "484389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause the vehicle to lose control, leading to potential accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine stalls while making a turn",
+        "the engine stalls when the tank is below a certain level."
+      ],
+      "odiNumbers": [
+        "483244",
+        "484389",
+        "971245"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause the vehicle to lose power and come to a sudden stop, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle shuts off without warning",
+        "the engine stalls",
+        "the vehicle loses power",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "10355726",
+        "8001100",
+        "820980",
+        "816280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Cooling System Failure",
+      "impact": "Failure of the transmission cooling system can cause the transmission to overheat, leading to premature wear and failure, and potentially causing the vehicle to stall or lose power.",
+      "symptoms": [
+        "The transmission is overheating",
+        "the transmission fluid level is low",
+        "the transmission is making a clicking sound",
+        "the vehicle is losing power."
+      ],
+      "odiNumbers": [
+        "10129715",
+        "844452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "Failure of the engine cooling system can cause the engine to overheat, leading to premature wear and failure, and potentially causing the vehicle to stall or lose power.",
+      "symptoms": [
+        "The engine is overheating",
+        "the coolant level is low",
+        "the vehicle is losing power",
+        "the engine is making unusual noises."
+      ],
+      "odiNumbers": [
+        "10129715",
+        "505298",
+        "601999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fires",
+      "impact": "Vehicle fires can cause damage to the vehicle and potentially harm occupants or bystanders.",
+      "symptoms": [
+        "The vehicle is on fire",
+        "smoke is coming from the engine compartment",
+        "flames are visible under the hood."
+      ],
+      "odiNumbers": [
+        "819062",
+        "818282",
+        "514101",
+        "509649",
+        "479699",
+        "504407",
+        "984136",
+        "983510",
+        "982620",
+        "979977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "Failure of the brake system can cause the vehicle to lose stopping power, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The ABS brake light is on",
+        "the vehicle is hard to stop",
+        "the brakes are making unusual noises."
+      ],
+      "odiNumbers": [
+        "816280"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Other Issues",
+      "impact": "Various other issues can cause the vehicle to malfunction or lose power, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The serpentine belt failed",
+        "the head gasket failed",
+        "the PCV valve failed",
+        "the washer rusted out",
+        "the transmission is rusted."
+      ],
+      "odiNumbers": [
+        "542802",
+        "847385",
+        "844452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

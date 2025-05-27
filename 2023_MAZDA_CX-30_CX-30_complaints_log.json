@@ -1,0 +1,174 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VISIBILITY/WIPER",
+    "UNKNOWN OR OTHER",
+    "SUSPENSION",
+    "LANE DEPARTURE"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes fail to engage",
+        "the vehicle rolls forward despite pressing the brake pedal",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal travels excessively",
+        "the brake warning indicator flashes",
+        "the emergency braking system deploys unnecessarily (phantom braking)."
+      ],
+      "odiNumbers": [
+        "11582495",
+        "11532740",
+        "11514744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Travel Concern",
+      "impact": "The excessive travel of the brake pedal can cause the driver to lose confidence in the braking system, leading to delayed or incomplete braking, which can result in accidents.",
+      "symptoms": [
+        "The brake pedal travels excessively",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal does not return to its normal position",
+        "the brake warning indicator flashes."
+      ],
+      "odiNumbers": [
+        "11532740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Phantom Braking",
+      "impact": "The unnecessary deployment of the emergency braking system can cause the vehicle to suddenly stop, leading to accidents, injuries, or fatalities, especially on high-speed roads.",
+      "symptoms": [
+        "The emergency braking system deploys unnecessarily",
+        "the brake warning indicator flashes",
+        "the vehicle comes to a complete stop without any objects in front of it."
+      ],
+      "odiNumbers": [
+        "11514744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Distortion and Wavy/Orange Peel Appearance",
+      "impact": "The distorted windshield can cause visual discomfort, dizziness, and impaired vision, which can lead to accidents or affect the driver's ability to operate the vehicle safely.",
+      "symptoms": [
+        "The windshield has a wavy/orange peel appearance",
+        "distorted view",
+        "blurry vision",
+        "dizzying effect",
+        "and impaired vision when looking at objects in front of the vehicle."
+      ],
+      "odiNumbers": [
+        "11542824",
+        "11581304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wiper can reduce visibility during rain or other weather conditions, increasing the risk of accidents or accidents.",
+      "symptoms": [
+        "The windshield wiper fails to clear water from the windshield",
+        "leaving the driver with impaired visibility."
+      ],
+      "odiNumbers": [
+        "11581304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccurate fuel gauge can cause drivers to run out of fuel unexpectedly, leading to safety risks, especially in unfamiliar areas, and potentially causing accidents or stranding.",
+      "symptoms": [
+        "The fuel gauge reading is non-linear",
+        "the fuel gauge reading is erroneous",
+        "the fuel level is unpredictable",
+        "running out of fuel unexpectedly",
+        "fuel gauge fluctuates or jumps erratically."
+      ],
+      "odiNumbers": [
+        "11579625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration with ActiveSense System Malfunction",
+      "impact": "The sudden unintended acceleration of the vehicle can lead to accidents, injuries, or fatalities, especially when the driver is attempting to brake or maneuver in tight spaces.",
+      "symptoms": [
+        "The vehicle suddenly and rapidly accelerates while the driver is pressing the brake pedal",
+        "often resulting in collision or near-collision incidents. The dashboard may display warnings such as \"ActiveSense system malfunction\" or \"ActiveSense advanced safety and driver support system may not operate correctly.\""
+      ],
+      "odiNumbers": [
+        "11567357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Blind Spot Monitoring System Malfunction",
+      "impact": "The malfunction of the blind spot monitoring system can cause unnecessary alerts, distractions, and potentially lead to accidents due to the driver's reliance on the system. The failure of the rear cross traffic warning system can increase the risk of accidents when reversing.",
+      "symptoms": [
+        "The blind spot monitoring system alerts constantly or unnecessarily",
+        "the rear cross traffic warning system fails to activate",
+        "the systems do not function as intended",
+        "false warnings or alerts are displayed."
+      ],
+      "odiNumbers": [
+        "11555691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Blind Spot Monitoring Sensor",
+      "impact": "A faulty blind spot monitoring sensor can cause the system to malfunction, leading to unnecessary alerts, distractions, and potentially accidents.",
+      "symptoms": [
+        "The blind spot monitoring system alerts constantly or unnecessarily",
+        "the system does not function as intended",
+        "false warnings or alerts are displayed."
+      ],
+      "odiNumbers": [
+        "11555691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Cross Traffic Warning System Failure",
+      "impact": "The failure of the rear cross traffic warning system can increase the risk of accidents when reversing.",
+      "symptoms": [
+        "The rear cross traffic warning system fails to activate",
+        "the system does not function as intended",
+        "no warnings or alerts are displayed when reversing."
+      ],
+      "odiNumbers": [
+        "11555691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

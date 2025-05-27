@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "TIRES",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure and Overheating",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or catch fire, leading to accidents, injuries, and property damage.",
+      "symptoms": [
+        "The ignition switch is extremely hot to the touch",
+        "emits a burning smell",
+        "fails to function properly",
+        "causes the engine to quit",
+        "and may lead to smoke or fire under the hood or dashboard."
+      ],
+      "odiNumbers": [
+        "557769",
+        "515564",
+        "983569",
+        "980591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Fill Limitation",
+      "impact": "The limitation on fuel tank filling can cause inconvenience, increased fuel stops, and potentially lead to running out of fuel, which can leave the driver stranded.",
+      "symptoms": [
+        "The fuel tank will only fill up halfway",
+        "the fuel pump shuts off prematurely",
+        "the fuel tank cannot be filled to its full capacity."
+      ],
+      "odiNumbers": [
+        "557769",
+        "557769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Blowout",
+      "impact": "Tire tread separation and blowout can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden and severe vibration",
+        "tire blowout",
+        "loss of tire pressure",
+        "uneven tire wear",
+        "and tire failure."
+      ],
+      "odiNumbers": [
+        "729172",
+        "548484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to Overheating",
+      "impact": "Brake failure can lead to a loss of control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake failure when coming down steep grades",
+        "overheated brakes",
+        "loss of brake pedal pressure."
+      ],
+      "odiNumbers": [
+        "963098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Wear of Front Brake Pads and Rotors",
+      "impact": "Premature wear of brake pads and rotors can lead to reduced braking performance, increasing the risk of accidents, and may cause uneven tire wear.",
+      "symptoms": [
+        "Noise from the right front end",
+        "premature wear of front brake pads",
+        "premature wear of front brake rotors",
+        "uneven brake pad wear",
+        "uneven brake rotor wear."
+      ],
+      "odiNumbers": [
+        "480970"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

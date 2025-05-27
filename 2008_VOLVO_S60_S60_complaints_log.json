@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VISIBILITY/WIPER",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Motor Throttle",
+      "impact": "A faulty motor throttle can cause the vehicle to stall while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly stalls while driving",
+        "the vehicle stalls while sitting at a traffic stop."
+      ],
+      "odiNumbers": [
+        "10595673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Vehicle Surge",
+      "impact": "Unintended vehicle surge can cause accidents, especially when the vehicle surges forward while the driver's foot is on the brake pedal.",
+      "symptoms": [
+        "The vehicle surges forward while the driver's foot is on the brake pedal",
+        "resulting in a crash."
+      ],
+      "odiNumbers": [
+        "10362389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective Driver's Floor Mat Retention Clips",
+      "impact": "A defective driver's floor mat retention clip can cause the floor mat to slide under the gas pedal, preventing the pedal from operating properly, which can lead to accidents.",
+      "symptoms": [
+        "The driver's floor mat comes loose and slides under the gas pedal",
+        "making it difficult or impossible to depress the gas pedal."
+      ],
+      "odiNumbers": [
+        "10328341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Malfunction",
+      "impact": "The malfunction of airbags can lead to increased risk of injury or fatality in the event of a crash, as occupants may not receive the necessary protection.",
+      "symptoms": [
+        "Airbags fail to deploy or deploy improperly",
+        "releasing a mist instead of inflating",
+        "airbags have holes or tears",
+        "airbags do not deploy on the passenger side while deploying on the driver side."
+      ],
+      "odiNumbers": [
+        "11442939",
+        "11442680"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration due to Throttle Malfunction",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often without the driver's input on the accelerator pedal",
+        "resulting in loss of control",
+        "near-miss accidents",
+        "or actual collisions."
+      ],
+      "odiNumbers": [
+        "10616553",
+        "10487412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Throttle Body or Electronic Throttle Control",
+      "impact": "A malfunctioning throttle body or electronic throttle control can cause the vehicle to stall, hesitate, or accelerate erratically, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "The vehicle stalls or hesitates when accelerating",
+        "the engine RPM fluctuates erratically",
+        "the vehicle accelerates sluggishly or hesitates to respond to accelerator input",
+        "the vehicle's speed is difficult to control."
+      ],
+      "odiNumbers": [
+        "10616553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Visibility Obstruction",
+      "impact": "The reduced visibility due to moisture accumulation on the driver's side windshield can increase the risk of accidents, especially during rainy or snowy conditions, as it obstructs the driver's view of the road.",
+      "symptoms": [
+        "Moisture accumulation on the driver's side windshield",
+        "approximately 5 inches tall and 14 inches long",
+        "does not clear with wiper blades",
+        "obstructing the driver's view",
+        "and blurring the area with each wiper pass."
+      ],
+      "odiNumbers": [
+        "10763254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Management System (EMT) Failure",
+      "impact": "The failure of the Engine Management System (EMT) can cause reduced engine performance, stalling, and rough idling, which can lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The \"Low Engine Performance\" and \"Check Engine\" lights illuminate on the dashboard",
+        "the vehicle's speed is limited to 5 mph",
+        "the engine stalls",
+        "rough idling",
+        "and the vehicle experiences reduced engine performance."
+      ],
+      "odiNumbers": [
+        "10745513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

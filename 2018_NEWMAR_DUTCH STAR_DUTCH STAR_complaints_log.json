@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STRUCTURE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "DEF Header Failure",
+      "impact": "The failure of the DEF (Diesel Exhaust Fluid) header can cause the engine to derate to 5 mph, leading to safety risks, especially on highways, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Check engine light illumination",
+        "error codes SPN 3364",
+        "1761",
+        "and 3031 with FMI code 9",
+        "engine deration to 5 mph",
+        "inability to drive the vehicle."
+      ],
+      "odiNumbers": [
+        "11425312",
+        "11425348",
+        "11425265",
+        "11421702",
+        "11419516",
+        "11386835",
+        "11354474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Workaround for DEF Header Failure",
+      "impact": "The lack of a workaround for the DEF header failure can leave drivers stranded for months, causing inconvenience and safety risks.",
+      "symptoms": [
+        "Inability to drive the vehicle",
+        "engine deration to 5 mph",
+        "inability to access replacement parts",
+        "prolonged wait times for repairs."
+      ],
+      "odiNumbers": [
+        "11425312",
+        "11425348",
+        "11421702",
+        "11354474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Industry-Wide DEF Header Failure Issue",
+      "impact": "The widespread failure of DEF headers across the industry can lead to safety risks, inconvenience, and financial losses for drivers and manufacturers.",
+      "symptoms": [
+        "Multiple instances of DEF header failure",
+        "industry-wide reports of the issue",
+        "prolonged wait times for replacement parts."
+      ],
+      "odiNumbers": [
+        "11425265",
+        "11421702",
+        "11354474"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Receiver Hitch Failure",
+      "impact": "The failure of the receiver hitch can cause the towed vehicle to detach from the RV, leading to accidents or loss of control.",
+      "symptoms": [
+        "The receiver hitch snaps or breaks",
+        "causing the towed vehicle to separate from the RV",
+        "potentially resulting in loss of control or accidents."
+      ],
+      "odiNumbers": [
+        "11523668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Window Seal Failure",
+      "impact": "The failure of the window seal can cause moisture to enter the window, reducing visibility and creating a safety hazard.",
+      "symptoms": [
+        "The glass has lost its seal",
+        "allowing moisture to enter between the panes",
+        "causing a visibility issue",
+        "and making it difficult to see in the rear mirror or to the left side of the vehicle."
+      ],
+      "odiNumbers": [
+        "11487343",
+        "11399527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to open while driving, potentially leading to accidents or ejection of occupants.",
+      "symptoms": [
+        "The entry door unlatches and allows the door to open at highway speed",
+        "unless the secondary deadbolt lock is manually latched."
+      ],
+      "odiNumbers": [
+        "11480424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "DEF Sensor Failure",
+      "impact": "The failure of the DEF sensor can cause the engine to derate, leading to a significant loss of power and potentially creating an unsafe driving condition, especially at high speeds.",
+      "symptoms": [
+        "The check engine light and alarm go off",
+        "the engine experiences power loss",
+        "the DEF warning light comes on",
+        "the engine derates to a low speed (e.g.",
+        "5 miles per hour)."
+      ],
+      "odiNumbers": [
+        "11427500",
+        "11425316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "DEF Header Assembly Failure",
+      "impact": "The failure of the DEF Header Assembly can cause the engine to derate, leading to a significant loss of power and potentially creating an unsafe driving condition, especially at high speeds.",
+      "symptoms": [
+        "The check engine light and alarm go off",
+        "the engine experiences power loss",
+        "the DEF warning light comes on",
+        "the engine derates to a low speed."
+      ],
+      "odiNumbers": [
+        "11425316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

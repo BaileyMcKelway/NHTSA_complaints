@@ -1,0 +1,287 @@
+{
+  "totalComplaints": 448,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STEERING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "The failure of the engine can cause the vehicle to stall or lose power while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine suddenly stops running",
+        "the vehicle loses power",
+        "the engine makes a knocking or grinding noise",
+        "the oil light comes on",
+        "the engine smells like burning oil",
+        "the vehicle stalls or hesitates while driving."
+      ],
+      "odiNumbers": [
+        "11591302",
+        "11586455",
+        "11577555",
+        "11577434",
+        "11573105",
+        "11572630",
+        "11572544",
+        "11569899",
+        "11569612",
+        "11568347",
+        "11561524",
+        "11558991",
+        "11558693",
+        "11556221",
+        "11553905",
+        "11552351",
+        "11550274",
+        "11549939",
+        "11549483",
+        "11549245",
+        "11547736",
+        "11546897",
+        "11542972",
+        "11539194",
+        "11536005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rod Bearing Failure",
+      "impact": "The failure of the rod bearing can cause the engine to seize or fail, leading to a loss of power and control of the vehicle.",
+      "symptoms": [
+        "The engine makes a loud knocking or grinding noise",
+        "the oil light comes on",
+        "the engine smells like burning oil",
+        "the vehicle loses power or stalls while driving."
+      ],
+      "odiNumbers": [
+        "11573105",
+        "11549939",
+        "11549245",
+        "11546897",
+        "11542972",
+        "11539194"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Consumption Issues",
+      "impact": "Excessive oil consumption can lead to engine failure, which can cause the vehicle to stall or lose power while driving, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The oil light comes on",
+        "the engine smells like burning oil",
+        "the vehicle uses excessive amounts of oil",
+        "the engine makes a loud knocking or grinding noise."
+      ],
+      "odiNumbers": [
+        "11582028",
+        "11581517",
+        "11572544",
+        "11547736",
+        "11549483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Knock Sensor Failure",
+      "impact": "The failure of the knock sensor can cause the engine to fail or seize, leading to a loss of power and control of the vehicle.",
+      "symptoms": [
+        "The engine makes a loud knocking or grinding noise",
+        "the oil light comes on",
+        "the engine smells like burning oil",
+        "the vehicle loses power or stalls while driving."
+      ],
+      "odiNumbers": [
+        "11573105",
+        "11572544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Coupler Failure",
+      "impact": "The failure of the steering coupler can cause the steering wheel to make a clicking or clunking noise, leading to loss of power steering and potentially causing accidents.",
+      "symptoms": [
+        "Clicking or clunking noise when turning the steering wheel",
+        "loose or uncontrollable steering wheel",
+        "vibration when hitting bumps or turning."
+      ],
+      "odiNumbers": [
+        "11472639",
+        "11469225",
+        "11421237",
+        "11418940",
+        "11408483",
+        "11408003",
+        "11406623",
+        "11405909",
+        "11398871",
+        "11361123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Failure",
+      "impact": "The failure of the ABS system can cause the brake lights to stay on, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Brake lights stay on",
+        "inability to shift gears",
+        "vehicle skids or locks up when braking."
+      ],
+      "odiNumbers": [
+        "11574678",
+        "11510999",
+        "11362153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Oil Consumption",
+      "impact": "Excessive oil consumption can lead to engine damage, causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Frequent oil changes needed",
+        "engine damage."
+      ],
+      "odiNumbers": [
+        "11478334",
+        "11219898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Difficulty turning the steering wheel",
+        "power steering warning light on",
+        "vehicle stalls or loses power."
+      ],
+      "odiNumbers": [
+        "11204241",
+        "10970865",
+        "10958587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Traction Control Failure",
+      "impact": "The failure of the traction control system can cause the vehicle to lose motive power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Traction control warning light on",
+        "vehicle loses power or acceleration."
+      ],
+      "odiNumbers": [
+        "11362153",
+        "11220617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to fail, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The ABS warning light is illuminated",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the vehicle is unable to stop",
+        "or the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "11581649",
+        "11553264",
+        "11485123",
+        "11423557",
+        "11403009",
+        "11388883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect for Recall Repair",
+      "impact": "The delay in obtaining the necessary parts for the recall repair can leave the vehicle in an unsafe condition, putting the driver and passengers at risk.",
+      "symptoms": [
+        "The contact receives notification of the recall but is unable to obtain the necessary parts for the repair",
+        "the contact is unable to schedule a repair appointment",
+        "or the contact is told that the parts are not available."
+      ],
+      "odiNumbers": [
+        "11588933",
+        "11587186",
+        "11582666",
+        "11576172",
+        "11575319",
+        "11574670",
+        "11573350",
+        "11572139",
+        "11571380",
+        "11567301",
+        "11564601",
+        "11557018",
+        "11418272",
+        "11415305",
+        "11377867",
+        "11375200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fire Risk due to Brake Fluid Leak",
+      "impact": "The leak of brake fluid can cause a fire, putting the driver and passengers at risk.",
+      "symptoms": [
+        "The contact notices a fuel or chemical odor",
+        "the vehicle catches fire",
+        "or the brake fluid is leaking."
+      ],
+      "odiNumbers": [
+        "11554048",
+        "11423557",
+        "11388883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure due to Various Reasons",
+      "impact": "The failure of the brakes can cause accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the vehicle is unable to stop",
+        "or the vehicle is involved in an accident."
+      ],
+      "odiNumbers": [
+        "11553264",
+        "11485123",
+        "11403009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

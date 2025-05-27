@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Latch Failure",
+      "impact": "The failure of the seat belt latch can cause the seat belt to come unfastened while driving, increasing the risk of injury or ejection in the event of an accident.",
+      "symptoms": [
+        "The seat belt comes unfastened while driving",
+        "the seat belt release button breaks",
+        "the seat belt latch fails to engage or disengage properly."
+      ],
+      "odiNumbers": [
+        "878550",
+        "541548",
+        "515266",
+        "984285",
+        "967407",
+        "962663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Fire",
+      "impact": "An electrical system fire can cause significant damage to the vehicle, potentially leading to a complete loss of the vehicle, and poses a risk to the safety of the occupants and bystanders.",
+      "symptoms": [
+        "Smoke coming from the engine compartment",
+        "fire in the engine compartment",
+        "electrical system failure",
+        "burning smell."
+      ],
+      "odiNumbers": [
+        "566988",
+        "808763",
+        "803107"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread and Belt Separation",
+      "impact": "Tire tread and belt separation can lead to rapid deflation, loss of control, and accidents, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Belts exposed",
+        "rapid deflation",
+        "tire destruction",
+        "swaying or vibration while driving",
+        "difficulty maintaining air pressure."
+      ],
+      "odiNumbers": [
+        "746550",
+        "728691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure Due to Manufacturing Defects",
+      "impact": "Tire failure due to manufacturing defects can cause accidents, injuries, or fatalities, especially if the tire blows out while driving at high speeds.",
+      "symptoms": [
+        "Tire blowout",
+        "rapid deflation",
+        "tire damage",
+        "difficulty maintaining air pressure",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "746550",
+        "728691"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Tire Failure Due to Road Hazards",
+      "impact": "Tire failure due to road hazards can cause accidents, injuries, or fatalities, especially if the tire blows out while driving at high speeds.",
+      "symptoms": [
+        "Tire blowout",
+        "rapid deflation",
+        "tire damage",
+        "loss of control",
+        "vehicle instability."
+      ],
+      "odiNumbers": [
+        "967407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brake pedal to go to the floor, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes fail to stop the vehicle",
+        "the ABS light comes on",
+        "the brake pump and accumulator need to be replaced",
+        "the anti-lock brake motor runs excessively",
+        "the ABS high-pressure hose leaks."
+      ],
+      "odiNumbers": [
+        "10073075",
+        "546268",
+        "524130",
+        "516569",
+        "806273",
+        "984533",
+        "476866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotors can cause the brakes to fail, leading to a loss of control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brake rotors fail",
+        "the right front brake locks up",
+        "causing accidents."
+      ],
+      "odiNumbers": [
+        "543115",
+        "546268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad and Shoe Failure",
+      "impact": "The failure of the brake pads and shoes can cause the brakes to fail, leading to a loss of control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The brake pads and shoes fail."
+      ],
+      "odiNumbers": [
+        "543115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to fail, leading to a loss of control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The master cylinder leaks."
+      ],
+      "odiNumbers": [
+        "476866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the vehicle to lose power, leading to a loss of control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine shuts off unexpectedly",
+        "the vehicle loses power",
+        "the consumer loses control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10007237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause the plastic fill bottle to overheat and explode, which can lead to engine damage, fires, and injuries.",
+      "symptoms": [
+        "The engine overheats",
+        "the cooling system fails",
+        "the plastic fill bottle overheats",
+        "the plastic fill bottle explodes."
+      ],
+      "odiNumbers": [
+        "607835",
+        "544283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to move unexpectedly, leading to accidents, injuries, or fatalities. This can occur even when the driver's foot is not on the accelerator pedal, making it difficult to control the vehicle.",
+      "symptoms": [
+        "The vehicle accelerates without pedal application",
+        "the vehicle surges forward unexpectedly",
+        "the vehicle moves on its own",
+        "the vehicle takes off without warning."
+      ],
+      "odiNumbers": [
+        "851606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

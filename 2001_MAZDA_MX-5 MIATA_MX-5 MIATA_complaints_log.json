@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure (Rust and Leaks)",
+      "impact": "The rust and leaks in the fuel system can cause fuel to leak into the trunk compartment, leading to a strong gas odor in the cabin and potentially causing a fire hazard.",
+      "symptoms": [
+        "Strong gas odor in the cabin",
+        "fuel leaks into the trunk compartment",
+        "rusted fuel neck and fuel tank."
+      ],
+      "odiNumbers": [
+        "10433384"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "Engine shuts off while coasting to a stop",
+        "engine coughs and sputters",
+        "engine restarts briefly before stalling again",
+        "engine only runs after allowing it to rest for 10-15 minutes",
+        "car stalls in heavy traffic."
+      ],
+      "odiNumbers": [
+        "10241347",
+        "10224195",
+        "10134843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Camshaft Position Sensor Failure",
+      "impact": "The failure of the engine camshaft position sensor can cause the engine to violently shake and stall, leading to a loss of control and increased risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine violently shakes",
+        "the engine stalls",
+        "the vehicle loses power",
+        "the vehicle only starts after waiting periods of 10-15 minutes",
+        "the vehicle only runs for 5-10 minutes before the engine issue recurs",
+        "the \"Check Engine\" light illuminates",
+        "the PO012 engine code is displayed."
+      ],
+      "odiNumbers": [
+        "11012974",
+        "10459780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Control Unit (ECU) Software Issue",
+      "impact": "The faulty ECU software can cause the engine to malfunction, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The \"Check Engine\" light illuminates",
+        "the PO012 engine code is displayed",
+        "the engine runs rough",
+        "the engine stalls."
+      ],
+      "odiNumbers": [
+        "11012974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Manual Transmission Failure",
+      "impact": "The failure of the manual transmission can cause the vehicle to stall or lock in neutral, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission is hard shifting",
+        "the vehicle shudders and stalls",
+        "the transmission locks in neutral",
+        "the vehicle will not move",
+        "the failure occurs only in first gear",
+        "the failure occurs when the engine is cold",
+        "the failure does not occur as often when the vehicle is warm."
+      ],
+      "odiNumbers": [
+        "10251429",
+        "10227604"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch to Transmission Input Shaft Spline Failure",
+      "impact": "The failure of the clutch to transmission input shaft spline can cause a sudden loss of power, making it difficult to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine still operates and revs normally",
+        "but no engine power is transferred to the transmission",
+        "transmission still shifts properly into each gear."
+      ],
+      "odiNumbers": [
+        "10447569",
+        "10296924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Final Drive Crown Bearing Failure",
+      "impact": "The failure of the final drive crown bearing can cause excess axle movement, leading to a final drive oil leak, which can result in a loss of control, accidents, or even fires.",
+      "symptoms": [
+        "Final drive oil leak",
+        "oil on the motorcycle tire",
+        "excess axle movement."
+      ],
+      "odiNumbers": [
+        "10208674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line Quick Disconnect Fitting Failure",
+      "impact": "The failure of the fuel line quick disconnect fitting can cause fuel to leak onto the hot engine or catalytic converter, potentially leading to a fire or explosion, which can result in serious injury or death.",
+      "symptoms": [
+        "Fuel leaking from the connecting sleeve to the fluid line",
+        "fuel leaking onto the hot cylinder or engine block",
+        "fuel spraying onto the rider's leg",
+        "gasoline spilling onto the hot catalytic converter."
+      ],
+      "odiNumbers": [
+        "10346910",
+        "10163423",
+        "10135594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Failure and Residual Braking Issues",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause a significant reduction in braking power, leading to accidents, injuries, and fatalities. The residual braking system, which is designed to provide a backup braking function, only provides about 15% of normal braking power, making it difficult to stop the vehicle safely.",
+      "symptoms": [
+        "The ABS failure lights come on",
+        "the brakes stop working effectively",
+        "the vehicle experiences a significant reduction in braking power",
+        "the brakes may lock up",
+        "and the vehicle may crash."
+      ],
+      "odiNumbers": [
+        "10411089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Brake System Design",
+      "impact": "The design of the brake system, which prioritizes ABS functionality over normal braking power, can lead to accidents, injuries, and fatalities. The residual braking system's limited power can make it difficult for drivers to stop the vehicle safely, especially in emergency situations.",
+      "symptoms": [
+        "The brakes may fail to provide adequate stopping power",
+        "the vehicle may experience a sudden loss of braking ability",
+        "the brakes may lock up",
+        "and the vehicle may crash."
+      ],
+      "odiNumbers": [
+        "10411089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Kickstand Failure",
+      "impact": "The failure of the kickstand can cause the motorcycle to fall over, resulting in damage to the vehicle and potentially injuring the rider or bystanders.",
+      "symptoms": [
+        "The kickstand bends or collapses",
+        "causing the motorcycle to fall over",
+        "difficulty starting the motorcycle",
+        "the motorcycle falls over while stationary."
+      ],
+      "odiNumbers": [
+        "10362823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause extended stopping distances, loss of control, and increased risk of accidents, especially when driving over rough surfaces or in wet weather conditions.",
+      "symptoms": [
+        "The brake pedal kicks back",
+        "the vehicle does not stop or takes longer to stop",
+        "the brake pedal becomes very hard to depress",
+        "the ABS system engages without warning",
+        "and the vehicle experiences extended stopping distances."
+      ],
+      "odiNumbers": [
+        "853979",
+        "549334",
+        "549345",
+        "526131",
+        "817709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Speedometer Failure",
+      "impact": "The failure of the speedometer can lead to inaccurate speed readings, making it difficult for drivers to maintain a safe speed, which can increase the risk of accidents, especially on highways or roads with speed limits.",
+      "symptoms": [
+        "The speedometer needle does not move",
+        "the speedometer displays an incorrect speed",
+        "the speedometer displays a stuck or frozen speed",
+        "the vehicle's speed is not displayed at all."
+      ],
+      "odiNumbers": [
+        "809678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

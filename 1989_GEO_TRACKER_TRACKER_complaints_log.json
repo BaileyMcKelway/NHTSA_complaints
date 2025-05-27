@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION",
+    "STRUCTURE",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Release Button Failure",
+      "impact": "The failure of the seat belt buckle release button can cause the seat belt to malfunction, potentially leading to injuries or fatalities in the event of a crash.",
+      "symptoms": [
+        "The seat belt buckle release button breaks",
+        "the red release button on the female portion of the buckle breaks",
+        "the buckle comes loose while driving",
+        "fragments of the broken button fall inside the buckle."
+      ],
+      "odiNumbers": [
+        "601625",
+        "504265",
+        "977161",
+        "970949",
+        "964715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, potentially leading to injuries or fatalities in the event of a crash.",
+      "symptoms": [
+        "The driver's side and front passenger seatbelt retractor does not work",
+        "the seat belt will not occupy the occupant in a crash."
+      ],
+      "odiNumbers": [
+        "800394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Idle Air Control (IAC) Valve Malfunction",
+      "impact": "A malfunctioning IAC valve can cause the engine to idle erratically, leading to high RPMs, which can result in decreased fuel efficiency, increased engine wear, and potentially cause accidents due to loss of control.",
+      "symptoms": [
+        "The engine RPMs are high when the vehicle is idling",
+        "the engine RPMs increase when the vehicle is warmed up",
+        "the engine RPMs increase when the vehicle is in motion",
+        "the engine is fine when first starting up but develops issues after warming up."
+      ],
+      "odiNumbers": [
+        "849892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Suspension Failure Leading to Rollover",
+      "impact": "The failure of the suspension system can cause the vehicle to rollover, leading to serious injuries or fatalities, especially if the roll cage collapses.",
+      "symptoms": [
+        "The vehicle's suspension feels unstable or uneven",
+        "the vehicle leans or tilts excessively",
+        "the vehicle's tires wear unevenly",
+        "the vehicle's steering feels loose or unstable",
+        "the vehicle's ride feels rough or bumpy."
+      ],
+      "odiNumbers": [
+        "509063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Roll Cage Collapse",
+      "impact": "The collapse of the roll cage can exacerbate the severity of injuries or fatalities in the event of a rollover, compromising the structural integrity of the vehicle.",
+      "symptoms": [
+        "The vehicle's roof collapses or crushes in a rollover",
+        "the vehicle's occupants experience severe injuries or fatalities",
+        "the vehicle's roll cage is damaged or deformed."
+      ],
+      "odiNumbers": [
+        "509063"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Convertible Roof Latch Failure",
+      "impact": "The failure of the convertible roof latch can cause the roof to fly off while driving, leading to a loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The convertible roof begins to fly off or detach while driving",
+        "the roof latch breaks or fails",
+        "the roof does not stay securely in place."
+      ],
+      "odiNumbers": [
+        "985798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Block Cracking and Coolant Leak",
+      "impact": "A cracked engine block can cause coolant to leak onto the exhaust manifold, potentially releasing toxic fumes into the passenger compartment, posing a serious health risk to occupants. Additionally, the leak can lead to engine overheating, damage, and failure.",
+      "symptoms": [
+        "Coolant leak",
+        "sweet or burning smell inside the vehicle",
+        "white smoke or steam from the exhaust",
+        "engine overheating",
+        "temperature gauge rising",
+        "loss of coolant",
+        "engine stalling or failure."
+      ],
+      "odiNumbers": [
+        "958253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Casing Leak",
+      "impact": "A transmission casing leak can cause fluid to spill onto the ground, leading to a loss of transmission performance, damage to surrounding components, and potentially causing the transmission to fail.",
+      "symptoms": [
+        "Transmission fluid leak",
+        "fluid dripping onto the ground",
+        "transmission slipping or hesitation",
+        "unusual noises or vibrations",
+        "difficulty shifting gears",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "958253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

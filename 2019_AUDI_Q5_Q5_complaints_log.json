@@ -1,0 +1,245 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause loss of control, accidents, and put the safety of the driver and passengers at risk, especially on high-speed roads or in hazardous weather conditions.",
+      "symptoms": [
+        "The power steering fails",
+        "making it difficult or impossible to steer the vehicle",
+        "warning messages appear on the dashboard",
+        "such as \"Steering: Malfunction! Please stop vehicle\" or \"Steering malfunction\"",
+        "the steering wheel becomes hard to turn",
+        "especially at low speeds."
+      ],
+      "odiNumbers": [
+        "11461451",
+        "11455556",
+        "11383261",
+        "11322498",
+        "11209594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lane Keeping Assist System Malfunction",
+      "impact": "The malfunctioning lane keeping assist system can cause distractions, loss of control, and accidents, especially on straight roads or during turns, and can be particularly dangerous if the system deactivates without warning.",
+      "symptoms": [
+        "The lane keeping assist system issues false alerts",
+        "deactivates without warning",
+        "fails to detect driver attention",
+        "and can be extremely annoying and distracting."
+      ],
+      "odiNumbers": [
+        "11276988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Emergency Brake System",
+      "impact": "The faulty emergency brake system can cause unexpected and sudden stops, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The emergency brake engages automatically while driving",
+        "the vehicle stops suddenly without warning",
+        "the brake system fails to operate",
+        "the vehicle becomes inoperable."
+      ],
+      "odiNumbers": [
+        "11559588",
+        "11453048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Tail Light Assembly",
+      "impact": "A faulty tail light assembly can increase the risk of accidents, especially at night or in low-visibility conditions, as other drivers may not be able to see the vehicle.",
+      "symptoms": [
+        "The tail lights stop working suddenly",
+        "the backup and braking lights fail to operate",
+        "the license plate light is faulty."
+      ],
+      "odiNumbers": [
+        "11536325",
+        "11559588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Malfunctioning Safety Systems",
+      "impact": "Malfunctioning safety systems, such as airbag and pre-sense systems, can lead to false positives, unexpected braking, and confusion for the driver, increasing the risk of accidents.",
+      "symptoms": [
+        "The passenger airbag turns on and off while driving",
+        "the safety system alert continues to occur while driving",
+        "the parking brake activates suddenly while reversing",
+        "the vehicle jerks or brakes suddenly."
+      ],
+      "odiNumbers": [
+        "11390728",
+        "11354984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Positives in Rear Cross Traffic Alert and Pre-Sense Systems",
+      "impact": "False positives in rear cross traffic alert and pre-sense systems can cause sudden and unexpected braking, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The system incorrectly senses an object and activates the parking brake",
+        "resulting in a sudden vehicle jerk",
+        "brakes scraping",
+        "and immediate confusion for the driver."
+      ],
+      "odiNumbers": [
+        "11354984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Turbocharger Waste Gate Actuator Failure",
+      "impact": "The failure of the turbocharger waste gate actuator can cause overboost conditions, leading to engine damage, loss of power, and potentially causing accidents.",
+      "symptoms": [
+        "Engine light on",
+        "faults stored for P334A00 and P023400",
+        "overboost condition",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11591852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "False Lane Assist Alerts",
+      "impact": "The frequent false alerts from the lane assist system can be distracting and annoying, leading to drivers disabling the feature, which can increase the risk of accidents.",
+      "symptoms": [
+        "Frequent false alerts",
+        "alarm sounds while driving with hands on the wheel",
+        "feature becomes unusable."
+      ],
+      "odiNumbers": [
+        "11258048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Deceleration with Adaptive Cruise Control",
+      "impact": "The unintended deceleration can cause accidents, especially at high speeds, and can lead to rear-end collisions.",
+      "symptoms": [
+        "Sudden application of brakes",
+        "loss of speed",
+        "unexpected deceleration",
+        "adaptive cruise control setting changes without driver input."
+      ],
+      "odiNumbers": [
+        "11256568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Release Mechanism Failure",
+      "impact": "The failure of the seat belt release mechanism can cause difficulty or inability to release the seat belt, potentially leading to injuries or entrapment in emergency situations.",
+      "symptoms": [
+        "The seat belt is difficult to release",
+        "the seat belt does not release",
+        "the seat belt requires excessive force to release."
+      ],
+      "odiNumbers": [
+        "11569851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Seat Lumbar Support Design Flaw",
+      "impact": "The design of the rear seat lumbar support can cause or exacerbate lower back injuries in the event of a rear-end collision, potentially leading to long-term back pain and discomfort.",
+      "symptoms": [
+        "Lower back pain or injury",
+        "worsened back pain due to lumbar support design",
+        "lumbar support protrusion forced into lower lumbar region during collision."
+      ],
+      "odiNumbers": [
+        "11300984",
+        "11289983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the Transmission Control Module (TCM) can cause the vehicle to suddenly jerk, slow down, and experience irregular gear shifting, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle jerks abruptly",
+        "slows down to half the original speed",
+        "gear shifting becomes irregular",
+        "and the following indicators appear on the dashboard: check engine light",
+        "vehicle repair required",
+        "warning icon with triangle around and exclamation point",
+        "and \"Drive system malfunction\" note on the screen."
+      ],
+      "odiNumbers": [
+        "11523800",
+        "11465903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended movement of the vehicle can cause accidents, injuries, or damage to property.",
+      "symptoms": [
+        "The vehicle moves forward unexpectedly",
+        "even when parked",
+        "and can crash into objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "11475865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, slow down, or become stuck in a particular gear, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle displays a \"catastrophic transmission failure\" message",
+        "and the transmission shifts into manual third gear unexpectedly."
+      ],
+      "odiNumbers": [
+        "11465903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

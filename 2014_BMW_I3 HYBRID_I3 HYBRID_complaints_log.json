@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Drive Train Malfunction",
+      "impact": "The drive train malfunction can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the power train malfunction warning appears",
+        "the vehicle cannot be shifted into neutral",
+        "the vehicle comes to a complete stop",
+        "and the battery shows power remaining."
+      ],
+      "odiNumbers": [
+        "11193570",
+        "10938956",
+        "10765303",
+        "10749176",
+        "10648816"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Range Extender (REX) Malfunction",
+      "impact": "The REX malfunction can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the REX engine does not produce enough power",
+        "the vehicle slows down dramatically",
+        "and the brake lights do not come on when slowing to a stop."
+      ],
+      "odiNumbers": [
+        "10925277",
+        "10869984",
+        "10861225",
+        "10648816",
+        "10625717"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration can cause accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "the vehicle rushes forward",
+        "and the brakes do not respond."
+      ],
+      "odiNumbers": [
+        "10631791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Software Issues",
+      "impact": "The software issues can cause the vehicle to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's computer system malfunctions",
+        "the vehicle's systems do not respond",
+        "and the vehicle's warning systems do not function properly."
+      ],
+      "odiNumbers": [
+        "10956973",
+        "10631791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to suddenly shut down, leading to a loss of power and control, which can increase the risk of accidents, especially when driving on high-speed roads.",
+      "symptoms": [
+        "The vehicle displays electrical error messages",
+        "the battery is unable to charge",
+        "the battery discharges at a high rate",
+        "the drive train malfunctions",
+        "and the iDrive system shuts down."
+      ],
+      "odiNumbers": [
+        "10606720"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Range Extender (REX) Failure",
+      "impact": "The failure of the REX can cause the vehicle to experience a sudden and violent loss of speed without warning, which can increase the risk of accidents, especially when driving in traffic.",
+      "symptoms": [
+        "The REX does not turn on when the battery level is low",
+        "the vehicle experiences a sudden loss of speed",
+        "the vehicle loses power and speed as if the brakes have been applied heavily."
+      ],
+      "odiNumbers": [
+        "11175779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery-Related Fire Hazard",
+      "impact": "A loose bolt used to secure the 12V battery can cause a fire, which can lead to vehicle destruction and potential harm to occupants.",
+      "symptoms": [
+        "Smoke is present inside the vehicle coming from the front passenger side air vent",
+        "flames are seen coming from the front passenger side air vent."
+      ],
+      "odiNumbers": [
+        "11513646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Power Steering Failure",
+      "impact": "The intermittent failure of the power steering system can cause the vehicle to become unstable, making it difficult to steer, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering becomes twitchy or cuts out completely",
+        "the vehicle does not return to center when taking corners",
+        "the steering feels extremely heavy",
+        "the vehicle wanders or drifts while driving",
+        "the driver must constantly adjust the steering to maintain a straight course."
+      ],
+      "odiNumbers": [
+        "11193670",
+        "11190022",
+        "10743418"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

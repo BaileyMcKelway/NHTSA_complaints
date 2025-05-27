@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the brakes to fail, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal kicks back",
+        "the vehicle experiences a sudden loss of braking power",
+        "the ABS system fails to engage or disengage properly."
+      ],
+      "odiNumbers": [
+        "805943",
+        "803852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Sidewall Separation",
+      "impact": "Tire sidewall separation can lead to a loss of vehicle control, especially at high speeds, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden tire failure",
+        "loss of air pressure",
+        "vibration",
+        "noise",
+        "or unusual tire wear; in some cases",
+        "the tire may separate without warning",
+        "causing the vehicle to pull to one side or lose control."
+      ],
+      "odiNumbers": [
+        "10041495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Improper Tire Pressure Monitoring",
+      "impact": "Failure to properly monitor tire pressure can lead to tire failure, loss of vehicle control, and accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the lack of proper tire pressure monitoring",
+        "which can lead to tire failure without warning."
+      ],
+      "odiNumbers": [
+        "10041495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fire",
+      "impact": "An electrical system failure can cause a vehicle fire, resulting in significant property damage and potentially harming occupants or bystanders.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often with an unknown origin",
+        "and can spread quickly",
+        "causing extensive damage to the vehicle and surrounding property."
+      ],
+      "odiNumbers": [
+        "744077"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Reclining Seat Mechanism",
+      "impact": "A malfunctioning reclining seat mechanism can cause discomfort, distraction, and potentially lead to accidents due to the seat's unexpected movement or failure to maintain a safe position.",
+      "symptoms": [
+        "The seat reclines unexpectedly",
+        "the seat does not recline or adjust properly",
+        "the seat is stuck in a reclined position",
+        "the seat's reclining mechanism is noisy or makes unusual sounds."
+      ],
+      "odiNumbers": [
+        "812834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

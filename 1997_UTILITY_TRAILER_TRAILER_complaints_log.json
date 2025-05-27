@@ -1,0 +1,75 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brakes to lock up, leading to loss of control, accidents, and damage to the vehicle, which can result in serious injury or death.",
+      "symptoms": [
+        "The brakes continually lock up",
+        "the vehicle jackknifes",
+        "the brake shoes separate",
+        "the brakes fail to function properly",
+        "the brakes require repeated repairs."
+      ],
+      "odiNumbers": [
+        "544030",
+        "542881",
+        "542895",
+        "542896",
+        "542882",
+        "542866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "LP Regulator Failure",
+      "impact": "A faulty LP regulator can cause a leak, leading to a potential fire hazard or explosion.",
+      "symptoms": [
+        "LP leak detected at the regulator."
+      ],
+      "odiNumbers": [
+        "544030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "GFI (Ground Fault Interrupter) Failure",
+      "impact": "A shorted-out GFI can cause electrical shock or a fire hazard.",
+      "symptoms": [
+        "GFI shorted out",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "544030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Stove Malfunction",
+      "impact": "A broken stove can cause inconvenience and potentially lead to safety issues if not addressed.",
+      "symptoms": [
+        "Stove not functioning properly",
+        "requiring replacement of knobs."
+      ],
+      "odiNumbers": [
+        "544030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, accidents, and distractions while driving, potentially leading to more severe consequences.",
+      "symptoms": [
+        "Airbags deploy without any apparent reason",
+        "such as no crash",
+        "potholes",
+        "or other vehicles involved; airbag warning light stays on; airbags fail to deploy in actual collision situations."
+      ],
+      "odiNumbers": [
+        "10478382",
+        "717799",
+        "823630",
+        "818443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "Failure of the airbag system can lead to injuries or fatalities in the event of an actual crash, as airbags may not deploy or may deploy unnecessarily.",
+      "symptoms": [
+        "Airbags fail to deploy in a collision; airbag warning light stays on; airbags deploy without any apparent reason."
+      ],
+      "odiNumbers": [
+        "539540",
+        "818443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can cause reduced visibility while driving, especially in rainy or snowy conditions, which can lead to accidents.",
+      "symptoms": [
+        "The windshield wipers stop functioning",
+        "the wiper linkage separates",
+        "the windshield wipers do not move."
+      ],
+      "odiNumbers": [
+        "10286366",
+        "10059065"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire in Window Switch Assembly",
+      "impact": "An electrical fire in the window switch assembly can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke comes out of the switch assembly",
+        "flames appear from the switch assembly",
+        "the fuse for the automatic window circuit does not blow."
+      ],
+      "odiNumbers": [
+        "10102840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure to Receive Recall Notification",
+      "impact": "Failure to receive recall notification can lead to delays in addressing safety issues, which can cause accidents or injuries.",
+      "symptoms": [
+        "The owner is not notified of a recall",
+        "the owner is told that their VIN is not included in the recall despite being within the affected range."
+      ],
+      "odiNumbers": [
+        "10066472",
+        "552401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or drain the battery, leading to unexpected loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the vehicle fails to start without recharging the battery",
+        "the alternator overheats",
+        "the alternator drains excessively."
+      ],
+      "odiNumbers": [
+        "10705397",
+        "10037259",
+        "883948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Control Arm Failure",
+      "impact": "The failure of the rear suspension control arms can cause the vehicle to sway violently, making it difficult to control, and potentially leading to accidents, personal bodily injury, or even death.",
+      "symptoms": [
+        "The vehicle begins to sway violently left to right",
+        "the vehicle wobbles while traveling at high speeds (65-70 mph)",
+        "the vehicle continues to wobble over small obstructions on the road."
+      ],
+      "odiNumbers": [
+        "10195525",
+        "10185000",
+        "10107972"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

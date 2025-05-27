@@ -1,0 +1,287 @@
+{
+  "totalComplaints": 512,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is illuminated",
+        "the airbag deploys unexpectedly",
+        "the airbag fails to deploy in a crash",
+        "the passenger side airbag deploys without warning."
+      ],
+      "odiNumbers": [
+        "11499360",
+        "11444717",
+        "11366737",
+        "11280815",
+        "11228713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Recall Delay",
+      "impact": "The delay in repairing the airbag recall can lead to continued risk of injury or death due to faulty airbags.",
+      "symptoms": [
+        "The dealer is unable to repair the airbag recall due to parts unavailability",
+        "the manufacturer exceeds a reasonable amount of time for the recall repair",
+        "the contact is unable to get an appointment for the recall repair."
+      ],
+      "odiNumbers": [
+        "11579578",
+        "11323516",
+        "11282124",
+        "11217380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "SRS Unit/Seat Belt Locking Unit Failure",
+      "impact": "The failure of the SRS unit and seat belt locking unit can lead to airbag deployment failure, seatbelt malfunction, and increased risk of injury or death.",
+      "symptoms": [
+        "The SRS unit and seat belt locking unit need to be replaced",
+        "the airbag warning light is illuminated",
+        "the seatbelt is permanently locked."
+      ],
+      "odiNumbers": [
+        "11267807",
+        "11462260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Inflator Failure",
+      "impact": "The failure of the airbag inflator can lead to airbag deployment failure, increased risk of injury or death.",
+      "symptoms": [
+        "The airbag inflator is defective",
+        "the airbag warning light is illuminated",
+        "the airbag deploys unexpectedly."
+      ],
+      "odiNumbers": [
+        "11388731",
+        "11233302",
+        "11228298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Failure of the electrical system can cause various malfunctions, including window and door lock issues, airbag failures, and engine stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Windows won't open or close",
+        "doors won't lock or unlock",
+        "airbag light is on",
+        "engine stalling",
+        "buzzing sounds",
+        "and failure of various electrical components."
+      ],
+      "odiNumbers": [
+        "10920280",
+        "10893942",
+        "10854764",
+        "10850298",
+        "10793007",
+        "10785806",
+        "10746351",
+        "10631382",
+        "10598881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Failure of the ignition system can cause the engine to stall or fail to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "difficulty starting the engine",
+        "buzzing sounds",
+        "and failure of the ignition switch."
+      ],
+      "odiNumbers": [
+        "11384480",
+        "11120146",
+        "10967198",
+        "10592053",
+        "10585688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Failure",
+      "impact": "Failure of the airbag system can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "Airbag light is on",
+        "airbags did not deploy in an accident",
+        "and faulty airbag sensors."
+      ],
+      "odiNumbers": [
+        "11132709",
+        "11065435",
+        "10958270",
+        "10618650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch and Transmission Issues",
+      "impact": "Failure of the clutch and transmission can cause the vehicle to lose power or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "difficulty shifting gears",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "11504035",
+        "11375673",
+        "11231567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Locking System Failure",
+      "impact": "Failure of the locking system can cause safety hazards, such as children being trapped in the vehicle.",
+      "symptoms": [
+        "Doors won't unlock",
+        "doors lock and unlock randomly",
+        "and faulty door lock actuators."
+      ],
+      "odiNumbers": [
+        "11181296",
+        "10913896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure and Unreliable Stopping",
+      "impact": "The failure of the brakes can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Soft or spongy brake pedal",
+        "brake pedal sticking to the floor",
+        "delayed or sudden loss of braking power",
+        "vibrating or noisy brakes",
+        "and failure to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10865230",
+        "10690590",
+        "10463721",
+        "10457129",
+        "10436236",
+        "10434939",
+        "10433868",
+        "10418195",
+        "10416249",
+        "10416252",
+        "10396564",
+        "10384761",
+        "10381943",
+        "10378468",
+        "10369784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Wear and Premature Replacement",
+      "impact": "Frequent brake replacements can be costly and inconvenient for vehicle owners.",
+      "symptoms": [
+        "Excessive brake wear",
+        "premature brake pad replacement",
+        "and scored or warped rotors."
+      ],
+      "odiNumbers": [
+        "10457129",
+        "10418195",
+        "10416249",
+        "10416252",
+        "10396564",
+        "10384761",
+        "10381943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS and VSA Modulator Issues",
+      "impact": "Malfunctioning ABS and VSA systems can lead to loss of control and accidents.",
+      "symptoms": [
+        "ABS light on",
+        "VSA light on",
+        "vibrating or noisy brakes",
+        "and failure to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10478486",
+        "10463721",
+        "10378468",
+        "10369784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "A faulty brake pedal can lead to accidents or near-misses.",
+      "symptoms": [
+        "Soft or spongy brake pedal",
+        "brake pedal sticking to the floor",
+        "and delayed or sudden loss of braking power."
+      ],
+      "odiNumbers": [
+        "10442260",
+        "10439707",
+        "10416249",
+        "10416252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Master Cylinder and Brake Fluid Issues",
+      "impact": "Leaking brake fluid and faulty master cylinders can cause brake failure.",
+      "symptoms": [
+        "Leaking brake fluid",
+        "soft or spongy brake pedal",
+        "and failure to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10440056",
+        "10439707",
+        "10378468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

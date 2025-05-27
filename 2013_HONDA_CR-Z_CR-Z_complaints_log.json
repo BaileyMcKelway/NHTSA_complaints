@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "SRS Unit Failure",
+      "impact": "The failure of the SRS unit can cause the airbag warning light to illuminate, and in some cases, may lead to airbag deployment failures, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The airbag warning light illuminates on the instrument panel",
+        "the airbag system may not deploy properly in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11525581",
+        "11525626",
+        "11034487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall Delays",
+      "impact": "The delay in repairing the Takata airbag recall can increase the risk of injury or death in the event of an accident, as the faulty airbag may deploy improperly or not deploy at all.",
+      "symptoms": [
+        "The airbag warning light may illuminate",
+        "the vehicle may be inoperable",
+        "the owner may experience delays in receiving a repair or replacement airbag."
+      ],
+      "odiNumbers": [
+        "10972188",
+        "10897655",
+        "10893676",
+        "10893731",
+        "10883541",
+        "10860892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Repair and Loaner Vehicle Issues",
+      "impact": "The inadequate repair and loaner vehicle issues can cause inconvenience, additional expenses, and potential safety risks to the vehicle owner.",
+      "symptoms": [
+        "The owner may experience delays in receiving a repair or replacement airbag",
+        "may be provided with a loaner vehicle that is not comparable to their own vehicle",
+        "may incur additional fuel costs",
+        "and may experience inconvenience and frustration."
+      ],
+      "odiNumbers": [
+        "10860892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Axle Failure Due to Rust",
+      "impact": "The failure of the axle due to rust can cause loss of acceleration, loss of control, and increase the risk of accidents, especially when occurring on a busy highway.",
+      "symptoms": [
+        "Sudden loss of acceleration",
+        "dull thud sound",
+        "inability to move the vehicle",
+        "vehicle becomes disabled on the road."
+      ],
+      "odiNumbers": [
+        "11529329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Recall Coverage",
+      "impact": "The failure of the manufacturer to include certain models in the recall, despite meeting all other criteria, can leave vehicles vulnerable to safety risks and put drivers and passengers at risk.",
+      "symptoms": [
+        "Vehicle not included in recall despite meeting all other criteria",
+        "lack of notification from manufacturer",
+        "increased risk of accidents due to faulty components."
+      ],
+      "odiNumbers": [
+        "11529329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent No-Start Condition",
+      "impact": "The intermittent no-start condition can leave the driver stranded, causing inconvenience and potentially putting them in a dangerous situation. It can also lead to additional costs for towing and repair.",
+      "symptoms": [
+        "The vehicle fails to start after being parked for a period of time",
+        "requiring a jumpstart to get it running again. The issue occurs intermittently",
+        "with no clear pattern."
+      ],
+      "odiNumbers": [
+        "10957139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Drain or Parasitic Drain",
+      "impact": "The battery drain or parasitic drain can cause the vehicle to not start, leading to inconvenience and potentially putting the driver in a dangerous situation. It can also lead to additional costs for battery replacement and repair.",
+      "symptoms": [
+        "The vehicle's battery is drained",
+        "even when the vehicle is turned off",
+        "causing the vehicle to not start. The issue may be intermittent",
+        "making it difficult to diagnose."
+      ],
+      "odiNumbers": [
+        "10957139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

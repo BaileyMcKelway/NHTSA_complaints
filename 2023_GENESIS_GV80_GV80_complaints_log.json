@@ -1,0 +1,137 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to suddenly stop while driving, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly stops",
+        "the transmission shifts to Park mode automatically",
+        "a grinding noise is heard",
+        "and the vehicle may become unstable while driving."
+      ],
+      "odiNumbers": [
+        "11557522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Limited Slip Differential Actuator Failure",
+      "impact": "The failure of the rear limited slip differential actuator can cause the vehicle to become unstable while driving, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The vehicle becomes unstable while driving",
+        "the dashboard may not indicate an immediate need for service",
+        "and the issue may not be remotely diagnosable."
+      ],
+      "odiNumbers": [
+        "11521885",
+        "11521251",
+        "11521254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Traction Control System Failure",
+      "impact": "The failure of the electronic traction control system can cause unpredictable driving behavior, leading to potential accidents or loss of control, especially in wintry conditions.",
+      "symptoms": [
+        "The system incorrectly delivers power to wheels that have lost grip",
+        "causing unpredictable driving behavior",
+        "and the issue may not be resolved even when Snow mode is activated."
+      ],
+      "odiNumbers": [
+        "11521254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the vehicle to lose power and momentum, increasing the risk of accidents, especially when driving in heavy traffic or intersections.",
+      "symptoms": [
+        "The engine stalls multiple times after coming to a stop",
+        "the gauges on the dashboard stop showing information",
+        "the vehicle is unable to start or takes multiple attempts to start",
+        "the vehicle starts back up on its own after pressing the accelerator."
+      ],
+      "odiNumbers": [
+        "11534417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can increase the risk of accidents or collisions, as the driver is unable to alert other drivers or pedestrians of their presence.",
+      "symptoms": [
+        "The horn does not work",
+        "the driver is unable to honk or alert others around them."
+      ],
+      "odiNumbers": [
+        "11534418"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Limited Slip Differential Issues",
+      "impact": "The failure of the limited slip differential can affect the vehicle's traction and stability, especially in low-traction conditions, which can increase the risk of accidents or loss of control.",
+      "symptoms": [
+        "Not specified in the complaint",
+        "but potential symptoms may include unusual noises or vibrations from the differential",
+        "uneven tire wear",
+        "or difficulty maintaining traction."
+      ],
+      "odiNumbers": [
+        "11501950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Adaptive Cruise Control",
+      "impact": "The unpredictable behavior of the Adaptive Cruise Control can cause the vehicle to suddenly slow down or come to a stop on the highway, potentially leading to accidents or rear-end collisions.",
+      "symptoms": [
+        "The vehicle suddenly decelerates or comes to a stop on the highway without any apparent reason",
+        "often on straight stretches of road or when approaching curves with guardrails or snow banks. The system may not respond to other vehicles in close proximity."
+      ],
+      "odiNumbers": [
+        "11560941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inoperative Forward Collision Warning and Active Assist",
+      "impact": "The malfunctioning Forward Collision Warning and Active Assist system can increase the risk of accidents by failing to detect vehicles ahead and not providing timely warnings or emergency braking.",
+      "symptoms": [
+        "The system fails to detect vehicles ahead",
+        "does not display them on the dashboard",
+        "and does not provide warnings or activate emergency braking in a timely manner. The system may only activate when a collision is imminent",
+        "and even then",
+        "may not activate emergency braking."
+      ],
+      "odiNumbers": [
+        "11540128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

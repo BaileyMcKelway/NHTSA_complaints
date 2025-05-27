@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SUSPENSION",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Precision All-Wheel Steer (PAWS) System Failure",
+      "impact": "The failure of the PAWS system can cause the vehicle to lose control, making it difficult to steer, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The steering wheel is jerked out of the driver's hand",
+        "the vehicle fishtails",
+        "the rear-end of the vehicle loses control",
+        "the steering wheel turns unexpectedly",
+        "warning lights illuminate on the dashboard",
+        "the vehicle goes into limp mode",
+        "the vehicle's speed is limited to 50mph."
+      ],
+      "odiNumbers": [
+        "11539084",
+        "11480309",
+        "11431979",
+        "11420323",
+        "11396056",
+        "11252353",
+        "11246196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Trailer Control (RTC) Actuator Failure",
+      "impact": "The failure of the RTC actuators can cause the vehicle to fishtail or lose traction, increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The vehicle fishtails or loses traction while changing lanes or driving",
+        "especially during sudden maneuvers."
+      ],
+      "odiNumbers": [
+        "11475973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Timing Tensioner Failure",
+      "impact": "The failure of the timing tensioner can cause the engine to seize, leading to sudden stalling, loss of power, and potential accidents.",
+      "symptoms": [
+        "Knocking sound coming from the engine compartment",
+        "engine stalling",
+        "inability to restart the vehicle",
+        "engine seizure."
+      ],
+      "odiNumbers": [
+        "11374818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Seizure",
+      "impact": "Engine seizure can cause sudden stalling, loss of power, and potential accidents, leaving the driver stranded and potentially causing damage to the vehicle.",
+      "symptoms": [
+        "Engine stalling",
+        "inability to restart the vehicle",
+        "knocking sound coming from the engine compartment",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11374818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

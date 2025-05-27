@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause safety features to shut off, leading to potential accidents or near-misses.",
+      "symptoms": [
+        "The screen randomly shorts or shuts off",
+        "freezes during backup",
+        "audio system makes weird crackling noises",
+        "and the system glitches or goes static after a bump."
+      ],
+      "odiNumbers": [
+        "11530116",
+        "11507240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause the vehicle to not start, or prevent the vehicle from shifting into gear, leading to potential accidents or stranding.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the brake pedal is depressed",
+        "and there is a loud cranking noise coming from the front end of the vehicle."
+      ],
+      "odiNumbers": [
+        "11430462"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Door Sensor Malfunction",
+      "impact": "The malfunction of the door sensor can cause the vehicle to not shift into gear, leading to potential accidents or near-misses.",
+      "symptoms": [
+        "The vehicle will not shift into drive due to a faulty door sensor",
+        "even when the door is fully closed."
+      ],
+      "odiNumbers": [
+        "11425874"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Safety Recall Issues",
+      "impact": "The failure to address safety recall issues can lead to potential injuries or accidents.",
+      "symptoms": [
+        "The passenger front seat airbag can deploy prematurely in an accident",
+        "causing injury."
+      ],
+      "odiNumbers": [
+        "11578542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Improper Activation of Collision Mitigation Braking System (CMBS)",
+      "impact": "The improper activation of the CMBS can cause sudden and hard braking, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly brakes hard",
+        "often with no vehicles in front or nearby",
+        "accompanied by a flashing dash warning and/or a \"BRAKE\" message on the dashboard."
+      ],
+      "odiNumbers": [
+        "11507643",
+        "11500621",
+        "11467646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Abnormal Brake Noise",
+      "impact": "The loud, abnormal brake noise can be a distraction to the driver, potentially leading to accidents or decreased vehicle control. Additionally, the noise may be a symptom of a underlying brake system issue, which can compromise vehicle safety.",
+      "symptoms": [
+        "Loud",
+        "abnormal",
+        "squealing",
+        "or clicking noise when depressing the brake pedal",
+        "especially at low speeds (1-3 mph)."
+      ],
+      "odiNumbers": [
+        "11474679",
+        "11455498",
+        "11428292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

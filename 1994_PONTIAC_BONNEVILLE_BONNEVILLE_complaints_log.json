@@ -1,0 +1,442 @@
+{
+  "totalComplaints": 107,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 25,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, leading to loss of power steering and braking, and potentially resulting in accidents or fires.",
+      "symptoms": [
+        "The vehicle shuts down without warning",
+        "the battery light comes on",
+        "the alternator fails",
+        "the dashboard lights and instruments malfunction",
+        "smoke or flames come from the vents or under the hood."
+      ],
+      "odiNumbers": [
+        "10143532",
+        "10133973",
+        "765455",
+        "882541",
+        "711552",
+        "846912",
+        "542308",
+        "537837",
+        "519130",
+        "800952",
+        "971509",
+        "963081",
+        "962495"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to shut down, leading to loss of power steering and braking, and potentially resulting in accidents.",
+      "symptoms": [
+        "The alternator fails",
+        "the battery light comes on",
+        "the vehicle shuts down without warning",
+        "the battery gauge goes low."
+      ],
+      "odiNumbers": [
+        "765455",
+        "537837",
+        "519130",
+        "882541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to shut down, leading to loss of power steering and braking, and potentially resulting in accidents.",
+      "symptoms": [
+        "The ignition system fails",
+        "the dashboard lights and instruments malfunction",
+        "the vehicle shuts down without warning."
+      ],
+      "odiNumbers": [
+        "542308",
+        "882541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Design Flaw in Electrical System",
+      "impact": "The design flaw in the electrical system can cause the vehicle to draw excessive power, leading to repeated alternator failures and potentially resulting in accidents or fires.",
+      "symptoms": [
+        "The vehicle draws excessive power",
+        "the alternator fails repeatedly",
+        "the electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "765455",
+        "882541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling or Failure",
+      "impact": "Engine stalling or failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or fails without warning",
+        "the vehicle loses power",
+        "the engine makes a clicking sound",
+        "the vehicle is difficult to restart",
+        "the temperature gauge rises",
+        "the vehicle overheats."
+      ],
+      "odiNumbers": [
+        "10025004",
+        "8020010",
+        "753203",
+        "881925",
+        "737612",
+        "736832",
+        "865140",
+        "858732",
+        "709827",
+        "506670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the alternator needs to be replaced multiple times",
+        "the battery drains quickly."
+      ],
+      "odiNumbers": [
+        "881925",
+        "736832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Cooling system failure can cause the engine to overheat, leading to engine damage or failure.",
+      "symptoms": [
+        "The water pump is noisy",
+        "the water pump needs to be replaced",
+        "the coolant system is contaminated",
+        "the engine overheats."
+      ],
+      "odiNumbers": [
+        "737612",
+        "547891",
+        "814710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Ignition or Fuel Control System Failure",
+      "impact": "Electronic ignition or fuel control system failure can cause the engine to stall or fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or fails without warning",
+        "the vehicle is difficult to restart",
+        "the crankshaft sensor needs to be replaced."
+      ],
+      "odiNumbers": [
+        "709827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Component Failure",
+      "impact": "Engine component failure can cause the engine to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The push rod fails",
+        "the rods are shot",
+        "the engine bearings are noisy."
+      ],
+      "odiNumbers": [
+        "736832",
+        "858732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "Exhaust system failure can cause the vehicle to overheat, leading to engine damage or failure.",
+      "symptoms": [
+        "The bumper has melted over the exhaust pipe",
+        "smells are coming into the car."
+      ],
+      "odiNumbers": [
+        "978723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fire can cause the vehicle to be destroyed, leading to accidents or injuries.",
+      "symptoms": [
+        "The engine catches fire."
+      ],
+      "odiNumbers": [
+        "505101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, including facial injuries, and damage to the vehicle.",
+      "symptoms": [
+        "Airbag deploys while the vehicle is parked or in motion",
+        "without any apparent reason or crash."
+      ],
+      "odiNumbers": [
+        "8022656",
+        "8022612",
+        "855486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "Failure of airbags to deploy during a crash can cause injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy during a collision",
+        "resulting in injuries to the driver or passengers."
+      ],
+      "odiNumbers": [
+        "543120",
+        "824421",
+        "958476",
+        "503335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Warning Light Issues",
+      "impact": "The airbag warning light staying on while the vehicle is in motion can indicate a problem with the airbag system, which can lead to unintended deployment or failure to deploy.",
+      "symptoms": [
+        "The airbag warning light comes on continuously while the vehicle is in motion",
+        "indicating a potential problem with the airbag system."
+      ],
+      "odiNumbers": [
+        "820224",
+        "979871",
+        "500766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Deployment Causing Injuries",
+      "impact": "Airbag deployment can cause injuries, including burns, broken bones, and other harm.",
+      "symptoms": [
+        "Airbag deployment causes injuries to the driver or passengers",
+        "including burns",
+        "broken bones",
+        "and other harm."
+      ],
+      "odiNumbers": [
+        "806382",
+        "804440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the brakes to lock up, leading to loss of vehicle control, extended stopping distance, and increased risk of accidents.",
+      "symptoms": [
+        "ABS sensor light comes on",
+        "brake pedal goes to the floor",
+        "brakes lock up",
+        "no resistance when applying the brakes",
+        "grinding noise",
+        "and extended stopping distance."
+      ],
+      "odiNumbers": [
+        "862475",
+        "834739",
+        "805106",
+        "486659",
+        "961886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Component Failure",
+      "impact": "The failure of brake components, such as brake pads, rotors, and wheel cylinders, can cause vibration, sticking brakes, and extended stopping distance, which can lead to accidents.",
+      "symptoms": [
+        "Vibration when braking",
+        "front brakes stick",
+        "rear wheel brake sensor failure",
+        "brake fluid leaks",
+        "and grinding noise."
+      ],
+      "odiNumbers": [
+        "547891",
+        "547891",
+        "547891",
+        "830787",
+        "981046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure Leading to Accidents",
+      "impact": "The failure of the brakes can cause accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Brakes fail to stop the vehicle",
+        "leading to accidents."
+      ],
+      "odiNumbers": [
+        "813768"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cradle Bolt Corrosion and Failure",
+      "impact": "Engine cradle bolt corrosion and failure can cause the engine to fall out of the vehicle, leading to loss of steering control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Engine falls out of the vehicle",
+        "corrosion on engine cradle bolts",
+        "engine mounts failure."
+      ],
+      "odiNumbers": [
+        "10239501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure and Slipping",
+      "impact": "Transmission failure and slipping can cause loss of control, accidents, injuries, or loss of life, especially when the vehicle suddenly shifts into neutral while driving at high speeds.",
+      "symptoms": [
+        "Transmission does not engage when cold",
+        "transmission failure",
+        "transmission slipping",
+        "transmission shifting into neutral while driving",
+        "transmission fluid leak",
+        "underhood fire."
+      ],
+      "odiNumbers": [
+        "715846",
+        "547891",
+        "706488",
+        "835283",
+        "500766",
+        "968330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Seal Design Defect",
+      "impact": "Defective transmission seal design can cause transmission failure, leading to loss of control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Transmission failure",
+        "transmission does not engage when cold",
+        "transmission slipping."
+      ],
+      "odiNumbers": [
+        "715846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Traction Control System Installation Issue",
+      "impact": "Improper installation of the traction control system can cause system malfunction, leading to loss of control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Traction control system not installed at time of assembly."
+      ],
+      "odiNumbers": [
+        "547891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shift Handle Failure",
+      "impact": "Shift handle failure can cause difficulty in shifting gears, leading to loss of control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Shift handle broke."
+      ],
+      "odiNumbers": [
+        "547891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Fluid Leak into Radiator",
+      "impact": "Transmission fluid leak into the radiator can cause transmission failure, leading to loss of control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Transmission fluid leak into radiator",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "706488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Gear Position Indicator Failure",
+      "impact": "Gear position indicator failure can cause difficulty in shifting gears, leading to loss of control, accidents, injuries, or loss of life.",
+      "symptoms": [
+        "Gear positions cannot be read at night."
+      ],
+      "odiNumbers": [
+        "524022"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

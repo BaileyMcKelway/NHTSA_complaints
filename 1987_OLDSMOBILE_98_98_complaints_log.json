@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the loss of hydraulic braking, leading to increased stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "ABS and brake alarm lights come on and stay on until the engine is shut off",
+        "little to no hydraulic braking is available when the brake light is on",
+        "prolonged braking in stop-and-go traffic causes the ABS and brake alarm lights to come on."
+      ],
+      "odiNumbers": [
+        "523039",
+        "522692",
+        "521526",
+        "966451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the loss of hydraulic braking, leading to increased stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Brake failure",
+        "prolonged braking",
+        "ABS and brake alarm lights come on and stay on until the engine is shut off."
+      ],
+      "odiNumbers": [
+        "966451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Brake Failure",
+      "impact": "The failure of the power brake system can cause the loss of hydraulic braking, leading to increased stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Brake failure",
+        "prolonged braking",
+        "ABS and brake alarm lights come on and stay on until the engine is shut off."
+      ],
+      "odiNumbers": [
+        "966451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Multiple Component Failure",
+      "impact": "The failure of multiple components can lead to a loss of vehicle functionality, safety issues, and increased risk of accidents.",
+      "symptoms": [
+        "Various symptoms including random stalling",
+        "cracked radiator",
+        "water pump failure",
+        "brake spring failure",
+        "wheel alignment issues",
+        "air conditioning failure",
+        "headlight adjusting screw breakage",
+        "tie rod failure",
+        "battery cable failure",
+        "gas gauge failure",
+        "catalytic converter failure",
+        "and horn malfunction."
+      ],
+      "odiNumbers": [
+        "10012364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Play",
+      "impact": "Excessive play in the steering column can cause loss of control, accidents, and increased risk of injury.",
+      "symptoms": [
+        "Excessive play in the steering column",
+        "loose anchor bolts",
+        "hard steering in cold weather."
+      ],
+      "odiNumbers": [
+        "722717",
+        "976029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cold Weather Steering Issues",
+      "impact": "Hard steering in cold weather can cause loss of control, accidents, and increased risk of injury.",
+      "symptoms": [
+        "Hard steering in cold weather",
+        "difficulty turning until the vehicle warms up."
+      ],
+      "odiNumbers": [
+        "976029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling at High Speeds",
+      "impact": "The sudden stalling of the engine at high speeds can lead to a loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The engine dies or stalls while driving at high speeds",
+        "often in heavy traffic",
+        "and may be difficult to diagnose or reproduce."
+      ],
+      "odiNumbers": [
+        "733366",
+        "732860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

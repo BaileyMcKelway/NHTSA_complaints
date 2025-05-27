@@ -1,0 +1,274 @@
+{
+  "totalComplaints": 81,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure due to Coolant Intrusion",
+      "impact": "The failure of the engine due to coolant intrusion can cause the vehicle to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "the vehicle experiences rough starts",
+        "white exhaust is emitted from the tailpipe",
+        "the coolant level is low",
+        "and the engine may shudder or vibrate."
+      ],
+      "odiNumbers": [
+        "11592820",
+        "11591955",
+        "11585679",
+        "11585213",
+        "11583248",
+        "11580429",
+        "11577086",
+        "11574813",
+        "11574725",
+        "11568747",
+        "11553427",
+        "11536000",
+        "11536058"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect for Recall Repair",
+      "impact": "The unavailability of parts for the recall repair can cause a delay in the repair, potentially leading to further engine damage or failure, and putting the driver and passengers at risk.",
+      "symptoms": [
+        "The contact receives notification of a recall",
+        "but the part to do the recall repair is not yet available",
+        "and the manufacturer has exceeded a reasonable amount of time for the recall repair."
+      ],
+      "odiNumbers": [
+        "11550636",
+        "11549800",
+        "11549658",
+        "11548147",
+        "11548166",
+        "11546587",
+        "11546014",
+        "11544512",
+        "11544335",
+        "11544047",
+        "11540067",
+        "11537926",
+        "11537447",
+        "11537105",
+        "11534555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Monitor Sensor Failure",
+      "impact": "The failure of the battery monitor sensor can cause the vehicle to stall, lose power, or even catch fire, putting the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The vehicle's battery voltage is low",
+        "the car pulls or slows while driving",
+        "the battery sensor is not available",
+        "the vehicle requires frequent jump-starts",
+        "the vehicle's electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "11551808",
+        "11543186",
+        "11421544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, lose power, or even catch fire, putting the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The vehicle's electrical system malfunctions",
+        "the battery gets very hot",
+        "the vehicle's wiring connections are faulty",
+        "the vehicle's battery connections need to be redesigned."
+      ],
+      "odiNumbers": [
+        "11421544",
+        "11001858"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sync System Failure",
+      "impact": "The failure of the Sync system can cause the vehicle to lose power, stall, or even roll away, putting the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The Sync system restarts",
+        "the engine turns off",
+        "the dashboard panels turn off",
+        "the vehicle rolls away without the driver's input",
+        "the brakes",
+        "steering",
+        "and push-button transmission become non-operable."
+      ],
+      "odiNumbers": [
+        "11175125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Wiper Malfunction",
+      "impact": "The malfunction of the windshield wipers can cause reduced visibility, increasing the risk of accidents, especially during heavy rain or flood conditions.",
+      "symptoms": [
+        "The windshield wipers do not work",
+        "the wipers do not respond to automation settings",
+        "the wipers fail to clear the windshield during heavy rain or flood conditions."
+      ],
+      "odiNumbers": [
+        "11047165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Overheating and Engine Failure",
+      "impact": "The overheating of the engine can cause the vehicle to break down, leaving the driver stranded, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle acts like it is overheating",
+        "the vehicle breaks down and does not turn back on",
+        "the vehicle requires towing."
+      ],
+      "odiNumbers": [
+        "11583730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can increase the risk of accidents or injuries when reversing, as the driver may not be able to see obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "The backup camera screen is black or displays no image",
+        "the camera fails to activate when reversing",
+        "the alarm does not sound when an obstacle is detected."
+      ],
+      "odiNumbers": [
+        "11555186",
+        "11527273"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Availability and Repair Delays",
+      "impact": "Delays in obtaining necessary parts can leave vehicles unrepaired for extended periods, potentially leading to accidents or further damage.",
+      "symptoms": [
+        "Long waiting lists for parts",
+        "limited availability of parts",
+        "extended repair times."
+      ],
+      "odiNumbers": [
+        "11547504"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "Engine head gasket failure can cause sudden loss of power, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "Engine head gasket leak",
+        "loss of power",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "11534197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lug Nut Issues",
+      "impact": "Swollen lug nuts can cause wheel damage or loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "Swollen lug nuts",
+        "difficulty removing lug nuts."
+      ],
+      "odiNumbers": [
+        "11455388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause loss of power, stalling, or other problems that can increase the risk of accidents.",
+      "symptoms": [
+        "Engine light illumination",
+        "loss of power",
+        "stalling."
+      ],
+      "odiNumbers": [
+        "11180551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Tailgate and Latch Issues",
+      "impact": "Issues with the tailgate and latch can cause safety concerns, such as the tailgate falling or not closing properly.",
+      "symptoms": [
+        "Popping sound in the back roof area",
+        "warning sound for closing tailgate does not sound",
+        "tailgate does not close properly."
+      ],
+      "odiNumbers": [
+        "11088544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Side View Mirror Issues",
+      "impact": "Failure of side view mirrors to automatically deploy can increase the risk of accidents, especially when changing lanes or merging.",
+      "symptoms": [
+        "Side view mirrors do not automatically deploy",
+        "driver must manually deploy mirrors."
+      ],
+      "odiNumbers": [
+        "11060668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Lift Gate Arm Failure",
+      "impact": "Sudden failure of the lift gate arm can cause injury or damage, especially if the spring propels outward.",
+      "symptoms": [
+        "Lift gate arm breaks suddenly",
+        "spring propels outward",
+        "potential for injury or damage."
+      ],
+      "odiNumbers": [
+        "11045083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

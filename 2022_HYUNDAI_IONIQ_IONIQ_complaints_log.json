@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Parking Brake (EPB) and Adaptive Cruise Control (ACC) Failure",
+      "impact": "The failure of the EPB and ACC systems can cause a loss of vehicle control, leading to accidents or injuries.",
+      "symptoms": [
+        "The EPB and ACC warning lights appear on the dashboard",
+        "the cruise control function becomes disabled",
+        "the auto hold function stops working",
+        "and the electric parking brake fails to engage."
+      ],
+      "odiNumbers": [
+        "11553326",
+        "11531869",
+        "11514514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Regenerative Brake System Failure",
+      "impact": "The failure of the regenerative brake system can cause a loss of braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "The regenerative brake system error warning appears",
+        "the brakes stop working properly",
+        "and the vehicle may experience unexpected acceleration or deceleration."
+      ],
+      "odiNumbers": [
+        "11463942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Auto Hold and Electronic Parking Brake (EPB) System Failure",
+      "impact": "The malfunction of the Auto Hold and EPB system can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries. The constant beeping and warning lights can also be a distraction for the driver, increasing the risk of accidents.",
+      "symptoms": [
+        "The Auto Hold feature fails to engage or disengage",
+        "the EPB warning light appears on the dashboard",
+        "the system beeps constantly",
+        "the Auto Hold feature appears on the screen but does not work",
+        "the brakes do not hold when the Auto Hold feature is engaged."
+      ],
+      "odiNumbers": [
+        "11579021",
+        "11546636",
+        "11481814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates independently",
+        "often without warning",
+        "and may reach high speeds",
+        "even when the driver is not pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "11584582",
+        "11466376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

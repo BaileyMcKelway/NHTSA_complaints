@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause spontaneous fires, stalling, and loss of vehicle control, which can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle bursts into flames",
+        "the engine stalls without warning",
+        "the vehicle loses power",
+        "the horn sensors are difficult to locate in emergency situations",
+        "an odor of burned wire is present",
+        "smoke comes from the steering column",
+        "and the vehicle accelerates suddenly."
+      ],
+      "odiNumbers": [
+        "10233732",
+        "10157954",
+        "10121900",
+        "769404",
+        "826201",
+        "822824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Ignition system failures can cause the vehicle to stall or fail to start, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine fails to start",
+        "the ignition switch exhibits odd and damaging behavior."
+      ],
+      "odiNumbers": [
+        "10157954",
+        "769404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Dashboard Electrical Component Failure",
+      "impact": "Dashboard electrical component failures can cause display malfunctions, leading to driver distraction and potential accidents.",
+      "symptoms": [
+        "The digital A/C display stops functioning",
+        "dash lights go out",
+        "indicating gear position (neutral",
+        "reverse",
+        "drive",
+        "etc.)."
+      ],
+      "odiNumbers": [
+        "10082791"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Transmission Slipping or Popping",
+      "impact": "The automatic transmission slipping or popping can cause the vehicle to lose power, hesitate, or jerk while shifting gears, which can lead to accidents, especially when merging or crossing traffic. This issue can also cause premature wear on the transmission, leading to costly repairs.",
+      "symptoms": [
+        "The transmission pops or slips when shifting gears",
+        "the vehicle hesitates or jerks when accelerating",
+        "the transmission fluid level is low",
+        "the transmission warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10110678",
+        "10000021",
+        "748164",
+        "724220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended movement of the vehicle can cause accidents, injuries, or property damage, especially if the vehicle rolls into traffic or pedestrian areas.",
+      "symptoms": [
+        "The vehicle shifts out of park or neutral without the driver's input",
+        "the vehicle rolls or moves on its own",
+        "the parking brake fails to hold the vehicle in place."
+      ],
+      "odiNumbers": [
+        "748164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Airbag System",
+      "impact": "A faulty airbag system can lead to unexpected airbag deployment or failure to deploy in the event of a crash, which can cause serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag deploys randomly or unexpectedly",
+        "the airbag fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10098341",
+        "10002418",
+        "8012908",
+        "607932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden and unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle suddenly accelerates",
+        "lurches forward",
+        "or decelerates rapidly without driver input",
+        "resulting in loss of control or crashes."
+      ],
+      "odiNumbers": [
+        "844152",
+        "844616",
+        "548783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stalling/Deceleration Issues",
+      "impact": "Sudden deceleration or stalling can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle decelerates rapidly while driving",
+        "stalls",
+        "or loses power",
+        "resulting in loss of control or accidents."
+      ],
+      "odiNumbers": [
+        "544390",
+        "548783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE AND ENGINE COOLING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dynamic Power Steering (DPS) Unit Failure",
+      "impact": "The failure of the DPS unit can cause sudden and unexpected loss of power steering, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The power steering locks up",
+        "the vehicle veers or drifts suddenly",
+        "the steering becomes stiff or hard to turn",
+        "the vehicle requires excessive force to correct steering",
+        "the steering jerks or pulls to one side",
+        "the engine light comes on with a \"DP5\" error message."
+      ],
+      "odiNumbers": [
+        "11102003",
+        "10763317",
+        "10332370",
+        "10326677",
+        "10298215",
+        "10297704",
+        "10289316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure - Running and Brake Lights",
+      "impact": "The failure of the electrical system can cause the loss of running and brake lights, reducing the vehicle's visibility and increasing the risk of accidents.",
+      "symptoms": [
+        "The fuse for the running lights and brake lights blows when putting the vehicle in reverse",
+        "resulting in the loss of running and brake lights",
+        "increased risk of accidents due to reduced visibility."
+      ],
+      "odiNumbers": [
+        "10992013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

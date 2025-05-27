@@ -1,0 +1,177 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure to Restrain",
+      "impact": "The failure of the seat belt to restrain the driver or passenger can lead to injuries, including head, neck, and body trauma, and potentially fatal accidents.",
+      "symptoms": [
+        "The seat belt does not lock or tighten properly",
+        "the seat belt breaks or disconnects during an accident",
+        "the seat belt buckle jams or fails to latch",
+        "the seat belt does not restrain the driver or passenger during an impact."
+      ],
+      "odiNumbers": [
+        "780432",
+        "812650",
+        "809222",
+        "802540",
+        "508130",
+        "502826",
+        "968221",
+        "968235",
+        "968175",
+        "967514",
+        "963927",
+        "963805",
+        "962734",
+        "962099",
+        "961749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, leading to injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle is broken or cracked",
+        "the seat belt buckle jams or fails to latch",
+        "the seat belt buckle releases unexpectedly",
+        "the seat belt buckle is damaged or malfunctioning."
+      ],
+      "odiNumbers": [
+        "968221",
+        "968235",
+        "968175",
+        "967514",
+        "963927",
+        "963805",
+        "962734",
+        "962099",
+        "961749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. In extreme cases, it can also cause engine fires, which can spread to other parts of the vehicle.",
+      "symptoms": [
+        "Loud clanking sound under the hood",
+        "loss of power",
+        "no restart",
+        "smoke coming from the engine",
+        "engine burst due to lack of oil."
+      ],
+      "odiNumbers": [
+        "540685",
+        "508949",
+        "802502",
+        "722741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gauges and Sensors Malfunction",
+      "impact": "Malfunctioning gauges and sensors can cause the driver to be unaware of critical engine conditions, leading to engine damage or failure.",
+      "symptoms": [
+        "Fuel and temperature gauge works intermittently",
+        "temperature gauge works once a month then fails."
+      ],
+      "odiNumbers": [
+        "784525",
+        "502179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Injection System Failure",
+      "impact": "Failure of the air injection system can cause exhaust gases to backflow and ignite, leading to engine fires.",
+      "symptoms": [
+        "None reported",
+        "but potential symptoms could include unusual engine noises",
+        "loss of power",
+        "or visible signs of exhaust gas leaks."
+      ],
+      "odiNumbers": [
+        "706501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rocker Arm Shaft Failure",
+      "impact": "Failure of the rocker arm shaft can cause engine damage or failure, leading to loss of power or stalling.",
+      "symptoms": [
+        "Rocker arm shaft has broken twice."
+      ],
+      "odiNumbers": [
+        "976454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Radiator Drain Valve Failure",
+      "impact": "Failure of the radiator drain valve can cause loss of coolant, leading to engine overheating and damage.",
+      "symptoms": [
+        "Radiator drain valve breaks off",
+        "resulting in loss of coolant."
+      ],
+      "odiNumbers": [
+        "965245"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Leaks",
+      "impact": "Fuel system leaks can cause fuel to spill onto the ground, creating a fire hazard and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Fuel leaks from the fuel tank or fuel lines",
+        "fuel smell or odor",
+        "fuel puddles under the vehicle",
+        "fuel gauge malfunctions or works intermittently."
+      ],
+      "odiNumbers": [
+        "831449",
+        "526880",
+        "478469"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A malfunctioning fuel gauge can lead to inaccurate fuel level readings, causing the driver to run out of fuel unexpectedly, which can lead to accidents or strand the driver.",
+      "symptoms": [
+        "Fuel gauge works intermittently",
+        "fuel gauge provides inaccurate readings",
+        "fuel gauge fails to provide any reading."
+      ],
+      "odiNumbers": [
+        "502179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

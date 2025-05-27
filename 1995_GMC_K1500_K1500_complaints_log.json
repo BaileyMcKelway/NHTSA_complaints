@@ -1,0 +1,177 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "VISIBILITY",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to extended stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The ABS light illuminates on the instrument panel",
+        "the brakes are difficult to engage",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the brakes fail to operate",
+        "the vehicle swerves or pulls to one side",
+        "the ABS system activates prematurely at slow speeds."
+      ],
+      "odiNumbers": [
+        "10250351",
+        "10136750",
+        "10061802",
+        "8004796",
+        "862769",
+        "849765",
+        "852610",
+        "833516",
+        "701099"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion-Related ABS Sensor Failure",
+      "impact": "Corrosion of the ABS sensors can cause the ABS system to malfunction, leading to loss of braking control and increased risk of accidents.",
+      "symptoms": [
+        "The ABS light illuminates on the instrument panel",
+        "the brakes are difficult to engage",
+        "the brake pedal feels soft or spongy",
+        "the ABS system activates prematurely at slow speeds."
+      ],
+      "odiNumbers": [
+        "10061802",
+        "10136750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause brake fluid leaks, leading to a loss of braking power and increased risk of accidents.",
+      "symptoms": [
+        "Brake fluid leaks onto electrical wiring",
+        "the brake pedal feels soft or spongy",
+        "the brakes are difficult to engage."
+      ],
+      "odiNumbers": [
+        "536100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Four-Wheel Drive Engagement Issues",
+      "impact": "The failure of the four-wheel drive system to engage properly can cause loss of traction and control, increasing the risk of accidents.",
+      "symptoms": [
+        "The four-wheel drive takes too long to engage."
+      ],
+      "odiNumbers": [
+        "513404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Frame Failure",
+      "impact": "The failure of the seat frame can cause the seat to collapse or move unexpectedly, leading to injuries or accidents, especially in the event of a collision.",
+      "symptoms": [
+        "The seat feels shaky or unstable",
+        "the seat back reclines unexpectedly",
+        "the seat collapses or breaks loose from the floorboard",
+        "the seat moves forward or backward while driving",
+        "the seat frame snaps or breaks."
+      ],
+      "odiNumbers": [
+        "10159764",
+        "10021647",
+        "862612",
+        "701075",
+        "808542",
+        "804156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Track Failure",
+      "impact": "The failure of the seat track can cause the seat to move unexpectedly, leading to injuries or accidents, especially in the event of a collision.",
+      "symptoms": [
+        "The seat moves forward or backward while driving",
+        "the seat track bolt breaks",
+        "the seat becomes loose or unstable."
+      ],
+      "odiNumbers": [
+        "858481",
+        "808542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Material Failure",
+      "impact": "The failure of the seat material can cause discomfort, distraction, or injuries while driving.",
+      "symptoms": [
+        "The leather seats rip or tear",
+        "the seat material becomes worn or damaged."
+      ],
+      "odiNumbers": [
+        "536100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility, especially during heavy rain or snow, which can lead to accidents or near-miss situations.",
+      "symptoms": [
+        "Windshield wipers stop working unexpectedly",
+        "wipers turn on and off intermittently",
+        "wipers fail to operate when the switch is turned on",
+        "wipers make noise but do not move",
+        "poor visibility due to wiper failure."
+      ],
+      "odiNumbers": [
+        "770014",
+        "8013928",
+        "851824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Axle/Differential Failure",
+      "impact": "The failure of the rear axle or differential can cause the vehicle to become stuck or lose control, leading to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "Clunking noise coming from the rear axle",
+        "feeling of loose gears inside the differential",
+        "rear axle locking up",
+        "audible clanking noise",
+        "vibration at speeds of 50-65 mph",
+        "heavy lateral run out",
+        "excessive tire wear."
+      ],
+      "odiNumbers": [
+        "704601",
+        "975654",
+        "971696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

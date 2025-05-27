@@ -1,0 +1,225 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle accelerates without input from the driver",
+        "the vehicle surges forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "11592741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause the vehicle to stall or shut down, leading to a loss of power and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle turns off completely and then restarts",
+        "the vehicle stalls without warning",
+        "the vehicle decelerates rapidly without input from the driver."
+      ],
+      "odiNumbers": [
+        "11580234",
+        "11128776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Parking Brake (EPB) Failure",
+      "impact": "EPB failure can cause the vehicle to become stuck, making it difficult or impossible to drive, and potentially leading to accidents or strandings.",
+      "symptoms": [
+        "The EPB activates unexpectedly",
+        "the EPB fails to disengage",
+        "the vehicle becomes stuck."
+      ],
+      "odiNumbers": [
+        "11385561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Computer System Failure",
+      "impact": "Computer system failures can cause incorrect information to be displayed, leading to confusion and potentially affecting vehicle performance and safety.",
+      "symptoms": [
+        "The fuel mile range is incorrectly reported",
+        "the electronic range and fuel range electronic detection system malfunctions."
+      ],
+      "odiNumbers": [
+        "11128776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Overheating and Failure",
+      "impact": "The transmission overheating and failure can cause the vehicle to stop driving suddenly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission overheats",
+        "the vehicle stops driving suddenly",
+        "the transmission slips or hesitates",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11587016",
+        "11559788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Hesitation and Stuttering",
+      "impact": "The transmission hesitation and stuttering can cause the vehicle to lose power and acceleration, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission hesitates when shifting into drive or reverse",
+        "the RPMs fluctuate erratically",
+        "the vehicle stutters when accelerating from a complete stop."
+      ],
+      "odiNumbers": [
+        "11559788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The brake failure can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The brakes do not work",
+        "the vehicle rolls backwards or forwards without control",
+        "the brakes engage suddenly or erratically."
+      ],
+      "odiNumbers": [
+        "11587016",
+        "11219577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended vehicle movement can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle moves in an unintended direction",
+        "the vehicle rolls backwards or forwards without control",
+        "the vehicle accelerates or decelerates without input from the driver."
+      ],
+      "odiNumbers": [
+        "11219577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not adequately protected.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "11426548",
+        "11290032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Improper Airbag Deployment",
+      "impact": "Improper airbag deployment can cause injuries or fatalities, as the airbag may not provide adequate protection or may even cause harm to the occupants.",
+      "symptoms": [
+        "Airbag deploys incorrectly",
+        "such as only partially inflating or deploying unevenly",
+        "which can cause injuries to the occupants."
+      ],
+      "odiNumbers": [
+        "11301971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "Seatbelt failure can lead to serious injuries or fatalities, as the occupants are not adequately restrained in the event of a crash.",
+      "symptoms": [
+        "Seatbelt locks up or fails to lock",
+        "causing the occupant to be unrestrained or improperly restrained in a crash."
+      ],
+      "odiNumbers": [
+        "11290032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Auto Hold System Malfunction",
+      "impact": "The malfunction of the brake auto hold system can cause the vehicle to stop suddenly, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The brake auto hold system disengages and applies the parking brake unexpectedly",
+        "causing the vehicle to stop suddenly",
+        "and the parking brake cannot be disengaged until the seat belt is rebuckled."
+      ],
+      "odiNumbers": [
+        "11387611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Brake Wear and Noise",
+      "impact": "Premature brake wear and noise can lead to reduced stopping power, potentially causing accidents or injuries.",
+      "symptoms": [
+        "The brakes exhibit excessive wear",
+        "loud sounds",
+        "and screeching noises",
+        "requiring frequent replacements and repairs."
+      ],
+      "odiNumbers": [
+        "11319010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Forward Collision Mitigation System False Activation",
+      "impact": "The false activation of the forward collision mitigation system can cause the vehicle to brake suddenly, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The forward collision mitigation system activates unexpectedly",
+        "causing the vehicle to brake suddenly",
+        "even when there are no hazards or objects obstructing the vehicle."
+      ],
+      "odiNumbers": [
+        "11291654"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "SEAT BELTS",
+    "TIRES",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Paint and Chrome Defects",
+      "impact": "The flaking of paint and chrome can lead to rust and corrosion, compromising the structural integrity of the vehicle and potentially causing safety issues. Additionally, it can also affect the vehicle's appearance and resale value.",
+      "symptoms": [
+        "Paint peeling or flaking off",
+        "especially on the hood and roof",
+        "chrome flaking off",
+        "rust or corrosion forming under the peeling paint or chrome."
+      ],
+      "odiNumbers": [
+        "10054725",
+        "10054727",
+        "539812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Middle Seat Belt Latch Failure",
+      "impact": "The failure of the middle seat belt latch can cause the seat belt to become unsecured, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The middle seat belt latch does not lock or stay locked",
+        "the seat belt becomes unsecured while in use",
+        "the seat belt cannot be properly fastened."
+      ],
+      "odiNumbers": [
+        "514798",
+        "546684",
+        "512164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Jack Lever Quality Issue",
+      "impact": "The poor quality of the lever used to operate the jack can cause difficulty or failure to lift the vehicle, making it difficult or impossible to change a tire or perform other maintenance tasks.",
+      "symptoms": [
+        "The lever used to operate the jack is difficult to use",
+        "the lever breaks or bends",
+        "the lever does not provide enough leverage to lift the vehicle."
+      ],
+      "odiNumbers": [
+        "512164"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Unbalance and Recall",
+      "impact": "Unbalanced tires can cause uneven tire wear, reduced traction, and increased risk of tire failure, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The tires seem unbalanced",
+        "uneven tire wear",
+        "vibration while driving",
+        "reduced traction",
+        "and increased risk of tire failure."
+      ],
+      "odiNumbers": [
+        "10197840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Paint Failure",
+      "impact": "The premature paint failure can lead to cosmetic issues, reducing the vehicle's appearance and potentially affecting its resale value.",
+      "symptoms": [
+        "The paint is peeling away",
+        "flaking",
+        "or fading prematurely",
+        "resulting in an uneven and unsightly appearance."
+      ],
+      "odiNumbers": [
+        "707050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Rod Bent or Misaligned",
+      "impact": "A bent or misaligned brake pedal rod can cause a loss of braking power, increasing the risk of accidents, including rear-end collisions.",
+      "symptoms": [
+        "Spongy or soft brake pedal",
+        "reduced braking power",
+        "uneven brake pedal travel",
+        "brake pedal feels loose or unstable",
+        "difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "827597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

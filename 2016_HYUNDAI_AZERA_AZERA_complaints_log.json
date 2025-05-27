@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Module Failure",
+      "impact": "The failure of the airbag module can prevent the airbags from deploying in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag light comes on while driving",
+        "the airbag module needs to be replaced",
+        "the vehicle does not have working airbags."
+      ],
+      "odiNumbers": [
+        "11479563",
+        "11438110",
+        "11046002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Binding or Locking",
+      "impact": "The binding or locking of the steering system can cause the vehicle to swerve or lose control, especially at high speeds or in slippery conditions, which can lead to accidents.",
+      "symptoms": [
+        "The steering wheel feels sticky or locked",
+        "requiring excessive force to turn",
+        "the vehicle swerves or pulls to one side",
+        "noise coming from the steering column while turning",
+        "the steering wheel is difficult to turn",
+        "especially during small adjustments."
+      ],
+      "odiNumbers": [
+        "11428927",
+        "11402797",
+        "11395198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Moonroof/Sunshade Malfunction",
+      "impact": "The malfunction of the moonroof/sunshade can obstruct the driver's rearview visibility, potentially causing accidents or collisions.",
+      "symptoms": [
+        "The sunshade fails to retract",
+        "hangs down",
+        "and blocks the rearview mirror",
+        "limiting visibility."
+      ],
+      "odiNumbers": [
+        "11546841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Trunk Release Failure",
+      "impact": "The failure of the trunk release mechanism can cause inconvenience and potentially lead to safety issues, such as being unable to access emergency equipment or luggage.",
+      "symptoms": [
+        "The trunk fails to open from the inside or outside",
+        "requiring the use of the key to access the trunk."
+      ],
+      "odiNumbers": [
+        "11429890"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

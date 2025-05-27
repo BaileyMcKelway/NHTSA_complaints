@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 35,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electromechanical Steering Unit Failure",
+      "impact": "The failure of the electromechanical steering unit can cause the loss of power steering, making the vehicle difficult or impossible to steer, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The electromechanical steering warning lamp in the instrument cluster illuminates",
+        "the power steering mechanism fails",
+        "the vehicle is nearly impossible to steer and control",
+        "the warning instructs the driver to stop driving",
+        "the steering wheel becomes extremely hard to turn."
+      ],
+      "odiNumbers": [
+        "11490592",
+        "11446176",
+        "11396476",
+        "11289820",
+        "11289837",
+        "11240596",
+        "11234187",
+        "10627932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Passenger Occupant Detection Control Module",
+      "impact": "The failure of the passenger occupant detection control module can cause the airbag to not deploy properly in the event of a collision, putting the front seat passenger at risk of injury or death.",
+      "symptoms": [
+        "The airbag light on the dashboard illuminates",
+        "indicating a safety issue; the passenger seat airbag sensor fails to recognize that the passenger seat is occupied; error messages indicating that the front driver's side airbag is not functioning."
+      ],
+      "odiNumbers": [
+        "11286991",
+        "10652344",
+        "10652360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Repair for Takata Airbag Recall",
+      "impact": "The delayed or unavailable repair for the Takata airbag recall puts drivers and passengers at risk of injury or death due to the potential for airbag rupture or non-deployment in the event of a collision.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are unavailable for repair; dealerships confirm that parts are not available for the recall remedy."
+      ],
+      "odiNumbers": [
+        "11182481",
+        "11175145",
+        "11104675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak/Fuel Odor",
+      "impact": "A fuel system leak can cause a potent fuel smell inside and outside the vehicle, which can lead to dizziness, nausea, and potentially cause a fire hazard.",
+      "symptoms": [
+        "Strong fuel odor inside and outside the vehicle",
+        "fuel smell becomes more intense when accelerating from a stop or in stop-and-go traffic",
+        "fuel leakage visible under the vehicle."
+      ],
+      "odiNumbers": [
+        "11464964",
+        "11337269",
+        "11320334",
+        "11299100",
+        "10822716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Reverse Camera Malfunction",
+      "impact": "A malfunctioning reverse camera can cause a safety hazard, especially when reversing in tight spaces or with pedestrians or obstacles nearby.",
+      "symptoms": [
+        "The reverse camera screen blacks out or malfunctions",
+        "the camera image appears for a split second before disappearing."
+      ],
+      "odiNumbers": [
+        "11464964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

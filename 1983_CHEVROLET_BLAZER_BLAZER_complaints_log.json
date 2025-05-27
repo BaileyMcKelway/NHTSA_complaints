@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause complete brake failure, leading to accidents, injuries, and potentially fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "grinding or screeching noise when applying brakes",
+        "vehicle pulls to one side when braking",
+        "brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "518990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Rumbling noise while driving",
+        "sudden loss of tire pressure",
+        "visible steel belts",
+        "and reduced tire diameter."
+      ],
+      "odiNumbers": [
+        "872361",
+        "554045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Pawl Failure",
+      "impact": "The sudden failure of the clutch pawl can cause the clutch to engage or disengage unexpectedly, leading to loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The clutch pawl breaks without warning",
+        "the clutch engages or disengages unexpectedly",
+        "the vehicle experiences sudden loss of power or acceleration",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "862321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Axle Seal Failure",
+      "impact": "The failure of the rear axle seals can cause the loss of lubricant, leading to premature wear of the rear axle components, and potentially causing the rear axle to fail, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "The rear axle seals leak lubricant",
+        "the rear axle makes noise or vibrates",
+        "the vehicle experiences difficulty accelerating or decelerating",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "518990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

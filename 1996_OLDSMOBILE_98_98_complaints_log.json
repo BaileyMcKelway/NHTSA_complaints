@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadvertent Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, accidents, and vehicle damage, and may lead to vehicle occupants being unexpectedly and forcefully struck by the deploying airbag, potentially causing upper body injuries or other harm.",
+      "symptoms": [
+        "Airbags deploy without any collision or warning",
+        "while driving at low speeds (5-15 MPH)",
+        "no warning lights illuminated",
+        "airbag deployment can cause injuries",
+        "vehicle damage",
+        "and may lead to accidents."
+      ],
+      "odiNumbers": [
+        "11461221",
+        "10335366",
+        "974134"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Anti-Theft Controller",
+      "impact": "The defective anti-theft controller can cause the security system to malfunction, leading to a lack of warning chimes when the key is in the ignition and the door is open, which can increase the risk of theft.",
+      "symptoms": [
+        "No security warning chime when the key is in the ignition and the door is open",
+        "but the seatbelt warning chime works."
+      ],
+      "odiNumbers": [
+        "10452669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The ignition system failure can cause the engine to misfire, leading to poor engine performance, decreased fuel efficiency, and potentially causing the engine to stall, which can increase the risk of accidents.",
+      "symptoms": [
+        "Engine misfires",
+        "engine missing like a spark plug not firing."
+      ],
+      "odiNumbers": [
+        "10099824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Battery Failure",
+      "impact": "The battery failure can cause the vehicle to stall or not start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "Dead battery",
+        "vehicle won't start."
+      ],
+      "odiNumbers": [
+        "602774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Length",
+      "impact": "Inadequate seat belt length can compromise the safety of occupants, particularly in the rear seats, by making it difficult or impossible to wear the seat belt properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Rear seat belts are too short to be used comfortably",
+        "seat belts do not fit properly",
+        "occupants are unable to wear seat belts correctly",
+        "seat belts are too tight or constricting."
+      ],
+      "odiNumbers": [
+        "526823",
+        "519357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

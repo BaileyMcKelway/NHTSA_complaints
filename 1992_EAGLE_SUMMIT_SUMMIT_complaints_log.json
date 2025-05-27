@@ -1,0 +1,223 @@
+{
+  "totalComplaints": 55,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STRUCTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt can cause the belt to become stuck or inoperable, potentially leading to accidents or injuries due to the lack of proper restraint.",
+      "symptoms": [
+        "The seat belt is stuck in the up position",
+        "the seat belt does not retract",
+        "the seat belt feels like it is locking around the passenger or driver",
+        "the shoulder belt does not move",
+        "the cable pulled away from the guide rail",
+        "the motorized restraint is inoperative",
+        "the seat belt will not restrain the occupant."
+      ],
+      "odiNumbers": [
+        "8002410",
+        "874905",
+        "729433",
+        "866682",
+        "782558",
+        "835548",
+        "529047",
+        "820706",
+        "819724",
+        "523500",
+        "516394",
+        "808650",
+        "511118",
+        "802173",
+        "508277",
+        "983796",
+        "978421",
+        "962357",
+        "473182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Guide Rail Failure",
+      "impact": "The failure of the guide rail can cause the seat belt cable to drop out of the chamber, leading to the shoulder belt anchorage becoming stuck and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The cable pulled away from the guide rail",
+        "the shoulder belt anchorage becomes stuck",
+        "the guide rail does not work."
+      ],
+      "odiNumbers": [
+        "729433",
+        "866682",
+        "529047",
+        "523500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Motorized Restraint Failure",
+      "impact": "The failure of the motorized restraint can cause the seat belt to become inoperable, potentially leading to accidents or injuries due to the lack of proper restraint.",
+      "symptoms": [
+        "The motorized restraint is inoperative",
+        "the passenger side motorized restraint is inoperative",
+        "the driver side motorbelt is defective."
+      ],
+      "odiNumbers": [
+        "819724",
+        "516394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Hinge Failure",
+      "impact": "The failure of the door hinges can cause the door to fall off, leading to accidents, injuries, or damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The door falls off while opening or closing",
+        "the door becomes loose or detached from the frame",
+        "the door cannot be opened or closed",
+        "the door hinges break or crack",
+        "the door latch or lock malfunctions."
+      ],
+      "odiNumbers": [
+        "750880",
+        "722895",
+        "837606",
+        "835607",
+        "833471",
+        "811767",
+        "801795",
+        "801614",
+        "801265",
+        "985727",
+        "979655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Latch Failure",
+      "impact": "The failure of the door latch can cause the door to fall off or become stuck, leading to accidents, injuries, or damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The door latch breaks or malfunctions",
+        "the door falls off while opening or closing",
+        "the door cannot be opened or closed",
+        "the door latch or lock malfunctions."
+      ],
+      "odiNumbers": [
+        "835607",
+        "522892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Excessive Lubrication Causing Door Latch Malfunction",
+      "impact": "Excessive lubrication can cause the door latch to malfunction, leading to accidents, injuries, or damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The door latch malfunctions",
+        "the door falls off while opening or closing",
+        "the door cannot be opened or closed",
+        "excessive lubrication causes the door latch to fail."
+      ],
+      "odiNumbers": [
+        "522892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Closure Issues",
+      "impact": "Door closure issues can cause the door to not close properly, leading to accidents, injuries, or damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The door does not close properly",
+        "the door latch or lock malfunctions",
+        "the door cannot be closed or opened."
+      ],
+      "odiNumbers": [
+        "480402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transfer Case Oil Leak and Failure",
+      "impact": "The oil leak from the transfer case can cause the vehicle to lose control, leading to accidents, and the smoke from the tailpipe can indicate a more serious problem with the transmission.",
+      "symptoms": [
+        "Oil leaking from the transfer case",
+        "smoke coming from the tailpipe",
+        "loss of control while driving",
+        "vehicle instability."
+      ],
+      "odiNumbers": [
+        "871289",
+        "833300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure and Unavailability of Parts",
+      "impact": "The transmission failure can cause the vehicle to lose power, leading to accidents, and the unavailability of parts can leave the driver stranded.",
+      "symptoms": [
+        "Transmission failure",
+        "inability to shift gears",
+        "loss of power",
+        "no parts available for repair."
+      ],
+      "odiNumbers": [
+        "838634",
+        "970750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Slipping and Failure to Engage",
+      "impact": "The transmission slipping and failure to engage can cause the vehicle to lose power, leading to accidents, and can leave the driver stranded.",
+      "symptoms": [
+        "Transmission slips out of gear",
+        "transmission does not engage",
+        "vehicle does not move when accelerating",
+        "transmission jumps out of overdrive into neutral."
+      ],
+      "odiNumbers": [
+        "962384",
+        "970750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "CV Joint Failure",
+      "impact": "The CV joint failure can cause the vehicle to vibrate and make noise, leading to loss of control and accidents.",
+      "symptoms": [
+        "Clicking noise when making right turns",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "480402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

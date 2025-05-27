@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Timing Case Profile Gasket Failure",
+      "impact": "The failure of the engine timing case profile gasket can cause coolant to leak out, leading to engine overheating, which can result in serious damage to the engine, potentially causing a breakdown or even an accident.",
+      "symptoms": [
+        "Coolant leak",
+        "engine overheating",
+        "smoke coming from the vehicle",
+        "loss of coolant on the roadway",
+        "sudden loss of coolant pressure",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "8016503",
+        "897407",
+        "736025",
+        "849246",
+        "545159",
+        "780588",
+        "540590",
+        "824247",
+        "522952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Electronic Command Control Box",
+      "impact": "Water entering the Electronic Command Control Box can cause short circuits, leading to a complete shutdown of the vehicle's systems, which can result in loss of control, accidents, or stranding.",
+      "symptoms": [
+        "The vehicle's computer shuts down",
+        "the vehicle's systems fail",
+        "the vehicle is unable to start",
+        "the vehicle's electrical systems malfunction."
+      ],
+      "odiNumbers": [
+        "829527",
+        "828806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to rapidly gain speed, making it difficult to control, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own without pressing the accelerator pedal",
+        "the RPMs surge to high levels",
+        "the vehicle is difficult to stop",
+        "the vehicle is hard to control."
+      ],
+      "odiNumbers": [
+        "10047206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Electronic Throttle Control",
+      "impact": "A faulty electronic throttle control can cause unintended acceleration, making it difficult to control the vehicle, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own without pressing the accelerator pedal",
+        "the RPMs surge to high levels",
+        "the vehicle is difficult to stop",
+        "the vehicle is hard to control."
+      ],
+      "odiNumbers": [
+        "10047206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

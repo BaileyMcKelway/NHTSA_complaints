@@ -1,0 +1,368 @@
+{
+  "totalComplaints": 100,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 22,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Front Brake Pad Wear",
+      "impact": "Premature wear of the front brake pads can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Grinding noise when applying brakes on wet pavement",
+        "premature wear of front brake pads."
+      ],
+      "odiNumbers": [
+        "851761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause extended stopping distances, loss of control, and accidents.",
+      "symptoms": [
+        "Vehicle swerves when applying brakes in a panic stop",
+        "brake pedal goes to the floor",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "837735",
+        "821658",
+        "818334",
+        "813925",
+        "807457",
+        "805941",
+        "984496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Valve Block/Pressure Modulator Valve Failure",
+      "impact": "Failure of the ABS valve block/pressure modulator valve can cause the vehicle to pull severely when braking hard, leading to loss of control and accidents.",
+      "symptoms": [
+        "Vehicle pulls severely when braking hard",
+        "ABS failure",
+        "intermittent pull with hard brake apply during non-ABS stop."
+      ],
+      "odiNumbers": [
+        "706058",
+        "705603",
+        "533921",
+        "963561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Braking System Warning Light Failure",
+      "impact": "Failure of the dual braking system warning light can lead to unexpected brake failure, accidents, and injuries.",
+      "symptoms": [
+        "Dual braking system warning light failure",
+        "total failure of the braking system."
+      ],
+      "odiNumbers": [
+        "533236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "ABS failure can cause accidents, injuries, and fatalities due to loss of control and extended stopping distances.",
+      "symptoms": [
+        "ABS failure",
+        "accident",
+        "collision",
+        "vehicle collision."
+      ],
+      "odiNumbers": [
+        "532727",
+        "531314",
+        "530498",
+        "523830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Master cylinder failure can cause brake failure, accidents, and injuries.",
+      "symptoms": [
+        "Master cylinder failure",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "505382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "ABS Warning Light Illumination",
+      "impact": "Illumination of the ABS warning light can indicate a problem with the ABS system, which can lead to accidents and injuries if not addressed.",
+      "symptoms": [
+        "ABS warning light illumination."
+      ],
+      "odiNumbers": [
+        "511463",
+        "969578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "Brake pedal issues can cause accidents, injuries, and fatalities due to loss of control and extended stopping distances.",
+      "symptoms": [
+        "Hard brake pedal",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "546874",
+        "984496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration/Engine Racing",
+      "impact": "Sudden acceleration/engine racing can cause loss of control, accidents, and injuries. It can also lead to vehicle damage and fires.",
+      "symptoms": [
+        "The engine races",
+        "the car lurches forward",
+        "the car accelerates suddenly",
+        "the car moves unexpectedly."
+      ],
+      "odiNumbers": [
+        "10316438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause vehicle damage, injuries, and fatalities. They can also lead to property damage and environmental hazards.",
+      "symptoms": [
+        "Smoke and flames coming out of the hood/engine",
+        "thick smoke",
+        "regular flames",
+        "flare-ups",
+        "burned engine compartment",
+        "burned plastic and metal components",
+        "burned electrical systems",
+        "cooling systems",
+        "and other major components."
+      ],
+      "odiNumbers": [
+        "10131090",
+        "8007799",
+        "514672",
+        "480252",
+        "476861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of control, accidents, and injuries. It can also lead to vehicle damage and fires.",
+      "symptoms": [
+        "The engine cuts off",
+        "the vehicle stalls",
+        "the vehicle shuts off without warning",
+        "the vehicle stalls when approaching a stop or making a turn."
+      ],
+      "odiNumbers": [
+        "847070",
+        "838363",
+        "832298",
+        "812799",
+        "507151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failures",
+      "impact": "Cooling system failures can cause engine damage, overheating, and fires. They can also lead to vehicle damage and injuries.",
+      "symptoms": [
+        "Water pump failure",
+        "water leak",
+        "heater failure",
+        "overheating."
+      ],
+      "odiNumbers": [
+        "8007799",
+        "480096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oxygen Sensor Failures",
+      "impact": "Oxygen sensor failures can cause engine performance issues, decreased fuel efficiency, and emissions problems. They can also lead to vehicle damage and environmental hazards.",
+      "symptoms": [
+        "Oxygen sensor failure",
+        "vehicle fails emissions test."
+      ],
+      "odiNumbers": [
+        "539928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Oil System Failures",
+      "impact": "Oil system failures can cause engine damage, overheating, and fires. They can also lead to vehicle damage and injuries.",
+      "symptoms": [
+        "Oil pump cracked",
+        "lower engine oil cooler line replaced",
+        "oil pan gasket replaced."
+      ],
+      "odiNumbers": [
+        "481531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Accessory Belt Failures",
+      "impact": "Accessory belt failures can cause engine damage, overheating, and fires. They can also lead to vehicle damage and injuries.",
+      "symptoms": [
+        "Serpentine belt noisy/cracked."
+      ],
+      "odiNumbers": [
+        "959707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Catalytic Converter Clogging",
+      "impact": "Catalytic converter clogging can cause engine performance issues, decreased fuel efficiency, and emissions problems. They can also lead to vehicle damage and environmental hazards.",
+      "symptoms": [
+        "Catalytic converter clogged",
+        "vehicle stalls."
+      ],
+      "odiNumbers": [
+        "480291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Locking Mechanism",
+      "impact": "The faulty door locking mechanism can cause the doors to open independently while driving, which can lead to accidents or injuries due to occupants being ejected from the vehicle.",
+      "symptoms": [
+        "Doors open unexpectedly while driving",
+        "doors do not lock properly",
+        "doors do not respond to the lock/unlock command."
+      ],
+      "odiNumbers": [
+        "10683262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to stall or fail to start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the starter motor makes a clicking sound but the engine does not turn over",
+        "the starter motor is replaced but fails again due to a short in the system."
+      ],
+      "odiNumbers": [
+        "536143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Fires",
+      "impact": "Electrical system fires can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke and flames coming from under the hood",
+        "difficulty opening the hood",
+        "fire spreading quickly."
+      ],
+      "odiNumbers": [
+        "536175",
+        "822260",
+        "958422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or fail to start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The ignition switch fails to turn the engine on",
+        "the ignition switch is intermittent",
+        "the ignition switch fails to respond to the key."
+      ],
+      "odiNumbers": [
+        "524705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Failure",
+      "impact": "Battery failure can cause the vehicle to stall or fail to start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The battery is dead",
+        "the battery fails to hold a charge",
+        "the vehicle's electrical systems are affected."
+      ],
+      "odiNumbers": [
+        "516085",
+        "959707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Computer Chip Failure",
+      "impact": "The failure of the computer chip can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle loses all control",
+        "including steering and braking",
+        "the driver is unable to control the vehicle."
+      ],
+      "odiNumbers": [
+        "971676"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

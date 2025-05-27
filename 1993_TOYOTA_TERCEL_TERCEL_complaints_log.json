@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the airbag does not deploy in a crash",
+        "the airbag deploys partially or with reduced inflation",
+        "the airbag sensor malfunctions",
+        "the driver's seat belt does not lock up upon impact."
+      ],
+      "odiNumbers": [
+        "10132524",
+        "739101",
+        "859501",
+        "848592",
+        "545220",
+        "835521",
+        "703982",
+        "835096",
+        "829368",
+        "604637",
+        "814213",
+        "806251",
+        "505828",
+        "983924",
+        "982269",
+        "973653",
+        "969906",
+        "968961",
+        "965557",
+        "489486",
+        "479629",
+        "958790",
+        "958690",
+        "476648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A malfunctioning airbag sensor can cause the airbag to deploy unnecessarily or fail to deploy in a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the airbag sensor malfunctions",
+        "the airbag deploys partially or with reduced inflation",
+        "the airbag does not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "848592",
+        "973653",
+        "969906",
+        "476648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "Improper airbag deployment can cause injuries or fatalities, compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "The airbag deploys partially or with reduced inflation",
+        "the airbag causes burns or scrapes",
+        "the airbag dust comes out but does not inflate",
+        "the airbag deployment causes severe head and neck injuries."
+      ],
+      "odiNumbers": [
+        "703982",
+        "835096",
+        "814213",
+        "489486",
+        "479629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Engine Failure",
+      "impact": "Premature engine failure can lead to sudden loss of power, stalling, and increased risk of accidents, as well as costly repairs and potential engine replacement.",
+      "symptoms": [
+        "White smoke emanating from the vehicle",
+        "engine failure",
+        "engine replacement required",
+        "premature wear on engine components (e.g.",
+        "rings",
+        "head gasket)."
+      ],
+      "odiNumbers": [
+        "785927",
+        "785927",
+        "876526",
+        "876527",
+        "807359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to increased risk of injury or death in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt fails to restrain the occupant during an accident",
+        "the seat belt does not retract",
+        "the seat belt is inoperative",
+        "the occupant suffers injuries due to seat belt failure."
+      ],
+      "odiNumbers": [
+        "832239",
+        "525078",
+        "804117",
+        "509541"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

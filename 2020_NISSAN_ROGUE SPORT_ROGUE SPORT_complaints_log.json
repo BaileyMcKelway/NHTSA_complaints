@@ -1,0 +1,200 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Recall Delay",
+      "impact": "The delay in receiving the necessary parts for the electrical system recall repair can leave the vehicle in a potentially unsafe condition, increasing the risk of accidents or other safety issues.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available",
+        "manufacturer exceeds reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11513476",
+        "11510375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause distractions while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Radio screen cuts off",
+        "radio goes out",
+        "screen goes black",
+        "multiple instances of failure."
+      ],
+      "odiNumbers": [
+        "11501059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Vehicle Shutdown and Loss of Power",
+      "impact": "The unintended shutdown of the vehicle and loss of power can increase the risk of accidents, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "Vehicle brakes suddenly",
+        "loses power",
+        "will not accelerate",
+        "warning message appears on instrumental panel",
+        "symbol of two cars colliding appears."
+      ],
+      "odiNumbers": [
+        "11494797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can increase the risk of accidents, especially when reversing, as the driver may not be able to see obstacles or pedestrians behind the vehicle.",
+      "symptoms": [
+        "Backup camera screen goes black",
+        "unable to see behind the vehicle while reversing."
+      ],
+      "odiNumbers": [
+        "11362015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Forward Collision Avoidance System",
+      "impact": "The unintended activation of the Forward Collision Avoidance system can cause the vehicle to suddenly stop or brake, which can lead to accidents, especially if there are vehicles behind or if the driver is caught off guard.",
+      "symptoms": [
+        "The vehicle suddenly stops or brakes without warning",
+        "the Forward Collision Avoidance warning light is illuminated",
+        "the automatic braking system activates without any obstacle or vehicle nearby",
+        "the vehicle stops for a brief moment",
+        "the system activates while reversing without any vehicle nearby."
+      ],
+      "odiNumbers": [
+        "11564383",
+        "11524164",
+        "11458322",
+        "11418511",
+        "11398149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Activation of Automatic Emergency Braking System",
+      "impact": "The false activation of the automatic emergency braking system can cause sudden and unexpected stops, which can lead to accidents, injuries, or even fatalities, especially if the vehicle is traveling at high speeds or if other vehicles are following closely.",
+      "symptoms": [
+        "The vehicle's brakes engage suddenly and without warning",
+        "the vehicle comes to a sudden stop",
+        "the forward collision warning light illuminates",
+        "the brakes are applied at full strength",
+        "the vehicle stops unexpectedly",
+        "even when there are no obstacles or hazards present."
+      ],
+      "odiNumbers": [
+        "11476783",
+        "11416251",
+        "11387988",
+        "11378573",
+        "11376279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "occupants experience injuries or fatalities",
+        "no warning lights or notifications are present."
+      ],
+      "odiNumbers": [
+        "11564828",
+        "11496931",
+        "11398699"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Improper Deployment",
+      "impact": "The improper deployment of airbags can cause injuries to occupants, including lacerations, bruising, and swelling.",
+      "symptoms": [
+        "Airbags deploy but cause injuries to occupants",
+        "airbags deploy in an unexpected manner",
+        "occupants experience pain and discomfort."
+      ],
+      "odiNumbers": [
+        "11395301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unexpected Vehicle Shutdown",
+      "impact": "The sudden and unexpected shutdown of the vehicle while driving can cause accidents, severe injury, and/or death.",
+      "symptoms": [
+        "The vehicle completely shuts down",
+        "losing power steering",
+        "brakes",
+        "and electrical systems",
+        "including lights."
+      ],
+      "odiNumbers": [
+        "11557784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Air Conditioning Failure",
+      "impact": "The intermittent failure of the air conditioning system can cause discomfort, distraction, and potentially lead to overheating issues.",
+      "symptoms": [
+        "The air conditioning blows cold and hot air intermittently",
+        "especially when the vehicle is idle",
+        "with no warning lights or engine lights coming on."
+      ],
+      "odiNumbers": [
+        "11528497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause rough idling, uneven acceleration, and lurching, which can lead to accidents, loss of control, and potential injury.",
+      "symptoms": [
+        "Rough idle",
+        "uneven acceleration",
+        "lurching while decelerating",
+        "check engine light coming on with code P0301."
+      ],
+      "odiNumbers": [
+        "11515886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

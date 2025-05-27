@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seat Belt Failure",
+      "impact": "The failure of the automatic seat belt system can increase the risk of injury or death in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belt retractor mechanism fails",
+        "the seat belt is broken",
+        "the front passenger side seatbelt motor fails",
+        "the automatic seat belts fail to function properly",
+        "the motor does not move back and forth as it should",
+        "the upper portion of the seat belt does not hold",
+        "the seat belts do not retract every time the door is closed",
+        "the seat belt works intermittently",
+        "the seat belt gets stuck when getting in the vehicle."
+      ],
+      "odiNumbers": [
+        "10500929",
+        "10362276",
+        "10355594",
+        "10294247",
+        "10215925",
+        "896515",
+        "892766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Accumulator Switch Failure",
+      "impact": "The failure of the brake accumulator switch can cause the power brakes to fail, leading to loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "The low fluid indicator light illuminates",
+        "the brake pedal becomes hard as a rock",
+        "the ABS system fails",
+        "and the brakes do not stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10196707",
+        "739608",
+        "835992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to fail, leading to loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Hydraulic fluid leaks",
+        "the brake pedal becomes hard as a rock",
+        "the brakes do not stop the vehicle",
+        "and the ABS system fails."
+      ],
+      "odiNumbers": [
+        "739608",
+        "835992",
+        "604532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "The failure of the ABS sensor can cause the ABS system to fail, leading to loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "The ABS sensor light comes on intermittently",
+        "the ABS system fails",
+        "and the brakes do not stop the vehicle."
+      ],
+      "odiNumbers": [
+        "739608",
+        "604532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Right Front ABS Brake Failure",
+      "impact": "The failure of the right front ABS brake can cause the vehicle to lose braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "The right front ABS brake fails",
+        "and the vehicle does not stop properly."
+      ],
+      "odiNumbers": [
+        "526675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration in Reverse Gear",
+      "impact": "Unintended acceleration in reverse gear can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates while in reverse gear",
+        "the accelerator pedal sticks while the car is in reverse",
+        "the vehicle takes off unexpectedly while shifting into reverse."
+      ],
+      "odiNumbers": [
+        "866195",
+        "978121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

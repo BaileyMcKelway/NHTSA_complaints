@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Hesitation",
+      "impact": "Engine stalling and hesitation can cause a loss of control, increasing the risk of accidents, and may leave the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or lurches forward when accelerating",
+        "the engine stalls while driving",
+        "the vehicle slows down and comes to a standstill",
+        "the vehicle fails to start after stalling."
+      ],
+      "odiNumbers": [
+        "11472127",
+        "11412822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of fuel injectors can cause the engine to stall, leading to a loss of control and increased risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "thick white smoke comes out of the back of the vehicle",
+        "gas smell fills the cabin",
+        "the vehicle fails to start or restart."
+      ],
+      "odiNumbers": [
+        "11453459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause a distraction, leading to a loss of control and increased risk of accidents, and potentially causing injuries from flying glass shards.",
+      "symptoms": [
+        "The sunroof explodes or shatters without warning",
+        "glass shards fall into the cabin",
+        "a loud noise is heard",
+        "similar to a bomb going off."
+      ],
+      "odiNumbers": [
+        "11432423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Fuel Sending Unit and Fuel Gauge",
+      "impact": "The faulty fuel sending unit and fuel gauge can cause the vehicle to run out of fuel without warning, leading to a sudden loss of power, which can result in accidents, injuries, or fatalities, especially when driving on busy highways or roads with no shoulder.",
+      "symptoms": [
+        "The fuel gauge is stuck or inaccurate",
+        "the vehicle runs out of fuel without warning",
+        "the vehicle loses power while driving",
+        "the vehicle is unable to restart",
+        "the fuel gauge reports an incorrect fuel level."
+      ],
+      "odiNumbers": [
+        "11419046",
+        "11405181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

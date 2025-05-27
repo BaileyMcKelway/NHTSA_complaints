@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY/WIPER",
+    "STEERING",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Windshield Wiper Coverage",
+      "impact": "The inadequate windshield wiper coverage can reduce the driver's visibility, especially during rain or snow conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "The windshield wiper blades do not clear the driver's view adequately",
+        "leaving a significant portion of the road",
+        "including part of the driving lane and oncoming lanes",
+        "obstructed."
+      ],
+      "odiNumbers": [
+        "11266636",
+        "11258741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to drift or lose control, making it difficult to steer, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering feels loose",
+        "the wheels have a delayed reaction to the steering",
+        "the vehicle drifts strongly to the right or left",
+        "the vehicle feels like it's floating on air or not grabbing the road",
+        "the counter steering does not respond immediately."
+      ],
+      "odiNumbers": [
+        "10993131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, making it difficult or impossible to stop, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The brake pedal goes soft",
+        "the vehicle loses power steering",
+        "the vehicle is leaking fluid",
+        "the vehicle makes a strange grinding noise."
+      ],
+      "odiNumbers": [
+        "11243188"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Tank Failure and Leveling System Detachment",
+      "impact": "The failure of the hydraulic tank and detachment of the hydraulic leveling system can cause fluid leakage, leading to loss of vehicle stability and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Hydraulic fluid leaking onto the ground",
+        "hole in the hydraulic tank",
+        "detachment of the hydraulic leveling system."
+      ],
+      "odiNumbers": [
+        "11488321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "WHEELS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Cam Failure",
+      "impact": "The failure of the throttle body cam can cause a sudden loss of power, leading to a potentially dangerous situation, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Sudden loss of power",
+        "high vibration until the throttle is closed",
+        "engine propulsion failure",
+        "breakdown."
+      ],
+      "odiNumbers": [
+        "11460528",
+        "11430262",
+        "11423380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the bike to run out of fuel without warning, leading to a dangerous situation, especially in traffic.",
+      "symptoms": [
+        "Fuel gauge failure",
+        "warning light constantly on."
+      ],
+      "odiNumbers": [
+        "10499754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Fuel Pump Inlet Bushing/Fuel Control Housing",
+      "impact": "A cracked fuel pump inlet bushing or fuel control housing can cause fuel leaks, which can lead to a fire hazard, especially when the engine is under pressure. This can result in serious injuries or accidents.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel spills",
+        "fuel smell inside the vehicle",
+        "fuel dripping onto the ground",
+        "fuel leaking onto the driver's leg or other body parts."
+      ],
+      "odiNumbers": [
+        "10445954",
+        "10444742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS and Rear Braking System Failure",
+      "impact": "The failure of the ABS and rear braking system can lead to a loss of braking power, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The instrument panel displays a red warning light indicating \"Brake Failure\"",
+        "the rear wheel brake does not operate as designed",
+        "the ABS system is non-functional",
+        "scanned codes indicate a faulty power supply to the pump motor."
+      ],
+      "odiNumbers": [
+        "10558201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Power Supply to Pump Motor",
+      "impact": "A faulty power supply to the pump motor can cause the ABS and rear braking system to fail, leading to a loss of braking power and increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Scanned codes indicate a faulty power supply to the pump motor",
+        "the ABS system is non-functional",
+        "the rear wheel brake does not operate as designed."
+      ],
+      "odiNumbers": [
+        "10558201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Failure in BMW Motorcycles",
+      "impact": "The failure of the final drive can cause significant roughness in the rear wheel rotation, pronounced rumbling noise at high speeds, and potentially lead to loss of control or accidents.",
+      "symptoms": [
+        "Rear wheel rotation becomes rough",
+        "pronounced rumbling noise at high speeds",
+        "vibration or shaking of the motorcycle."
+      ],
+      "odiNumbers": [
+        "10447160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

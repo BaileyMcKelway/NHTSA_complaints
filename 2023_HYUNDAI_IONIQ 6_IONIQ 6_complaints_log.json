@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Onboard AC Charger Overheating",
+      "impact": "The overheating of the onboard AC charger can cause the charging rate to drop, potentially doubling the charging time, and poses a fire hazard. This can lead to inconvenience, safety risks, and affect the overall performance of the vehicle.",
+      "symptoms": [
+        "The charging rate drops to a lower amperage (e.g.",
+        "from 40 amps to 23 amps)",
+        "the charging port overheats",
+        "the vehicle stops charging after a certain period (e.g.",
+        "20 minutes)",
+        "the AC Charging Inlet temperature reaches high levels (e.g.",
+        "240F)."
+      ],
+      "odiNumbers": [
+        "11533313",
+        "11531310",
+        "11531078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can lead to a lack of warning to other drivers, potentially causing accidents or near-misses.",
+      "symptoms": [
+        "The horn stops working",
+        "no warning lights or blown fuses are present."
+      ],
+      "odiNumbers": [
+        "11586642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Automatic Emergency Braking (AEB) System",
+      "impact": "The false activation of the AEB system can cause sudden and unexpected braking, which can lead to accidents, injuries, or rear-end collisions, especially if there are vehicles following closely behind.",
+      "symptoms": [
+        "The vehicle suddenly brakes without any apparent reason",
+        "the AEB system activates with a warning message",
+        "the vehicle comes to a sudden stop",
+        "the driver experiences physical discomfort or injury due to the force of the braking."
+      ],
+      "odiNumbers": [
+        "11573010",
+        "11561700"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Malfunctioning Forward Collision-Avoidance System (FCA) Sensors",
+      "impact": "The malfunctioning FCA sensors can cause false warnings and incorrect object detection, leading to unnecessary activation of the AEB system, which can result in accidents or injuries.",
+      "symptoms": [
+        "The vehicle displays false warnings of impending collisions",
+        "the FCA system incorrectly detects objects",
+        "the system shows incorrect proximity warnings",
+        "the vehicle's sensors malfunction",
+        "causing incorrect readings."
+      ],
+      "odiNumbers": [
+        "11573010",
+        "11561700"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

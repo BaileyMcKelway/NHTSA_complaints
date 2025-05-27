@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Occupant Detection System (PODS) Failure",
+      "impact": "The failure of the PODS system can cause the passenger airbag to malfunction or not deploy in the event of an accident, which can lead to serious injury or death.",
+      "symptoms": [
+        "Passenger airbag off warning",
+        "system malfunction warning",
+        "airbag failure to deploy",
+        "flashing warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "11388170",
+        "11384161",
+        "11377483",
+        "11366890",
+        "11361222",
+        "11348678",
+        "11296859",
+        "11287183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Overheating and Fuel System Issues",
+      "impact": "Engine overheating and fuel system issues can cause the engine to stall or fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "oil leaks",
+        "fuel trim codes",
+        "hard starting",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "11505674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Safety Recall Repair Issues",
+      "impact": "Failure to properly repair safety recall issues can lead to continued safety risks and malfunctioning of critical systems.",
+      "symptoms": [
+        "Failure to repair safety recall issues",
+        "additional repair costs",
+        "damage to vehicle components."
+      ],
+      "odiNumbers": [
+        "11582791",
+        "11366890",
+        "11361222",
+        "11348678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Deceptive Business Practices",
+      "impact": "Deceptive business practices by dealerships can lead to financial losses and mistrust among customers.",
+      "symptoms": [
+        "Charging customers for safety recall repairs",
+        "damaging vehicle components",
+        "theft of personal belongings."
+      ],
+      "odiNumbers": [
+        "11582791",
+        "11505674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling at Low Speeds",
+      "impact": "The engine stalling at low speeds can cause loss of control, accidents, or leave the driver stranded, especially if it happens in traffic.",
+      "symptoms": [
+        "The engine shuts off while driving at slow speeds shortly after starting the car",
+        "the car starts normally and accelerates normally before the engine dies",
+        "the RPM gauge drops to 0",
+        "the car forces the driver to put it in park before starting normally when pushing the start/stop button."
+      ],
+      "odiNumbers": [
+        "11298302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

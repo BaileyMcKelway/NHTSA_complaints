@@ -1,0 +1,154 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause multiple safety systems to malfunction, including the brake system, power steering, parking assist, and others, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Multiple system failure alerts on the dashboard",
+        "including brake system",
+        "power steering",
+        "parking assist",
+        "and others; inability to shift into neutral; tailgate malfunction; vehicle shutting off with a single push of the ignition."
+      ],
+      "odiNumbers": [
+        "11574305",
+        "11511388",
+        "11492966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Safety System Failure",
+      "impact": "The failure of safety systems, including lane keeping, adaptive cruise, automatic emergency brake, and others, can increase the risk of accidents and compromise driver safety.",
+      "symptoms": [
+        "Failure of multiple safety systems",
+        "including lane keeping",
+        "adaptive cruise",
+        "automatic emergency brake",
+        "and others; inability to open tailgate; system failure alerts on the dashboard."
+      ],
+      "odiNumbers": [
+        "11511388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty Wiring or Connection Issues",
+      "impact": "Loose or faulty wiring connections can cause electrical system failures, leading to malfunctions of safety systems and other vehicle components.",
+      "symptoms": [
+        "Multiple system failure alerts on the dashboard; inability to open tailgate; system failure alerts on the dashboard; intermittent system failures."
+      ],
+      "odiNumbers": [
+        "11511388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause difficulty in steering the vehicle, especially at low speeds, which can lead to accidents or loss of control, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Warning lights on the dashboard",
+        "including Adaptive Cruise Control",
+        "parking brake",
+        "Lane keep assist",
+        "All Wheel Drive",
+        "electric power steering",
+        "collision mitigation",
+        "trailer stability assist",
+        "and low speed breaking; loss of power steering; difficulty steering the vehicle; inability to steer the vehicle to safety."
+      ],
+      "odiNumbers": [
+        "11542462"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Noise and Looseness",
+      "impact": "The unusual noise and looseness in the steering system can cause driver distraction, loss of confidence, and potentially lead to accidents or loss of control, especially when combined with other safety features malfunctioning.",
+      "symptoms": [
+        "Unusual skewing and clicking noise when turning the steering wheel; loose steering wheel; two different noises when turning the steering wheel",
+        "one with brakes on and one with the car in park or neutral."
+      ],
+      "odiNumbers": [
+        "11547196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration (SUA)",
+      "impact": "Sudden Unintended Acceleration can cause the vehicle to accelerate without driver input, potentially leading to accidents, injuries, or fatalities. This issue can also lead to a loss of driver confidence and trust in the vehicle.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without driver input",
+        "often when braking or shifting gears",
+        "the driver is unable to stop the vehicle using the brakes",
+        "the vehicle continues to move forward despite the driver's attempts to slow or stop it."
+      ],
+      "odiNumbers": [
+        "11540685",
+        "11434411",
+        "11327498",
+        "11234567",
+        "11123456",
+        "11098765",
+        "10987654",
+        "10975321",
+        "10967453",
+        "10964532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spongy Brake Pedal and Brake Reservoir Failure",
+      "impact": "A spongy brake pedal can lead to reduced braking performance, increasing the stopping distance and risk of accidents. The failure of the brake reservoir can cause air to enter the brake system, further compromising braking performance.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal depresses to the floorboard",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "11513465"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Leak from Gas Tank due to Missing Retainer Clip",
+      "impact": "The absence of a retainer clip for the engine supply fuel line can cause a fuel leak from the gas tank, leading to a risk of fire, explosion, or engine stall, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel leaks excessively from the top of the gas tank",
+        "the vehicle will not start",
+        "the fuel smell is present",
+        "the fuel level drops rapidly."
+      ],
+      "odiNumbers": [
+        "11511364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

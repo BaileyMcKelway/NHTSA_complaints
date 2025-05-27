@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "FUEL/PROPULSION SYSTEM",
+    "VISIBILITY/WIPER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn or seize, making it challenging to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn in either direction",
+        "the steering wheel seizes",
+        "the vehicle displays a \"steering failure\" message",
+        "the power steering randomly malfunctions",
+        "the steering wheel feels heavy or unresponsive."
+      ],
+      "odiNumbers": [
+        "11245409",
+        "11190936",
+        "10822587",
+        "10568570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to shut down while driving, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The fuel pump stops working while driving",
+        "the vehicle shuts down",
+        "and the engine loses power. In some cases",
+        "the vehicle may restart after cooling down."
+      ],
+      "odiNumbers": [
+        "11246475",
+        "11221899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Vapor Lock",
+      "impact": "The fuel pump vapor lock can cause the vehicle to shut down while driving, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "and the engine loses power",
+        "especially during high-temperature driving conditions. The fuel pump may need to be replaced."
+      ],
+      "odiNumbers": [
+        "11221899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Surging and Lurching",
+      "impact": "The intermittent surging and lurching of the vehicle can cause loss of control, especially in tight traffic conditions or parking lots, and may lead to accidents.",
+      "symptoms": [
+        "The vehicle surges or lurches forward suddenly",
+        "especially when the throttle is feathered",
+        "making it difficult to control. This occurs intermittently and may be more frequent in certain drive select modes."
+      ],
+      "odiNumbers": [
+        "10669585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Windshield Cracking",
+      "impact": "The sudden and unexplained cracking of the windshield can obstruct the driver's view, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The windshield cracks or shatters without any apparent cause",
+        "such as a rock or debris impact",
+        "and can spread across the windshield",
+        "obstructing the driver's view."
+      ],
+      "odiNumbers": [
+        "10845767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure due to Connecting Rod Failure",
+      "impact": "The failure of the connecting rod can cause catastrophic engine damage, leading to sudden engine lock-up, loss of power, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Tapping or knocking noise from the engine",
+        "loud boom",
+        "white smoke plume",
+        "engine lock-up",
+        "smell of oil entering the interior of the vehicle",
+        "loss of power",
+        "vehicle coasting to a stop."
+      ],
+      "odiNumbers": [
+        "10670983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oil Leaks and Engine Failure",
+      "impact": "Oil leaks can cause engine failure, leading to sudden loss of power, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Oil smell entering the interior of the vehicle",
+        "oil leaks",
+        "engine failure",
+        "loss of power",
+        "vehicle coasting to a stop."
+      ],
+      "odiNumbers": [
+        "10670983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

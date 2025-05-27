@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Coil Failure",
+      "impact": "The failure of the ignition coils can cause the engine to misfire, leading to a loss of power, stalling, and potentially causing a vehicle fire, which can result in accidents or injuries.",
+      "symptoms": [
+        "The engine is louder than normal",
+        "the vehicle does not drive normally",
+        "there is a loss of power",
+        "the warning indicator light appears",
+        "the vehicle slows down or trembles while driving",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10183252",
+        "10014300",
+        "10065449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Throttle Response",
+      "impact": "The delayed throttle response can cause a potentially life-threatening malfunction of the Tiptronic transmission, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle experiences a delayed response to throttle input",
+        "resulting in unpredictable acceleration",
+        "hesitation",
+        "or lag when pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "10007527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Mass Flywheel Bearing Failure",
+      "impact": "The failure of the bearing on the dual mass flywheel can cause a sudden and dangerous vibration at all RPM levels, leading to a loss of vehicle control and potentially causing accidents. Additionally, it can require premature replacement of the clutch assembly.",
+      "symptoms": [
+        "Sudden onset of a serious and dangerous vibration at all RPM levels",
+        "clutch failure prior to normal wear interval."
+      ],
+      "odiNumbers": [
+        "10372659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

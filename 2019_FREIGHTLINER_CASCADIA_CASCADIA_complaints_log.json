@@ -1,0 +1,211 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STEERING",
+    "FORWARD COLLISION AVOIDANCE",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause sudden and unexpected stops, which can lead to accidents, injuries, or fatalities, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle suddenly and unexpectedly applies the brakes",
+        "often without any obstacles or vehicles in front of it; the collision warning lights illuminate; the horn starts beeping; the brakes engage immediately."
+      ],
+      "odiNumbers": [
+        "11591674",
+        "11530515",
+        "11165950",
+        "11165951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "The brakes seize or catch fire; the ABS warning light illuminates; the rear brake lights are constantly illuminated; the vehicle crashes into obstacles or other vehicles."
+      ],
+      "odiNumbers": [
+        "11470963",
+        "11354207",
+        "11354198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Collision Avoidance System Malfunction",
+      "impact": "The malfunction of the collision avoidance system can cause unintended automatic braking, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The collision avoidance system randomly causes the brakes to slam on when approaching overpasses or other obstacles while moving on the highway."
+      ],
+      "odiNumbers": [
+        "11165950",
+        "11165951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to become difficult to steer, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Hard steering",
+        "difficulty turning the wheels",
+        "feeling of the steering wheel locking up",
+        "sudden loss of steering control",
+        "vehicle drifting or swaying while driving",
+        "requiring constant correction."
+      ],
+      "odiNumbers": [
+        "11440871",
+        "11338342",
+        "11320459",
+        "11195335",
+        "11166483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Design Flaw",
+      "impact": "The design flaw in the steering system can cause the vehicle to become unstable and difficult to control, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Vehicle floats or sways side to side while driving",
+        "difficulty controlling the vehicle",
+        "requiring constant correction",
+        "poor handling of curves",
+        "difficulty keeping the steering wheel in place while turning."
+      ],
+      "odiNumbers": [
+        "11132252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Valve Cover Gasket Failure",
+      "impact": "The failure of the valve cover gasket can cause oil leaks, leading to engine damage and potentially causing accidents due to loss of engine power.",
+      "symptoms": [
+        "Oil leaks",
+        "hard steering when low RPM",
+        "difficulty parking",
+        "eco-transmission shifting to neutral at high speed."
+      ],
+      "odiNumbers": [
+        "11166483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "False Activation of Forward Collision Avoidance and Brake Assist Systems",
+      "impact": "The unintended activation of the Forward Collision Avoidance and Brake Assist systems can cause sudden and unexpected braking, which can lead to accidents, injuries, and loss of control, especially on wet or slippery roads.",
+      "symptoms": [
+        "The Forward Collision Avoidance alarm sounds",
+        "the brake assist system engages without an object nearby",
+        "the system locks up the brakes",
+        "the system fails to disengage",
+        "the cruise control shuts off and re-engages on its own",
+        "the lane departure warning goes off when there is no obstacle."
+      ],
+      "odiNumbers": [
+        "11580899",
+        "11534282",
+        "11530075",
+        "11479098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unreliable Collision Warning System",
+      "impact": "The frequent false warnings from the collision warning system can lead to driver desensitization, making them less likely to respond to actual hazards, which can increase the risk of accidents.",
+      "symptoms": [
+        "The collision warning system goes off frequently",
+        "even when there is no obstacle",
+        "the system fails to detect actual hazards",
+        "the system provides false warnings."
+      ],
+      "odiNumbers": [
+        "11479098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "The unintended activation of the brakes can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The truck slams on its brakes randomly",
+        "locks up the brakes when there is no obstacle",
+        "and has caused near-miss accidents."
+      ],
+      "odiNumbers": [
+        "11271439",
+        "11091048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Collision Avoidance System Failure",
+      "impact": "The failure of the automatic collision avoidance system can increase the risk of accidents and injuries, as the system is designed to prevent or mitigate collisions.",
+      "symptoms": [
+        "The system fails to function",
+        "and the truck's brakes do not engage when necessary",
+        "despite the presence of obstacles."
+      ],
+      "odiNumbers": [
+        "11453359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Idling Restriction Issue",
+      "impact": "The idling restriction can cause driver fatigue, as drivers may not be able to rest properly while driving, leading to potential accidents and injuries.",
+      "symptoms": [
+        "The truck's engine shuts off when idling between 30 and 60 degrees outside temperature",
+        "despite the driver's need to rest",
+        "and the company's policy restricts idling."
+      ],
+      "odiNumbers": [
+        "11091048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crash Prevention System Malfunction",
+      "impact": "The malfunction of the crash prevention system can cause loss of control, accidents, and potentially lead to injuries or fatalities, especially on slick roads.",
+      "symptoms": [
+        "The truck's brakes slam on unexpectedly when driving on slick roads",
+        "causing loss of control."
+      ],
+      "odiNumbers": [
+        "11091048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

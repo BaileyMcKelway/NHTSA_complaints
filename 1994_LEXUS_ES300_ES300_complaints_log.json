@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 44,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Assembly Failure",
+      "impact": "The failure of the seatbelt assembly can lead to the seatbelt unlatching or not retracting properly, posing a serious safety concern and increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The seatbelt unlatches arbitrarily",
+        "the seatbelt does not latch properly",
+        "the seatbelt extends outward but does not retract",
+        "the seatbelt buckle releases upon impact",
+        "the seatbelt fails to retract in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10104842",
+        "10056255",
+        "10051801",
+        "8014154",
+        "726096",
+        "710891",
+        "829146",
+        "980051",
+        "980214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electroluminescent Gauge Failure",
+      "impact": "The failure of the electroluminescent gauges can make it difficult or impossible to read the speedometer, tachometer, fuel, and temperature gauges, especially at night or in low light conditions, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Needles on the gauges are not visible",
+        "gauges do not illuminate",
+        "difficult to read gauges at night or in low light conditions."
+      ],
+      "odiNumbers": [
+        "10324629",
+        "10280573"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to shut off without warning, leading to accidents or leaving the driver stranded. In extreme cases, the battery can explode, creating a fire hazard.",
+      "symptoms": [
+        "Battery leaking acid",
+        "vehicle shutting off without warning",
+        "battery explosion",
+        "loss of electrical power."
+      ],
+      "odiNumbers": [
+        "10026170",
+        "8017043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Failure (Rear Axle Arm Assembly)",
+      "impact": "The failure of the rear axle arm assembly can cause the wheel to buckle inward, leading to loss of control, accidents, and potential rollover.",
+      "symptoms": [
+        "The wheel buckles inward",
+        "the vehicle pulls to one side",
+        "the rear suspension makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "756750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Axle Failure",
+      "impact": "The failure of the front axle can cause the vehicle to lose control, leading to accidents, rollovers, and potential injuries or fatalities.",
+      "symptoms": [
+        "The front axle breaks",
+        "the vehicle flips over",
+        "loss of control while driving."
+      ],
+      "odiNumbers": [
+        "730252",
+        "730252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Steering Issue (Pulling to Left or Right)",
+      "impact": "The intermittent steering issue can cause the vehicle to pull to one side, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to the left or right while driving",
+        "the steering feels unstable or unpredictable."
+      ],
+      "odiNumbers": [
+        "960103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

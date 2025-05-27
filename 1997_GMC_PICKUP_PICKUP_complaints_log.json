@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause poor visibility during inclement weather, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers fail intermittently",
+        "wipers work only on one speed",
+        "wipers stop working altogether",
+        "poor visibility during rain or snow."
+      ],
+      "odiNumbers": [
+        "10079881",
+        "10073988",
+        "10058731",
+        "10017461",
+        "745180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Pad Wear",
+      "impact": "Premature brake pad wear can lead to reduced stopping power, increased risk of brake failure, and potentially cause accidents.",
+      "symptoms": [
+        "Brake pads wear out quickly",
+        "frequent replacement of brake pads",
+        "reduced braking performance."
+      ],
+      "odiNumbers": [
+        "817703",
+        "517235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brakes fail to stop the vehicle",
+        "brakes lock up",
+        "brakes do not release",
+        "reduced braking performance."
+      ],
+      "odiNumbers": [
+        "714345",
+        "517235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rotor Failure",
+      "impact": "Rotor failure can cause vibration, noise, and reduced braking performance, potentially leading to accidents.",
+      "symptoms": [
+        "Rotors warp or wear out prematurely",
+        "vibration when braking",
+        "noise when braking."
+      ],
+      "odiNumbers": [
+        "517235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "ABS failure can cause loss of traction, skidding, and potentially accidents, especially on slippery or uneven road surfaces.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "ABS system malfunctions",
+        "loss of traction",
+        "skidding."
+      ],
+      "odiNumbers": [
+        "517235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Assist Failure",
+      "impact": "The intermittent surge or boost in power steering assistance can cause loose steering, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Intermittent surge or boost in power steering assistance",
+        "loose steering",
+        "erratic steering",
+        "steering appears to lock up",
+        "or the car wanders."
+      ],
+      "odiNumbers": [
+        "10058733",
+        "754743",
+        "747838",
+        "519547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

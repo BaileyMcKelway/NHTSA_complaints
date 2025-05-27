@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "EQUIPMENT",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of brakes",
+        "extended stopping distance",
+        "wheels falling off",
+        "vehicle locking up",
+        "and flipping into an embankment."
+      ],
+      "odiNumbers": [
+        "10006791",
+        "878551",
+        "853545",
+        "607389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Brake Pad Wear",
+      "impact": "Premature wear of brake pads can cause extended stopping distance, increasing the risk of accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brake pads wearing out every 2",
+        "000 miles",
+        "extended stopping distance",
+        "and increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "853545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Damage",
+      "impact": "Damage to brake rotors can cause vibration, noise, and uneven braking, increasing the risk of accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Brake rotors damaged",
+        "vibration",
+        "noise",
+        "and uneven braking."
+      ],
+      "odiNumbers": [
+        "607389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause loss of vehicle control, accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire sidewall separation",
+        "tire rubber unwrapping around the bead",
+        "tire tread remaining intact."
+      ],
+      "odiNumbers": [
+        "10177907",
+        "738091",
+        "840859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Toxic Air Contamination from Air Conditioning System",
+      "impact": "The release of toxic chemicals from the air conditioning system can cause serious health issues, including blindness, hyperventilation, muscle cramps, numbness, and respiratory problems, which can lead to accidents or long-term health consequences.",
+      "symptoms": [
+        "Strong",
+        "unpleasant odor from the air conditioning vents",
+        "blindness",
+        "hyperventilation",
+        "severe muscle cramps",
+        "numbness in arms and legs",
+        "headaches",
+        "burning eyes",
+        "mouth",
+        "and lungs",
+        "and respiratory problems."
+      ],
+      "odiNumbers": [
+        "701251",
+        "831209",
+        "540312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Crack and Leak",
+      "impact": "The fuel tank crack and leak can cause fuel to spill onto the ground, posing a significant fire hazard and emissions violation. This can lead to accidents, injuries, or even fatalities.",
+      "symptoms": [
+        "Fuel tank leaks when filled more than 10 gallons (approx. 1/2 full)",
+        "fuel drips and leaks from the top of the tank",
+        "vapor smell present even when not full",
+        "interior of the vehicle smells like fuel",
+        "fuel tank crack forms at a specific point on top of the tank."
+      ],
+      "odiNumbers": [
+        "11488878",
+        "10824707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

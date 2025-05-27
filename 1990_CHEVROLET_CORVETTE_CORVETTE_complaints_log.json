@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unintended airbag deployment, which can cause injuries or accidents, or failure to deploy in the event of a crash, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag warning light illuminates on the instrument panel",
+        "the airbag deploys unexpectedly",
+        "the airbag fails to deploy in a crash",
+        "the airbag sensor fails",
+        "the diagnostic energy reserve module (DERM) malfunctions."
+      ],
+      "odiNumbers": [
+        "10905075",
+        "10723870",
+        "785626",
+        "753902",
+        "747175",
+        "737633",
+        "732539",
+        "833866",
+        "534653",
+        "504127",
+        "980482",
+        "487454",
+        "971579",
+        "971441",
+        "483050",
+        "964923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to malfunction, increasing the risk of injury or death in the event of a sudden stop or accident.",
+      "symptoms": [
+        "The seatbelt fails to retract or release",
+        "the seatbelt is stuck or jammed",
+        "the seatbelt cannot be pulled out of the retractor",
+        "the seatbelt upper harness does not release and attach to the bottom of the belt clasp."
+      ],
+      "odiNumbers": [
+        "11512759",
+        "11190245",
+        "10914319",
+        "10619482",
+        "10593833",
+        "10187050",
+        "964923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Delamination",
+      "impact": "Windshield delamination can cause reduced visibility, which can increase the risk of accidents, especially during rainy or snowy conditions.",
+      "symptoms": [
+        "The windshield appears to be foggy",
+        "cloudy",
+        "or hazy",
+        "the windshield has a cracked or shattered appearance",
+        "the windshield is separating into layers",
+        "the windshield is leaking water or air."
+      ],
+      "odiNumbers": [
+        "10357292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Windshield Wiper Failure",
+      "impact": "Failure of the front windshield wipers can cause poor visibility during rainy or snowy conditions, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The windshield wipers are not moving or are moving slowly",
+        "the windshield wipers are leaving streaks or residue on the windshield",
+        "the windshield wipers are making a loud noise or vibrating excessively",
+        "the windshield wipers are not clearing the windshield properly."
+      ],
+      "odiNumbers": [
+        "546082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

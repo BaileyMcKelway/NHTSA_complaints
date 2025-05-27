@@ -1,0 +1,150 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a loss of motive power, unable to accelerate, and failure of interior electrical components, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power and cannot accelerate above a certain speed",
+        "the low oil pressure warning light is illuminated",
+        "the engine does not shut off when turning off the vehicle",
+        "interior electrical components such as the radio and doors do not automatically lock",
+        "the push-to-start function does not operate as designed",
+        "the key fob battery needs to be replaced frequently",
+        "the dashboard lights go dark while driving",
+        "the battery dies unexpectedly",
+        "and the locks need to be unlocked manually."
+      ],
+      "odiNumbers": [
+        "11584043",
+        "11430127",
+        "11340083",
+        "11316059",
+        "11315769",
+        "11230376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Key Fob and Push-to-Start System Failure",
+      "impact": "The failure of the key fob and push-to-start system can cause the vehicle to not start, and the doors and other interior electrical components to malfunction, which can lead to inconvenience and potentially cause accidents.",
+      "symptoms": [
+        "The key fob disconnects while driving",
+        "the lock/unlock function does not work",
+        "the car does not start when the key fob is in the vehicle",
+        "the push-to-start function does not operate as designed",
+        "and the key fob battery needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "11430127",
+        "11230376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to not start, and other electrical components to malfunction, which can lead to inconvenience and potentially cause accidents.",
+      "symptoms": [
+        "The battery dies unexpectedly",
+        "the battery needs to be replaced frequently",
+        "and the vehicle's electrical systems malfunction when the battery is dead."
+      ],
+      "odiNumbers": [
+        "11315769",
+        "11340083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Shaft Failure",
+      "impact": "The failure of the steering shaft can cause the steering wheel to give resistance to movement, leading to oversteering and creating a safety hazard.",
+      "symptoms": [
+        "The steering wheel gives resistance to movement",
+        "both left and right",
+        "the steering wheel feels stiff",
+        "the wheel gets \"stuck\" and breaking it free causes oversteering/overcompensating",
+        "the vehicle jerks left or right while in motion."
+      ],
+      "odiNumbers": [
+        "11513720",
+        "11513159",
+        "11447702",
+        "11508623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automated Lane Departure System Failure",
+      "impact": "The failure of the automated lane departure system can cause the steering to overcorrect, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle overcorrects the steering",
+        "the failure occurs intermittently",
+        "the failure occurs at slower speeds",
+        "no warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11508623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unrelated Accident",
+      "impact": "This complaint is unrelated to a specific automotive issue and is instead a report of an accident caused by another driver.",
+      "symptoms": [
+        "None"
+      ],
+      "odiNumbers": [
+        "11560533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause distraction, injury, or even accidents, especially if the driver is startled or if the broken glass falls into the vehicle's interior.",
+      "symptoms": [
+        "The sunroof shatters suddenly while driving",
+        "without any visible signs of damage or cracks beforehand."
+      ],
+      "odiNumbers": [
+        "11554491"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Air Conditioning (AC) Condenser",
+      "impact": "A faulty AC condenser can cause the air conditioning system to malfunction, leading to discomfort, distraction, and potentially even health issues for the driver and passengers.",
+      "symptoms": [
+        "The AC stops working",
+        "the AC condenser starts leaking",
+        "the AC system fails to cool the vehicle's interior."
+      ],
+      "odiNumbers": [
+        "11546100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, including facial burns and other harm, even when the vehicle is not in motion.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "often when the key is turned to the \"on\" position to operate accessories like electric windows",
+        "but the vehicle is not running."
+      ],
+      "odiNumbers": [
+        "561303",
+        "887689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Deploy Airbag",
+      "impact": "Failure to deploy airbags in the event of an accident can increase the risk of injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "Airbag does not deploy during an accident",
+        "potentially leading to more severe injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "512621",
+        "478364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "Intermittent stalling can cause the vehicle to suddenly lose power, leading to a loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "the engine shuts off without warning",
+        "the vehicle experiences sudden loss of power",
+        "the vehicle is difficult to restart",
+        "the vehicle stalls frequently."
+      ],
+      "odiNumbers": [
+        "526635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radiator Failure Leading to Engine Damage",
+      "impact": "Radiator failure can cause the engine to overheat, leading to costly repairs, engine damage, or even engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge is in the red zone",
+        "the vehicle overheats",
+        "coolant leaks from the radiator",
+        "the radiator fan fails to operate",
+        "the engine makes unusual noises or smells."
+      ],
+      "odiNumbers": [
+        "479655",
+        "478327"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "The malfunction of the airbag sensor can lead to the failure of the airbag system, which can increase the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The airbag warning light is illuminated on the dashboard",
+        "the airbag system is disabled",
+        "the airbag does not deploy in a crash",
+        "the vehicle's computer system reports an error code related to the airbag sensor."
+      ],
+      "odiNumbers": [
+        "757886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Assembly Fire",
+      "impact": "A fire under the vehicle near the fuel tank assembly can cause serious damage to the vehicle, potentially leading to a loss of control, accidents, or even fatalities.",
+      "symptoms": [
+        "Flames or smoke visible under the vehicle",
+        "burning smell",
+        "loud noise",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "854389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crash Sensor Failure and Airbag Deployment Issue",
+      "impact": "The failure of the crash sensor can prevent the airbag from deploying in the event of a crash, increasing the risk of injury or fatality. Additionally, the vehicle shutting down while in motion can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbag will not deploy in the event of a crash",
+        "vehicle shuts down while in motion",
+        "vehicle will not start",
+        "headlights cannot be turned off."
+      ],
+      "odiNumbers": [
+        "531366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to shut down while in motion, leading to loss of control, accidents, and potentially serious injuries or fatalities. Additionally, the failure to start the vehicle can leave the driver stranded.",
+      "symptoms": [
+        "Vehicle shuts down while in motion",
+        "vehicle will not start",
+        "headlights cannot be turned off",
+        "other electrical systems malfunction."
+      ],
+      "odiNumbers": [
+        "531366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

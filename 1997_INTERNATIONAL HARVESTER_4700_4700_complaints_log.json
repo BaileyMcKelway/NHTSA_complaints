@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of Parts for Steering Recall Repairs",
+      "impact": "The unavailability of parts for steering recall repairs can lead to delayed or incomplete repairs, potentially causing loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Dealerships are unable to perform recall repairs due to lack of parts",
+        "consumers are unable to get their vehicles repaired",
+        "and vehicles may exhibit loose steering or darting to one side while driving."
+      ],
+      "odiNumbers": [
+        "8014400",
+        "8006702",
+        "564212",
+        "879727",
+        "849247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loose Steering and Unstable Vehicle Handling",
+      "impact": "Loose steering and unstable vehicle handling can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Vehicle darts to the left or right while driving",
+        "loose steering",
+        "and difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "849247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Cruise Control Activation",
+      "impact": "Unintended cruise control activation can cause sudden acceleration, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Cruise control sets itself when the vehicle is parked and the emergency brake is set",
+        "sudden acceleration",
+        "unintended forward or reverse acceleration."
+      ],
+      "odiNumbers": [
+        "513873",
+        "513390",
+        "513258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Loose or Detaching Wiper Blade",
+      "impact": "A loose or detaching wiper blade can cause poor visibility while driving, especially during rainy or snowy conditions, which can increase the risk of accidents.",
+      "symptoms": [
+        "The wiper blade comes off or detaches from the wiper arm",
+        "the wiper blade is loose and does not properly clean the windshield",
+        "the wiper blade makes a scraping or rattling noise",
+        "the windshield is not properly cleared of debris",
+        "reduced visibility while driving."
+      ],
+      "odiNumbers": [
+        "513873",
+        "513390"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Upper Radiator Hose Failure",
+      "impact": "The failure of the upper radiator hose can cause coolant to leak, leading to engine overheating, damage to engine components, and potentially causing the engine to seize or fail, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leaking from the upper radiator hose",
+        "engine overheating",
+        "temperature gauge rising",
+        "coolant level dropping",
+        "white smoke or steam coming from the hood."
+      ],
+      "odiNumbers": [
+        "513873",
+        "513390"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

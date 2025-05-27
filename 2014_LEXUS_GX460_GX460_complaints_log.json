@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ENGINE",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Lean/Uneven Ride Height",
+      "impact": "The uneven ride height can cause the vehicle to pull to one side, affecting handling and stability, which can lead to accidents, especially during hard braking or cornering. This can also cause uneven wear on tires and other components, leading to premature failure and further safety concerns.",
+      "symptoms": [
+        "The vehicle leans excessively to one side",
+        "typically the right side",
+        "the vehicle pulls to one side while driving",
+        "the brake pedal feels soft or spongy",
+        "the vehicle's ride height is uneven",
+        "the driver's seat moves forward when the brake is applied."
+      ],
+      "odiNumbers": [
+        "10930214",
+        "10924038",
+        "10680615",
+        "10658874",
+        "10633801",
+        "10607235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant Valley Seal Failure",
+      "impact": "The failure of the coolant valley seal can cause coolant to leak onto the engine, leading to overheating, engine damage, and potentially causing the engine to seize or fail, which can result in costly repairs, accidents, or strand the driver.",
+      "symptoms": [
+        "Coolant leaking onto the engine",
+        "engine overheating",
+        "engine damage",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "11586863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Timing Chain Cover Leak",
+      "impact": "The failure of the timing chain cover can cause engine oil to leak onto the engine and surrounding components, leading to premature wear, engine damage, and potentially causing the engine to seize or fail, which can result in costly repairs, accidents, or strand the driver.",
+      "symptoms": [
+        "Engine oil leaking onto the engine",
+        "engine oil leaking onto the ground",
+        "engine noise",
+        "engine vibration",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "11366942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Low Pressure Fuel Pump Failure",
+      "impact": "The failure of the low-pressure fuel pump can cause the vehicle to stall and become unable to restart, leading to a potential safety hazard, especially when driving on highways or carrying heavy cargo.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the vehicle is unable to restart",
+        "the fuel pump fails to operate properly",
+        "the engine shuts down unexpectedly."
+      ],
+      "odiNumbers": [
+        "11350089",
+        "11322015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed Remediation of Low Pressure Fuel Pump Recall",
+      "impact": "The delayed availability of replacement parts for the recalled low-pressure fuel pump can leave vehicle owners at risk of experiencing a stall or engine shutdown, which can lead to accidents or strand them on the road.",
+      "symptoms": [
+        "Notification of recall but no replacement parts available",
+        "prolonged wait for repair",
+        "increased risk of vehicle stall or engine shutdown."
+      ],
+      "odiNumbers": [
+        "11322015",
+        "11350089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

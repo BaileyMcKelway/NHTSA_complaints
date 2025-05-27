@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wire Harness Failure due to Improper Routing",
+      "impact": "The improper routing of the wire harness can cause the wires to rub and fray, leading to a short circuit, which can shut off the engine abruptly, resulting in a loss of control, and potentially causing accidents, injuries, or even death.",
+      "symptoms": [
+        "Engine stalling or quitting abruptly",
+        "especially at high speeds or during turns",
+        "loss of power to the motorcycle",
+        "wires showing signs of fraying or rubbing under the seat latching mechanism and top gas tank."
+      ],
+      "odiNumbers": [
+        "10116970",
+        "10113783",
+        "10093428",
+        "10088510"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unavailable Repair Parts for Recalls",
+      "impact": "The unavailability of repair parts for recalls can lead to extended periods of vehicle downtime, causing inconvenience and potentially affecting the safety of the vehicle.",
+      "symptoms": [
+        "Dealerships are unable to perform recall repairs due to unavailable parts",
+        "leading to prolonged wait times for owners",
+        "and potentially leaving vehicles in an unsafe condition."
+      ],
+      "odiNumbers": [
+        "10125826",
+        "10110360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Dealer Response to Recalls",
+      "impact": "The lack of urgency and poor communication from dealerships can lead to frustration and mistrust among owners, potentially causing them to delay or forego necessary repairs.",
+      "symptoms": [
+        "Dealerships are unresponsive or unhelpful in addressing recall repairs",
+        "providing unclear or unrealistic timelines for part availability",
+        "and showing a lack of concern for the owner's inconvenience."
+      ],
+      "odiNumbers": [
+        "10125826",
+        "10110360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Heat from Side Vent",
+      "impact": "The excessive heat from the side vent can cause burns, discomfort, and potentially lead to dehydration and blood clots, which can be a serious safety concern.",
+      "symptoms": [
+        "Hot air blowing out of the side vent",
+        "unbearable temperatures inside the vehicle",
+        "engine temperature exceeding 205 degrees near the driver's legs."
+      ],
+      "odiNumbers": [
+        "10050212",
+        "10037694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Wheel Bearing Failure",
+      "impact": "The failure of the rear wheel bearing can cause the wheel to seize or lock up, leading to loss of control, accidents, or strandings. In extreme cases, it can also cause the wheel to detach from the vehicle, resulting in serious crashes or fatalities.",
+      "symptoms": [
+        "Unusual noises or vibrations from the rear wheel",
+        "wheel wobble or shake",
+        "difficulty steering",
+        "loss of control",
+        "wheel lock-up or seizure."
+      ],
+      "odiNumbers": [
+        "10190005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

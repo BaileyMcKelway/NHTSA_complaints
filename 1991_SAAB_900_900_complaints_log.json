@@ -1,0 +1,61 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent ABS Brake Pedal Hardness and Vehicle Veering",
+      "impact": "The intermittent hardness of the ABS brake pedal can cause the vehicle to veer to the right or left, leading to loss of control and increased stopping distance, which can result in accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard and resists application",
+        "the vehicle veers to the right or left when brakes are applied",
+        "extended stopping distance on wet pavement."
+      ],
+      "odiNumbers": [
+        "829950",
+        "808242",
+        "964906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Fuel Tank",
+      "impact": "A cracked fuel tank can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to the safety of the vehicle occupants and other road users.",
+      "symptoms": [
+        "Gasoline leaks from the fuel tank",
+        "fuel smell or odor inside or outside the vehicle",
+        "fuel droplets or puddles under the vehicle."
+      ],
+      "odiNumbers": [
+        "10028674",
+        "760621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of the airbags to deploy in the event of a crash, increasing the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag light flashes on and off",
+        "no apparent problem despite the warning light."
+      ],
+      "odiNumbers": [
+        "972480",
+        "971842"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

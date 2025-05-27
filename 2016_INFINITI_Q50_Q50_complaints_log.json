@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to lose control, making it difficult or impossible to steer, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle pulls to one side",
+        "the steering wheel turns independently",
+        "the vehicle drifts to the right or left",
+        "loss of acceleration when turning",
+        "vibration in the driver's mirror",
+        "inability to drive in a straight line."
+      ],
+      "odiNumbers": [
+        "11444247",
+        "11331434",
+        "11078332",
+        "10946397",
+        "10938919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Rack and Pinion Failure",
+      "impact": "The failure of the steering rack and pinion can cause the vehicle to lose control, making it difficult or impossible to steer, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "Limited turning capability",
+        "leaks in the steering rack and pinion",
+        "low power steering fluid levels."
+      ],
+      "odiNumbers": [
+        "11444247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steer-by-Wire System Failure",
+      "impact": "The failure of the steer-by-wire system can cause the vehicle to lose control, making it difficult or impossible to steer, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle is incapable of driving in a straight line",
+        "constant drifting to either the right or left",
+        "requires frequent steering adjustments."
+      ],
+      "odiNumbers": [
+        "10946397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Stalling",
+      "impact": "The failure of the engine can cause the vehicle to stall while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The engine cuts off while driving",
+        "the vehicle jerks before stalling",
+        "the vehicle fails to start",
+        "system failure warnings appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11557870",
+        "11419618",
+        "11093336",
+        "11006153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Filter Assembly Failure",
+      "impact": "The failure of the oil filter assembly can cause engine damage and seizure, leading to costly repairs and potentially life-threatening hazards on the road.",
+      "symptoms": [
+        "The engine seizes up",
+        "the oil filter assembly's delicate end tip piece breaks or is damaged",
+        "the engine is destroyed."
+      ],
+      "odiNumbers": [
+        "11006153"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Stop-Start System Failure",
+      "impact": "The failure of the stop-start system can cause the engine to fail to start, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The system failure warning appears on the dashboard",
+        "the engine fails to start when the brake pedal is released."
+      ],
+      "odiNumbers": [
+        "11093336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

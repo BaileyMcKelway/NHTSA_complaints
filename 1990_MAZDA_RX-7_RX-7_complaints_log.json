@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Shoulder Belt Failure",
+      "impact": "The failure of the automatic shoulder belt can lead to accidents or injuries in the event of a crash, as the belt may not properly restrain the occupant.",
+      "symptoms": [
+        "The automatic shoulder belt fails to retract",
+        "the belt retractor is jammed",
+        "the cable is exposed",
+        "the belt will not extend from the retractor",
+        "the belt will not release when the release clip is pressed",
+        "the belt is inoperative."
+      ],
+      "odiNumbers": [
+        "10735427",
+        "10258464",
+        "10257608",
+        "10053782",
+        "562504",
+        "724260",
+        "843583",
+        "839598",
+        "833573",
+        "808094",
+        "809417",
+        "804598",
+        "808673",
+        "512433",
+        "804783",
+        "804582",
+        "510061",
+        "508234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Apex Seal Failure",
+      "impact": "The failure of the apex seals can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents. Additionally, the failure can also lead to engine replacement, resulting in significant repair costs.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine fails",
+        "the apex seal is partially collapsed",
+        "the engine needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "555737",
+        "546646",
+        "483159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust Manifold Leak",
+      "impact": "The leak in the exhaust manifold can cause carbon monoxide to enter the vehicle's cabin, posing a serious health hazard to occupants.",
+      "symptoms": [
+        "The exhaust manifold is leaking",
+        "carbon monoxide is entering the cabin",
+        "the vehicle poses a health hazard."
+      ],
+      "odiNumbers": [
+        "860740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Rail Pulsation Damper Failure",
+      "impact": "The failure of the fuel rail pulsation damper can cause a fuel leak, leading to a high risk of engine compartment fires, which can result in serious damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "Fuel leakage in large quantities",
+        "fuel spraying over the engine bay",
+        "fire in the engine compartment."
+      ],
+      "odiNumbers": [
+        "10138372",
+        "764067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

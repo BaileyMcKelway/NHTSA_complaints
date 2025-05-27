@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Tire Failure",
+      "impact": "Premature tire failure can lead to loss of control, accidents, and potentially serious injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Tires develop holes or splits in the sidewall",
+        "sudden loss of air pressure",
+        "tire blowouts",
+        "or tire failure at relatively low mileage (around 5",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "10513301",
+        "10000711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Needle Failure",
+      "impact": "The failure of the instrument cluster needles can cause the driver to lose visibility of critical vehicle information, such as speed, temperature, fuel level, and RPM, which can lead to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The needles in the instrument cluster become blackened or darkened",
+        "making it impossible to read the speedometer",
+        "temperature gauge",
+        "fuel gauge",
+        "and RPM gauge."
+      ],
+      "odiNumbers": [
+        "10152526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause loss of control, accidents, or leave the driver stranded, especially when it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls when the accelerator pedal is depressed",
+        "often in specific operating conditions."
+      ],
+      "odiNumbers": [
+        "959958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when attempting to slow down or stop",
+        "the engine RPMs increase rapidly",
+        "the vehicle does not respond to braking input."
+      ],
+      "odiNumbers": [
+        "823895",
+        "512200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Loss of Brake Pedal Pressure",
+      "impact": "The sudden loss of brake pedal pressure can cause the driver to lose control of the vehicle, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal has no resistance",
+        "the vehicle takes longer to stop",
+        "the vehicle pulls to one side while braking",
+        "the brake warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10101601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hydroplaning and Loss of Vehicle Control",
+      "impact": "Hydroplaning can cause the driver to lose control of the vehicle, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle hydroplanes or loses traction on wet roads",
+        "the vehicle fishtails or slides sideways",
+        "the vehicle is difficult to control",
+        "the vehicle crashes or spins out of control."
+      ],
+      "odiNumbers": [
+        "10101601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unexpected Driver's Door Opening",
+      "impact": "The unexpected opening of the driver's door while the vehicle is in motion can cause the driver to lose control of the vehicle, leading to accidents or injuries.",
+      "symptoms": [
+        "The driver's door opens unexpectedly while the vehicle is in motion",
+        "often when the automatic window is being rolled down."
+      ],
+      "odiNumbers": [
+        "8000779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

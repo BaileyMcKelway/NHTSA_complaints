@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Seatbelt Failure",
+      "impact": "The failure of the automatic seatbelt can increase the risk of injury or death in the event of an accident, as the seatbelt may not properly restrain the occupant.",
+      "symptoms": [
+        "The seatbelt fails to engage or restrain around the chest area",
+        "the seatbelt does not move or retract properly",
+        "the seatbelt does not respond when the ignition is turned on."
+      ],
+      "odiNumbers": [
+        "10335307",
+        "702688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Lock Failure",
+      "impact": "The failure of the steering lock can cause the steering wheel to lock up, making it difficult or impossible to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the ignition key will not turn",
+        "the steering wheel becomes difficult to turn",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "723953",
+        "489166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Rotor Wear",
+      "impact": "Premature brake rotor wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents. It can also lead to frequent and costly brake repairs.",
+      "symptoms": [
+        "Excessive wear on brake pads",
+        "premature wear on brake rotors",
+        "grinding noise when braking",
+        "spongy brake pedal",
+        "low brake pedal",
+        "intermittent appearance of hydraulic light."
+      ],
+      "odiNumbers": [
+        "713267",
+        "806352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Brake Pad Wear",
+      "impact": "Excessive brake pad wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents. It can also lead to frequent and costly brake repairs.",
+      "symptoms": [
+        "Excessive wear on brake pads",
+        "premature wear on brake rotors",
+        "grinding noise when braking",
+        "spongy brake pedal",
+        "low brake pedal",
+        "intermittent appearance of hydraulic light."
+      ],
+      "odiNumbers": [
+        "806352"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Battery Failure",
+      "impact": "A faulty battery can cause the vehicle to stall or fail to start, leaving the driver stranded and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The vehicle stalls or fails to start",
+        "the battery is dead",
+        "the vehicle's electrical systems malfunction."
+      ],
+      "odiNumbers": [
+        "506183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Horn Failure",
+      "impact": "A faulty horn can lead to reduced safety on the road, as the driver may not be able to alert other drivers or pedestrians to their presence, potentially causing accidents or injuries.",
+      "symptoms": [
+        "The horn fails to sound or sounds intermittently",
+        "the horn is inoperable",
+        "the horn is stuck or sounds continuously."
+      ],
+      "odiNumbers": [
+        "489166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

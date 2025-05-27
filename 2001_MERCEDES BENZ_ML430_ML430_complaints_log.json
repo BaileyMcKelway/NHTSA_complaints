@@ -1,0 +1,202 @@
+{
+  "totalComplaints": 43,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Brake Application",
+      "impact": "Uncommanded brake application can cause loss of control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "The brakes engage without pressing the brake pedal",
+        "the vehicle comes to a complete stop",
+        "the BAS/ESP light comes on",
+        "the vehicle pulls to one side",
+        "and the brakes may slip or shimmy."
+      ],
+      "odiNumbers": [
+        "11005565",
+        "10509722",
+        "10461089",
+        "10350362",
+        "10332201",
+        "10294302",
+        "10290537",
+        "10232164",
+        "10174434"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "Brake pedal issues can cause loss of braking power, accidents, and injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "and the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "10746348",
+        "10315553",
+        "10223721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Yaw Rate Sensor Failure",
+      "impact": "Yaw rate sensor failure can cause uncommanded brake application, loss of control, and accidents.",
+      "symptoms": [
+        "The BAS/ESP light comes on",
+        "the brakes engage without pressing the brake pedal",
+        "and the vehicle pulls to one side."
+      ],
+      "odiNumbers": [
+        "11005565",
+        "10350362",
+        "10290537",
+        "10174434"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "Brake hydraulic system failure can cause loss of braking power, accidents, and injuries.",
+      "symptoms": [
+        "The brakes slip or shimmy",
+        "the brake pedal feels soft or spongy",
+        "and the brake pedal does not return to its normal position."
+      ],
+      "odiNumbers": [
+        "10308114",
+        "10294302",
+        "10223721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Stop Light Switch Failure",
+      "impact": "Stop light switch failure can cause cruise control malfunction, accidents, and injuries.",
+      "symptoms": [
+        "The cruise control fails to disengage",
+        "the vehicle accelerates unexpectedly",
+        "and the BAS/ESP light comes on."
+      ],
+      "odiNumbers": [
+        "10315553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Noise and Vibration",
+      "impact": "Brake noise and vibration can cause driver distraction, loss of control, and accidents.",
+      "symptoms": [
+        "The brakes make a loud noise or squealing sound",
+        "and the vehicle vibrates when braking."
+      ],
+      "odiNumbers": [
+        "10105230",
+        "10048442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "All Activity Module (AAM) Failure",
+      "impact": "The failure of the AAM can cause multiple electrical components to malfunction, including door locks, windows, mirrors, and other systems, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "Door locks malfunction",
+        "windows do not operate",
+        "mirrors cannot be adjusted",
+        "various electrical components fail",
+        "warning lights illuminate",
+        "abnormal noises",
+        "and loss of functionality."
+      ],
+      "odiNumbers": [
+        "10934046",
+        "10778174",
+        "10762937",
+        "10549512",
+        "10395832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Fluid Leaks and Clamp Failure",
+      "impact": "The failure of the power steering system can cause the loss of power steering, making it difficult to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Power steering fluid leaks",
+        "grinding or squeaking noise",
+        "loss of power steering",
+        "difficulty steering",
+        "steering wheel locked or difficult to turn."
+      ],
+      "odiNumbers": [
+        "10466514",
+        "10259430",
+        "10258589",
+        "10153647",
+        "10004760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause the loss of power steering, making it difficult to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Power steering fluid leaks",
+        "grinding or squeaking noise",
+        "loss of power steering",
+        "difficulty steering",
+        "steering wheel locked or difficult to turn."
+      ],
+      "odiNumbers": [
+        "10466514",
+        "10153647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Column and Rack/Pinion Failure",
+      "impact": "The failure of the steering column and rack/pinion can cause the loss of power steering, making it difficult to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Steering wheel not aligned",
+        "power steering fluid leaks",
+        "grinding or squeaking noise",
+        "loss of power steering",
+        "difficulty steering",
+        "steering wheel locked or difficult to turn."
+      ],
+      "odiNumbers": [
+        "10466514",
+        "10258589",
+        "10153647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

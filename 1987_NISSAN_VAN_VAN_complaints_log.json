@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "STEERING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The inadequate heat resistance of the cooling system design can cause hoses and head gaskets to deteriorate, leading to coolant leaks, engine overheating, and potentially fires in the engine compartment and smoke in the passenger cabin.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "smoke in the engine compartment",
+        "smoke in the passenger cabin",
+        "burst radiator hoses",
+        "fan belt failure",
+        "exhaust system failure."
+      ],
+      "odiNumbers": [
+        "568339",
+        "8022793",
+        "826249",
+        "816282",
+        "807584",
+        "478231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Alarm System Installation)",
+      "impact": "The installation of an alarm system can cause electrical shorts, leading to overheating and potentially resulting in a fire, which can compromise vehicle safety and cause damage.",
+      "symptoms": [
+        "Vehicle overheating",
+        "electrical shorts",
+        "wire damage."
+      ],
+      "odiNumbers": [
+        "801971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Hub Assembly Failure",
+      "impact": "The disintegration of the power steering hub assembly can cause loss of power steering, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loss of power steering",
+        "difficulty steering",
+        "unusual noises or vibrations while steering."
+      ],
+      "odiNumbers": [
+        "475064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Passenger Side Seatbelt",
+      "impact": "A malfunctioning passenger side seatbelt can increase the risk of injury or death in the event of an accident, compromising the safety of the vehicle's occupants.",
+      "symptoms": [
+        "The passenger side seatbelt does not latch",
+        "the passenger side seatbelt is stuck",
+        "the passenger side seatbelt will not buckle",
+        "the passenger side seatbelt is loose and cannot be tightened."
+      ],
+      "odiNumbers": [
+        "961425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

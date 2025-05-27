@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Switch Installation Hazard",
+      "impact": "The lack of proper instructions, warnings, or cautions on the heater switch packaging can lead to improper installation, resulting in a fire hazard, which can cause damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "The vehicle catches on fire shortly after installing the heater switch."
+      ],
+      "odiNumbers": [
+        "10124482"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Horn Switch Failure",
+      "impact": "The failure of the horn switch can cause the horn to sound intermittently or continuously, which can be a distraction to the driver and other road users, potentially leading to accidents.",
+      "symptoms": [
+        "The horn sounds intermittently",
+        "the horn is activated continuously",
+        "the horn does not work at all."
+      ],
+      "odiNumbers": [
+        "543223",
+        "523912",
+        "815962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "Intermittent stalling can cause the vehicle to lose power and momentum, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls intermittently."
+      ],
+      "odiNumbers": [
+        "985596"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Sudden and unintended acceleration can cause loss of vehicle control, leading to accidents, property damage, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when the driver is not pressing the accelerator pedal",
+        "resulting in loss of control",
+        "accidents",
+        "or near-miss incidents."
+      ],
+      "odiNumbers": [
+        "979769",
+        "979769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Failure Due to Weld Failure",
+      "impact": "The failure of the driver's seat weld can cause the seat to break away and collapse backwards, which can lead to a loss of control of the vehicle and increase the risk of an accident.",
+      "symptoms": [
+        "The driver's seat suddenly collapses backwards",
+        "the seat feels unstable or loose",
+        "the seat is difficult to adjust or maintain its position",
+        "the seat makes unusual noises or creaks."
+      ],
+      "odiNumbers": [
+        "979285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

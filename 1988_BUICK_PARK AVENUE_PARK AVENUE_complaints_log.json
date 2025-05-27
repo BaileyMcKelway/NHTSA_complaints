@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering system can cause the vehicle to be difficult or impossible to steer, leading to accidents or loss of control.",
+      "symptoms": [
+        "The steering locks up",
+        "the vehicle is hard to steer",
+        "especially in cold weather conditions",
+        "there is no steering",
+        "steering stiffness under normal operating conditions."
+      ],
+      "odiNumbers": [
+        "885720",
+        "804496",
+        "982584",
+        "981145",
+        "501755",
+        "965117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Shoe Retaining Mechanism Failure",
+      "impact": "The failure of the brake shoe retaining mechanism can cause the brake drum to be destroyed, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake shoe falls off",
+        "brake drum is damaged",
+        "brakes lock up",
+        "vehicle takes off unexpectedly despite foot being on the brake pedal."
+      ],
+      "odiNumbers": [
+        "822644",
+        "807146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the brakes to lock up, leading to a loss of vehicle control, which can result in accidents or injuries.",
+      "symptoms": [
+        "Anti-lock brakes lock up",
+        "vehicle takes off unexpectedly despite foot being on the brake pedal."
+      ],
+      "odiNumbers": [
+        "513958",
+        "511151",
+        "807146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exterior Paint Defect",
+      "impact": "The oxidation and peeling of exterior paint on the top and trunk can lead to rust and corrosion, compromising the vehicle's structural integrity and potentially causing further damage.",
+      "symptoms": [
+        "Paint on the top and trunk appears dull",
+        "oxidized",
+        "or faded; paint flakes or peels off",
+        "exposing the underlying metal."
+      ],
+      "odiNumbers": [
+        "511790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The sudden detachment of the hood while driving can cause accidents, injuries, or fatalities, as it can obstruct the driver's view and create a hazard on the road.",
+      "symptoms": [
+        "The hood suddenly opens or detaches while driving",
+        "obstructing the driver's view",
+        "potentially causing accidents or damage to other vehicles."
+      ],
+      "odiNumbers": [
+        "967513"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

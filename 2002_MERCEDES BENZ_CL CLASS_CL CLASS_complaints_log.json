@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Body Control (ABC) System Failure",
+      "impact": "The failure of the ABC system can cause the vehicle to sag or rise unexpectedly, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle's suspension drops or rises without warning",
+        "the ABC light illuminates on the instrument panel",
+        "the vehicle leaks hydraulic fluid",
+        "the instrument panel cluster goes dark",
+        "the vehicle becomes unsafe to drive."
+      ],
+      "odiNumbers": [
+        "10279825",
+        "10247956",
+        "10240148",
+        "10200515",
+        "10167388",
+        "896103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABC Hydraulic System Failure",
+      "impact": "The failure of the ABC hydraulic system can cause hydraulic fluid leaks, smoke emission from the exhaust, and illumination of the ABC sensor warning light, which can lead to accidents or fires.",
+      "symptoms": [
+        "Abnormal smoke emitted from the exhaust",
+        "ABC sensor warning light illuminated",
+        "hydraulic fluid leaking near the catalytic converter",
+        "hydraulic line failure",
+        "smoke coming from underneath the vehicle."
+      ],
+      "odiNumbers": [
+        "10433054",
+        "10197945",
+        "10197986",
+        "10190476"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The extensive electrical problems can cause a range of issues, including malfunctioning windows, seats, and hydraulics, which can lead to accidents, injuries, or leave the driver stranded.",
+      "symptoms": [
+        "Windows go up and down on their own",
+        "seats move on their own while the vehicle is in motion",
+        "hydraulics malfunction",
+        "vehicle leans to one side",
+        "key decodes itself",
+        "battery drains",
+        "and electrical components fail to function properly."
+      ],
+      "odiNumbers": [
+        "10349271",
+        "10201207",
+        "10196215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can prevent the driver from reading essential gauges and indicators, leading to accidents or loss of control.",
+      "symptoms": [
+        "The LCD display fails to operate normally",
+        "preventing the driver from reading the speed",
+        "gears",
+        "temperature",
+        "and clock."
+      ],
+      "odiNumbers": [
+        "10201207",
+        "10196215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lighting System Failure",
+      "impact": "The failure of the exterior lighting system can reduce visibility, leading to accidents or injuries.",
+      "symptoms": [
+        "Headlights",
+        "parking lights",
+        "and turning signals malfunction or fail to work",
+        "despite replacing bulbs excessively."
+      ],
+      "odiNumbers": [
+        "10349271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

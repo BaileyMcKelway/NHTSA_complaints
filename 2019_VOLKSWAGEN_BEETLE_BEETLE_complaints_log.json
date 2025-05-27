@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Key Cylinder or Tear Lock Failure",
+      "impact": "The failure of the key cylinder or tear lock can cause the vehicle to not shut down, leading to potential safety risks, especially in remote areas. It can also cause the vehicle to roll away, resulting in accidents or damage.",
+      "symptoms": [
+        "The key cannot be removed from the key cylinder",
+        "the vehicle will not shut down",
+        "the vehicle rolls away."
+      ],
+      "odiNumbers": [
+        "11531471",
+        "11431672"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rollaway Risk due to Push Button Start/Stop System",
+      "impact": "The push button start/stop system can cause the vehicle to roll away, resulting in accidents or damage, especially if the vehicle is not properly shifted into park. This can be a safety hazard, especially in situations where the driver is not aware of the vehicle's gear position.",
+      "symptoms": [
+        "The vehicle rolls away",
+        "the vehicle is not in park",
+        "the push button start/stop system does not alert the driver to potential issues."
+      ],
+      "odiNumbers": [
+        "11431672"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuse Failure Affecting External Lighting",
+      "impact": "The failure of the fuse controlling the external lighting can cause safety issues, especially at night, as the rear lights only come on when the brakes are applied. This can reduce visibility and increase the risk of accidents.",
+      "symptoms": [
+        "The external lighting fails",
+        "the rear lights only come on when the brakes are applied",
+        "the fuse controlling the reading or map light in the cabin and external lighting continually fails."
+      ],
+      "odiNumbers": [
+        "11316854"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Transmission Safety Feature",
+      "impact": "The lack of a safety feature to prevent the vehicle from being shut off while in Drive can cause the vehicle to roll unexpectedly, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle can be shut off while in Drive",
+        "and when parked on an incline",
+        "it may roll backwards without warning."
+      ],
+      "odiNumbers": [
+        "11548908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brakes fail to function properly",
+        "resulting in a loss of stopping power."
+      ],
+      "odiNumbers": [
+        "11440877"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turbocharger Lag and Power Loss",
+      "impact": "The turbocharger lag and power loss can cause the vehicle to stall or lose power while driving, increasing the risk of accidents, especially when merging or accelerating from a stopped position.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the vehicle loses power when accelerating",
+        "the vehicle surges forward unexpectedly",
+        "the turbocharger takes a long time to provide power",
+        "the vehicle feels sluggish or unresponsive when accelerating."
+      ],
+      "odiNumbers": [
+        "11339418",
+        "11291941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

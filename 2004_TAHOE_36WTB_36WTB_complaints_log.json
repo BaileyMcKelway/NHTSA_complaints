@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the speedometer, tachometer, and other gauges to malfunction or fail, leading to inaccurate readings and potentially causing accidents or leaving the driver without vital information.",
+      "symptoms": [
+        "The speedometer and/or tachometer readings are erratic or incorrect",
+        "the speedometer shows a fixed reading even when the vehicle is stopped",
+        "the gauges fail to work altogether",
+        "the oil pressure gauge is not reading correctly",
+        "the dashboard gauge cluster stops working."
+      ],
+      "odiNumbers": [
+        "10317827",
+        "10290193",
+        "10275941",
+        "10266754",
+        "10261849",
+        "10261870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "Tire sidewall failure can lead to sudden blowouts, loss of vehicle control, and accidents, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tire shredding",
+        "bulging",
+        "or sudden loss of air pressure",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "10459282",
+        "10126947",
+        "10040875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incompatible Spare Tire",
+      "impact": "Using an incompatible spare tire can cause transmission problems, loss of vehicle control, and accidents, potentially resulting in injuries or fatalities, especially when the vehicle is in 4-wheel drive mode.",
+      "symptoms": [
+        "None reported",
+        "but the potential risks are significant."
+      ],
+      "odiNumbers": [
+        "10040875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Traction Active System due to Corrosion of Sensors",
+      "impact": "The faulty traction active system can cause unexpected and sudden activation of the system, leading to loss of vehicle control, especially at low speeds and during turns, which can result in accidents and injuries.",
+      "symptoms": [
+        "The traction active system kicks in unexpectedly",
+        "especially at low speeds and during turns",
+        "causing the vehicle to slow down or lose traction; the system activates without any warning or error codes; the vehicle's computer scan does not show any error codes despite the system malfunctioning."
+      ],
+      "odiNumbers": [
+        "10244334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or shut off without warning, leading to accidents or leaving the driver stranded. It can also cause electrical components to malfunction, leading to fires or other safety hazards.",
+      "symptoms": [
+        "Vehicle shuts off without warning",
+        "engine stalls",
+        "loss of power steering or brakes",
+        "interference with radio",
+        "electrical components malfunction",
+        "smoke or flames from the vehicle",
+        "vehicle tries to start itself."
+      ],
+      "odiNumbers": [
+        "895764",
+        "738968",
+        "737431",
+        "730132",
+        "727935",
+        "508553",
+        "801994",
+        "983020",
+        "504933",
+        "504661",
+        "984110",
+        "983932",
+        "983356",
+        "982986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall or shut off without warning, leading to accidents or leaving the driver stranded. It can also cause electrical components to malfunction, leading to fires or other safety hazards.",
+      "symptoms": [
+        "Engine stalls",
+        "vehicle shuts off without warning",
+        "ignition switch shorts out",
+        "faulty ignition switch causes fire",
+        "vehicle tries to start itself."
+      ],
+      "odiNumbers": [
+        "730132",
+        "983020",
+        "504933",
+        "504661",
+        "984110",
+        "983932",
+        "982986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Column Electrical Failure",
+      "impact": "The failure of the electrical system in the steering column can cause fires or electrical components to malfunction, leading to safety hazards.",
+      "symptoms": [
+        "Electrical short in the steering column",
+        "faulty ignition switch causes fire",
+        "wiring harness burns",
+        "smoke or flames from the vehicle."
+      ],
+      "odiNumbers": [
+        "508553",
+        "983020",
+        "983356",
+        "984110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, or leave the driver stranded, especially at high speeds.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the vehicle will not restart immediately",
+        "the vehicle restarts after a period of time (e.g.",
+        "1/2 hour)."
+      ],
+      "odiNumbers": [
+        "895488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Valve Cover Gasket Failure",
+      "impact": "The failure of the valve cover gasket can cause oil leaks, engine damage, and potentially lead to engine failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "engine noise",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "519027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Tube Design Flaw",
+      "impact": "The design flaw in the air tube can cause hot exhaust gas to leak, leading to damage to other components (e.g., plastic air conditioning plenum chamber), and potentially cause fumes to enter the vehicle cabin, which can be hazardous to occupants.",
+      "symptoms": [
+        "Fumes entering the vehicle cabin",
+        "damage to the air conditioning plenum chamber",
+        "hot exhaust gas leaks."
+      ],
+      "odiNumbers": [
+        "519027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Valve Failure",
+      "impact": "The failure of engine valves can cause engine stalling, loss of power, and potentially lead to engine failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "difficulty restarting the engine."
+      ],
+      "odiNumbers": [
+        "810895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seatbelt Buckle Failure",
+      "impact": "The failure of the driver's seatbelt buckle can prevent the seatbelt from properly securing the driver, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The driver's seatbelt buckle will not latch",
+        "the male portion of the buckle will not connect to the female portion",
+        "the buckle appears to latch but does not securely fasten",
+        "the buckle falsely latches",
+        "and the driver's seatbelt buckle is inoperative."
+      ],
+      "odiNumbers": [
+        "984287",
+        "968790",
+        "966100",
+        "481752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

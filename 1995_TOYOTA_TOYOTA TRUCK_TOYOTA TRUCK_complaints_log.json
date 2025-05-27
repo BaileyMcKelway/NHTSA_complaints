@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Buckle Jamming",
+      "impact": "A jammed seatbelt buckle can prevent the occupant from being able to unbuckle themselves, potentially leading to entrapment or difficulty in emergency situations, which can increase the risk of injury or fatalities.",
+      "symptoms": [
+        "The seatbelt is stuck inside the buckle",
+        "the seatbelt will not unlatch",
+        "the seatbelt is difficult to release."
+      ],
+      "odiNumbers": [
+        "785693",
+        "785693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Retraction Assembly Failure",
+      "impact": "A failed seatbelt retraction assembly can cause the seatbelt to malfunction, potentially leading to inadequate restraint in the event of a crash, which can increase the risk of injury or fatalities.",
+      "symptoms": [
+        "The seatbelt does not retract properly",
+        "the seatbelt is loose or does not tighten",
+        "the seatbelt is stuck or jammed."
+      ],
+      "odiNumbers": [
+        "709773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The loss of power steering can make the vehicle difficult to maneuver, increasing the risk of accidents, especially at low speeds.",
+      "symptoms": [
+        "Loss of power steering",
+        "difficulty turning the wheel",
+        "sudden noise when braking",
+        "loss of air conditioning."
+      ],
+      "odiNumbers": [
+        "10173008",
+        "800222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Noise and Performance Issues",
+      "impact": "Unusual brake noise and performance issues can indicate a potential brake failure, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Noise when braking",
+        "especially when backing up",
+        "spongy brake pedal",
+        "brake pedal feels soft or hard to press."
+      ],
+      "odiNumbers": [
+        "800222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Inefficiency and Fuel Injection Problems",
+      "impact": "The fuel system inefficiency and fuel injection problems can lead to decreased fuel economy, increased emissions, and potentially cause the engine to stall or hesitate, which can increase the risk of accidents.",
+      "symptoms": [
+        "Decreased fuel economy",
+        "high mileage to the gallon",
+        "difficulty starting the engine",
+        "engine stalling or hesitation",
+        "poor engine performance",
+        "rough idling",
+        "and decreased power."
+      ],
+      "odiNumbers": [
+        "527732",
+        "504810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Fuel Injectors",
+      "impact": "Faulty fuel injectors can cause the engine to run rich or lean, leading to decreased fuel economy, increased emissions, and potentially cause the engine to stall or hesitate, which can increase the risk of accidents.",
+      "symptoms": [
+        "Decreased fuel economy",
+        "engine stalling or hesitation",
+        "poor engine performance",
+        "rough idling",
+        "and decreased power."
+      ],
+      "odiNumbers": [
+        "504810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driveshaft Failure",
+      "impact": "The failure of the driveshaft can cause vibrations, surging, and loss of power during acceleration, leading to a loss of vehicle control, accidents, and potential damage to other components.",
+      "symptoms": [
+        "Vibrations felt in the vehicle",
+        "especially during acceleration",
+        "surging or jerking motion during acceleration",
+        "loss of power during acceleration",
+        "unusual noises or clunking sounds from the drivetrain."
+      ],
+      "odiNumbers": [
+        "504810",
+        "503376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

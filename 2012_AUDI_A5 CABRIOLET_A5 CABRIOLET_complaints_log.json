@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of Takata airbag recall parts can lead to a delay in the repair, leaving the vehicle owners at risk of serious injury or death in the event of an accident.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11185412",
+        "11083976",
+        "11078727",
+        "11003708",
+        "10959908",
+        "10960028",
+        "10949501",
+        "10947991",
+        "10946790",
+        "10934625",
+        "10934577",
+        "10929620",
+        "10906369"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause the engine to run rough, stall, or fail to start, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The \"add oil\" light comes on",
+        "the engine runs rough",
+        "the engine stalls",
+        "the engine fails to start",
+        "the timing chain tensioner rod breaks."
+      ],
+      "odiNumbers": [
+        "11102635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Misdiagnosis and Failure to Replace Timing Chain",
+      "impact": "The failure to diagnose and replace the timing chain can lead to repeated engine failures, causing inconvenience, expense, and potential safety risks.",
+      "symptoms": [
+        "Repeated instances of the \"add oil\" light coming on",
+        "engine failure",
+        "and misdiagnosis by dealerships."
+      ],
+      "odiNumbers": [
+        "11102635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

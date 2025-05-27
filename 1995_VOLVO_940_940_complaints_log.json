@@ -1,0 +1,195 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "TIRES",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadvertent Airbag Deployment",
+      "impact": "Inadvertent airbag deployment can cause injuries to occupants, damage to the vehicle, and potentially lead to accidents or loss of control.",
+      "symptoms": [
+        "Airbags deploy without a significant impact",
+        "airbags deploy at low speeds (less than 5-10 mph)",
+        "airbags deploy without any impact",
+        "airbags deploy causing injuries to occupants",
+        "airbags crack the windshield."
+      ],
+      "odiNumbers": [
+        "10117668",
+        "836659",
+        "825046",
+        "816426",
+        "526381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a frontal collision",
+        "airbags do not deploy in a rear-end collision",
+        "airbags do not deploy despite significant impact",
+        "airbags do not deploy causing injuries to occupants."
+      ],
+      "odiNumbers": [
+        "10119313",
+        "820932",
+        "601497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incorrect Tire Sizing and Installation",
+      "impact": "Installing tires that are too large for the vehicle can lead to safety issues, including loss of control, accidents, and damage to the vehicle. Additionally, improper installation can cause tire failure, which can result in accidents or injuries.",
+      "symptoms": [
+        "Tires that are too large for the vehicle",
+        "tire tread separation",
+        "uneven tire wear",
+        "difficulty handling the vehicle",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "10139502",
+        "10092598",
+        "752294",
+        "888059",
+        "738569",
+        "727818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of control, accidents, and injuries. It can also lead to damage to the vehicle and other property.",
+      "symptoms": [
+        "Tread separation",
+        "uneven tire wear",
+        "vibration while driving",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "10092598",
+        "752294",
+        "888059",
+        "727818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can lead to safety issues, including loss of control, accidents, and injuries. It can also result in additional costs for tire replacement.",
+      "symptoms": [
+        "Rapid tire wear",
+        "uneven tire wear",
+        "vibration while driving",
+        "and loss of control."
+      ],
+      "odiNumbers": [
+        "738569"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cracked Gas Tank",
+      "impact": "A cracked gas tank can cause gasoline to leak, leading to a fire hazard, and may also cause the vehicle to stall or lose power, increasing the risk of accidents.",
+      "symptoms": [
+        "Gasoline smell",
+        "gas puddling under the car",
+        "decreased fuel capacity",
+        "gas fumes in the garage or near the vehicle."
+      ],
+      "odiNumbers": [
+        "10256541",
+        "10188229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause the vehicle to lose power, stall, or shut down while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Random loss of power while driving",
+        "inability to crank the engine immediately after shutdown",
+        "engine flooding",
+        "no indication or warning before the loss of power."
+      ],
+      "odiNumbers": [
+        "10132563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Sudden acceleration",
+        "vehicle surges forward",
+        "accelerator pedal collapses",
+        "vehicle fails to stop when brakes are applied",
+        "hissing sound heard when brakes are applied."
+      ],
+      "odiNumbers": [
+        "837413",
+        "835343",
+        "831626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle fails to stop when brakes are applied",
+        "hissing sound heard when brakes are applied",
+        "accelerator pedal collapses",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "837413",
+        "835343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Pedal Malfunction",
+      "impact": "Pedal malfunction can lead to loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Accelerator pedal collapses",
+        "sudden acceleration",
+        "vehicle surges forward",
+        "hissing sound heard when brakes are applied."
+      ],
+      "odiNumbers": [
+        "837413",
+        "831626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

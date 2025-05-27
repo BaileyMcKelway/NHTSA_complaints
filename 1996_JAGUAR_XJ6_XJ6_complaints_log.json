@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Malfunction",
+      "impact": "The malfunction of the throttle body can cause the accelerator pedal to stick, leading to unintended acceleration, loss of vehicle control, and potential accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal feels sticky or hesitant",
+        "the engine RPM does not decrease when the pedal is released",
+        "the vehicle speed remains constant or increases unexpectedly",
+        "runaway acceleration occurs",
+        "the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "10199502",
+        "10045605",
+        "566436",
+        "8003881",
+        "735977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, and put the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The vehicle suddenly shuts down while driving",
+        "with no warning",
+        "and cannot be moved forward or reversed; the engine stalls while driving on the highway",
+        "streets",
+        "or turning corners."
+      ],
+      "odiNumbers": [
+        "11352309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Differential Noise and Failure",
+      "impact": "The failure of the rear differential can cause loss of control, accidents, and affect the overall safety and performance of the vehicle.",
+      "symptoms": [
+        "A loud roaring noise from the rear end",
+        "similar to a truck",
+        "while driving at around 40 miles per hour; the problem persists despite prior service attempts to fix it."
+      ],
+      "odiNumbers": [
+        "10045607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Failure and Limp Home Mode",
+      "impact": "The failure of the transmission can cause loss of control, accidents, and affect the overall safety and performance of the vehicle.",
+      "symptoms": [
+        "The vehicle shuts off while coming to a stop",
+        "and when restarted",
+        "the transmission light is on",
+        "and the vehicle enters Limp Home Mode; the problem is not diagnosed by the computer",
+        "and the technician resets the system without resolving the issue."
+      ],
+      "odiNumbers": [
+        "10045609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure/Limp Mode",
+      "impact": "The transmission failure can cause the vehicle to stall or shut off without prior warning, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls or shuts off without warning",
+        "especially in stop-and-go traffic",
+        "and the dashboard displays a message indicating the transmission is in limp mode",
+        "accompanied by the engine check light being on."
+      ],
+      "odiNumbers": [
+        "890607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Temperature Sensor Failure",
+      "impact": "The failure of the temperature sensor can cause the engine to stop dead without warning, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The engine stops dead without warning",
+        "and the temperature sensor failure has been identified as the cause of the problem."
+      ],
+      "odiNumbers": [
+        "737250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unavailable Recall Parts",
+      "impact": "The unavailability of recall parts can prevent the necessary repairs from being made, leaving the vehicle in an unsafe condition.",
+      "symptoms": [
+        "The recall item has failed",
+        "and the necessary parts are not available for replacement",
+        "with no safety defect mentioned."
+      ],
+      "odiNumbers": [
+        "756702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

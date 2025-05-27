@@ -1,0 +1,130 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EQUIPMENT",
+    "TIRES",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Axle Grease Seal Failure Leading to Brake Contamination",
+      "impact": "The failure of the axle grease seal can cause grease to leak into the brake assembly, contaminating the brake pads and drums, leading to severely diminished braking ability, which can result in accidents or loss of control in emergency stopping situations.",
+      "symptoms": [
+        "Poor braking quality",
+        "brake pedal feels soft or spongy",
+        "brake shoes and drums are covered in grease",
+        "electromagnets are covered in grease",
+        "wheel hubs and armatures are covered in grease",
+        "near-total loss of trailer braking."
+      ],
+      "odiNumbers": [
+        "11204463",
+        "11000307",
+        "10992601",
+        "10969127",
+        "10914048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parts Distribution Disconnect and Service-Related Concerns",
+      "impact": "The inability to obtain recall repairs due to parts distribution disconnect and lack of qualified dealerships can leave vehicles in an unsafe condition, potentially leading to accidents or other safety issues.",
+      "symptoms": [
+        "Difficulty in scheduling recall repairs",
+        "dealerships declining to service the vehicle",
+        "lack of available parts",
+        "and unavailability of qualified dealerships to perform the recall."
+      ],
+      "odiNumbers": [
+        "11464073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Westlake Tire Failure (ST235/80/R16 N/A, DOT Number: JUMR2CT)",
+      "impact": "The sudden blowout of the Westlake tire can cause loss of vehicle control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Tire blowout",
+        "loss of air pressure",
+        "tire failure while driving",
+        "tire separation",
+        "tire tread separation."
+      ],
+      "odiNumbers": [
+        "11355172"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Leaf Spring Failure",
+      "impact": "The failure of leaf springs can cause loss of vehicle control, accidents, and damage to surrounding components, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected failure of the leaf springs",
+        "often accompanied by a loud noise",
+        "while the vehicle is in motion; broken or fractured leaf springs; damage to surrounding components",
+        "such as wiring or electrical systems."
+      ],
+      "odiNumbers": [
+        "11115609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical Trailer Brake System Failure",
+      "impact": "The failure of the electrical trailer brake system can cause loss of trailer braking, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Cutting or damage to the wire connecting to the electric trailer brakes; failure of the trailer brakes to engage or function properly; loss of control of the trailer."
+      ],
+      "odiNumbers": [
+        "11115609"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exposed Electric Trailer Brake Wiring",
+      "impact": "The exposed wiring for the electric trailer brakes can cause a dead short when the wires rub against the suspension, leading to a loss of trailer brakes, which can result in accidents or loss of control, especially when towing heavy loads.",
+      "symptoms": [
+        "The trailer brakes suddenly fail",
+        "the fuse in the tow vehicle blows",
+        "the driver experiences a loss of control when trying to stop the trailer",
+        "the trailer's brakes do not engage when applied."
+      ],
+      "odiNumbers": [
+        "10971735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Wiring Protection",
+      "impact": "The lack of protective covering on the electric trailer brake wiring can cause the wires to chafe and rub against the suspension, leading to a dead short and loss of trailer brakes, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The trailer brakes suddenly fail",
+        "the fuse in the tow vehicle blows",
+        "the driver experiences a loss of control when trying to stop the trailer",
+        "the trailer's brakes do not engage when applied."
+      ],
+      "odiNumbers": [
+        "10971735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

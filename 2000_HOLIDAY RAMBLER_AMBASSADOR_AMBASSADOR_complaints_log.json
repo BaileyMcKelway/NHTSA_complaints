@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Thermal Brake Failure",
+      "impact": "The thermal brake failure can cause the brakes to overheat, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "Burning fumes emitted into the vehicle",
+        "ABS warning lamp illumination",
+        "hot or smoking calipers",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "wheel lockup",
+        "strong smell",
+        "smoke",
+        "and resultant failure of the ABS sensor."
+      ],
+      "odiNumbers": [
+        "10290617",
+        "10290623",
+        "10250708",
+        "10246757",
+        "10222938",
+        "10212410",
+        "10207511",
+        "10181166",
+        "10157085",
+        "10075508"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to fail, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake fluid leaking",
+        "brake lines rusted out",
+        "brake pads worn out",
+        "ABS sensor failure."
+      ],
+      "odiNumbers": [
+        "10219272",
+        "10157085",
+        "10050147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Sensor Failure",
+      "impact": "The failure of the ABS sensor can cause the ABS system to malfunction, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "ABS warning lamp illumination",
+        "burning fumes emitted into the vehicle",
+        "hot or smoking calipers",
+        "wheel lockup",
+        "strong smell",
+        "smoke."
+      ],
+      "odiNumbers": [
+        "10290617",
+        "10290623",
+        "10250708",
+        "10246757",
+        "10212410",
+        "10207511",
+        "10181166",
+        "10157085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure Causing Sudden Loss of Power",
+      "impact": "The sudden loss of power to the entire chassis can cause the vehicle to stall and die without warning, leading to a loss of control and increasing the risk of accidents. The failure of essential systems such as power brakes and steering can further exacerbate the situation.",
+      "symptoms": [
+        "The vehicle stalls and dies without warning",
+        "all 12-volt power to chassis components fails",
+        "no power to brakes",
+        "steering",
+        "or lights",
+        "dash lights",
+        "headlights",
+        "running lights",
+        "tail lights",
+        "signal lights",
+        "and emergency lights go out."
+      ],
+      "odiNumbers": [
+        "891431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

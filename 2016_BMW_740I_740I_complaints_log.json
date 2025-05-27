@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Air Flap System Failure",
+      "impact": "The failure of the active air flap system can cause engine overheating, which can lead to engine damage, reduced performance, and potentially cause a breakdown or accident.",
+      "symptoms": [
+        "Engine malfunction light",
+        "engine overheating",
+        "upper and lower radiator blinds/actuators not working",
+        "faulty air flap system."
+      ],
+      "odiNumbers": [
+        "11483478",
+        "11131756"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Upper and Lower Radiator Blinds Failure",
+      "impact": "The failure of the upper and lower radiator blinds can cause engine overheating, which can lead to engine damage, reduced performance, and potentially cause a breakdown or accident.",
+      "symptoms": [
+        "Engine malfunction light",
+        "engine overheating",
+        "upper and lower radiator blinds/actuators not working",
+        "faulty air flap system."
+      ],
+      "odiNumbers": [
+        "11131756",
+        "11483478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden shattering of the sunroof can cause injury to occupants from shattered glass and distract the driver, potentially leading to accidents.",
+      "symptoms": [
+        "The sunroof explodes inward",
+        "showering occupants with shattered glass",
+        "without any prior impact or warning."
+      ],
+      "odiNumbers": [
+        "11343055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Active Parking Distance Control (PDC) Failure",
+      "impact": "The failure of the Active PDC system can increase the risk of accidents or damage to the vehicle, as it is designed to assist the driver in avoiding collisions.",
+      "symptoms": [
+        "The Active PDC system fails to activate",
+        "despite the presence of obstacles",
+        "and the dealer may not document the failures or provide a satisfactory explanation."
+      ],
+      "odiNumbers": [
+        "10978612"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Freeze",
+      "impact": "The freezing of the audio control system can cause a loss of audio functionality, which can be a distraction to the driver and potentially lead to an accident.",
+      "symptoms": [
+        "The audio system becomes unresponsive",
+        "volume cannot be adjusted using gesture commands",
+        "power button",
+        "or steering wheel controls",
+        "and the dashboard display does not show any attempt to increase volume."
+      ],
+      "odiNumbers": [
+        "10959574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Flawed Automatic Park Distance Control System (PDC)",
+      "impact": "The inconsistent performance of the PDC system can cause accidents or near-misses, especially at low speeds, due to the system's failure to accurately detect obstacles or provide timely warnings.",
+      "symptoms": [
+        "The PDC system activates erratically",
+        "sometimes too early or too late",
+        "and occasionally fails to activate at all",
+        "requiring manual intervention to activate the sensors."
+      ],
+      "odiNumbers": [
+        "10948062"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Adaptive Cruise Control System Failure",
+      "impact": "The failure of the adaptive cruise control system can lead to accidents or near-miss collisions, as the vehicle may not detect or respond to other vehicles or pedestrians in its path, requiring driver intervention to avoid a collision.",
+      "symptoms": [
+        "The vehicle fails to detect other vehicles or pedestrians",
+        "especially when merging lanes or switching lanes; the vehicle does not slow down or stop in response to other vehicles or pedestrians; the collision alarm sounds unnecessarily; the vehicle accelerates to reach target speed despite detecting another vehicle in front; the vehicle fails to detect parked vehicles in adjacent lanes."
+      ],
+      "odiNumbers": [
+        "10955560",
+        "10947641"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

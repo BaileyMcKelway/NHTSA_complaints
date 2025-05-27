@@ -1,0 +1,201 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "POWER TRAIN",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the car to stall, leading to a loss of control and increasing the risk of accidents. It can also cause inconvenience and discomfort due to malfunctioning of various features.",
+      "symptoms": [
+        "Display board lights turning off",
+        "car stalling",
+        "automatic brake activation and deactivation",
+        "display screen going black",
+        "condensation inside vehicle windows",
+        "A/C not working",
+        "CD player not working",
+        "FM preset stations not working properly",
+        "rear sonar sensor light defective."
+      ],
+      "odiNumbers": [
+        "11448996",
+        "11404257",
+        "11366795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "The malfunction of the infotainment system can cause inconvenience and distraction while driving, leading to a potential safety risk.",
+      "symptoms": [
+        "Display screen going black",
+        "navigation system getting lost",
+        "navigation and other screens restarting while driving",
+        "audio/radio coming on while driving on its own",
+        "touch screen applications not working properly."
+      ],
+      "odiNumbers": [
+        "11404257",
+        "11366795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling",
+      "impact": "The stalling of the vehicle can cause a loss of control, leading to a high risk of accidents and injuries.",
+      "symptoms": [
+        "Car stalling abruptly while driving",
+        "stalling causing the body to jerk forward."
+      ],
+      "odiNumbers": [
+        "11448996",
+        "11366795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Climate Control System Failure",
+      "impact": "The failure of the climate control system can cause discomfort and distraction while driving, leading to a potential safety risk.",
+      "symptoms": [
+        "A/C not working",
+        "blowing only warm air."
+      ],
+      "odiNumbers": [
+        "11404257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Automatic Braking",
+      "impact": "The unintended activation of the automatic braking system can cause sudden and unexpected slowing or stopping of the vehicle, which can increase the risk of rear-end collisions, especially on high-speed roads or in heavy traffic.",
+      "symptoms": [
+        "The vehicle suddenly brakes on its own",
+        "the vehicle slows down rapidly without driver input",
+        "a red warning light appears on the dashboard",
+        "the vehicle's speed drops significantly within a few seconds."
+      ],
+      "odiNumbers": [
+        "11522009",
+        "11446663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ProPILOT Assist/Intelligent Cruise Control Failure",
+      "impact": "The failure of ProPILOT Assist/Intelligent Cruise Control to provide visual, sensory, or automatic control warnings when the driver's hands leave the steering wheel can lead to serious safety issues, including accidents, injuries, or fatalities, especially if the driver becomes incapacitated.",
+      "symptoms": [
+        "The vehicle fails to provide a dash visual warning",
+        "sensory warning",
+        "or automatic control to bring the vehicle to a safe stop when the driver's hands leave the steering wheel while in ProPILOT Assist/Intelligent Cruise Control mode."
+      ],
+      "odiNumbers": [
+        "11568151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lane Keep Assist and Direct Adaptive Steering Failure",
+      "impact": "The failure of Lane Keep Assist and Direct Adaptive Steering can cause the vehicle to deviate from its intended course, potentially leading to accidents, injuries, or fatalities, especially if the driver is not paying attention or is incapacitated.",
+      "symptoms": [
+        "The vehicle fails to stay in its lane",
+        "drifts off course",
+        "or does not respond to steering input while in ProPILOT Assist/Intelligent Cruise Control mode."
+      ],
+      "odiNumbers": [
+        "11568151"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Continuously Variable Transmission (CVT) Malfunction",
+      "impact": "The CVT malfunction can cause the vehicle to lose power, hesitate, or jerk while accelerating, leading to a loss of control and potential accidents. It can also cause the vehicle to enter limp-home mode, which can leave the driver stranded.",
+      "symptoms": [
+        "Irregular RPMs while cruising",
+        "spiking of RPMs during acceleration",
+        "\"malfunction\" warning on the screen",
+        "forward propulsion ceases",
+        "strained reverse gear",
+        "loss of power on hills",
+        "high revving of the engine during acceleration",
+        "jerkiness",
+        "high revving in 2nd gear with no accompanying acceleration",
+        "and CVT Malfunction warning light."
+      ],
+      "odiNumbers": [
+        "11444616"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crankcase Ventilation System Failure",
+      "impact": "The failure of the crankcase ventilation system can cause a strong fuel smell to emanate from the vehicle, posing a health hazard to occupants and those in close proximity. Prolonged exposure to fuel vapors can lead to respiratory problems, headaches, and other health issues.",
+      "symptoms": [
+        "Strong fuel smell coming from the vehicle",
+        "especially when parked in an enclosed space like a garage",
+        "fuel smell inside the vehicle",
+        "fuel smell outside the vehicle."
+      ],
+      "odiNumbers": [
+        "11399845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed or Lack of Manufacturer Response to Crankcase Ventilation System Failure",
+      "impact": "The delayed or lack of response from the manufacturer to address the crankcase ventilation system failure can lead to prolonged exposure to fuel vapors, putting occupants and others at risk of health problems.",
+      "symptoms": [
+        "Manufacturer unable to diagnose or repair the issue",
+        "multiple visits to the dealership without a resolution",
+        "lack of communication from the manufacturer regarding a fix or recall."
+      ],
+      "odiNumbers": [
+        "11399845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Potential Health Risks due to Crankcase Ventilation System Failure",
+      "impact": "The crankcase ventilation system failure can lead to exposure to fuel vapors, which can cause respiratory problems, headaches, and other health issues.",
+      "symptoms": [
+        "Respiratory problems",
+        "headaches",
+        "dizziness",
+        "nausea",
+        "and other health issues related to fuel vapor exposure."
+      ],
+      "odiNumbers": [
+        "11399845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

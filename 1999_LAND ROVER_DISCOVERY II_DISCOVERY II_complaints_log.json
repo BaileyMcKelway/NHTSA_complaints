@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Modulator Failure",
+      "impact": "The failure of the ABS modulator can cause the ABS system to malfunction, leading to reduced braking performance, increased stopping distances, and potentially, accidents.",
+      "symptoms": [
+        "The ABS warning light",
+        "traction control light",
+        "and hill descent light come on intermittently or stay on; the brake pedal feels soft or spongy; the brake pedal goes to the floor; the vehicle takes longer to stop; the brakes shutter or vibrate."
+      ],
+      "odiNumbers": [
+        "10481060",
+        "10312183",
+        "10269935",
+        "10223130",
+        "10172152",
+        "10159103",
+        "10150455",
+        "10146185",
+        "10143829",
+        "10139275",
+        "10128838",
+        "10121818",
+        "10100399",
+        "10062228"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause the brakes to fail, leading to accidents or near-misses.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy; the brake pedal goes to the floor; the vehicle takes longer to stop; the brakes shutter or vibrate."
+      ],
+      "odiNumbers": [
+        "10223130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wheel Speed Sensor Failure",
+      "impact": "The failure of the wheel speed sensor can cause the ABS system to malfunction, leading to reduced braking performance, increased stopping distances, and potentially, accidents.",
+      "symptoms": [
+        "The ABS warning light comes on; the brake pedal feels soft or spongy; the brake pedal goes to the floor; the vehicle takes longer to stop; the brakes shutter or vibrate."
+      ],
+      "odiNumbers": [
+        "10139275"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Drive Shaft Failure",
+      "impact": "The failure of the front drive shaft can cause loss of control, accidents, and damage to other vehicle components, such as the catalytic converter, transmission case, and firewall.",
+      "symptoms": [
+        "Grinding noise",
+        "loud explosion sound",
+        "vibration",
+        "loss of control",
+        "drive shaft falling off",
+        "shearing in half",
+        "loud popping and grinding sound",
+        "difficulty handling the vehicle."
+      ],
+      "odiNumbers": [
+        "10746299",
+        "10491820",
+        "10360964",
+        "10346413",
+        "10315317",
+        "10157714",
+        "10086360",
+        "10075943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, compromising the safety of vehicle occupants.",
+      "symptoms": [
+        "Airbag warning light appears on the dashboard",
+        "airbags fail to deploy in the event of a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10242746",
+        "10242399",
+        "10079142",
+        "10281933"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause the loss of safety features, including the rearview camera, autonomous emergency braking, and park distance control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The infotainment system fails to start or load",
+        "displays error messages such as \"component protection active\" or \"you can activate this function at dealer\"",
+        "and becomes inoperable",
+        "including the rearview camera",
+        "autonomous emergency braking",
+        "and park distance control."
+      ],
+      "odiNumbers": [
+        "11579671",
+        "11559395",
+        "11547917",
+        "11523930",
+        "11498915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rearview Camera Failure",
+      "impact": "The failure of the rearview camera can increase the risk of accidents and injuries, especially when reversing.",
+      "symptoms": [
+        "The rearview camera does not turn on",
+        "freezes the image",
+        "or does not display an image at all."
+      ],
+      "odiNumbers": [
+        "11579671",
+        "11559395",
+        "11547917",
+        "11498915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Autonomous Emergency Braking (Front Assist) Failure",
+      "impact": "The failure of the autonomous emergency braking system can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The autonomous emergency braking system fails to function",
+        "and the fail light comes on."
+      ],
+      "odiNumbers": [
+        "11559395",
+        "11547917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Park Distance Control Failure",
+      "impact": "The failure of the park distance control system can increase the risk of accidents and injuries, especially when parking.",
+      "symptoms": [
+        "The park distance control system fails to function",
+        "and the fail light comes on."
+      ],
+      "odiNumbers": [
+        "11559395",
+        "11547917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Low Voltage Issue",
+      "impact": "The low voltage issue can cause the infotainment system to malfunction, leading to the loss of safety features, including the rearview camera.",
+      "symptoms": [
+        "The infotainment system displays a \"low voltage\" warning",
+        "and the system fails to function."
+      ],
+      "odiNumbers": [
+        "11498915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inaccurate Navigation System",
+      "impact": "The inaccurate navigation system can cause drivers to take wrong routes, leading to potential safety risks, such as accidents, getting lost, or driving into hazardous areas.",
+      "symptoms": [
+        "The navigation system provides incorrect directions",
+        "the vehicle is directed to take wrong routes",
+        "the navigation system fails to update or correct its route",
+        "the navigation system freezes or becomes unresponsive."
+      ],
+      "odiNumbers": [
+        "11552167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Dealership Service",
+      "impact": "The failure of the dealership to diagnose and repair the issue can lead to continued safety risks, driver frustration, and potential accidents.",
+      "symptoms": [
+        "The dealership is unable to diagnose the issue",
+        "the dealership is unable to repair the issue",
+        "the dealership takes an excessive amount of time to repair the issue",
+        "the dealership fails to provide a satisfactory solution."
+      ],
+      "odiNumbers": [
+        "11552167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hill Start Assist Feature Malfunction",
+      "impact": "The malfunction of the hill start assist feature can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents, especially in traffic situations and intersections.",
+      "symptoms": [
+        "The vehicle stalls when starting from a stop on a hill",
+        "the brake is not released when the vehicle starts moving forward",
+        "the clutch and gear engagement process is completed before the brakes are released."
+      ],
+      "odiNumbers": [
+        "11542557"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering to become stiff and hard to turn, making it difficult to control the vehicle, especially when driving over bumps or in emergency situations, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering becomes stiff or hard to turn",
+        "the steering pulls to one side (left or right) when driving over bumps",
+        "the power steering light is illuminated on the dashboard",
+        "the brakes become spongy or soft."
+      ],
+      "odiNumbers": [
+        "11539122",
+        "11480447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Brake Pedal Failure",
+      "impact": "The intermittent failure of the brake pedal can lead to a loss of braking power, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The brake pedal depresses to the floorboard without warning",
+        "the brakes hesitate or delay before engaging",
+        "a clunking sound is heard when applying the brakes",
+        "the brakes do not engage immediately."
+      ],
+      "odiNumbers": [
+        "11420460",
+        "11209624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Rod Bearing Failure",
+      "impact": "The failure of the engine rod bearings can cause engine damage, leading to costly repairs, and potentially leaving the driver stranded or causing an accident.",
+      "symptoms": [
+        "Engine failure",
+        "engine revving at high rates",
+        "unusual engine noise",
+        "oil shavings in the oil pan",
+        "engine failure while in motion."
+      ],
+      "odiNumbers": [
+        "11012719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Idle Control System Malfunction",
+      "impact": "The malfunction of the engine idle control system can cause the engine to rev at high rates, leading to loss of control, accidents, or engine damage.",
+      "symptoms": [
+        "Engine revving at high rates",
+        "engine racing",
+        "engine failure to idle properly",
+        "unusual engine noise."
+      ],
+      "odiNumbers": [
+        "10929394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

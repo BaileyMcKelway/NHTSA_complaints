@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "WHEELS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Coolant Leak into Combustion Chamber",
+      "impact": "The engine coolant leak into the combustion chamber can cause engine overheating, misfire, and potentially lead to combustion, resulting in a fire hazard.",
+      "symptoms": [
+        "Check engine light illuminates",
+        "engine misfire",
+        "coolant found in combustion chamber",
+        "engine overheating",
+        "smoke coming out of the vehicle."
+      ],
+      "odiNumbers": [
+        "11469023",
+        "11454790",
+        "11439588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair due to Parts Unavailability",
+      "impact": "The delay in recall repair can leave the vehicle in an unsafe condition, potentially causing accidents or fires.",
+      "symptoms": [
+        "Notification of recall received",
+        "but parts are not available for repair",
+        "dealer unable to perform recall repair due to parts unavailability."
+      ],
+      "odiNumbers": [
+        "11550438",
+        "11546564",
+        "11542613",
+        "11534157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure of Battery Sensor Causing Fire Risk",
+      "impact": "The failure of the battery sensor can cause the vehicle to catch on fire, whether the vehicle is in operation or not.",
+      "symptoms": [
+        "Notification of recall received",
+        "but parts are not available for repair",
+        "risk of vehicle combustion."
+      ],
+      "odiNumbers": [
+        "11550438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lug Nut Corrosion and Swelling",
+      "impact": "Corrosion and swelling of lug nuts can cause them to become stuck, making it difficult or impossible to remove the wheels, which can lead to safety risks, especially in situations where a tire needs to be changed, such as a flat tire on the road.",
+      "symptoms": [
+        "Lug nuts are swollen",
+        "lug nuts are difficult to remove",
+        "lug nuts require specialized tools or cutting to remove",
+        "standard lug wrench no longer fits",
+        "loud noise from tires while driving."
+      ],
+      "odiNumbers": [
+        "11514948",
+        "11496612",
+        "11486500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can lead to reduced traction, increased stopping distances, and increased risk of tire failure, which can cause accidents.",
+      "symptoms": [
+        "Loud noise from tires while driving",
+        "tires worn to a dangerous level",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "11259056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause difficulty starting the vehicle, which can lead to inconvenience, delay, and potentially strand the driver.",
+      "symptoms": [
+        "The vehicle does not immediately start after refueling",
+        "the ignition key must be turned and the accelerator pedal depressed simultaneously to start the vehicle",
+        "the fuel nozzle clicks on and off while attempting to refuel."
+      ],
+      "odiNumbers": [
+        "11477621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

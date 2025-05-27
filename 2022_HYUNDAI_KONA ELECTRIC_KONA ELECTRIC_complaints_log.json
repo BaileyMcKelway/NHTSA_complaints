@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Parasitic Drain/Battery Drain)",
+      "impact": "The electrical system failure can cause the 12V battery to drain, leading to a dead battery, which can leave the driver stranded, and in some cases, may cause safety hazards such as a failed horn or instrument panel.",
+      "symptoms": [
+        "The 12V battery drains excessively",
+        "the vehicle won't start",
+        "the horn stops working",
+        "the instrument panel fails",
+        "the vehicle experiences a parasitic drain",
+        "the battery meter does not reflect the true available storage."
+      ],
+      "odiNumbers": [
+        "11523056",
+        "11506135",
+        "11498498",
+        "11496222",
+        "11495997",
+        "11479433",
+        "11472706",
+        "11468364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Management System (BMS) Failure",
+      "impact": "The failure of the BMS can cause the 12V battery to drain, leading to a dead battery, which can leave the driver stranded, and in some cases, may cause safety hazards such as a failed horn or instrument panel.",
+      "symptoms": [
+        "The 12V battery drains excessively",
+        "the vehicle won't start",
+        "the horn stops working",
+        "the instrument panel fails",
+        "the vehicle experiences a parasitic drain",
+        "the battery meter does not reflect the true available storage."
+      ],
+      "odiNumbers": [
+        "11445519",
+        "11437936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hybrid/Power Battery Failure",
+      "impact": "The failure of the hybrid/power battery can cause the vehicle to malfunction, leading to safety hazards such as a failed electrical system, and in some cases, may cause the vehicle to be unable to operate.",
+      "symptoms": [
+        "The vehicle malfunctions",
+        "the electrical system fails",
+        "the vehicle is unable to operate",
+        "the battery fails to charge",
+        "the vehicle experiences inconsistent charging rates."
+      ],
+      "odiNumbers": [
+        "11501472",
+        "11445519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Charging Port Door Locking Issue",
+      "impact": "The inability to access the charging port due to a faulty door latch can prevent owners from charging their vehicles, leading to reduced vehicle functionality and potential stranding.",
+      "symptoms": [
+        "The push door to the charging port locks and cannot be opened",
+        "the door sometimes unlocks after repeatedly pressing the unlock button",
+        "difficulty or inability to access the charging port."
+      ],
+      "odiNumbers": [
+        "11533692"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Charging Port Door Latch",
+      "impact": "A design flaw or malfunctioning latch can cause the charging port door to lock, restricting access to the charging port and hindering vehicle charging.",
+      "symptoms": [
+        "The charging port door latch is faulty",
+        "the door locks unexpectedly",
+        "difficulty or inability to access the charging port."
+      ],
+      "odiNumbers": [
+        "11533692"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause the vehicle to accelerate rapidly, making it difficult to control, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates rapidly without input from the driver",
+        "the vehicle continues to accelerate despite braking",
+        "the vehicle jumps or surges forward",
+        "the collision warning system fails to alert the driver."
+      ],
+      "odiNumbers": [
+        "11531338"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

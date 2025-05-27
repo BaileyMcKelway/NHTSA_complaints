@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause distraction, injury, or even accidents, and can also lead to unnecessary repair costs.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "without any apparent reason or crash",
+        "while driving or operating the vehicle normally."
+      ],
+      "odiNumbers": [
+        "980054",
+        "980054",
+        "980217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag to Deploy in Crash",
+      "impact": "Failure of the airbag to deploy in a crash can increase the risk of injury or fatality to the driver and occupants.",
+      "symptoms": [
+        "The airbag does not deploy in a frontal collision",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "978810"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire on Ignition",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a total loss, and poses a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "Fire or flames in the engine compartment",
+        "smoke or burning smell when turning on the ignition",
+        "engine compartment damage or melting of components."
+      ],
+      "odiNumbers": [
+        "963930",
+        "962861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can prevent the buckle from latching, leaving the occupant unprotected in the event of a sudden stop or accident, which can lead to serious injury or even death.",
+      "symptoms": [
+        "The seat belt buckle breaks or cracks",
+        "the seat belt does not stay buckled",
+        "the seat belt buckle is difficult to latch or unlatch",
+        "the seat belt buckle is loose or does not fit properly."
+      ],
+      "odiNumbers": [
+        "10661845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating and Electrical Issues",
+      "impact": "The engine overheating and electrical issues can cause the engine to catch fire, leading to accidents, injuries, or fatalities. The continued use of the vehicle in this condition poses a significant risk to the driver's safety and the safety of others on the road.",
+      "symptoms": [
+        "The engine overheats",
+        "the vehicle backfires",
+        "the engine dies",
+        "fire starts coming out of the engine",
+        "the alternator fails",
+        "and the electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "708125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dealer Misrepresentation and Failure to Repair",
+      "impact": "The dealer's failure to properly diagnose and repair the vehicle's issues, combined with their misrepresentation of the repairs made, can lead to a loss of trust and confidence in the vehicle's safety and reliability.",
+      "symptoms": [
+        "The dealer fails to provide proper documentation of repairs",
+        "denies responsibility for the issues",
+        "and blames the customer for the problems."
+      ],
+      "odiNumbers": [
+        "708125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Replacement Issues",
+      "impact": "The failure to properly replace the engine or address the underlying issues can cause the vehicle to continue experiencing problems, putting the driver's safety at risk.",
+      "symptoms": [
+        "The engine continues to overheat and malfunction after supposed repairs",
+        "and the dealer fails to provide evidence of the engine replacement."
+      ],
+      "odiNumbers": [
+        "708125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration due to Throttle Malfunction",
+      "impact": "The throttle getting stuck can cause the vehicle to accelerate unexpectedly, leading to a loss of control, increased risk of accidents, and potential harm to occupants and other road users.",
+      "symptoms": [
+        "The throttle pedal becomes stuck",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle fails to slow down",
+        "the engine RPM increases rapidly",
+        "the vehicle speed increases without input from the driver."
+      ],
+      "odiNumbers": [
+        "976165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

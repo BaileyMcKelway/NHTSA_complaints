@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VISIBILITY",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Pedal Failure",
+      "impact": "The failure of the clutch pedal can cause the pedal to break or fall to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal breaks or falls to the floor",
+        "the clutch pedal is unable to operate properly",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10429337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The unintended movement of the vehicle can cause accidents or injuries, especially if the vehicle is on an incline or if the driver is not in control.",
+      "symptoms": [
+        "The vehicle moves unexpectedly",
+        "the vehicle rolls or moves without the driver's input",
+        "the vehicle is unable to be stopped or controlled."
+      ],
+      "odiNumbers": [
+        "10120701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Issues",
+      "impact": "The failure of electrical components, such as the CD player or speedometer, can cause inconvenience and distraction to the driver, potentially leading to accidents.",
+      "symptoms": [
+        "The CD player does not function properly",
+        "the speedometer needle does not light up",
+        "the instrument panel lighting is inadequate."
+      ],
+      "odiNumbers": [
+        "744394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Motor Failure",
+      "impact": "The failure of the power window motor can cause the windows to malfunction, leaving them stuck in the down position, which can compromise the vehicle's security and weatherproofing.",
+      "symptoms": [
+        "The power windows go down but won't go up",
+        "the windows are stuck in the down position",
+        "the windows make a grinding or clicking noise when attempting to operate."
+      ],
+      "odiNumbers": [
+        "10064655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag Deployment in Rear-End Collision",
+      "impact": "The failure of airbag deployment in a rear-end collision can lead to serious injury or even fatalities, as the occupants are not provided with the necessary protection to mitigate the impact.",
+      "symptoms": [
+        "Airbags do not deploy in a rear-end collision",
+        "occupants experience severe injuries or fatalities",
+        "vehicle damage is extensive."
+      ],
+      "odiNumbers": [
+        "10033905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. In extreme cases, it can also result in fatalities.",
+      "symptoms": [
+        "Visible flames or smoke coming from the engine compartment",
+        "burning smell",
+        "warning lights or alarms on the dashboard",
+        "loss of engine power",
+        "unusual noises or sounds from the engine."
+      ],
+      "odiNumbers": [
+        "10031259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Visibility Issue",
+      "impact": "The reduced visibility of the instrument cluster gauges can make it difficult for the driver to monitor essential vehicle information, such as speed, fuel level, and engine performance, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Difficulty reading gauges during the day",
+        "gauges appear dim or washed out",
+        "inability to see gauge needles or markings."
+      ],
+      "odiNumbers": [
+        "10017216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

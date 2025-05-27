@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling/Shut-Off While in Motion",
+      "impact": "The sudden stalling or shut-off of the engine while in motion can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The engine stalls or shuts off while driving",
+        "often on highways or high-speed roads",
+        "resulting in loss of power and control. The vehicle may not restart immediately",
+        "leaving the driver and passengers stranded."
+      ],
+      "odiNumbers": [
+        "11000792",
+        "10995236",
+        "10510215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Leak into Passenger Compartment",
+      "impact": "Water leak into the passenger compartment can cause electrical system malfunctions, corrosion, and damage to interior components, potentially leading to safety hazards, such as short circuits, fires, or loss of critical vehicle functions.",
+      "symptoms": [
+        "Water accumulation or pooling on the passenger side floor",
+        "front and back",
+        "unusual noises",
+        "electrical system malfunctions",
+        "corrosion or rust on interior components."
+      ],
+      "odiNumbers": [
+        "10929780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Radiator Overflow Tube Corrosion and Failure",
+      "impact": "The corrosion and failure of the radiator overflow tube can cause radiator fluid leaks, leading to engine overheating, damage to surrounding components, and potentially causing a breakdown or accident.",
+      "symptoms": [
+        "Radiator fluid leaks",
+        "coolant loss",
+        "engine overheating",
+        "corrosion or damage to surrounding components."
+      ],
+      "odiNumbers": [
+        "10870497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dual-Zone Climate Control Failure (Driver's Side)",
+      "impact": "The failure of the dual-zone climate control system can cause discomfort, distraction, and potentially lead to accidents due to extreme temperatures, especially on the driver's side.",
+      "symptoms": [
+        "Loss of air flow on the driver's side",
+        "inability to control temperature on the driver's side",
+        "excessive heat on the driver's side",
+        "burning sensation on feet",
+        "unbearable temperatures."
+      ],
+      "odiNumbers": [
+        "10870497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

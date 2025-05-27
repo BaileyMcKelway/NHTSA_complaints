@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Fuse Box Melting/Shorting)",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle rides roughly",
+        "stalls",
+        "and the fuse box is melted or shorted."
+      ],
+      "odiNumbers": [
+        "11052348",
+        "10655193"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unavailability of Recall Parts (Electrical System)",
+      "impact": "The unavailability of recall parts can delay necessary repairs, leaving the vehicle in an unsafe condition and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle has not experienced a failure",
+        "but the owner has received a recall notice and the necessary parts are unavailable."
+      ],
+      "odiNumbers": [
+        "10677038",
+        "10653037",
+        "10643065",
+        "10626317",
+        "10553384"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Internal Fluid Leak (Unknown Origin)",
+      "impact": "The internal fluid leak can cause damage to the vehicle's components, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "There is a presence of a constant intermittent fluid leak",
+        "but the origin and affected part are unknown."
+      ],
+      "odiNumbers": [
+        "10991355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a lack of deployment in the event of a crash, resulting in increased risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The \"service Airbag\" warning light flashes",
+        "airbags fail to deploy in a crash",
+        "failure of airbag system diagnosis."
+      ],
+      "odiNumbers": [
+        "11502415",
+        "10681765",
+        "10577080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle accelerates independently",
+        "brake pedal fails to respond",
+        "vehicle surges forward without driver input."
+      ],
+      "odiNumbers": [
+        "10681765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "Failure of the brake system can lead to loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake pedal fails to respond",
+        "vehicle fails to stop or slow down",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10681765"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

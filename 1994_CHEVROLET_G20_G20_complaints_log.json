@@ -1,0 +1,176 @@
+{
+  "totalComplaints": 48,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS does not engage on wet or icy surfaces",
+        "the brakes do not respond properly",
+        "the vehicle pulls to one side when applying brakes",
+        "the brake pedal feels spongy",
+        "the vehicle takes a long distance to stop",
+        "the ABS light comes on and goes out",
+        "the ABS pump does not come on when starting the vehicle."
+      ],
+      "odiNumbers": [
+        "10596774",
+        "10150352",
+        "10022436",
+        "10005280",
+        "748216",
+        "869901",
+        "547939",
+        "534490",
+        "527283",
+        "817730",
+        "514041",
+        "516674",
+        "516322",
+        "810358",
+        "805460",
+        "507271",
+        "502276",
+        "970884",
+        "968781",
+        "960156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to feel spongy, leading to a loss of braking power, which can cause accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "10596774",
+        "810358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to feel spongy, leading to a loss of braking power, which can cause accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "10596774",
+        "810358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Component Failure",
+      "impact": "The failure of brake components, such as rotors, calipers, or brake pads, can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The rotors failed",
+        "the calipers failed",
+        "the brake pads continually fail",
+        "causing vibration and premature tire wear."
+      ],
+      "odiNumbers": [
+        "514041",
+        "514041",
+        "507271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver's Side Airbag to Deploy",
+      "impact": "The failure of the driver's side airbag to deploy in a collision can increase the risk of serious injury or fatality to the driver, as the airbag is designed to provide additional protection in the event of a crash.",
+      "symptoms": [
+        "The driver's side airbag does not deploy in a collision",
+        "despite meeting the deployment threshold",
+        "resulting in injuries to the head",
+        "neck",
+        "and chest."
+      ],
+      "odiNumbers": [
+        "846110",
+        "828119",
+        "828075",
+        "538060",
+        "974170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Seat Belt to Restrain",
+      "impact": "The failure of the seat belt to restrain the driver in a collision can increase the risk of serious injury or fatality, as the seat belt is designed to keep the driver in place and prevent ejection from the vehicle.",
+      "symptoms": [
+        "The seat belt does not restrain the driver in a collision",
+        "resulting in injuries to the head",
+        "neck",
+        "and chest."
+      ],
+      "odiNumbers": [
+        "828119",
+        "538060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "PCM (Powertrain Control Module) Failure",
+      "impact": "The failure of the PCM can cause the engine to shut off while driving, resulting in a loss of power and potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine shuts off while driving",
+        "intermittent loss of power",
+        "complete loss of power",
+        "vehicle stalls",
+        "difficulty restarting the engine."
+      ],
+      "odiNumbers": [
+        "514041",
+        "969129",
+        "968921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Poor Design of Horn Button",
+      "impact": "The poorly designed horn button can cause difficulty and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "Difficulty locating the horn button",
+        "difficulty accessing the horn button",
+        "horn button is hard to reach."
+      ],
+      "odiNumbers": [
+        "960120"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

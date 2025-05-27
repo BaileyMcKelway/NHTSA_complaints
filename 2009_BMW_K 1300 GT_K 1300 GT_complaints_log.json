@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "VEHICLE SPEED CONTROL",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause a loss of control, leading to accidents, injuries, or fatalities, especially when it occurs in heavy traffic or during deceleration.",
+      "symptoms": [
+        "The engine stops or stalls while driving",
+        "usually at low speeds (10-15 mph)",
+        "during deceleration",
+        "or when downshifting",
+        "often accompanied by a drop in RPM below normal idle speed."
+      ],
+      "odiNumbers": [
+        "10898138",
+        "10887826",
+        "10631640",
+        "10609550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Idle Air Control Valve Failure",
+      "impact": "The failure of the idle air control valve can cause the engine to stall, especially when idling or decelerating, which can lead to accidents or near-miss situations, particularly in heavy traffic.",
+      "symptoms": [
+        "The engine stalls frequently",
+        "especially when idling or decelerating",
+        "the engine stalls at stop signs or red lights",
+        "the engine stalls when waiting in traffic",
+        "the rear lights may turn off when the engine stalls",
+        "the engine may stall repeatedly in a short period."
+      ],
+      "odiNumbers": [
+        "11459305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Loss of Power in Hot Weather",
+      "impact": "The engine stalling and loss of power in hot weather can cause the vehicle to become stranded, increasing the risk of accidents or injuries, especially when stuck in traffic or on a hot day.",
+      "symptoms": [
+        "The engine stalls after being in steady cruise for an extended period",
+        "stalls repeatedly in very hot weather",
+        "fails to restart or has difficulty restarting",
+        "responds poorly to throttle opening",
+        "revs only up to 2000-3000 RPM",
+        "bogs down when throttle is opened further",
+        "and may die after starting and running for a short period (10-15 seconds)."
+      ],
+      "odiNumbers": [
+        "11337528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Shift Fracture",
+      "impact": "The fracture of the gear shift can cause the motorcycle to become stuck in gear, making it difficult or impossible to shift, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "The gear shift breaks or fractures",
+        "the motorcycle is unable to shift gears",
+        "the motorcycle becomes stuck in gear."
+      ],
+      "odiNumbers": [
+        "10920491"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

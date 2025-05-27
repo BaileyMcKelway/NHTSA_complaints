@@ -1,0 +1,76 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility while driving, especially in rainy or snowy conditions, which can increase the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers work intermittently",
+        "wipers come on and off without warning",
+        "wipers fail to operate when needed",
+        "wipers do not turn off when not needed",
+        "delayed response to wiper activation",
+        "wipers work fine when not raining."
+      ],
+      "odiNumbers": [
+        "10039660",
+        "885492",
+        "720807",
+        "849913",
+        "838522",
+        "836782",
+        "703109",
+        "535779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Lockup/Grabbing Issue",
+      "impact": "The rear brake lockup/grabbing issue can cause the vehicle to lose control, leading to accidents or near-accidents, especially in wet or damp conditions.",
+      "symptoms": [
+        "Rear brakes lock up or grab intermittently",
+        "vehicle veers to the left or right when brakes are applied or released",
+        "brakes fail to stop the vehicle in wet conditions or when going down an incline."
+      ],
+      "odiNumbers": [
+        "844123",
+        "605708",
+        "521680",
+        "521679",
+        "521681",
+        "812661",
+        "809892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation",
+      "impact": "Tread separation can cause loss of vehicle control, leading to accidents, injuries, and fatalities. The sudden and unexpected loss of traction can result in swerving, fishtailing, or even rollover, putting the driver and occupants at risk.",
+      "symptoms": [
+        "The tread peels off from the main body of the tire",
+        "causing the vehicle to swerve or lose control",
+        "often without warning. The tire may not blow out",
+        "but the separated tread can cause damage to the vehicle's body or surrounding components."
+      ],
+      "odiNumbers": [
+        "559626",
+        "729887",
+        "727103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

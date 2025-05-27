@@ -1,0 +1,228 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Seatbelt Failure",
+      "impact": "The failure of the automatic seatbelt can lead to inadequate restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt suddenly releases",
+        "the seatbelt does not engage",
+        "the seatbelt tightens and pins the driver to the seat",
+        "the seatbelt has slack",
+        "the seatbelt jams when pressing the release mechanism",
+        "the seatbelt does not stay locked."
+      ],
+      "odiNumbers": [
+        "10267772",
+        "10158333",
+        "893019",
+        "725748",
+        "822324",
+        "986339",
+        "500670",
+        "488423",
+        "966390",
+        "961337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Buckle Failure",
+      "impact": "The failure of the seatbelt buckle can cause the seatbelt to come unlatched, leading to inadequate restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt buckle comes unlatched",
+        "the seatbelt buckle jams when pressing the release mechanism",
+        "the seatbelt buckle does not stay locked."
+      ],
+      "odiNumbers": [
+        "893019",
+        "986339",
+        "961337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Seatbelt Motor Failure",
+      "impact": "The failure of the power seatbelt motor can cause the seatbelt to malfunction, leading to inadequate restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The power seatbelt motor fails",
+        "the seatbelt does not move on track."
+      ],
+      "odiNumbers": [
+        "500670",
+        "488423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure to Shift When Cold",
+      "impact": "The transmission's failure to shift when cold can cause the vehicle to stay in low gear, leading to reduced acceleration, decreased fuel efficiency, and increased risk of accidents.",
+      "symptoms": [
+        "The transmission stays in low gear",
+        "the transmission takes longer to shift up into higher gears",
+        "the transmission fails to shift when cold",
+        "the vehicle has reduced acceleration."
+      ],
+      "odiNumbers": [
+        "714029",
+        "701316",
+        "701319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission fails",
+        "the transmission takes longer to shift up into higher gears",
+        "the transmission fails to shift when cold",
+        "the vehicle has reduced acceleration."
+      ],
+      "odiNumbers": [
+        "474849",
+        "701316",
+        "966422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Axle Failure",
+      "impact": "The front axle failure can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The front axle cracks",
+        "the vehicle has reduced stability",
+        "the vehicle has uneven tire wear."
+      ],
+      "odiNumbers": [
+        "601915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Shaft Failure",
+      "impact": "The transmission shaft failure can cause the transmission to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "A hole is put through the shaft of the transmission",
+        "the transmission fails",
+        "the vehicle has reduced acceleration."
+      ],
+      "odiNumbers": [
+        "966422"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of brake calipers can lead to pedal fading, loss of braking power, and increased stopping distances, which can cause accidents or near-misses.",
+      "symptoms": [
+        "Pedal fading",
+        "car rolling into intersections",
+        "severe pulling to one side under hard braking",
+        "grinding noise from brakes."
+      ],
+      "odiNumbers": [
+        "704197",
+        "825504",
+        "970922",
+        "971983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause a loss of brake pressure, leading to pedal fading, loss of braking power, and increased stopping distances, which can cause accidents or near-misses.",
+      "symptoms": [
+        "Pedal fading",
+        "car rolling into intersections",
+        "severe pulling to one side under hard braking",
+        "need to replace master cylinder multiple times."
+      ],
+      "odiNumbers": [
+        "704197",
+        "967443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Brake Modulator Failure",
+      "impact": "The failure of the anti-lock brake modulator can cause the brakes to fail to function at the appropriate time, leading to close rear-ending incidents or accidents.",
+      "symptoms": [
+        "Brakes fail to function at the appropriate time",
+        "no warning to the driver of a problem."
+      ],
+      "odiNumbers": [
+        "967443",
+        "971983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the car to stall, leading to a loss of power steering and potentially causing accidents or near-misses.",
+      "symptoms": [
+        "Car stalls at high speed",
+        "loss of power steering."
+      ],
+      "odiNumbers": [
+        "704197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Instrument Cluster Issue",
+      "impact": "The issue with the instrument cluster can cause a loud squeaking/rattle noise, which may affect the accuracy of the reported speed.",
+      "symptoms": [
+        "Loud squeaking/rattle noise from the speedometer gauge."
+      ],
+      "odiNumbers": [
+        "704197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Camshaft Oil Leak",
+      "impact": "The oil leak from the camshaft seal can cause engine damage and potentially lead to engine failure.",
+      "symptoms": [
+        "Oil leak from the seal on the left side just behind the distributor cap."
+      ],
+      "odiNumbers": [
+        "704197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

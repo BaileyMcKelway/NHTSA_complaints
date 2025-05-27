@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Strip Failure",
+      "impact": "The failure of the fuel strip can cause the fuel gauge to malfunction, leading to unexpected loss of power, stalling, or running out of fuel while in motion, which can be dangerous and potentially life-threatening.",
+      "symptoms": [
+        "Fuel gauge shows incorrect readings",
+        "low fuel warning light illuminates",
+        "fuel gauge stops responding",
+        "motorcycle loses power while in motion",
+        "fuel gauge shows empty tank despite having fuel."
+      ],
+      "odiNumbers": [
+        "11439839",
+        "10915013",
+        "10676355",
+        "10649177",
+        "10547878",
+        "10544780",
+        "10498348"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Fuel Pump",
+      "impact": "A faulty fuel pump can cause fuel leaks, leading to a loss of power, stalling, or running out of fuel while in motion, which can be dangerous and potentially life-threatening.",
+      "symptoms": [
+        "Strong odor of fuel",
+        "fuel puddle under the vehicle",
+        "fuel pump leaking",
+        "loss of power while in motion."
+      ],
+      "odiNumbers": [
+        "11426772",
+        "11280282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Body Cam Failure",
+      "impact": "The failure of the throttle body cam can cause the motorcycle to stop running, leading to a loss of control and potentially dangerous situations.",
+      "symptoms": [
+        "Cracked throttle body cams",
+        "motorcycle stops running",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11460526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Fuel Strip Causing Inaccurate Fuel Gauge Readings",
+      "impact": "The failure of the fuel strip can cause the fuel gauge to provide inaccurate readings, leading to unexpected fuel depletion, potentially stranding the rider in unsafe locations, and increasing the risk of accidents.",
+      "symptoms": [
+        "The fuel gauge registers empty or full despite having ample fuel",
+        "the \"low fuel\" light is illuminated despite having sufficient fuel",
+        "the fuel gauge ceases to work",
+        "intermittent operation of the fuel gauge",
+        "constant \"full\" or \"empty\" reading."
+      ],
+      "odiNumbers": [
+        "10593623",
+        "10534398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

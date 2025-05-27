@@ -1,0 +1,157 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Line Corrosion and Leaks",
+      "impact": "Corrosion and leaks in the fuel line can cause fuel to leak, leading to a potential fire hazard, and may also cause the engine to stall or fail to start, leaving the driver stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "engine stalling",
+        "difficulty starting the engine",
+        "rust or corrosion on the fuel line."
+      ],
+      "odiNumbers": [
+        "10086715",
+        "882804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vent Hose Connector Corrosion",
+      "impact": "Corrosion of the vent hose connector can cause fuel leaks, leading to a potential fire hazard, and may also cause the engine to stall or fail to start, leaving the driver stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "engine stalling",
+        "difficulty starting the engine",
+        "rust or corrosion on the vent hose connector."
+      ],
+      "odiNumbers": [
+        "882804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Switch Failure",
+      "impact": "The failure of the headlight switch can cause electrical shorts, leading to smoke, fire, and potentially life-threatening situations. It can also cause damage to the vehicle's electrical system and other components.",
+      "symptoms": [
+        "The headlight switch starts smoking",
+        "gets very hot",
+        "and may cause a fire under the dash. The dash light at the switch may not work after the incident."
+      ],
+      "odiNumbers": [
+        "10086717",
+        "735070"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Insulation Failure",
+      "impact": "The failure of the wiring insulation can cause electrical shorts, leading to excessive fuel being fed to the engine, which can cause the engine to rev and jerk while driving, potentially leading to loss of control and accidents.",
+      "symptoms": [
+        "The engine starts to rev and the vehicle jerks while driving",
+        "indicating excessive fuel being fed to the engine."
+      ],
+      "odiNumbers": [
+        "735070"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to not start, leading to inconvenience and potentially stranding the driver. Repeated attempts to replace the starter motor can also cause damage to the flywheel, leading to additional repair costs.",
+      "symptoms": [
+        "The starter motor seizes up",
+        "the starter motor does not engage properly",
+        "the starter motor clashes with the flywheel",
+        "the vehicle does not start."
+      ],
+      "odiNumbers": [
+        "10070189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Sending Unit Malfunction",
+      "impact": "The malfunction of the oil sending unit can cause inaccurate oil level readings, leading to potential engine damage or failure.",
+      "symptoms": [
+        "The oil sending unit malfunctions",
+        "inaccurate oil level readings."
+      ],
+      "odiNumbers": [
+        "510859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Window Malfunction",
+      "impact": "The malfunction of the power window can cause inconvenience and discomfort for the driver and passengers.",
+      "symptoms": [
+        "The driver's side window sticks",
+        "the power window does not operate properly."
+      ],
+      "odiNumbers": [
+        "510859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pad and Shoe Wear",
+      "impact": "Excessive wear on brake pads and shoes can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Squealing or grinding noises when applying the brakes",
+        "vibrations when braking",
+        "uneven brake pad wear",
+        "scoring or cutting of rotors and drums",
+        "reduced brake pedal feel",
+        "increased brake pedal travel."
+      ],
+      "odiNumbers": [
+        "979945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of the airbag can cause accidents, injuries, or fatalities, as well as distract the driver and lead to loss of vehicle control.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "without any crash or impact",
+        "while the vehicle is in motion",
+        "often at high speeds."
+      ],
+      "odiNumbers": [
+        "10028510"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

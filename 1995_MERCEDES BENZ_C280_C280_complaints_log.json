@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Engine Wiring Harness",
+      "impact": "The failure of the engine wiring harness can cause electrical system malfunctions, engine stalling, and potentially lead to a fire hazard, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The engine stalls or runs rough",
+        "the check engine light is on",
+        "gauges malfunction",
+        "windows and mirrors do not function properly",
+        "smoke or fire emanates from the engine compartment",
+        "the vehicle cannot be driven or started."
+      ],
+      "odiNumbers": [
+        "11354639",
+        "10689886",
+        "10682045",
+        "10618052",
+        "10608255",
+        "10606455",
+        "10578774",
+        "10533382",
+        "10499267",
+        "10497708",
+        "10489542",
+        "10482298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling While Driving",
+      "impact": "The engine stalling while driving can cause a loss of power and control, increasing the risk of accidents, especially on high-speed roads.",
+      "symptoms": [
+        "The engine suddenly stops running while driving",
+        "the vehicle loses power and comes to a halt",
+        "difficulty restarting the engine",
+        "taking several minutes to restart the engine."
+      ],
+      "odiNumbers": [
+        "10985647",
+        "10985649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries to occupants, damage to the vehicle, and potentially lead to accidents or loss of control.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "loud noise prior to airbag deployment",
+        "windshield damage",
+        "occupant injuries (e.g.",
+        "bruising",
+        "cuts)."
+      ],
+      "odiNumbers": [
+        "10615553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Crash Sensor Malfunction",
+      "impact": "A malfunctioning crash sensor can cause the airbags to deploy unnecessarily, leading to injuries and damage, or fail to deploy in the event of an actual crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "airbags fail to deploy in a crash",
+        "warning lights or messages on the dashboard",
+        "faulty sensor readings."
+      ],
+      "odiNumbers": [
+        "10615553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "ENGINE AND ENGINE COOLING",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Failure",
+      "impact": "The failure of the driver's seat can cause the seat to break or lose its position, leading to a loss of control of the vehicle, accidents, or injuries to the driver.",
+      "symptoms": [
+        "The driver's seat breaks or collapses when sat upon",
+        "the seat track fails",
+        "the seat loses its position",
+        "the seat reclines backwards unexpectedly."
+      ],
+      "odiNumbers": [
+        "984984",
+        "488921",
+        "981181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Lining Rupture",
+      "impact": "A ruptured brake lining can lead to a sudden loss of braking power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Sudden grinding or screeching noise when applying the brakes",
+        "brake pedal feels soft or spongy",
+        "brake pedal travels further than usual before engaging",
+        "vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "567981"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Chassis Frame Rust and Corrosion",
+      "impact": "A severely rusted and corroded chassis frame can compromise the structural integrity of the vehicle, leading to loss of control, accidents, and potentially catastrophic consequences.",
+      "symptoms": [
+        "Visible signs of rust and corrosion on the chassis frame",
+        "uneven tire wear",
+        "uneven vehicle stance",
+        "creaking or groaning sounds from the frame",
+        "difficulty steering",
+        "and loss of vehicle stability."
+      ],
+      "odiNumbers": [
+        "567981"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Leak and Pressure Loss",
+      "impact": "The engine oil leak and pressure loss can cause engine damage, overheating, and potentially lead to engine failure, which can result in a loss of vehicle control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaking from the engine",
+        "loss of engine oil pressure",
+        "black thick smoke coming from the tailpipe",
+        "engine noise or knocking sounds",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "829018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "The turbocharger failure can cause a loss of engine power, decreased fuel efficiency, and potentially lead to engine failure, which can result in a loss of vehicle control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Black thick smoke coming from the tailpipe",
+        "loss of engine power",
+        "decreased fuel efficiency",
+        "loud whining or grinding noises from the turbocharger",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "829018"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Switch Failure",
+      "impact": "The failure of the headlight switch can cause the headlights to malfunction, reducing visibility and increasing the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "The headlights do not turn on",
+        "the headlights flicker or dim",
+        "the headlight switch is difficult to turn or stuck",
+        "the dashboard lights or other electrical components are affected."
+      ],
+      "odiNumbers": [
+        "488921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

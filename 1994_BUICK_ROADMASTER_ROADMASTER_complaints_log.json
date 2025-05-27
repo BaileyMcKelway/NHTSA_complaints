@@ -1,0 +1,279 @@
+{
+  "totalComplaints": 134,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the key to become stuck in the ignition, leaving the driver stranded.",
+      "symptoms": [
+        "The key becomes stuck in the ignition switch",
+        "the vehicle cannot be turned off or started."
+      ],
+      "odiNumbers": [
+        "10083827",
+        "524816"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Battery Positive Connector)",
+      "impact": "The failure of the electrical system can cause the vehicle to lose power while driving, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power while driving",
+        "the engine stalls",
+        "the battery positive connector melts or fails."
+      ],
+      "odiNumbers": [
+        "562036",
+        "552756",
+        "854134",
+        "716243",
+        "545922"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can cause a safety risk, as the driver is unable to alert other road users.",
+      "symptoms": [
+        "The horn does not work",
+        "the horn works intermittently",
+        "the horn only works when the steering wheel is straight ahead."
+      ],
+      "odiNumbers": [
+        "735369",
+        "716640",
+        "827635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Computer Module Failure",
+      "impact": "The failure of the computer module can cause the vehicle to stall or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine fails to operate properly",
+        "the computer module fails to operate properly."
+      ],
+      "odiNumbers": [
+        "881520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical Fire",
+      "impact": "An electrical fire can cause damage to the vehicle and potentially harm the occupants.",
+      "symptoms": [
+        "An electrical fire occurs",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "513060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Air Bag and Seat Belt Anchor Issues",
+      "impact": "The failure of the air bag or seat belt anchor can cause injury or death in the event of an accident.",
+      "symptoms": [
+        "The air bag does not deploy",
+        "the seat belt anchor bolt comes loose",
+        "the horn does not work."
+      ],
+      "odiNumbers": [
+        "965093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the vehicle to lose braking capabilities, leading to extended stopping distances, accidents, or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle takes longer to stop",
+        "the brakes do not respond or hesitate",
+        "the brakes lock up",
+        "the vehicle skids or loses control",
+        "the brake pedal goes to the floor",
+        "excessive pressure is needed on the brake pedal",
+        "grinding or metal-on-metal noise from the brakes."
+      ],
+      "odiNumbers": [
+        "859553",
+        "843600",
+        "836764",
+        "526251",
+        "812115",
+        "976034",
+        "975914",
+        "972758",
+        "966029",
+        "965250",
+        "962459",
+        "482384",
+        "482037",
+        "478072",
+        "479167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Module Failure",
+      "impact": "The failure of the rear brake module can cause the rear brakes to lock up or not respond, leading to loss of control, accidents, or extended stopping distances, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The rear brakes lock up",
+        "the vehicle skids or loses control",
+        "the brakes do not respond or hesitate",
+        "the brake pedal goes to the floor",
+        "excessive pressure is needed on the brake pedal."
+      ],
+      "odiNumbers": [
+        "965250",
+        "966029",
+        "962459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brakes to lose pressure, leading to extended stopping distances, accidents, or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "excessive pressure is needed on the brake pedal",
+        "the brakes do not respond or hesitate."
+      ],
+      "odiNumbers": [
+        "965250",
+        "482384",
+        "482037"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pad or Shoe Failure",
+      "impact": "The failure of the brake pads or shoes can cause the brakes to lose effectiveness, leading to extended stopping distances, accidents, or loss of control, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Grinding or metal-on-metal noise from the brakes",
+        "excessive wear on the brake pads or shoes",
+        "the brakes do not respond or hesitate."
+      ],
+      "odiNumbers": [
+        "812115",
+        "478072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause loss of control, accidents, or strand the driver.",
+      "symptoms": [
+        "The engine stops running without any pattern",
+        "hot or cold",
+        "fast or slow."
+      ],
+      "odiNumbers": [
+        "8022740",
+        "737578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The cooling system failure can cause overheating, engine damage, and loss of vehicle control.",
+      "symptoms": [
+        "Coolant leakages",
+        "overheating",
+        "temperature gauge malfunction."
+      ],
+      "odiNumbers": [
+        "862334",
+        "831048",
+        "525372"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The exhaust system failure can cause carbon monoxide poisoning, loss of vehicle control, and accidents.",
+      "symptoms": [
+        "Exhaust leak",
+        "smell of exhaust in the cabin",
+        "sheared-off bolts on the exhaust manifold."
+      ],
+      "odiNumbers": [
+        "715474",
+        "700719"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Leaks",
+      "impact": "The oil leaks can cause engine damage, loss of vehicle control, and accidents.",
+      "symptoms": [
+        "Oil leak",
+        "oil level down",
+        "oil cooler hose failure",
+        "radiator failure."
+      ],
+      "odiNumbers": [
+        "831048",
+        "525372",
+        "507500",
+        "490944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "The engine performance issues can cause loss of vehicle control, accidents, and decreased vehicle performance.",
+      "symptoms": [
+        "Engine skips or hesitates",
+        "noisy valve lifters",
+        "engine too powerful",
+        "preventing traction."
+      ],
+      "odiNumbers": [
+        "481133",
+        "476892",
+        "485059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

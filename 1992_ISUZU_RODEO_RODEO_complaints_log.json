@@ -1,0 +1,297 @@
+{
+  "totalComplaints": 100,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, leading to accidents, or leave the driver stranded. In some cases, it can also cause fires.",
+      "symptoms": [
+        "The transmission light illuminates",
+        "the vehicle loses power",
+        "the transmission slips out of gear",
+        "difficulty shifting into gear",
+        "the vehicle makes unusual noises",
+        "the transmission fluid leaks",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "10060415",
+        "562261",
+        "879815",
+        "879503",
+        "873102",
+        "710643",
+        "541487",
+        "815647",
+        "518066",
+        "804335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Axle Failure",
+      "impact": "Rear axle failure can cause the vehicle to lose control, leading to accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The rear axle breaks",
+        "the vehicle makes unusual noises",
+        "the vehicle loses control",
+        "the vehicle ends up on two wheels."
+      ],
+      "odiNumbers": [
+        "879815",
+        "879503",
+        "984961",
+        "543444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speedometer and Odometer Failure",
+      "impact": "Speedometer and odometer failure can cause the driver to lose track of speed and distance, leading to accidents or other safety issues.",
+      "symptoms": [
+        "The speedometer and odometer fail to function",
+        "the speedometer and odometer display incorrect readings."
+      ],
+      "odiNumbers": [
+        "785190",
+        "720633",
+        "513902"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Failure",
+      "impact": "Clutch failure can cause the vehicle to lose power, leading to accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear",
+        "the clutch explodes."
+      ],
+      "odiNumbers": [
+        "541487",
+        "815647",
+        "527834",
+        "968789"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Control Module Failure",
+      "impact": "Transmission control module failure can cause the transmission to malfunction, leading to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission control module fails",
+        "the transmission light illuminates",
+        "the vehicle loses power",
+        "the transmission slips out of gear."
+      ],
+      "odiNumbers": [
+        "10060415",
+        "710643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Leak",
+      "impact": "Engine oil leaks can cause engine damage, overheating, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leak from the top of the engine",
+        "valve cover gasket failure",
+        "oil leaks from engine."
+      ],
+      "odiNumbers": [
+        "700982",
+        "726254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause loss of power, stalling, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "engine camshaft failure",
+        "engine head gasket blew out",
+        "crackshaft broke."
+      ],
+      "odiNumbers": [
+        "553598",
+        "835826",
+        "541117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Exhaust Manifold Failure",
+      "impact": "Exhaust manifold failure can cause engine damage, loss of power, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Exhaust manifold failure",
+        "cracked exhaust manifold",
+        "exhaust manifold failure leading to vehicle fire."
+      ],
+      "odiNumbers": [
+        "518193",
+        "518321",
+        "515837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "Vehicle fires can cause damage to the vehicle, injury, or death.",
+      "symptoms": [
+        "Vehicle fire",
+        "engine fire",
+        "fire under the hood of the vehicle."
+      ],
+      "odiNumbers": [
+        "553598",
+        "541117",
+        "515837",
+        "967646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause loss of power, difficulty shifting gears, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle pops out of gear",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "835826"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Cooling System Leaks",
+      "impact": "Cooling system leaks can cause engine overheating, damage, and potentially lead to engine failure.",
+      "symptoms": [
+        "Cooling system leaks",
+        "upper radiator hose failure."
+      ],
+      "odiNumbers": [
+        "480183",
+        "481033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Electrical Problems",
+      "impact": "Electrical problems can cause loss of power, difficulty operating vehicle systems, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Air conditioning failure",
+        "electrical problems."
+      ],
+      "odiNumbers": [
+        "518193",
+        "518321"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to extended stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "ABS and brake lights are constantly illuminated",
+        "ABS brakes are no longer working",
+        "intermittent ABS and brake light warnings",
+        "rear brake ABS system is inoperative",
+        "warning light for rear wheels is on."
+      ],
+      "odiNumbers": [
+        "785190",
+        "819654",
+        "811609",
+        "800013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Issues",
+      "impact": "The malfunction of the brake pedal can cause extended stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "Brake pedal goes to the floorboard",
+        "brake pedal feels soft or spongy",
+        "brake pedal vibrates or pulsates."
+      ],
+      "odiNumbers": [
+        "880828",
+        "808835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Issues",
+      "impact": "Worn or warped brake rotors can cause vibrations, pulsations, and uneven braking, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Brake rotors need to be resurfaced or replaced frequently",
+        "front end shakes while braking",
+        "brake rotors are worn or warped."
+      ],
+      "odiNumbers": [
+        "782334",
+        "815713",
+        "480183",
+        "481033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Brake Problems",
+      "impact": "Intermittent brake problems can cause uncertainty and unpredictability while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Intermittent ABS and brake light warnings",
+        "brake problems occur at different speeds",
+        "brake problems occur on different road conditions."
+      ],
+      "odiNumbers": [
+        "819654",
+        "808835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

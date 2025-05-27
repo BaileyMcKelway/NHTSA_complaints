@@ -1,0 +1,193 @@
+{
+  "totalComplaints": 64,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unwanted Airbag Deployment",
+      "impact": "Unwanted airbag deployment can cause injuries, damage to the vehicle, and potentially lead to accidents.",
+      "symptoms": [
+        "Airbags deploy without a collision or impact",
+        "airbags deploy at low speeds",
+        "airbags deploy when driving over bumps or railroad tracks",
+        "airbags deploy during hard braking."
+      ],
+      "odiNumbers": [
+        "8018752",
+        "871006",
+        "857888",
+        "833047",
+        "827904",
+        "780066",
+        "531854",
+        "531826",
+        "984344",
+        "978438",
+        "487837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a collision can lead to injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy in a frontal collision",
+        "airbags do not deploy in a side impact",
+        "airbags do not deploy in a crash",
+        "airbags do not deploy despite damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "862652",
+        "807530",
+        "979147",
+        "978400",
+        "959446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Airbag system malfunction can lead to unwanted airbag deployment, failure of airbags to deploy, or other unexpected behaviors, which can cause injuries, accidents, or damage to the vehicle.",
+      "symptoms": [
+        "Airbag warning lights illuminate",
+        "airbag system malfunction warning",
+        "airbag deployment without a collision",
+        "airbag failure to deploy in a collision."
+      ],
+      "odiNumbers": [
+        "742954",
+        "813820",
+        "481128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rust-Through of Gas Tank Filler Tube",
+      "impact": "The rust-through of the gas tank filler tube can cause fuel leaks, which can lead to fires, explosions, or other safety hazards.",
+      "symptoms": [
+        "Fuel leaks when filling the tank",
+        "unable to fill the tank over half full",
+        "fuel odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10315272",
+        "10116212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A malfunctioning fuel gauge can lead to unexpected fuel depletion, stranding the driver, or causing accidents due to running out of fuel.",
+      "symptoms": [
+        "Fuel gauge reads full when the tank is not full",
+        "sudden drops in fuel level readings",
+        "floating or fluctuating fuel gauge readings."
+      ],
+      "odiNumbers": [
+        "727713",
+        "712295"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Fire Hazard",
+      "impact": "A fuel system fire hazard can cause fires, explosions, or other safety hazards, potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "Ball of fire coming out of the gas tank when opening the gas cap",
+        "fuel odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "549625",
+        "714847"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Odor Inside Vehicle",
+      "impact": "A fuel odor inside the vehicle can be a sign of a fuel leak or other safety hazard, potentially leading to fires, explosions, or other safety hazards.",
+      "symptoms": [
+        "Fuel odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "513349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling/Shut Down",
+      "impact": "The sudden shutdown of the engine can cause loss of power, leading to accidents or leaving the driver stranded, especially when traveling at high speeds.",
+      "symptoms": [
+        "The vehicle shuts down without warning",
+        "the engine stalls",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "8023312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Belt and Water Pump Failure",
+      "impact": "The failure of the timing belt and water pump can cause engine damage, overheating, and potentially lead to engine failure, resulting in costly repairs and potentially causing accidents.",
+      "symptoms": [
+        "Engine failure",
+        "coolant temperature sensor malfunction",
+        "check engine light illumination."
+      ],
+      "odiNumbers": [
+        "552818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause loss of power, leading to accidents or leaving the driver stranded, and may result in costly repairs.",
+      "symptoms": [
+        "Engine failure."
+      ],
+      "odiNumbers": [
+        "526154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause engine stalling, loss of power, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel system rollover valve malfunction",
+        "fuel system canister malfunction."
+      ],
+      "odiNumbers": [
+        "513349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

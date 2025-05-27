@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can cause the airbag warning light to illuminate, indicating that the airbag may not deploy in the event of a crash, which can increase the risk of injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag system is inoperative",
+        "the passenger front airbag is inoperative."
+      ],
+      "odiNumbers": [
+        "11061612",
+        "10807390",
+        "10447707",
+        "10294980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Stop Lamp Switch Failure",
+      "impact": "The failure of the stop lamp switch can cause the brake lights to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The brake lights do not illuminate",
+        "the brake pedal is depressed but the brake lights fail to illuminate",
+        "the stop lamp switch warning light remains illuminated."
+      ],
+      "odiNumbers": [
+        "10836685",
+        "10628733",
+        "10434264",
+        "10299762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Immobilizer System Failure",
+      "impact": "The failure of the immobilizer system can prevent the vehicle from starting, leaving the driver stranded and potentially causing inconvenience or even safety risks.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the immobilizer indicator warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10895233"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Memory Seat and Mirror Module Failure",
+      "impact": "The failure of the memory seat and mirror module can cause the side view mirrors to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The left and right side view mirrors fail to stay in memory position",
+        "the mirrors do not adjust correctly",
+        "the mirrors do not retain their set position."
+      ],
+      "odiNumbers": [
+        "10427534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

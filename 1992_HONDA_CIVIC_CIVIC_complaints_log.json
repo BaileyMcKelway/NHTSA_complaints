@@ -1,0 +1,151 @@
+{
+  "totalComplaints": 106,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Distributor Failure",
+      "impact": "The failure of the distributor can cause the engine to stall or shut off without warning, leading to a loss of power and control, which can increase the risk of accidents. Additionally, the failure can cause the vehicle to hesitate or stall, making it difficult to operate the vehicle safely.",
+      "symptoms": [
+        "The engine stalls or shuts off without warning",
+        "the vehicle hesitates or stalls",
+        "the check engine light comes on",
+        "the distributor bearings fail",
+        "the ignition switch fails",
+        "the ignition key cannot be removed",
+        "the vehicle dies while driving",
+        "the engine fails to start."
+      ],
+      "odiNumbers": [
+        "10410003",
+        "763877",
+        "8005134",
+        "888509",
+        "557286",
+        "555548",
+        "850205",
+        "703744",
+        "703712",
+        "702782",
+        "833523",
+        "541620",
+        "539715",
+        "605821",
+        "536312",
+        "528836",
+        "526870",
+        "513742",
+        "515419",
+        "984848",
+        "978132",
+        "966165",
+        "965121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to stall or shut off without warning, leading to a loss of power and control, which can increase the risk of accidents. Additionally, the failure can cause the ignition key to become stuck, making it difficult to operate the vehicle safely.",
+      "symptoms": [
+        "The ignition key cannot be removed",
+        "the ignition switch fails",
+        "the engine stalls or shuts off without warning",
+        "the vehicle hesitates or stalls."
+      ],
+      "odiNumbers": [
+        "10348694",
+        "10142994",
+        "557286"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the driver and passengers may not be adequately protected from the impact.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10047426",
+        "752254",
+        "866606",
+        "860770",
+        "830342",
+        "985532",
+        "979520",
+        "977845",
+        "500595",
+        "964788",
+        "958675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of an airbag can cause injuries, distractions, or loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "causing injuries or distractions while driving."
+      ],
+      "odiNumbers": [
+        "810742",
+        "803192",
+        "487832",
+        "500846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "Issues with airbag deployment, such as violent deployment, can cause injuries or exacerbate existing injuries.",
+      "symptoms": [
+        "Airbag deploys violently",
+        "causing injuries or exacerbating existing injuries."
+      ],
+      "odiNumbers": [
+        "500846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to severe injuries, including head trauma, neck and back problems, and even fatalities, especially in the event of an accident.",
+      "symptoms": [
+        "The seat belt does not latch or lock properly",
+        "the seat belt buckle fails to latch",
+        "the seat belt releases during an accident",
+        "the seat belt does not properly retain a car seat",
+        "the seat belt becomes undone while driving."
+      ],
+      "odiNumbers": [
+        "10283407",
+        "805520",
+        "978440",
+        "500595",
+        "500846",
+        "968541",
+        "965981",
+        "960025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

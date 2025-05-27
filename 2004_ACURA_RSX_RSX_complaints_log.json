@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to lose power, grind, or lock out, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Grinding noise when shifting gears",
+        "difficulty shifting gears",
+        "gear slipping",
+        "loss of power",
+        "transmission locks out",
+        "transmission pops out of gear."
+      ],
+      "odiNumbers": [
+        "10276275",
+        "10269826",
+        "10159105",
+        "10139808",
+        "10116257",
+        "10086542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not receive the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "even when the vehicle sustains significant damage",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "11300861",
+        "10288759",
+        "10146146",
+        "10143240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "SRS System Failure",
+      "impact": "The failure of the SRS (Supplemental Restraint System) system can cause the airbags to malfunction or not deploy in the event of a crash, leading to serious injuries or fatalities.",
+      "symptoms": [
+        "The SRS light is illuminated on the dashboard",
+        "indicating a system failure",
+        "and the airbags may be disabled",
+        "leaving the vehicle's occupants unprotected in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10110505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Traction Issues",
+      "impact": "The vehicle's poor traction on icy surfaces can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle loses traction and control on icy surfaces",
+        "even with good winter tires",
+        "leading to accidents and injuries."
+      ],
+      "odiNumbers": [
+        "10143240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure",
+      "impact": "Tire failure can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "tire rupture",
+        "loss of vehicle control",
+        "inability to steer",
+        "extensive damage to the vehicle's underside",
+        "and accidents."
+      ],
+      "odiNumbers": [
+        "10218918",
+        "10167572",
+        "10053558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Traction in Snowy Conditions",
+      "impact": "Inadequate traction in snowy conditions can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Difficulty controlling the vehicle",
+        "inability to stop or steer",
+        "and loss of traction in snowy conditions."
+      ],
+      "odiNumbers": [
+        "10053558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

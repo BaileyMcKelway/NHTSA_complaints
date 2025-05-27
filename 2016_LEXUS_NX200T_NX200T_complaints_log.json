@@ -1,0 +1,157 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Reduced Engine Power and Stalling",
+      "impact": "The sudden loss of engine power and stalling can cause a loss of control, increasing the risk of accidents, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's engine loses power",
+        "the vehicle's speed is limited to 20 mph or less",
+        "the engine stalls",
+        "the \"Reduced Engine Power\" message appears on the dashboard",
+        "the check engine light comes on",
+        "the vehicle may not respond to acceleration."
+      ],
+      "odiNumbers": [
+        "11529896",
+        "11375114",
+        "11353574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause a loss of control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes feel very loose",
+        "requiring multiple pumps or pressing the pedal all the way to the floor to engage",
+        "and the vehicle may roll or move unexpectedly."
+      ],
+      "odiNumbers": [
+        "11527700",
+        "11156100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Actuator Failure",
+      "impact": "The failure of the ABS actuator can cause the anti-lock braking system to malfunction, leading to reduced braking performance and increased stopping distances, which can result in accidents or injuries.",
+      "symptoms": [
+        "The ABS actuator failure warning message appears on the instrument panel",
+        "and the vehicle may experience reduced braking performance or unusual braking behavior."
+      ],
+      "odiNumbers": [
+        "11362100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to severe injuries or fatalities, as seen in the reported cases of concussion and neck and back trauma.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "11485601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Brake Lock-Up",
+      "impact": "Sudden brake lock-up can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes lock up without warning",
+        "causing the vehicle to skid or crash."
+      ],
+      "odiNumbers": [
+        "11267526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inaccessible Recall Repair",
+      "impact": "Inaccessible recall repair can leave vehicles with known safety defects on the road, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Vehicle owners are unable to access recall repair services due to location or logistical constraints."
+      ],
+      "odiNumbers": [
+        "11151388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to engine damage, hesitation, and stalling, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine temperature gauge displays higher temperatures",
+        "the vehicle shudders and hesitates",
+        "the vehicle overheats."
+      ],
+      "odiNumbers": [
+        "11316258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of the fuel injector can cause the engine to run rough, reduce fuel mileage, and trigger the engine warning light, which can lead to engine stalling, loss of power, and decreased vehicle safety.",
+      "symptoms": [
+        "Sudden drop in fuel mileage",
+        "engine warning light comes on",
+        "engine runs rough",
+        "burned-up spark plugs",
+        "engine goes into safe mode",
+        "loss of power",
+        "drive train disabled."
+      ],
+      "odiNumbers": [
+        "11206205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause the engine to run rough, reduce fuel mileage, and trigger the engine warning light, which can lead to engine stalling, loss of power, and decreased vehicle safety.",
+      "symptoms": [
+        "Sudden drop in fuel mileage",
+        "engine warning light comes on",
+        "engine runs rough",
+        "burned-up spark plugs",
+        "engine goes into safe mode",
+        "loss of power",
+        "drive train disabled."
+      ],
+      "odiNumbers": [
+        "11206205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

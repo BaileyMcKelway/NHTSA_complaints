@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Rusted Brake Lines",
+      "impact": "The failure of brake lines due to rust can cause a sudden loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Sudden loss of brakes",
+        "brake pedal goes to the floor",
+        "unable to stop the vehicle",
+        "brake failure while driving."
+      ],
+      "odiNumbers": [
+        "10628821",
+        "719626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty ABS System",
+      "impact": "A faulty ABS system can cause the brakes to malfunction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Speed drops suddenly",
+        "brakes stop working",
+        "unable to stop the vehicle",
+        "vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "10135942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause a sudden loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake pedal snaps upward",
+        "brake pedal goes to the floor",
+        "unable to stop the vehicle",
+        "brake failure while driving."
+      ],
+      "odiNumbers": [
+        "719626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Passenger Airbag Deployment",
+      "impact": "The unexpected deployment of the passenger airbag can cause startle, distraction, and potentially lead to accidents, especially if it occurs while the vehicle is in motion. In addition, the deployment can cause injuries to occupants and damage to the vehicle's interior.",
+      "symptoms": [
+        "The passenger airbag deploys suddenly and without warning",
+        "often accompanied by a loud noise and a burst of dust or debris. The airbag may deploy while the vehicle is stationary or in motion",
+        "and may occur without any apparent reason or trigger."
+      ],
+      "odiNumbers": [
+        "11113865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause complete loss of the vehicle, personal belongings, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "smoke coming through the air vents",
+        "flames visible under the hood",
+        "sudden and intense heat."
+      ],
+      "odiNumbers": [
+        "10206921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Windshield Wiper Motor Circuit Board",
+      "impact": "The failure of the windshield wiper motor circuit board can cause the windshield wipers to quit randomly, reducing visibility and increasing the risk of accidents, especially during inclement weather conditions.",
+      "symptoms": [
+        "Windshield wipers stop working suddenly",
+        "windshield wipers do not turn on",
+        "windshield wipers operate intermittently",
+        "windshield wipers do not respond to switch input."
+      ],
+      "odiNumbers": [
+        "10149159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inoperative Seat Belts",
+      "impact": "Malfunctioning seat belts can increase the risk of injury or fatality in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belt will not stay latched",
+        "the seat belt will not pull out",
+        "difficulty buckling or unbuckling the seat belt."
+      ],
+      "odiNumbers": [
+        "10135428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

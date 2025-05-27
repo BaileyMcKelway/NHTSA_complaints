@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to malfunction, leading to a increased risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle falls apart",
+        "the buckle jams into the latch",
+        "the latch does not lock",
+        "the buckle is hard to insert",
+        "the metal tongue is difficult to insert into the buckle",
+        "the seat belt does not retract",
+        "the seat belt comes unlatched at times."
+      ],
+      "odiNumbers": [
+        "707945",
+        "543776",
+        "811021",
+        "803122",
+        "985921",
+        "503155",
+        "980365",
+        "979000",
+        "489946",
+        "963770"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to a increased risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt will not retract into its assembly",
+        "the shoulder belt will not retract",
+        "the seat belt is rendered inoperative."
+      ],
+      "odiNumbers": [
+        "980365",
+        "979000"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sidewall Failure of Motorcycle Tires",
+      "impact": "The sudden and unexpected deflation of a motorcycle tire due to sidewall failure can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Rapid tire deflation",
+        "tire blowout",
+        "sidewall cracks",
+        "tire failure while riding or while parked."
+      ],
+      "odiNumbers": [
+        "10789857",
+        "10513480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a total loss, and poses a risk to the safety of the occupants and bystanders.",
+      "symptoms": [
+        "Flames or smoke visible from the engine compartment",
+        "burning smell",
+        "melting of plastic components",
+        "warping of metal components",
+        "electrical system failure",
+        "loss of power",
+        "difficulty steering or braking."
+      ],
+      "odiNumbers": [
+        "978129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Failure",
+      "impact": "The failure of the front brakes can cause extended stopping distances, increased risk of accidents, and loss of control of the vehicle, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the vehicle continues to accelerate when attempting to make a normal stop",
+        "the brakes become inoperative",
+        "premature wear of front brakes",
+        "noise when brakes are applied."
+      ],
+      "odiNumbers": [
+        "851423",
+        "808947",
+        "808990",
+        "962752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to loss of compression, coolant, and oil, which can result in engine damage, stalling, and potentially cause accidents.",
+      "symptoms": [
+        "The vehicle overheats without registering on the temperature gauge",
+        "loses compression",
+        "coolant",
+        "and oil",
+        "and stalls."
+      ],
+      "odiNumbers": [
+        "833587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the engine to die, leading to loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails",
+        "causing the engine to die",
+        "and the vehicle may experience slipping or hesitation while shifting gears."
+      ],
+      "odiNumbers": [
+        "532675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Component Failure (Rocker Arm Shaft)",
+      "impact": "The failure of the rocker arm shaft can cause the driver to lose engine cylinders, leading to loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The rocker arm shaft cracks",
+        "causing the driver to lose engine cylinders",
+        "and the vehicle may experience decreased engine performance",
+        "misfires",
+        "and rough idling."
+      ],
+      "odiNumbers": [
+        "601984"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause noise, vibration, and potentially lead to decreased engine performance, which can result in decreased vehicle safety and performance.",
+      "symptoms": [
+        "The exhaust system is noisy",
+        "and the vehicle may experience vibration",
+        "decreased engine performance",
+        "and decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "962752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

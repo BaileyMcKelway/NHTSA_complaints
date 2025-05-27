@@ -1,0 +1,160 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "TIRES",
+    "VEHICLE SPEED CONTROL",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seatbelt Buckle Failure",
+      "impact": "The failure of the driver's side seatbelt buckle can prevent the seatbelt from properly restraining the driver in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver's side seatbelt buckle will not latch",
+        "the buckle becomes unbuckled while driving",
+        "the buckle is intermittent and may catch occasionally",
+        "the insert of the buckle is completely gone."
+      ],
+      "odiNumbers": [
+        "761727",
+        "883030",
+        "845865",
+        "968250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion",
+      "impact": "Corrosion of the brake lines can cause brake fluid leaks, leading to a loss of brake pressure, which can result in increased stopping distances and accidents.",
+      "symptoms": [
+        "Brake pedal travels to the floor",
+        "brake fluid leaks from the brake lines",
+        "rust or corrosion visible on the brake lines."
+      ],
+      "odiNumbers": [
+        "10097106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "Failure of the brake pads can cause a loss of braking performance, leading to increased stopping distances and accidents.",
+      "symptoms": [
+        "Grinding or screeching noise when applying the brakes",
+        "brake pads wear down excessively",
+        "brake pads fail to stop the vehicle effectively."
+      ],
+      "odiNumbers": [
+        "742648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Brake Performance",
+      "impact": "Inadequate brake performance can cause a loss of control or increased stopping distances, leading to accidents.",
+      "symptoms": [
+        "Vehicle takes longer to stop than expected",
+        "brake pedal feels soft or spongy",
+        "brakes are unable to stop the vehicle on steep inclines."
+      ],
+      "odiNumbers": [
+        "605645"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loud banging noise",
+        "tire blowout",
+        "loss of air pressure",
+        "vibration or shaking of the vehicle",
+        "tread separation",
+        "flat tire."
+      ],
+      "odiNumbers": [
+        "10285673",
+        "868226"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Tire Quality",
+      "impact": "Poor-quality tires can lead to premature wear, uneven wear, and increased risk of tire failure, which can cause accidents and affect vehicle safety.",
+      "symptoms": [
+        "Excessive vibration or shaking of the vehicle",
+        "uneven tire wear",
+        "tire noise",
+        "difficulty maintaining vehicle speed."
+      ],
+      "odiNumbers": [
+        "10285673"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Full Throttle Acceleration",
+      "impact": "Uncommanded full throttle acceleration can cause the vehicle to suddenly and unexpectedly accelerate, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the throttle sticks or becomes stuck",
+        "the vehicle surges forward unexpectedly",
+        "the driver experiences a loss of control."
+      ],
+      "odiNumbers": [
+        "708253",
+        "977494"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Paint Defects and Cracking",
+      "impact": "The cracking of the paint on the vehicle's body can lead to rust and corrosion, compromising the structural integrity of the vehicle and potentially causing safety issues.",
+      "symptoms": [
+        "Cracks in the paint",
+        "flaking or peeling of the paint",
+        "exposed metal or rust spots on the vehicle's body."
+      ],
+      "odiNumbers": [
+        "534997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Seat Switch Overheating and Fire Hazard",
+      "impact": "The overheating of the power seat switch can cause a fire, potentially leading to injuries or fatalities, as well as damage to the vehicle.",
+      "symptoms": [
+        "Smoke or burning smell from the front door area",
+        "visible flames or sparks from the power seat switch",
+        "overheating or melting of the switch or surrounding components."
+      ],
+      "odiNumbers": [
+        "808617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Ignition Switch",
+      "impact": "The faulty ignition switch can cause the vehicle to not start or stall, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The ignition switch fails to engage",
+        "requiring the driver to hold the switch between start and on positions to maintain engine running",
+        "dashboard warning lights illuminate but the starter does not activate",
+        "the vehicle does not start intermittently",
+        "and the driver must turn the key to the off position and retry several times to get the car to start."
+      ],
+      "odiNumbers": [
+        "10260651",
+        "10078658",
+        "8015763"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Dashboard Lighting Failure",
+      "impact": "The failure of dashboard lights can lead to reduced visibility and increased risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Over half of the dashboard lights are not functioning",
+        "reducing the driver's ability to monitor vital vehicle systems."
+      ],
+      "odiNumbers": [
+        "10078656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joint can cause the front suspension to collapse, leading to loss of vehicle control, accidents, and potential injuries.",
+      "symptoms": [
+        "Loud clicking noise coming from the wheels when the brake pedal is depressed",
+        "sudden collapse of the front suspension",
+        "and the vehicle becoming difficult to steer."
+      ],
+      "odiNumbers": [
+        "10282901",
+        "10207956",
+        "10106888"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Axle Shaft Failure",
+      "impact": "The sudden failure of the front axle shaft can cause the vehicle to lose power, leading to a loss of control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Loud grinding or loud noise",
+        "vehicle stops or becomes sluggish",
+        "loss of power",
+        "front end drops or sags",
+        "vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "10140963",
+        "10051389",
+        "8003566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to a loss of control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Loud grinding or loud noise",
+        "transmission failure",
+        "vehicle becomes sluggish",
+        "loss of power",
+        "vehicle stops or becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "10140963",
+        "8003566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent No-Crank Condition",
+      "impact": "The intermittent no-crank condition can leave the driver stranded, causing inconvenience and potentially putting them in a dangerous situation, especially if they are in a vulnerable location.",
+      "symptoms": [
+        "The vehicle fails to crank every time",
+        "requiring multiple attempts to start",
+        "or may not crank at all",
+        "leaving the driver stranded."
+      ],
+      "odiNumbers": [
+        "10247205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause accidents, injuries, and property damage, as the vehicle may suddenly move without the driver's control.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without the driver's input",
+        "even when the driver's feet are on the brakes",
+        "and may continue to rev even after the vehicle has stopped."
+      ],
+      "odiNumbers": [
+        "8021521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden and violent shaking of the vehicle",
+        "chunks of tread flying off the tire",
+        "tire remaining inflated despite damage",
+        "damaged area exposing wire cords."
+      ],
+      "odiNumbers": [
+        "10158142",
+        "8018408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can lead to reduced traction, increased stopping distances, and increased risk of tire failure, which can cause accidents and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Uneven tire wear",
+        "excessive wear on certain areas of the tire",
+        "tire wear despite being relatively new (under 10",
+        "000 miles)."
+      ],
+      "odiNumbers": [
+        "10158142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

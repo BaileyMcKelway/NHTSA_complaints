@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle takes longer to stop than usual",
+        "the brakes feel spongy or soft",
+        "the brakes overheat",
+        "the brake fluid boils",
+        "the front brakes fail",
+        "the rear brakes fail",
+        "or the vehicle experiences a total loss of braking power."
+      ],
+      "odiNumbers": [
+        "755959",
+        "830723",
+        "488064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Blowout",
+      "impact": "A tire blowout can cause loss of vehicle control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "loud noise",
+        "vibration",
+        "and loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10345229",
+        "10345231",
+        "734527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fires",
+      "impact": "The electrical system failure can cause vehicle fires, which can lead to serious injuries, fatalities, and property damage.",
+      "symptoms": [
+        "Vehicle fires",
+        "overheating of ignition switch",
+        "heat generation in steering column",
+        "burning of wiring harness and fuse box",
+        "and melting of electrical components."
+      ],
+      "odiNumbers": [
+        "8011516",
+        "504887",
+        "984145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure (Driver's Side)",
+      "impact": "The failure of the windshield wiper to clean the driver's side of the windshield can reduce visibility, increasing the risk of accidents, especially during inclement weather conditions.",
+      "symptoms": [
+        "The windshield wiper on the driver's side fails to clean the windshield",
+        "leaving streaks",
+        "smudges",
+        "or water spots",
+        "reducing visibility while driving."
+      ],
+      "odiNumbers": [
+        "488064",
+        "488064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

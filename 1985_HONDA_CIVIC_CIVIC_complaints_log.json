@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "LATCHES/LOCKS/LINKAGES",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to come undone during an accident, leading to increased risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle comes open upon impact",
+        "the seat belt comes out of the buckle",
+        "the rear seat belt buckle is inoperative",
+        "the rear seat belt cannot be pulled out."
+      ],
+      "odiNumbers": [
+        "804904",
+        "979129",
+        "965789",
+        "964821",
+        "481366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause pressure build-up in the fuel tank, leading to a fire, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Fuel pump failure",
+        "pressure build-up in the fuel tank",
+        "vehicle catches on fire."
+      ],
+      "odiNumbers": [
+        "880554",
+        "481742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Head Gasket",
+      "impact": "A defective head gasket can cause the engine to overheat, leading to engine damage, reduced performance, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant loss",
+        "white smoke from the exhaust",
+        "engine knocking or clunking sounds",
+        "engine stalling or failure to start."
+      ],
+      "odiNumbers": [
+        "520813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Camshaft Pulley Failure",
+      "impact": "A broken cam pulley can cause engine damage, reduced performance, and potentially leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling or failure to start",
+        "unusual engine noises",
+        "loss of power",
+        "engine warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "977011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The sudden opening of the hood while driving can cause a loss of visibility, distraction, and potentially lead to accidents, especially at high speeds.",
+      "symptoms": [
+        "The hood flies open while driving",
+        "obstructing the driver's view",
+        "and may cause damage to the hood",
+        "windshield",
+        "or other components."
+      ],
+      "odiNumbers": [
+        "979988",
+        "979988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Mounting Failure",
+      "impact": "The failure of the driver's seat mounting can cause the seat to move unexpectedly, leading to a loss of control and increased risk of accidents. Additionally, it can also cause discomfort and distraction to the driver, compromising vehicle safety.",
+      "symptoms": [
+        "The driver's seat moves backwards or forwards unexpectedly",
+        "the seat feels unstable or loose",
+        "the seat mounting bolts are broken or damaged",
+        "the seat is difficult to adjust or maintain a fixed position."
+      ],
+      "odiNumbers": [
+        "979923",
+        "979923"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause loud noises, vibrations, and difficulty shifting gears, which can lead to accidents, strand the driver, or result in costly repairs.",
+      "symptoms": [
+        "Loud humming noise from the engine",
+        "loud noise while driving",
+        "transmission slips or hesitates to engage gears",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10002547",
+        "558574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Odometer Fraud",
+      "impact": "Odometer fraud can result in the concealment of the vehicle's true mileage, leading to potential safety risks and financial losses for the consumer.",
+      "symptoms": [
+        "Inconsistent or altered odometer readings",
+        "lack of documentation or stickers indicating importation and taxation compliance."
+      ],
+      "odiNumbers": [
+        "735848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause the vehicle to accelerate rapidly, potentially leading to accidents, injuries, or fatalities, especially when the driver is not expecting it.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without input from the driver",
+        "the vehicle accelerates rapidly while applying the brakes",
+        "the vehicle accelerates unexpectedly while parking or stopping."
+      ],
+      "odiNumbers": [
+        "10113823",
+        "846336"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate and Hazardous Vehicle Jack",
+      "impact": "The inadequate and hazardous vehicle jack can cause accidents, injuries, or fatalities when it collapses while being used to change a tire, leading to a loss of vehicle control or crushing.",
+      "symptoms": [
+        "The vehicle jack collapses while in use",
+        "the jack is prone to collapse",
+        "the jack is difficult to operate",
+        "the jack does not provide sufficient lifting power",
+        "the jack is unstable."
+      ],
+      "odiNumbers": [
+        "10176112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Insufficient Tire Changing Equipment",
+      "impact": "The lack of adequate tire changing equipment can leave drivers stranded on the side of the road, increasing the risk of accidents or injuries from passing traffic, and can also lead to property damage.",
+      "symptoms": [
+        "The vehicle jack is inadequate for changing a tire",
+        "the tire changing equipment is missing or incomplete",
+        "the owner's manual does not provide clear instructions for changing a tire."
+      ],
+      "odiNumbers": [
+        "10176112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

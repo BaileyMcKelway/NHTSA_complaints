@@ -1,0 +1,421 @@
+{
+  "totalComplaints": 352,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure and Shifting Issues",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, stall, or shift erratically, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "The transmission shifts hard or erratically",
+        "the vehicle loses power or stalls",
+        "the transmission overheats",
+        "the vehicle shudders or vibrates",
+        "the transmission slips or hesitates",
+        "the vehicle accelerates suddenly or unexpectedly."
+      ],
+      "odiNumbers": [
+        "11582430",
+        "11578912",
+        "11576663",
+        "11575974",
+        "11573096",
+        "11567826",
+        "11562191",
+        "11551037",
+        "11544197",
+        "11538702",
+        "11537830",
+        "11530438",
+        "11526118",
+        "11523305",
+        "11520698",
+        "11518008",
+        "11513831",
+        "11513446",
+        "11513052",
+        "11512403",
+        "11510701",
+        "11504207",
+        "11492986",
+        "11490535",
+        "11488808",
+        "11488460",
+        "11488001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "The failure of the torque converter can cause the transmission to fail, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "The transmission shudders or vibrates",
+        "the vehicle loses power or stalls",
+        "the transmission overheats",
+        "the torque converter fails",
+        "the transmission slips or hesitates."
+      ],
+      "odiNumbers": [
+        "11551037",
+        "11544197",
+        "11513052",
+        "11488460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch and Brake Issues",
+      "impact": "The failure of the clutch or brake system can cause the vehicle to lose power or stall, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the brake pedal is difficult to depress",
+        "the vehicle hesitates or stalls when accelerating."
+      ],
+      "odiNumbers": [
+        "11562191",
+        "11510701",
+        "11504207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Driveline-Protection System",
+      "impact": "The unintended activation of the driveline-protection system can cause unintended braking on the wheel on the opposite side of the failed sensor, leading to the vehicle pulling to one side unexpectedly, increasing the risk of a crash.",
+      "symptoms": [
+        "The brakes inflate on their own as if someone is pressing them down while driving",
+        "causing the vehicle to jerk horribly",
+        "making it difficult to steer or maintain control of the vehicle or stop."
+      ],
+      "odiNumbers": [
+        "11574164",
+        "11568760",
+        "11545946",
+        "11524819",
+        "11494773",
+        "11490928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to lose power, leading to a loss of control and increasing the risk of a crash.",
+      "symptoms": [
+        "The engine power is reduced",
+        "the vehicle stalls",
+        "the check engine warning light is illuminated",
+        "and the vehicle may not accelerate as normal."
+      ],
+      "odiNumbers": [
+        "11548332",
+        "11541597",
+        "11525673",
+        "11486370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to stall, lose power, and experience a loss of control, increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the check engine warning light is illuminated",
+        "the voltage at the dash drops",
+        "and the headlights may not function properly."
+      ],
+      "odiNumbers": [
+        "11538298",
+        "11495416",
+        "11495163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Infotainment System Malfunction",
+      "impact": "The malfunction of the infotainment system can cause distractions while driving, leading to a loss of control and increasing the risk of a crash.",
+      "symptoms": [
+        "The radio changes channels by itself",
+        "the menus change by themselves",
+        "the instrument screen changes from info to audio by itself",
+        "and calls are made to the last number by itself."
+      ],
+      "odiNumbers": [
+        "11545946",
+        "11540007",
+        "11484073",
+        "11479518",
+        "11489312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Window Defroster Failure",
+      "impact": "The failure of the rear window defroster can cause the rear window to shatter, leading to a loss of visibility and increasing the risk of a crash.",
+      "symptoms": [
+        "The rear window defroster overheats",
+        "causing the back electric sliding window to shatter."
+      ],
+      "odiNumbers": [
+        "11568760",
+        "11545074",
+        "11521268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Trailer Brake System Failure",
+      "impact": "The failure of the trailer brake system can cause the vehicle to experience unintended braking, leading to a loss of control and increasing the risk of a crash.",
+      "symptoms": [
+        "The service trailer brake system warning light is illuminated",
+        "the audible message appears",
+        "and the vehicle may experience unintended braking."
+      ],
+      "odiNumbers": [
+        "11539085",
+        "11524819",
+        "11476691",
+        "11473051",
+        "11467073"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vacuum Pump Failure",
+      "impact": "The failure of the vacuum pump can cause the brake pedal to become hard or spongy, leading to increased braking effort and extended stopping distances, which can increase the risk of a crash.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11588080",
+        "11566771",
+        "11537082",
+        "11532284",
+        "11495506",
+        "11457794",
+        "11448445",
+        "11443731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brake pedal to become hard or spongy, leading to increased braking effort and extended stopping distances, which can increase the risk of a crash.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11563302",
+        "11540882",
+        "11525015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Trailer Brake System Issues",
+      "impact": "The failure of the trailer brake system can cause the brakes to malfunction, leading to increased braking effort and extended stopping distances, which can increase the risk of a crash.",
+      "symptoms": [
+        "\"Service Trailer Brake System\" warning light comes on",
+        "trailer brakes stop working",
+        "persistent chiming and warning messages",
+        "inability to hear phone calls or music",
+        "inability to see digital speedometer readout."
+      ],
+      "odiNumbers": [
+        "11518191",
+        "11518021",
+        "11482337",
+        "11471684",
+        "11469805",
+        "11468891",
+        "11457493",
+        "11439114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Assist System Failure",
+      "impact": "The failure of the brake assist system can cause the brake pedal to become hard or spongy, leading to increased braking effort and extended stopping distances, which can increase the risk of a crash.",
+      "symptoms": [
+        "\"Service Brake Assist\" warning light comes on",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11559668",
+        "11452050",
+        "11448445",
+        "11443731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Squeaky/Popping Noise When Braking",
+      "impact": "The squeaky/popping noise when braking can indicate a problem with the brake system, which can lead to increased braking effort and extended stopping distances, increasing the risk of a crash.",
+      "symptoms": [
+        "Squeaky/popping noise when stepping on the brake pedal",
+        "noise becomes constant when braking frequently."
+      ],
+      "odiNumbers": [
+        "11442061"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become stiff or lock up, making it difficult or impossible to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering system fails",
+        "causing the steering wheel to become stiff or lock up",
+        "loss of power steering assist",
+        "reduced power steering",
+        "steering wheel jerking out of hands",
+        "and difficulty turning the steering wheel."
+      ],
+      "odiNumbers": [
+        "11489568",
+        "11468109",
+        "11463721",
+        "11455462",
+        "11446105",
+        "11398093",
+        "11375265",
+        "11364563",
+        "11323842",
+        "11292405",
+        "11286383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the loss of power steering, stability control, and other essential systems, leading to a loss of vehicle control and increasing the risk of accidents.",
+      "symptoms": [
+        "The electrical system fails",
+        "causing the loss of power steering",
+        "stability control",
+        "and other essential systems",
+        "resulting in a loss of vehicle control",
+        "reduced power steering",
+        "and difficulty turning the steering wheel."
+      ],
+      "odiNumbers": [
+        "11535165",
+        "11510072",
+        "11492793",
+        "11463721",
+        "11398093",
+        "11292405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Assist Reduced",
+      "impact": "The reduction of steering assist can cause the steering wheel to become stiff or difficult to turn, making it challenging to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering assist is reduced",
+        "causing the steering wheel to become stiff or difficult to turn",
+        "making it challenging to control the vehicle",
+        "and displaying warning messages such as \"steering assist reduced\" or \"service trailer brake\"."
+      ],
+      "odiNumbers": [
+        "11519335",
+        "11446105",
+        "11364563",
+        "11300549",
+        "11292405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The brake system fails",
+        "causing the vehicle to lose braking ability",
+        "resulting in a loss of vehicle control",
+        "and displaying warning messages such as \"service brake system\"."
+      ],
+      "odiNumbers": [
+        "11507517",
+        "11375265",
+        "11364563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Stability Control System Failure",
+      "impact": "The failure of the stability control system can cause the vehicle to lose traction and stability, leading to accidents or loss of control.",
+      "symptoms": [
+        "The stability control system fails",
+        "causing the vehicle to lose traction and stability",
+        "resulting in a loss of vehicle control",
+        "and displaying warning messages such as \"stability control system requires servicing\"."
+      ],
+      "odiNumbers": [
+        "11535165",
+        "11492793",
+        "11398093",
+        "11292405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

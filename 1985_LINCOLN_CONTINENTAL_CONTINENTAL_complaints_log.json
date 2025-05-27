@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Suspension Control Module Failure",
+      "impact": "The failure of the air suspension control module can cause a vehicle fire, resulting in total loss of the vehicle, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Vehicle catches fire under the hood",
+        "air suspension module failure",
+        "faulty air suspension control system",
+        "shocks remain down when parked and come back up when driving."
+      ],
+      "odiNumbers": [
+        "551357",
+        "710986",
+        "964939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause electrical shorts, leading to fires, which can result in vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Smoke near the ignition switch and vents",
+        "under the dash",
+        "electrical shock or short",
+        "vehicle stalling out without warning."
+      ],
+      "odiNumbers": [
+        "510177",
+        "983768",
+        "983410",
+        "960741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Brake System Relay",
+      "impact": "The continuous running of the brake pump can lead to overheating, causing the brake system to fail, which can result in loss of brakes and increased stopping distances, potentially leading to accidents.",
+      "symptoms": [
+        "The light indicator for the power brake system relay remains on",
+        "the brake pump is running continuously",
+        "the ABS light comes on."
+      ],
+      "odiNumbers": [
+        "821724",
+        "806639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose brakes and roll forward, even when the driver's foot is still on the brake pedal, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the vehicle loses brakes and rolls forward",
+        "the driver's foot is still on the brake pedal."
+      ],
+      "odiNumbers": [
+        "806639",
+        "490806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, and even fatalities.",
+      "symptoms": [
+        "Flames or smoke emanating from the engine compartment",
+        "burning smells",
+        "melting of plastic components",
+        "engine stalling or failure",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "506910",
+        "504561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

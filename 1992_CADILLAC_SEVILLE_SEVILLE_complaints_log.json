@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy in Crash",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle occupants are not adequately protected from the impact.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "resulting in injuries or fatalities to vehicle occupants."
+      ],
+      "odiNumbers": [
+        "10042559",
+        "822334",
+        "535125",
+        "978650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to lock up, making it difficult or impossible to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "the power steering fails",
+        "the vehicle is difficult to steer",
+        "the driver loses control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10017642",
+        "977769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Key Theft System Failure",
+      "impact": "The failure of the theft system can prevent the vehicle from starting, leaving the driver stranded, and can also cause safety issues if the vehicle is unable to be started in an emergency situation.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the theft system prevents the vehicle from starting",
+        "the ignition key is faulty",
+        "the gold plating on the ignition key flakes off and causes a short circuit."
+      ],
+      "odiNumbers": [
+        "879737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration (SUA)",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "sudden acceleration without driver input",
+        "cruise control failure",
+        "unexpected speed increase."
+      ],
+      "odiNumbers": [
+        "749382",
+        "964659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

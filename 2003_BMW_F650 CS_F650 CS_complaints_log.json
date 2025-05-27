@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Cracking and Leaking",
+      "impact": "Cracks in the fuel tank can cause fuel to leak, creating a fire or explosion hazard, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Gas fumes are present while driving or parked",
+        "puddles of fuel are visible underneath the vehicle",
+        "erratic or inconsistent RPM readings",
+        "inconsistent throttle response."
+      ],
+      "odiNumbers": [
+        "10536447",
+        "10159252",
+        "10074376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Pump/Filter Assembly Failure",
+      "impact": "Failure of the fuel pump/filter assembly can cause fuel to leak, creating a fire or explosion hazard, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Gas fumes are present while driving or parked",
+        "puddles of fuel are visible underneath the vehicle",
+        "hairline cracks in the fuel pump/filter assembly \"cap\" on top of the tank."
+      ],
+      "odiNumbers": [
+        "10159252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Inconsistent RPM Readings",
+      "impact": "Inconsistent RPM readings can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Erratic or inconsistent RPM readings",
+        "inconsistent throttle response."
+      ],
+      "odiNumbers": [
+        "10536447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Wire Failure",
+      "impact": "The failure of the green 16-gauge copper wire in the ignition switch wire loom can cause the engine to die, lights to go out, and all power to the motorcycle to be lost, potentially leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The engine stalls",
+        "lights go out",
+        "and all power to the motorcycle is lost",
+        "often while the bike is in motion."
+      ],
+      "odiNumbers": [
+        "10156915",
+        "10082678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Fork Failure",
+      "impact": "The sudden failure of the front fork can cause the motorcycle to become unstable, leading to loss of control, accidents, and serious injuries or fatalities.",
+      "symptoms": [
+        "The front fork breaks or collapses",
+        "causing the motorcycle to wobble or become unstable",
+        "leading to loss of control and potential crashes."
+      ],
+      "odiNumbers": [
+        "10245369",
+        "28597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

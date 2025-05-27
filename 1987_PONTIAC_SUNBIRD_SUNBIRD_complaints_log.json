@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT",
+    "ENGINE AND ENGINE COOLING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the battery to drain, leading to a loss of power and potentially leaving the driver stranded. In extreme cases, it can also cause the electrical system to malfunction, which can lead to accidents.",
+      "symptoms": [
+        "The battery drains quickly",
+        "the alternator overheats",
+        "the vehicle's electrical system malfunctions."
+      ],
+      "odiNumbers": [
+        "500219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to stall or not start, leaving the driver stranded. This can also lead to a loss of power to critical systems, such as the brakes and steering, which can increase the risk of accidents.",
+      "symptoms": [
+        "The battery is dead",
+        "the vehicle won't start",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "602431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioner Failure",
+      "impact": "The failure of the air conditioner can cause discomfort and distraction for the driver and passengers, potentially leading to heat-related health issues or accidents.",
+      "symptoms": [
+        "The air conditioner does not blow cold air",
+        "the air conditioner is not working",
+        "the air conditioner is not cooling",
+        "the air conditioner is leaking refrigerant",
+        "the air conditioner is making a loud noise."
+      ],
+      "odiNumbers": [
+        "602431",
+        "971170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause significant damage to the vehicle, potentially leading to a total loss, and pose a risk to the safety of the occupants and other road users.",
+      "symptoms": [
+        "Engine compartment fire",
+        "smoke or flames visible from the hood",
+        "engine overheating",
+        "engine stalling or locking up",
+        "unusual engine noises or smells."
+      ],
+      "odiNumbers": [
+        "508844",
+        "505302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Tire Wear",
+      "impact": "Premature tire wear can lead to reduced traction, increased stopping distances, and a higher risk of tire blowouts, which can cause accidents and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Uneven tire wear",
+        "rapid tire wear",
+        "excessive tire noise",
+        "vibration while driving",
+        "reduced fuel efficiency."
+      ],
+      "odiNumbers": [
+        "602431",
+        "592111",
+        "581941",
+        "571451",
+        "561011",
+        "551561",
+        "541191",
+        "531821",
+        "521491",
+        "511161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

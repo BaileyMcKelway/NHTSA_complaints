@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag and Parking Light Malfunction",
+      "impact": "The simultaneous illumination of the airbag and parking light icons can indicate a faulty sensor or electrical issue, which may lead to airbag deployment failure or other safety-related problems.",
+      "symptoms": [
+        "The airbag light and parking light icon come on simultaneously",
+        "remaining on after startup",
+        "and may not turn off even after restarting the vehicle."
+      ],
+      "odiNumbers": [
+        "11183218",
+        "6901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Keyless Door Sensor Failure",
+      "impact": "Malfunctioning keyless door sensors can cause inconvenience, safety risks, and financial burdens on vehicle owners, as they may be unable to unlock their vehicles or be forced to pay for repairs out of pocket.",
+      "symptoms": [
+        "The keyless door sensors fail to unlock the vehicle when touched",
+        "and the problem may not be duplicable by the dealership",
+        "leading to refusal of warranty coverage."
+      ],
+      "odiNumbers": [
+        "10671991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sunroof Drainage System Failure",
+      "impact": "The failure of the sunroof drainage system can cause water leakage into the vehicle, potentially leading to rusting, compromise of the side airbag, and deterioration of the headliner, which can affect vehicle safety and performance.",
+      "symptoms": [
+        "Water leakage into the vehicle",
+        "staining of the headliner",
+        "water accumulation near the airbag area (C-pillar)",
+        "squeaking sunroof",
+        "blocked sunroof drains."
+      ],
+      "odiNumbers": [
+        "10969187"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Latch/Lock Mechanism Failure",
+      "impact": "The failure of the door latch/lock mechanism can compromise vehicle security and safety, making it difficult or impossible to lock the door, and potentially leading to unauthorized access to the vehicle.",
+      "symptoms": [
+        "Door lock failure",
+        "alarm system malfunction",
+        "inability to arm the system",
+        "difficulty opening the door",
+        "requirement to use child proof override to lock the door."
+      ],
+      "odiNumbers": [
+        "10862237"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

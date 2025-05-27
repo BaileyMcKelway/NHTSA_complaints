@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Due to Piston Issues",
+      "impact": "The failure of the piston can cause the engine to seize or lose power, leading to accidents or stranding the driver. This can also result in costly repairs, potentially exceeding $10,000.",
+      "symptoms": [
+        "Engine failure",
+        "loss of motive power",
+        "warning lights illuminating",
+        "oil light illuminating",
+        "engine seizing or stalling",
+        "inability to restart the engine until it cools down."
+      ],
+      "odiNumbers": [
+        "11537253",
+        "11537257",
+        "11498404",
+        "11456323",
+        "11233627",
+        "11228410",
+        "11173020",
+        "11111599",
+        "11061499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Chain Failure",
+      "impact": "The failure of the timing chain can cause engine timing issues, leading to catastrophic engine failure, which can result in accidents or stranding the driver. This can also result in costly repairs, potentially exceeding $10,000.",
+      "symptoms": [
+        "Engine failure",
+        "loss of motive power",
+        "warning lights illuminating",
+        "engine stalling",
+        "inability to restart the engine until it cools down",
+        "transmission issues",
+        "engine lugging."
+      ],
+      "odiNumbers": [
+        "11061499",
+        "11233627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Overheating Issues",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine failure, loss of motive power, and potentially accidents or stranding the driver.",
+      "symptoms": [
+        "Engine overheating",
+        "warning lights illuminating",
+        "engine stalling",
+        "inability to restart the engine until it cools down",
+        "transmission issues."
+      ],
+      "odiNumbers": [
+        "11228410",
+        "11173020",
+        "11111599"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Timing Chain Tensioner Failure",
+      "impact": "The failure of the hydraulic timing chain tensioner can cause engine timing issues, leading to catastrophic engine failure, which can result in accidents or stranding the driver. This can also result in costly repairs, potentially exceeding $10,000.",
+      "symptoms": [
+        "Engine failure",
+        "loss of motive power",
+        "warning lights illuminating",
+        "engine stalling",
+        "inability to restart the engine until it cools down",
+        "transmission issues",
+        "engine lugging."
+      ],
+      "odiNumbers": [
+        "11061499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dynamic Steering System Failure",
+      "impact": "The failure of the dynamic steering system can cause the steering wheel to become stiff or difficult to turn, making it challenging for the driver to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel feels stiff or difficult to turn",
+        "inconsistent resistance to driver input",
+        "the steering wheel becomes heavy and hard to turn",
+        "the steering system offers intermittent or sporadic assistance",
+        "the vehicle displays a \"Steering Defective\" warning message",
+        "the steering wheel becomes stuck or unable to turn."
+      ],
+      "odiNumbers": [
+        "11479290",
+        "11433851",
+        "11398022",
+        "11354618",
+        "11327151",
+        "11302952",
+        "11207546"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unresolved Recall Issues",
+      "impact": "Failure to address recall issues in a timely manner can lead to safety risks, inconvenience, and potential financial losses for vehicle owners.",
+      "symptoms": [
+        "Delayed or lack of response from dealerships",
+        "inability to resolve recall issues",
+        "inability to trade-in or sell the vehicle due to unresolved recall issues."
+      ],
+      "odiNumbers": [
+        "11270848",
+        "11128559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Backup Camera Override by Phone Call",
+      "impact": "The override of the backup camera screen by an incoming phone call can increase the risk of accidents or injuries while reversing, as the driver's visibility is compromised.",
+      "symptoms": [
+        "The backup camera screen disappears or is overridden by the phone call screen while reversing",
+        "loss of backup view",
+        "driver distraction."
+      ],
+      "odiNumbers": [
+        "11064842",
+        "10972232"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Uncommanded Engine Throttling and Electrical System Failure",
+      "impact": "The uncommanded engine throttling and electrical system failure can cause the vehicle to slow down or stop suddenly, leading to accidents or loss of control. The electrical system failure can also cause critical safety features to malfunction, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle throttles back or slows down without warning",
+        "electrical components such as the radio and parking camera shut off without warning",
+        "warnings of high vehicle temperature",
+        "and loss of power or sluggish acceleration."
+      ],
+      "odiNumbers": [
+        "11504009",
+        "11192038"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure and Loss of Gear Shifting",
+      "impact": "The transmission failure can cause the vehicle to lose power or become stuck in gear, leading to accidents or loss of control. The inability to shift into neutral can also cause the vehicle to become stuck, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle slows down or stops suddenly",
+        "the gear shift becomes stuck or difficult to move",
+        "and the vehicle is unable to shift into neutral."
+      ],
+      "odiNumbers": [
+        "11426118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Forward Collision Warning System Failure",
+      "impact": "The failure of the forward collision warning system can increase the risk of accidents, as the driver may not receive timely warnings of potential collisions.",
+      "symptoms": [
+        "The forward collision warning system fails to activate",
+        "and the brakes do not engage even when the vehicle is close to another vehicle."
+      ],
+      "odiNumbers": [
+        "11221243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Powertrain Control Module (PCM) Failure",
+      "impact": "The failure of the Powertrain Control Module (PCM) can cause the vehicle to stall or shut off while driving, leading to a loss of power and control, which can increase the risk of accidents, especially on high-speed roads like freeways.",
+      "symptoms": [
+        "The vehicle stalls or shuts off while driving",
+        "loss of power",
+        "inability to accelerate",
+        "vehicle bucks or jerks when transmission shifts."
+      ],
+      "odiNumbers": [
+        "11560961",
+        "11542790",
+        "11351568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The transmission shifting issues can cause the vehicle to buck or jerk, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle bucks or jerks when transmission shifts",
+        "hesitation or delay in shifting",
+        "vehicle stalls or shuts off while driving."
+      ],
+      "odiNumbers": [
+        "11351568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Consumption Issue",
+      "impact": "The excessive oil consumption can cause the engine to stall or shut down while driving, leading to a high risk of accidents, especially on busy roads. The lack of warning lights or notifications can make it difficult for drivers to anticipate and respond to the issue.",
+      "symptoms": [
+        "Engine stalling or shutting down while driving",
+        "brief flashing of oil warning lamp",
+        "sudden loss of power",
+        "difficulty starting the engine",
+        "oil levels dropping rapidly."
+      ],
+      "odiNumbers": [
+        "11533884",
+        "11465655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

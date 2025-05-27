@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Strip Failure",
+      "impact": "The failure of the fuel strip can cause inaccurate fuel level readings, leading to unexpected fuel depletion, engine stalling, and potential accidents.",
+      "symptoms": [
+        "The fuel gauge shows incorrect readings",
+        "the fuel gauge malfunctions",
+        "the fuel strip fractures",
+        "the fuel strip needs to be replaced multiple times."
+      ],
+      "odiNumbers": [
+        "11153312",
+        "10502600",
+        "10499988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause fuel leaks, which can lead to fires, explosions, and accidents.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump area",
+        "fuel sprays onto the hot exhaust pipe",
+        "fuel leaks continuously",
+        "fuel smell is present while riding."
+      ],
+      "odiNumbers": [
+        "10917633",
+        "10567434",
+        "10549900",
+        "10537521",
+        "10533377",
+        "10509599",
+        "10493320",
+        "10492118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pressure Control Module Failure",
+      "impact": "The failure of the fuel pressure control module can cause the engine to stall or fail to start, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The fuel pressure control module fails without warning",
+        "leaving the driver stranded."
+      ],
+      "odiNumbers": [
+        "10775889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Control Unit Failure",
+      "impact": "The failure of the ABS control unit can cause the loss of anti-lock braking capability, leading to reduced braking performance, increased stopping distances, and a higher risk of accidents.",
+      "symptoms": [
+        "The ABS system shuts off during riding",
+        "resulting in reduced braking capability and rear wheel lock",
+        "no brake lights",
+        "no speedometer",
+        "no odometer",
+        "and battery drain."
+      ],
+      "odiNumbers": [
+        "10864676",
+        "10726381",
+        "10593802",
+        "10563505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure due to ABS Pump/Modulator Failure",
+      "impact": "The failure of the ABS pump/modulator can cause the brakes to lock up, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The front brake locks up",
+        "making it difficult to move the vehicle",
+        "and may require bleeding pressure from the brake line to release."
+      ],
+      "odiNumbers": [
+        "10549902"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Outlet Quick Connector Failure",
+      "impact": "The failure of the fuel pump outlet quick connector can cause gasoline to leak, creating a fire hazard and potential brake failure.",
+      "symptoms": [
+        "Gasoline leaks from the fuel pump outlet",
+        "creating a fire hazard and potentially causing skin rash and other injuries."
+      ],
+      "odiNumbers": [
+        "10535215"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Drive Shaft Failure",
+      "impact": "The failure of the drive shaft can cause the rear wheel to lock up, leading to a loss of control, and potentially resulting in accidents or crashes.",
+      "symptoms": [
+        "Strong vibration in the rear of the motorcycle",
+        "pronounced wobble affecting control",
+        "drive train locking up",
+        "final drive leaking before failing."
+      ],
+      "odiNumbers": [
+        "10537822",
+        "10535610",
+        "10483540"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

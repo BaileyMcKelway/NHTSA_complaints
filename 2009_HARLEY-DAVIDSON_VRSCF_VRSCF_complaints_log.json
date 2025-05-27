@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to increased stopping distances, loss of control, and accidents, which can result in serious injury or death.",
+      "symptoms": [
+        "The ABS system fails to engage",
+        "the brakes become stiff or unresponsive",
+        "the rear brake pedal locks up or becomes inoperable",
+        "the front brake lever freezes",
+        "the brakes release and then re-engage",
+        "the vehicle experiences increased stopping distances."
+      ],
+      "odiNumbers": [
+        "11429734",
+        "11092660",
+        "10994988",
+        "10916224",
+        "10884850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Pedal Failure",
+      "impact": "The failure of the rear brake pedal can cause the loss of braking power, leading to accidents or loss of control, which can result in serious injury or death.",
+      "symptoms": [
+        "The rear brake pedal becomes stuck or inoperable",
+        "the rear brake pedal has no effect on the vehicle's stopping power",
+        "the rear brake pedal seizes up without warning."
+      ],
+      "odiNumbers": [
+        "10994988",
+        "10916224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Brake Lever Failure",
+      "impact": "The failure of the front brake lever can cause the loss of braking power, leading to accidents or loss of control, which can result in serious injury or death.",
+      "symptoms": [
+        "The front brake lever becomes stiff or unresponsive",
+        "the front brake lever freezes",
+        "the front brake lever has no effect on the vehicle's stopping power."
+      ],
+      "odiNumbers": [
+        "11092660",
+        "10884850"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Fuel Sensor",
+      "impact": "A faulty fuel sensor can cause the fuel gauge to malfunction, leading to sudden and unexpected fuel depletion, which can result in engine damage, rapid deceleration, and increased risk of accidents.",
+      "symptoms": [
+        "The fuel gauge drops suddenly and without warning",
+        "the fuel sensor fails repeatedly",
+        "the fuel gauge is intermittent",
+        "the fuel gauge does not provide accurate readings."
+      ],
+      "odiNumbers": [
+        "10924479",
+        "10593685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inaccurate Fuel Gauge Readings",
+      "impact": "Inaccurate fuel gauge readings can cause drivers to run out of fuel unexpectedly, leading to engine damage, rapid deceleration, and increased risk of accidents.",
+      "symptoms": [
+        "The fuel gauge drops suddenly and without warning",
+        "the fuel gauge is intermittent",
+        "the fuel gauge does not provide accurate readings",
+        "the fuel gauge fails to provide a warning before running out of fuel."
+      ],
+      "odiNumbers": [
+        "10593685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Design Issue with Fuel Sensor Configuration",
+      "impact": "A design issue with the fuel sensor configuration can lead to repeated failures, causing drivers to experience sudden and unexpected fuel depletion, which can result in engine damage, rapid deceleration, and increased risk of accidents.",
+      "symptoms": [
+        "The fuel sensor fails repeatedly",
+        "the fuel sensor has a different configuration than the original",
+        "the fuel sensor does not provide accurate readings."
+      ],
+      "odiNumbers": [
+        "10924479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Shifter and Left Foot Pedal Mounting Bolt Failure",
+      "impact": "The failure of the bolt that holds the shifter and left foot pedal can cause the pedal to rotate down and become unusable, leading to loss of control and potential accidents, especially at high speeds.",
+      "symptoms": [
+        "The left foot pedal breaks loose and rotates down",
+        "the pedal becomes unusable",
+        "the pedal falls to the pavement",
+        "difficulty shifting gears",
+        "loss of control while driving."
+      ],
+      "odiNumbers": [
+        "10924475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

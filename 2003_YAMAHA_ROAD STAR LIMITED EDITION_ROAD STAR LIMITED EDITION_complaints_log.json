@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose speed, jerk, or lock up, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses speed",
+        "jerks",
+        "or locks up",
+        "making it difficult or impossible to shift gears",
+        "and causing the rear wheel to slide or lock up."
+      ],
+      "odiNumbers": [
+        "10353965",
+        "10278355",
+        "10071579",
+        "10067271",
+        "10071424",
+        "10065762",
+        "10064179",
+        "10062767",
+        "10062170",
+        "10060001",
+        "10059918",
+        "10058861",
+        "10059505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Parts for Recall Repairs",
+      "impact": "The lack of parts for recall repairs can cause the vehicle to be unusable for an extended period, leading to inconvenience, financial losses, and potential safety risks.",
+      "symptoms": [
+        "The dealership does not have the necessary parts to perform the recall repairs",
+        "leaving the vehicle in the shop for an extended period",
+        "and the owner without a functional vehicle."
+      ],
+      "odiNumbers": [
+        "10071579",
+        "10067271",
+        "10071424",
+        "10065762",
+        "10064179",
+        "10062767",
+        "10062170",
+        "10060001",
+        "10059918",
+        "10058861",
+        "10059505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 36,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "Power steering failure can cause difficulty steering, making it hard to control the vehicle, especially in cold weather, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Difficulty steering",
+        "especially in cold weather",
+        "power steering won't turn after initial start",
+        "steering wheel has a lot of play",
+        "difficulty turning to the right",
+        "morning sickness-like symptoms in the steering."
+      ],
+      "odiNumbers": [
+        "531587",
+        "478151",
+        "476333",
+        "962949",
+        "966785",
+        "968559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Rack Failure",
+      "impact": "Power steering rack failure can cause difficulty steering, making it hard to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Power steering failure",
+        "rack and pinion failed",
+        "difficulty steering."
+      ],
+      "odiNumbers": [
+        "966785",
+        "968559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Aftermarket Anti-Theft Device Failure",
+      "impact": "The failure of the aftermarket anti-theft device can cause a fire, resulting in damage to the vehicle and potentially putting the occupants at risk.",
+      "symptoms": [
+        "Wires caught on fire",
+        "caused damage to the vehicle",
+        "short in the anti-theft device."
+      ],
+      "odiNumbers": [
+        "824528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping and Failure to Engage",
+      "impact": "The transmission slipping and failure to engage can cause loss of control, accidents, and damage to the transmission, leading to costly repairs.",
+      "symptoms": [
+        "Transmission slips and doesn't lock into gear",
+        "makes clunking sounds when acceleration is let off and then re-applied",
+        "transmission downshifts hard when accelerating from a sharp turn",
+        "transmission sticks in low gear",
+        "vehicle suddenly accelerates or moves in an unintended direction."
+      ],
+      "odiNumbers": [
+        "10069540",
+        "719712",
+        "982158",
+        "478050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "Unintended vehicle movement can cause accidents, injuries, and fatalities, especially if the vehicle is in park or neutral.",
+      "symptoms": [
+        "Vehicle moves unexpectedly",
+        "engine revs and goes into reverse while in park",
+        "vehicle accelerates or moves in an unintended direction."
+      ],
+      "odiNumbers": [
+        "982158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Idle Air Control (IAC) System Malfunction",
+      "impact": "The malfunction of the IAC system can cause the engine to stall or race, leading to loss of vehicle control, accidents, or engine damage.",
+      "symptoms": [
+        "Engine RPMs increase when turning on the heater",
+        "engine RPMs remain high even after turning off the heater",
+        "engine races at high RPMs when putting the car in park",
+        "engine stalls frequently",
+        "engine stalls while warming up."
+      ],
+      "odiNumbers": [
+        "557898",
+        "718182",
+        "834962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

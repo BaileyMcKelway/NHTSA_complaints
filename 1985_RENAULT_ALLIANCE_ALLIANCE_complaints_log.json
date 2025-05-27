@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SEAT BELTS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause hot engine liquids to leak out, resulting in injuries to the driver and passengers, and potentially leading to engine overheating, which can cause further damage to the vehicle.",
+      "symptoms": [
+        "Hot engine liquids leaking onto the driver's legs",
+        "vehicle overheating",
+        "faulty heater core",
+        "coolant leaks."
+      ],
+      "odiNumbers": [
+        "541732",
+        "484452",
+        "969110",
+        "485203",
+        "485159",
+        "489120",
+        "962358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Seatbelt Buckle",
+      "impact": "A cracked or broken seatbelt buckle can lead to a failure to properly restrain occupants in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt buckle is cracked or broken",
+        "the buckle does not latch or unlatch properly",
+        "the buckle fails to hold the seatbelt in place",
+        "the seatbelt becomes detached while in use."
+      ],
+      "odiNumbers": [
+        "800929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rough Shift into Third Gear",
+      "impact": "The rough shift into third gear can cause the vehicle to jerk or hesitate, potentially leading to loss of control, accidents, or damage to the transmission.",
+      "symptoms": [
+        "The transmission shifts roughly into third gear",
+        "especially when the engine is cold",
+        "the vehicle jerks or hesitates when shifting into third gear",
+        "the transmission slips or hesitates before engaging third gear."
+      ],
+      "odiNumbers": [
+        "487057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

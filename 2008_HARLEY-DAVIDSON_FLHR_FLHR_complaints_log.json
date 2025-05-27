@@ -1,0 +1,176 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "SUSPENSION",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Control (ETC) Failure",
+      "impact": "The failure of the ETC system can cause the throttle to malfunction, leading to sudden acceleration or loss of throttle response, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The throttle goes to wide open position by itself",
+        "sudden surge forward",
+        "loss of throttle response",
+        "idle RPM increases to 1500 RPM (limp mode)",
+        "throttle only works in idle mode",
+        "fly-by-wire throttle failure."
+      ],
+      "odiNumbers": [
+        "10555753",
+        "10454567",
+        "10354318"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Throttle Grip Sensor (TGS) Failure",
+      "impact": "The failure of the TGS can cause the throttle to malfunction, leading to sudden acceleration or loss of throttle response, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Throttle only works in idle mode",
+        "fly-by-wire throttle failure",
+        "throttle wire loom failure."
+      ],
+      "odiNumbers": [
+        "10354318"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "ECM (Engine Control Module) or ATC Pin Connectors Failure",
+      "impact": "The failure of the ECM or ATC pin connectors can cause the throttle to malfunction, leading to sudden acceleration or loss of throttle response, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Bike shuts down",
+        "idle RPM increases to 1500 RPM (limp mode)",
+        "no throttle response."
+      ],
+      "odiNumbers": [
+        "10454567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause a sudden and complete loss of rear brake functionality, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The rear brake pedal goes to the maximum limit without resistance",
+        "the rear brake fails to engage",
+        "the ABS module is faulty",
+        "the brake fluid is contaminated or incorrect."
+      ],
+      "odiNumbers": [
+        "11072402",
+        "10627377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incorrect Brake Fluid Usage",
+      "impact": "The use of incorrect brake fluid can cause corrosion and damage to the ABS module, leading to a failure of the rear brake system and increasing the risk of accidents.",
+      "symptoms": [
+        "The ABS module is faulty",
+        "the brake fluid is contaminated or incorrect",
+        "the rear brake pedal goes to the maximum limit without resistance",
+        "the rear brake fails to engage."
+      ],
+      "odiNumbers": [
+        "11072402",
+        "10627377"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Wheel Bearing",
+      "impact": "A defective wheel bearing can cause loud noises, vibrations, and potentially lead to loss of control, accidents, or wheel failure, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Loud noise coming from the bottom of the vehicle",
+        "vibrations",
+        "wheel wobbling or shaking."
+      ],
+      "odiNumbers": [
+        "10450322"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear End Oscillation",
+      "impact": "The rear end oscillation can cause a loss of control, accidents, or rollover, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Rear end oscillation or wobbling",
+        "loss of control",
+        "especially when traveling at high speeds (50-70 mph) on long sweeping turns."
+      ],
+      "odiNumbers": [
+        "10247642"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Control Malfunction",
+      "impact": "The malfunction of the electronic throttle control can cause the motorcycle to decelerate or accelerate abnormally, leading to a loss of control and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The motorcycle decelerates abnormally",
+        "the motorcycle accelerates rapidly without input from the rider",
+        "the cruise control fails to maintain the set speed",
+        "the check engine light illuminates on the speedometer."
+      ],
+      "odiNumbers": [
+        "10443180",
+        "10434594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Improperly Installed Primary Case Bolt",
+      "impact": "The failure of the primary case bolt can cause the vehicle to stop running, leading to a loss of control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "A banging noise coming from the primary case",
+        "the vehicle stops running",
+        "the bolt that holds the compensation brackets in the primary case comes out."
+      ],
+      "odiNumbers": [
+        "10236829"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Cylinder Head Gasket Failure",
+      "impact": "The failure of the front cylinder head gasket can cause oil leaks, leading to engine damage, overheating, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Oil leaks",
+        "engine noise or vibration",
+        "engine overheating",
+        "loss of engine power."
+      ],
+      "odiNumbers": [
+        "10208806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

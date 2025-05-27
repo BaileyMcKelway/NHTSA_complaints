@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of brake lines can cause a loss of brake fluid, leading to a soft or spongy brake pedal, and potentially resulting in a loss of braking ability, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal descends to the floorboard",
+        "vehicle coasts to a stop",
+        "popping sound heard when applying brakes."
+      ],
+      "odiNumbers": [
+        "10424366",
+        "10061132",
+        "10046358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Control Module Failure",
+      "impact": "The failure of the ABS control module can cause the ABS system to malfunction, leading to a loss of braking ability, and potentially resulting in accidents.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "ABS pump/bake modulation system runs continuously",
+        "ABS system does not work at all",
+        "vehicle vibrates when applying brakes."
+      ],
+      "odiNumbers": [
+        "10044004",
+        "899556",
+        "891189",
+        "879557",
+        "876423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rusted Brake Rotors",
+      "impact": "Rusted brake rotors can cause the brakes to vibrate or pulsate, leading to a loss of braking ability, and potentially resulting in accidents.",
+      "symptoms": [
+        "Vehicle vibrates when applying brakes",
+        "rotor case hardened finish is flaking off due to rust."
+      ],
+      "odiNumbers": [
+        "895769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Pedal Sticking",
+      "impact": "The sticking of the accelerator pedal can cause unintended acceleration, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The accelerator pedal feels hard or stuck",
+        "the pedal becomes stuck after tapping on it",
+        "the vehicle accelerates suddenly or unexpectedly",
+        "the pedal is difficult to press or release."
+      ],
+      "odiNumbers": [
+        "8016361",
+        "890466",
+        "887753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag System to Deploy",
+      "impact": "The failure of the airbag system to deploy in a crash can result in severe injuries or fatalities, as the lack of protection can lead to increased impact forces on the occupants.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the failure of the airbag system to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "889569"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

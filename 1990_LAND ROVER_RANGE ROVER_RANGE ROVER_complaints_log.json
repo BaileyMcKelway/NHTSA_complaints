@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Coolant System Failure",
+      "impact": "The failure of the engine coolant system can cause the engine to overheat, leading to engine damage, fires, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "smoke or flames coming from the engine area",
+        "hot water or steam release",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "8020700",
+        "752409",
+        "868910",
+        "503898"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion-Related Fuel Tank Failure",
+      "impact": "Corrosion-related fuel tank failure can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping from the tank",
+        "corrosion on the fuel tank",
+        "cracks in the fuel tank seam."
+      ],
+      "odiNumbers": [
+        "10011520",
+        "890322",
+        "879084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Instability",
+      "impact": "Vehicle instability can cause loss of control, accidents, and rollovers, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle feels unstable or wobbly",
+        "especially when driving at high speeds or making sharp turns",
+        "the vehicle tends to drift or pull to one side",
+        "the vehicle is difficult to steer",
+        "the vehicle has a sudden loss of traction."
+      ],
+      "odiNumbers": [
+        "501279",
+        "501279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

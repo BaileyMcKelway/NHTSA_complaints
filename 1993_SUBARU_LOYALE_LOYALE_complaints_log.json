@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, and injuries, especially when it occurs at high speeds.",
+      "symptoms": [
+        "The engine dies without warning",
+        "the vehicle stalls while driving",
+        "the engine shuts off without warning."
+      ],
+      "odiNumbers": [
+        "721829"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Pump Gear Failure",
+      "impact": "The failure of the oil pump gear can cause engine seizure, leading to costly repairs and potentially dangerous situations, such as stalling in traffic.",
+      "symptoms": [
+        "The engine seizes",
+        "the timing assembly is damaged",
+        "the oil pump gear walks forward",
+        "the timing cover is damaged",
+        "the engine loses oil pressure."
+      ],
+      "odiNumbers": [
+        "713128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Leakage and Ignition Hazard",
+      "impact": "Oil leakage can cause a fire hazard, potentially leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Oil leakage from the engine",
+        "oil drips onto the engine or surrounding components",
+        "the engine compartment is covered in oil",
+        "the vehicle is at risk of catching fire."
+      ],
+      "odiNumbers": [
+        "812915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Idle Air Control (IAC) Module Failure",
+      "impact": "The failure of the Idle Air Control (IAC) module can cause the vehicle to hesitate or stall while accelerating, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or stalls while accelerating",
+        "the engine check light comes on and off",
+        "the vehicle loses power while driving at any speed",
+        "the vehicle shuts down and comes to a stop."
+      ],
+      "odiNumbers": [
+        "513836",
+        "963734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

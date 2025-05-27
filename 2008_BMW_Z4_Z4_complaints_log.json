@@ -1,0 +1,74 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Seat Occupancy Sensor (PSOS) Failure",
+      "impact": "The failure of the PSOS can cause the airbag warning light to illuminate, indicating that the passenger airbag may not deploy correctly in the event of an accident, potentially leading to serious injury or death.",
+      "symptoms": [
+        "The airbag warning light is constantly illuminated",
+        "the passenger airbag 'on-off' lamp is illuminated simultaneously",
+        "the airbag disabled light in the instrument cluster is on",
+        "the passenger seat occupancy sensor mat is defective",
+        "error code 93C3 is displayed."
+      ],
+      "odiNumbers": [
+        "11316959",
+        "11282391",
+        "11271045",
+        "11268089",
+        "11089840",
+        "10934903",
+        "10884703",
+        "10822054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) System Failure",
+      "impact": "The failure of the EPS system can cause unpredictable and erratic steering, making it difficult to control the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle wanders or pulls to one side",
+        "the steering wheel has a \"stick-slip\" effect",
+        "sudden changes in steering angle require more force than expected",
+        "complete failure of steering assist",
+        "extremely difficult steering/cornering",
+        "shaky steering",
+        "and the vehicle wants to veer to one side."
+      ],
+      "odiNumbers": [
+        "10838080",
+        "10662646",
+        "10643740",
+        "10525558",
+        "10467893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unavailability of Recall Parts for Engine and Engine Cooling",
+      "impact": "The unavailability of recall parts for the engine and engine cooling system can lead to delays in repairing potential safety issues, potentially causing engine failure, overheating, or other safety risks.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for recall repairs."
+      ],
+      "odiNumbers": [
+        "11487839",
+        "11109664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the deployment of airbags without warning, failure to deploy airbags in the event of an accident, or incorrect illumination of airbag warning lights, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the airbag deploys without warning",
+        "the airbag fails to deploy in an accident",
+        "the passenger airbag light stays illuminated even when an adult is in the seat",
+        "the airbag sensor constantly blinks",
+        "the airbag warning indicator illuminates sporadically."
+      ],
+      "odiNumbers": [
+        "11509721",
+        "11317083",
+        "11155470",
+        "11128557",
+        "11071794",
+        "11044285",
+        "10864178",
+        "10715116",
+        "10459683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Passenger Airbag Sensor Failure",
+      "impact": "The failure of the passenger airbag sensor can cause the airbag to deploy incorrectly or not deploy at all, which can lead to injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The passenger airbag light stays illuminated even when an adult is in the seat",
+        "the airbag sensor constantly blinks",
+        "the airbag warning indicator illuminates sporadically."
+      ],
+      "odiNumbers": [
+        "11155470",
+        "10715116",
+        "10459683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "TAKATA Airbag Recall",
+      "impact": "The failure of the TAKATA airbag can cause the airbag to deploy incorrectly or not deploy at all, which can lead to injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The front driver's airbag sensor constantly blinks",
+        "the airbag will not work."
+      ],
+      "odiNumbers": [
+        "10864178"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Radiator Causing Transmission Failure",
+      "impact": "The failure of the radiator can cause coolant to leak into the transmission, leading to transmission failure, loss of power, and stalling, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Milky fluid leaking from the coolant area",
+        "transmission fluid mixing with coolant",
+        "radiator filled with yellow milky-colored sludge",
+        "transmission fluid is bone dry",
+        "vehicle stalling",
+        "overheating",
+        "vibrating",
+        "transmission not functioning properly."
+      ],
+      "odiNumbers": [
+        "11466139",
+        "11186969",
+        "11181303",
+        "11130683",
+        "11100302",
+        "11035544",
+        "10981243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Camshaft Sensor Failure",
+      "impact": "The failure of the camshaft sensor can cause the engine to shut down, leading to loss of power, stalling, and loss of control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Vehicle shuddering violently",
+        "all panel lights lighting up",
+        "complete loss of power",
+        "loss of steering",
+        "brakes",
+        "and maneuverability."
+      ],
+      "odiNumbers": [
+        "11484939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to pull to one side, making it difficult to control, which can lead to accidents, injuries, and even fatalities.",
+      "symptoms": [
+        "The vehicle pulls to the left or right while driving",
+        "the steering wheel is hard to turn",
+        "the steering wheel does not remain straight",
+        "the vehicle is difficult to steer at high speeds",
+        "unusual noises (popping",
+        "cracking) when turning the wheel."
+      ],
+      "odiNumbers": [
+        "11282055",
+        "11217839",
+        "10978877",
+        "10558696",
+        "10344976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

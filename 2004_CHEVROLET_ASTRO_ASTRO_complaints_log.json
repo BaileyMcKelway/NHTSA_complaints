@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion and Failure",
+      "impact": "The corrosion and failure of brake lines can cause brake fluid leaks, leading to a loss of brake pressure, increased stopping distances, and potentially, accidents.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or has a longer stopping distance."
+      ],
+      "odiNumbers": [
+        "10704745",
+        "10396579",
+        "10305971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction, leading to accidents or loss of control.",
+      "symptoms": [
+        "Anti-lock braking system warning lights come on",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or has a longer stopping distance."
+      ],
+      "odiNumbers": [
+        "10717422",
+        "10438527",
+        "10184876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a loss of brake pressure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Dead battery",
+        "vehicle will not start",
+        "electrical arcing",
+        "brake fluid leaks",
+        "brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle is unable to stop or has a longer stopping distance."
+      ],
+      "odiNumbers": [
+        "10305971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Cruise Control Failure",
+      "impact": "The intermittent failure of the cruise control system can cause unexpected acceleration or failure to disengage, leading to loss of control, accidents, or near-miss incidents.",
+      "symptoms": [
+        "Cruise control fails to disengage when the brake pedal is pressed",
+        "the vehicle continues to accelerate",
+        "the engine continues to race",
+        "the cruise control shuts off without warning",
+        "often triggered by hitting a bump."
+      ],
+      "odiNumbers": [
+        "11321778",
+        "10121133"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall or lose power, increasing the risk of accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the vehicle loses power while driving",
+        "the vehicle stalls",
+        "the accelerator pedal needs to be pumped to resume operation",
+        "the vehicle's engine dies and then restarts after a short period."
+      ],
+      "odiNumbers": [
+        "10604713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

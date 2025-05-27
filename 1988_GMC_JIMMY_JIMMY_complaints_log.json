@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SEATS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Seat Belt Failure due to Steel Strap Fracture",
+      "impact": "The failure of the rear seat belts can lead to a lack of restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt appears to be functional",
+        "but the steel strap has broken in half",
+        "rendering the seat belt useless; the vinyl covering may hold the broken strap together",
+        "making it difficult to detect the failure."
+      ],
+      "odiNumbers": [
+        "10053127"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver's Side Seat Belt Buckle Failure",
+      "impact": "The failure of the driver's side seat belt buckle can prevent the seat belt from latching, leaving the driver unrestrained in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver's side seat belt buckle is broken and will not latch."
+      ],
+      "odiNumbers": [
+        "967727",
+        "965942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Seat Mounting Bolts",
+      "impact": "The failure of the seat mounting bolts can cause the seat to become unstable or detach from the floor, leading to a loss of control while driving, increased risk of accidents, and potential injuries to occupants.",
+      "symptoms": [
+        "The seat feels unstable or loose",
+        "the seat shifts or moves while driving",
+        "the seat is lopsided or uneven",
+        "the seat bolts are broken or damaged",
+        "the seat is rotten or corroded through the floor."
+      ],
+      "odiNumbers": [
+        "878866",
+        "985976",
+        "961100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "often when attempting to park or slow down",
+        "leading to loss of control and potential accidents."
+      ],
+      "odiNumbers": [
+        "815630",
+        "485690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

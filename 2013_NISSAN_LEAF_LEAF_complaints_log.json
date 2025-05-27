@@ -1,0 +1,294 @@
+{
+  "totalComplaints": 79,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop or slow down",
+        "and the ABS and brake warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11523410",
+        "11233902",
+        "11182659",
+        "11174255",
+        "11149652",
+        "11098775",
+        "11073355",
+        "11051306",
+        "11044515",
+        "11043749",
+        "10939716",
+        "10910630",
+        "10758790",
+        "10721476",
+        "10703972",
+        "10694165",
+        "10689960",
+        "10651663",
+        "10558977",
+        "10547501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure to Return",
+      "impact": "The failure of the brake pedal to return to its normal position can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal does not return to its normal position",
+        "the brake pedal sticks to the floor",
+        "the brake pedal has a delayed return to its normal position",
+        "and the vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "11174255",
+        "11098775",
+        "11051306",
+        "10939716",
+        "10758790",
+        "10689960"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electric Brake Control Unit Failure",
+      "impact": "The failure of the electric brake control unit can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop or slow down",
+        "and the ABS and brake warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "11149652",
+        "11098775",
+        "10939716",
+        "10758790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fluid Leaks",
+      "impact": "Brake fluid leaks can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "and the vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "10721476"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Malfunction",
+      "impact": "Brake system malfunctions can cause the vehicle to lose stopping power, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop or slow down",
+        "and the ABS and brake warning lights illuminate on the dashboard."
+      ],
+      "odiNumbers": [
+        "10694165",
+        "10651663",
+        "10558977",
+        "10547501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "DC-DC Converter Failure",
+      "impact": "The failure of the DC-DC converter can cause sudden loss of power, loss of braking, and loss of safety critical functions, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The car suddenly loses power during freeway driving",
+        "the brake system appears compromised",
+        "and the vehicle requires turning off 12V accessories to restore functionality."
+      ],
+      "odiNumbers": [
+        "11557774"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Charging System Failure",
+      "impact": "The failure of the charging system can cause electrocution hazards, damage to the onboard charger, and inability to charge the vehicle.",
+      "symptoms": [
+        "Sparks and electricity were felt when plugging in the J1772 plug",
+        "and the charging system no longer charges the vehicle."
+      ],
+      "odiNumbers": [
+        "11547537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Issues",
+      "impact": "The failure of the battery can cause loss of power, inability to drive the vehicle, and safety issues related to airbag deployment.",
+      "symptoms": [
+        "The battery charged to 55 miles",
+        "but dropped to 39 miles while showing 9 bars",
+        "and the range drops significantly while driving."
+      ],
+      "odiNumbers": [
+        "11231434",
+        "10586254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Issues",
+      "impact": "The failure of the airbag system can cause airbags not to deploy in an accident, leading to serious injury or death.",
+      "symptoms": [
+        "The passenger airbag light is on continuously",
+        "the airbag system light blinks continuously",
+        "and the passenger seat occupancy sensor is faulty."
+      ],
+      "odiNumbers": [
+        "11240382",
+        "11228414",
+        "11192404",
+        "10543170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Issues",
+      "impact": "The failure of the electrical system can cause strange noises, loss of braking, and inability to start the vehicle.",
+      "symptoms": [
+        "The vehicle won't start",
+        "even with a fully charged battery",
+        "and there are unusual electrical issues",
+        "such as only one window rolling down and doors temporarily locking and refusing to unlock."
+      ],
+      "odiNumbers": [
+        "11089019",
+        "10573261",
+        "10531552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Charging Station Issues",
+      "impact": "The failure of the charging station can cause fire hazards, damage to the vehicle, and inability to charge the vehicle.",
+      "symptoms": [
+        "Smoke was coming from the charging port",
+        "and the connection had gotten hot enough to melt the plastic and create smoke."
+      ],
+      "odiNumbers": [
+        "10586753",
+        "10537862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the deployment of airbags without a crash, or the failure to deploy airbags in the event of a crash, which can cause injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light is flashing",
+        "the passenger airbag light is flashing",
+        "the airbag deploys without a crash",
+        "the airbag fails to deploy in a crash",
+        "the seatbelt pre-tensioner engages without a crash."
+      ],
+      "odiNumbers": [
+        "11529990",
+        "11521771",
+        "11518675",
+        "11343249",
+        "11292150",
+        "11255885",
+        "11075824",
+        "10980215",
+        "10897200",
+        "10895085",
+        "10661541",
+        "10610991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Occupant Classification System (OCS) Failure",
+      "impact": "The failure of the OCS can cause the airbag system to malfunction, leading to the deployment of airbags without a crash, or the failure to deploy airbags in the event of a crash, which can cause injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light is flashing",
+        "the passenger airbag light is flashing",
+        "the OCS sensor is faulty",
+        "the airbag system is malfunctioning."
+      ],
+      "odiNumbers": [
+        "11518675",
+        "11292150",
+        "10897200",
+        "10895085",
+        "10661541",
+        "10610991"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal fails to function",
+        "the brake lines are stuck",
+        "the brake actuator needs to be replaced."
+      ],
+      "odiNumbers": [
+        "11255885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause engine overheating, leading to engine damage, loss of power, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Upper radiator hose blows off",
+        "engine overheats",
+        "coolant leaks",
+        "loss of power during travel."
+      ],
+      "odiNumbers": [
+        "10064501",
+        "607875",
+        "528328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause loss of power, stalling, and potentially lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine fails",
+        "loss of power",
+        "stalling."
+      ],
+      "odiNumbers": [
+        "545945",
+        "528328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accessory Belt Tension Failure",
+      "impact": "Failure of the accessory belt tension can cause noisy engine operation, loss of power, and potentially lead to engine damage or failure.",
+      "symptoms": [
+        "Engine belt tension failure",
+        "very noisy engine operation."
+      ],
+      "odiNumbers": [
+        "607875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Shift Lockup",
+      "impact": "The gear shift becoming locked up can cause the vehicle to become stuck in a particular gear, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "The gear shift is stuck",
+        "unable to shift into gear",
+        "the vehicle is stuck in a particular gear",
+        "the transmission is making unusual noises",
+        "the vehicle is experiencing difficulty accelerating or decelerating."
+      ],
+      "odiNumbers": [
+        "609500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Drive Shaft/Wheel U-Joint Imbalance",
+      "impact": "An imbalance in the drive shaft or wheel U-joints can cause vibrations, noise, and uneven tire wear, leading to loss of control, accidents, or premature wear on other vehicle components.",
+      "symptoms": [
+        "Vibrations felt through the steering wheel",
+        "seat",
+        "or floor",
+        "unusual noises while driving",
+        "uneven tire wear",
+        "difficulty maintaining vehicle speed",
+        "wobbling or shaking of the vehicle."
+      ],
+      "odiNumbers": [
+        "609503"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exterior Lighting Failure",
+      "impact": "The failure of exterior lighting components, such as light bulbs or lenses, can reduce visibility and increase the risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Dim or non-functional exterior lights",
+        "cracked or broken light lenses",
+        "difficulty seeing or being seen by other drivers."
+      ],
+      "odiNumbers": [
+        "607941",
+        "607669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

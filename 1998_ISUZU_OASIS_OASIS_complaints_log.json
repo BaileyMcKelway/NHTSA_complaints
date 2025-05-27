@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "CHILD SEAT"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall without warning, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the vehicle will not restart",
+        "the ignition switch loses power",
+        "the ignition switch has worn-out contacts",
+        "the vehicle shuts down without warning",
+        "the dashboard lights and accessories turn off",
+        "the vehicle cranks but does not start."
+      ],
+      "odiNumbers": [
+        "10483693",
+        "10435489",
+        "10409199",
+        "10245841",
+        "10243183",
+        "8014075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause delayed response, slippage, and loss of control, which can lead to accidents, especially when accelerating or decelerating in heavy traffic.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "delayed response when accelerating or decelerating",
+        "loss of power",
+        "unusual noises or vibrations",
+        "transmission failure",
+        "and difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10188341",
+        "607335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Takata Airbag Recall Repair",
+      "impact": "The delay in receiving the necessary parts for the Takata airbag recall repair can leave the vehicle occupant at risk of serious injury or death in the event of an accident, as the faulty airbag may not deploy correctly or may rupture, causing harm.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair",
+        "rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "11364682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

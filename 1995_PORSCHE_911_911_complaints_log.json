@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause electrical fires, which can lead to vehicle damage, injury, or even death.",
+      "symptoms": [
+        "Burning smell",
+        "visible signs of fire",
+        "exposed bare wires",
+        "brittle or broken wire insulation",
+        "engine harness kinked during installation."
+      ],
+      "odiNumbers": [
+        "760050",
+        "561221",
+        "732161",
+        "753288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Wiring Harness Failure",
+      "impact": "The failure of the engine wiring harness can cause driveability problems, engine cooling fan failure, and potentially lead to a fire, which can result in serious safety risks and damage to the vehicle.",
+      "symptoms": [
+        "Dry rot and insulation breakdown (cracks) throughout the engine wiring harness",
+        "engine cooling fan failure",
+        "potential driveability problems."
+      ],
+      "odiNumbers": [
+        "740742",
+        "826387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause serious safety risks, damage to the vehicle, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Engine compartment fire",
+        "unknown cause."
+      ],
+      "odiNumbers": [
+        "826387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause total brake failure, leading to accidents or near-misses, as the vehicle may not stop or slow down as expected.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal must be pumped multiple times to stop the vehicle",
+        "the vehicle takes longer than usual to stop",
+        "the brake pedal goes to the floor with little to no resistance."
+      ],
+      "odiNumbers": [
+        "815345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Caliper Bolt Failure",
+      "impact": "The failure of the brake caliper bolts can cause the brake caliper to lock onto the rotor, leading to accidents or loss of control, as the vehicle may pull to one side or experience sudden and unexpected braking.",
+      "symptoms": [
+        "The vehicle pulls to one side while braking",
+        "the brake pedal feels uneven or grabs",
+        "the vehicle experiences sudden and unexpected braking",
+        "the brake caliper is stuck to the rotor."
+      ],
+      "odiNumbers": [
+        "519501"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

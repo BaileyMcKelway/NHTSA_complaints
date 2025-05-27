@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Support Battery Location and Air Quality Concerns",
+      "impact": "The placement of the support battery near the air intake for the AC/heat system can cause harmful gases to be sucked into the vehicle's air conditioner, potentially affecting the health and safety of occupants.",
+      "symptoms": [
+        "Strong",
+        "rotten egg-like smell coming from the air vents",
+        "headaches",
+        "dizziness."
+      ],
+      "odiNumbers": [
+        "11572708"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "SRS Airbag System Defect",
+      "impact": "A loose pin tension in the door harness can cause the SRS airbag system to malfunction, potentially leading to airbag deactivation and increased risk of injury in the event of an accident.",
+      "symptoms": [
+        "SRS Airbag light comes on intermittently",
+        "loose pin tension in the door harness",
+        "SRS B11A081 left side pressure sensor message failures."
+      ],
+      "odiNumbers": [
+        "11525373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling and Electrical System Failure",
+      "impact": "The sudden stalling of the vehicle can increase the risk of accidents, especially in heavy traffic, and the failure of the emergency lights can further exacerbate the situation.",
+      "symptoms": [
+        "Vehicle stalling while driving",
+        "dashboard lights going off",
+        "failure to restart",
+        "emergency lights not functioning."
+      ],
+      "odiNumbers": [
+        "11468005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Regulator Failure and Fuel Tank Float Issues",
+      "impact": "The failure of the fuel pump regulator can cause the fuel pump to fail prematurely, leading to a loss of power and potentially leaving the driver stranded in a dangerous situation. Additionally, the sticking floats in the fuel tank can cause the fuel gauge to be unreliable, leading to unexpected fuel depletion and increased risk of accidents.",
+      "symptoms": [
+        "Fuel pump failure",
+        "fuel pump regulator failure",
+        "unreliable fuel gauge",
+        "inaccurate fuel level readings",
+        "vehicle running out of gas despite fuel gauge indicating otherwise",
+        "stuck floats in the fuel tank."
+      ],
+      "odiNumbers": [
+        "11444515",
+        "11222035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inaccurate Fuel Level Readings and Fuel Gauge Malfunction",
+      "impact": "The inaccurate fuel level readings and malfunctioning fuel gauge can cause the driver to run out of gas unexpectedly, leading to a loss of power and potentially leaving the driver stranded in a dangerous situation.",
+      "symptoms": [
+        "Fuel gauge not reporting accurate fuel levels",
+        "vehicle running out of gas despite fuel gauge indicating otherwise",
+        "inaccurate remaining mileage readings",
+        "stuck floats in the fuel tank."
+      ],
+      "odiNumbers": [
+        "11222035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the Engine Control Module (ECM) can cause the vehicle to become inoperable, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "The vehicle becomes inoperable",
+        "the engine will not start",
+        "the vehicle's electrical system shuts down randomly",
+        "and the starter motor fails."
+      ],
+      "odiNumbers": [
+        "11208247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Start/Stop Function Failure",
+      "impact": "The failure of the Start/Stop function can cause the vehicle's electrical system to shut down while in traffic, leading to safety risks and accidents.",
+      "symptoms": [
+        "The vehicle's electrical system shuts down randomly",
+        "the engine will not restart",
+        "the starter motor fails",
+        "and the system requires a reboot."
+      ],
+      "odiNumbers": [
+        "11067266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

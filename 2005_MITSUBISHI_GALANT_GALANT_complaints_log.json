@@ -1,0 +1,124 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure (Glazing, Grinding, and Squeaking Noises)",
+      "impact": "The failure of the brake system can cause the vehicle to lurch forward, making it difficult to stop, which can lead to accidents.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "squeaking noise when braking",
+        "loud noise when stopping",
+        "lurching forward when braking",
+        "soft or spongy brake pedal",
+        "brake pedal sticks to the floor."
+      ],
+      "odiNumbers": [
+        "10242437",
+        "10240000",
+        "10215504",
+        "10191546"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Skid Brake System Failure (ABS/TCL)",
+      "impact": "The failure of the anti-skid brake system can cause the vehicle to lose traction, making it difficult to control, which can lead to accidents.",
+      "symptoms": [
+        "Anti-skid function fails during emergency stops",
+        "anti-skid function activates without warning",
+        "traction control light disengages while driving",
+        "ABS system malfunctions."
+      ],
+      "odiNumbers": [
+        "10167744",
+        "10163267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Light Failure (No Signal Indicating Brake Pad Wear)",
+      "impact": "The failure of the brake light system can cause the driver to be unaware of worn brake pads, leading to brake failure and potential accidents.",
+      "symptoms": [
+        "No signal indicating brake pad wear",
+        "brake light does not come on when brake pads are worn."
+      ],
+      "odiNumbers": [
+        "10215504"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Paint Defect and Fading",
+      "impact": "The premature paint fading and defect can lead to a decrease in the vehicle's appearance and resale value, causing inconvenience and financial loss to the owner.",
+      "symptoms": [
+        "Paint fading",
+        "oxidation",
+        "discoloration",
+        "paint peeling",
+        "rust spots",
+        "uneven paint finish",
+        "off-white or chalky appearance."
+      ],
+      "odiNumbers": [
+        "10559984",
+        "10447816",
+        "10407186",
+        "10295399",
+        "10285305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden drop in vehicle ride height",
+        "loud noise",
+        "rattling",
+        "and vibration while driving",
+        "tread separation from the tire",
+        "and potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11080785",
+        "10244603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure due to Explosion or Blowout",
+      "impact": "Tire explosion or blowout can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Loud noise",
+        "rattling",
+        "and vibration while driving",
+        "smell of burning metal",
+        "tire coming off the rim",
+        "and potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11080785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

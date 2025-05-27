@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various components to malfunction, including door locks, windows, and airbags, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "Door locks and windows stop working",
+        "airbag and engine lights stay on",
+        "ignition lock works erratically",
+        "intermittent operation of panel lights",
+        "and failure to start the vehicle."
+      ],
+      "odiNumbers": [
+        "10978569",
+        "10817106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure",
+      "impact": "Engine failure can cause the vehicle to stall or not start, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Engine overheating",
+        "engine failure",
+        "and smell of fuel when the tank is full."
+      ],
+      "odiNumbers": [
+        "10850095"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure to Perform Recall Notice",
+      "impact": "Failure to perform recall notices can lead to safety risks and unresolved issues with the vehicle.",
+      "symptoms": [
+        "None reported",
+        "as this is a complaint about the dealer's failure to perform a recall notice."
+      ],
+      "odiNumbers": [
+        "10263760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of replacement parts for the Takata airbag recall can leave vehicles without functional airbags, increasing the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for a recall repair",
+        "rather than a specific symptom or failure."
+      ],
+      "odiNumbers": [
+        "10863462",
+        "10794410",
+        "10781633"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Pedal Sticking Open",
+      "impact": "A stuck throttle pedal can cause unintended acceleration, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The throttle pedal becomes stuck",
+        "causing the vehicle to accelerate unexpectedly",
+        "without warning",
+        "and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "11510872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Deceleration",
+      "impact": "Engine stalling and deceleration can cause loss of control, accidents, and potentially serious injuries or fatalities, especially if it occurs at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle suddenly decelerates and stalls",
+        "often without warning",
+        "and may require restarting; the vehicle may operate normally after restarting",
+        "but the failure can recur."
+      ],
+      "odiNumbers": [
+        "11317007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "Sudden engine stalling can cause loss of vehicle control, increasing the risk of accidents, especially when driving on high-speed roads or in heavy traffic.",
+      "symptoms": [
+        "The engine suddenly stalls while driving",
+        "the vehicle may restart on its own",
+        "a strong gas smell may be present",
+        "the vehicle's onboard computer may not initially indicate any problems",
+        "but later displays a warning message to contact a dealer."
+      ],
+      "odiNumbers": [
+        "10995448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Faulty Onboard Computer Diagnostics",
+      "impact": "Inaccurate or delayed warning messages from the onboard computer can lead to delayed repairs, increased risk of accidents, and potential safety hazards.",
+      "symptoms": [
+        "The onboard computer does not initially indicate any problems",
+        "but later displays a warning message to contact a dealer",
+        "delayed or inaccurate warning messages."
+      ],
+      "odiNumbers": [
+        "10995448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

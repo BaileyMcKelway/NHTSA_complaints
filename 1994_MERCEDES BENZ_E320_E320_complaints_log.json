@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "WHEELS",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause a range of electrical issues, including faulty sensor readings, loss of power, and even fires, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Soft or brittle wiring",
+        "exposed wires",
+        "electrical malfunctions",
+        "loss of power",
+        "faulty sensor readings",
+        "failure to start",
+        "surging forward or backward",
+        "brake light malfunctions",
+        "and air conditioning system failures."
+      ],
+      "odiNumbers": [
+        "10818056",
+        "10543216",
+        "10535552",
+        "10456513",
+        "10451816"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Instrument Panel Failure",
+      "impact": "The failure of the instrument panel can cause a loss of critical information, such as speed, fuel level, and warning lights, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Failure of indicators on the panel",
+        "excluding the clock",
+        "and failure to restart the vehicle after being driven."
+      ],
+      "odiNumbers": [
+        "10593414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Factory Equipped Jack Failure",
+      "impact": "The failure of the factory equipped jack can cause the vehicle to fall, resulting in injuries to the person attempting to change the tire, and potentially leading to accidents or further damage to the vehicle.",
+      "symptoms": [
+        "The jack collapses or fails to hold the vehicle's weight",
+        "causing the vehicle to fall",
+        "resulting in injuries or damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "11101643"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Leak/Fuel System Failure",
+      "impact": "A fuel leak or fuel system failure can cause a strong gasoline odor inside the vehicle, potentially leading to a fire hazard or explosion, which can result in serious injury or death.",
+      "symptoms": [
+        "Strong gasoline odor inside the vehicle",
+        "fuel smell when driving",
+        "fuel smell when idling",
+        "fuel leak visible under the vehicle."
+      ],
+      "odiNumbers": [
+        "10700895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

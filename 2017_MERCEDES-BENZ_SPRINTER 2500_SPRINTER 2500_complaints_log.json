@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "LATCHES/LOCKS/LINKAGES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Hose Failure",
+      "impact": "The detachment of the power steering hose from the cooler can cause a sudden loss of power steering, leading to increased steering effort and potentially catastrophic consequences, especially in emergency situations or when driving a heavy vehicle.",
+      "symptoms": [
+        "Sudden loss of power steering",
+        "high steering effort",
+        "power steering fluid leakage",
+        "hose detachment from the cooler."
+      ],
+      "odiNumbers": [
+        "11349566",
+        "11101528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Crosswind Assist Failure",
+      "impact": "The failure of the crosswind assist feature can cause the vehicle to be blown off course, especially in windy conditions, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Vehicle drifts or is blown off course in windy conditions",
+        "loss of stability."
+      ],
+      "odiNumbers": [
+        "11104706"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "The delay in receiving parts for recall repairs can leave vehicles in an unsafe condition, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are unavailable",
+        "delayed repair."
+      ],
+      "odiNumbers": [
+        "11436675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Wiring Harness Failure",
+      "impact": "The failure of the engine wiring harness can cause a loss of motive power, brakes, power steering, and engine functionality, leading to a potential loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Sudden loss of power",
+        "loss of brakes",
+        "loss of power steering",
+        "and engine functionality while driving",
+        "no warning lights illuminated."
+      ],
+      "odiNumbers": [
+        "11453388"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "DEF (Diesel Exhaust Fluid) System Malfunction",
+      "impact": "The malfunction of the DEF system can cause the check engine light to come on, leading to potential engine performance issues and decreased fuel efficiency.",
+      "symptoms": [
+        "Check engine light comes on",
+        "codes 19DE00H",
+        "P16CC00",
+        "and P18F100 relating to the DEF burn",
+        "need to reset the system."
+      ],
+      "odiNumbers": [
+        "11395473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Tire Wear and Delamination",
+      "impact": "Premature tire wear and delamination can lead to a loss of traction, reduced vehicle control, and increased risk of tire blowouts, which can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Excessive tire wear on the tread",
+        "delamination of tire rubber",
+        "presence of tire rubber pieces around the tire",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "11541965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cargo Sliding Door Failure",
+      "impact": "The failure of the cargo sliding door can cause inconvenience and potentially lead to safety issues, especially in emergency situations where quick access to the cargo area is necessary.",
+      "symptoms": [
+        "The cargo sliding door fails to open from the inside or outside",
+        "the door is stuck and cannot be opened manually."
+      ],
+      "odiNumbers": [
+        "11416190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Sensor Failure",
+      "impact": "The failure of the transmission sensor can cause the transmission to shift into neutral unexpectedly, leading to a loss of acceleration and potentially causing accidents, especially in heavy traffic.",
+      "symptoms": [
+        "The transmission shifts into neutral unexpectedly",
+        "the vehicle fails to accelerate",
+        "the vehicle hesitates or stalls",
+        "the transmission slips or hesitates between gears."
+      ],
+      "odiNumbers": [
+        "11123429"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

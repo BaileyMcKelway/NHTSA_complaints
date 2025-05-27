@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to increased risk of injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "resulting in injuries or fatalities that could have been mitigated or prevented."
+      ],
+      "odiNumbers": [
+        "10187337",
+        "530783",
+        "530764",
+        "807921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, distractions, and loss of vehicle control, leading to accidents or near-misses.",
+      "symptoms": [
+        "Airbag deploys without a crash or impact",
+        "causing injuries",
+        "such as abrasions",
+        "chemical skin burns",
+        "or other harm to vehicle occupants."
+      ],
+      "odiNumbers": [
+        "10067139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Horn Failure",
+      "impact": "The intermittent failure of the horn can lead to a lack of audible warning in emergency situations, potentially causing accidents or injuries.",
+      "symptoms": [
+        "The horn fails to work",
+        "usually when the vehicle is parked",
+        "the horn is unresponsive",
+        "the horn only works occasionally."
+      ],
+      "odiNumbers": [
+        "984985"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ignition Key Dislodgement",
+      "impact": "The ability of the key to come out of the ignition when the car is not in park can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The key can come out of the ignition when the car is not in park",
+        "the key is loose in the ignition",
+        "the vehicle can roll or move unexpectedly."
+      ],
+      "odiNumbers": [
+        "962656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Flywheel Failure",
+      "impact": "The failure of the flywheel can cause the vehicle to stall while driving, leading to a loss of power and control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "difficulty starting the vehicle in cold weather",
+        "the vehicle may have trouble maintaining speed or power."
+      ],
+      "odiNumbers": [
+        "10057693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Thermostat Failure",
+      "impact": "The failure of the thermostat can cause the engine to overheat or run at suboptimal temperatures, leading to reduced engine performance, decreased fuel efficiency, and potentially causing damage to the engine.",
+      "symptoms": [
+        "The heater blows cold air",
+        "the engine overheats",
+        "the engine runs rough or misfires",
+        "the vehicle may have trouble maintaining speed or power."
+      ],
+      "odiNumbers": [
+        "10057693"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

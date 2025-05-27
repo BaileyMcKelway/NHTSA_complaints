@@ -1,0 +1,185 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause a loss of braking power, leading to accidents or loss of control, which can result in serious injury or death.",
+      "symptoms": [
+        "The ABS warning light comes on",
+        "the brakes fail to engage or engage partially",
+        "the rear wheel locks up",
+        "the vehicle pulls to one side",
+        "the brakes feel soft or spongy",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "10883550",
+        "10735021",
+        "10658863",
+        "10551591",
+        "10471250",
+        "10455950",
+        "10354461",
+        "10245019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brake can cause a loss of braking power, leading to accidents or loss of control, which can result in serious injury or death.",
+      "symptoms": [
+        "The rear brake seizes or locks up",
+        "the rear brake does not release",
+        "the vehicle stops abruptly",
+        "the rear brake makes a squealing noise",
+        "the brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10455950",
+        "10245019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause a loss of braking power, leading to accidents or loss of control, which can result in serious injury or death.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes fail to engage or engage partially",
+        "the vehicle takes longer to stop than usual",
+        "the brake fluid level is low",
+        "the brake warning light comes on."
+      ],
+      "odiNumbers": [
+        "10735021",
+        "10551591",
+        "10471250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Assembly Failure",
+      "impact": "Cracks in the plastic fuel pump assembly can cause fuel leaks, leading to a fire hazard, especially when the assembly is located near the hot engine.",
+      "symptoms": [
+        "Fuel smell",
+        "fuel mist",
+        "cracks in the fuel pump assembly",
+        "specifically where the female side of the quick disconnect screws into the pump assembly."
+      ],
+      "odiNumbers": [
+        "10444786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Idle Control Valve Malfunction",
+      "impact": "A malfunctioning idle control valve can cause the engine to idle erratically, leading to a loss of throttle response, stalling, and potentially causing accidents.",
+      "symptoms": [
+        "Idle jumps to high RPM",
+        "erratic idle",
+        "sticking idle valve plunger",
+        "lack of throttle response",
+        "stalling",
+        "sudden drops in RPM."
+      ],
+      "odiNumbers": [
+        "10250906",
+        "10247192",
+        "10245022",
+        "10231679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbox Defect",
+      "impact": "A defective airbox can cause the throttle to stick, leading to unintended acceleration, loss of engine braking, and potentially causing accidents.",
+      "symptoms": [
+        "Throttle sticking",
+        "loss of engine braking",
+        "unintended acceleration",
+        "high idle",
+        "erratic idle."
+      ],
+      "odiNumbers": [
+        "10247192",
+        "10245022",
+        "10231679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Final Drive Failure",
+      "impact": "The failure of the final drive can cause oil to leak onto the rear tire, leading to loss of control and potentially causing accidents or fatalities.",
+      "symptoms": [
+        "Oil leaking from the final drive",
+        "oil on the rear tire",
+        "bearing failure",
+        "gear oil leakage",
+        "sudden loss of traction or control",
+        "especially in corners."
+      ],
+      "odiNumbers": [
+        "10616880",
+        "10466263",
+        "10276014",
+        "10242999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause the fuel gauge to provide inaccurate readings, leading to unexpected fuel exhaustion, engine stalling, and potentially, accidents or injuries.",
+      "symptoms": [
+        "Fuel gauge shows incorrect fuel levels",
+        "sudden loss of power or stalling",
+        "no warning issued by the vehicle to the rider",
+        "fuel cap comes open while driving."
+      ],
+      "odiNumbers": [
+        "10886042",
+        "10886044",
+        "10777932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Gas Cap Failure",
+      "impact": "The failure of the gas cap can cause fuel to spill or leak while driving, leading to accidents, injuries, or fires.",
+      "symptoms": [
+        "Gas cap comes open while driving",
+        "fuel spills or leaks",
+        "rider experiences burns or other injuries."
+      ],
+      "odiNumbers": [
+        "10777932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

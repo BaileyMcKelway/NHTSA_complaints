@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause accidents, injuries, and distractions while driving, and can also lead to respiratory distress and reduced visibility inside the vehicle.",
+      "symptoms": [
+        "Airbags deploy without any collision or impact",
+        "sudden loud noise",
+        "blurring of vision",
+        "noxious fumes and dust from the airbag",
+        "respiratory distress",
+        "reduced visibility inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10749634",
+        "10239614",
+        "10189364",
+        "10147925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Direct Ignition (DI) Cassette Failure",
+      "impact": "The failure of the DI cassette can cause the check engine light to come on, and potentially lead to engine stalling or failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The check engine light comes on",
+        "engine stalling or failure",
+        "possible oxygen sensor failure."
+      ],
+      "odiNumbers": [
+        "10161279",
+        "10136454",
+        "10129404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Cable Corrosion and Battery Leakage",
+      "impact": "The corrosion of the positive lead battery cable can cause the cable to snap, leaving the driver stranded and requiring a tow, which can be a safety risk.",
+      "symptoms": [
+        "The positive lead battery cable corrodes",
+        "snaps in half",
+        "battery leakage",
+        "requiring frequent replacements."
+      ],
+      "odiNumbers": [
+        "10043577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "A faulty seat belt retractor can lead to twisted or tangled seat belts, which can compromise the safety of the occupants in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt becomes twisted or tangled",
+        "the seat belt needs to be manually untwisted or adjusted."
+      ],
+      "odiNumbers": [
+        "10638470",
+        "10372366",
+        "10052301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

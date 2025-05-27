@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent ABS Failure",
+      "impact": "The intermittent failure of the Anti-lock Braking System (ABS) can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the ABS system is not functional",
+        "the brake pedal disengages",
+        "the vehicle experiences sudden",
+        "uncontrolled movements",
+        "the ammeter gauge comes on",
+        "indicating an electrical issue related to the ABS system."
+      ],
+      "odiNumbers": [
+        "739428",
+        "709044",
+        "828366",
+        "971815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection to mitigate the impact.",
+      "symptoms": [
+        "Airbags do not deploy during a crash",
+        "resulting in injuries to occupants",
+        "including but not limited to head trauma",
+        "broken bones",
+        "and lacerations."
+      ],
+      "odiNumbers": [
+        "10711772",
+        "801585",
+        "974992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Starter Relay Failure",
+      "impact": "The failure of the starter relay can cause the starter to overheat, leading to a fire, which can result in damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The starter overheats",
+        "a fire occurs",
+        "the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "820244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Control Module",
+      "impact": "A defective control module can cause the airbag indicator lamp to be on constantly, which can lead to confusion and potentially hide other warning lights, increasing the risk of accidents.",
+      "symptoms": [
+        "The airbag indicator lamp is on constantly",
+        "other warning lights may be obscured."
+      ],
+      "odiNumbers": [
+        "529182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "An electrical system failure can cause a fire, resulting in damage to the vehicle and surrounding property, and potentially putting occupants at risk.",
+      "symptoms": [
+        "A fire occurs",
+        "smoke is present",
+        "electrical components malfunction."
+      ],
+      "odiNumbers": [
+        "814472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

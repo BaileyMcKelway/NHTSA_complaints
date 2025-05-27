@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 45,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not be properly protected.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbag warning light is illuminated",
+        "passenger seatbelt light is illuminated",
+        "seatbelts do not lock in a crash."
+      ],
+      "odiNumbers": [
+        "11466658",
+        "11020503",
+        "10910032",
+        "10884547",
+        "10795044",
+        "10794493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Issues",
+      "impact": "The airbag warning light staying on can indicate a problem with the airbag system, which may lead to the failure of airbags to deploy in a crash.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "passenger seatbelt light is illuminated."
+      ],
+      "odiNumbers": [
+        "11044817",
+        "11019423",
+        "10713190",
+        "10695270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seatbelt Failure",
+      "impact": "The failure of seatbelts to lock in a crash can lead to serious injuries or fatalities, as the vehicle's occupants may not be properly restrained.",
+      "symptoms": [
+        "Seatbelts do not lock in a crash",
+        "seatbelts do not return to their normal position."
+      ],
+      "odiNumbers": [
+        "11020503",
+        "10794493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become unable to move, which can lead to accidents, especially when driving at high speeds. It can also leave the driver stranded, posing a risk to safety.",
+      "symptoms": [
+        "The vehicle shakes or vibrates",
+        "loses power or acceleration",
+        "fails to shift gears",
+        "displays warning messages such as \"overheating\" or \"slow down",
+        "\" and may produce loud noises."
+      ],
+      "odiNumbers": [
+        "11491195",
+        "11413289",
+        "11322793",
+        "11320185",
+        "11270460",
+        "11223130",
+        "10638179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt System Failure",
+      "impact": "The failure of the seat belt system can lead to injuries or fatalities in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belt cannot be retracted",
+        "the seat belt latch becomes stuck",
+        "the seat belt cover is fractured",
+        "the seat belt rolls up quickly and can cause injury."
+      ],
+      "odiNumbers": [
+        "11433858",
+        "11416116",
+        "11221910",
+        "10615889",
+        "10522059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

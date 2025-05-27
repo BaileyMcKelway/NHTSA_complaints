@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "TIRES",
+    "POWER TRAIN",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Sudden Acceleration",
+      "impact": "Intermittent sudden acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities. It can also lead to driver anxiety and stress, making it difficult to operate the vehicle safely.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the vehicle surges forward unexpectedly",
+        "the engine RPM increases rapidly without driver input",
+        "the vehicle takes off quickly without warning."
+      ],
+      "odiNumbers": [
+        "549208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent ABS System Activation",
+      "impact": "The intermittent activation of the Anti-lock Braking System (ABS) can cause sudden and unexpected changes in vehicle speed and stability, leading to reduced control and increased risk of accidents.",
+      "symptoms": [
+        "The ABS system activates without any apparent reason",
+        "the ABS light illuminates on the dashboard",
+        "the vehicle's brakes may pulse or vibrate",
+        "the vehicle's speed may suddenly decrease",
+        "the vehicle may pull to one side."
+      ],
+      "odiNumbers": [
+        "549208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Ply Separation Failure",
+      "impact": "Tire ply separation can lead to a sudden loss of tire pressure, causing the vehicle to lose control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The tire may exhibit bulges or blisters on the sidewall",
+        "the tire may vibrate or shake while driving",
+        "the tire pressure monitoring system (TPMS) may illuminate",
+        "the tire may suddenly lose air pressure",
+        "the vehicle may pull to one side while driving."
+      ],
+      "odiNumbers": [
+        "10068348"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Transmission Failure",
+      "impact": "Premature transmission failure can cause unexpected loss of power, stalling, or inability to shift gears, leading to accidents, strandings, or costly repairs.",
+      "symptoms": [
+        "Transmission failure without warning",
+        "loss of power",
+        "stalling",
+        "inability to shift gears",
+        "unusual noises or vibrations",
+        "transmission slipping or hesitation."
+      ],
+      "odiNumbers": [
+        "10070544",
+        "10894359",
+        "10790783",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defroster Fan Motor Failure",
+      "impact": "The failure of the defroster fan motor can cause poor visibility for the driver due to a fogged-up windshield, increasing the risk of accidents.",
+      "symptoms": [
+        "The defroster fan motor fails to work",
+        "the heat vents do not blow out enough air to defrost the windshield",
+        "the windshield remains fogged up",
+        "reduced visibility while driving."
+      ],
+      "odiNumbers": [
+        "840108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

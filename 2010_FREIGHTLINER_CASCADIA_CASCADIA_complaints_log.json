@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Electrical Components",
+      "impact": "Water ingress into electrical components can cause electrical malfunctions, leading to sudden and unexpected loss of power, loss of use of wipers, and potentially even fires, which can compromise vehicle safety and operation.",
+      "symptoms": [
+        "Warning lights on the instrument panel illuminate",
+        "sudden loss of power",
+        "loss of use of wipers",
+        "smoke or burning smell from the fuse box or electrical components",
+        "electrical malfunctions."
+      ],
+      "odiNumbers": [
+        "11104628",
+        "10904288",
+        "10748067",
+        "10318610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rack and Pinion Steering Failure",
+      "impact": "The failure of the rack and pinion steering can cause loss of steering control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The steering wheel is difficult or impossible to turn",
+        "power steering fluid is leaking onto the pavement",
+        "the vehicle is unable to steer properly",
+        "the vehicle rolls over without warning."
+      ],
+      "odiNumbers": [
+        "11084800",
+        "10439180",
+        "10428748",
+        "10811608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "DPF System Regeneration Issues",
+      "impact": "The frequent regeneration of the DPF system can cause the vehicle to be inoperable for extended periods, leading to downtime and potential safety risks.",
+      "symptoms": [
+        "The DPF system regenerates frequently",
+        "taking up to 2 hours to clear",
+        "causing the vehicle to be inoperable."
+      ],
+      "odiNumbers": [
+        "10811608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Pump Problems",
+      "impact": "The failure of the oil pump can cause engine damage, leading to costly repairs and potential safety risks.",
+      "symptoms": [
+        "The oil pump fails when the vehicle stops at red lights",
+        "causing engine damage."
+      ],
+      "odiNumbers": [
+        "10811608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "King Pin Problems",
+      "impact": "The failure of the king pin can cause loss of steering control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The king pin is faulty",
+        "causing steering problems."
+      ],
+      "odiNumbers": [
+        "10811608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to fail to start, leading to inconvenience and potential safety risks, especially if the vehicle is stranded on a busy road or in a hazardous location.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "multiple warning lights illuminate on the dashboard",
+        "including the stability control",
+        "check engine",
+        "fuel",
+        "and oil pressure lights."
+      ],
+      "odiNumbers": [
+        "10747557"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

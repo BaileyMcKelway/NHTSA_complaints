@@ -1,0 +1,45 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 1,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "DEF Header Failure",
+      "impact": "The failure of the DEF (Diesel Exhaust Fluid) header can cause the vehicle to be disabled, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The vehicle becomes disabled",
+        "unable to operate due to the failure of the DEF header",
+        "which is an essential emissions component."
+      ],
+      "odiNumbers": [
+        "11586758",
+        "11586760",
+        "11586768",
+        "11586782",
+        "11586786",
+        "11586793",
+        "11586806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Non-Compliant Vehicle Certification",
+      "impact": "The use of non-compliant vehicles, such as buses built on Freightliner chassis, can pose safety risks to occupants and other road users, as they may not meet federal safety standards.",
+      "symptoms": [
+        "Vehicles may not meet federal safety standards",
+        "potentially leading to safety risks and accidents."
+      ],
+      "odiNumbers": [
+        "11472393"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

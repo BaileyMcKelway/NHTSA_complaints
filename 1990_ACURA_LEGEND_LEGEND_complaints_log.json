@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause complete brake failure, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The brakes cease to function",
+        "the brake pedal goes to the floor",
+        "the brake pedal has no pressure",
+        "the vehicle is unable to stop",
+        "the master cylinder needs to be replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "10910312",
+        "984381",
+        "973548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to malfunction, leading to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the pump runs constantly making a clicking noise",
+        "the ABS system fails intermittently",
+        "the brake pedal goes to the floor",
+        "the ABS modulator fails",
+        "the brakes fail to function."
+      ],
+      "odiNumbers": [
+        "725379",
+        "724217",
+        "848763",
+        "541455",
+        "972541",
+        "965878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause accidents or loss of control of the vehicle due to unpredictable braking performance.",
+      "symptoms": [
+        "The brakes fail intermittently",
+        "the brake pedal goes to the floor",
+        "the brakes return to normal function after pumping",
+        "the brakes fail to function without warning."
+      ],
+      "odiNumbers": [
+        "503055",
+        "972877"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Late or Inappropriate Airbag Deployment",
+      "impact": "Late or inappropriate airbag deployment can cause unnecessary injuries, including facial trauma, eye damage, and vision loss, which can lead to long-term health consequences and affect the driver's ability to operate the vehicle safely.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "airbag deploys with excessive force",
+        "airbag fumes are strong and irritating",
+        "airbag deployment causes facial swelling",
+        "airbag deployment causes eye injuries",
+        "airbag deployment leads to vision loss."
+      ],
+      "odiNumbers": [
+        "10605981",
+        "8002220",
+        "705714",
+        "812375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, vibrate, or stall, leading to a loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission slips",
+        "vehicle vibrates when accelerating",
+        "transmission fails to engage",
+        "transmission needs to be replaced",
+        "transmission failure occurs at low mileage."
+      ],
+      "odiNumbers": [
+        "768050",
+        "714023",
+        "976663",
+        "481587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

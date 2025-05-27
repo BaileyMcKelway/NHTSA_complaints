@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose acceleration, shut off, or downshift unexpectedly, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses acceleration",
+        "a grinding metal noise emerges from the engine",
+        "the check engine warning light is illuminated",
+        "the vehicle shuts off",
+        "and the transmission fails to engage gears."
+      ],
+      "odiNumbers": [
+        "11513086",
+        "11120013",
+        "11003064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Downshifting",
+      "impact": "Unintended downshifting can cause the vehicle to lose control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle downshifts unexpectedly",
+        "the vehicle shuts off",
+        "and the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11513086",
+        "11120013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignoring Recall Issues",
+      "impact": "Ignoring recall issues can lead to serious safety consequences, including accidents or injuries, as well as financial losses for the vehicle owner.",
+      "symptoms": [
+        "Dealerships or manufacturers fail to acknowledge or repair recall issues",
+        "leading to ongoing problems with the vehicle."
+      ],
+      "odiNumbers": [
+        "11120013"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of the airbag to deploy in the event of a crash, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the airbag fails to deploy in a crash",
+        "the seatbelt warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11453629",
+        "11376057",
+        "10945238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Seatbelt System Failure",
+      "impact": "The failure of the seatbelt system can lead to the failure of the seatbelt to properly restrain the occupant in the event of a crash, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The seatbelt warning light illuminates on the dashboard",
+        "the seatbelt fails to properly restrain the occupant in a crash",
+        "the airbag warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10945238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become difficult to turn, making it challenging to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel becomes very difficult to turn",
+        "the vehicle has a loss of powertrain",
+        "the power steering does not function",
+        "the vehicle is hard to control",
+        "the steering wheel seizes."
+      ],
+      "odiNumbers": [
+        "11150780",
+        "10573754"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "VISIBILITY/WIPER",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The vehicle's sudden and unintended acceleration can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "the engine revs loudly",
+        "the vehicle shakes or stalls while depressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "11512377",
+        "11187145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wheel Speed Sensor Malfunction",
+      "impact": "The failure of the wheel speed sensors can cause the ABS braking and stability control systems to malfunction, leading to reduced vehicle safety and increased risk of accidents.",
+      "symptoms": [
+        "No ABS braking",
+        "no stability control",
+        "faulty parts creating ongoing safety problems."
+      ],
+      "odiNumbers": [
+        "11477365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Repair of Recall Items",
+      "impact": "Failure to properly repair recall items can lead to safety risks, including multiple warning lights, and potentially cause accidents or injuries.",
+      "symptoms": [
+        "Multiple warning lights on the dashboard",
+        "transmission issues",
+        "potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11428883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed Recall Repairs for Takata Airbags",
+      "impact": "Delayed repairs for Takata airbag recalls can lead to increased risk of injury or fatality in the event of an accident, as the faulty airbags may not deploy properly.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the delay in repair rather than a specific symptom."
+      ],
+      "odiNumbers": [
+        "11093380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Diesel Exhaust Fluid (DEF) System",
+      "impact": "The malfunctioning DEF system can cause the Check Engine and DEF lights to illuminate, leading to potential engine damage and decreased performance. This issue can also result in increased emissions, which may lead to environmental harm and potential fines.",
+      "symptoms": [
+        "The Check Engine and DEF lights come on",
+        "the DEF tank can only hold a small amount of fluid (e.g.",
+        "a quart)",
+        "the lights clear after adding a small amount of DEF and restarting the engine",
+        "but return shortly after."
+      ],
+      "odiNumbers": [
+        "11151256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Emissions Warranty Concerns",
+      "impact": "The failure of the manufacturer to cover the DEF system issue under the emissions warranty can lead to significant financial burdens for vehicle owners, who may be forced to pay for repairs or replacements out of pocket.",
+      "symptoms": [
+        "Vehicle owners are denied warranty coverage for DEF system repairs or replacements",
+        "despite the issue being related to emissions."
+      ],
+      "odiNumbers": [
+        "11151256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiper Design Defect",
+      "impact": "The design of the wiper system can cause a significant safety risk during snowy conditions, as ice builds up under the wiper blades, obstructing the driver's visibility, and requiring frequent manual cleaning, which can be distracting and hazardous while driving.",
+      "symptoms": [
+        "Ice builds up under the wiper blades",
+        "wiper blades do not clear snow and ice effectively",
+        "wiper blades need to be manually cleaned every 20 minutes",
+        "reduced visibility while driving in snowy conditions."
+      ],
+      "odiNumbers": [
+        "10565211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Wiper De-Icing Feature",
+      "impact": "The absence of a wiper de-icing feature can lead to reduced visibility and increased stopping distances, increasing the risk of accidents, especially during snowy and icy conditions.",
+      "symptoms": [
+        "Wiper blades freeze to the windshield",
+        "wiper blades do not clear snow and ice effectively",
+        "reduced visibility while driving in snowy conditions."
+      ],
+      "odiNumbers": [
+        "10565211"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Lighting System Failure",
+      "impact": "The failure of the electrical lighting system can reduce visibility, increasing the risk of accidents, especially at night or in low-light conditions. It can also lead to traffic violations and fines due to non-functional lights.",
+      "symptoms": [
+        "Headlights",
+        "directional lights",
+        "parking lights",
+        "and tail lights fail or go out frequently",
+        "requiring repeated replacements",
+        "and the left rear fog light does not function even after replacing the bulb."
+      ],
+      "odiNumbers": [
+        "10559244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

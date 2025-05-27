@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "TIRES",
+    "STRUCTURE",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front End Alignment Issue",
+      "impact": "The persistent front end alignment issue can cause uneven tire wear, leading to reduced tire life, and potentially cause a tire blowout, which can result in loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The front end of the vehicle will not keep aligned",
+        "tires wear out constantly",
+        "tires need to be replaced frequently",
+        "uneven tire wear",
+        "tire blowout on the interstate."
+      ],
+      "odiNumbers": [
+        "723768",
+        "723769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Line Chafing and Fluid Leak",
+      "impact": "The chafing of the brake line on the transmission housing can cause a brake fluid leak, leading to a loss of brake pressure, which can result in extended stopping distances, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "Brake fluid leak",
+        "spongy brake pedal",
+        "brake pedal feels soft",
+        "loss of brake pressure",
+        "vehicle takes longer to stop",
+        "vehicle pulls to one side when braking."
+      ],
+      "odiNumbers": [
+        "517027",
+        "958550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Performance Issues in Rainy Weather",
+      "impact": "The vehicle's brake performance issues in rainy weather can cause the vehicle to slide out of control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Vehicle slides out of control when brakes are applied in rainy weather",
+        "vehicle takes longer to stop",
+        "vehicle pulls to one side when braking",
+        "loss of traction."
+      ],
+      "odiNumbers": [
+        "958550"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Weld Failure between Bumper and \"U\" Shaped Mounting Channels",
+      "impact": "The failure of the welds between the bumper and \"U\" shaped mounting channels can cause the bumper to detach from the vehicle, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The bumper is loose or detached",
+        "the welds between the bumper and \"U\" shaped mounting channels are cracked or broken",
+        "the vehicle's structural integrity is compromised."
+      ],
+      "odiNumbers": [
+        "517027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

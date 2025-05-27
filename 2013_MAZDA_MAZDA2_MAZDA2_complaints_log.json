@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Rack Failure",
+      "impact": "The failure of the power steering rack can cause a loss of steering control, leading to accidents or loss of vehicle control, especially during low-speed turns.",
+      "symptoms": [
+        "Audible clunking or popping noise while turning",
+        "vibration",
+        "excessive play in the steering mechanism",
+        "rattling noise and knocking of the steering column."
+      ],
+      "odiNumbers": [
+        "11072302",
+        "11045823",
+        "10959631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Energy Absorber Shaft Failure",
+      "impact": "The failure of the energy absorber shaft can cause excessive play in the steering mechanism, leading to a loss of steering control and potentially causing accidents.",
+      "symptoms": [
+        "Clunking noise and feel",
+        "excessive play in the steering mechanism during low-speed turns."
+      ],
+      "odiNumbers": [
+        "11072302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Knuckle Failure",
+      "impact": "The failure of the steering knuckle can cause a loss of steering control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Rattling noise and knocking of the steering column."
+      ],
+      "odiNumbers": [
+        "10959631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Malfunction Causing Fire",
+      "impact": "An electrical malfunction can cause a fire in the vehicle, potentially leading to serious injury or death.",
+      "symptoms": [
+        "Smoke appears from the CD player",
+        "flames appear from the dashboard",
+        "hot ignition switch and fob key."
+      ],
+      "odiNumbers": [
+        "11202993",
+        "10605041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Height Adjuster Mechanism Failure",
+      "impact": "The failure of the seat height adjuster mechanism can cause the driver's seat to become unattached or unstable, leading to a loss of control while driving, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The seat feels loose or unstable",
+        "the seat rocks back and forth",
+        "the seat moves up and down excessively",
+        "the seat becomes detached from the floor-mounted slides or brackets."
+      ],
+      "odiNumbers": [
+        "11161498",
+        "11105202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

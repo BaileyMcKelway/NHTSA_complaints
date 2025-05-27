@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABC Hydraulic System Failure",
+      "impact": "The failure of the ABC hydraulic system can cause the vehicle's suspension to malfunction, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "The vehicle's suspension acts erratically",
+        "raising and lowering violently",
+        "causing loss of control",
+        "the vehicle's ride height suddenly drops",
+        "hydraulic fluid leaks",
+        "smoke pours from under the vehicle",
+        "and the wheels sit on top of the wheel well."
+      ],
+      "odiNumbers": [
+        "10759767",
+        "10455052",
+        "10408522",
+        "10402966",
+        "10259130",
+        "10158817"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABC Hydraulic Hose Corrosion and Failure",
+      "impact": "The corrosion and failure of the ABC hydraulic hose can cause hydraulic fluid leaks, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "Hydraulic fluid leaks",
+        "smoke pours from under the vehicle",
+        "and the vehicle's ride height suddenly drops."
+      ],
+      "odiNumbers": [
+        "10759767",
+        "10455052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABC Pressure Control Valve Failure",
+      "impact": "The failure of the ABC pressure control valve can cause the vehicle's suspension to malfunction, leading to loss of control, accidents, and potential fires.",
+      "symptoms": [
+        "The vehicle's suspension acts erratically",
+        "raising and lowering violently",
+        "causing loss of control",
+        "and hydraulic fluid leaks."
+      ],
+      "odiNumbers": [
+        "10259130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Cooler Failure and Engine Oil Leaks",
+      "impact": "The failure of the oil cooler can cause massive engine oil leaks, which can lead to a serious fire safety issue, engine damage, and loss of control while driving.",
+      "symptoms": [
+        "Engine oil leaks",
+        "oil dripping onto hot engine components",
+        "oil smell inside the vehicle",
+        "engine noise or knocking",
+        "difficulty starting the engine",
+        "loss of engine performance."
+      ],
+      "odiNumbers": [
+        "10414034",
+        "10395688",
+        "10250393"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Active Body Control (ABC) System Failure",
+      "impact": "The failure of the Active Body Control (ABC) system can cause a loss of vehicle stability and control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Leaking ABC fluid",
+        "broken ABC system",
+        "uneven tire wear",
+        "abnormal vehicle ride height",
+        "reduced vehicle stability",
+        "and difficulty steering."
+      ],
+      "odiNumbers": [
+        "11129621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

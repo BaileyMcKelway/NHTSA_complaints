@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "BACK OVER PREVENTION",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure and Unavailability of Recall Repair Parts",
+      "impact": "The failure of the tires can cause loss of control, accidents, and injuries. The unavailability of recall repair parts can leave vehicles unrepaired, putting drivers at risk.",
+      "symptoms": [
+        "Tire cracking",
+        "tire blowout",
+        "tire warning light illumination",
+        "inability to repair due to unavailability of parts."
+      ],
+      "odiNumbers": [
+        "11588459",
+        "11587375",
+        "11581129",
+        "11573468",
+        "11567033",
+        "11555264",
+        "11547935",
+        "11535823",
+        "11505212",
+        "11504008",
+        "11362270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unavailability of Recall Parts for Back Over Prevention (22V099000)",
+      "impact": "The unavailability of recall parts for the Back Over Prevention system can lead to a delay in the repair, potentially causing a driving hazard due to the malfunctioning rear back-up camera, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "The rear back-up camera displays a blank image or freezes",
+        "creating a driving hazard."
+      ],
+      "odiNumbers": [
+        "11510574",
+        "11495673",
+        "11492946"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unavailability of Recall Parts for Tire Wear (22V482000)",
+      "impact": "The unavailability of recall parts for the tire wear issue can lead to a delay in the repair, potentially causing uneven tire wear, loss of traction, and increased risk of accidents or injuries.",
+      "symptoms": [
+        "Excessive tire wear on all four tires",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "11492946"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The parts distribution disconnect can lead to a delay in the repair of safety-critical systems, potentially causing a driving hazard and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Unavailability of recall parts",
+        "delay in repair",
+        "manufacturer exceeding a reasonable amount of time for recall repair."
+      ],
+      "odiNumbers": [
+        "11510574",
+        "11495673",
+        "11492946"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electric Power Steering Rack Failure",
+      "impact": "The failure of the electric power steering rack can cause the power steering system to malfunction, making it difficult to steer the vehicle, especially at higher speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "The power steering malfunction warning illuminates",
+        "a clicking sound comes from the steering wheel",
+        "the power steering assist is lost",
+        "the vehicle is difficult to steer",
+        "especially at higher speeds."
+      ],
+      "odiNumbers": [
+        "11512770",
+        "11431169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

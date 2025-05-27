@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, or loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "The driver's side airbag deploys without reason",
+        "while driving",
+        "without any collision or impact."
+      ],
+      "odiNumbers": [
+        "845510",
+        "805937",
+        "987215",
+        "986575",
+        "509259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag to Deploy",
+      "impact": "Failure of the airbag to deploy in the event of an accident can lead to increased risk of injury or fatality.",
+      "symptoms": [
+        "No deployment of the driver's airbag during an accident",
+        "resulting in injury."
+      ],
+      "odiNumbers": [
+        "490801",
+        "476790"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Driveshaft Failure Causing Airbag Deployment",
+      "impact": "Driveshaft failure can cause unintended airbag deployment, leading to injuries or distractions, and potentially causing accidents.",
+      "symptoms": [
+        "Driveshaft failure resulting in airbag deployment."
+      ],
+      "odiNumbers": [
+        "979303"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause loss of control, accidents, or near-misses.",
+      "symptoms": [
+        "Vehicle suddenly accelerates",
+        "resulting in loss of control and collision."
+      ],
+      "odiNumbers": [
+        "490801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Linkage Failure",
+      "impact": "The failure of the throttle linkage can cause sudden acceleration, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "loss of control",
+        "inoperable gas pedal",
+        "throttle linkage breaks while driving."
+      ],
+      "odiNumbers": [
+        "490801",
+        "965446",
+        "481408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Anchor or Bolt Failure",
+      "impact": "The failure of the seat belt anchor or bolt can cause the seat belt to malfunction, leading to potential injuries or fatalities in the event of an accident, as well as hearing loss due to the loud noise caused by the bolt \"firing\".",
+      "symptoms": [
+        "The seat belt locks up",
+        "the seat belt anchor or bolt \"fires\" or makes a loud noise",
+        "the seat belt is unable to be fastened or unfastened."
+      ],
+      "odiNumbers": [
+        "509259",
+        "979303"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

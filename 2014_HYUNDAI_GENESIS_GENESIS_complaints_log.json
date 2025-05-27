@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Pedal Sensor Failure (Dead Pedal)",
+      "impact": "The failure of the accelerator pedal sensor can cause the vehicle to not move, even when the accelerator pedal is applied, leading to a very unsafe situation in traffic.",
+      "symptoms": [
+        "The vehicle does not respond to accelerator pedal input",
+        "the car will not move",
+        "the accelerator pedal feels unresponsive."
+      ],
+      "odiNumbers": [
+        "11523440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling/Shutting Off",
+      "impact": "The engine stalling or shutting off without warning can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The engine shuts off or stalls without warning",
+        "the vehicle comes to a stop or slows down unexpectedly",
+        "the vehicle can be restarted immediately."
+      ],
+      "odiNumbers": [
+        "11256395",
+        "11099504"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Headlight Malfunction (Flashing or Staying Off)",
+      "impact": "The malfunction of the headlights can reduce visibility, increase the risk of accidents, and compromise safety, especially at night.",
+      "symptoms": [
+        "The headlights flash off or stay off when using the turn signals",
+        "the headlights turn off and stay off when completing a turn",
+        "the headlights can be restored by jogging the turn signal lever."
+      ],
+      "odiNumbers": [
+        "11052889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially if the vehicle accelerates while in park or drive gear.",
+      "symptoms": [
+        "The vehicle accelerates without pressing the accelerator pedal",
+        "the engine RPM increases suddenly",
+        "the vehicle moves forward or backward without driver input",
+        "the brakes are engaged but the vehicle continues to move",
+        "the vehicle accelerates while in park or drive gear."
+      ],
+      "odiNumbers": [
+        "11222199",
+        "11172274",
+        "11016406",
+        "11002976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "HECU (Hydraulic Electronic Control Unit) Failure",
+      "impact": "The failure of the HECU unit can cause intermittent brake pedal to the floor issues, leading to reduced braking performance, increased stopping distances, and a higher risk of accidents. Additionally, the failure can also cause brake binding, making the vehicle difficult to control.",
+      "symptoms": [
+        "Intermittent brake pedal to the floor",
+        "reduced braking performance",
+        "increased stopping distances",
+        "brake binding",
+        "dashboard warning lights illuminating."
+      ],
+      "odiNumbers": [
+        "11582499",
+        "11561810",
+        "11561447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Carbon Buildup on Throttle Body",
+      "impact": "Excessive carbon buildup on the throttle body can cause the engine to stall without warning, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine shuts off while driving",
+        "the vehicle experiences a sudden loss of power",
+        "the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11419883",
+        "11174359",
+        "11060718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Fires",
+      "impact": "The failure of the electrical system can cause fires in the vehicle, resulting in damage to the vehicle, injury to occupants, and potentially even fatalities.",
+      "symptoms": [
+        "Smoke emanating from the dashboard",
+        "console area",
+        "or fuse box",
+        "burning smell",
+        "occupants' clothes catching on fire",
+        "engine compartment fire."
+      ],
+      "odiNumbers": [
+        "971833",
+        "962030",
+        "960756",
+        "960223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the vehicle to lose control while braking, leading to accidents or near-miss situations, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates on the dashboard",
+        "the brakes make noise when applied",
+        "the brakes fail intermittently",
+        "the vehicle experiences brake failure",
+        "the ABS system fails to engage when needed."
+      ],
+      "odiNumbers": [
+        "858984",
+        "967784",
+        "481265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause the vehicle to lose control while braking, leading to accidents or near-miss situations, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The brakes fail intermittently",
+        "the vehicle experiences brake failure",
+        "the brakes make noise when applied",
+        "the ABS light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "858984",
+        "967784",
+        "481265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure leading to Fire Hazard",
+      "impact": "A fuel system failure can cause a vehicle fire, which can result in serious injury or death, as well as significant property damage.",
+      "symptoms": [
+        "The vehicle suddenly catches fire",
+        "often while parked",
+        "with the fire originating from the fuel tank or fuel line area."
+      ],
+      "odiNumbers": [
+        "977667",
+        "486246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Line Leak",
+      "impact": "A fuel line leak can cause a fire hazard, as fuel can spill onto the road or ignite from an ignition source, leading to a vehicle fire.",
+      "symptoms": [
+        "Fuel leaking from the fuel line under the vehicle",
+        "often near the fuel tank or center of the undercarriage."
+      ],
+      "odiNumbers": [
+        "486246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Electrical Short",
+      "impact": "An electrical short in the fuel system can cause a fire hazard, as well as lead to engine stalling or failure, which can increase the risk of an accident.",
+      "symptoms": [
+        "The fuel system shorts out",
+        "often causing the engine to stall or fail."
+      ],
+      "odiNumbers": [
+        "481265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Malfunction and Fire Hazard",
+      "impact": "The malfunction of the driver's seat can cause a fire, resulting in burns to occupants and potentially leading to a vehicle fire, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "The driver's seat starts to burn",
+        "occupants' clothes catch on fire",
+        "engine compartment fire",
+        "uncontrolled seat movement",
+        "and sudden collapse of the seat back."
+      ],
+      "odiNumbers": [
+        "971833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Adjustable Driver's Seat Back Failure",
+      "impact": "The sudden collapse of the adjustable driver's seat back can cause loss of control, accidents, and potential injuries to the driver and occupants.",
+      "symptoms": [
+        "The driver's seat back collapses with no warning",
+        "sudden loss of seat support",
+        "and uncontrolled seat movement."
+      ],
+      "odiNumbers": [
+        "971686"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

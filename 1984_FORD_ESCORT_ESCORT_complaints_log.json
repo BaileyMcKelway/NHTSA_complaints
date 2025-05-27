@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Electrical Short/Failure",
+      "impact": "The electrical short or failure of the ignition switch can cause the vehicle to stall or catch fire, leading to a potential loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The vehicle suddenly stops running without warning",
+        "the vehicle catches fire in the engine compartment",
+        "the ignition switch overheats",
+        "the vacuum pump fails."
+      ],
+      "odiNumbers": [
+        "896014",
+        "986412",
+        "505692",
+        "504266",
+        "983965",
+        "983580",
+        "983329",
+        "983050",
+        "982927",
+        "979471",
+        "481987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt/Seatback Failure",
+      "impact": "The failure of the seatbelt or seatback can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The driver's side seatbelt will not connect",
+        "the passenger's side seatback broke and will not go up."
+      ],
+      "odiNumbers": [
+        "896014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Gasket Failure (Recall 89V095000)",
+      "impact": "The failure of the engine gasket can cause coolant leaks, engine fires, and poor engine performance, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine fires",
+        "fumes emanating from the back of the vehicle",
+        "cracked engine head",
+        "cracked engine gasket",
+        "engine performance issues."
+      ],
+      "odiNumbers": [
+        "895921",
+        "816851",
+        "484033",
+        "479626",
+        "958930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt breaks",
+        "the seat belt retractor mechanism fails",
+        "the seat belt is difficult to latch",
+        "broken pieces of the plastic sleeve covering the front seat belt buckles fall into the latching mechanism."
+      ],
+      "odiNumbers": [
+        "10009644",
+        "980380",
+        "965711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

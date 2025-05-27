@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Switch Failure",
+      "impact": "The failure of the rear brake switch can cause a loss of rear braking ability, leading to a significant reduction in stopping power and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal travels all the way down",
+        "loss of rear braking ability",
+        "brake fluid leakage",
+        "melted wiring."
+      ],
+      "odiNumbers": [
+        "11124446",
+        "11047371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause a loss of braking ability, leading to a significant reduction in stopping power and increased risk of accidents.",
+      "symptoms": [
+        "Loss of rear braking ability",
+        "brake pedal travels all the way down",
+        "inability to slow down safely."
+      ],
+      "odiNumbers": [
+        "11047371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Failure of Compensator and Sprocket",
+      "impact": "The premature failure of the compensator and sprocket can lead to catastrophic engine failure, which can cause accidents and potentially result in serious injury or death.",
+      "symptoms": [
+        "Excessive vibration",
+        "loud \"bang\" during hot starts",
+        "loud clunk sound from the primary chain case when shutting off the engine."
+      ],
+      "odiNumbers": [
+        "10783832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Loss of Gear Shift and Heel-Toe Shift Levers",
+      "impact": "The loss of gear shift and heel-toe shift levers can cause the rider to lose control of the motorcycle, leading to accidents and potentially resulting in serious injury or death.",
+      "symptoms": [
+        "Gear shift and heel-toe shift levers fall off while riding",
+        "leaving no mechanism for changing gears."
+      ],
+      "odiNumbers": [
+        "10690884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Harley-Davidson Electronic Throttle Control (ETC) System Failure",
+      "impact": "The failure of the ETC system can cause the motorcycle to suddenly go into limp mode, resulting in a loss of power and speed, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "The motorcycle suddenly goes into limp mode",
+        "speed drops to a low speed (e.g.",
+        "15 mph)",
+        "and the motorcycle will not accelerate above the low speed",
+        "the check engine light comes on",
+        "error code PO577 is displayed",
+        "cruise control malfunctions."
+      ],
+      "odiNumbers": [
+        "10509345",
+        "10339675"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering/Handling Issue - Left Pull",
+      "impact": "The vehicle's tendency to pull to the left when hands are taken off the handlebars can cause the bike to cross the center line, leading to accidents or near-misses, and potentially resulting in serious injury or fatality.",
+      "symptoms": [
+        "The bike pulls to the left when constant pressure is not applied to the handlebars",
+        "requiring the rider to lean far to the right to maintain a straight course",
+        "and may even cross the center line if left uncorrected."
+      ],
+      "odiNumbers": [
+        "10343268",
+        "10339611"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

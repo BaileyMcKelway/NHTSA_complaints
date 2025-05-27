@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause fuel to leak, potentially leading to a fire hazard, and can also cause the engine to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Fuel leaking from the upper left fairing area",
+        "fuel spewing out with force",
+        "engine stalling or losing power."
+      ],
+      "odiNumbers": [
+        "11172736",
+        "11092504",
+        "11005469",
+        "10492199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body Pulley Failure",
+      "impact": "The failure of the throttle body pulley can cause the throttle to stick, leading to loss of control and potential accidents, especially if it occurs while in motion.",
+      "symptoms": [
+        "Throttle body pulleys snapping suddenly",
+        "throttle sticking",
+        "engine going to idle",
+        "loss of power and control."
+      ],
+      "odiNumbers": [
+        "11023849",
+        "10671553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause inaccurate fuel level readings, leading to potential running out of fuel, stalling, or engine damage.",
+      "symptoms": [
+        "Fuel level sensor not working properly",
+        "inaccurate fuel level readings",
+        "fuel level sensor failure."
+      ],
+      "odiNumbers": [
+        "10485368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Differential (Final Drive) Failure",
+      "impact": "The failure of the rear differential (final drive) can cause loss of traction, vibration, and sudden brake failure, leading to accidents or leaving the rider stranded.",
+      "symptoms": [
+        "Grinding and squealing noises from the rear of the vehicle",
+        "loss of traction",
+        "vibration",
+        "brake failure warning light illumination",
+        "gear oil leakage",
+        "and resistance in the rear wheel."
+      ],
+      "odiNumbers": [
+        "11092807",
+        "10641062",
+        "10525757",
+        "10446392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Sensor Failure",
+      "impact": "The failure of the fuel sensor can cause the fuel gauge to display incorrect information, leading to unexpected fuel depletion, which can result in accidents, especially on high-speed roads, and may require emergency assistance.",
+      "symptoms": [
+        "The fuel gauge shows incorrect or inconsistent readings",
+        "the fuel gauge suddenly drops to empty",
+        "the vehicle runs out of fuel despite the gauge indicating remaining fuel",
+        "the analog and digital gauges display different readings."
+      ],
+      "odiNumbers": [
+        "10514560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

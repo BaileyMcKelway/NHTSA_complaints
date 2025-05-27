@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of serious injury or death to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a front-end crash",
+        "airbags do not deploy in a side impact",
+        "airbags do not deploy despite significant damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "890568",
+        "557553",
+        "608090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of airbag sensors can prevent airbags from deploying in a crash, increasing the risk of serious injury or death to occupants.",
+      "symptoms": [
+        "Airbag sensor failure",
+        "airbag warning light illuminates",
+        "airbags do not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "608090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to malfunction, leading to safety risks such as smoke emission, electrical system failure, and potential fires, which can result in accidents or injuries.",
+      "symptoms": [
+        "The ignition switch fails to turn",
+        "emits smoke",
+        "instrument panel lights fail to illuminate",
+        "the vehicle is difficult or impossible to start",
+        "and the ignition switch overheats."
+      ],
+      "odiNumbers": [
+        "10861969",
+        "10822861",
+        "10818944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Fire",
+      "impact": "The electrical system failure can cause a fire, resulting in complete destruction of the vehicle, and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Loud noise when attempting to start the vehicle",
+        "smoke appearing from the steering column",
+        "and vehicle catching fire."
+      ],
+      "odiNumbers": [
+        "10255863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The power steering system failure can cause loss of control of the vehicle, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Delayed response of the wheels to steering input",
+        "loss of control of the vehicle",
+        "and inconsistent steering behavior."
+      ],
+      "odiNumbers": [
+        "10128300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

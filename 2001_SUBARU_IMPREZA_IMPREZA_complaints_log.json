@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "A sudden tire blowout can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "soft spot on the sidewall",
+        "tire failure while driving",
+        "loss of air pressure."
+      ],
+      "odiNumbers": [
+        "10156019",
+        "752692"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incorrect Tire Installation",
+      "impact": "Installing tires in the wrong direction can compromise their performance, particularly in wet conditions, leading to loss of traction, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Hydroplaning",
+        "loss of control",
+        "tire failure",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "742383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Over-Sensitive ABS System",
+      "impact": "The over-sensitivity of the ABS system can cause lengthened stopping distances, a feeling of lack of control, and potentially lead to accidents, especially when driving on uneven roads or downhill.",
+      "symptoms": [
+        "The ABS system engages unnecessarily",
+        "causing the brake pedal to drop",
+        "and the brakes to pump excessively",
+        "even on small bumps or road imperfections."
+      ],
+      "odiNumbers": [
+        "10043644",
+        "10023382"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Brake Rotors",
+      "impact": "The surface imperfections on the brake rotors can cause incomplete brake shoe contact, leading to uneven brake wear, grinding noises, and potentially unsafe braking performance.",
+      "symptoms": [
+        "Brake shoes wear out prematurely (before 5000 miles)",
+        "grinding noises are heard when braking",
+        "and concentric grooves appear on the rotor surface."
+      ],
+      "odiNumbers": [
+        "752298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Vapor Leak into Cabin",
+      "impact": "The fuel vapor leak into the cabin can cause health risks to occupants, especially in enclosed spaces, and may lead to fires or explosions in extreme cases.",
+      "symptoms": [
+        "Strong gas or fuel odor inside the vehicle cabin",
+        "especially when starting the engine in cold temperatures",
+        "the smell may dissipate after a short period of time."
+      ],
+      "odiNumbers": [
+        "10819208",
+        "10794311",
+        "10763771",
+        "10734988",
+        "10650766",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "AIR BAGS",
+    "STRUCTURE",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Material Failure",
+      "impact": "The failure of the fuel tank material can cause fuel leaks, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Strong gasoline fumes",
+        "fuel smell in the vehicle",
+        "fuel leaks from the fuel tank or filler neck",
+        "cracks in the fuel tank",
+        "corrosion and rust around the fuel filler neck area."
+      ],
+      "odiNumbers": [
+        "8021358",
+        "703359",
+        "701601",
+        "830218",
+        "829861",
+        "541957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Filler Neck Solder Joint Failure",
+      "impact": "The failure of the fuel filler neck solder joint can cause fuel leaks, which can lead to fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Fuel leaks from the fuel filler neck solder joint area",
+        "corrosion and rust around the fuel filler neck area",
+        "strong gasoline fumes",
+        "fuel smell in the vehicle."
+      ],
+      "odiNumbers": [
+        "830218",
+        "829861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Recall Repair",
+      "impact": "The inadequate repair of the fuel tank or fuel filler neck during the recall can cause the problem to reoccur, leading to fuel leaks, fires, accidents, or environmental hazards.",
+      "symptoms": [
+        "Fuel leaks or fuel smell after recall repair",
+        "corrosion and rust around the fuel filler neck area",
+        "strong gasoline fumes."
+      ],
+      "odiNumbers": [
+        "830218",
+        "541957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Computer Module Failure",
+      "impact": "The failure of the airbag computer module can cause the airbag system to malfunction, leading to either unwanted airbag deployments or the failure of airbags to deploy in the event of a crash, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag sensor light remains on",
+        "airbags deploy unexpectedly",
+        "airbags fail to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "780612",
+        "827124",
+        "817955",
+        "984737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Damage/Fracture",
+      "impact": "A broken or cracked frame can compromise the structural integrity of the vehicle, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Front passenger tire wiggles or vibrates while driving",
+        "loss of control of the vehicle",
+        "difficulty opening doors due to frame movement."
+      ],
+      "odiNumbers": [
+        "8018396",
+        "764242",
+        "879487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a loss of stopping power, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels to the floor",
+        "uneven brake wear",
+        "excessive front brake wear",
+        "damaged rotors",
+        "worn-out brake pads",
+        "and uneven tire wear."
+      ],
+      "odiNumbers": [
+        "715955",
+        "531127",
+        "962046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause the steering wheel to come loose or detach, leading to a loss of vehicle control, which can result in accidents or injuries.",
+      "symptoms": [
+        "The steering wheel comes off in the driver's hands",
+        "the steering column is loose",
+        "the steering wheel is difficult to turn",
+        "the steering wheel requires excessive effort to turn."
+      ],
+      "odiNumbers": [
+        "700997",
+        "818813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Frame Failure due to Gearbox Pressure",
+      "impact": "The pressure from the gearbox can cause the frame to weaken and break, leading to a loss of vehicle control, which can result in accidents or injuries.",
+      "symptoms": [
+        "The frame is broken at the steering gear",
+        "the steering column is loose",
+        "the steering linkage and lower ball joints are worn",
+        "the steering wheel is difficult to turn."
+      ],
+      "odiNumbers": [
+        "818813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Belt Tensioner Bracket Failure",
+      "impact": "The failure of the steering belt tensioner bracket can cause the steering belt to malfunction, leading to a loss of power steering assist, which can result in accidents or injuries.",
+      "symptoms": [
+        "The steering belt tensioner bracket breaks",
+        "the power steering system malfunctions."
+      ],
+      "odiNumbers": [
+        "471282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

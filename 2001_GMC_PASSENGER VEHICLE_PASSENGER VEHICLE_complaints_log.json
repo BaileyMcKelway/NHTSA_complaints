@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "TIRES",
+    "STRUCTURE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can lead to a loss of stopping power, especially at low speeds, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The brakes fail to provide stopping power at low speeds (6-7 mph and below)",
+        "accompanied by a loud retching noise."
+      ],
+      "odiNumbers": [
+        "10119484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to stall or die, leading to a loss of power and control, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle suddenly dies or stalls while driving",
+        "often at high speeds (45-50 mph)",
+        "and may not restart; repeated failures of the fuel pump and fuel pressure regulator; difficulty starting the vehicle."
+      ],
+      "odiNumbers": [
+        "10114192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Sticking",
+      "impact": "The sticking accelerator pedal can cause unintended acceleration, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal feels stuck or hesitant",
+        "the vehicle surges or lurches forward unexpectedly",
+        "the engine RPM increases suddenly",
+        "the vehicle accelerates without input from the driver."
+      ],
+      "odiNumbers": [
+        "10121702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Uneven tire wear",
+        "vibration while driving",
+        "loud noise while driving",
+        "tire blowout",
+        "tire chunks or pieces coming off while driving."
+      ],
+      "odiNumbers": [
+        "10095612",
+        "10512345",
+        "10432109",
+        "10345678",
+        "10210987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tailgate Cable Failure",
+      "impact": "The failure of the tailgate cables can cause the tailgate to fall suddenly, potentially leading to injury or damage to the vehicle or surrounding objects.",
+      "symptoms": [
+        "The tailgate cable snaps or breaks",
+        "the tailgate feels unstable or wobbly",
+        "the tailgate falls suddenly when opened or loaded",
+        "the tailgate is held up by only one cable."
+      ],
+      "odiNumbers": [
+        "10093405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to lose power while driving, especially at high speeds, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle loses power or stalls while driving",
+        "the engine sputters or hesitates",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the vehicle cannot restart after stalling",
+        "the vehicle requires towing."
+      ],
+      "odiNumbers": [
+        "10093309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Fuel Pump Diagnosis and Repair",
+      "impact": "The failure of dealerships or repair shops to properly diagnose and repair fuel pump issues can lead to repeated failures, causing inconvenience, danger, and financial losses to vehicle owners.",
+      "symptoms": [
+        "The dealership or repair shop is unable to recreate the problem",
+        "the dealership or repair shop fails to diagnose the issue correctly",
+        "the dealership or repair shop fails to repair the issue effectively",
+        "the vehicle owner experiences repeated failures."
+      ],
+      "odiNumbers": [
+        "10093309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

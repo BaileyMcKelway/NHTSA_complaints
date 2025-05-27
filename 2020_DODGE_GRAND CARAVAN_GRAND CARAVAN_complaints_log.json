@@ -1,0 +1,167 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "EXTERIOR LIGHTING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause sudden loss of power, loss of control, and accidents, leading to injuries and damage to the vehicle.",
+      "symptoms": [
+        "Transmission failure",
+        "catastrophic transmission failure",
+        "transmission issues",
+        "inability to shift gears",
+        "sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11582732",
+        "11573342",
+        "11569084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Powertrain Control Module (PTU) Input Spline Failure",
+      "impact": "The failure of the PTU input spline can cause the vehicle to move unexpectedly, leading to accidents and injuries.",
+      "symptoms": [
+        "Vehicle moves unexpectedly",
+        "sudden acceleration",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "11569084"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Compression Issues",
+      "impact": "Engine compression issues can cause misfires, engine stalling, and decreased engine performance, leading to decreased fuel efficiency and potential engine damage.",
+      "symptoms": [
+        "Cylinder #2 misfire",
+        "engine compression issue",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "11554057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Bag Sensor Light Issues",
+      "impact": "The air bag sensor light issue can indicate a problem with the air bag system, which can lead to failure to deploy in the event of an accident, increasing the risk of injury or death.",
+      "symptoms": [
+        "Air bag sensor light is on."
+      ],
+      "odiNumbers": [
+        "11582732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Loose Front Bolts",
+      "impact": "Loose front bolts can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Front bolts on the driver side continuing to loosen."
+      ],
+      "odiNumbers": [
+        "11582732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Thorax Squib Sensor Failure",
+      "impact": "The failure of the thorax squib sensor can cause the airbag system to malfunction, leading to a potential failure to deploy in the event of an accident, putting occupants at risk of serious injury or death.",
+      "symptoms": [
+        "The airbag and seatbelt lights come on",
+        "the airbag system is compromised",
+        "the system does not function properly",
+        "intermittent connection of the airbag sensor",
+        "the light would come off and on."
+      ],
+      "odiNumbers": [
+        "11508938"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Keyless Ignition System Failure",
+      "impact": "The unintended starting of the vehicle can cause accidents, injuries, or fatalities, especially if the vehicle is in an enclosed space like a garage.",
+      "symptoms": [
+        "The vehicle starts unexpectedly",
+        "the vehicle starts when the key is not in the ignition",
+        "the vehicle starts when the transmission is in park and the emergency brake is set."
+      ],
+      "odiNumbers": [
+        "11487398"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Filter Housing Leak",
+      "impact": "The engine oil filter housing leak can cause oil to leak and pool on top of the engine, which can lead to a fire hazard, potentially causing damage to the engine and surrounding components, and posing a risk to the safety of the driver and passengers.",
+      "symptoms": [
+        "Oil leaking from the engine oil filter housing",
+        "oil pooling on top of the engine",
+        "no warning messages or signals prior to the failure."
+      ],
+      "odiNumbers": [
+        "11498446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Display Malfunction",
+      "impact": "The failure of the instrument cluster display to shut off can cause a drain on the vehicle's battery, leading to difficulty or failure to start the vehicle, which can leave the driver stranded.",
+      "symptoms": [
+        "The dashboard display lights remain on after the vehicle is turned off",
+        "the battery drains excessively",
+        "the vehicle has difficulty starting or fails to start",
+        "the issue occurs repeatedly over time."
+      ],
+      "odiNumbers": [
+        "11493370"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Assembly Defect",
+      "impact": "The incorrectly assembled seat belt can render it impossible to fasten, compromising the safety of the occupant in the event of an accident or sudden stop.",
+      "symptoms": [
+        "The seat belt cannot be fastened without twisting the belt",
+        "the seat belt is difficult to buckle",
+        "the seat belt appears misaligned or uneven."
+      ],
+      "odiNumbers": [
+        "11489016"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

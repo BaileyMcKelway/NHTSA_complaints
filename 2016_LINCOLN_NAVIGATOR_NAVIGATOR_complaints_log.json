@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder and Brake Booster Failure",
+      "impact": "The failure of the brake master cylinder and brake booster can cause the brake pedal to go to the floor, leading to a loss of braking functionality, which can result in accidents or injuries.",
+      "symptoms": [
+        "The brake system warning light comes on",
+        "the brake pedal pressure gets lighter with each press",
+        "the brake pedal goes to the floor",
+        "the vehicle decelerates independently",
+        "loud sounds are emitted while depressing the brake pedal",
+        "the brake fluid warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11540510",
+        "11485346",
+        "11467041",
+        "11266171",
+        "11255533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Molded Lead Frame Failure",
+      "impact": "The failure of the transmission molded lead frame can cause the transmission to inadvertently downshift, leading to loss of vehicle control, and potentially causing accidents. The speedometer may also malfunction, displaying incorrect or zero readings, which can further compromise the driver's ability to control the vehicle.",
+      "symptoms": [
+        "The transmission downshifts unexpectedly",
+        "the speedometer gauge drops to zero",
+        "the service wrench warning light is displayed",
+        "the vehicle may experience sudden and unexpected loss of power",
+        "and the driver may struggle to maintain directional control."
+      ],
+      "odiNumbers": [
+        "11546447",
+        "11510006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Control Module Failure",
+      "impact": "The failure of the transmission control module can cause the transmission to malfunction, leading to unexpected downshifting, loss of power, and potentially causing accidents. The speedometer may also malfunction, displaying incorrect or zero readings, which can further compromise the driver's ability to control the vehicle.",
+      "symptoms": [
+        "The transmission downshifts unexpectedly",
+        "the speedometer gauge drops to zero",
+        "the service wrench warning light is displayed",
+        "the vehicle may experience sudden and unexpected loss of power",
+        "and the driver may struggle to maintain directional control."
+      ],
+      "odiNumbers": [
+        "11510006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Malfunction",
+      "impact": "The malfunction of the throttle body can cause intermittent loss of power, stalling, and sudden shutdown of the engine, which can lead to accidents, especially on high-speed roads, and pose a significant risk to the safety of the vehicle occupants.",
+      "symptoms": [
+        "Momentary losses of engine power",
+        "frequent stalling",
+        "engine shutdown with no power when pressing the accelerator",
+        "no warning lights",
+        "and powertrain fault messages on the display."
+      ],
+      "odiNumbers": [
+        "11496514",
+        "11233887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

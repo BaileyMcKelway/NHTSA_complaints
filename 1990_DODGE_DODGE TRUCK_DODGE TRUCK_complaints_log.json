@@ -1,0 +1,64 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or become stuck in gear, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the transmission makes unusual noises",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "516731",
+        "601592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Driveshaft Failure",
+      "impact": "Driveshaft failure can cause the vehicle to lose power, vibrate excessively, or become stuck, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle vibrates excessively",
+        "the driveshaft makes unusual noises",
+        "the vehicle loses power",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "601592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power-Assisted Brake Failure",
+      "impact": "The failure of the power-assisted brake system can lead to increased stopping distances, making it difficult to control the vehicle, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The power assist starts to fail intermittently",
+        "the anti-lock pulsing stops working",
+        "the brake pedal feels harder or spongy",
+        "the vehicle takes longer to stop",
+        "the brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "513761",
+        "513761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

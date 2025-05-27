@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when the vehicle surges forward suddenly while stopped or slowing down.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without pressing the gas pedal",
+        "the vehicle surges forward while stopped or slowing down",
+        "the brake pedal sticks to the floor",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal feels spongy or soft."
+      ],
+      "odiNumbers": [
+        "10565554",
+        "10314246",
+        "10305865",
+        "10060884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal Sticking",
+      "impact": "A sticking brake pedal can cause the vehicle to take longer to stop, leading to accidents or injuries, especially when the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The brake pedal feels spongy or soft",
+        "the brake pedal sticks to the floor",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal has to be pulled up with the left foot to begin acceleration."
+      ],
+      "odiNumbers": [
+        "10305865",
+        "10565554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Erratic Brake Performance",
+      "impact": "Erratic brake performance can cause the vehicle to take longer to stop or accelerate unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels spongy or soft",
+        "the brake pedal sticks to the floor",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal has to be pulled up with the left foot to begin acceleration",
+        "the vehicle accelerates suddenly without pressing the gas pedal."
+      ],
+      "odiNumbers": [
+        "10305865",
+        "10565554",
+        "10060884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Acceleration Pedal Failure",
+      "impact": "The failure of the acceleration pedal can cause the vehicle to hesitate or stop responding to acceleration, leading to loss of control, accidents, or life-threatening situations, especially in traffic or during turns.",
+      "symptoms": [
+        "The vehicle fails to respond to acceleration pedal input",
+        "hesitates",
+        "or stops moving while in motion",
+        "especially during left turns; the pedal sensor error code is displayed."
+      ],
+      "odiNumbers": [
+        "11282559",
+        "10096584"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Revving and Warning Indicators",
+      "impact": "The unusual engine revving noise and illumination of unknown warning indicators can distract the driver, leading to loss of control or accidents.",
+      "symptoms": [
+        "The engine makes an unusual revving noise",
+        "unknown warning indicators illuminate and do not turn off",
+        "and the brake pedal stiffens",
+        "making it difficult to make a complete stop."
+      ],
+      "odiNumbers": [
+        "11230207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure due to Manufacturing Defect",
+      "impact": "The sudden failure of a tire can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire sidewall crumbling",
+        "loss of air pressure",
+        "tire failure at high speeds",
+        "tire failure without warning."
+      ],
+      "odiNumbers": [
+        "10262490",
+        "10093154",
+        "10088055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

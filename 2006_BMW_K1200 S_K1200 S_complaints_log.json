@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Assembly Failure",
+      "impact": "The failure of the fuel pump assembly can cause fuel leaks, which can lead to fires, accidents, and injuries.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel dripping onto the engine",
+        "alternator",
+        "and ground",
+        "fuel pooling under the vehicle",
+        "cracks in the fuel pump housing or fuel tank flange."
+      ],
+      "odiNumbers": [
+        "10538000",
+        "10535433",
+        "10495307",
+        "10490868",
+        "10485292",
+        "10465685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake (ABS) System Failure",
+      "impact": "The failure of the ABS system can cause a significant loss of braking performance, leading to accidents or near-misses, especially at high speeds.",
+      "symptoms": [
+        "The brake failure light comes on",
+        "the motorcycle has little to no braking power",
+        "the brakes feel soft or spongy",
+        "the motorcycle is difficult to stop",
+        "the brakes may lock up."
+      ],
+      "odiNumbers": [
+        "10901918",
+        "10725881"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Housing Cracks Causing Gasoline Leaks",
+      "impact": "Cracks in the plastic fuel pump housing can cause gasoline leaks, which can lead to fires or explosions, especially when in close proximity to ignition sources such as the starter and alternator.",
+      "symptoms": [
+        "Strong gasoline odor",
+        "fuel leaks under the tank",
+        "fuel flowing from the cracks in the fuel pump housing",
+        "overpowering smell of gasoline."
+      ],
+      "odiNumbers": [
+        "10449153",
+        "10430822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

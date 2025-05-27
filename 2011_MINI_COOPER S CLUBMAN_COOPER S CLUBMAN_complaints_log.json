@@ -1,0 +1,173 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "ENGINE",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Water Ingress into Motherboard and Fuse Box)",
+      "impact": "Water ingress into the motherboard and fuse box can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents. Additionally, it can also cause electrical system failures, which can lead to fires.",
+      "symptoms": [
+        "Water entering the motherboard and fuse box",
+        "vehicle stalling",
+        "check engine warning light illumination",
+        "failure to restart."
+      ],
+      "odiNumbers": [
+        "11534408",
+        "10664381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair (Electrical System)",
+      "impact": "The delay in recall repair can lead to continued exposure to electrical system failures, which can cause accidents or fires.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts not available",
+        "manufacturer exceeding reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11580147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Passenger Seat Occupancy Detector Failure",
+      "impact": "The failure of the passenger seat occupancy detector can lead to the deactivation of airbags, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "Passenger airbag light constantly on",
+        "airbags not activating."
+      ],
+      "odiNumbers": [
+        "11395359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unreliable Indicator Lights and Sensor Issues",
+      "impact": "Unreliable indicator lights and sensor issues can lead to confusion and distraction while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Indicator lights coming on frequently",
+        "mechanics unable to diagnose causes",
+        "multiple repairs and replacements needed."
+      ],
+      "odiNumbers": [
+        "10895739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause the vehicle to lose directional control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the steering wheel feels stiff or heavy",
+        "the vehicle wanders or pulls to one side",
+        "the vehicle does not respond to steering input",
+        "the power steering warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11104507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Overheating",
+      "impact": "The engine stalling and overheating can cause the vehicle to lose power and come to a sudden stop, potentially leading to accidents, especially if it occurs while driving on a highway or in heavy traffic. Additionally, engine overheating can cause damage to the engine and other components, leading to costly repairs.",
+      "symptoms": [
+        "The vehicle shuts down while in motion",
+        "overheating lights and smoke appear on the dashboard",
+        "the vehicle is unable to restart",
+        "the engine stalls at a red light or while stopping."
+      ],
+      "odiNumbers": [
+        "11061437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate Recall Information",
+      "impact": "The dealership's failure to acknowledge a valid recall can lead to delayed or inadequate repairs, putting the driver and passengers at risk of accidents or injuries due to the underlying issue.",
+      "symptoms": [
+        "The dealership denies the existence of a recall despite the vehicle's make",
+        "model",
+        "and year matching the recall criteria",
+        "the dealership fails to provide accurate information about the recall status."
+      ],
+      "odiNumbers": [
+        "11061437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Ignition Coils",
+      "impact": "Faulty ignition coils can cause the engine to stall or lose power, leading to accidents or near-misses, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Complete loss of engine power",
+        "engine stalling",
+        "difficulty starting the engine",
+        "engine misfires",
+        "rough engine idle."
+      ],
+      "odiNumbers": [
+        "11002796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment in a severe crash can lead to serious injury or even fatalities, as the occupants may not receive the necessary protection to mitigate the impact.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash",
+        "despite the severity of the impact",
+        "seat reclines or moves excessively during the crash",
+        "headrest breaks or detaches from its base."
+      ],
+      "odiNumbers": [
+        "10986254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Seat and Headrest Failure",
+      "impact": "The failure of the seat and headrest can lead to serious injury or even fatalities, as the occupants may not receive the necessary support and protection during a crash.",
+      "symptoms": [
+        "Seat reclines or moves excessively during the crash",
+        "headrest breaks or detaches from its base",
+        "seat back fails to maintain its position",
+        "headrest does not provide adequate support."
+      ],
+      "odiNumbers": [
+        "10986254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

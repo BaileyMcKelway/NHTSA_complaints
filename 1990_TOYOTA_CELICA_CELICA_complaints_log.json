@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 34,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of an accident can lead to serious injuries or fatalities, as it compromises the safety of the driver and passengers.",
+      "symptoms": [
+        "Airbag light is on",
+        "airbag does not deploy during an accident",
+        "chemical burns from airbag deployment",
+        "injuries or fatalities due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "10819220",
+        "10405915",
+        "10020138",
+        "513871",
+        "812107",
+        "810510",
+        "808363",
+        "806404",
+        "976849",
+        "481979",
+        "958147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Deployment without Crash",
+      "impact": "The unexpected deployment of the airbag without a crash can cause injuries, distractions, and accidents, as well as unnecessary repair costs.",
+      "symptoms": [
+        "Airbag deploys without an accident",
+        "injuries or damage from airbag deployment."
+      ],
+      "odiNumbers": [
+        "976849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Warning Light Illumination",
+      "impact": "The illumination of the airbag warning light can indicate a problem with the airbag system, which may lead to failure to deploy in the event of an accident.",
+      "symptoms": [
+        "Airbag warning light is on",
+        "inability to reset the airbag system."
+      ],
+      "odiNumbers": [
+        "10819220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Latch Failure",
+      "impact": "The failure of the seat belt latch can compromise the safety of the driver and passengers, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt latch does not securely fasten",
+        "the latch return spring breaks",
+        "the seat belt buckle does not latch securely",
+        "the seat belt hangs loose and does not retract."
+      ],
+      "odiNumbers": [
+        "560032",
+        "962828",
+        "810218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Seat Belt Design",
+      "impact": "The seat belt may not fit comfortably or securely, potentially causing discomfort, distraction, or even injury to the driver or passengers.",
+      "symptoms": [
+        "The seat belt comes across the neck or body at an uncomfortable angle",
+        "the seat belt does not fit securely",
+        "the driver or passenger feels unsafe or uncomfortable wearing the seat belt."
+      ],
+      "odiNumbers": [
+        "723509"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The electrical system malfunction can cause unpredictable and intermittent failures of various vehicle systems, leading to a loss of critical functions, increased risk of accidents, and potentially even fires.",
+      "symptoms": [
+        "The parking brake warning light comes on when the brake is off",
+        "dashboard lights",
+        "including speedometer",
+        "radio",
+        "and heat/air",
+        "go out without warning",
+        "interior passenger compartment lights fail to operate",
+        "electrical shorts",
+        "and fires in the engine compartment."
+      ],
+      "odiNumbers": [
+        "736928",
+        "506276",
+        "966162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

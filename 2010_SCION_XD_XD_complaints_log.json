@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration (UA) due to Electronic Throttle Control (ETC) Failure",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often accompanied by a loud engine noise",
+        "and the driver may experience difficulty stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "11338781",
+        "10512032",
+        "10371784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Pedal Entrapment due to Floor Mat Interference",
+      "impact": "Pedal entrapment can cause unintended acceleration, leading to loss of vehicle control, accidents, and potentially injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck or entrapped",
+        "causing the vehicle to accelerate suddenly and uncontrollably."
+      ],
+      "odiNumbers": [
+        "11338781"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle fails to stop or slows down unexpectedly",
+        "and the driver may experience a sudden and uncontrolled acceleration."
+      ],
+      "odiNumbers": [
+        "10512032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Consumption and Blue Smoke Emission",
+      "impact": "Excessive oil consumption can lead to premature engine wear, increased emissions, and potentially cause engine failure, which can result in a loss of power and control, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle emits blue smoke",
+        "excessive oil consumption",
+        "frequent oil changes",
+        "engine noise or knocking sounds."
+      ],
+      "odiNumbers": [
+        "10522366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling and Loss of Power Due to Cylinder Head Issues",
+      "impact": "Engine stalling and loss of power can cause the vehicle to suddenly lose speed or stall, increasing the risk of accidents, especially when driving on high-speed roads.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the vehicle runs rough",
+        "misfires",
+        "or has a decreased performance",
+        "the engine warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10456206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning (AC) System Leak and Mold Growth",
+      "impact": "The AC system leak can cause mold growth, which can lead to respiratory problems, allergic reactions, and other health issues for occupants, especially children and individuals with compromised immune systems.",
+      "symptoms": [
+        "Visible mold growth on seats",
+        "carpets",
+        "and other interior surfaces",
+        "musty odor",
+        "water accumulation or pooling in the vehicle",
+        "breathing problems",
+        "headaches",
+        "and other health issues."
+      ],
+      "odiNumbers": [
+        "11438374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

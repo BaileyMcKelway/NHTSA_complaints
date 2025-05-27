@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Electrical System Activation and Fire",
+      "impact": "The unintended activation of the horn and windshield wipers, followed by a vehicle fire, can cause damage to the vehicle, injury to occupants, and potentially lead to fatalities.",
+      "symptoms": [
+        "The horn sounds unexpectedly",
+        "the windshield wipers move on their own",
+        "a burning smell is present",
+        "flames appear from the dashboard or door area."
+      ],
+      "odiNumbers": [
+        "983837",
+        "983839",
+        "982970"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling While Driving",
+      "impact": "The engine stalling while driving can cause a loss of power, leading to a loss of control, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The vehicle stalls while driving at any speed",
+        "the engine shuts off without warning",
+        "the vehicle loses power",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "895518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Buckle Failure Due to Plastic Retainer Deterioration",
+      "impact": "The failure of the seat belt buckle can lead to a loss of restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle fails to latch or unlatch",
+        "the seat belt buckle is loose or wobbly",
+        "the seat belt webbing is not securely held in place",
+        "the seat belt warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "504156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

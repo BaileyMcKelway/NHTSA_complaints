@@ -1,0 +1,201 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to accidents, injuries, or fatalities, as the vehicle may not be able to stop in time.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "loud noise when braking",
+        "vehicle does not slow down or stop when brake pedal is pressed",
+        "emergency brake needed to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10314520",
+        "10061667",
+        "10039280",
+        "10214784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause accidents, injuries, or fatalities, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "Vehicle accelerates when brake pedal is pressed",
+        "vehicle speeds up when both brake and gas pedals are pressed simultaneously."
+      ],
+      "odiNumbers": [
+        "10958253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Issues",
+      "impact": "Steering issues can cause loss of control, accidents, or injuries, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "Steering wheel suddenly turns to one side",
+        "vehicle pulls to one side",
+        "wheel comes loose while driving."
+      ],
+      "odiNumbers": [
+        "10214784"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Malfunction",
+      "impact": "Malfunctioning seat belts can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Seat belts lock for no reason",
+        "seat belts cannot be loosened once locked",
+        "seat belts do not function properly."
+      ],
+      "odiNumbers": [
+        "10159467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical and Lighting Issues",
+      "impact": "Electrical and lighting issues can cause distractions, accidents, or injuries, especially if the vehicle's lights are not functioning properly.",
+      "symptoms": [
+        "Instrument panel lights go off intermittently",
+        "interior lights do not come on when doors are opened",
+        "alarm system fails."
+      ],
+      "odiNumbers": [
+        "10159467",
+        "10073461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Miscellaneous Issues",
+      "impact": "Miscellaneous issues can cause inconvenience, distraction, or discomfort for the driver and passengers.",
+      "symptoms": [
+        "Molding on running boards comes off",
+        "carpet is loose",
+        "battery terminals corrode",
+        "undercoating smell persists."
+      ],
+      "odiNumbers": [
+        "10159467",
+        "10073461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Cable Failure",
+      "impact": "The failure of the accelerator cable can cause the vehicle to accelerate independently, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "the accelerator pedal sticks",
+        "the vehicle slows down or comes to a complete stop on its own",
+        "the vehicle accelerates in reverse",
+        "the vehicle loses control",
+        "the vehicle collides with objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "10667772",
+        "10118958",
+        "10089125",
+        "10055586",
+        "10051473",
+        "10052176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to lose motive power, stall, and shut down completely, leading to a loss of braking and power steering functionality, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "and shuts down completely",
+        "unknown warning lights illuminate",
+        "the vehicle coasts to a stop",
+        "and the accelerator is affected."
+      ],
+      "odiNumbers": [
+        "11477577",
+        "10353728",
+        "10167440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause the electrical system to shut down completely, leading to a loss of motive power, braking, and power steering functionality, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "and shuts down completely",
+        "the accelerator is affected",
+        "and the electrical system is affected."
+      ],
+      "odiNumbers": [
+        "10353728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to stall, lose power, and shut down completely, leading to a loss of braking and power steering functionality, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "loses power",
+        "and shuts down completely",
+        "the battery is drained",
+        "and the gas hand registers incorrectly."
+      ],
+      "odiNumbers": [
+        "10167440"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "The failure to complete recall repairs can lead to electrical system failures, which can cause the vehicle to lose motive power, stall, and shut down completely, leading to a loss of braking and power steering functionality, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle experiences electrical system failures",
+        "the recall repair is not completed",
+        "and the consumer is not notified."
+      ],
+      "odiNumbers": [
+        "10065072",
+        "10056141"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

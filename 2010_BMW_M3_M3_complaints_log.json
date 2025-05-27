@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Takata Airbag Recall Repairs",
+      "impact": "The delayed repairs of the Takata airbag recall can lead to a life-threatening risk of injury or death due to the potential explosion of the airbag inflator.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the delay in repairing the recall",
+        "not a specific symptom of the vehicle's operation."
+      ],
+      "odiNumbers": [
+        "11054116",
+        "11011363",
+        "10926180",
+        "10909857",
+        "10908512",
+        "10907696",
+        "10903150",
+        "10891907"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rod Bearing Failure",
+      "impact": "The failure of the rod bearings can cause engine damage, leading to rod knock, metal shavings in the oil, and potentially catastrophic engine failure, which can result in loss of vehicle control, accidents, and costly repairs.",
+      "symptoms": [
+        "Ticking noise in the engine",
+        "metal shavings in the oil",
+        "rod knock",
+        "loss of power steering",
+        "loss of power brakes",
+        "unexpected deceleration."
+      ],
+      "odiNumbers": [
+        "11045838",
+        "11002582",
+        "10821914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Autopark System Failure",
+      "impact": "The failure of the autopark system to engage park mode when the driver exits the vehicle can cause the vehicle to roll away, posing a significant risk to people and property nearby.",
+      "symptoms": [
+        "The vehicle fails to shift into park mode when the driver exits",
+        "the electronic parking brake is not strong enough to hold the vehicle",
+        "the vehicle rolls away",
+        "no warning messages or indicators are displayed to alert the driver."
+      ],
+      "odiNumbers": [
+        "11533410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dynamic Power Steering (DPS) System Failure",
+      "impact": "The failure of the DPS system can cause the vehicle to become unstable and difficult to control, leading to accidents or loss of control.",
+      "symptoms": [
+        "The DPS error message appears",
+        "the vehicle becomes unstable",
+        "the steering becomes difficult to control",
+        "the turn signals malfunction",
+        "the coolant tank leaks",
+        "the engine runs rough",
+        "the vehicle goes into limp mode",
+        "the cluster lights up",
+        "and the vehicle overheats."
+      ],
+      "odiNumbers": [
+        "11000262",
+        "10650514",
+        "10442360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ECM Corruption and Engine Overheating",
+      "impact": "The corruption of the Engine Control Module (ECM) can cause the engine to overheat, leading to damage to the engine and potentially causing a loss of control or accident.",
+      "symptoms": [
+        "The check engine light turns on",
+        "the engine runs rough",
+        "the vehicle overheats",
+        "the temperature bar graph reaches 5 bars",
+        "the vehicle radiates excessive heat",
+        "and the engine runs on one cylinder."
+      ],
+      "odiNumbers": [
+        "10650514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Spark Plug Wire Grounding and Engine Malfunction",
+      "impact": "The grounding of the spark plug wire can cause the engine to malfunction, leading to a loss of power and potentially causing an accident.",
+      "symptoms": [
+        "The engine runs rough",
+        "the spark plug wire is grounded to the head",
+        "the vehicle goes into limp mode",
+        "and the engine light turns on."
+      ],
+      "odiNumbers": [
+        "10650514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Speed Sensor (VSS) Fault and Engine Malfunction",
+      "impact": "The VSS fault can cause the engine to malfunction, leading to a loss of power and potentially causing an accident.",
+      "symptoms": [
+        "The VSS fault light turns on",
+        "the engine runs rough",
+        "the vehicle hesitates",
+        "and the fuel mileage decreases."
+      ],
+      "odiNumbers": [
+        "10442360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Cruise Control Housing-Switch",
+      "impact": "The failure of the cruise control housing-switch can cause sudden and unexpected loss of vehicle speed, which can lead to accidents or put the driver and following vehicles at risk.",
+      "symptoms": [
+        "The cruise control disengages suddenly",
+        "reducing vehicle speed",
+        "making it difficult to control the vehicle",
+        "and potentially causing accidents."
+      ],
+      "odiNumbers": [
+        "10514316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate at a high rate of speed, making it difficult or impossible to control, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "making it difficult to control",
+        "and potentially causing accidents or loss of control."
+      ],
+      "odiNumbers": [
+        "10336146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Pressure Buildup and Gasoline Leaks",
+      "impact": "The excessive pressure buildup in the fuel tank can cause gasoline to spew out, potentially leading to fires, explosions, or injuries from skin contact and inhalation of gasoline vapors.",
+      "symptoms": [
+        "Hissing sound coming from the gas tank",
+        "gasoline and/or gas vapors spewing out of the gas tank when the gas cap is removed",
+        "high-pressure spray of gasoline",
+        "skin contact and inhalation of gasoline vapors."
+      ],
+      "odiNumbers": [
+        "10888403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight Malfunction",
+      "impact": "The malfunctioning headlights can cause confusion on the road, potentially leading to accidents or near-misses, as other drivers may mistakenly think the vehicle is an emergency vehicle.",
+      "symptoms": [
+        "Headlights exhibit multiple colors",
+        "headlights flash continuously on low beam",
+        "headlights appear like those of an emergency vehicle."
+      ],
+      "odiNumbers": [
+        "10350309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

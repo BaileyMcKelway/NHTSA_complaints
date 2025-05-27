@@ -1,0 +1,241 @@
+{
+  "totalComplaints": 100,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or shut off while driving, leading to a loss of control and increasing the risk of accidents. It can also cause the windows to roll down or up independently, which can distract the driver and lead to accidents.",
+      "symptoms": [
+        "The vehicle stalls or shuts off while driving",
+        "windows roll down or up independently",
+        "error messages appear on the dashboard",
+        "the check engine light illuminates",
+        "and the emergency brake engages unexpectedly."
+      ],
+      "odiNumbers": [
+        "11583159",
+        "11572494",
+        "11466202",
+        "11464171",
+        "11463332",
+        "11462865",
+        "11462347",
+        "11460607",
+        "11460214",
+        "11459248",
+        "11459061",
+        "11458792",
+        "11458507",
+        "11458513",
+        "11458122",
+        "11457988",
+        "11457600",
+        "11457637",
+        "11457702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to brake unexpectedly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle brakes unexpectedly",
+        "the emergency brake engages unexpectedly",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11458507",
+        "11457988",
+        "11457637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Window System Failure",
+      "impact": "The failure of the window system can cause the windows to roll down or up independently, which can distract the driver and lead to accidents.",
+      "symptoms": [
+        "The windows roll down or up independently",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11458513",
+        "11458122",
+        "11457988",
+        "11457600",
+        "11457637",
+        "11457702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Airbags did not deploy during a crash",
+        "airbag warning light is illuminated",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "11485487",
+        "11480042",
+        "11467088",
+        "11458450",
+        "11445299"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Airbags deployed randomly while driving",
+        "airbags deployed without a crash",
+        "airbag warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11565622",
+        "11555012",
+        "11467088",
+        "11450820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Airbag system malfunction can lead to airbag failure to deploy or unintended airbag deployment, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbag system malfunction",
+        "airbag harness failure",
+        "wiring issue in seat."
+      ],
+      "odiNumbers": [
+        "11590344",
+        "11479958",
+        "11459529",
+        "11458349",
+        "11448786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Airbag Deployment",
+      "impact": "Delayed airbag deployment can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Delayed airbag deployment",
+        "airbag warning light is illuminated",
+        "airbag system malfunction."
+      ],
+      "odiNumbers": [
+        "11463104",
+        "11459529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Recall Repair Delay",
+      "impact": "Delay in recall repair can lead to continued risk of airbag failure to deploy or unintended airbag deployment, resulting in serious injuries or fatalities.",
+      "symptoms": [
+        "Recall notice received",
+        "but parts are not available",
+        "delay in repair",
+        "manufacturer exceeded reasonable time for recall repair."
+      ],
+      "odiNumbers": [
+        "11494136",
+        "11477057",
+        "11467832",
+        "11467088",
+        "11460536",
+        "11458577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Noise and Grinding Issue",
+      "impact": "The brake noise and grinding issue can cause a sudden loss of braking power, leading to accidents or near-misses, and can also lead to a decrease in driver confidence and safety.",
+      "symptoms": [
+        "Grinding or squealing noise when applying the brakes",
+        "harsh loud metal grinding sound",
+        "steering wheel vibration when brakes are applied",
+        "loud screeching sound",
+        "brakes sound like they are bad even when they are not."
+      ],
+      "odiNumbers": [
+        "11585468",
+        "11574497",
+        "11572088",
+        "11568606",
+        "11527350",
+        "11509387",
+        "11493206",
+        "11464031",
+        "11458121",
+        "11457368",
+        "11449185",
+        "11448695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unwanted Emergency Brake Engagement",
+      "impact": "The unwanted emergency brake engagement can cause a sudden loss of control, leading to accidents or near-misses, and can also lead to a decrease in driver confidence and safety.",
+      "symptoms": [
+        "Emergency brake engages making the vehicle stop short",
+        "parking brake becomes stuck and won't allow the vehicle to drive",
+        "car makes noises as if it's about to hit something even though there is nothing around",
+        "windows roll down and get stuck."
+      ],
+      "odiNumbers": [
+        "11464031",
+        "11457368",
+        "11451605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure Due to Defective Brake Pads and Rotors",
+      "impact": "The brake failure due to defective brake pads and rotors can cause a sudden loss of braking power, leading to accidents or near-misses, and can also lead to a decrease in driver confidence and safety.",
+      "symptoms": [
+        "Brakes make a grinding noise",
+        "rotors are warped and squeak",
+        "brakes need to be replaced prematurely",
+        "loud screeching sound."
+      ],
+      "odiNumbers": [
+        "11493206",
+        "11449185",
+        "11448695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

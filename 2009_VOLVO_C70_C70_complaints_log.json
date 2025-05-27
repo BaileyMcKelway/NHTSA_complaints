@@ -1,0 +1,147 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Actuator Fault",
+      "impact": "The door actuator fault can cause the doors to open or unlock while driving, which can lead to accidents, injuries, or fatalities due to the sudden loss of control or distraction.",
+      "symptoms": [
+        "The doors open or unlock while driving",
+        "the doors open slightly ajar while driving",
+        "the security light comes on",
+        "the door ajar warning light is illuminated",
+        "the interior lights suddenly come on",
+        "the doors randomly unlock and open while driving."
+      ],
+      "odiNumbers": [
+        "11589256",
+        "11524447",
+        "11430926",
+        "10904740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Timing Belt Tensioner Failure",
+      "impact": "The failure of the timing belt tensioner can cause the engine to stall or lose motive power, leading to a loss of vehicle control, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine stalls or loses power",
+        "the vehicle experiences a sudden loss of speed",
+        "the vehicle makes unusual noises or vibrations",
+        "bent valves."
+      ],
+      "odiNumbers": [
+        "11415517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Valve Damage Due to Timing Belt Failure",
+      "impact": "The failure of the timing belt can cause the valves to bend, leading to costly repairs and potentially causing the engine to fail, which can leave the driver stranded or cause accidents.",
+      "symptoms": [
+        "The engine makes unusual noises or vibrations",
+        "the engine has a rough idle",
+        "the engine has reduced performance",
+        "bent valves."
+      ],
+      "odiNumbers": [
+        "11415517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headliner Detachment",
+      "impact": "The detachment of the headliner can obstruct the driver's vision, causing a distraction while driving, which can lead to accidents.",
+      "symptoms": [
+        "The headliner becomes loose or detached from the brackets",
+        "falls or hangs down while driving",
+        "obstructs the driver's view",
+        "and causes a distraction."
+      ],
+      "odiNumbers": [
+        "10883831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Headliner Bracket Design",
+      "impact": "The faulty design of the headliner brackets can cause the headliner to detach, obstructing the driver's vision and potentially leading to accidents.",
+      "symptoms": [
+        "The headliner becomes loose or detached from the brackets",
+        "falls or hangs down while driving",
+        "obstructs the driver's view",
+        "and causes a distraction."
+      ],
+      "odiNumbers": [
+        "10883831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Software Update Issue",
+      "impact": "The need for a software update to ensure proper transmission operation can lead to unexpected costs for the vehicle owner, and if not addressed, may cause transmission problems, affecting vehicle performance and potentially leading to safety issues.",
+      "symptoms": [
+        "Transmission does not operate properly",
+        "transmission warning lights or messages appear on the dashboard",
+        "unusual transmission behavior",
+        "such as hesitation or slipping."
+      ],
+      "odiNumbers": [
+        "10650110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent TPMS Malfunction",
+      "impact": "The intermittent malfunction of the Tire Pressure Monitoring System (TPMS) can lead to incorrect or misleading information about tire pressure, which can compromise vehicle safety and potentially cause accidents.",
+      "symptoms": [
+        "The TPMS maintenance required light illuminates on the dashboard",
+        "often after a short drive",
+        "despite no apparent issue with the tire pressure or sensors; the light may appear intermittently",
+        "and the problem may persist even after dealer attempts to repair or replace the control module."
+      ],
+      "odiNumbers": [
+        "10474224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty TPMS Control Module",
+      "impact": "A faulty TPMS control module can cause the system to malfunction, leading to incorrect or misleading information about tire pressure, which can compromise vehicle safety and potentially cause accidents.",
+      "symptoms": [
+        "The TPMS maintenance required light illuminates on the dashboard",
+        "often after a short drive",
+        "despite no apparent issue with the tire pressure or sensors; the light may appear intermittently",
+        "and the problem may persist even after dealer attempts to repair or replace the control module."
+      ],
+      "odiNumbers": [
+        "10474224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

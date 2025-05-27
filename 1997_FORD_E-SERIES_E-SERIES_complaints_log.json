@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation on Firestone Tires",
+      "impact": "Tread separation on Firestone tires can cause loss of control, accidents, and damage to the vehicle, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden blowout",
+        "loud bang",
+        "rubber flapping",
+        "uneven tire wear",
+        "tire tread separation",
+        "loss of air pressure",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10050984",
+        "10051819",
+        "8011999",
+        "8005449",
+        "8004827",
+        "6901073",
+        "893543",
+        "872074",
+        "870751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation of Firestone Tires",
+      "impact": "Tread separation can cause loss of vehicle control, leading to accidents, and potentially resulting in damage to the vehicle and its occupants.",
+      "symptoms": [
+        "Tread separation",
+        "bulges on the tire",
+        "loss of air pressure",
+        "vibration while driving."
+      ],
+      "odiNumbers": [
+        "874311"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of vehicle control, leading to accidents, and potentially resulting in injury or fatality.",
+      "symptoms": [
+        "When the brake pedal is pushed",
+        "nothing happens",
+        "spongy brake pedal",
+        "inability to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "874311"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

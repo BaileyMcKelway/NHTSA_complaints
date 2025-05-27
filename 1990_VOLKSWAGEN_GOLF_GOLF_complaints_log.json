@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate or Missing Lap Belts",
+      "impact": "The absence or inadequacy of lap belts can increase the risk of injury or fatality in the event of a crash, as the shoulder belts alone may not provide sufficient restraint.",
+      "symptoms": [
+        "Vehicle lacks lap belts",
+        "only shoulder belts are present",
+        "dealer claims vehicle is safe despite lack of lap belts."
+      ],
+      "odiNumbers": [
+        "837067",
+        "830759",
+        "538287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Wiring Fire in Trunk",
+      "impact": "The electrical wiring fire in the trunk can cause a sudden and unexpected loss of vehicle control, potentially leading to accidents, injuries, or fatalities. The fire can also spread quickly, destroying the vehicle and posing a risk to occupants and bystanders.",
+      "symptoms": [
+        "Unusual burning smell",
+        "smoke emanating from the trunk or rear hatch area",
+        "visible flames",
+        "cracking or popping sounds",
+        "loss of vehicle functionality",
+        "and sudden failure of electrical systems."
+      ],
+      "odiNumbers": [
+        "8021548",
+        "880404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rotor Failure Leading to Loss of Brakes and Steering",
+      "impact": "The sudden failure of the rotors can cause the loss of brakes and steering, leading to a significant increase in the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "A loud snapping or grinding noise while driving",
+        "loss of brake pedal",
+        "loss of steering control",
+        "sudden and unexpected failure of brakes and steering."
+      ],
+      "odiNumbers": [
+        "874536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unaddressed Recalls Leading to Safety Risks",
+      "impact": "Failure to address outstanding recalls can lead to safety risks, including accidents, injuries, and fatalities, as well as increased wear and tear on vehicle components.",
+      "symptoms": [
+        "Receipt of recall letters",
+        "inability to obtain necessary parts",
+        "lack of communication from dealerships or manufacturers."
+      ],
+      "odiNumbers": [
+        "830091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without pressing the gas pedal",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle surges forward without warning",
+        "the vehicle takes off without driver input."
+      ],
+      "odiNumbers": [
+        "972547",
+        "968823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause antifreeze to leak into the passenger compartment, creating a hazardous situation for the driver and passengers. The leakage can also cause damage to the vehicle's interior, including the carpet and dashboard.",
+      "symptoms": [
+        "Sudden fogging of the passenger compartment",
+        "antifreeze pouring into the passenger compartment from around the firewall area",
+        "hot antifreeze on the floor",
+        "temperature gauge rising."
+      ],
+      "odiNumbers": [
+        "721312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Line and Fuel System Component Failure",
+      "impact": "Fuel leaks can cause fires, explosions, and accidents, and can also lead to engine stalling, decreased fuel efficiency, and environmental damage.",
+      "symptoms": [
+        "Strong fuel odor",
+        "fuel leaking from the fuel line",
+        "fuel tank",
+        "or fuel filler neck valve assembly",
+        "kinked fuel line",
+        "fuel tank or charcoal canister replacement",
+        "slack tube test reveals significant leak."
+      ],
+      "odiNumbers": [
+        "10194751",
+        "559523",
+        "520200"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a fire, resulting in a total loss of the vehicle, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often starting under the dash on the passenger side",
+        "with evidence of heat damage and burned wire insulation jackets on the right side."
+      ],
+      "odiNumbers": [
+        "10000297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Circuit Board Failure",
+      "impact": "The failure of the circuit board can cause the malfunction of essential systems, such as fresh water, waste water, and propane level indicators, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The circuit board fails to function",
+        "requiring replacement",
+        "and affecting the operation of various systems."
+      ],
+      "odiNumbers": [
+        "559523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to become stranded, leading to inconvenience and potential safety risks, especially if the vehicle is parked in a hazardous location.",
+      "symptoms": [
+        "The battery dies unexpectedly",
+        "often when the vehicle is parked for an extended period."
+      ],
+      "odiNumbers": [
+        "606560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can prevent the seat belt from functioning properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle breaks",
+        "the spring pops out",
+        "the seat belt cannot be latched or unlatched",
+        "the seat belt is unable to be used."
+      ],
+      "odiNumbers": [
+        "10115165",
+        "606560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

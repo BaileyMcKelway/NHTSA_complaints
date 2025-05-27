@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperable Tow/Haul Mode",
+      "impact": "The failure of the Tow/Haul mode can cause the vehicle to lose engine braking, leading to overheated brakes, which can result in brake failure, fires, or accidents, especially when descending steep grades.",
+      "symptoms": [
+        "The Tow/Haul mode is inoperable",
+        "the transmission does not downshift when brakes are applied",
+        "the vehicle does not have engine braking",
+        "the brakes overheat",
+        "the vehicle is difficult to control when descending steep grades."
+      ],
+      "odiNumbers": [
+        "10882452",
+        "10876692",
+        "10876020",
+        "10874519",
+        "10873425",
+        "10853054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents or loss of control, especially when towing a heavy load.",
+      "symptoms": [
+        "Brake system warning lights illuminate",
+        "extremely hot brake fluid",
+        "hard brake pedal",
+        "decreasing brake efficiency",
+        "and the need to excessively engage the brakes when descending a grade."
+      ],
+      "odiNumbers": [
+        "11088932",
+        "10819990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Engine Braking",
+      "impact": "The inadequate engine braking can cause the vehicle to lose control when descending a grade, leading to accidents or brake failure.",
+      "symptoms": [
+        "The transmission does not downshift to provide engine braking as described in the owner's manual",
+        "requiring excessive use of the brakes",
+        "and potentially leading to brake failure or premature brake replacement."
+      ],
+      "odiNumbers": [
+        "10819990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Anchor Failure",
+      "impact": "The failure of the seat belt anchor can cause the seat belt to detach while driving, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt detaches from the wall or anchor point while driving",
+        "the seat belt is loose or becomes unbuckled while in use",
+        "the seat belt anchor bolt is broken or stripped."
+      ],
+      "odiNumbers": [
+        "11457837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Seat Belt Installation",
+      "impact": "Improper installation of the seat belt can cause the seat belt to malfunction or detach, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt is loose or becomes unbuckled while in use",
+        "the seat belt anchor bolt is broken or stripped",
+        "the seat belt detaches from the wall or anchor point while driving."
+      ],
+      "odiNumbers": [
+        "11457837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

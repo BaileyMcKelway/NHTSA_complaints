@@ -1,0 +1,217 @@
+{
+  "totalComplaints": 39,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to Seized or Malfunctioning Calipers",
+      "impact": "The failure of the brake calipers can cause the brake pedal to go to the floor, resulting in a loss of braking power, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes grab and release",
+        "the brakes lock up",
+        "excessive wear on front brakes and uneven tire wear",
+        "brake line hose breaks",
+        "brake fluid leaks."
+      ],
+      "odiNumbers": [
+        "845800",
+        "531127",
+        "503620",
+        "961511",
+        "484496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake lines can cause a loss of brake fluid, leading to a loss of braking power, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "brake pedal goes to the floor",
+        "loss of braking power."
+      ],
+      "odiNumbers": [
+        "845800",
+        "503620"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the ABS system can cause the brakes to lock up or the brake pedal to go to the floor, leading to a loss of control and increased stopping distance, which can result in accidents or injuries.",
+      "symptoms": [
+        "ABS light remains on",
+        "intermittent ABS failure",
+        "brakes lock up",
+        "brake pedal goes to the floor",
+        "extended stopping distance."
+      ],
+      "odiNumbers": [
+        "972176",
+        "961511",
+        "484496"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Rotor Issues",
+      "impact": "The failure of the brake rotors can cause uneven wear on tires, excessive wear on front brakes, and pulsation, which can lead to a loss of braking power and increased stopping distance.",
+      "symptoms": [
+        "Rotors rust",
+        "pulsation",
+        "uneven wear on tires",
+        "excessive wear on front brakes."
+      ],
+      "odiNumbers": [
+        "484496",
+        "961511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause extended stopping distance, which can result in accidents or injuries.",
+      "symptoms": [
+        "Extended stopping distance",
+        "brake pedal goes to the floor."
+      ],
+      "odiNumbers": [
+        "961511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Belt Failure",
+      "impact": "The failure of the timing chain belt can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle dies while driving",
+        "the timing chain belt separates from the vehicle."
+      ],
+      "odiNumbers": [
+        "846652",
+        "808229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to damage to the engine and other components, which can result in costly repairs and potentially cause accidents.",
+      "symptoms": [
+        "The water pump is noisy",
+        "the water pump fails",
+        "the engine overheats",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "489023",
+        "482135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cooling System Gasket Failure",
+      "impact": "The failure of the cooling system gaskets can cause the engine to overheat, leading to damage to the engine and other components, which can result in costly repairs and potentially cause accidents.",
+      "symptoms": [
+        "The engine overheats",
+        "the cooling system leaks",
+        "the heater core fails",
+        "the radiator fails."
+      ],
+      "odiNumbers": [
+        "711998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Horn and Wiring)",
+      "impact": "The failure of the electrical system can cause the horn to malfunction, leading to a continuous and uncontrollable sounding of the horn, and in severe cases, can result in electrical fires, which can cause damage to the vehicle and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "The horn sounds continuously without stopping",
+        "the horn is extremely cold to the touch",
+        "the horn wire is shorted out",
+        "the horn malfunctions",
+        "and electrical fires occur under the dash."
+      ],
+      "odiNumbers": [
+        "705492",
+        "819561",
+        "508464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spark Plug Installation Issues",
+      "impact": "Improperly installed spark plugs can cause engine performance issues, leading to decreased power and efficiency, and potentially causing damage to the engine.",
+      "symptoms": [
+        "The spark plug is not threaded all the way to the bottom."
+      ],
+      "odiNumbers": [
+        "969437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the battery to drain, leading to a loss of power and potentially causing the vehicle to stall or become stranded.",
+      "symptoms": [
+        "The battery is not charging",
+        "the alternator needs to be replaced."
+      ],
+      "odiNumbers": [
+        "961511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accelerator Cable Failure",
+      "impact": "The failure of the accelerator cable can cause sudden and unexpected acceleration, leading to loss of vehicle control, accidents, and potential injuries.",
+      "symptoms": [
+        "The accelerator pedal sticks or becomes stuck",
+        "the vehicle accelerates unexpectedly",
+        "the vehicle accelerates on its own",
+        "the accelerator cable fails to respond",
+        "the vehicle is difficult to control",
+        "the accelerator pedal feels rough or hesitant."
+      ],
+      "odiNumbers": [
+        "10043049",
+        "806601",
+        "489023",
+        "961511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING",
+    "ENGINE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure - Rollaway Risk",
+      "impact": "The failure of the transmission can cause the vehicle to roll away unintentionally, even when the gear selector is in the \"Park\" position, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle rolls forward or moves without warning",
+        "even when the gear selector is in the \"Park\" position",
+        "the gear selector lights flash",
+        "the vehicle stalls or hesitates to move",
+        "the vehicle requires the use of the emergency brake to prevent rolling."
+      ],
+      "odiNumbers": [
+        "11485616",
+        "11267831",
+        "11252791",
+        "11434407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Condensation Issue",
+      "impact": "The accumulation of condensation in the passenger front headlight can cause damage to the headlight, leading to reduced visibility and increased risk of accidents, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Water or moisture accumulation in the headlight",
+        "foggy or cloudy headlight",
+        "headlight failure or malfunction."
+      ],
+      "odiNumbers": [
+        "11568875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Recall Service",
+      "impact": "Delays in addressing open recalls can lead to prolonged exposure to potential safety risks, compromising vehicle safety and performance.",
+      "symptoms": [
+        "Unavailability of recall service",
+        "long wait times for recall repairs",
+        "lack of communication from dealerships regarding recall status."
+      ],
+      "odiNumbers": [
+        "11495852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Camshaft Adjuster Central Bolt Failure",
+      "impact": "The failure of the camshaft adjuster central bolts can cause the engine to stall, leading to a loss of acceleration and potentially causing accidents. Additionally, the failure can also lead to engine damage and potentially cause a fire while the vehicle is parked.",
+      "symptoms": [
+        "Knocking sound from the engine",
+        "loss of acceleration",
+        "fault all-wheel drive system warning light illumination",
+        "check engine warning light intermittent illumination",
+        "Auto START/STOP system deactivation."
+      ],
+      "odiNumbers": [
+        "11516479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defect Causing Fire Risk While Parked",
+      "impact": "The defect can cause the vehicle to catch fire while parked, posing a significant safety risk to the vehicle occupants and surrounding property.",
+      "symptoms": [
+        "No specific symptoms mentioned",
+        "but a recall notice was issued for the defect."
+      ],
+      "odiNumbers": [
+        "11255303"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Infotainment System Malfunction (PCM Unit Failure)",
+      "impact": "The malfunctioning infotainment system can cause distractions while driving, leading to accidents, and can also drain the battery, leaving the vehicle stranded.",
+      "symptoms": [
+        "The PCM infotainment unit continuously reboots itself",
+        "the stereo system malfunctions",
+        "the back camera fails to operate",
+        "the battery drains rapidly."
+      ],
+      "odiNumbers": [
+        "11511894",
+        "10876965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

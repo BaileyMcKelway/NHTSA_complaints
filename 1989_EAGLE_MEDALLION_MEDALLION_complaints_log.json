@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to stall while driving, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the transmission slips or hesitates",
+        "the transmission makes unusual noises",
+        "the vehicle has difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "8019612",
+        "544176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Overheating",
+      "impact": "Engine overheating can cause serious damage to the engine and its components, leading to costly repairs and potentially causing the vehicle to stall or break down.",
+      "symptoms": [
+        "The engine temperature gauge is in the red zone",
+        "the vehicle overheats",
+        "the coolant level is low",
+        "the coolant leaks",
+        "the vehicle has a sweet or burning smell."
+      ],
+      "odiNumbers": [
+        "544176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion of Rear Brake Cylinders and Brake Lines",
+      "impact": "Corrosion of the rear brake cylinders and brake lines can lead to brake failure, causing the vehicle to lose stopping power, which can result in accidents or injuries.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels further than usual",
+        "brake fluid leaks",
+        "rust or corrosion visible on brake components",
+        "reduced braking performance."
+      ],
+      "odiNumbers": [
+        "8019615",
+        "833591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or fail to start, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls or dies while driving",
+        "the vehicle fails to start",
+        "the ignition switch feels hot to the touch",
+        "the ignition switch emits a burning smell",
+        "the ignition switch is difficult to turn or stuck."
+      ],
+      "odiNumbers": [
+        "544176",
+        "539096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction while driving, potentially leading to accidents or decreased vehicle safety.",
+      "symptoms": [
+        "The air conditioning blows warm or hot air",
+        "the air conditioning does not turn on",
+        "the air conditioning is not cooling the vehicle",
+        "the air conditioning is making a loud or unusual noise",
+        "the air conditioning has a strong or unpleasant odor."
+      ],
+      "odiNumbers": [
+        "539096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improper Lift Point Design or Insufficient Repair Guidance",
+      "impact": "The incorrect lifting of the vehicle can cause damage to suspension components, such as struts, and other surrounding parts, leading to costly repairs and potential safety hazards.",
+      "symptoms": [
+        "Struts are damaged",
+        "anchoring brackets are pulled off the fender",
+        "wheels hang loose during repair",
+        "suspension components are compromised."
+      ],
+      "odiNumbers": [
+        "514283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Repair Information or Training",
+      "impact": "The lack of proper repair guidance or training can lead to incorrect repair procedures, resulting in damage to vehicle components and potentially compromising safety.",
+      "symptoms": [
+        "Incorrect lifting of the vehicle",
+        "damage to suspension components",
+        "surrounding parts are compromised",
+        "wheels hang loose during repair."
+      ],
+      "odiNumbers": [
+        "514283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

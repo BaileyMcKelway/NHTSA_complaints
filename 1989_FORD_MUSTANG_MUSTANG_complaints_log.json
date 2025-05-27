@@ -1,0 +1,180 @@
+{
+  "totalComplaints": 116,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall or catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "The ignition key becomes extremely hot",
+        "the vehicle will not start on the first attempt",
+        "the starter and relay need to be replaced",
+        "the ignition sparks and clicks",
+        "the vehicle shuts down while driving",
+        "the engine surges and cuts off without warning",
+        "the power steering and brakes are lost."
+      ],
+      "odiNumbers": [
+        "10588614",
+        "10229082",
+        "10011129",
+        "8018145",
+        "8013249",
+        "8013259",
+        "8004461",
+        "873981",
+        "734816",
+        "734391",
+        "868492",
+        "863149",
+        "862193",
+        "550488",
+        "710457",
+        "546009",
+        "780696",
+        "820590",
+        "819046",
+        "524890",
+        "519172",
+        "811025",
+        "810551",
+        "807915",
+        "515041",
+        "807588",
+        "807551",
+        "528064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "The electrical system shuts down while driving",
+        "the vehicle catches on fire",
+        "the fuse box catches on fire",
+        "the wiring harness catches on fire",
+        "the alternator catches on fire",
+        "the ignition switch catches on fire",
+        "the vehicle is totaled due to extensive damage."
+      ],
+      "odiNumbers": [
+        "8018145",
+        "862193",
+        "550488",
+        "710457",
+        "546009",
+        "780696",
+        "820590",
+        "819046",
+        "524890",
+        "519172",
+        "811025",
+        "810551",
+        "807915",
+        "515041",
+        "807588",
+        "807551",
+        "528064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Failure",
+      "impact": "The failure of the recall repair can cause the vehicle to catch fire, leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle catches on fire despite receiving recall repair",
+        "the ignition switch fails after recall repair",
+        "the vehicle experiences electrical system failure despite recall repair."
+      ],
+      "odiNumbers": [
+        "8004461",
+        "868492",
+        "546009",
+        "820590",
+        "528064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to not stay in the locked position, leading to a lack of protection for the occupant in the event of an accident, which can result in serious injury or death.",
+      "symptoms": [
+        "The seat belt does not retract to its proper position",
+        "the seat belt does not stay in the locked position",
+        "the seat belt has excessive slack",
+        "the seat belt buckle does not release",
+        "the seat belt feels tight due to being caught in the door."
+      ],
+      "odiNumbers": [
+        "8017633",
+        "8017479",
+        "878814",
+        "703520",
+        "534609",
+        "802732",
+        "802126",
+        "801108",
+        "802552",
+        "508375",
+        "801871",
+        "985242",
+        "972057",
+        "970581",
+        "967649",
+        "960834",
+        "481005"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration/Unintended Acceleration",
+      "impact": "Sudden acceleration can cause loss of vehicle control, accidents, and injuries, as well as damage to the transmission and other components.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "often without warning",
+        "and may continue to accelerate until the engine is turned off and restarted. The acceleration can be sudden and unpredictable",
+        "making it difficult for the driver to maintain control."
+      ],
+      "odiNumbers": [
+        "10170996",
+        "555175",
+        "857268",
+        "510296",
+        "804532",
+        "801976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "Cruise control failure can cause sudden acceleration, loss of vehicle control, and accidents, as well as damage to the transmission and other components.",
+      "symptoms": [
+        "The cruise control system fails to disengage",
+        "causing the vehicle to accelerate unexpectedly."
+      ],
+      "odiNumbers": [
+        "967649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

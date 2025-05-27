@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to inadequate or no deployment of airbags in the event of a collision, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The supplemental airbag warning light comes on",
+        "flashing intermittently",
+        "indicating a potential issue with the airbag system; airbags may not deploy to full capacity in the event of a collision."
+      ],
+      "odiNumbers": [
+        "11456468",
+        "11326045",
+        "10545600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag system to malfunction, leading to inadequate or no deployment of airbags in the event of a collision, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The front passenger airbag is shut off due to an electrical issue in the front passenger seat; the warning lights for the entire airbag system are on",
+        "indicating that in the event of a collision",
+        "no airbags will deploy."
+      ],
+      "odiNumbers": [
+        "10545600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Fluid Leak",
+      "impact": "The transmission fluid leak can cause the vehicle to overheat, leading to engine damage, and potentially causing a loss of control or accident.",
+      "symptoms": [
+        "Smoke is seen exiting the hood",
+        "the temperature gauge begins to rise",
+        "and transmission fluid is leaking."
+      ],
+      "odiNumbers": [
+        "11326045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brake system can lead to reduced braking power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal does not engage or has reduced pressure",
+        "requiring multiple attempts to stop the vehicle",
+        "and/or the vehicle takes longer to come to a stop."
+      ],
+      "odiNumbers": [
+        "11277704",
+        "11240717",
+        "10557021"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Coolant Line Failure",
+      "impact": "The failure of the transmission coolant line can cause transmission fluid to leak, leading to a loss of power, reduced vehicle control, and increased risk of accidents. Additionally, the friction from the drive belts binding can generate heat, potentially causing a fire.",
+      "symptoms": [
+        "Transmission fluid leaking from the engine compartment",
+        "drive belts slipping from the tension system",
+        "reduced power to the vehicle's driveshaft",
+        "and a dangerous driving condition."
+      ],
+      "odiNumbers": [
+        "10787663"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Shift Interlock Failure",
+      "impact": "The failure of the transmission shift interlock can cause the vehicle to roll or move unexpectedly, even when the driver believes it is in park, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle rolls or moves while in park",
+        "inability to engage park gear",
+        "and unexpected movement of the vehicle."
+      ],
+      "odiNumbers": [
+        "10569450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pad Failure",
+      "impact": "The failure of the brake pads can cause the rotor to fail, leading to reduced braking performance, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "The brake pads freeze",
+        "causing the rotor to fail",
+        "noisy brakes",
+        "brake pads contaminated with gear oil",
+        "brake pads fail to stop the car fully",
+        "brake pads need to be repeatedly replaced."
+      ],
+      "odiNumbers": [
+        "552101",
+        "552101",
+        "516224",
+        "518659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotor can cause reduced braking performance, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "The rotor fails",
+        "noisy brakes",
+        "brake pads fail to stop the car fully",
+        "rotor needs to be replaced."
+      ],
+      "odiNumbers": [
+        "552101",
+        "552101",
+        "516224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause reduced braking performance, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "The brake caliper fails",
+        "noisy brakes",
+        "brake pads fail to stop the car fully",
+        "caliper needs to be replaced."
+      ],
+      "odiNumbers": [
+        "552101",
+        "552101",
+        "516224",
+        "821142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause reduced braking performance, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "The brake line is loose or leaking",
+        "noisy brakes",
+        "brake pads fail to stop the car fully."
+      ],
+      "odiNumbers": [
+        "518659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause reduced braking performance, increased stopping distances, and potentially accidents.",
+      "symptoms": [
+        "The brakes fail",
+        "noisy brakes",
+        "brake pads fail to stop the car fully",
+        "brake pads need to be repeatedly replaced."
+      ],
+      "odiNumbers": [
+        "813299",
+        "515595"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "unusual vibrations or bumps while driving",
+        "visible signs of tread separation",
+        "tire blowouts",
+        "and difficulty maintaining control of the vehicle."
+      ],
+      "odiNumbers": [
+        "564347",
+        "9003563",
+        "894770"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "A faulty fuel gauge can lead to uncertainty about the amount of fuel in the vehicle, causing inconvenience, anxiety, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The fuel gauge does not read correctly",
+        "the fuel gauge does not move",
+        "the fuel gauge is stuck on a specific level",
+        "the fuel gauge is inconsistent",
+        "the fuel level is unknown."
+      ],
+      "odiNumbers": [
+        "849795",
+        "827618"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Component Failure (Compression Clamp)",
+      "impact": "The failure of the compression clamp holding the fuel return line onto the injection pump can cause diesel fuel to spray over the engine and surrounding areas, potentially leading to a fire hazard.",
+      "symptoms": [
+        "Diesel fuel spraying over the engine",
+        "fuel leaks",
+        "fuel smell",
+        "engine compartment damage",
+        "insulation material damage."
+      ],
+      "odiNumbers": [
+        "516192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

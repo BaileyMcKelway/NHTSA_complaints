@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "SEATS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cylinder Head Cracking",
+      "impact": "A cracked engine cylinder head can cause engine performance issues, overheating, and potentially lead to engine failure, which can result in a loss of power, stalling, or even a complete breakdown, posing a safety risk to the driver and passengers.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "white smoke from the exhaust",
+        "engine misfires",
+        "loss of power",
+        "decreased fuel efficiency",
+        "engine stalling or failure."
+      ],
+      "odiNumbers": [
+        "507772",
+        "745920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Seat Failure",
+      "impact": "The failure of the driver's seat can cause the driver to lose control of the vehicle, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The driver's seat tears loose from the floorboard",
+        "the driver's seat moves unexpectedly while driving",
+        "the driver's seat fails to remain in a fixed position",
+        "the driver experiences loss of control while driving."
+      ],
+      "odiNumbers": [
+        "857704",
+        "964247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The sudden failure of the heater core can cause hot water and steam to blow into the vehicle, resulting in burns and injuries to the occupants.",
+      "symptoms": [
+        "Hot water and steam blowing into the vehicle",
+        "coolant leaking onto the floor",
+        "no warning signs or symptoms prior to failure."
+      ],
+      "odiNumbers": [
+        "823005",
+        "524355"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

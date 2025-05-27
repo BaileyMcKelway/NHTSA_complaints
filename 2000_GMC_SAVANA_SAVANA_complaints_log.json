@@ -1,0 +1,201 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Pad Wear",
+      "impact": "Premature brake pad wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Brake pads wear out prematurely",
+        "excessive brake pad wear",
+        "brake pads separate from backing plate",
+        "metal-to-metal contact",
+        "squealing or grinding noises when braking."
+      ],
+      "odiNumbers": [
+        "770636",
+        "750008",
+        "747624",
+        "881930",
+        "560265",
+        "735982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Rotor Warpage",
+      "impact": "Warped brake rotors can cause vibrations, pulsations, and uneven braking, leading to reduced braking performance and increased stopping distances.",
+      "symptoms": [
+        "Rotors are warped",
+        "vibrations or pulsations when braking",
+        "uneven braking",
+        "excessive brake pad wear."
+      ],
+      "odiNumbers": [
+        "750008",
+        "747624",
+        "735982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake failure",
+        "sudden acceleration",
+        "inability to stop",
+        "vibration or shaking when braking."
+      ],
+      "odiNumbers": [
+        "10451089",
+        "10066251",
+        "8005485",
+        "8004823",
+        "897874"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Brake System (ABS) Issues",
+      "impact": "ABS issues can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Intermittent ABS activation",
+        "ABS failure",
+        "vibration or shaking when braking",
+        "inability to stop",
+        "sudden acceleration."
+      ],
+      "odiNumbers": [
+        "10066251",
+        "736461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "Brake hydraulic system failure can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake failure",
+        "sudden acceleration",
+        "inability to stop",
+        "vibration or shaking when braking."
+      ],
+      "odiNumbers": [
+        "8017330",
+        "890868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Bearing Failure",
+      "impact": "Brake bearing failure can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Brake bearing failure",
+        "vibration or shaking when braking",
+        "inability to stop",
+        "sudden acceleration."
+      ],
+      "odiNumbers": [
+        "8017330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Blowout",
+      "impact": "Tire tread separation and blowout can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loud noise",
+        "vibration",
+        "or rough ride",
+        "followed by tire blowout or tread separation",
+        "loss of air pressure",
+        "and potential damage to surrounding vehicle components."
+      ],
+      "odiNumbers": [
+        "11520688",
+        "10072222",
+        "10024760",
+        "10022313",
+        "769579",
+        "756639",
+        "755128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Assist Failure",
+      "impact": "The failure of the power steering assist can cause the steering wheel to lock or become difficult to turn, making it challenging to control the vehicle, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The power steering assist fails while driving",
+        "the steering wheel locks or becomes difficult to turn",
+        "the vehicle is hard to steer",
+        "loss of power steering assist while parking or reversing."
+      ],
+      "odiNumbers": [
+        "10131715",
+        "10041953",
+        "8019324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to take longer to stop or lose braking ability, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The brakes operate poorly",
+        "the vehicle takes longer to stop",
+        "the brakes fail to stop the vehicle",
+        "inconsistent brake performance",
+        "need to allow extra space to stop."
+      ],
+      "odiNumbers": [
+        "10131715",
+        "737183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Combined Power Steering and Brake System Failure",
+      "impact": "The simultaneous failure of the power steering and brake systems can cause a complete loss of control, making it extremely difficult to operate the vehicle safely, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The power steering pump fails",
+        "causing the vehicle to lose all power steering and brake system functionality",
+        "the steering wheel locks or becomes difficult to turn",
+        "the brakes fail to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "8019324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

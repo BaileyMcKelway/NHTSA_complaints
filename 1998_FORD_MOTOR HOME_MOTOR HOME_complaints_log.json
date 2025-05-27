@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "VEHICLE SPEED CONTROL",
+    "WHEELS",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to sudden loss of control, accidents, and potentially fatal consequences, especially at high speeds.",
+      "symptoms": [
+        "The tire tread comes off suddenly",
+        "often without warning",
+        "causing loss of control",
+        "vibration",
+        "and noise. The tire may remain inflated",
+        "but the tread separation can still cause damage to the vehicle and surrounding components."
+      ],
+      "odiNumbers": [
+        "10032047",
+        "769782",
+        "8008223",
+        "559949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Repair of Speed Control Recall",
+      "impact": "The delay in repairing the speed control recall can lead to potential accidents or injuries due to unintended acceleration, which can result in loss of vehicle control.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in repairing the recall rather than a specific symptom."
+      ],
+      "odiNumbers": [
+        "10217152",
+        "10214216",
+        "10213033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Cracking",
+      "impact": "Cracked wheels can lead to wheel failure, which can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Cracks or fractures visible on the wheel",
+        "wheel vibration or shaking",
+        "uneven tire wear",
+        "wheel noise or rattling",
+        "difficulty steering or maintaining control."
+      ],
+      "odiNumbers": [
+        "559949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Contamination with Metal Particles",
+      "impact": "The presence of fine metal particles in the engine oil can lead to premature engine wear, damage to moving parts, and potentially cause engine failure, resulting in costly repairs or even engine replacement.",
+      "symptoms": [
+        "Sharp rapping or tapping sound upon initial engine startup",
+        "visible metal particles in the oil drain pan",
+        "potential loss of engine performance",
+        "increased engine noise."
+      ],
+      "odiNumbers": [
+        "559949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "totalComplaints": 681,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRONIC STABILITY CONTROL (ESC)",
+    "VEHICLE SPEED CONTROL",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents or loss of control.",
+      "symptoms": [
+        "The ABS",
+        "VSC",
+        "and TRAC lights illuminate on the dashboard",
+        "the brake pedal feels soft or spongy",
+        "the vehicle shakes or vibrates when braking",
+        "the brakes make a grinding noise",
+        "or the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "11255004",
+        "11047824",
+        "10914143",
+        "10778845",
+        "10762724",
+        "10689398",
+        "10668619",
+        "10592619",
+        "10567296",
+        "10531943",
+        "10504236",
+        "10487377",
+        "10460051",
+        "10456737",
+        "10449113",
+        "10446811",
+        "10428873",
+        "10420281",
+        "10394481",
+        "10363547",
+        "10363340",
+        "10359412"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Concentric Slave Cylinder Failure",
+      "impact": "The failure of the concentric slave cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11547481"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Brake Rotor Warping",
+      "impact": "The warping of the front brake rotors can cause the vehicle to vibrate or shake when braking, leading to loss of control or accidents.",
+      "symptoms": [
+        "The vehicle vibrates or shakes when braking",
+        "the brake rotors need to be replaced frequently",
+        "the brake pedal pulsates or vibrates when pressed."
+      ],
+      "odiNumbers": [
+        "11206591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or move unintentionally, leading to accidents or injuries.",
+      "symptoms": [
+        "The parking brake disintegrates into a pile of parts",
+        "the parking brake does not engage properly",
+        "the vehicle rolls or moves unintentionally when parked."
+      ],
+      "odiNumbers": [
+        "10717442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Failure",
+      "impact": "The failure of the ESC system can cause the vehicle to lose traction, leading to accidents or loss of control, especially when driving at high speeds or on slippery roads.",
+      "symptoms": [
+        "The VSC (Vehicle Stability Control) and TRAC (Traction Control) lights illuminate on the dashboard",
+        "the brake light comes on",
+        "and the vehicle may experience sudden acceleration or deceleration",
+        "loss of traction",
+        "or unusual braking behavior."
+      ],
+      "odiNumbers": [
+        "11340826",
+        "11282062",
+        "11140338",
+        "11121297",
+        "11112283",
+        "11088387",
+        "11084263",
+        "11047959",
+        "11015477",
+        "10902051",
+        "10897494",
+        "10892833",
+        "10872173",
+        "10779569",
+        "10761191",
+        "10703722",
+        "10694416",
+        "10638555",
+        "10617893",
+        "10548732",
+        "10514914",
+        "10514178",
+        "10504531",
+        "10496703",
+        "10485808",
+        "10483256",
+        "10482473",
+        "10476770",
+        "10475800"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Stability Control (VSC) System Failure",
+      "impact": "The failure of the VSC system can cause the vehicle to lose traction, skid, or lose control, leading to accidents or near-misses.",
+      "symptoms": [
+        "The VSC",
+        "TRAC",
+        "and ABS lights on the dashboard illuminate",
+        "the vehicle slows down or decelerates suddenly",
+        "the brakes grind or make a noise",
+        "the vehicle pulls to one side",
+        "loss of power or acceleration",
+        "and unintended acceleration."
+      ],
+      "odiNumbers": [
+        "11476504",
+        "10874758",
+        "10863990",
+        "10819880",
+        "10704741",
+        "10663735",
+        "10662500",
+        "10662475",
+        "10660266",
+        "10653249",
+        "10650049",
+        "10639616",
+        "10618394",
+        "10615600",
+        "10606708",
+        "10573913",
+        "10567133",
+        "10566376",
+        "10556865",
+        "10536140",
+        "10524732",
+        "10523028",
+        "10521803",
+        "10512403",
+        "10509907",
+        "10509498",
+        "10502437",
+        "10501913"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Rust and Corrosion",
+      "impact": "The excessive rust and corrosion of the frame can cause the vehicle to become unsafe to drive, leading to accidents or fatalities.",
+      "symptoms": [
+        "Rust holes in the frame",
+        "excessive corrosion",
+        "frame fracture",
+        "loss of structural rigidity",
+        "and compromised safety in the event of a collision."
+      ],
+      "odiNumbers": [
+        "11554998",
+        "11546433",
+        "11487298",
+        "11424411",
+        "11413903",
+        "11400298",
+        "11397434",
+        "11318858",
+        "11218072",
+        "11217696",
+        "11217832",
+        "11217870",
+        "11195390",
+        "11194392",
+        "11152047",
+        "11150802",
+        "11105222",
+        "11100583",
+        "11091497",
+        "11079957",
+        "11072052",
+        "11054814",
+        "11048630",
+        "11048109",
+        "11045834",
+        "11039813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Frame Repair and Recall",
+      "impact": "The failure of Toyota to properly address the frame rust and corrosion issue through recalls and repairs can lead to continued safety risks for vehicle owners.",
+      "symptoms": [
+        "Lack of notification about recalls",
+        "inadequate repair solutions",
+        "and refusal to take responsibility for the safety issue."
+      ],
+      "odiNumbers": [
+        "11546433",
+        "11413903",
+        "11318858",
+        "11217832",
+        "11194392",
+        "11079957",
+        "11045834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lack of Transparency and Communication",
+      "impact": "The lack of transparency and communication from Toyota about the frame rust and corrosion issue can lead to vehicle owners being unaware of the safety risks and not taking necessary precautions.",
+      "symptoms": [
+        "Failure to notify owners about recalls",
+        "lack of information about the safety issue",
+        "and inadequate communication about repair solutions."
+      ],
+      "odiNumbers": [
+        "11546433",
+        "11413903",
+        "11318858",
+        "11217832",
+        "11194392",
+        "11079957",
+        "11045834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

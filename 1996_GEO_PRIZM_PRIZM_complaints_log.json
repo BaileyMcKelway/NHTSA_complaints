@@ -1,0 +1,164 @@
+{
+  "totalComplaints": 64,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not adequately protected.",
+      "symptoms": [
+        "Airbags do not deploy in the event of a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "11192847",
+        "8018411",
+        "8014485",
+        "887519",
+        "725448",
+        "725299",
+        "864689",
+        "838006",
+        "833771",
+        "832628",
+        "831775",
+        "814399",
+        "812353"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, accidents, and damage to the vehicle, as well as create a distraction for the driver.",
+      "symptoms": [
+        "Airbags deploy without a crash or impact",
+        "or deploy at low speeds."
+      ],
+      "odiNumbers": [
+        "546213",
+        "545344",
+        "811147",
+        "809884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Component Availability Issues",
+      "impact": "Unavailability of airbag components can lead to delays in repairs, leaving vehicles without functioning airbags and increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Difficulty in obtaining replacement airbag components",
+        "such as passenger-side airbags."
+      ],
+      "odiNumbers": [
+        "703006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can prevent the seat belt from functioning properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle unlocks without warning",
+        "the seat belt locks in the retracted position",
+        "the seat belt does not come out of the holder",
+        "the seat belt will not buckle",
+        "the seat belt unwinds while buckled and will not retract."
+      ],
+      "odiNumbers": [
+        "10075716",
+        "10074626",
+        "10058976",
+        "763135",
+        "889391",
+        "561094",
+        "739338",
+        "864473",
+        "858025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt locks up and will not release",
+        "the seat belt will not pull out easily",
+        "the seat belt tightens down on users while driving",
+        "the seat belt will not return to the retractor."
+      ],
+      "odiNumbers": [
+        "8023461",
+        "8009529",
+        "8009532",
+        "864473",
+        "814682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Inoperative",
+      "impact": "A seat belt that is inoperative can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt is inoperative",
+        "the seat belt will not latch",
+        "the seat belt breaks free at the retractor."
+      ],
+      "odiNumbers": [
+        "8009532",
+        "739338",
+        "528240"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Module Assembly Failure",
+      "impact": "The failure of the ABS brake module assembly can cause the ABS brake lights to illuminate, leading to reduced vehicle safety and potentially increased stopping distances.",
+      "symptoms": [
+        "ABS brake lights illuminate",
+        "brake pedal locks up",
+        "extended stopping distance."
+      ],
+      "odiNumbers": [
+        "549749",
+        "808938"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brake pedal to malfunction, leading to reduced braking performance and potentially increased stopping distances.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal does not engage when applying the brakes",
+        "brake pedal locks up."
+      ],
+      "odiNumbers": [
+        "603880",
+        "807073",
+        "808932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

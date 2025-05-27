@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can result in the airbags not deploying in the event of a crash, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the airbag strap comes undone",
+        "the clock spring on the airbag fractures",
+        "none of the airbags deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11277755",
+        "10945195",
+        "10936608",
+        "10324549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Module Failure",
+      "impact": "The failure of the airbag module can cause the airbag light to stay on, indicating that the airbags are disabled and will not deploy in the event of a crash, which can lead to serious injury or fatalities.",
+      "symptoms": [
+        "The airbag light stays on",
+        "the airbag module is faulty."
+      ],
+      "odiNumbers": [
+        "11277755"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clock Spring Failure",
+      "impact": "The failure of the clock spring can cause the airbag to malfunction, which can lead to serious injury or fatalities in the event of a crash.",
+      "symptoms": [
+        "The clock spring on the airbag fractures."
+      ],
+      "odiNumbers": [
+        "10936608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbags to deploy in the event of a crash can result in serious injury or fatalities.",
+      "symptoms": [
+        "None of the airbags deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "10324549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "the brake pedal requires extreme force to stop the vehicle",
+        "unintended acceleration occurs at low speeds (under 15 mph)."
+      ],
+      "odiNumbers": [
+        "10319039"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "Cruise control malfunction can cause unintended acceleration, loss of vehicle control, and accidents.",
+      "symptoms": [
+        "The cruise control malfunctions",
+        "the vehicle accelerates without warning",
+        "the G4 sensor needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10626669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Dashboard Light Failure",
+      "impact": "The intermittent failure of dashboard lights can cause distraction, confusion, and decreased visibility while driving, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "Dashboard lights suddenly turn off while driving",
+        "especially at night",
+        "and may return on their own after a short period; recurring instances of dashboard light failure."
+      ],
+      "odiNumbers": [
+        "10475186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Horn Failure",
+      "impact": "The intermittent failure of the horn can lead to reduced safety and increased risk of accidents, as the driver may be unable to alert other road users in emergency situations.",
+      "symptoms": [
+        "The horn fails to operate occasionally",
+        "especially in cold temperatures; the horn may work most of the time",
+        "but not always; the failure is often intermittent and unpredictable."
+      ],
+      "odiNumbers": [
+        "10359927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

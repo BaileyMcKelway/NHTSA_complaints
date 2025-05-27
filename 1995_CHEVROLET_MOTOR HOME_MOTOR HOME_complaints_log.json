@@ -1,0 +1,76 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER",
+    "PARKING BRAKE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Transmission Engagement/Disengagement Issues",
+      "impact": "The intermittent engagement and disengagement of the automatic transmission can cause the vehicle to stop abruptly, leading to potential accidents or loss of control. Additionally, the vehicle may start to smoke, indicating a possible overheating issue.",
+      "symptoms": [
+        "The transmission engages and disengages periodically without warning",
+        "causing the vehicle to stop abruptly",
+        "the vehicle starts to smoke",
+        "the auto park locks up while driving at high speed."
+      ],
+      "odiNumbers": [
+        "8003859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Gear Shift Indicator Visibility Issues",
+      "impact": "Difficulty seeing the position of the gear shift indicator can cause confusion and lead to incorrect gear selection, potentially causing accidents or stalling the vehicle.",
+      "symptoms": [
+        "Difficulty seeing the position of the gear shift indicator",
+        "unclear or obscured gear shift indicator."
+      ],
+      "odiNumbers": [
+        "490750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Poorly Designed and Located Brake Warning Light",
+      "impact": "The poorly designed and located brake warning light can lead to delayed or failed brake system checks, potentially causing accidents or injuries due to brake failure.",
+      "symptoms": [
+        "The brake warning light is difficult to see",
+        "especially on bright days",
+        "the sun shines directly on the instrument panel",
+        "making it impossible to see the brake warning light."
+      ],
+      "odiNumbers": [
+        "601226",
+        "490750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake System Failure",
+      "impact": "The failure of the parking brake system can cause the vehicle to roll or move unexpectedly, even on slight inclines, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The parking brake fails to hold the vehicle on an incline",
+        "the vehicle rolls or moves unexpectedly",
+        "the parking brake pedal or lever feels soft or spongy",
+        "the parking brake warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "601226",
+        "490750"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

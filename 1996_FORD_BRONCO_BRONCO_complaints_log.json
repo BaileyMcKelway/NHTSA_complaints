@@ -1,0 +1,221 @@
+{
+  "totalComplaints": 107,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of the brake line can cause the brake pedal to go to the floor, leading to extended stopping distances, loss of vehicle control, and potential accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "8023986",
+        "834758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure (ABS Malfunction)",
+      "impact": "The failure of the ABS system can cause the brakes to lock up, leading to extended stopping distances, loss of vehicle control, and potential accidents.",
+      "symptoms": [
+        "The brakes lock up",
+        "the vehicle slides or skids while braking",
+        "the ABS system malfunctions",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "849200",
+        "838653",
+        "506786",
+        "504958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad and Rotor Issues",
+      "impact": "Worn-out brake pads and rotors can cause the vehicle to vibrate or bounce while braking, leading to reduced stopping power and potential accidents.",
+      "symptoms": [
+        "The vehicle vibrates or bounces while braking",
+        "the brake pads are worn out",
+        "the rotors are warped or out of round."
+      ],
+      "odiNumbers": [
+        "822280",
+        "530741",
+        "603577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Bearing Corrosion",
+      "impact": "Corrosion of the brake bearings can cause the brakes to fail, leading to extended stopping distances, loss of vehicle control, and potential accidents.",
+      "symptoms": [
+        "The brake bearings are corroded",
+        "the brakes fail to respond to pedal application."
+      ],
+      "odiNumbers": [
+        "527548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Pedal and Master Cylinder Issues",
+      "impact": "Issues with the brake pedal and master cylinder can cause the brake pedal to feel soft or spongy, leading to extended stopping distances, loss of vehicle control, and potential accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the master cylinder is faulty."
+      ],
+      "odiNumbers": [
+        "603496",
+        "986663",
+        "986176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause the vehicle to pull to one side while braking, leading to loss of vehicle control and potential accidents.",
+      "symptoms": [
+        "The vehicle pulls to one side while braking",
+        "the brakes fail to respond to pedal application intermittently."
+      ],
+      "odiNumbers": [
+        "817968",
+        "986176"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vehicle Speed Control Failure",
+      "impact": "The failure of the vehicle speed control system can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the throttle gets stuck",
+        "the brakes fail to slow the vehicle down",
+        "the cruise control switch ignites",
+        "and the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "10314399",
+        "10127153",
+        "10116586",
+        "734402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire",
+      "impact": "An electrical fire can cause significant damage to the vehicle, potentially leading to a total loss, and can also pose a risk to the occupants and bystanders.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "flames appearing from the engine compartment",
+        "burning plastic",
+        "and a strong burning smell."
+      ],
+      "odiNumbers": [
+        "10460512",
+        "10263075",
+        "10254458",
+        "10231901",
+        "10207451",
+        "10197178",
+        "10191364",
+        "10151714",
+        "10131152",
+        "10128794",
+        "10122538",
+        "10115877",
+        "10108264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cruise Control Switch Failure",
+      "impact": "The failure of the cruise control switch can cause the vehicle to catch fire, leading to significant damage and potentially posing a risk to the occupants and bystanders.",
+      "symptoms": [
+        "The cruise control switch ignites",
+        "smoke comes from the engine compartment",
+        "and the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "10127153",
+        "10116586",
+        "10122538",
+        "10115877",
+        "10108264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the vehicle to lose braking power, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "and the vehicle loses braking power."
+      ],
+      "odiNumbers": [
+        "10116586",
+        "10108264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Window Shattering/Implosion",
+      "impact": "The sudden shattering or implosion of the rear window can cause a loud noise, propel glass shards into the passenger compartment, and potentially distract the driver, leading to accidents or injuries.",
+      "symptoms": [
+        "The rear window shatters or implodes",
+        "often with a loud noise",
+        "while the rear defroster is in use or without any apparent reason",
+        "resulting in glass fragments scattered throughout the vehicle."
+      ],
+      "odiNumbers": [
+        "8005110",
+        "873238",
+        "862107",
+        "720013",
+        "823134",
+        "822783",
+        "531588",
+        "530186",
+        "810399",
+        "809445",
+        "808139",
+        "979416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

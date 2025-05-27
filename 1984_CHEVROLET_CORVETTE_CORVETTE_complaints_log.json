@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become stuck, making it impossible to use, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt is stuck in the retracted position",
+        "the seat belt is locked and cannot be pulled out",
+        "the seat belt is jammed",
+        "the seat belt retractor is faulty",
+        "the seat belt cannot be used."
+      ],
+      "odiNumbers": [
+        "11218459",
+        "11154838",
+        "10272865",
+        "10089843",
+        "8020579",
+        "876222",
+        "718384",
+        "707901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the loss of power steering assist, making it difficult to steer the vehicle, especially at low speeds, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The power steering system fails",
+        "the vehicle is difficult to steer",
+        "the power steering assist is lost",
+        "the steering wheel is hard to turn",
+        "the vehicle dies or stalls while driving",
+        "the vehicle will not restart."
+      ],
+      "odiNumbers": [
+        "10850608",
+        "478716",
+        "10493413",
+        "10473489",
+        "10465101",
+        "10456489",
+        "10451234",
+        "10445123",
+        "10442111",
+        "10439456",
+        "10438456",
+        "10437489",
+        "10436456",
+        "10435489",
+        "10434456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle's electrical system to malfunction, leading to a loss of power and potentially causing the vehicle to stall or die, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle's electrical system malfunctions",
+        "the vehicle dies or stalls while driving",
+        "the vehicle will not restart",
+        "the battery is dead",
+        "the alternator belt fails",
+        "the alternator warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "10850608",
+        "10493413",
+        "10473489",
+        "10465101",
+        "10456489",
+        "10451234",
+        "10445123",
+        "10442111",
+        "10439456",
+        "10438456",
+        "10437489",
+        "10436456",
+        "10435489",
+        "10434456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cruise Control Vacuum Solenoid Valve Failure",
+      "impact": "The failure of the cruise control vacuum solenoid valve can cause the cruise control to malfunction, leading to unintended acceleration, which can result in accidents or loss of vehicle control.",
+      "symptoms": [
+        "The cruise control engages but cannot be disengaged",
+        "the vehicle accelerates unintentionally",
+        "the cruise control does not respond to driver input."
+      ],
+      "odiNumbers": [
+        "553670",
+        "963379"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

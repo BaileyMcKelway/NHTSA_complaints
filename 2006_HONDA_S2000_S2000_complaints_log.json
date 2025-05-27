@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STRUCTURE",
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbag warning light is illuminated",
+        "airbags fail to deploy in a crash",
+        "no airbag deployment despite meeting the speed threshold."
+      ],
+      "odiNumbers": [
+        "11523414",
+        "10225624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Deployment Threshold Issue",
+      "impact": "The airbag deployment threshold may be set too high, resulting in airbags not deploying in certain crash scenarios, which can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags fail to deploy in a crash despite meeting the speed threshold",
+        "insurance company claims that the vehicle must be traveling at a certain speed (e.g. 35 mph) for airbags to deploy."
+      ],
+      "odiNumbers": [
+        "10225624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Convertible Top Retraction Mechanism Failure",
+      "impact": "The failure of the convertible top retraction mechanism can cause the top to rip or tear, leading to water leaks, noise, and compromised structural integrity, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Slits or tears in the convertible top",
+        "indentations or wear on the top",
+        "rubbing or friction between the fabric top and metal components",
+        "protruding metal joints or unshielded metal pieces."
+      ],
+      "odiNumbers": [
+        "10525827",
+        "10340502",
+        "10276521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High Cold Start Idle",
+      "impact": "The high cold start idle can cause the vehicle to be dangerous to operate, making it difficult to control, and potentially leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The engine RPM exceeds 2500 RPM during cold start",
+        "the vehicle is difficult to operate until the engine has warmed up",
+        "the vehicle is only safe to operate after sufficient time has elapsed for the engine to warm up."
+      ],
+      "odiNumbers": [
+        "10329325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Diagnose and Repair High Cold Start Idle",
+      "impact": "The failure of the dealership to diagnose and repair the high cold start idle issue can lead to continued operation of a potentially dangerous vehicle, putting the driver and passengers at risk.",
+      "symptoms": [
+        "The dealership is unable to diagnose the issue",
+        "the dealership claims that the idle speed is normal",
+        "the dealership is unable to find any defects in the vehicle",
+        "the dealership advises the owner to operate the vehicle with caution."
+      ],
+      "odiNumbers": [
+        "10329325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Shock Absorber Leak",
+      "impact": "The rear shock absorber leak can cause component failure, leading to unsafe handling and braking, which can increase the risk of accidents and loss of control.",
+      "symptoms": [
+        "Rear shock absorber fluid leak",
+        "uneven tire wear",
+        "reduced vehicle stability",
+        "unusual noises while driving",
+        "vibration while braking",
+        "reduced braking performance."
+      ],
+      "odiNumbers": [
+        "10240552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Floor Mat Retention Clip",
+      "impact": "The failure of the floor mat retention clip can cause the floor mat to become lodged underneath the clutch, brake, and acceleration pedals, potentially interfering with the driver's ability to operate the vehicle safely.",
+      "symptoms": [
+        "The floor mat is not held in place",
+        "the floor mat becomes lodged underneath the pedals",
+        "the floor mat retention clip bends or breaks."
+      ],
+      "odiNumbers": [
+        "10204383"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

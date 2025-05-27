@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "EQUIPMENT",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. In addition, difficulty shifting gears can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission is difficult to shift from park gear",
+        "the transmission fails to engage gears",
+        "the vehicle stalls or loses power",
+        "the transmission slips or hesitates when shifting gears."
+      ],
+      "odiNumbers": [
+        "479361",
+        "477785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Differential Failure",
+      "impact": "Differential failure can cause the vehicle to lose traction, leading to accidents or loss of control. In severe cases, it can also cause the vehicle to stall or become stranded.",
+      "symptoms": [
+        "The differential is destroyed",
+        "requiring complete replacement",
+        "unusual noises or vibrations from the differential",
+        "the vehicle loses traction or stability."
+      ],
+      "odiNumbers": [
+        "703106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Leaks and Fuel Odor",
+      "impact": "Fuel leaks and lingering fuel odors can pose a significant fire hazard, compromise the vehicle's structural integrity, and affect the health and well-being of occupants.",
+      "symptoms": [
+        "Fuel leaks into the vehicle's interior",
+        "strong fuel odor inside the vehicle",
+        "fuel gauge malfunctions",
+        "potential health issues due to fuel exposure."
+      ],
+      "odiNumbers": [
+        "860507",
+        "479361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "A faulty fuel gauge can lead to inaccurate fuel level readings, causing drivers to run out of fuel unexpectedly, which can result in accidents, injuries, or strandings.",
+      "symptoms": [
+        "Fuel gauge malfunctions",
+        "inaccurate fuel level readings",
+        "sudden loss of power",
+        "stalling",
+        "or engine failure."
+      ],
+      "odiNumbers": [
+        "479361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recurring Air Conditioning System Failure",
+      "impact": "The frequent failure of the air conditioning system can cause discomfort and distraction to the driver and passengers, potentially leading to accidents or decreased vehicle safety.",
+      "symptoms": [
+        "The air conditioning system fails to cool",
+        "the air conditioning system blows warm air",
+        "the evaporator unit leaks refrigerant",
+        "the evaporator unit needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "753872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Evaporator Unit Failure",
+      "impact": "The failure of the evaporator unit can cause the air conditioning system to malfunction, leading to discomfort and distraction to the driver and passengers, potentially affecting vehicle safety.",
+      "symptoms": [
+        "The air conditioning system fails to cool",
+        "the air conditioning system blows warm air",
+        "the evaporator unit leaks refrigerant",
+        "the evaporator unit needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "753872"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Driver's Side Seat Belt Buckle",
+      "impact": "A malfunctioning seat belt buckle can increase the risk of injury or fatality in the event of an accident, as the driver may not be properly restrained.",
+      "symptoms": [
+        "The driver's side seat belt does not buckle",
+        "the seat belt latch does not engage",
+        "the seat belt cannot be securely fastened."
+      ],
+      "odiNumbers": [
+        "833296"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Relay Failure",
+      "impact": "The failure of the starter relay can cause the vehicle to be unable to start, leaving the driver stranded and potentially causing inconvenience or safety risks.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the starter motor does not engage",
+        "the ignition switch does not respond",
+        "the battery is drained",
+        "the dashboard lights or accessories may not function."
+      ],
+      "odiNumbers": [
+        "477775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

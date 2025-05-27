@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "FORWARD COLLISION AVOIDANCE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries. In this case, the vehicle accelerated abruptly, crossed over a concrete curb, and headed towards a busy highway, which could have resulted in a catastrophic crash.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "even when the brake pedal is pressed",
+        "and may not respond to braking attempts."
+      ],
+      "odiNumbers": [
+        "11475980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "Electrical system malfunctions can cause unexpected fires, battery drain, and system failures, which can lead to accidents, injuries, or strand the driver.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the heating element on the front windscreen burns and smokes",
+        "the battery drains unexpectedly",
+        "and critical vehicle malfunction alerts are received."
+      ],
+      "odiNumbers": [
+        "11560007",
+        "11479596",
+        "11552935"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failures can cause loss of control, accidents, and injuries. In this case, the vehicle failed to respond to braking attempts, and the airbags did not deploy.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the brake pedal does not respond",
+        "and the airbags fail to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "11475980"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Sunroof Explosion",
+      "impact": "The sudden and unexpected explosion of the sunroof can cause injury to the driver and passengers from shattered glass, and potentially lead to accidents or loss of control due to the loud noise and distraction.",
+      "symptoms": [
+        "The sunroof explodes without warning",
+        "often while the vehicle is stationary or in motion",
+        "resulting in shattered glass and a loud noise. The explosion can occur without any apparent cause or impact from debris."
+      ],
+      "odiNumbers": [
+        "11570622",
+        "11508492",
+        "11508447"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Automatic Emergency Braking (AEB) System Performance",
+      "impact": "The inconsistent performance of the AEB system can lead to accidents, as it may fail to intervene in emergency situations or activate unnecessarily, causing sudden stops and potentially leading to rear-end collisions.",
+      "symptoms": [
+        "The vehicle fails to apply brakes or provides inadequate braking assistance in emergency situations",
+        "or the AEB system activates unexpectedly",
+        "applying full brakes without warning",
+        "even when there is no imminent collision risk."
+      ],
+      "odiNumbers": [
+        "11581390",
+        "11472866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

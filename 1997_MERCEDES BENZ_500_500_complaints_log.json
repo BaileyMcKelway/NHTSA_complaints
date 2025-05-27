@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "EQUIPMENT",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Passenger Airbag Deployment",
+      "impact": "The sudden and unexpected deployment of the passenger airbag can cause injury to the driver or passengers, even when the vehicle is parked and stationary, which can lead to physical harm and potentially life-threatening situations.",
+      "symptoms": [
+        "The passenger airbag deploys suddenly and without warning",
+        "even when the vehicle is not in motion",
+        "the engine is off",
+        "and there is no apparent cause or trigger."
+      ],
+      "odiNumbers": [
+        "551702",
+        "712780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Conditioner Evaporator Failure",
+      "impact": "The failure of the air conditioner evaporator can cause the air conditioning system to malfunction, leading to reduced cooling performance, increased humidity, and potential water damage to the vehicle's interior.",
+      "symptoms": [
+        "The air conditioner blows warm air",
+        "the air conditioner is not cooling",
+        "water leaks from the air conditioner vents",
+        "the air conditioner is making a strange noise",
+        "the air conditioner has a musty or mildew smell."
+      ],
+      "odiNumbers": [
+        "607490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioner Vent Leak",
+      "impact": "The leak in the air conditioner vent can cause water to accumulate in the vehicle's interior, leading to water damage, mold, and mildew growth.",
+      "symptoms": [
+        "Water leaks from the air conditioner vents",
+        "water accumulates on the floor or carpets",
+        "the air conditioner is making a strange noise",
+        "the air conditioner has a musty or mildew smell."
+      ],
+      "odiNumbers": [
+        "608999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Damaged Spare Tire",
+      "impact": "A damaged spare tire can lead to a blowout or loss of control while driving, which can cause accidents and put the driver and passengers at risk.",
+      "symptoms": [
+        "The spare tire appears bent or damaged",
+        "the spare tire is not properly inflated",
+        "the spare tire is not functional."
+      ],
+      "odiNumbers": [
+        "856116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine No-Start Condition",
+      "impact": "The intermittent engine no-start condition can leave the driver stranded, causing inconvenience and potentially leading to safety risks, especially if the vehicle is stuck in a hazardous location.",
+      "symptoms": [
+        "The engine fails to start",
+        "no power to the vehicle",
+        "repeated instances of the issue",
+        "difficulty diagnosing the problem due to its intermittent nature."
+      ],
+      "odiNumbers": [
+        "707358"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clock Module Failure",
+      "impact": "The failure of the clock module can cause the clock display to malfunction, leading to inconvenience and distraction while driving.",
+      "symptoms": [
+        "The clock display is blank or not showing the correct time",
+        "the clock display is dim or flickering",
+        "the clock display is stuck on a specific time or date."
+      ],
+      "odiNumbers": [
+        "608988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

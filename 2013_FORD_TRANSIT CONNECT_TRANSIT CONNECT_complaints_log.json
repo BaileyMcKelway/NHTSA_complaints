@@ -1,0 +1,145 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure due to Electrical Issues",
+      "impact": "The failure of the transmission can cause loss of power, stalling, and difficulty shifting gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission shifts gears independently",
+        "the vehicle stalls without warning",
+        "the transmission fails to shift out of park",
+        "the gear shifter fails to shift gears",
+        "the vehicle rolls back down a slope while in park."
+      ],
+      "odiNumbers": [
+        "11526579",
+        "11473987",
+        "11082033",
+        "10765199"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure due to Mechanical Issues",
+      "impact": "The failure of the transmission can cause loss of power, stalling, and difficulty shifting gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails to shift out of third gear",
+        "the transmission revs to 8000 RPM",
+        "the vehicle loses power and can only be driven in second gear."
+      ],
+      "odiNumbers": [
+        "11473987",
+        "11082033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Traction Control System (TCS) Failure",
+      "impact": "The failure of the TCS can cause the vehicle to become disabled, leading to a safety hazard, especially in snowy or slippery conditions.",
+      "symptoms": [
+        "The TCS kicks in and disables the vehicle",
+        "the vehicle is unable to move",
+        "the TVS light is on but the vehicle will not move."
+      ],
+      "odiNumbers": [
+        "10819869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Shifter Failure",
+      "impact": "The failure of the gear shifter can cause the vehicle to become stuck in park, leading to a safety hazard.",
+      "symptoms": [
+        "The gear shifter fails to shift out of park",
+        "the gear shifter cap comes detached",
+        "the vehicle is stuck in park."
+      ],
+      "odiNumbers": [
+        "11343405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to a potential fire hazard, engine damage, and stalling, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge rapidly increases to hot",
+        "the coolant level drops without warning",
+        "the engine overheats",
+        "the vehicle stalls",
+        "the coolant boils out of the reservoir",
+        "the engine oil and antifreeze mix together",
+        "a whining noise comes from the passenger side of the vehicle",
+        "the heater blows cool air."
+      ],
+      "odiNumbers": [
+        "11253278",
+        "11230758",
+        "11205030",
+        "11203892",
+        "11063731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Chassis Rust and Corrosion",
+      "impact": "The rust and corrosion of the chassis can compromise the structural integrity of the vehicle, affecting its safety and performance.",
+      "symptoms": [
+        "Visible rust and corrosion on the chassis",
+        "potentially leading to weakened structural components."
+      ],
+      "odiNumbers": [
+        "11326431"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door-Ajar Notification System Malfunction",
+      "impact": "The malfunction of the door-ajar notification system can cause the doors to remain unlocked, even when the vehicle is turned off, posing a security risk.",
+      "symptoms": [
+        "Random and intermittent illumination of the door-ajar notification light",
+        "doors failing to lock",
+        "even when the vehicle is turned off."
+      ],
+      "odiNumbers": [
+        "10911394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Windshield Cracking and Failure",
+      "impact": "The sudden and unexplained cracking of the windshield can obstruct the driver's view, posing a safety risk, and may require costly repairs.",
+      "symptoms": [
+        "Large cracks appearing in the windshield without any apparent reason",
+        "potentially obstructing the driver's view."
+      ],
+      "odiNumbers": [
+        "10672926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

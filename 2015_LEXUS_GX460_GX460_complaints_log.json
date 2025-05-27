@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "LATCHES/LOCKS/LINKAGES",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to increased stopping distances, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has to be pressed very hard to stop the vehicle",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal does not respond when pressed",
+        "the vehicle leaks brake fluid internally."
+      ],
+      "odiNumbers": [
+        "11053727",
+        "10778570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Valve Failure",
+      "impact": "The failure of the brake valve can cause the brake system to malfunction, leading to a loss of stopping power and potentially causing accidents or serious injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has to be pressed very hard to stop the vehicle",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal does not respond when pressed."
+      ],
+      "odiNumbers": [
+        "10778570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Unknown Component Failure in Braking System",
+      "impact": "The presence of an unknown component in the braking system can cause the system to malfunction, leading to a loss of stopping power and potentially causing accidents or serious injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal has to be pressed very hard to stop the vehicle",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal does not respond when pressed",
+        "the vehicle leaks brake fluid internally."
+      ],
+      "odiNumbers": [
+        "10778570"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Rear Seat Heater Activation",
+      "impact": "The unintended activation of the rear seat heaters can cause the seats to melt or catch fire, potentially leading to a vehicle fire, damage to the vehicle, and risk of injury or harm to occupants.",
+      "symptoms": [
+        "The rear seats are melted or damaged",
+        "a strong",
+        "unpleasant odor is present",
+        "the seat material is black",
+        "sticky",
+        "and gooey",
+        "the seat heaters are activated without being turned on."
+      ],
+      "odiNumbers": [
+        "10898793",
+        "10851845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Actuator Failure",
+      "impact": "The failure of the door actuator can cause the doors to malfunction, leading to difficulties in entering or exiting the vehicle, which can be a safety concern, especially in emergency situations.",
+      "symptoms": [
+        "The doors fail to latch or unlock",
+        "the doors stick or become jammed",
+        "the doors do not respond to the door lock/unlock switch",
+        "the doors do not open or close properly."
+      ],
+      "odiNumbers": [
+        "11328530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Driver Door Actuator Failure",
+      "impact": "The failure of the front driver door actuator can cause the door to jam, making it impossible for the driver to enter or exit the vehicle, which can lead to serious life-threatening situations in emergency situations.",
+      "symptoms": [
+        "The front driver door actuator jams",
+        "the door does not open",
+        "the door does not close",
+        "the door is stuck in a partially open or closed position",
+        "difficulty opening or closing the door."
+      ],
+      "odiNumbers": [
+        "11309717"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Door Lock Actuator Failure",
+      "impact": "The failure of the power door lock actuator can cause the doors to malfunction, leading to inconvenience, security risks, and potential safety hazards, especially if the doors become stuck in an open or locked position.",
+      "symptoms": [
+        "The doors do not lock or unlock properly",
+        "the doors lock or unlock randomly",
+        "the doors make a grinding or clicking noise when attempting to lock or unlock",
+        "the door lock switch does not respond",
+        "the doors are stuck in an open or locked position."
+      ],
+      "odiNumbers": [
+        "11203689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

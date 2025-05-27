@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to inadequate protection in the event of an accident, resulting in injuries or fatalities.",
+      "symptoms": [
+        "Airbag indicator light is illuminated",
+        "diagnostic codes consistent with recall SC175",
+        "airbags fail to deploy in an accident",
+        "passenger compartment damage."
+      ],
+      "odiNumbers": [
+        "11525832",
+        "11506536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various components to malfunction, leading to safety risks, inconvenience, and potential accidents.",
+      "symptoms": [
+        "Electrical components failing or malfunctioning",
+        "including cruise control",
+        "rearview camera",
+        "navigation system",
+        "and air conditioner",
+        "intermittent issues with starting the vehicle",
+        "lights on the dashboard turning on without engine crank."
+      ],
+      "odiNumbers": [
+        "11471701",
+        "11396091",
+        "11390707",
+        "11279424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling or Failure to Start",
+      "impact": "The failure of the vehicle to start or stalling while driving can lead to accidents, strandings, and inconvenience.",
+      "symptoms": [
+        "Vehicle dies or fails to start after sitting for an extended period",
+        "intermittent issues with starting",
+        "lights on the dashboard turning on without engine crank",
+        "vehicle dies at the dealership."
+      ],
+      "odiNumbers": [
+        "11390707",
+        "11349652",
+        "11279424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Sliding Door Malfunction",
+      "impact": "The malfunction of the power sliding door can cause injuries, trapping, or inconvenience.",
+      "symptoms": [
+        "Power sliding door opens and closes on its own",
+        "sensor failure",
+        "door trapping occupants."
+      ],
+      "odiNumbers": [
+        "11277470",
+        "11208350"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure Due to Oil-Related Issues",
+      "impact": "Engine failure can cause a loss of vehicle control, leading to accidents, and potentially resulting in fires, which can put the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The engine stops working",
+        "clunking noise from the engine",
+        "smoke and fire from the engine",
+        "no warning lights or indications of engine oil issues."
+      ],
+      "odiNumbers": [
+        "11589582",
+        "11511880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Front Grill Protection",
+      "impact": "The open holes in the front grill can allow debris to damage the air conditioning condenser and radiator, leading to costly repairs and potentially causing overheating or cooling issues.",
+      "symptoms": [
+        "Damage to the air conditioning condenser and radiator",
+        "reduced cooling performance",
+        "overheating",
+        "and potential engine damage."
+      ],
+      "odiNumbers": [
+        "11504405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inaccurate Fuel Economy Claims",
+      "impact": "The discrepancy between the advertised fuel economy and the actual fuel consumption can lead to increased fuel costs and environmental impact, as well as disappointment and frustration for vehicle owners.",
+      "symptoms": [
+        "Lower-than-advertised fuel economy",
+        "frequent fuel fill-ups",
+        "and inconsistent fuel consumption."
+      ],
+      "odiNumbers": [
+        "11101192"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

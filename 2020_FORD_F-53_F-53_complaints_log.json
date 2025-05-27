@@ -1,0 +1,116 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Suspension and Power Train Recall Repair Delay",
+      "impact": "The delay in recall repair for the suspension and power train components can cause unstable vehicle handling, increasing the risk of accidents, especially when driving in windy conditions or when passed by large vehicles.",
+      "symptoms": [
+        "The vehicle is unstable in winds or when passed by large vehicles",
+        "the vehicle is pushed to the shoulder of the highway",
+        "and then a steering correction sends it back toward the left lane",
+        "poor handling on the highway."
+      ],
+      "odiNumbers": [
+        "11522238",
+        "11457176",
+        "11425533",
+        "11419212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Anti-Sway Bar Component Failure",
+      "impact": "The missing driver-side bushing, bracket, and bolts on the rear anti-sway bar can cause unstable vehicle handling, increasing the risk of accidents, especially when driving in windy conditions or when passed by large vehicles.",
+      "symptoms": [
+        "The vehicle is very unstable in winds or when passed by large vehicles",
+        "the vehicle is pushed to the shoulder of the highway",
+        "and then a steering correction sends it back toward the left lane",
+        "poor handling on the highway."
+      ],
+      "odiNumbers": [
+        "11454825"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parts Distribution Disconnect",
+      "impact": "The unavailability of parts for recall repairs can cause delays, leading to extended periods of vehicle operation with known safety issues, increasing the risk of accidents.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are unavailable",
+        "dealers are unable to perform recall repairs",
+        "manufacturers are aware of the issue but have not provided a solution."
+      ],
+      "odiNumbers": [
+        "11522238",
+        "11457176",
+        "11425533",
+        "11419212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Stability Control (ESC) System Malfunction",
+      "impact": "The malfunction of the ESC system can cause the loss of traction control, cruise control, and hill start assist, potentially affecting the Anti-Lock Braking system, which can lead to a loss of vehicle control and increased risk of accidents, especially in adverse weather conditions.",
+      "symptoms": [
+        "The Electronic Stability Control warning light comes on",
+        "disabling traction control",
+        "cruise control",
+        "and hill start assist",
+        "and possibly affecting the Anti-Lock Braking system; the warning light goes off after the engine is stopped and restarted."
+      ],
+      "odiNumbers": [
+        "11484621",
+        "11449191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "A loose or damaged wiring harness can cause a multitude of electrical system failures, including the activation of warning lights for ABS brakes, traction control, and other critical systems. This can lead to a loss of vehicle control, increased risk of accidents, and potentially even a severe fire.",
+      "symptoms": [
+        "Sudden activation of multiple warning lights on the dashboard",
+        "including ABS brakes",
+        "traction control",
+        "and others; cruise control shut-off; potential loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "11587428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause a range of problems, including the loss of critical vehicle systems, increased risk of accidents, and potentially even a severe fire.",
+      "symptoms": [
+        "Sudden activation of multiple warning lights on the dashboard",
+        "including ABS brakes",
+        "traction control",
+        "and others; loss of vehicle control; potential fire hazard."
+      ],
+      "odiNumbers": [
+        "11587428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

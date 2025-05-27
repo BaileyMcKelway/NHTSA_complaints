@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Window Regulator Failure",
+      "impact": "The failure of the window regulator can cause the window to become stuck in a position, either up or down, which can lead to inconvenience, discomfort, and potentially create a safety hazard, especially if the window is stuck in the down position and cannot be closed.",
+      "symptoms": [
+        "The window becomes stuck in a position",
+        "either up or down",
+        "the window regulator makes a loud noise",
+        "the window regulator feels loose or wobbly",
+        "the window does not roll up or down smoothly."
+      ],
+      "odiNumbers": [
+        "753659",
+        "747677"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Passenger Side Airbag Attenuator Failure",
+      "impact": "The repeated failure of the passenger side airbag attenuator can lead to malfunctioning airbags, which can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The airbag light on the dashboard illuminates",
+        "indicating a malfunction in the airbag system."
+      ],
+      "odiNumbers": [
+        "10205660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coolant Migration Causing Instrument Cluster Failure",
+      "impact": "The migration of coolant through the wiring harness can cause a short circuit, leading to instrument cluster failure, which can result in inaccurate or missing vital information, such as speed, fuel level, and engine performance, potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Speedometer malfunction",
+        "instrument cluster failure",
+        "coolant leak",
+        "wiring harness damage",
+        "short circuit",
+        "inaccurate or missing vital information on the dashboard."
+      ],
+      "odiNumbers": [
+        "10202438"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Center Seat Belt Locking Failure",
+      "impact": "The failure of the rear center seat belt to retract or extend can trap passengers in the vehicle, posing a significant safety risk, especially in emergency situations.",
+      "symptoms": [
+        "The rear center seat belt locks up and becomes stuck",
+        "preventing passengers from exiting the vehicle",
+        "requiring manual intervention to free the passenger",
+        "such as unbolting the seat belt."
+      ],
+      "odiNumbers": [
+        "10162732"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Supply Module and Fuel Line Failure",
+      "impact": "The failure of the fuel supply module and fuel line can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "The vehicle experiences a sudden loss of power",
+        "the fuel pump fails",
+        "the fuel line cracks",
+        "the fuel supply module leaks",
+        "a strong smell of gasoline is present",
+        "a bump or cracking sound is heard while driving."
+      ],
+      "odiNumbers": [
+        "10134515"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

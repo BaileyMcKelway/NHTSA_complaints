@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Reduced Engine Power and Stalling",
+      "impact": "The sudden loss of engine power and stalling can cause a loss of vehicle control, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle's engine power is reduced",
+        "the vehicle's speed is limited to 20 mph or less",
+        "the engine stalls",
+        "the \"Reduce Engine Power\" message appears on the dashboard",
+        "the check engine light comes on",
+        "the vehicle may not respond to acceleration."
+      ],
+      "odiNumbers": [
+        "11529896",
+        "11375114",
+        "11353574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "resulting in injuries or potential fatalities."
+      ],
+      "odiNumbers": [
+        "11485601",
+        "11267526",
+        "11032744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "Unintended brake activation can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brakes lock up without warning",
+        "causing the vehicle to skid or lose control",
+        "potentially resulting in a crash."
+      ],
+      "odiNumbers": [
+        "11267526",
+        "11032744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling or Sudden Stop",
+      "impact": "A sudden stop or stalling of the vehicle can cause loss of control, accidents, or injuries, especially if it occurs at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly stops or stalls without warning",
+        "potentially causing the driver to lose control or be involved in a crash."
+      ],
+      "odiNumbers": [
+        "11032744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brake system can cause a loss of control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal feels loose or spongy",
+        "the brake pedal requires multiple pumps or pressing all the way to the floor to engage",
+        "the vehicle is difficult to control or steer while braking",
+        "the brakes may fail to engage or respond slowly."
+      ],
+      "odiNumbers": [
+        "11527700"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "even when the brake pedal is pressed",
+        "making it difficult or impossible to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11443883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose traction and control, especially on wet or slippery roads, leading to accidents and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle takes longer to stop than expected",
+        "the vehicle skids or loses traction",
+        "the brakes feel spongy or soft",
+        "the ABS warning light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "11318246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

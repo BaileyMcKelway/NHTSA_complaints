@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Security System Malfunction",
+      "impact": "The security system malfunction can cause the vehicle to shut down, leaving the driver locked inside, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The security system shuts down",
+        "the vehicle loses power",
+        "the windows",
+        "doors",
+        "steering",
+        "ignition",
+        "and transmission are locked",
+        "a security light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "10382737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Transistor Failure",
+      "impact": "The failure of the power transistor can cause the engine to shut off, resulting in loss of power, reduced steering and braking, making the vehicle difficult to control, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The engine shuts off",
+        "the vehicle loses power",
+        "reduced steering and braking",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10050769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to shut down, resulting in loss of power, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle loses power",
+        "the engine shuts off",
+        "the vehicle will not start."
+      ],
+      "odiNumbers": [
+        "700035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure and Lockdown",
+      "impact": "The sudden failure of the engine can cause the vehicle to stall or lose power while driving, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine locks down or seizes while driving",
+        "the engine stalls or loses power",
+        "the vehicle suddenly shuts off while driving."
+      ],
+      "odiNumbers": [
+        "10124067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power or become stuck in gear, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission fails while driving",
+        "the transmission slips or hesitates",
+        "the vehicle is unable to shift into gear",
+        "the vehicle suddenly loses power."
+      ],
+      "odiNumbers": [
+        "10124067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The intermittent stalling of the engine can cause the vehicle to suddenly lose power or stall while driving, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or shuts off while driving",
+        "the vehicle suddenly loses power",
+        "the engine restarts after stalling."
+      ],
+      "odiNumbers": [
+        "10124067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 1,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of parts for the Takata airbag recall can lead to a delay in repairing the vehicle, potentially putting the driver and passengers at risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11066468",
+        "11024229",
+        "11023433",
+        "11022639",
+        "11006578",
+        "10934807",
+        "10910493",
+        "10888657",
+        "10883912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of an accident can lead to serious injury or death.",
+      "symptoms": [
+        "The airbag did not deploy in the event of a collision",
+        "resulting in injury to the driver or passenger."
+      ],
+      "odiNumbers": [
+        "11024249"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to a failure to deploy in the event of an accident, putting occupants at risk of serious injury or death.",
+      "symptoms": [
+        "The airbag warning light illuminates on the dashboard",
+        "the passenger airbag is not functioning",
+        "the airbag system displays an error message",
+        "the passenger seat harness airbag is faulty."
+      ],
+      "odiNumbers": [
+        "11590631",
+        "11528464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Loss of Control and Rear End Lock-Up",
+      "impact": "The sudden loss of control and rear end lock-up can cause accidents, injuries, and fatalities, especially when driving at high speeds or navigating turns.",
+      "symptoms": [
+        "The vehicle's rear end locks up",
+        "causing loss of control",
+        "the vehicle drifts or sways while turning",
+        "the steering wheel becomes difficult to turn",
+        "the vehicle hesitates or stalls when accelerating",
+        "the vehicle's transmission gets stuck in a gear",
+        "the vehicle's engine hesitates or stutters."
+      ],
+      "odiNumbers": [
+        "11513325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inconsistent and Delayed Power Delivery",
+      "impact": "The inconsistent and delayed power delivery can cause accidents, injuries, and fatalities, especially when merging onto highways or navigating heavy traffic, as it can lead to a lack of confidence in the vehicle's performance.",
+      "symptoms": [
+        "The vehicle hesitates or stutters when accelerating",
+        "the vehicle's power delivery is delayed or restricted",
+        "the vehicle's RPMs climb slowly",
+        "the vehicle's acceleration is inconsistent",
+        "the vehicle feels like it's towing a heavy load",
+        "the vehicle's power suddenly increases at high RPMs."
+      ],
+      "odiNumbers": [
+        "11480260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Scissor Jack Failure",
+      "impact": "The failure of the scissor jack can cause the vehicle to fall off the jack, leading to potential damage or injury, and can leave the driver stranded.",
+      "symptoms": [
+        "The scissor jack kicks out from under the vehicle",
+        "the vehicle falls off the jack",
+        "the jack is unstable",
+        "the jack collapses."
+      ],
+      "odiNumbers": [
+        "11511231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Theft Due to Radio Frequency Vulnerability",
+      "impact": "The vulnerability in the vehicle's radio frequency system can allow thieves to easily steal the vehicle, resulting in financial loss and potential damage to the vehicle.",
+      "symptoms": [
+        "The vehicle is stolen",
+        "the vehicle is stolen using a simple diagnostic tool",
+        "the vehicle is stolen despite having a keyless entry system."
+      ],
+      "odiNumbers": [
+        "11445578"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

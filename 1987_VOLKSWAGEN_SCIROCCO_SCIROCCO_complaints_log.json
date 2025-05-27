@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Gas Tank",
+      "impact": "A defective gas tank can cause fuel leaks, which can lead to fires, explosions, and accidents, posing a serious risk to the driver and others.",
+      "symptoms": [
+        "Gas leaking from the tank",
+        "fuel dripping down the side of the gas tank",
+        "strong fuel smell."
+      ],
+      "odiNumbers": [
+        "10047670",
+        "734286",
+        "10006998",
+        "734263",
+        "551313",
+        "550468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Sudden and catastrophic transmission failure can cause the vehicle to lose power, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Transmission locks up",
+        "sudden loss of power",
+        "transmission failure",
+        "vehicle stalls or becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "734263",
+        "734286",
+        "10006998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Dealer Negligence and Refusal to Repair",
+      "impact": "Dealers' refusal to acknowledge and repair known defects can lead to continued safety risks, accidents, and injuries.",
+      "symptoms": [
+        "Dealers deny the existence of a problem",
+        "refuse to repair or replace defective components",
+        "and may even charge for unnecessary repairs."
+      ],
+      "odiNumbers": [
+        "10047670",
+        "734286",
+        "10006998",
+        "551313",
+        "550468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure due to Ring Gear Rivet Shear",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. The cost of repair can be significant, causing financial burden to the owner.",
+      "symptoms": [
+        "The transmission fails",
+        "the ring gear rivets shear",
+        "the rivets punch through the housing",
+        "the transmission unit is destroyed",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "734995",
+        "734375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure due to Design Flaw (Omission of Clips)",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. The cost of repair can be significant, causing financial burden to the owner.",
+      "symptoms": [
+        "The transmission fails",
+        "the vehicle loses power",
+        "the transmission unit is damaged."
+      ],
+      "odiNumbers": [
+        "734375"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

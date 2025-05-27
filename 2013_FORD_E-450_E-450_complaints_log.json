@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Clutch Cylinder Well in Transmission",
+      "impact": "A cracked clutch cylinder well in the transmission can cause the \"Service Vehicle\" warning indicator to illuminate, leading to transmission failure, which can result in loss of vehicle control, accidents, or strand the driver.",
+      "symptoms": [
+        "The \"Service Vehicle\" warning indicator illuminates",
+        "transmission failure",
+        "inability to shift gears."
+      ],
+      "odiNumbers": [
+        "11073007",
+        "11073008",
+        "11073009",
+        "11073012"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering wheel to become heavy, stiff, and difficult to turn, making it challenging to control the vehicle, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel is hard to turn",
+        "the steering wheel does not return easily to center",
+        "the steering wheel requires manual assistance to return to center",
+        "the vehicle tracks side to side on uneven or grooved payment surfaces",
+        "the vehicle is pushed to the right or left when a larger vehicle passes on the freeway."
+      ],
+      "odiNumbers": [
+        "10564260",
+        "10561282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hydro Boost Unit Failure",
+      "impact": "The failure of the hydro boost unit can cause a loss of hydraulic fluid, leading to a failure of the power steering and power braking systems, which can result in a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Hydraulic fluid leak",
+        "power steering failure",
+        "power braking failure",
+        "difficulty steering",
+        "difficulty braking."
+      ],
+      "odiNumbers": [
+        "10561282"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Theft System Malfunction",
+      "impact": "The malfunction of the anti-theft system can cause the vehicle to not start, leaving the driver stranded, and potentially causing inconvenience or even safety risks in certain situations.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the anti-theft system is activated",
+        "the dashboard displays an error message",
+        "the vehicle's alarm sounds",
+        "the vehicle's lights flash",
+        "lost communication with the vehicle's computer system."
+      ],
+      "odiNumbers": [
+        "11120875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

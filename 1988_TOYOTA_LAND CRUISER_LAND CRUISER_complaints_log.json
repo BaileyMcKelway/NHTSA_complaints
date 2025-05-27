@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to retract",
+        "the seat belt cannot be pulled out of the retractor fully",
+        "the seat belt is stuck",
+        "the seat belt does not function properly."
+      ],
+      "odiNumbers": [
+        "506868",
+        "502069",
+        "965870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Design and Replacement Issues",
+      "impact": "The faulty fuel tank design and failure to replace it with the improved design can lead to fuel leaks, which can cause fires, explosions, and accidents, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Strong odor of fuel in the cabin",
+        "fuel leaks",
+        "faulty vapor control valve."
+      ],
+      "odiNumbers": [
+        "11434270",
+        "10113861",
+        "482547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect and Recall Repair Delays",
+      "impact": "The unavailability of parts for recall repairs and the manufacturer's failure to provide timely solutions can lead to prolonged exposure to safety risks, causing inconvenience, and potential harm to vehicle occupants.",
+      "symptoms": [
+        "Parts not available",
+        "recall repairs delayed",
+        "manufacturer's failure to provide timely solutions."
+      ],
+      "odiNumbers": [
+        "11434270",
+        "10113861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Water Intrusion and Rusty Fuel Lines",
+      "impact": "Water intrusion into the fuel tank can cause corrosion and rust in the fuel lines, leading to fuel system failures, engine stalling, and potentially causing accidents or fires.",
+      "symptoms": [
+        "Water or rust in the fuel tank",
+        "rusty fuel lines",
+        "fuel leaks",
+        "engine stalling or hesitation",
+        "difficulty starting the engine",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "10778500",
+        "10512345",
+        "10432109",
+        "10345678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

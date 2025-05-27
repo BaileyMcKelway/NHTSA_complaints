@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock up or fail, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The front brake lever is frozen in the open position",
+        "the front brake lever is completely stiff",
+        "the rear brake pedal bottoms out",
+        "resulting in sudden loss of rear braking",
+        "the brakes lock up",
+        "and the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "11413860",
+        "11133214",
+        "11076560",
+        "10944679",
+        "10903719",
+        "10887735",
+        "10884505",
+        "10883607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Fluid Contamination",
+      "impact": "Contaminated brake fluid can cause the ABS system to fail, leading to brake failure and potential accidents.",
+      "symptoms": [
+        "The brake fluid is contaminated with moisture",
+        "which can damage the actuator valves in the ABS system."
+      ],
+      "odiNumbers": [
+        "10944679",
+        "11133214",
+        "11076560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Lever Freezing",
+      "impact": "The freezing of the brake lever can cause the brakes to fail, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The front brake lever is frozen in the open position",
+        "the front brake lever is completely stiff",
+        "and the brake lever is unable to be pulled."
+      ],
+      "odiNumbers": [
+        "11413860",
+        "11133214",
+        "11076560",
+        "10944679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dunlop D408F Tire Sidewall Cracking",
+      "impact": "The cracking of the sidewall on the Dunlop D408F tire can lead to a blowout, loss of control, and potentially cause accidents, resulting in injuries or fatalities.",
+      "symptoms": [
+        "Cracking or splitting of the tire sidewall",
+        "often noticed while driving at moderate speeds."
+      ],
+      "odiNumbers": [
+        "10466013",
+        "10463280",
+        "10462077"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Rear Brake Lighting",
+      "impact": "The lack of a separate rear brake light and the design of the combined turn signal, running light, and brake light can lead to confusion for other drivers, increasing the risk of rear-end collisions and accidents.",
+      "symptoms": [
+        "Difficulty for other drivers to determine when the motorcycle is braking",
+        "as the turn signals only change in intensity and do not turn off and on",
+        "making it hard to distinguish between braking and turning."
+      ],
+      "odiNumbers": [
+        "10422955",
+        "10415325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

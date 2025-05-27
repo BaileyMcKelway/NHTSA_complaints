@@ -1,0 +1,52 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Overheating Issues at Low Speeds",
+      "impact": "The engine overheating at low speeds can cause the motorcycle to stall or seize, leading to a loss of control, accidents, or injuries, especially in congested traffic conditions.",
+      "symptoms": [
+        "The engine overheats at speeds below 15-20 mph",
+        "the temperature gauge enters the red zone",
+        "the motorcycle stalls or seizes",
+        "the coolant overflow tank vents coolant onto the rear tire",
+        "the radiator fans blow forward into the direction of travel",
+        "the engine requires high speeds to cool down."
+      ],
+      "odiNumbers": [
+        "753463",
+        "753417",
+        "753426",
+        "753440",
+        "750573"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inaccurate Speedometer and Odometer Readings",
+      "impact": "Inaccurate speedometer readings can cause safety problems, particularly on high-speed roads, as drivers may be unaware of their actual speed, leading to potential accidents or near-misses.",
+      "symptoms": [
+        "Speedometer readings are consistently 6-8% higher than actual speed",
+        "odometer readings are consistently 6% higher than actual distance traveled",
+        "drivers must constantly calculate their actual speed",
+        "leading to distraction and increased risk of accidents."
+      ],
+      "odiNumbers": [
+        "754553",
+        "752772",
+        "751743",
+        "751469"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

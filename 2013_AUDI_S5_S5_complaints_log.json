@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Mechatronic Unit Failure",
+      "impact": "The failure of the mechatronic unit can cause the vehicle to lose power, jerk, or slip when shifting gears, leading to a loss of control and increased risk of accidents. It can also cause the vehicle to enter limp mode, making it difficult or impossible to drive.",
+      "symptoms": [
+        "Random jerking when driving",
+        "loss of power",
+        "\"gearbox malfunction\" code on the dashboard",
+        "transmission malfunction",
+        "limited functionality",
+        "skipping gears",
+        "rough downshift",
+        "rough idle",
+        "noise coming from the transmission",
+        "and inability to engage gears."
+      ],
+      "odiNumbers": [
+        "11505091",
+        "11419483",
+        "11373431",
+        "11350133",
+        "11235288",
+        "11203344",
+        "11203350",
+        "11112801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering Failure",
+      "impact": "The failure of the electric power steering system can cause the loss of power assist for steering, leading to increased difficulty in steering, especially at high speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "The power steering fails",
+        "causing the car to lose all power assist for steering",
+        "resistance at the 12 o'clock position in the steering",
+        "a \"notch\" feeling in the electric steering",
+        "steering locks up",
+        "and a \"steering defective\" warning message appears."
+      ],
+      "odiNumbers": [
+        "11184369",
+        "10562801",
+        "10558045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Leak and Fuel System Failure",
+      "impact": "A fuel leak can cause a strong gas smell, which is a fire hazard, and can also prevent the engine from getting the necessary fuel, making it difficult to start the car.",
+      "symptoms": [
+        "Strong gas smell",
+        "difficulty starting the car",
+        "fuel not reaching the engine."
+      ],
+      "odiNumbers": [
+        "11516443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction and Hesitation",
+      "impact": "Transmission malfunction can cause hesitation, jerking, and loss of power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Error code \"Transmission Malfunction\"",
+        "hesitation at low RPM or while stopped",
+        "jerking forward despite brakes being firmly applied",
+        "error code P179D00."
+      ],
+      "odiNumbers": [
+        "11151115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

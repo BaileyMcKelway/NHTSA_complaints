@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VISIBILITY",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Space between Brake Pedal and Engine Cover",
+      "impact": "The design defect can cause the driver's foot to get caught under the brake pedal, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The driver's foot gets caught under the brake pedal when removing it from the gas pedal",
+        "difficulty operating the brake pedal."
+      ],
+      "odiNumbers": [
+        "564456",
+        "564456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The malfunctioning rear brakes can cause the vehicle to take longer to stop, increasing the risk of accidents, especially on wet or icy roads.",
+      "symptoms": [
+        "Long braking distance",
+        "rear brakes lock up",
+        "difficulty stopping on wet or icy roads."
+      ],
+      "odiNumbers": [
+        "880100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The malfunctioning ABS can cause the brakes to lock up, leading to accidents or loss of control.",
+      "symptoms": [
+        "ABS locks up",
+        "difficulty stopping",
+        "accidents resulting from brake failure."
+      ],
+      "odiNumbers": [
+        "536991",
+        "961095"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Irregularity and Obstruction",
+      "impact": "The irregularity on the driver's side windshield can cause an obstructed view, especially during rain, which can lead to accidents or reduced visibility.",
+      "symptoms": [
+        "The driver's view is obstructed",
+        "the windshield area cannot be cleaned by the wiper",
+        "the road is difficult to discern in clear and sunny weather."
+      ],
+      "odiNumbers": [
+        "894356"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can reduce visibility during rain or other weather conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers stop functioning without apparent reason",
+        "wipers have intermittent operation",
+        "wipers can be restarted by tapping on the motor housing and/or moving wires that plug into the wiper motor."
+      ],
+      "odiNumbers": [
+        "705047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Dry Rot and Cracking",
+      "impact": "Tire dry rot and cracking can cause tire failure, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tires show signs of dry rot and cracking",
+        "despite having sufficient tread",
+        "which can lead to sudden tire blowouts",
+        "especially at high speeds."
+      ],
+      "odiNumbers": [
+        "10354252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

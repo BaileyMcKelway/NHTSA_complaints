@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "STRUCTURE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of control, accidents, and damage to the vehicle, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Vibrations while driving",
+        "tire tread separation",
+        "tire damage",
+        "loss of control",
+        "accidents."
+      ],
+      "odiNumbers": [
+        "10023165",
+        "8015770"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Incompatible Spare Tire Size",
+      "impact": "Using a spare tire with a different size than the other tires can cause uneven tire wear, loss of control, and accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "None reported",
+        "but potential risks include loss of control",
+        "accidents",
+        "and uneven tire wear."
+      ],
+      "odiNumbers": [
+        "753264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Sliding Door Malfunction",
+      "impact": "The malfunction of the power sliding door can cause unexpected opening or closure, leading to injuries or accidents, especially when occupants are entering or exiting the vehicle.",
+      "symptoms": [
+        "The power sliding door opens or closes unexpectedly",
+        "the door opens too far or gets stuck",
+        "the door handle malfunctions",
+        "the door does not respond to commands."
+      ],
+      "odiNumbers": [
+        "8014662",
+        "566288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydraulic Brake Booster Failure",
+      "impact": "The failure of the hydraulic brake booster can cause the vehicle to become difficult to stop, requiring excessive pressure on the brake pedal, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the vehicle is difficult to stop",
+        "the brake pedal requires extreme pressure to stop the vehicle",
+        "the brakes work normally after removing the ABS fuse."
+      ],
+      "odiNumbers": [
+        "10386777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

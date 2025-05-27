@@ -1,0 +1,159 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Malfunction",
+      "impact": "The malfunction of the instrument cluster can cause inaccurate and erratic readings of vital vehicle information, such as speed, temperature, and fuel levels, which can lead to confusion, accidents, or engine damage.",
+      "symptoms": [
+        "Speedometer",
+        "tachometer",
+        "gas gauge",
+        "and heat gauge readings are inaccurate or erratic",
+        "speedometer reads incorrectly while at a complete stop",
+        "temperature gauge reads overheating soon after starting the engine",
+        "instrument panel goes out or becomes unresponsive."
+      ],
+      "odiNumbers": [
+        "10261340",
+        "10244548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause engine stalling, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "loose battery cable nut",
+        "interference with high-ampereage equipment."
+      ],
+      "odiNumbers": [
+        "546862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Wiring Harness Failure",
+      "impact": "The failure of the fuel pump wiring harness can cause the fuel pump to malfunction, leading to engine stalling, loss of power, and potentially, a fire hazard, which can result in accidents or injuries.",
+      "symptoms": [
+        "The fuel pump fails to work",
+        "the engine stalls or loses power",
+        "the wires inside the fuel tank burn out",
+        "the wires become hot and melt the plastic insulation",
+        "the fuel pump wiring harness shows signs of melting or burning."
+      ],
+      "odiNumbers": [
+        "10075497",
+        "882189",
+        "718202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without input from the driver",
+        "the vehicle surges forward unexpectedly",
+        "the vehicle's idle speed fluctuates erratically."
+      ],
+      "odiNumbers": [
+        "8013589",
+        "801887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "Malfunctioning cruise control can cause driver distraction, loss of vehicle control, and potentially lead to accidents.",
+      "symptoms": [
+        "The cruise control does not engage properly",
+        "the cruise control disengages unexpectedly",
+        "the vehicle requires the engine to be turned off and on to reset the cruise control."
+      ],
+      "odiNumbers": [
+        "984448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust Manifold Bolt Failure",
+      "impact": "The failure of the exhaust manifold bolts can cause exhaust gases to leak into the vehicle, posing a significant risk to the health and safety of occupants.",
+      "symptoms": [
+        "Broken or loose exhaust manifold bolts",
+        "exhaust gases leaking into the vehicle",
+        "poor fitting manifolds."
+      ],
+      "odiNumbers": [
+        "719453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Wheel Horn Failure",
+      "impact": "The failure of the steering wheel horn can delay or prevent the sounding of the horn in emergency situations, increasing the risk of accidents.",
+      "symptoms": [
+        "Difficulty sounding the horn",
+        "requiring excessive force to sound the horn",
+        "delayed or no response to horn activation."
+      ],
+      "odiNumbers": [
+        "719453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Auxiliary Power Stud Failure",
+      "impact": "The failure of the auxiliary power stud can cause a loss of power, leading to accidents, and in some cases, fires.",
+      "symptoms": [
+        "Loss of power while driving",
+        "deformed support assembly",
+        "fires starting under the hood."
+      ],
+      "odiNumbers": [
+        "719453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Stalling without Indication",
+      "impact": "The sudden stalling of the vehicle without warning can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "Vehicle stalling without indication",
+        "gas cap replacement",
+        "fuel pump replacement",
+        "burning wires."
+      ],
+      "odiNumbers": [
+        "856015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

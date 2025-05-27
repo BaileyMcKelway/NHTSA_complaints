@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the rider to be misled about the fuel level, leading to unexpected engine stalling, stranding, and potentially dangerous situations on busy highways and bridges.",
+      "symptoms": [
+        "The fuel gauge reads full then sticks at halfway",
+        "the fuel gauge drops to empty when the tank is not empty",
+        "the fuel gauge shows fuel when the tank is empty",
+        "the fuel gauge is intermittent",
+        "the fuel gauge does not work at all",
+        "the low fuel light comes on unexpectedly."
+      ],
+      "odiNumbers": [
+        "10424797",
+        "10410858",
+        "10389783",
+        "10383142",
+        "10362538",
+        "10351199",
+        "10348280",
+        "10347927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Light Switch Failure",
+      "impact": "The failure of the rear brake light switch can cause a severe brake fluid leak, leading to a loss of rear brake pressure, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Smoke or burning smell from underneath the motorcycle",
+        "no rear brake pressure",
+        "brake fluid leak",
+        "brake light switch burned or melted",
+        "repeated brake failure",
+        "loss of control of rear brake pressure."
+      ],
+      "odiNumbers": [
+        "10504135",
+        "10349914",
+        "10349921",
+        "10349741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Fluid Leak",
+      "impact": "Brake fluid leaks can cause a loss of brake pressure, leading to accidents or loss of control.",
+      "symptoms": [
+        "Brake fluid leak from the clutch and brake fluid reservoirs",
+        "repeated brake failure",
+        "loss of control of rear brake pressure."
+      ],
+      "odiNumbers": [
+        "10456702",
+        "10366776",
+        "10349921"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Gas Gauge Malfunction",
+      "impact": "An intermittent gas gauge malfunction can cause the rider to be unaware of the fuel level, leading to unexpected engine stalling or running out of fuel.",
+      "symptoms": [
+        "Gas gauge works sometimes and not others (random)."
+      ],
+      "odiNumbers": [
+        "10456702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Shock Absorber Failure",
+      "impact": "The failure of the rear shock absorber can cause loss of vehicle control, reduced stability, and increased stopping distances, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle experiences uneven ride quality",
+        "the rear of the vehicle sags or leans",
+        "the vehicle makes unusual noises while driving",
+        "the shock absorber leaks fluid",
+        "the shock absorber mounting breaks or fails."
+      ],
+      "odiNumbers": [
+        "10621556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Shock Absorber Mounting Failure",
+      "impact": "The failure of the shock absorber mounting can cause loss of vehicle control, reduced stability, and increased stopping distances, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle experiences uneven ride quality",
+        "the rear of the vehicle sags or leans",
+        "the vehicle makes unusual noises while driving",
+        "the shock absorber leaks fluid",
+        "the shock absorber mounting breaks or fails."
+      ],
+      "odiNumbers": [
+        "10621556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

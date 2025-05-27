@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEATS",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes do not respond or engage",
+        "the brake pedal feels soft or spongy",
+        "the vehicle does not stop or slow down",
+        "the vehicle pulls to one side",
+        "the vehicle goes into a skid",
+        "the transmission locks up",
+        "the rear brakes do not work",
+        "the front brakes wear out quickly."
+      ],
+      "odiNumbers": [
+        "709036",
+        "805308",
+        "984501",
+        "982191",
+        "975471",
+        "970738",
+        "965065",
+        "959587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "The failure of the rear brakes can cause the vehicle to lose control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The rear brakes do not work",
+        "the front brakes do all the braking",
+        "the front brakes wear out quickly",
+        "the vehicle pulls to one side",
+        "the vehicle goes into a skid."
+      ],
+      "odiNumbers": [
+        "982191",
+        "970738"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Backrest Collapse",
+      "impact": "The sudden collapse of the seat backrest can cause the driver to lose control of the vehicle, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The driver's seat backrest collapses rearward while driving",
+        "the seat backrest falls backward when entering or exiting the vehicle",
+        "the seat backrest does not return to its upright position",
+        "the seat backrest collapses when leaned against",
+        "the bolts in the seat mechanism shear off",
+        "the seat falls backward while driving."
+      ],
+      "odiNumbers": [
+        "986250",
+        "983276",
+        "982475",
+        "980629",
+        "976919",
+        "973872",
+        "971961",
+        "970096",
+        "968938",
+        "968220",
+        "966182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become inoperable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt fails to extend out of the holster",
+        "the seat belt is worn and frayed",
+        "the seat belt jams inside the retractor assembly",
+        "the seat belt does not restrain the driver or passenger during an accident."
+      ],
+      "odiNumbers": [
+        "985165",
+        "980627",
+        "970699",
+        "961799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

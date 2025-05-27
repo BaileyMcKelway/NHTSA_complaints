@@ -1,0 +1,70 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates uncontrollably",
+        "the engine roars or surges",
+        "the vehicle lurches forward",
+        "the brakes are overpowered",
+        "and the vehicle may collide with objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "10168658",
+        "10054289",
+        "552529",
+        "850868",
+        "841128",
+        "807718",
+        "984650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Airbag Sensor",
+      "impact": "A faulty airbag sensor can lead to non-deployment of airbags during a vehicle accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The airbag sensor light is faulty",
+        "the airbag warning light is illuminated",
+        "sudden acceleration without airbag deployment",
+        "airbag failure without a specific reason."
+      ],
+      "odiNumbers": [
+        "10054287",
+        "533528",
+        "513027",
+        "972958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Alarm System",
+      "impact": "The malfunctioning alarm system can cause unnecessary stress, disturbance, and inconvenience to the vehicle owner and nearby residents, especially if it goes off during the night.",
+      "symptoms": [
+        "The alarm system goes off randomly",
+        "often during the middle of the night",
+        "without any apparent reason or trigger",
+        "causing a loud noise and disturbance."
+      ],
+      "odiNumbers": [
+        "10054290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

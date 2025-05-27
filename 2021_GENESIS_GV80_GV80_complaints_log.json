@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Control System Failure",
+      "impact": "The failure of the engine control system can cause the check engine warning light to illuminate, potentially leading to engine damage or failure, which can cause a loss of power, stalling, or other safety issues while driving.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "the engine control system warning message appears on the display screen",
+        "the vehicle may stall or lose power",
+        "the vehicle may experience reduced performance."
+      ],
+      "odiNumbers": [
+        "11453420",
+        "11433596",
+        "11422620",
+        "11413245"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the battery to drain rapidly, leading to sudden loss of power and potential accidents. Additionally, malfunctioning systems can lead to distractions while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Battery drains rapidly without any apparent reason",
+        "infotainment system shuts down after a short period",
+        "lane change warning light and front collision warning malfunction",
+        "backup camera and warning system fail to operate",
+        "delayed shutdown of vehicle systems after parking."
+      ],
+      "odiNumbers": [
+        "11577476",
+        "11500069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door and Window Lock Malfunction",
+      "impact": "Malfunctioning door and window locks can compromise the safety of occupants, especially children, and increase the risk of accidents.",
+      "symptoms": [
+        "Child window and door locks malfunction",
+        "mirror controls and window controls from driver door panel malfunction",
+        "repeated random events occur."
+      ],
+      "odiNumbers": [
+        "11552628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Infotainment System Failure",
+      "impact": "The failure of the infotainment system can cause distractions while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Infotainment system shuts down after a short period",
+        "malfunctioning warning systems",
+        "backup camera failure."
+      ],
+      "odiNumbers": [
+        "11500069"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Shutdown and Restart Issues",
+      "impact": "Sudden shutdown of the vehicle can cause accidents, especially if it occurs while driving. Delayed shutdown of vehicle systems can also lead to battery drain and other issues.",
+      "symptoms": [
+        "Vehicle shuts down suddenly",
+        "delayed shutdown of vehicle systems after parking."
+      ],
+      "odiNumbers": [
+        "11500069",
+        "11577476"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause a loss of power, making the vehicle difficult to control, and potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences a loss of power",
+        "the accelerator is unresponsive to input",
+        "the vehicle shakes violently",
+        "and the car may stall."
+      ],
+      "odiNumbers": [
+        "11577131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Door Release Issue",
+      "impact": "The faulty fuel door release mechanism can cause inconvenience and delay, but it does not pose a direct safety risk.",
+      "symptoms": [
+        "The fuel cap does not open right away",
+        "requiring repeated locking and unlocking of the door to release the fuel door."
+      ],
+      "odiNumbers": [
+        "11516913"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective Fuel Injector System",
+      "impact": "The defective fuel injector system can cause the check engine light to illuminate, and if left unaddressed, may lead to engine damage or failure, potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The check engine light illuminates",
+        "and the vehicle may experience poor engine performance or stalling."
+      ],
+      "odiNumbers": [
+        "11399514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Occupant Detection System (PODS) Failure",
+      "impact": "The failure of the PODS can cause the passenger airbag to be disabled, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The passenger airbag off warning light remains illuminated with an occupant seated in the passenger's side seat",
+        "the safety system malfunction warning appears",
+        "the airbag dash light is illuminated",
+        "the Pre-Sense system is restricted",
+        "the airbags and other safety systems do not work."
+      ],
+      "odiNumbers": [
+        "11482415",
+        "11421367",
+        "11373622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to a failure to deploy in the event of a crash, increasing the risk of injury or fatality to occupants. Additionally, the constant warning lights and messages can cause driver distraction and anxiety.",
+      "symptoms": [
+        "Airbag warning light on",
+        "passenger seat belt warning on",
+        "\"Passenger airbag off\" illuminated constantly",
+        "frequent \"Safety system: malfunction! See owner's manual\" and \"Audi pre sense: currently restricted. See owner's manual\" messages on the dashboard",
+        "intermittent failure of airbag systems",
+        "safety systems",
+        "and blind spot monitoring systems."
+      ],
+      "odiNumbers": [
+        "11490118",
+        "11437552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Leak/Fuel Spit Back",
+      "impact": "A fuel system leak or fuel spit back can cause a fire or explosion, potentially leading to loss of life, property damage, and adjacent home damage.",
+      "symptoms": [
+        "Fuel spit back during refueling",
+        "refueling shutoff at any rate of fuel delivery",
+        "strong fuel odor in the garage or surrounding area",
+        "persistent fuel odor for an extended period."
+      ],
+      "odiNumbers": [
+        "11566348"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

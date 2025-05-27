@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Brake Rotor Warping and Wear",
+      "impact": "Premature brake rotor warping and wear can lead to reduced braking performance, increased stopping distances, and potentially cause accidents.",
+      "symptoms": [
+        "Brake rotors warp and wear prematurely",
+        "brake pads wear out quickly",
+        "brake pedal pulsation or vibration",
+        "uneven brake rotor wear",
+        "brake noise or grinding sounds."
+      ],
+      "odiNumbers": [
+        "705151",
+        "516012",
+        "972014",
+        "972014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of vehicle control, accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "brake pedal goes to the floor",
+        "brake warning lights illuminate",
+        "unusual brake noise or sounds",
+        "brake fluid leaks."
+      ],
+      "odiNumbers": [
+        "480424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration and brake failure can cause the vehicle to lose control, leading to accidents, damage to property, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the brakes fail to respond or are ineffective",
+        "the vehicle surges forward or backward",
+        "the vehicle is difficult to control or steer",
+        "the vehicle crashes or collides with objects."
+      ],
+      "odiNumbers": [
+        "10316523",
+        "10316530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Window Failure due to Faulty Window Regulator and Glass Runs",
+      "impact": "The failure of the power window system can cause the window to fall out of the door, potentially leading to accidents or injuries, especially at high speeds.",
+      "symptoms": [
+        "The window falls out of the door while driving",
+        "the window regulator fails",
+        "the glass runs break",
+        "the door opens unexpectedly while driving",
+        "the window does not stay in place."
+      ],
+      "odiNumbers": [
+        "10005482",
+        "740401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Door Opening Uncontrollably due to Power Window Failure",
+      "impact": "The failure of the power window system can cause the door to open unexpectedly while driving, which can lead to accidents or injuries, especially at high speeds.",
+      "symptoms": [
+        "The door opens unexpectedly while driving",
+        "the window falls out of the door while driving",
+        "the window regulator fails",
+        "the glass runs break",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "740401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

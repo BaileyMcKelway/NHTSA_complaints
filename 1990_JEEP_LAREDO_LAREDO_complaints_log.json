@@ -1,0 +1,157 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brake pedal to travel abnormally to the floor, leading to a loss of braking power, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS light illuminates",
+        "the brake pedal travels to the floor",
+        "the vehicle stops and then jumps ahead",
+        "the brakes fail to respond",
+        "the vehicle is unable to stop",
+        "the rear wheel cylinders leak",
+        "causing the brakes to squeal."
+      ],
+      "odiNumbers": [
+        "10615384",
+        "10348871",
+        "876684",
+        "553654",
+        "858533",
+        "543632",
+        "534675",
+        "520445",
+        "807893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the pedal to travel abnormally to the floor, leading to a loss of braking power, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the brakes fail to respond",
+        "the vehicle is unable to stop."
+      ],
+      "odiNumbers": [
+        "10615384",
+        "876684",
+        "858533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotor can cause the wheel to lock up, leading to a loss of control and increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The front brake rotor breaks",
+        "causing the front wheel to lock up."
+      ],
+      "odiNumbers": [
+        "534675",
+        "807893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Design Flaw",
+      "impact": "The lack of a safety relief valve in the cooling system can lead to the fill bottle exploding when overheating occurs, causing damage to the vehicle and potentially injuring the driver or passengers.",
+      "symptoms": [
+        "Overheating",
+        "loss of coolant",
+        "damage to the fill bottle",
+        "damage to surrounding components."
+      ],
+      "odiNumbers": [
+        "543260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Serpentine Belt Failure",
+      "impact": "The failure of the serpentine belt can cause the loss of essential systems such as the alternator, power steering, and air conditioning, leading to a loss of vehicle control and potentially causing accidents.",
+      "symptoms": [
+        "Squealing or screeching noise from the engine",
+        "loss of power steering",
+        "loss of air conditioning",
+        "battery drain",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "543632",
+        "543260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Radiator Hose Clamp Failure",
+      "impact": "The failure of the radiator hose clamp can cause coolant leaks, leading to engine overheating and potentially causing damage to the engine and surrounding components.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine overheating",
+        "loss of coolant",
+        "damage to surrounding components."
+      ],
+      "odiNumbers": [
+        "543632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vibration Pulley Mounting Failure",
+      "impact": "The failure of the vibration pulley mounting can cause the serpentine belt to shred, leading to the loss of essential systems such as the alternator, power steering, and air conditioning, and potentially causing accidents.",
+      "symptoms": [
+        "Squealing or screeching noise from the engine",
+        "loss of power steering",
+        "loss of air conditioning",
+        "battery drain",
+        "engine overheating."
+      ],
+      "odiNumbers": [
+        "543260"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to become difficult to steer, increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering is stiff or difficult to turn",
+        "the power steering is cold or unresponsive",
+        "power steering fluid is leaking",
+        "the power steering pump is noisy or whining",
+        "the vehicle is difficult to steer."
+      ],
+      "odiNumbers": [
+        "543632",
+        "501080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

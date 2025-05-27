@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure on Wet Pavement",
+      "impact": "The failure of the ABS system on wet pavement can cause the wheels to lock up, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The ABS system fails to engage on wet pavement",
+        "the wheels lock up",
+        "the vehicle experiences reduced braking performance",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "510606",
+        "601637",
+        "976374",
+        "974182"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Insufficient Brake Pedal Clearance",
+      "impact": "Insufficient clearance to depress the brake pedal can cause the driver to be unable to stop the vehicle in a timely manner, leading to accidents and potential injuries.",
+      "symptoms": [
+        "The brake pedal is difficult to press",
+        "the brake pedal requires excessive force to press",
+        "the driver's foot hits the floor or other obstructions while trying to press the brake pedal."
+      ],
+      "odiNumbers": [
+        "480635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Frame Failure/Frame Cracking",
+      "impact": "The failure of the front frame can cause the vehicle to become inoperable, leading to a loss of control and increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The frame cracks or breaks",
+        "the vehicle is unable to operate",
+        "the vehicle's structural integrity is compromised",
+        "unusual noises or vibrations are present while driving."
+      ],
+      "odiNumbers": [
+        "982390",
+        "500795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Transmission Failure to Engage",
+      "impact": "The intermittent failure of the automatic transmission to engage can cause the vehicle to stall or not move, which can lead to accidents, especially when merging onto a busy road or when driving uphill.",
+      "symptoms": [
+        "The vehicle hesitates or refuses to move after a cold start",
+        "the transmission slips or hesitates before engaging",
+        "the vehicle stalls or shuts off after starting",
+        "the transmission makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "986762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

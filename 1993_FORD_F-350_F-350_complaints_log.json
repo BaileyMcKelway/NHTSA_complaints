@@ -1,0 +1,341 @@
+{
+  "totalComplaints": 112,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Lockup",
+      "impact": "The sudden and unexpected lockup of the rear brakes can cause loss of control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Rear brakes lock up when pressed",
+        "vehicle vibration",
+        "loss of steering control",
+        "pulsation when brakes are applied."
+      ],
+      "odiNumbers": [
+        "10015413",
+        "886169",
+        "859824",
+        "808948",
+        "514663",
+        "509548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Brake Failure",
+      "impact": "The failure of the front brakes can cause loss of control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Front brakes lock up",
+        "brake pedal goes to the floor",
+        "vehicle pulls to one side",
+        "repeated failure of brake components."
+      ],
+      "odiNumbers": [
+        "886169",
+        "537623",
+        "535940",
+        "514663",
+        "489919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause loss of control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "ABS light comes on",
+        "loss of braking",
+        "pulsation when brakes are applied",
+        "long stopping distance",
+        "pedal fade."
+      ],
+      "odiNumbers": [
+        "808500",
+        "803460",
+        "801112",
+        "982495",
+        "977114",
+        "975936",
+        "975564",
+        "966774",
+        "965236",
+        "959093",
+        "958502"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause loss of control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Master cylinder failure",
+        "brake pedal goes to the floor",
+        "repeated failure of brake components."
+      ],
+      "odiNumbers": [
+        "535940",
+        "537623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause loss of control, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal goes to the floor",
+        "repeated failure of brake components."
+      ],
+      "odiNumbers": [
+        "537623",
+        "535940",
+        "514663",
+        "489919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Serpentine Belt Failure",
+      "impact": "The failure of the serpentine belt can cause the vehicle to lose power, leading to extended stopping distances, and potentially resulting in accidents. Additionally, the belt can damage other components, such as transmission cooler lines, radiator lines, and idler pulleys, which can lead to further safety risks.",
+      "symptoms": [
+        "The serpentine belt snaps or falls off",
+        "causing the vehicle to lose power",
+        "the belt tensioner keeps shredding the serpentine belt",
+        "the belt disintegrates and falls off at high speeds",
+        "the belt comes off due to misalignment of the spring-loaded idler tightener bracket."
+      ],
+      "odiNumbers": [
+        "10113074",
+        "10091352",
+        "8024185",
+        "538009",
+        "537955",
+        "821554",
+        "818528",
+        "505418",
+        "976326",
+        "972891",
+        "972362",
+        "970931",
+        "968922",
+        "966990",
+        "489469",
+        "482539",
+        "482546"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "The failure of the exhaust system can cause exhaust fumes to leak into the cabin, posing a health risk to occupants. Additionally, the failure can lead to engine problems and potentially cause a fire.",
+      "symptoms": [
+        "Exhaust fumes leak into the cabin",
+        "the exhaust gas recirculation tube (EGR) has a hole in it",
+        "smoke comes from the exhaust system into the engine compartment."
+      ],
+      "odiNumbers": [
+        "10105360",
+        "10067097",
+        "540250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Problems",
+      "impact": "Engine problems can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine check light comes on",
+        "the vehicle intermittently stalls while driving",
+        "the engine locks up due to cylinder failure",
+        "the vehicle has engine problems."
+      ],
+      "odiNumbers": [
+        "894659",
+        "540250",
+        "976326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure - Spontaneous Fires and Fuel Leaks",
+      "impact": "The failure of the fuel system can cause spontaneous fires, fuel leaks, and engine stalling, which can lead to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Fuel spills from the fuel filler neck",
+        "fuel leaks from the gas line",
+        "fuel smell inside the vehicle",
+        "engine stalling",
+        "humming noise from the fuel tanks",
+        "fuel not being pumped to the engine",
+        "and fuel return leaking diesel fuel onto injectors and exhaust."
+      ],
+      "odiNumbers": [
+        "10262715",
+        "10259955",
+        "10163341",
+        "893782",
+        "890033",
+        "887231",
+        "885279",
+        "882971",
+        "881421",
+        "862335",
+        "713262",
+        "846706",
+        "531163",
+        "803771"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pressure Regulator Failure",
+      "impact": "The failure of the fuel pressure regulator can cause fuel to leak from the fuel filler neck, leading to a fire hazard.",
+      "symptoms": [
+        "Fuel spills from the fuel filler neck",
+        "fuel leaks from the gas line",
+        "and fuel smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10259955",
+        "713262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Check Valve Defect",
+      "impact": "The defect in the fuel pump check valve can cause fuel to transfer from the rear tank to the front tank, leading to fuel spills and a fire hazard.",
+      "symptoms": [
+        "Fuel spills from the fuel filler neck",
+        "fuel leaks from the gas line",
+        "and fuel smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10259955",
+        "713262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Tank System Failure",
+      "impact": "The failure of the dual tank system can cause fuel to transfer from one tank to another, leading to fuel spills and a fire hazard.",
+      "symptoms": [
+        "Fuel spills from the fuel filler neck",
+        "fuel leaks from the gas line",
+        "and fuel smell inside the vehicle."
+      ],
+      "odiNumbers": [
+        "10163341",
+        "882971",
+        "862335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Slave Cylinder Failure",
+      "impact": "The failure of the clutch slave cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10133264",
+        "837069",
+        "522250",
+        "813942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Master Cylinder Failure",
+      "impact": "The failure of the clutch master cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10010207",
+        "853207",
+        "822863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch Linkage Failure",
+      "impact": "The failure of the clutch linkage can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "8017814",
+        "862617",
+        "974465"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Issues",
+      "impact": "Harsh shifting of the transmission can cause loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Harsh shifting",
+        "difficulty shifting gears",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "712503",
+        "533395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "TIRES",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "surges forward",
+        "or stalls",
+        "especially when making a sudden stop",
+        "slowing down",
+        "or when the engine is cold or humid."
+      ],
+      "odiNumbers": [
+        "10046341",
+        "8006928",
+        "805092",
+        "743172",
+        "743174"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unstable Acceleration",
+      "impact": "Unstable acceleration can cause loss of vehicle control, accidents, and potentially result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to one side",
+        "becomes unstable",
+        "or accelerates erratically",
+        "especially when accelerating in lower gears or giving more than half throttle."
+      ],
+      "odiNumbers": [
+        "801198"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure",
+      "impact": "Tire failure can lead to loss of vehicle control, accidents, and injuries, especially at high speeds.",
+      "symptoms": [
+        "Tire blowout",
+        "sudden loss of air pressure",
+        "tire failure while driving",
+        "tire failure on the road."
+      ],
+      "odiNumbers": [
+        "10049791",
+        "605753",
+        "604844",
+        "602839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sun Roof Failure",
+      "impact": "The sudden shattering or blowing off of the sun roof can cause a loud noise, distraction, and debris on the road, increasing the risk of accidents and potentially causing injuries to occupants.",
+      "symptoms": [
+        "The sun roof cracks into hundreds of tiny blemishes",
+        "the sun roof shatters",
+        "the sun roof blows off the vehicle while driving."
+      ],
+      "odiNumbers": [
+        "533952",
+        "527917",
+        "518862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

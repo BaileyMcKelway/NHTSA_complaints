@@ -1,0 +1,142 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Cooling Valve Failure",
+      "impact": "The faulty transmission cooling valve can cause the vehicle to become inoperable, leading to safety risks if it shuts off while in motion.",
+      "symptoms": [
+        "Malfunction indicator light (MIL) comes on",
+        "trouble code 00196A displayed",
+        "coolant gets into the connector causing an open circuit fault."
+      ],
+      "odiNumbers": [
+        "11244553"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Erratic Braking and Safety Feature Malfunction",
+      "impact": "The vehicle's sudden and unexpected stopping, along with the activation of safety features, can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stops in traffic",
+        "windows roll up",
+        "sunroof closes",
+        "and radio turns down; audible alarm goes off with rapidly flashing hazards; vehicle jerks violently forward while in drive."
+      ],
+      "odiNumbers": [
+        "11151290",
+        "11034503"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Automatic Gas Saver Feature Malfunction",
+      "impact": "The feature's defaulting or turning off the engine while the vehicle is still in motion can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Vehicle freezes",
+        "brakes become hard",
+        "steering locks",
+        "and the car slowly rolls into another vehicle; airbags may not deploy."
+      ],
+      "odiNumbers": [
+        "10649711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System and Module Failures",
+      "impact": "The malfunctioning of various electrical systems and modules can cause a range of safety issues, including loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Malfunctioning Homelink",
+        "electric seat belt tensioner",
+        "navigation system errors",
+        "and related issues; replacement of one module can lead to the failure of another."
+      ],
+      "odiNumbers": [
+        "10605942"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Steering Unit Failure",
+      "impact": "The failure of the electronic steering unit can cause a loss of power steering, making it difficult to control the vehicle, especially at low speeds, which can increase the risk of accidents.",
+      "symptoms": [
+        "The steering assist warning light is illuminated",
+        "the steering wheel feels unresponsive or disconnected",
+        "the steering wheel is difficult to turn",
+        "the vehicle is hard to control",
+        "especially when turning",
+        "the steering wheel momentarily ceases to respond before turning",
+        "the \"Steering Defective Do Not Drive Vehicle\" warning appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11456921",
+        "11422768",
+        "11407727",
+        "11173793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Catalytic Converter",
+      "impact": "A faulty catalytic converter can cause the vehicle to fail to respond while accelerating, leading to potential accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to respond while depressing the accelerator pedal",
+        "without warning."
+      ],
+      "odiNumbers": [
+        "11377117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction",
+      "impact": "Transmission malfunction can cause the vehicle to drive sluggishly, sputter, and have difficulty shifting gears, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The check engine light appears",
+        "along with the transmission and EPC light",
+        "stating \"Transmission Malfunction. Can continue to drive\". The vehicle drives sluggishly and sputters above 4000 RPM."
+      ],
+      "odiNumbers": [
+        "11289667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to surge forward without warning, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle jumps forward without warning",
+        "causing sudden acceleration. The vehicle may not respond to the gas pedal initially",
+        "and then surges forward suddenly."
+      ],
+      "odiNumbers": [
+        "10640606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

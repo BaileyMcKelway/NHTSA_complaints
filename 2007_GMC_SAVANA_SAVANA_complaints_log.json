@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to accidents, injuries, and even fatalities.",
+      "symptoms": [
+        "The brakes fail to respond to deceleration attempts",
+        "the brake pedal feels hard to push",
+        "the vehicle will not slow down",
+        "the front brakes lock up completely",
+        "the brake pedal feels spongy or soft",
+        "the vehicle crashes into another vehicle or object."
+      ],
+      "odiNumbers": [
+        "11040523",
+        "10632300",
+        "10588165",
+        "10332235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hydroboost Failure",
+      "impact": "The failure of the hydroboost unit can cause the brake system to malfunction, leading to loss of braking ability, accidents, and injuries.",
+      "symptoms": [
+        "The brake pedal feels hard to push",
+        "the vehicle will not slow down",
+        "the front brakes lock up completely",
+        "the brake pedal feels spongy or soft",
+        "intermittent brake lock-up",
+        "the vehicle crashes into another vehicle or object."
+      ],
+      "odiNumbers": [
+        "10332235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction and stability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS system fails to function properly",
+        "the vehicle's brakes lock up",
+        "the vehicle loses traction and stability",
+        "the vehicle crashes into another vehicle or object."
+      ],
+      "odiNumbers": [
+        "10632300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injuries or fatalities in the event of a crash, as the airbags may not deploy to provide necessary protection.",
+      "symptoms": [
+        "The airbag light is illuminated on the dashboard",
+        "the passenger's side seat belt fails to lock when inserted into the buckle",
+        "the airbag fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11374288",
+        "10576158",
+        "10172734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Rearview Visibility",
+      "impact": "The limited rearview visibility on the passenger side of the van can increase the risk of accidents, as drivers may not be able to see obstacles or pedestrians, particularly in large extended cargo vans.",
+      "symptoms": [
+        "Difficulty seeing from the rearview mirror on the passenger side of the van",
+        "limited visibility",
+        "inability to see obstacles or pedestrians."
+      ],
+      "odiNumbers": [
+        "10196935",
+        "10195897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

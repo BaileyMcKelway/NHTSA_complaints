@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "STRUCTURE",
+    "SUSPENSION",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities. It can also lead to damage to property and other vehicles.",
+      "symptoms": [
+        "The vehicle suddenly accelerates on its own",
+        "often without warning",
+        "and the brakes may not respond or may be ineffective in stopping the vehicle. The acceleration can be rapid and uncontrollable",
+        "making it difficult for the driver to maintain control of the vehicle."
+      ],
+      "odiNumbers": [
+        "10204482",
+        "878459",
+        "959753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Subframe Failure",
+      "impact": "The failure of the subframe can cause the left wheel to collapse or come off while driving, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Severe cracks in the subframe",
+        "particularly in the same location and type as those found in recalled vehicles."
+      ],
+      "odiNumbers": [
+        "10125290",
+        "10086726",
+        "10074146"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Subframe Failure",
+      "impact": "The failure of the subframe can cause the lower A-arm to hang by only one end, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "A loud clunking noise while driving",
+        "the lower A-arm hanging by only one end",
+        "the subframe broken or cracked."
+      ],
+      "odiNumbers": [
+        "10408514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to move suddenly and unexpectedly, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the vehicle surges forward without pressing the accelerator pedal",
+        "the vehicle takes off rapidly without warning",
+        "the engine roars or revs excessively."
+      ],
+      "odiNumbers": [
+        "10350320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

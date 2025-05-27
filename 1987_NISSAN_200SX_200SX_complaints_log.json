@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "Leaking fuel injectors can cause fuel to leak onto the hot engine, posing a significant fire hazard, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Fuel smell or fumes inside the vehicle",
+        "fuel leaking from the fuel injectors",
+        "fuel leaking onto the engine",
+        "engine stalling or dying",
+        "gas smell becoming overwhelming when driving."
+      ],
+      "odiNumbers": [
+        "10155770",
+        "10057219",
+        "10018666",
+        "899199",
+        "713872",
+        "835732",
+        "825360",
+        "806640",
+        "985500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to a total loss, and pose a risk to the safety of the occupants and other road users.",
+      "symptoms": [
+        "The engine makes unusual noises",
+        "the engine bursts into flames",
+        "smoke or flames are visible from the engine compartment",
+        "the vehicle's temperature gauge is in the red zone",
+        "the vehicle's warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "516195",
+        "500533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Inspection and Repair",
+      "impact": "Failure to properly inspect and repair seat belts can lead to ineffective restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Dealer fails to replace seat belts as required by recall",
+        "dealer performs unnecessary testing on seat belts instead of replacing them",
+        "manufacturer's instructions for recall repair are not followed."
+      ],
+      "odiNumbers": [
+        "811577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Misdiagnosis of Seat Belt Issues by Dealers",
+      "impact": "Misdiagnosis of seat belt issues can lead to inadequate repairs, leaving the vehicle occupant at risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "Dealer fails to identify seat belt problems",
+        "dealer clears vehicle as safe despite known recall issues",
+        "manufacturer's instructions for recall repair are not followed."
+      ],
+      "odiNumbers": [
+        "811577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

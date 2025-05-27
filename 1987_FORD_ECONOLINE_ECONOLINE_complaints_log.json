@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure Due to Overheating",
+      "impact": "Brake failure can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brakes fail",
+        "brake fluid boils",
+        "brakes get hot",
+        "difficulty stopping the vehicle",
+        "free-wheeling",
+        "seizure of brake calipers."
+      ],
+      "odiNumbers": [
+        "812633",
+        "974174",
+        "551479",
+        "516092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failures can cause fuel leaks, fires, and spills, which can lead to accidents, injuries, and property damage.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel spills",
+        "fuel lines bursting",
+        "fuel selector valve malfunction",
+        "faulty slip on fuel line",
+        "fuel flowing from one tank to another."
+      ],
+      "odiNumbers": [
+        "822433",
+        "812305",
+        "968796"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Accelerator Pedal Mechanism Failure",
+      "impact": "The failure of the accelerator pedal mechanism can cause the vehicle to accelerate rapidly, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "the accelerator pedal sticks or becomes stuck",
+        "the engine races or revs excessively",
+        "the throttle cable fails or breaks."
+      ],
+      "odiNumbers": [
+        "10044708",
+        "842408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure Causing Fuel Overflow and Backfire",
+      "impact": "The ignition system failure can cause an overflow of fuel into the exhaust system, leading to violent gas explosions (backfire) that can damage the exhaust system and potentially cause a fire, posing a risk to vehicle occupants and bystanders.",
+      "symptoms": [
+        "The vehicle experiences backfires",
+        "loud noises from the exhaust system",
+        "and visible signs of fuel leakage or overflow."
+      ],
+      "odiNumbers": [
+        "809679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure Causing Engine Fire",
+      "impact": "The electrical system failure can cause the engine to catch on fire, posing a significant risk to vehicle occupants and bystanders, as well as damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "The engine catches on fire",
+        "smoke or flames are visible from the engine compartment",
+        "and the vehicle may experience electrical system malfunctions or warning lights."
+      ],
+      "odiNumbers": [
+        "801097"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

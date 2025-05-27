@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag to deploy unexpectedly, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The airbag sensor warning light remains illuminated",
+        "the airbag deploys spontaneously while driving."
+      ],
+      "odiNumbers": [
+        "11352234",
+        "11326728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Takata Airbag Recall - Parts Unavailability",
+      "impact": "The unavailability of replacement parts for the Takata airbag recall can leave vehicles with potentially deadly airbags on the road, putting occupants at risk of injury or death.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the recall and lack of replacement parts."
+      ],
+      "odiNumbers": [
+        "11002290",
+        "11000230",
+        "10992890",
+        "10981017",
+        "10956806",
+        "10949633",
+        "10945916",
+        "10938970",
+        "10937583",
+        "10934127",
+        "10928721",
+        "10919701",
+        "10919129",
+        "10915653",
+        "10910891",
+        "10903995",
+        "10904294",
+        "10893128",
+        "10893133",
+        "10881815",
+        "10873277",
+        "10870823",
+        "10854974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Seat Belt Retractor Failure",
+      "impact": "A malfunctioning seat belt retractor can lead to inadequate restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver's side seat belt does not retract properly",
+        "the seat belt is stuck",
+        "the seat belt is loose",
+        "the seat belt warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11419150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission-to-Engine Connection Failure",
+      "impact": "The failure of the screws connecting the transmission to the engine can cause coolant leaks, which can lead to overheating, engine damage, and potentially cause a loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "Strong odor of coolant inside the vehicle",
+        "coolant leaks",
+        "screws missing or loose that connect the transmission to the engine."
+      ],
+      "odiNumbers": [
+        "11151821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

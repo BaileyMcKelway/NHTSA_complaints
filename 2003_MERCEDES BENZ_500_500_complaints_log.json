@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Leakage",
+      "impact": "Fuel tank leakage can cause a strong fuel smell, potentially leading to fires, explosions, or other accidents, and may also lead to fuel loss, decreased fuel efficiency, and environmental pollution.",
+      "symptoms": [
+        "Strong fuel smell when the gas tank is filled completely",
+        "fuel smell disappears when the tank is filled less than 3/4",
+        "fuel leakage from the upper part of the gas tank."
+      ],
+      "odiNumbers": [
+        "10595308",
+        "767966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stalling Issues",
+      "impact": "Stalling issues can cause loss of control, accidents, or leave the driver stranded, especially when applying the brakes.",
+      "symptoms": [
+        "Vehicle stalls inadvertently when applying the brakes",
+        "stalling problems recur despite recall repairs."
+      ],
+      "odiNumbers": [
+        "10099605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Leveling System Failure",
+      "impact": "The failure of the air leveling system can cause the vehicle to drop down, leading to loss of control, accidents, and damage to the tires and other components.",
+      "symptoms": [
+        "The front strut bottoms out",
+        "the vehicle drops down",
+        "the air bellow fails",
+        "the vehicle's ride height is uneven",
+        "the vehicle's tires are damaged or worn unevenly."
+      ],
+      "odiNumbers": [
+        "10577137",
+        "10059861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joints can cause loss of control, accidents, and damage to the vehicle's suspension and steering components.",
+      "symptoms": [
+        "The front end feels loose while driving",
+        "the lower ball joints snap in half",
+        "the vehicle's steering and suspension become unstable."
+      ],
+      "odiNumbers": [
+        "10094705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Passenger Seat Belt Malfunction",
+      "impact": "The malfunction of the front passenger seat belt can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The front passenger seat belt does not extend or retract properly",
+        "the seat belt is stuck",
+        "the seat belt does not latch or unlatch correctly",
+        "the seat belt is difficult to use",
+        "the seat belt malfunction occurs during hot weather."
+      ],
+      "odiNumbers": [
+        "10595347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

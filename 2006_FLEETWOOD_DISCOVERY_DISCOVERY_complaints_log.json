@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "VISIBILITY/WIPER",
+    "EQUIPMENT ADAPTIVE/MOBILITY",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fogging of Double-Pane Windows",
+      "impact": "The fogging of double-pane windows can significantly reduce visibility, making it difficult or impossible to see outside mirrors, traffic, and other vehicles, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Windows are fogged up",
+        "making it difficult to see outside mirrors",
+        "traffic",
+        "or other vehicles; cloudy or hazy appearance on windows; loss of visibility while driving."
+      ],
+      "odiNumbers": [
+        "10576951",
+        "10410338",
+        "10311094",
+        "10287222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fogging of Dual Pane Windows",
+      "impact": "The fogging of dual pane windows can significantly reduce visibility, especially for the driver, increasing the risk of accidents and making it difficult to operate the vehicle safely.",
+      "symptoms": [
+        "Fogging or clouding between the panes of the windows",
+        "difficulty seeing out of the windows",
+        "especially the driver-side slider window",
+        "and reduced visibility through the side rearview mirrors."
+      ],
+      "odiNumbers": [
+        "10651827",
+        "10489524",
+        "10465592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Foggy Window Defect",
+      "impact": "The foggy window defect can reduce visibility while driving, increasing the risk of accidents and compromising safety.",
+      "symptoms": [
+        "Windows fog up",
+        "reducing visibility",
+        "windows appear cloudy or hazy",
+        "windows are unable to clear despite defroster or window cleaning."
+      ],
+      "odiNumbers": [
+        "10644964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Multiple Module Data Computer (MMDC) Failure",
+      "impact": "The failure of the MMDC can cause a loss of critical vehicle information, including speed, fuel level, temperature, and oil pressure, which can lead to accidents or engine damage. Additionally, the failure of the engine brake (Jake brake) can increase stopping distances, posing a risk to the driver and other road users.",
+      "symptoms": [
+        "All gauges turn off",
+        "including speedometer",
+        "fuel gauge",
+        "temperature",
+        "and oil pressure; engine brake (Jake brake) fails to engage; loss of critical vehicle information."
+      ],
+      "odiNumbers": [
+        "10465591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

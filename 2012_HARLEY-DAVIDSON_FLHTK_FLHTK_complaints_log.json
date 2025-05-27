@@ -1,0 +1,150 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Lever Failure",
+      "impact": "The failure of the front brake lever can cause the brakes to malfunction, leading to accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "The front brake lever is hard to pull",
+        "the front brake lever is stuck",
+        "the front brake lever freezes up",
+        "the front brake lever requires excessive force to operate",
+        "the front brake lever does not engage."
+      ],
+      "odiNumbers": [
+        "11321235",
+        "11202668",
+        "11162130",
+        "10939730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Control Module Failure",
+      "impact": "The failure of the ABS control module can cause the brakes to malfunction, leading to accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "The front brake lever is hard to pull",
+        "the front brake lever is stuck",
+        "the front brake lever freezes up",
+        "the front brake lever requires excessive force to operate",
+        "the front brake lever does not engage",
+        "the rear brake pedal is stuck and will not depress."
+      ],
+      "odiNumbers": [
+        "11321235",
+        "11162130",
+        "11082510",
+        "10939730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Brake Pedal Failure",
+      "impact": "The failure of the rear brake pedal can cause the brakes to malfunction, leading to accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "The rear brake pedal is hard to press",
+        "the rear brake pedal is stuck and will not depress",
+        "the rear brake pedal requires excessive force to operate."
+      ],
+      "odiNumbers": [
+        "11391035",
+        "11067410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Voltage Regulator Failure",
+      "impact": "The failure of the voltage regulator can cause the battery to drain, leading to a loss of power, stalling, and potentially leaving the rider stranded. This can be a safety concern, especially when riding at high speeds.",
+      "symptoms": [
+        "The check engine and battery lights come on",
+        "the voltage meter indicates the bike is running on the battery",
+        "the bike stalls or loses power",
+        "the battery drains quickly."
+      ],
+      "odiNumbers": [
+        "10850170",
+        "10460714",
+        "10459905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle Control (ETC) Failure",
+      "impact": "The failure of the ETC can cause the throttle to disconnect, leading to a loss of power and control, which can be a safety concern, especially when riding at high speeds.",
+      "symptoms": [
+        "The bike goes into limp mode",
+        "the throttle-by-wire disconnects",
+        "the engine RPMs decrease",
+        "the handlebar throttle control becomes useless",
+        "the bike stalls or loses power."
+      ],
+      "odiNumbers": [
+        "10583274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake Failure and ABS Malfunction",
+      "impact": "The failure of the rear brake and ABS system can lead to a loss of control, accidents, and injuries, as the rider may not be able to slow down or stop the motorcycle in time.",
+      "symptoms": [
+        "The brake pedal is stiff and applies no brakes",
+        "the motorcycle has no brakes",
+        "the ABS system does not function",
+        "the rear brake has never worked well since new."
+      ],
+      "odiNumbers": [
+        "11466705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can lead to a loss of control, accidents, and injuries, as the rider may experience a wobble or unstable ride.",
+      "symptoms": [
+        "The air suspension system fails",
+        "the motorcycle experiences a severe wobble",
+        "the front end wobbles severely",
+        "the motorcycle crashes."
+      ],
+      "odiNumbers": [
+        "10994926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Triple Tree Loose or Malfunction",
+      "impact": "A loose or malfunctioning triple tree can affect the handling of the motorcycle, leading to a loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The triple trees feel loose",
+        "the handling of the motorcycle is affected."
+      ],
+      "odiNumbers": [
+        "11466705"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

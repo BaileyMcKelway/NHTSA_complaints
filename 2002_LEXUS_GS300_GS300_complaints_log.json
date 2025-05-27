@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "EXTERIOR LIGHTING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Lurching",
+      "impact": "Unintended acceleration and lurching can cause loss of control, accidents, and injuries, especially when the vehicle suddenly surges forward or lurches while braking.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without pressing the accelerator",
+        "the vehicle jerks or lurches when braking",
+        "the vehicle surges forward at low speeds",
+        "the vehicle hesitates or loses power while driving."
+      ],
+      "odiNumbers": [
+        "10105160",
+        "10067419",
+        "10063306",
+        "10063520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Headlight Brightness",
+      "impact": "Excessively bright headlights can cause temporary blindness or distraction for oncoming drivers, increasing the risk of accidents, especially at night.",
+      "symptoms": [
+        "Oncoming drivers experience temporary blindness or distraction",
+        "difficulty seeing the road ahead",
+        "glare in the rearview and side mirrors",
+        "discomfort or annoyance from the intense light."
+      ],
+      "odiNumbers": [
+        "10030729",
+        "10000412",
+        "761921",
+        "761605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "Sudden and unexpected tire sidewall failure can lead to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Tire sidewall blowout",
+        "tire separation",
+        "tire destruction",
+        "puncture hole",
+        "tire explosion",
+        "loss of tire pressure."
+      ],
+      "odiNumbers": [
+        "10552057",
+        "10030695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

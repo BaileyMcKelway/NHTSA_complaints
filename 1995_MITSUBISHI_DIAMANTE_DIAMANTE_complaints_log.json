@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Transmission Failure",
+      "impact": "Premature transmission failure can cause the vehicle to stall, slip, or jump out of gear while driving, which can lead to accidents, loss of control, and potential harm to occupants.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "the transmission slips or hesitates",
+        "the transmission jumps out of gear",
+        "the vehicle is unable to shift into gear",
+        "the transmission fails prematurely."
+      ],
+      "odiNumbers": [
+        "10116491",
+        "8023793",
+        "754995",
+        "838598",
+        "810080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Electronic Control Module Failure",
+      "impact": "The failure of the transmission electronic control module can cause the transmission to malfunction, leading to unexpected shifts, stalling, or loss of power, which can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission hesitates or slips",
+        "the vehicle stalls",
+        "the transmission jumps out of gear",
+        "the vehicle is unable to shift into gear",
+        "the transmission electronic control module fails."
+      ],
+      "odiNumbers": [
+        "754995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Slipping or Hesitation",
+      "impact": "Transmission slipping or hesitation can cause the vehicle to lose power, stall, or jump out of gear, which can lead to accidents, loss of control, and potential harm to occupants.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the transmission jumps out of gear."
+      ],
+      "odiNumbers": [
+        "838598",
+        "810080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The improper deployment of airbags can cause severe injuries, including concussions, burns, fractures, and paralysis, which can be life-threatening.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "explosive deployment",
+        "smoke emission",
+        "injuries to occupants",
+        "including concussions",
+        "burns",
+        "fractures",
+        "and paralysis."
+      ],
+      "odiNumbers": [
+        "780090",
+        "819464",
+        "819197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Imbalance or Tire Issues",
+      "impact": "The vehicle's shaking at high speeds can cause loss of control, accidents, and damage to the vehicle's suspension and steering systems.",
+      "symptoms": [
+        "The vehicle shakes or vibrates when driving over 35 mph",
+        "the steering wheel vibrates",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "891454"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "The transmission failure can cause the vehicle to lose power, leading to accidents, and can also cause engine damage, resulting in costly repairs.",
+      "symptoms": [
+        "The transmission completely fails",
+        "the engine blows smoke",
+        "the vehicle will not pass emissions tests",
+        "the vehicle loses power or acceleration."
+      ],
+      "odiNumbers": [
+        "719281"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

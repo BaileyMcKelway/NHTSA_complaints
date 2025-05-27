@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch/Fusible Link Wiring Overheating",
+      "impact": "The overheating of the wiring under the steering column can cause a burning odor, smoke, and melting of plastic components, leading to a potential fire hazard and electrical system failure.",
+      "symptoms": [
+        "Burning odor",
+        "smoke",
+        "melting of plastic components",
+        "intermittent failure of ignition switch to turn over",
+        "failure of accessories such as A/C",
+        "window blower",
+        "power windows",
+        "and parking brake lights."
+      ],
+      "odiNumbers": [
+        "733458",
+        "843483",
+        "505946"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Speed Sensor Failure",
+      "impact": "The failure of the speed sensor can cause inaccurate speedometer and odometer readings, which can lead to issues with vehicle safety and performance.",
+      "symptoms": [
+        "The speedometer and odometer readings are inaccurate",
+        "the speed sensor part breaks repeatedly",
+        "the bolt attaching the speed sensor to the transmission cracks across its diameter."
+      ],
+      "odiNumbers": [
+        "873162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the vehicle to roll downhill when parked, even when the transmission is in park, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle rolls downhill when parked uphill",
+        "the transmission fails to engage park properly",
+        "the vehicle moves unexpectedly when in park."
+      ],
+      "odiNumbers": [
+        "975310"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Fuel Gauge",
+      "impact": "A faulty fuel gauge can lead to inaccurate fuel level readings, causing drivers to run out of fuel unexpectedly, which can result in stranded vehicles, accidents, or even engine damage.",
+      "symptoms": [
+        "The fuel gauge needle fluctuates or sticks",
+        "the fuel gauge reads incorrectly",
+        "the fuel gauge does not move",
+        "the fuel gauge is inconsistent",
+        "the vehicle runs out of fuel despite the gauge indicating otherwise."
+      ],
+      "odiNumbers": [
+        "979730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

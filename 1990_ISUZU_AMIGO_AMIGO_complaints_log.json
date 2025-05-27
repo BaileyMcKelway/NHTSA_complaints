@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "WHEELS",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Stripped or Damaged Lug Nuts",
+      "impact": "Stripped or damaged lug nuts can cause the wheel to come loose while driving, leading to loss of control, accidents, and potential wheel separation.",
+      "symptoms": [
+        "Difficulty tightening or loosening lug nuts",
+        "lug nuts spin freely",
+        "wheel wobbles or vibrates while driving",
+        "wheel comes loose while driving."
+      ],
+      "odiNumbers": [
+        "531473",
+        "481592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Hub Assembly Failure",
+      "impact": "Failure of the hub assembly can cause the wheel to come loose, leading to loss of control, accidents, and potential wheel separation.",
+      "symptoms": [
+        "Grinding or clicking noise from the wheel hub",
+        "vibration or wobble in the wheel",
+        "difficulty steering",
+        "wheel comes loose while driving."
+      ],
+      "odiNumbers": [
+        "481592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the vehicle to lose power or stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the vehicle stalls or loses power",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "481592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Manual Transmission Failure",
+      "impact": "The failure of the manual transmission can cause the vehicle to lose power or stall, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The transmission slips or hesitates",
+        "the transmission grinds or makes unusual noises",
+        "the vehicle stalls or loses power",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "481592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

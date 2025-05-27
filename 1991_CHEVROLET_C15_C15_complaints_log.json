@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to serious injuries or fatalities in the event of an accident, as the occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belt buckle fails to latch or unlatch",
+        "the seat belt webbing breaks or tears",
+        "the seat belt retractor fails to lock or retract",
+        "the seat belt does not properly restrain the occupant."
+      ],
+      "odiNumbers": [
+        "979749",
+        "965952",
+        "959930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause the steering wheel to come loose or break off, leading to a loss of control of the vehicle, which can result in accidents or injuries.",
+      "symptoms": [
+        "The steering wheel feels loose or wobbly",
+        "the steering wheel cannot be rotated",
+        "the steering column is loose",
+        "the steering wheel breaks off while driving."
+      ],
+      "odiNumbers": [
+        "807909",
+        "974221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Caliper Failure",
+      "impact": "The failure of the front brake calipers can cause extended braking distances, increasing the risk of accidents, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal goes to the floor",
+        "extended braking distances",
+        "uneven braking",
+        "pulling to one side while braking",
+        "grinding or screeching noise when applying brakes."
+      ],
+      "odiNumbers": [
+        "984538",
+        "805027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause loss of control, increased stopping distances, and accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Sudden and unexpected activation of the ABS system",
+        "brake pedal pulsation or vibration",
+        "grinding or screeching noise when applying brakes",
+        "inability to stop the vehicle in a timely manner",
+        "rear-ending another vehicle."
+      ],
+      "odiNumbers": [
+        "805027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to damage to the engine, cylinder head, and other components, which can result in costly repairs, engine failure, and potentially cause accidents.",
+      "symptoms": [
+        "The temperature gauge rises to the red zone",
+        "the coolant level drops",
+        "the coolant leaks",
+        "the radiator fan fails to turn on",
+        "the vehicle overheats",
+        "the engine makes a knocking or clunking noise",
+        "the engine stalls or shuts down."
+      ],
+      "odiNumbers": [
+        "972346",
+        "972346"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "DSG Transmission Mechatronic Unit Failure",
+      "impact": "The failure of the mechatronic unit in the DSG transmission can cause the vehicle to lose power, stall, or fail to engage gears, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences issues when shifting gears",
+        "including clunking or noise from the transmission",
+        "flashing dashboard lights",
+        "and loss of power. The vehicle may not move in any gear",
+        "requiring a restart to regain functionality. In some cases",
+        "the vehicle may exhibit a double clicking sound and double lurching when shifting from drive to park."
+      ],
+      "odiNumbers": [
+        "10870701",
+        "10818578",
+        "10355846",
+        "10354480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Taillight Grounding Issue",
+      "impact": "The grounding issue in the rear taillights can cause the ground in the connector to melt and short out, leading to the taillight failure, which can reduce visibility and increase the risk of accidents.",
+      "symptoms": [
+        "The rear taillight stops working",
+        "the connector melts",
+        "the ground wire is damaged."
+      ],
+      "odiNumbers": [
+        "10918002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to lose power, leading to a loss of critical systems such as brakes and power steering, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the brakes fail",
+        "the power steering fails",
+        "the vehicle coasts to a stop."
+      ],
+      "odiNumbers": [
+        "10365258"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failures can cause the engine to stall or shut down, leading to accidents, injuries, or fatalities, especially if it occurs on a highway or busy road.",
+      "symptoms": [
+        "Engine light comes on",
+        "fuel seal leaking",
+        "ticking sound near the rear driver area",
+        "engine jerking",
+        "complete loss of power",
+        "engine shutting down",
+        "smell of gasoline."
+      ],
+      "odiNumbers": [
+        "10345201",
+        "10281829",
+        "10299804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Disclose Safety Recalls",
+      "impact": "Failure to disclose safety recalls can put drivers and passengers at risk of accidents, injuries, or fatalities, as they may be unaware of potential safety issues with their vehicle.",
+      "symptoms": [
+        "None",
+        "as this is a failure of the dealership to disclose safety information."
+      ],
+      "odiNumbers": [
+        "10299804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

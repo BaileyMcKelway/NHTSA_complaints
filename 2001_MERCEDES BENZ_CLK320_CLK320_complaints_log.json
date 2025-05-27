@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the driver and passengers may not receive the necessary protection in the event of an accident.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "driver or passenger injuries",
+        "damage to the vehicle",
+        "and potential fatalities."
+      ],
+      "odiNumbers": [
+        "11317728",
+        "10907483",
+        "10183188",
+        "10182498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Seatbelt Function",
+      "impact": "The failure of the seatbelt to lock or function properly can lead to serious injuries or fatalities, as the driver and passengers may not be adequately restrained in the event of an accident.",
+      "symptoms": [
+        "Seatbelt does not lock",
+        "seatbelt does not engage",
+        "driver or passenger injuries",
+        "and potential fatalities."
+      ],
+      "odiNumbers": [
+        "11317728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to serious injuries or fatalities, as the airbag may deploy incorrectly or not deploy at all, resulting in inadequate protection for the driver and passengers.",
+      "symptoms": [
+        "Airbag deploys incorrectly",
+        "airbag does not deploy",
+        "driver or passenger injuries",
+        "and potential fatalities."
+      ],
+      "odiNumbers": [
+        "10907483",
+        "10183188",
+        "10182498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Display Failure",
+      "impact": "The failure of the instrument cluster display can cause the driver to be unable to read important information, such as the gear position and outside temperature, which can lead to driver error, accidents, and decreased safety.",
+      "symptoms": [
+        "The instrument cluster display is dim",
+        "weak",
+        "or unreadable",
+        "the display is faulty",
+        "the temperature pixels are not functional",
+        "the driver is unable to read the gear position",
+        "the driver must squint or take their eyes off the road to read the display."
+      ],
+      "odiNumbers": [
+        "10713137",
+        "10433587",
+        "10268270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, property damage, and potentially, fatalities.",
+      "symptoms": [
+        "The vehicle surges or takes off unexpectedly",
+        "even when the brake pedal is applied",
+        "resulting in uncontrolled acceleration."
+      ],
+      "odiNumbers": [
+        "10206511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Linkage Cable Failure",
+      "impact": "A broken throttle linkage cable can cause a loss of acceleration, leading to hazardous situations, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle fails to respond to accelerator input",
+        "resulting in a loss of power",
+        "and potentially",
+        "causing the vehicle to stall or coast to a stop."
+      ],
+      "odiNumbers": [
+        "10148391"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

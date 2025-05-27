@@ -1,0 +1,135 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cold Weather Power Steering Failure",
+      "impact": "The failure of the power steering system in cold weather can cause difficulty in turning the steering wheel, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Difficulty in turning the steering wheel",
+        "especially in cold weather",
+        "leaking seals",
+        "failure of the rack and pinion",
+        "failure of the power steering pump."
+      ],
+      "odiNumbers": [
+        "711890",
+        "601615",
+        "960127",
+        "958600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Locking Mechanism Failure",
+      "impact": "The failure of the seat belt locking mechanism can increase the risk of injury or fatality in the event of an accident, as the seat belts may not stay locked, compromising the safety of the occupants.",
+      "symptoms": [
+        "The seat belts will not stay locked",
+        "the seat belts are difficult to lock",
+        "the plastic piece on the seat belt locking mechanism has broken off",
+        "the seat belt buckle is stuck and does not work",
+        "the seat belt does not latch due to a broken or missing plastic cover."
+      ],
+      "odiNumbers": [
+        "982170",
+        "971244",
+        "973849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rusted Steel Fuel Line Failure",
+      "impact": "A rusted steel fuel line can cause a fuel leak, which can lead to a fire hazard, engine stall, or difficulty starting the engine, compromising vehicle safety and performance.",
+      "symptoms": [
+        "Fuel leak near the rear of the gas tank",
+        "fuel odor",
+        "difficulty starting the engine",
+        "engine stall."
+      ],
+      "odiNumbers": [
+        "846909",
+        "601615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Failure",
+      "impact": "A faulty fuel tank can cause fuel leaks, engine performance issues, or difficulty starting the engine, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel leak",
+        "fuel odor",
+        "difficulty starting the engine",
+        "engine stall."
+      ],
+      "odiNumbers": [
+        "601615",
+        "506366"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Injection Failure",
+      "impact": "Fuel injection failure can cause poor engine performance, difficulty starting the engine, or engine stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Difficulty starting the engine",
+        "engine stall",
+        "poor engine performance",
+        "lack of power."
+      ],
+      "odiNumbers": [
+        "601615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the brake pedal to go to the floor, resulting in a loss of braking power, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal is hard to press",
+        "the brake pedal requires pumping to get a response",
+        "warning lights on the dashboard illuminate prior to failure."
+      ],
+      "odiNumbers": [
+        "849439",
+        "959545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Skid System Deactivation",
+      "impact": "The deactivation of the anti-skid system can cause the regular brake system to malfunction, leading to a loss of braking power and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The anti-skid system is deactivated",
+        "the regular brake system does not work properly",
+        "the brake pedal goes to the floor",
+        "the brake pedal is hard to press."
+      ],
+      "odiNumbers": [
+        "849439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

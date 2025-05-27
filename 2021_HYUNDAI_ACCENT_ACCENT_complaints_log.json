@@ -1,0 +1,65 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "WHEELS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Seat Belt Defect (22V354000)",
+      "impact": "The delay in repairing the seat belt defect can increase the risk of injury or death in the event of a crash, as the faulty seat belts may not provide adequate protection to occupants.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11503411",
+        "11497366",
+        "11495320",
+        "11487215",
+        "11486176",
+        "11476996"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lug Nut Failure",
+      "impact": "The failure of lug nuts can cause wheel separation, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Lug nuts break off while trying to remove them",
+        "lug nuts are stuck and cannot be removed",
+        "corrosion issues with lug nuts and studs",
+        "cross-threading issues with lug nuts and studs."
+      ],
+      "odiNumbers": [
+        "11588250",
+        "11518462",
+        "11518464",
+        "11496057"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent No-Start Issue",
+      "impact": "The intermittent no-start issue can leave the driver stranded, causing inconvenience and potential safety risks, especially in emergency situations or harsh weather conditions.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "despite the lights and accessories functioning normally",
+        "and the engine attempting to turn over but not catching; the issue occurs randomly and may not be reproducible when taken to the dealership for repair."
+      ],
+      "odiNumbers": [
+        "11556330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

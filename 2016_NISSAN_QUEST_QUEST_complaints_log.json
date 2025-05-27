@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CVT Transmission Failure",
+      "impact": "The failure of the Continuously Variable Transmission (CVT) can cause the vehicle to shake, jerk, or hesitate while accelerating, decelerating, or cruising, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle shakes or vibrates while driving",
+        "the transmission judders or hesitates",
+        "the vehicle slows down or loses power",
+        "the check engine light may or may not illuminate",
+        "error codes such as P17FO",
+        "P17F1",
+        "or P17F2 may appear."
+      ],
+      "odiNumbers": [
+        "11582805",
+        "11537643",
+        "11536125",
+        "11402888",
+        "11183398",
+        "10876414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Control Arm Failure",
+      "impact": "The failure of the control arms can cause loss of steering control, leading to accidents or near-miss situations, especially at high speeds.",
+      "symptoms": [
+        "The vehicle jerks in one direction or the other",
+        "loss of steering control",
+        "need for frequent front-end alignments",
+        "vibration or crunching sounds from the suspension."
+      ],
+      "odiNumbers": [
+        "11530497",
+        "11081745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission and Suspension Failure",
+      "impact": "The failure of the transmission and suspension can cause vibrations, crunching sounds, and loss of control, leading to accidents or near-miss situations, especially at high speeds.",
+      "symptoms": [
+        "Vibration and crunching sounds from the transmission and suspension",
+        "transmission blocking or hesitation",
+        "loss of control",
+        "inability to safely use the vehicle."
+      ],
+      "odiNumbers": [
+        "11081745"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Sensor Switch Failure",
+      "impact": "The failure of the brake sensor switch can cause the brake lights to malfunction, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "The brake lights do not turn on",
+        "the brake lights stay on constantly",
+        "the brake lights flicker or flash",
+        "the vehicle's anti-lock braking system (ABS) warning light illuminates",
+        "the vehicle's traction control system (TCS) warning light illuminates."
+      ],
+      "odiNumbers": [
+        "11329498"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

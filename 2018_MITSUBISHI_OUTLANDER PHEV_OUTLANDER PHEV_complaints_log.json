@@ -1,0 +1,155 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Movement",
+      "impact": "The vehicle can move unexpectedly, potentially causing accidents or injuries, especially when the driver is outside the vehicle.",
+      "symptoms": [
+        "The vehicle moves on its own",
+        "even when the driver is not in the vehicle",
+        "the vehicle accelerates or decelerates without input from the driver",
+        "the vehicle shifts into gear without the driver's intention."
+      ],
+      "odiNumbers": [
+        "11287508",
+        "11287561"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hybrid System Failure",
+      "impact": "The failure of the hybrid system can cause the vehicle to lose power, leading to reduced acceleration, loss of regenerative braking, and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The vehicle has reduced power",
+        "the vehicle will not start the gas engine",
+        "the regenerative braking system is disabled",
+        "the vehicle operates only on electric power at a severely reduced level",
+        "multiple warning lights appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11197057",
+        "11142788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Charging System Failure",
+      "impact": "The failure of the charging system can cause electrical fires, damage to the vehicle's electrical components, and potentially harm the driver or passengers.",
+      "symptoms": [
+        "The charger supplied by the manufacturer melts during normal charging",
+        "the cord is damaged",
+        "there is a loose plug terminal and hot spot",
+        "the vehicle's electrical system is damaged."
+      ],
+      "odiNumbers": [
+        "11166055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Limited Propulsion Power in High Temperatures",
+      "impact": "The vehicle's reduced propulsion power in high temperatures can cause a loss of speed, making it difficult to maintain a safe speed, especially on uphill roads, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle slows down to a low speed (around 20 mph)",
+        "a \"Limited Propulsion\" message appears on the dashboard",
+        "and the vehicle may struggle to maintain speed on uphill roads."
+      ],
+      "odiNumbers": [
+        "11331865"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The failure of the transmission to shift into gear can cause the vehicle to stall or lose power, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to shift into park",
+        "the vehicle fails to shift into gear",
+        "the transmission slips or hesitates",
+        "and the vehicle may stall or lose power."
+      ],
+      "odiNumbers": [
+        "11311361",
+        "11203437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration and Braking",
+      "impact": "Unintended acceleration and braking can cause the vehicle to lose control, increasing the risk of accidents, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "the vehicle brakes suddenly without warning",
+        "and the vehicle may exhibit unpredictable behavior."
+      ],
+      "odiNumbers": [
+        "11203437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Forward Collision Mitigation System Malfunction",
+      "impact": "The malfunction of the forward collision mitigation system can cause the vehicle to brake suddenly or unnecessarily, increasing the risk of accidents, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle's brakes are applied suddenly and unnecessarily",
+        "the vehicle's forward collision mitigation system activates falsely",
+        "and the vehicle may exhibit unpredictable behavior."
+      ],
+      "odiNumbers": [
+        "11218316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unrelated System Malfunctions",
+      "impact": "The malfunction of unrelated systems, such as the wiper system, can cause distractions and increase the risk of accidents.",
+      "symptoms": [
+        "The wiper system activates unnecessarily",
+        "and other unrelated systems may malfunction."
+      ],
+      "odiNumbers": [
+        "11203437"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Propulsion Reduction",
+      "impact": "The sudden and unexpected reduction of propulsion power can cause the vehicle to slow down or lose power, potentially leading to accidents, especially when driving on highways or uphill.",
+      "symptoms": [
+        "The \"Propulsion Reduced\" warning light illuminates",
+        "the vehicle suddenly loses power or speed",
+        "the vehicle slows down without driver input",
+        "the electric charge indicator shows zero miles remaining despite a full tank of gas."
+      ],
+      "odiNumbers": [
+        "11352950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

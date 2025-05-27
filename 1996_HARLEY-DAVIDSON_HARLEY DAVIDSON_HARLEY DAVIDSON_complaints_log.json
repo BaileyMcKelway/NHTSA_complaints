@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Component Failure",
+      "impact": "The failure of fuel system components, such as the fuel check valve, fuel petcock, and lower rocker cover gasket, can cause issues with fuel flow, leading to engine stalling, poor performance, and potentially leaving the rider stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "poor engine performance",
+        "difficulty starting the engine",
+        "fuel leaks",
+        "fuel smell."
+      ],
+      "odiNumbers": [
+        "602630",
+        "602964",
+        "603036",
+        "809779"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a loss of braking power, increasing the stopping distance and risk of accidents.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake pedal travels to the floor",
+        "brake pedal has a soft or mushy feel",
+        "brake fluid leaks",
+        "difficulty stopping the vehicle",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "602965",
+        "524054"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Component Failure",
+      "impact": "The failure of fuel system components, such as the fuel cock or fuel gauge, can lead to inaccurate fuel level readings, fuel leaks, or engine stalling, which can cause accidents, leave the driver stranded, or result in costly repairs.",
+      "symptoms": [
+        "The fuel gauge is not functioning",
+        "the fuel level reading is inaccurate",
+        "the engine stalls or hesitates",
+        "fuel leaks are visible",
+        "the fuel pump is noisy or malfunctioning."
+      ],
+      "odiNumbers": [
+        "603755",
+        "602965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 45,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to hesitate, surge, or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or surges when changing gears",
+        "slows down or accelerates randomly",
+        "sticks and won't let the driver change gears in manual mode",
+        "struggles to change gears in automatic mode",
+        "decelerates randomly on the highway",
+        "and may shift to reverse gear without warning."
+      ],
+      "odiNumbers": [
+        "11422659",
+        "11145069",
+        "10424583",
+        "10345577",
+        "10312839",
+        "10285860",
+        "10282345",
+        "10172622",
+        "10037461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Throttle Module Failure",
+      "impact": "The failure of the electronic throttle module can cause the vehicle to surge, hesitate, or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle surges and hesitates when changing gears",
+        "slows down or accelerates randomly",
+        "and may decelerate randomly on the highway."
+      ],
+      "odiNumbers": [
+        "10285860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Neutral Switch (PNP Switch) Failure",
+      "impact": "The failure of the neutral switch (PNP switch) can cause the transmission to shift to reverse gear without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission shifts to reverse gear without warning",
+        "the vehicle drops speed rapidly",
+        "and the gear indication sign toggles between 'D' and 'R'."
+      ],
+      "odiNumbers": [
+        "10282345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Failure",
+      "impact": "The failure of the fuel pump flange can cause fuel leaks, which can lead to a strong fuel smell inside and outside the vehicle, potentially causing a fire hazard.",
+      "symptoms": [
+        "Strong fuel smell inside and outside the vehicle",
+        "fuel splashing around in the tank",
+        "fuel leak behind the rear seats."
+      ],
+      "odiNumbers": [
+        "11046476",
+        "11019910",
+        "11010040",
+        "10836642",
+        "10786103"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure - Fuel Odor and Leaks",
+      "impact": "The failure of the fuel system can cause fuel leaks, which can lead to fuel ignition and vapor inhalation, posing a significant risk to the driver and passengers. Prolonged exposure to fuel vapors can also cause health issues.",
+      "symptoms": [
+        "Strong fuel fumes emitting into the interior of the vehicle",
+        "fuel odor in the interior and exterior of the vehicle",
+        "fuel leaks around the fuel pump and tank",
+        "cracked fuel tank."
+      ],
+      "odiNumbers": [
+        "10715651",
+        "10254386",
+        "10230760",
+        "10005987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Control Module (ETM) Failure",
+      "impact": "The failure of the ETM can cause the vehicle to malfunction, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "ETM failure",
+        "vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "10236895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

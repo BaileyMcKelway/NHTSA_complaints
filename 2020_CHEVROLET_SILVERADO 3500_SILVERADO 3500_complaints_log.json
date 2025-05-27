@@ -1,0 +1,167 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Brake System Failure",
+      "impact": "The failure of the rear brake system can cause the vehicle to lose braking power, leading to increased stopping distances, accidents, or loss of control.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the vehicle takes longer to stop",
+        "abnormal grinding sounds when braking",
+        "the brake wear sensor indicates worn brake pads",
+        "the parking brake light stays on."
+      ],
+      "odiNumbers": [
+        "11582209",
+        "11552780",
+        "11403934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad Delamination",
+      "impact": "The delamination of brake pad material can cause the brake pads to fail, leading to a loss of braking power and potentially causing accidents.",
+      "symptoms": [
+        "The parking brake light stays on",
+        "the brake pads are found to have delaminated material",
+        "loose parts are found inside the brake drum",
+        "the brake pads are worn unevenly."
+      ],
+      "odiNumbers": [
+        "11552780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Fluid Leaks",
+      "impact": "Brake fluid leaks can cause the brake system to fail, leading to a loss of braking power and potentially causing accidents.",
+      "symptoms": [
+        "Brake fluid is leaking from the vehicle",
+        "the brake pedal feels soft or spongy",
+        "the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "11582209"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "The sudden and unexpected separation of the tire tread can cause loss of control, accidents, and damage to the vehicle and surrounding property, potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire tread separation",
+        "loss of air pressure",
+        "wobbling or vibrating of the vehicle",
+        "damage to the wheel well",
+        "trim",
+        "and surrounding components."
+      ],
+      "odiNumbers": [
+        "11547508",
+        "11540926",
+        "11479769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blower Motor Fire",
+      "impact": "The blower motor catching fire can cause damage to the vehicle's electrical system and potentially lead to a larger fire, posing a risk to the driver and passengers.",
+      "symptoms": [
+        "The blower motor catches fire",
+        "smoke or flames are visible from the HVAC system."
+      ],
+      "odiNumbers": [
+        "11530678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The brake system failure can cause the vehicle to lose stopping power, leading to accidents or near-misses, especially when towing a trailer.",
+      "symptoms": [
+        "Brake squeaking",
+        "brake system does not stop the vehicle properly",
+        "trailer brake gain control needs to be adjusted to high levels",
+        "service trailer brake system warning message on the dash display."
+      ],
+      "odiNumbers": [
+        "11521535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective Diesel Particulate Filter (DPF) Regeneration and DEF Heater",
+      "impact": "The defective DPF regeneration and DEF heater can cause the engine to lose power, potentially leading to accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "Engine power reduction",
+        "trouble code thrown by the ECM",
+        "engine power reduction at various speeds (65 mph",
+        "55 mph",
+        "45 mph",
+        "etc.)",
+        "DEF tank and internal heating element need to be replaced."
+      ],
+      "odiNumbers": [
+        "11463966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fan Pulley Failure",
+      "impact": "The failure of the fan pulley can cause the fan belt to snap, leading to engine overheating, which can result in costly repairs, engine damage, or even engine failure. Additionally, the inability to turn off the engine when overheated can cause further damage and increase the risk of a fire.",
+      "symptoms": [
+        "Fan pulley breaks in half",
+        "fan belt snaps",
+        "engine overheats",
+        "engine fails to turn off when overheated",
+        "temperature gauge rises",
+        "engine warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "11543598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Remote Start System Failure (Diesel Engine)",
+      "impact": "The failure of the remote start system can cause inconvenience, delay, and potentially lead to engine damage or failure if the engine is not properly started and monitored.",
+      "symptoms": [
+        "Engine fails to start remotely",
+        "engine warning lights illuminate",
+        "engine starts manually but with issues."
+      ],
+      "odiNumbers": [
+        "11359976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

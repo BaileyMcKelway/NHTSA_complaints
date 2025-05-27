@@ -1,0 +1,230 @@
+{
+  "totalComplaints": 78,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belts can lead to serious injury or death in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belts may lock or become stuck",
+        "making it difficult or impossible to use them; the seat belts may retract while being worn",
+        "causing discomfort and safety concerns; the seat belt anchor cable may break or fray",
+        "causing the buckle to come loose; the seat belt control module may malfunction",
+        "causing the seat belts to lock or become inoperable."
+      ],
+      "odiNumbers": [
+        "10837448",
+        "10743604",
+        "10545105",
+        "10520540",
+        "10455270",
+        "10447195",
+        "10425899",
+        "10416766",
+        "10336486",
+        "10334793",
+        "10283666",
+        "10274827",
+        "10248656",
+        "10241459",
+        "10239178",
+        "10208574",
+        "10177894",
+        "10168898",
+        "10167370",
+        "10154725",
+        "10145036",
+        "10144909",
+        "10128712",
+        "10125023",
+        "10083839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Anchor Failure",
+      "impact": "The failure of the seat belt anchor can cause the seat belt to become ineffective, leading to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belt anchor cable may break or fray",
+        "causing the buckle to come loose; the seat belt anchor may become detached from the vehicle",
+        "rendering the seat belt useless."
+      ],
+      "odiNumbers": [
+        "10425899",
+        "10144909",
+        "10145036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Control Module Failure",
+      "impact": "The failure of the seat belt control module can cause the seat belts to malfunction, leading to safety concerns and potentially serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The seat belts may lock or become stuck",
+        "making it difficult or impossible to use them; the seat belts may retract while being worn",
+        "causing discomfort and safety concerns; the seat belt control module may malfunction",
+        "causing the seat belts to lock or become inoperable."
+      ],
+      "odiNumbers": [
+        "10455270",
+        "10336486",
+        "10168898",
+        "10154725",
+        "10128712"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The sudden failure of the brakes can lead to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes make a whistling noise",
+        "the brakes fail to engage",
+        "the vehicle is unable to stop",
+        "the brake pads wear out quickly",
+        "the rotors overheat",
+        "the brakes squeal or grind."
+      ],
+      "odiNumbers": [
+        "10333849",
+        "10164061",
+        "10134073",
+        "10094679",
+        "10090215",
+        "10014216",
+        "10002943",
+        "10003861",
+        "8003104",
+        "896799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pad and Rotor Wear",
+      "impact": "The frequent wear of brake pads and rotors can lead to brake failure, accidents, and increased maintenance costs.",
+      "symptoms": [
+        "The brake pads wear out quickly",
+        "the rotors overheat",
+        "the brakes squeal or grind",
+        "the vehicle requires frequent brake pad replacements."
+      ],
+      "odiNumbers": [
+        "10164061",
+        "10094679",
+        "10090215",
+        "10014216",
+        "10002943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can lead to accidents, injuries, or fatalities, especially on wet or slippery surfaces.",
+      "symptoms": [
+        "The ABS system fails to activate",
+        "the wheels fail to lock up",
+        "the brake pressure is reduced",
+        "the vehicle is unable to stop on wet or slippery surfaces."
+      ],
+      "odiNumbers": [
+        "10003861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Wiring Harness Fire)",
+      "impact": "The failure of the electrical system can cause a fire, which can lead to damage to the vehicle and potentially harm occupants.",
+      "symptoms": [
+        "The wiring harness catches fire",
+        "which may be extinguished by rain."
+      ],
+      "odiNumbers": [
+        "10863207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alarm System Malfunction",
+      "impact": "The malfunctioning alarm system can cause unnecessary stress, inconvenience, and potentially lead to accidents or damage to the vehicle.",
+      "symptoms": [
+        "The alarm system activates multiple times automatically while the vehicle is parked",
+        "doors lock and unlock multiple times",
+        "and interior lights turn on and off."
+      ],
+      "odiNumbers": [
+        "10747207",
+        "10247607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to become stranded, leaving the driver stranded and potentially causing safety issues.",
+      "symptoms": [
+        "The key will not turn in the ignition switch",
+        "making it difficult or impossible to start the vehicle."
+      ],
+      "odiNumbers": [
+        "10359258",
+        "10007615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Horn Malfunction",
+      "impact": "The malfunctioning horn can cause unnecessary noise, disturbance, and potentially lead to accidents or damage to the vehicle.",
+      "symptoms": [
+        "The horn goes off randomly",
+        "even when the vehicle is not in use",
+        "and can be triggered by temperature changes or other environmental factors."
+      ],
+      "odiNumbers": [
+        "10286033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Remote Key Fob Malfunction",
+      "impact": "The malfunctioning remote key fob can cause inconvenience, stress, and potentially lead to safety issues.",
+      "symptoms": [
+        "The remote key fob stops working",
+        "and even after replacing the battery",
+        "it still does not function properly."
+      ],
+      "odiNumbers": [
+        "10247607",
+        "10007615"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

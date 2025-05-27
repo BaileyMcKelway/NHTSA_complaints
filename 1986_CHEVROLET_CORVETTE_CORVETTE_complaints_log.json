@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Seat Belts",
+      "impact": "Inoperative seat belts can lead to serious injury or fatalities in the event of an accident, as they fail to provide proper restraint and protection to the occupants.",
+      "symptoms": [
+        "Seat belts fail to tighten upon fast body movement or fast braking",
+        "intermittently lock up and do not move",
+        "fail to consistently grab when needed",
+        "and get stuck or jammed",
+        "making it difficult or impossible to use them."
+      ],
+      "odiNumbers": [
+        "11006679",
+        "10607163",
+        "10188736",
+        "10127660",
+        "712078",
+        "837216",
+        "512142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a loss of brake fluid, leading to difficulty stopping the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake master cylinder leaks",
+        "loss of brake fluid",
+        "difficulty stopping the vehicle",
+        "brakes lock up",
+        "vehicle skids."
+      ],
+      "odiNumbers": [
+        "10855588",
+        "10392374",
+        "10160867",
+        "714678",
+        "837642",
+        "539615",
+        "523920"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to lock up, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Brakes lock up",
+        "front wheels keep spinning",
+        "unable to find replacement ABS module."
+      ],
+      "odiNumbers": [
+        "10855588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Electrical Short in Steering Wheel and Brake/Turn Signal System",
+      "impact": "The intermittent electrical short can cause the fuse to blow, leading to the loss of braking lights and/or turn indicators, which can increase the risk of accidents and reduce vehicle safety.",
+      "symptoms": [
+        "The fuse blows when using the turn signals and/or brakes",
+        "the vehicle is left without braking lights and/or turn indicators",
+        "the issue is intermittent and difficult to diagnose."
+      ],
+      "odiNumbers": [
+        "537620"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Adjustable Steering Wheel Electrical Connection",
+      "impact": "The faulty electrical connection in the adjustable steering wheel can cause an electrical short, leading to the loss of braking lights and/or turn indicators, which can increase the risk of accidents and reduce vehicle safety.",
+      "symptoms": [
+        "The issue is intermittent",
+        "the fuse blows when using the turn signals and/or brakes",
+        "the vehicle is left without braking lights and/or turn indicators",
+        "the problem is related to the movement of the adjustable steering wheel."
+      ],
+      "odiNumbers": [
+        "537620"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

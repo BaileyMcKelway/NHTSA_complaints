@@ -1,0 +1,160 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "brake light illuminates",
+        "brakes are inoperative",
+        "brake pedal has no response",
+        "brakes lock up when driving on snow or ice",
+        "wheel cylinders come out and dump fluid",
+        "return springs for shoe brakes are broken."
+      ],
+      "odiNumbers": [
+        "11030591",
+        "736743",
+        "545297",
+        "813841",
+        "979737",
+        "976800",
+        "478006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion of Brake and Fuel Lines",
+      "impact": "Corrosion of brake and fuel lines can cause brake fluid leaks, fuel leaks, and loss of braking ability, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake and fuel lines are rotten",
+        "fuel is leaking",
+        "brake fluid is leaking",
+        "gas tank is rusted and leaking fuel",
+        "floor is rusted away."
+      ],
+      "odiNumbers": [
+        "11030591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS (Anti-lock Brake System) Failure",
+      "impact": "The failure of the ABS system can cause brakes to lock up, leading to loss of control, accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brakes lock up when driving on snow or ice",
+        "brake pedal goes to the floor",
+        "brake light illuminates."
+      ],
+      "odiNumbers": [
+        "478006",
+        "979737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corrosion of Seat Belt Anchor Mounting Plate",
+      "impact": "Corrosion of the seat belt anchor mounting plate can cause the seat belt to become detached, leading to a significant increase in the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Rust or corrosion on the seat belt anchor mounting plate",
+        "seat belt anchor becomes loose or detached",
+        "seat belt fails to function properly."
+      ],
+      "odiNumbers": [
+        "881679",
+        "531275"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "Failure of the seat belt retractor can cause the seat belt to malfunction, leading to a significant increase in the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Seat belt retractor breaks or fails to lock",
+        "seat belt does not stay latched",
+        "seat belt becomes detached during an accident."
+      ],
+      "odiNumbers": [
+        "826442",
+        "823072",
+        "982815"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Anchor Failure",
+      "impact": "Failure of the seat belt anchor can cause the seat belt to become detached, leading to a significant increase in the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Seat belt anchor breaks or becomes detached",
+        "seat belt fails to function properly",
+        "seat belt snaps off the anchor during an accident."
+      ],
+      "odiNumbers": [
+        "821108",
+        "823988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure and Fire Hazard",
+      "impact": "The failure of the instrument cluster can cause a fire in the dash area, potentially leading to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "The digital dashboard goes blank",
+        "a puff of smoke precedes the problem",
+        "the cluster module dies out",
+        "no dashboard gauges are visible",
+        "including gas indicator",
+        "speedometer",
+        "odometer",
+        "and temperature gauge."
+      ],
+      "odiNumbers": [
+        "860549",
+        "720927",
+        "827835",
+        "826091",
+        "969969",
+        "478564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Short Circuit Under the Dash",
+      "impact": "The short circuit under the dash can cause a fire, potentially leading to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "White smoke coming from the dash",
+        "unknown short causing electronic dashboard failure",
+        "short in wiring under the dash."
+      ],
+      "odiNumbers": [
+        "969969",
+        "478564"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

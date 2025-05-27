@@ -1,0 +1,168 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Lock and Release Mechanism Failure",
+      "impact": "The failure of the seatbelt lock and release mechanism can render the seatbelt useless, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatbelt buckle will not latch",
+        "the seatbelt buckle will not unlatch",
+        "the seatbelt buckle is stuck",
+        "the seatbelt buckle releases when pulled",
+        "the plastic part inside the buckle is broken",
+        "the buckle button is broken."
+      ],
+      "odiNumbers": [
+        "550825",
+        "970286",
+        "964216",
+        "960544",
+        "960257",
+        "960259",
+        "960253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Retractor Failure",
+      "impact": "The failure of the seatbelt retractor can cause the seatbelt to fail to restrain the occupant in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seatbelt does not retract",
+        "the seatbelt is stuck",
+        "the seatbelt does not function properly."
+      ],
+      "odiNumbers": [
+        "978741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Parts Availability Issue",
+      "impact": "The unavailability of parts can lead to delays in repairs, leaving the vehicle in an unsafe condition and potentially causing further damage.",
+      "symptoms": [
+        "The dealership does not have the necessary parts",
+        "the parts are on backorder",
+        "the repair is delayed due to parts availability."
+      ],
+      "odiNumbers": [
+        "982703"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Short Circuit",
+      "impact": "The electrical system short circuit can cause the battery to drain rapidly, leaving the vehicle stranded, and potentially lead to a fire, which can result in serious injury or damage.",
+      "symptoms": [
+        "The battery drains rapidly",
+        "often in as little as 30 minutes",
+        "despite being fully charged",
+        "the alternator",
+        "battery",
+        "main fuse",
+        "and distributor may need to be replaced multiple times",
+        "but the problem persists."
+      ],
+      "odiNumbers": [
+        "786035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Electrical Fire",
+      "impact": "The engine electrical fire can cause serious damage to the vehicle, potentially leading to injury or loss of life.",
+      "symptoms": [
+        "Smoke emerges from the engine",
+        "smoke comes through the heating ducts",
+        "the fire starts while driving",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "978946"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Activation of Overdrive Hold Feature",
+      "impact": "The unexpected activation of the overdrive hold feature can cause the vehicle to downshift into lower gears without warning, leading to loss of control, reduced speed, and increased risk of accidents.",
+      "symptoms": [
+        "The transmission shifts into lower gears without warning",
+        "the overdrive hold feature engages on its own",
+        "the vehicle slows down or loses power without warning."
+      ],
+      "odiNumbers": [
+        "966518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Oil Leaks",
+      "impact": "Transmission oil leaks can cause the transmission to malfunction, leading to premature wear, overheating, and eventual failure, which can result in costly repairs and potentially cause accidents.",
+      "symptoms": [
+        "Oil leaks from the transmission",
+        "transmission fluid levels are low",
+        "the transmission slips or hesitates",
+        "the vehicle experiences difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "476880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Pan Failure",
+      "impact": "The failure of the oil pan can cause oil leaks, leading to engine damage, overheating, and potentially causing a fire or engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks underneath the vehicle",
+        "oil spots on the ground",
+        "low oil pressure warning light",
+        "engine overheating",
+        "engine noise or knocking sounds."
+      ],
+      "odiNumbers": [
+        "476880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Turbocharger Failure",
+      "impact": "The failure of the turbocharger can cause oil leaks, engine damage, and potentially lead to engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Oil leaks",
+        "excessive smoke from the exhaust",
+        "loss of power",
+        "engine noise or knocking sounds",
+        "turbocharger failure warning light."
+      ],
+      "odiNumbers": [
+        "476880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

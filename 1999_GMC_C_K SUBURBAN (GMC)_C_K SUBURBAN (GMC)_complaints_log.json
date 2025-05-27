@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Corroded Brake Lines",
+      "impact": "Corroded brake lines can cause brake fluid to leak, leading to brake system failure, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "total system failure",
+        "no warning lights or pedal softness prior to failure."
+      ],
+      "odiNumbers": [
+        "10509792",
+        "10446895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Malfunction",
+      "impact": "ABS malfunction can cause the brake pedal to go to the floor, leading to loss of braking power, which can result in accidents or loss of control.",
+      "symptoms": [
+        "ABS engages at low speed on dry pavement",
+        "brake pedal goes to the floor",
+        "loss of stopping power."
+      ],
+      "odiNumbers": [
+        "10312332",
+        "10245618",
+        "10238131"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failure can cause the brake pedal to feel mushy or soft, leading to loss of braking power, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Mushy brakes",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10324400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corroded Fuel Lines",
+      "impact": "Corroded fuel lines can cause fuel leaks, which can lead to a fire hazard, especially when the engine is running. This can result in serious accidents, injuries, or even fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "engine stalling",
+        "loss of engine power",
+        "rust or corrosion on fuel lines."
+      ],
+      "odiNumbers": [
+        "10664416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Pump Mounted Driver (PMD) Failure",
+      "impact": "The failure of the Pump Mounted Driver (PMD) can cause the diesel engine to stall unpredictably, leading to a loss of power steering and power-assisted braking. This can result in accidents, especially at high speeds.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power steering",
+        "loss of power-assisted braking",
+        "unpredictable engine behavior."
+      ],
+      "odiNumbers": [
+        "10312334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Control Module (ECM) Failure",
+      "impact": "The failure of the Engine Control Module (ECM) can cause the engine to stall or lose power, leading to a loss of power steering and braking, which can result in accidents, especially when driving at high speeds or navigating curves.",
+      "symptoms": [
+        "The engine stalls or loses power during acceleration",
+        "loss of power steering",
+        "loss of braking power",
+        "difficulty steering or braking",
+        "vehicle stalls or dies while driving."
+      ],
+      "odiNumbers": [
+        "10641368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

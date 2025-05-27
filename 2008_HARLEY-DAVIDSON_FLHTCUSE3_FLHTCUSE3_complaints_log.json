@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Module Failure",
+      "impact": "The failure of the ABS module can cause the rear brakes to malfunction, leading to a loss of control and increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The rear brake pedal becomes solid or stuck",
+        "the rear brakes do not function",
+        "the ABS failure light comes on",
+        "the bike may pull to one side while braking."
+      ],
+      "odiNumbers": [
+        "10993282",
+        "10981150",
+        "10918036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Control Failure",
+      "impact": "The loss of clutch control can cause the vehicle to stall or shift into neutral unexpectedly, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Loss of clutch control",
+        "throttle shifting to neutral",
+        "difficulty shifting gears",
+        "clutch pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10891486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Compensator Assembly Failure",
+      "impact": "The failure of the compensator assembly can cause problems with starting, leading to riders being stranded, and potentially posing a safety risk due to backfires that can shoot smoke and flames out of the engine.",
+      "symptoms": [
+        "Difficulty starting",
+        "backfires",
+        "smoke and flames shooting out of the engine",
+        "broken teeth in the starting gear."
+      ],
+      "odiNumbers": [
+        "10560368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Control Failure",
+      "impact": "The failure of the throttle control can cause the vehicle to go into limp mode, leading to a loss of throttle response, which can be particularly dangerous when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Throttle control disappears",
+        "vehicle goes into limp mode",
+        "loss of throttle response",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "10551580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Filter Housing O-Ring Failure",
+      "impact": "The failure of the fuel filter housing O-ring can cause the engine to shut down without warning, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "Engine shuts down suddenly",
+        "check engine light comes on",
+        "loss of fuel pressure."
+      ],
+      "odiNumbers": [
+        "10430288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure (Carbon Dioxide Leak)",
+      "impact": "A fuel system failure can cause a carbon dioxide leak, which can lead to exposure to toxic fumes, driver disorientation, and potential accidents.",
+      "symptoms": [
+        "Strong odor of carbon dioxide",
+        "vehicle needs to be towed",
+        "prior recall repair was insufficient."
+      ],
+      "odiNumbers": [
+        "10329758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

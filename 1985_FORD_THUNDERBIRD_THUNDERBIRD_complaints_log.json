@@ -1,0 +1,73 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or die while in motion, leading to a loss of control and increasing the risk of accidents. In some cases, it can also cause a fire, resulting in damage to the vehicle and potentially harming occupants.",
+      "symptoms": [
+        "The vehicle stalls or dies while in motion",
+        "the ignition switch has a burning smell",
+        "the ignition switch has visible signs of burning or melting",
+        "the vehicle will not restart unless the key is jiggled",
+        "the ignition switch intermittently fails and blows fuses."
+      ],
+      "odiNumbers": [
+        "10928441",
+        "751023",
+        "563897",
+        "547272",
+        "516371",
+        "987129",
+        "983223",
+        "503304",
+        "983056"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to malfunction, leading to a loss of stopping power, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Brakes don't hold",
+        "brake pedal feels soft or spongy",
+        "brake pedal travels further than usual",
+        "brake pedal has a sudden loss of pressure",
+        "vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "487729",
+        "488832",
+        "85"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Gas Line Leaks",
+      "impact": "Fuel leaks at the top of the gas tank can cause fuel to spill onto the ground, creating a fire hazard and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Fuel smell or odor near the gas tank",
+        "fuel leaks or drips from the top of the gas tank",
+        "hissing or gurgling sound from the gas tank area",
+        "difficulty filling the gas tank",
+        "or the fuel gauge not registering accurately."
+      ],
+      "odiNumbers": [
+        "547272"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

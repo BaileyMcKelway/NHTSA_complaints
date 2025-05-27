@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become loose, increasing the risk of injury or fatality in the event of a sudden stop or accident.",
+      "symptoms": [
+        "The seat belt does not retract properly",
+        "the seat belt is loose",
+        "the seat belt stops working",
+        "the seat belt fails to restrain passengers during sudden stops."
+      ],
+      "odiNumbers": [
+        "11578356",
+        "11569108",
+        "11385203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure and Recall Repair Issues",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall or lose power, increasing the risk of accidents, injuries, or even death due to loss of mobility. The inability to complete the recall repair can exacerbate this risk.",
+      "symptoms": [
+        "Vehicle stalling or loss of power",
+        "difficulty starting the engine",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "11487754",
+        "11481074"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unavailability of Recall Repair Parts for Fuel System",
+      "impact": "The unavailability of recall repair parts for the fuel system can lead to delayed repairs, potentially causing safety risks to drivers and passengers, as well as inconvenience and frustration to vehicle owners.",
+      "symptoms": [
+        "Vehicle owners receive notification of a recall but are unable to have the repair completed due to the unavailability of parts",
+        "leading to extended wait times and potential safety risks."
+      ],
+      "odiNumbers": [
+        "11465116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Blowby and Oil Consumption",
+      "impact": "Excessive blowby and oil consumption can lead to fouled spark plugs, PCV system failure, and significantly impact emissions and overall engine reliability, potentially causing engine damage and decreased performance.",
+      "symptoms": [
+        "Oil in the intake manifold",
+        "excessive oil consumption",
+        "fouled spark plugs",
+        "PCV system failure",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "11405055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Factory-Installed Catch Can",
+      "impact": "The factory-installed catch can (MOPAR part number 68320849AA) may not be effective in preventing excessive blowby and oil consumption, leading to engine reliability issues and potential damage.",
+      "symptoms": [
+        "Oil in the intake manifold",
+        "excessive oil consumption",
+        "fouled spark plugs",
+        "PCV system failure",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "11405055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Lack of Documentation and Service Bulletins",
+      "impact": "The absence of service bulletins or documentation from MOPAR/FIAT stating acceptable levels of blowby and oil consumption can lead to inconsistent diagnosis and repair by dealerships, potentially causing frustration and financial loss for vehicle owners.",
+      "symptoms": [
+        "Dealership inability to provide documentation or service bulletins",
+        "inconsistent diagnosis and repair",
+        "potential financial loss for vehicle owners."
+      ],
+      "odiNumbers": [
+        "11405055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Matte Black Paint Defect",
+      "impact": "The defective matte black paint can cause discoloration, which may affect the vehicle's appearance and potentially lead to further damage if not addressed.",
+      "symptoms": [
+        "Discoloration of the matte black paint",
+        "water absorption",
+        "inability to remove water spots",
+        "protective coating failure."
+      ],
+      "odiNumbers": [
+        "11399490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Braking System Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the wheels to lock up, leading to a loss of braking ability, increased stopping distance, and potential accidents.",
+      "symptoms": [
+        "Loud thumping or grinding noise when brakes are applied",
+        "extra effort required to stop",
+        "wheels lock up during brake application",
+        "vehicle backfires or almost stalls when slowing down and accelerating again."
+      ],
+      "odiNumbers": [
+        "976480",
+        "971076",
+        "960939",
+        "959205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to become loose, compromising the safety of the occupant in the event of an accident or sudden stop.",
+      "symptoms": [
+        "The seat belt feels loose",
+        "the seat belt won't retract",
+        "the seat belt buckle fails to latch or unlatch",
+        "the seat belt retractor makes a loud noise or vibrates."
+      ],
+      "odiNumbers": [
+        "542288",
+        "959239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt to become loose or detached, compromising the safety of the occupant in the event of an accident or sudden stop.",
+      "symptoms": [
+        "The seat belt buckle fails to latch or unlatch",
+        "the seat belt buckle breaks or cracks",
+        "the seat belt feels loose."
+      ],
+      "odiNumbers": [
+        "542288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the vehicle to stall or experience a dramatic loss of power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The service light comes on",
+        "the vehicle experiences a dramatic loss of power",
+        "the vehicle stalls",
+        "the engine dies."
+      ],
+      "odiNumbers": [
+        "801204",
+        "968638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tailgate Latch Failure",
+      "impact": "The failure of the tailgate latch can cause the tailgate to open unexpectedly while driving, potentially leading to loss of cargo, damage to the vehicle or trailer, and increased risk of accidents.",
+      "symptoms": [
+        "The tailgate opens unexpectedly while driving",
+        "the tailgate pops open while towing a trailer",
+        "the tailgate does not stay closed."
+      ],
+      "odiNumbers": [
+        "969609",
+        "968631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

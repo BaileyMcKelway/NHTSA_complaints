@@ -1,0 +1,49 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Gear Mounting Bracket Failure",
+      "impact": "The excessive flexing or bending of the power steering gear mounting bracket can cause the steering system to fail, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The steering wheel center position changes",
+        "the steering wheel feels loose",
+        "the vehicle wanders or drifts while driving",
+        "the bracket shows signs of cracking or fracture."
+      ],
+      "odiNumbers": [
+        "10275854",
+        "10269659",
+        "10269273",
+        "10268968",
+        "10268907",
+        "10268876",
+        "10268444",
+        "10267793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fraudulent Vehicle Representation and VIN Tampering",
+      "impact": "The fraudulent representation of a vehicle's year and model can lead to financial losses for the consumer, as well as potential safety risks associated with unknown or hidden defects in the vehicle.",
+      "symptoms": [
+        "The dealer misrepresents the vehicle's year and model",
+        "alters the Vehicle Identification Number (VIN)",
+        "and provides false documentation to conceal the truth."
+      ],
+      "odiNumbers": [
+        "10209951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

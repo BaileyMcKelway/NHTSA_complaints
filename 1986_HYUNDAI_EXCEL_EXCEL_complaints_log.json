@@ -1,0 +1,178 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Incorrect or Missing Spark Distributor (Sparkeer) Part Number",
+      "impact": "The absence or incorrect spark distributor part number can lead to the installation of an incompatible spark distributor, causing overheating, burning of ignition wires, and potentially resulting in a fire.",
+      "symptoms": [
+        "Vehicle will not start",
+        "overheating",
+        "burning of ignition wires",
+        "fire hazard."
+      ],
+      "odiNumbers": [
+        "550300",
+        "549801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Electrical Issues",
+      "impact": "Electrical problems in the ignition system can cause a clicking sound, alternator failure, and vehicle stalling, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Clicking sound",
+        "alternator failure",
+        "vehicle stalling."
+      ],
+      "odiNumbers": [
+        "965202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the vehicle to stall, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "Vehicle stalling."
+      ],
+      "odiNumbers": [
+        "965202"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure due to Input Shaft Nut",
+      "impact": "The failure of the transmission due to the nut inside the transmission within the input shaft can cause a loss of power, making it difficult or impossible to control the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The transmission locks up",
+        "the vehicle experiences a discontinuance of power",
+        "the transmission fails to engage gears",
+        "the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "501358",
+        "962940",
+        "962874"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Refusal of Recall Repairs due to Lack of Maintenance Records",
+      "impact": "The refusal of recall repairs due to a lack of maintenance records can lead to continued transmission failure, causing a loss of power and potentially leading to accidents.",
+      "symptoms": [
+        "Transmission failure",
+        "refusal of recall repairs",
+        "lack of maintenance records."
+      ],
+      "odiNumbers": [
+        "489744"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to one side when braking",
+        "the brakes feel spongy or soft",
+        "the brakes are unresponsive",
+        "the vehicle takes longer than usual to stop",
+        "the brakes make unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "512552",
+        "474262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unstable Braking",
+      "impact": "Unstable braking can cause the vehicle to lose traction, leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle pulls to one side when braking",
+        "the brakes feel uneven",
+        "the vehicle wobbles or vibrates when braking",
+        "the brakes make unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "474262"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to costly repairs or even total loss of the vehicle. In extreme cases, engine fires can spread to other parts of the vehicle, posing a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "Engine compartment fire",
+        "smoke or flames visible from the engine area",
+        "burning smell or odor",
+        "engine overheating",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "512552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Failure of Cooling System Components",
+      "impact": "Premature failure of cooling system components, such as the heater core and radiator, can lead to engine overheating, damage to engine components, and potentially even engine failure. This can result in costly repairs, downtime, and potentially even safety risks.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "radiator or heater core failure",
+        "warning lights or alarms on the dashboard",
+        "reduced engine performance."
+      ],
+      "odiNumbers": [
+        "972025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Failure of Heater Core",
+      "impact": "The premature failure of the heater core can cause coolant leaks, resulting in a loss of engine performance, overheating, and potentially leading to engine damage. In addition, the emission of antifreeze mist into the cabin can pose a health risk to occupants.",
+      "symptoms": [
+        "Coolant leaks",
+        "antifreeze mist or vapor in the cabin",
+        "reduced heating performance",
+        "overheating engine",
+        "sweet or chemical odor inside the vehicle."
+      ],
+      "odiNumbers": [
+        "972025",
+        "478759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

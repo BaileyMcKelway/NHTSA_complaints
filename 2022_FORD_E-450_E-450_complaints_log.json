@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ENGINE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Connection Line Failure",
+      "impact": "The failure of the power steering connection line can cause the power steering to fail, making it difficult to maneuver the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the vehicle is hard to steer",
+        "the power steering fails to function",
+        "the brakes are affected",
+        "and the vehicle may be difficult to stop."
+      ],
+      "odiNumbers": [
+        "11564944",
+        "11558731",
+        "11496999",
+        "11467764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Hydro Boost Unit Failure",
+      "impact": "The failure of the brake hydro boost unit can cause the brakes to fail, making it difficult or impossible to stop the vehicle, which can lead to accidents.",
+      "symptoms": [
+        "The brakes fail to respond as needed",
+        "the brake pedal must be pressed harder than usual",
+        "the vehicle takes longer to stop than usual",
+        "and the brakes may fail to function altogether."
+      ],
+      "odiNumbers": [
+        "11564944",
+        "11467764"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Repair Issues",
+      "impact": "The failure to properly repair the vehicle under recall can lead to continued safety issues, accidents, and loss of control.",
+      "symptoms": [
+        "The dealer may decline to complete the recall repair",
+        "the recall repair may not be performed correctly",
+        "and the vehicle may still experience safety issues after the recall repair."
+      ],
+      "odiNumbers": [
+        "11558731",
+        "11460930",
+        "11457855"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Tire Pressure Monitoring System (TPMS)",
+      "impact": "The faulty TPMS can cause unnecessary stress and safety risks for drivers, as they may be forced to pull over on busy highways to check tire pressures, potentially leading to accidents or near-misses.",
+      "symptoms": [
+        "The TPMS warning light on the dashboard illuminates frequently",
+        "indicating low tire pressure",
+        "even when tire pressures are normal; the warning light may disappear after turning the ignition off and restarting; the system may fail to detect actual tire pressure issues."
+      ],
+      "odiNumbers": [
+        "11523300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Dealer Support for TPMS Issues",
+      "impact": "The lack of adequate support from dealerships can lead to frustration and mistrust among customers, who may be forced to continue driving with a faulty TPMS, potentially compromising their safety.",
+      "symptoms": [
+        "Dealerships may be unable or unwilling to diagnose and repair TPMS issues",
+        "citing the need for the fault to be active at the time of service; some dealerships may not service certain vehicle models or configurations",
+        "leaving customers without support."
+      ],
+      "odiNumbers": [
+        "11523300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEATS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can disable the airbag, making it unreliable in the event of an accident, which can lead to serious injury or even death.",
+      "symptoms": [
+        "The SRS (Supplemental Restraint System) light is illuminated on the dashboard",
+        "the airbag does not deploy in an accident."
+      ],
+      "odiNumbers": [
+        "745910",
+        "822034",
+        "986841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Heater Electrical System Failure",
+      "impact": "The failure of the seat heater electrical system can cause a short circuit, leading to a fire, which can result in injuries, fatalities, or vehicle damage.",
+      "symptoms": [
+        "The seat heater element catches fire",
+        "the electrical box in the seat shorts",
+        "the driver's seat warming element shorts",
+        "smoke or flames emanate from the seat area."
+      ],
+      "odiNumbers": [
+        "508303",
+        "501618",
+        "500050"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure (Excluded from Recall 91V010000)",
+      "impact": "The failure of the fuel pump can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "difficulty starting the engine",
+        "failure to start the engine."
+      ],
+      "odiNumbers": [
+        "10142852",
+        "8002821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "totalComplaints": 207,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the ABS light comes on",
+        "the brakes lock up",
+        "the vehicle pulls to one side",
+        "and a loud noise or vibration is heard."
+      ],
+      "odiNumbers": [
+        "10002430",
+        "870522",
+        "865832",
+        "855793",
+        "717573",
+        "716881",
+        "854576",
+        "716396",
+        "715726",
+        "712669",
+        "846300",
+        "846206",
+        "710648",
+        "710649",
+        "710242",
+        "709319",
+        "782570",
+        "843228",
+        "708986",
+        "842226",
+        "838529",
+        "703718",
+        "832699",
+        "702276",
+        "541622",
+        "780465",
+        "540668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Goes to the Floor",
+      "impact": "The brake pedal going to the floor can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "and a loud noise or vibration is heard."
+      ],
+      "odiNumbers": [
+        "10002430",
+        "854576",
+        "843228",
+        "703718",
+        "702276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Extended Stopping Distance",
+      "impact": "Extended stopping distances can cause accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle takes longer to stop",
+        "the brake pedal feels soft or spongy",
+        "the ABS light comes on",
+        "and a loud noise or vibration is heard."
+      ],
+      "odiNumbers": [
+        "870522",
+        "865832",
+        "855793",
+        "716881",
+        "715726",
+        "712669",
+        "846300",
+        "846206",
+        "710649",
+        "710242",
+        "709319",
+        "782570",
+        "843228",
+        "708986",
+        "832699",
+        "702276",
+        "541622",
+        "780465",
+        "540668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause extended stopping distances, loss of control, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "and a loud noise or vibration is heard."
+      ],
+      "odiNumbers": [
+        "716396",
+        "703718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility while driving in rainy or snowy conditions, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers come on and off intermittently",
+        "wipers stop working or work erratically in rain",
+        "wipers do not turn off until the vehicle is shut off",
+        "wipers stop in the middle of the windshield while the vehicle is running",
+        "poor visibility due to wiper failure."
+      ],
+      "odiNumbers": [
+        "10111745",
+        "749566",
+        "887752",
+        "855588",
+        "849996",
+        "847772",
+        "842025",
+        "709431",
+        "839844",
+        "837151",
+        "836768",
+        "830118",
+        "526417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Design Flaw",
+      "impact": "The design of the windshield wiper system can cause driver distraction and increase the risk of accidents, as the driver must hold a button and watch a pointer on a display to adjust the wipers while driving.",
+      "symptoms": [
+        "None reported",
+        "as this is a design flaw rather than a specific failure."
+      ],
+      "odiNumbers": [
+        "726363"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause an engine compartment fire, resulting in damage to the vehicle and potential harm to occupants.",
+      "symptoms": [
+        "Engine compartment fire",
+        "alternator malfunction",
+        "electrical failure."
+      ],
+      "odiNumbers": [
+        "983408",
+        "959101"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause a total electrical failure, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "Battery fluid leak",
+        "corrosion of battery cables",
+        "total electrical failure."
+      ],
+      "odiNumbers": [
+        "973554"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can cause the vehicle to surge, making it difficult to control, and potentially leading to accidents.",
+      "symptoms": [
+        "Vehicle surges",
+        "little response from brakes",
+        "defective starter motor."
+      ],
+      "odiNumbers": [
+        "963944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fuses to blow, resulting in the loss of critical vehicle functions, such as lights and brakes.",
+      "symptoms": [
+        "Electrical short",
+        "blown fuses",
+        "loss of vehicle functions."
+      ],
+      "odiNumbers": [
+        "962414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

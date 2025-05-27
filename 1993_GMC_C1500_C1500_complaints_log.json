@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatback Bolt Failure",
+      "impact": "The failure of the seatback bolts can cause the seat to collapse or recline excessively, leading to a loss of back support and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The seatback leans too far back",
+        "the seatback collapses",
+        "the driver is in a reclined position",
+        "the driver has no back support",
+        "the seat squeaks",
+        "the driver surges forward."
+      ],
+      "odiNumbers": [
+        "10303244",
+        "559784",
+        "874797",
+        "844468",
+        "822207",
+        "510209",
+        "979403",
+        "976643",
+        "966549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility during rain or snow, increasing the risk of accidents.",
+      "symptoms": [
+        "The windshield wipers may or may not work",
+        "stopping and starting for no apparent reason",
+        "working only intermittently",
+        "shutting down completely",
+        "or failing to operate during rain or snow."
+      ],
+      "odiNumbers": [
+        "10095930",
+        "10086083",
+        "891923",
+        "559784",
+        "874224",
+        "824459"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure and Electrical System Malfunction",
+      "impact": "The failure of the alternator can cause a loss of electrical power, leading to malfunctioning of critical systems, and in some cases, a fire, which can result in a loss of vehicle control, accidents, or injuries.",
+      "symptoms": [
+        "Dashboard lights and meters flashing and moving wildly",
+        "loud screeching noise",
+        "smoke or burning smell",
+        "battery acid spill",
+        "broken positive terminal post of the battery."
+      ],
+      "odiNumbers": [
+        "713064",
+        "515741",
+        "511017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

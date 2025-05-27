@@ -1,0 +1,182 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering (EPS) Failure",
+      "impact": "The failure of the EPS system can cause the vehicle to veer off course, making it difficult to control, which can lead to accidents.",
+      "symptoms": [
+        "The steering wheel feels notchy",
+        "the vehicle weaves from side to side without a steering input",
+        "the steering wheel slips or floats",
+        "the vehicle requires constant correction to stay in its lane",
+        "the steering wheel has a delayed or non-linear response to input."
+      ],
+      "odiNumbers": [
+        "11019396",
+        "10850727",
+        "10839919",
+        "10765724",
+        "10749588",
+        "10662688",
+        "10605609",
+        "10520960",
+        "10505438",
+        "10503937",
+        "10503501",
+        "10499851",
+        "10499877",
+        "10498457",
+        "10498470",
+        "10498541",
+        "10498547",
+        "10498341",
+        "10495010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Rack Failure",
+      "impact": "The failure of the steering rack can cause the vehicle to lose steering control, making it difficult or impossible to control, which can lead to accidents.",
+      "symptoms": [
+        "The steering wheel feels notchy",
+        "the vehicle weaves from side to side without a steering input",
+        "the steering wheel slips or floats",
+        "the vehicle requires constant correction to stay in its lane",
+        "the steering wheel has a delayed or non-linear response to input."
+      ],
+      "odiNumbers": [
+        "10839919",
+        "10765724",
+        "10662688",
+        "10520960",
+        "10505438",
+        "10503937",
+        "10503501",
+        "10499851",
+        "10499877",
+        "10498457",
+        "10498470",
+        "10498541",
+        "10498547",
+        "10498341",
+        "10495010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Clutch Transmission (DSG) Failure",
+      "impact": "The failure of the DSG transmission can cause unexpected jerking, hesitation, or loss of power, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "Clunking or jerking when downshifting",
+        "hesitation on upshift",
+        "strange shifting patterns",
+        "loss of power",
+        "transmission warning indicator on",
+        "harsh shifting",
+        "and noise during shifts."
+      ],
+      "odiNumbers": [
+        "11363839",
+        "11280436",
+        "11032341",
+        "11023449",
+        "11021011",
+        "10924986",
+        "10618528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Mechatronics Unit Failure",
+      "impact": "The failure of the mechatronics unit can cause jerking, hesitation, or loss of power, leading to accidents or leaving the driver stranded in traffic.",
+      "symptoms": [
+        "Jerking or lunging forward unexpectedly",
+        "harsh shifting",
+        "and noise during shifts."
+      ],
+      "odiNumbers": [
+        "11023449",
+        "10618528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Error and Limp Mode",
+      "impact": "The transmission error can cause the vehicle to enter limp mode, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Transmission error message",
+        "vehicle enters limp mode",
+        "loss of power",
+        "and inability to shift gears."
+      ],
+      "odiNumbers": [
+        "11032341",
+        "10924986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fluid Contamination",
+      "impact": "The presence of metal shavings in the transmission fluid can cause premature wear and failure of the transmission, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Metal shavings in transmission fluid",
+        "transmission failure",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "10924986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "MMI 5F Module Failure",
+      "impact": "The failure of the MMI 5F module can cause the loss of various safety features, including tire pressure monitoring, suspension control, and navigation, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The radio turns on and off intermittently",
+        "the radio does not stay on long enough to reset tire pressure",
+        "the MMI 5F module does not turn on at all."
+      ],
+      "odiNumbers": [
+        "11499556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Start Failure",
+      "impact": "The failure of the vehicle's starting system can cause the vehicle to shut down completely, leaving the driver stranded and potentially vulnerable to safety risks.",
+      "symptoms": [
+        "The vehicle will not start with the key or button starter",
+        "the vehicle shuts down completely",
+        "electronic systems are unavailable",
+        "manual systems are unavailable."
+      ],
+      "odiNumbers": [
+        "10515323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

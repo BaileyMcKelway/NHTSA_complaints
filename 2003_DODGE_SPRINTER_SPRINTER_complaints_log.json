@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Tire Valve Stem",
+      "impact": "The failure of the tire valve stem can cause sudden tire deflation, leading to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire deflation",
+        "loud noise",
+        "air leaking from the valve stem",
+        "valve stem separation",
+        "delamination of the valve stem",
+        "and rapid tire pressure loss."
+      ],
+      "odiNumbers": [
+        "10203695",
+        "10113352",
+        "10109152",
+        "10081729",
+        "10088301",
+        "10086391"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intake Manifold Corrosion and Recall Issues",
+      "impact": "The corrosion of the intake manifold can cause engine performance issues, decreased fuel efficiency, and potentially lead to engine failure, which can increase the risk of accidents or leave the driver stranded. The delay or lack of recall remedy can exacerbate the problem, putting the driver and passengers at risk.",
+      "symptoms": [
+        "Engine performance issues",
+        "decreased fuel efficiency",
+        "engine failure",
+        "and recall notice received but no remedy performed."
+      ],
+      "odiNumbers": [
+        "10352243",
+        "10347692",
+        "10328549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to become stuck in one gear, leading to loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The check engine light comes on",
+        "the vehicle gets stuck in one gear",
+        "the RPM goes up into the red line",
+        "the vehicle jerks into the next gear",
+        "the vehicle shuts off while driving",
+        "and the transmission fluid leaks."
+      ],
+      "odiNumbers": [
+        "10200657"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Valve Stem Failure",
+      "impact": "The failure of the tire valve stem can cause sudden and violent loss of air pressure, leading to loss of control, accidents, or tire blowouts.",
+      "symptoms": [
+        "The tire valve stem leaks air",
+        "the tire pressure drops suddenly",
+        "the vehicle shakes or vibrates",
+        "and the tire becomes completely flat."
+      ],
+      "odiNumbers": [
+        "10086373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Traction Control System Failure",
+      "impact": "The failure of the traction control system can mask tire pressure loss, leading to loss of control, accidents, or unexpected behavior.",
+      "symptoms": [
+        "The vehicle's traction control system fails to detect a flat tire",
+        "the vehicle's behavior becomes erratic",
+        "and the driver is unaware of the tire pressure loss."
+      ],
+      "odiNumbers": [
+        "10086373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

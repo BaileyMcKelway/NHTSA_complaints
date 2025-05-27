@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 204,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Shutting Down",
+      "impact": "The engine stalling and shutting down can cause loss of power steering, acceleration, and control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or shuts down while driving",
+        "often without warning; the low oil pressure warning light may come on; the vehicle may experience a loss of power steering and acceleration."
+      ],
+      "odiNumbers": [
+        "11547124",
+        "11499982",
+        "11315836",
+        "11310618",
+        "11289341",
+        "11280586",
+        "11278195",
+        "11269297",
+        "11266724",
+        "11265624",
+        "11193286",
+        "11182824",
+        "11153251",
+        "11140516",
+        "11124329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Excessive Oil Consumption",
+      "impact": "Excessive oil consumption can cause the engine to shut down, leading to accidents or leaving the driver stranded; it can also lead to premature engine wear and damage.",
+      "symptoms": [
+        "The vehicle burns through oil quickly",
+        "often requiring frequent oil changes; the oil level may drop rapidly",
+        "causing the engine to shut down."
+      ],
+      "odiNumbers": [
+        "11289341",
+        "11278195",
+        "11265624",
+        "11153251",
+        "11124329",
+        "11473613",
+        "11362288",
+        "11286711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Stop/Start System Failure",
+      "impact": "The failure of the stop/start system can cause the vehicle to stall or shut down, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle's stop/start system fails to restart the engine after shutting down; the vehicle may stall or shut down while driving."
+      ],
+      "odiNumbers": [
+        "11278572",
+        "11020436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

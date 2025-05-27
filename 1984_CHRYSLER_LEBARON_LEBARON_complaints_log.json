@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Mounting Failure",
+      "impact": "The failure of the steering column mounting can cause loss of steering control, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "The steering column feels loose or wobbly",
+        "the vehicle is difficult to steer",
+        "the steering wheel vibrates or shakes",
+        "the steering column bolts are stripped or broken."
+      ],
+      "odiNumbers": [
+        "803936",
+        "963631"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rack and Pinion Failure",
+      "impact": "The failure of the rack and pinion can cause loss of steering control, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "The steering feels stiff or difficult",
+        "the steering wheel vibrates or shakes",
+        "the vehicle pulls to one side",
+        "the rack and pinion unit leaks fluid."
+      ],
+      "odiNumbers": [
+        "601447",
+        "472188",
+        "601448"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cold Power Steering Issue",
+      "impact": "The cold power steering issue can cause difficulty steering the vehicle, especially when the engine is cold, which can lead to accidents or near-miss incidents.",
+      "symptoms": [
+        "The steering feels stiff or difficult when the engine is cold",
+        "the power steering assist is reduced or absent",
+        "the steering wheel is hard to turn."
+      ],
+      "odiNumbers": [
+        "481210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "Fuel injector failure can cause fuel leakage, leading to a fire hazard, and potentially result in engine stalling or failure to start, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel leakage",
+        "fuel odor",
+        "engine stalling",
+        "difficulty starting the engine",
+        "engine misfires",
+        "reduced engine performance."
+      ],
+      "odiNumbers": [
+        "762597",
+        "515555"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Vapor Lock",
+      "impact": "Fuel system vapor lock can cause the engine to stall or fail to start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "difficulty starting the engine",
+        "engine hesitation",
+        "reduced engine performance",
+        "fuel system malfunction."
+      ],
+      "odiNumbers": [
+        "518873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Failure to Restart",
+      "impact": "The sudden stalling of the engine while driving can cause loss of control, accidents, and leave the driver stranded, which can be particularly dangerous for solo drivers, especially women.",
+      "symptoms": [
+        "The engine light comes on while driving",
+        "the engine stalls",
+        "the vehicle will not restart",
+        "the driver is left stranded."
+      ],
+      "odiNumbers": [
+        "973402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "STEERING",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Subframe Failure (Aluminum)",
+      "impact": "The failure of the rear subframe can cause the seat and rider to contact the rear wheel, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "None reported",
+        "as the failure is sudden and unexpected."
+      ],
+      "odiNumbers": [
+        "761385",
+        "760972",
+        "760062",
+        "760070",
+        "759966",
+        "759920",
+        "759922",
+        "759878",
+        "759684"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Welds on Steel Frame",
+      "impact": "Cracked welds on the steel frame can compromise the structural integrity of the vehicle, leading to potential safety risks, such as loss of control or collapse of the frame, especially in the event of an accident.",
+      "symptoms": [
+        "Cracks or fractures visible in the welds of the steel frame",
+        "potentially accompanied by unusual noises or vibrations while driving."
+      ],
+      "odiNumbers": [
+        "761010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Breaks at Welds Causing Seat Instability",
+      "impact": "The frame breaks at or near the welds can cause the seats to become unsupported, leading to a loss of structural integrity, which can increase the risk of injury or fatalities in the event of an accident.",
+      "symptoms": [
+        "The seat feels unstable or loose",
+        "the seat moves unexpectedly",
+        "the seat collapses or falls",
+        "unusual noises or creaking sounds come from the seat or frame area."
+      ],
+      "odiNumbers": [
+        "759893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

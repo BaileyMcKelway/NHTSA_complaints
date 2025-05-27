@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spark Plug Failure and Cylinder Head Damage",
+      "impact": "The failure of spark plugs can cause damage to the cylinder head threads, leading to costly repairs and potentially causing engine failure, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Spark plug blows out",
+        "stripped cylinder head threads",
+        "broken coil over plug (COP)",
+        "engine knocking or misfiring."
+      ],
+      "odiNumbers": [
+        "10615777",
+        "10615773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Coolant Leaking into Cylinder",
+      "impact": "Coolant leaking into the cylinder can cause engine knocking, misfiring, and potentially lead to engine failure, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine knocking",
+        "misfiring",
+        "coolant contamination of engine oil",
+        "violent shaking of the vehicle."
+      ],
+      "odiNumbers": [
+        "10486111",
+        "10483715"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure Leading to Vehicle Fires",
+      "impact": "The failure of the electrical system can cause vehicles to catch fire, even when turned off and parked, resulting in total loss of the vehicle, potential injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle catches fire",
+        "often in the engine compartment or wheel wells",
+        "while parked and turned off",
+        "with no warning signs or symptoms."
+      ],
+      "odiNumbers": [
+        "10587161",
+        "10559245"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Corrosion and Strap Failure",
+      "impact": "Corrosion of the fuel tank and failure of the fuel tank straps can cause gasoline to leak, leading to a fire hazard, and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Gasoline leaking from the fuel tank",
+        "broken or corroded fuel tank straps",
+        "fuel tank corrosion."
+      ],
+      "odiNumbers": [
+        "10553124",
+        "10466024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Inspection and Repair under Recall",
+      "impact": "Failure to properly inspect and repair the fuel tank and its components during a recall can lead to continued safety risks and potential accidents.",
+      "symptoms": [
+        "Lack of notification about fuel tank corrosion or damage during recall repair",
+        "inadequate repair or replacement of fuel tank components",
+        "continued fuel leaks or other safety issues after recall repair."
+      ],
+      "odiNumbers": [
+        "10553124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Mounting Failure",
+      "impact": "The failure of the fuel tank mounting can cause the fuel tank to detach from the vehicle, leading to fuel leaks, fires, and accidents, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The fuel tank detaches from the vehicle",
+        "fuel leaks onto the ground",
+        "a quarter of a tank of fuel spills",
+        "the fuel tank is loose or hanging from the vehicle."
+      ],
+      "odiNumbers": [
+        "10444840",
+        "10433811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

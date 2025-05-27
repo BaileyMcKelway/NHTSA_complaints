@@ -1,0 +1,216 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Valve Cover Failure",
+      "impact": "The failure of the engine valve cover can cause smoke to come from the vents, potentially leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Smoke coming from the vents",
+        "unusual noises or smells from the engine."
+      ],
+      "odiNumbers": [
+        "10053389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cylinder Head Cracking",
+      "impact": "A cracked cylinder head can cause coolant to leak internally into the engine cylinders, leading to engine damage, overheating, and potentially causing a loss of control or stalling.",
+      "symptoms": [
+        "Coolant leakage",
+        "engine overheating",
+        "reduced engine performance."
+      ],
+      "odiNumbers": [
+        "729729"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Lifter Failure",
+      "impact": "Faulty lifters can cause loud ticking noises, which can be a sign of a more serious engine problem, potentially leading to engine damage or failure.",
+      "symptoms": [
+        "Loud ticking noise from the engine",
+        "especially when cold."
+      ],
+      "odiNumbers": [
+        "704759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, leading to reduced engine performance, damage, or failure.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leakage",
+        "reduced engine performance."
+      ],
+      "odiNumbers": [
+        "533979"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Tapping Noise",
+      "impact": "Unusual engine noises can be a sign of a more serious engine problem, potentially leading to engine damage or failure.",
+      "symptoms": [
+        "Tapping or knocking noise from the engine."
+      ],
+      "odiNumbers": [
+        "531039"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause a loss of braking effectiveness, leading to accidents or near-misses, which can result in serious injury or death.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop or slow down",
+        "the brakes make a grinding noise."
+      ],
+      "odiNumbers": [
+        "10099543",
+        "813748",
+        "985386",
+        "505821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Brake Noise",
+      "impact": "The intermittent brake noise can be a sign of worn-out brake pads or shoes, which can lead to a loss of braking effectiveness, causing accidents or near-misses.",
+      "symptoms": [
+        "The brakes make a grinding noise",
+        "the brakes make a squealing noise",
+        "the brakes vibrate when applied."
+      ],
+      "odiNumbers": [
+        "813748",
+        "505821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause a loss of braking effectiveness, leading to accidents or near-misses, which can result in serious injury or death.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle is unable to stop or slow down",
+        "the ABS light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "985386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can result in serious injuries or fatalities, as the vehicle's occupants are not adequately protected.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "752389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Aggressive Deployment",
+      "impact": "The aggressive deployment of airbags can cause injuries, such as whiplash, facial trauma, and respiratory problems, even in low-speed collisions.",
+      "symptoms": [
+        "Airbags deploy violently",
+        "causing whiplash",
+        "facial injuries",
+        "and respiratory problems."
+      ],
+      "odiNumbers": [
+        "559531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause unexpected injuries, distractions, and accidents, and can also lead to vehicle damage and repair costs.",
+      "symptoms": [
+        "Airbags deploy without a crash or collision",
+        "causing unexpected injuries and distractions."
+      ],
+      "odiNumbers": [
+        "828156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure to Engage Reverse Gear",
+      "impact": "The failure of the transmission to engage reverse gear can cause the vehicle to become stuck, increasing the risk of accidents or collisions, especially when reversing out of a driveway or parking space.",
+      "symptoms": [
+        "The vehicle refuses to move in reverse",
+        "the transmission fails to engage reverse gear",
+        "the vehicle is stuck in a forward gear",
+        "the transmission makes unusual noises or vibrations when attempting to shift into reverse."
+      ],
+      "odiNumbers": [
+        "863050",
+        "783804",
+        "484313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure to Shift Gears",
+      "impact": "The failure of the transmission to shift gears can cause the vehicle to lose power, stall, or become stuck, increasing the risk of accidents or collisions.",
+      "symptoms": [
+        "The transmission fails to shift gears",
+        "the vehicle hesitates or refuses to accelerate",
+        "the transmission makes unusual noises or vibrations",
+        "the vehicle stalls or loses power."
+      ],
+      "odiNumbers": [
+        "783804",
+        "484313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

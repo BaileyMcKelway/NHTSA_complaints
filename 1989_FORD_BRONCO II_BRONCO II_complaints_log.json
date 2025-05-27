@@ -1,0 +1,233 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, damage to the vehicle's electrical components, and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "Wires melting",
+        "ignition switch sticking",
+        "anti-lock brake light coming on",
+        "gas pedal sticking",
+        "headlights and blinkers not working",
+        "power windows not working",
+        "dash lights not working",
+        "air conditioner constantly running and freezing up."
+      ],
+      "odiNumbers": [
+        "730133",
+        "730133",
+        "825004",
+        "808243",
+        "507552",
+        "983372",
+        "983111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "Ignition switch failure can cause electrical shorts, fires, and damage to the vehicle's electrical components, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Ignition switch sticking",
+        "anti-lock brake light coming on",
+        "electrical shorts",
+        "fires in the dash area."
+      ],
+      "odiNumbers": [
+        "730133",
+        "730133",
+        "808243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Battery Hold-Down Bracket Failure",
+      "impact": "Battery hold-down bracket failure can cause the battery to shift, leading to electrical shorts, fires, and damage to the vehicle's electrical components, potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "Battery shifting",
+        "positive terminal coming into contact with the fender",
+        "electrical shorts",
+        "fires in the engine compartment."
+      ],
+      "odiNumbers": [
+        "728041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause electrical shorts, fires, and damage to the vehicle's electrical components, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Electrical shorts in the plug connector at the alternator",
+        "alternator catching on fire."
+      ],
+      "odiNumbers": [
+        "825004"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Corrosion/Rusting",
+      "impact": "Corrosion or rusting of the fuel tank can cause fuel leaks, which can lead to vehicle fires, posing a significant risk to driver and passenger safety.",
+      "symptoms": [
+        "Fuel leaks",
+        "gas tank rusted",
+        "fuel tank corroded",
+        "fuel smell",
+        "fuel dripping onto the exhaust system",
+        "vehicle fire."
+      ],
+      "odiNumbers": [
+        "802881",
+        "960393",
+        "959300",
+        "509978"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Failure of the fuel pump can cause fuel leaks, vehicle stalling, and in extreme cases, vehicle fires, posing a significant risk to driver and passenger safety.",
+      "symptoms": [
+        "Fuel pump failure",
+        "vehicle stalling",
+        "fuel leaks",
+        "fuel smell",
+        "vehicle fire."
+      ],
+      "odiNumbers": [
+        "481739",
+        "736112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Component Failure (Sending Unit)",
+      "impact": "Failure of the fuel system sending unit can cause inaccurate fuel level readings, leading to fuel pump failure and potentially vehicle fires.",
+      "symptoms": [
+        "Inaccurate fuel level readings",
+        "fuel pump failure",
+        "vehicle stalling."
+      ],
+      "odiNumbers": [
+        "736112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "Cooling system failures can cause engine overheating, leading to cracked cylinder heads, engine damage, and potentially, engine failure, which can result in costly repairs, accidents, or even fires.",
+      "symptoms": [
+        "Insufficient coolant",
+        "cracked cylinder heads",
+        "coolant leaks",
+        "bad odors/fumes in the passenger compartment."
+      ],
+      "odiNumbers": [
+        "965292",
+        "974329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Exhaust System Failure",
+      "impact": "Exhaust system failures can cause toxic fumes to leak into the passenger compartment, posing a health risk to occupants, and potentially, leading to fires.",
+      "symptoms": [
+        "Exhaust system leaks",
+        "bad odors/fumes in the passenger compartment."
+      ],
+      "odiNumbers": [
+        "982747"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause significant damage to the vehicle, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine compartment fires",
+        "unknown causes."
+      ],
+      "odiNumbers": [
+        "816269",
+        "983078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "Brake system failures can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Emergency brake failure",
+        "springs popping."
+      ],
+      "odiNumbers": [
+        "700236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission/Drive Shaft Failure",
+      "impact": "Transmission/drive shaft failures can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Vehicle lunges forward and comes to a complete stop without warning",
+        "broken drive shaft."
+      ],
+      "odiNumbers": [
+        "700236"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exterior Rear View Mirror Failure",
+      "impact": "The failure of the exterior rear view mirrors can cause poor visibility, increasing the risk of accidents, especially when changing lanes or merging with traffic.",
+      "symptoms": [
+        "The exterior rear view mirrors fold in or move out of position when the vehicle reaches speeds above 40-45 mph",
+        "causing poor visibility."
+      ],
+      "odiNumbers": [
+        "528318",
+        "527583",
+        "804028",
+        "509923",
+        "975300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

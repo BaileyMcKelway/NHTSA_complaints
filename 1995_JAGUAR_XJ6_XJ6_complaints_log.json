@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sticking Throttle Plate/Idle Plate",
+      "impact": "A stuck throttle plate or idle plate can cause the vehicle to accelerate erratically or not at all, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle hesitates or fails to accelerate when the accelerator pedal is pressed",
+        "the accelerator pedal sticks at various positions",
+        "the vehicle moves very slowly",
+        "the throttle plate or idle plate becomes stuck at idle."
+      ],
+      "odiNumbers": [
+        "10139910",
+        "10059101",
+        "8005491"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause the vehicle to slow down or stop unexpectedly, leading to accidents or near-misses.",
+      "symptoms": [
+        "The vehicle makes a hissing sound",
+        "the brakes are slow to respond",
+        "the brakes fail to engage",
+        "the vehicle accelerates suddenly without warning."
+      ],
+      "odiNumbers": [
+        "10015894",
+        "863895"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Vacuum Booster Pump",
+      "impact": "A defective vacuum booster pump can cause the brakes to malfunction, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "The vehicle makes a hissing sound",
+        "the brakes are slow to respond",
+        "the brakes fail to engage."
+      ],
+      "odiNumbers": [
+        "10015894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Design or Specification Issues",
+      "impact": "Issues with the brake design or specifications can cause braking problems, including reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "The brakes are slow to respond",
+        "the brakes fail to engage",
+        "the brake pads wear out prematurely."
+      ],
+      "odiNumbers": [
+        "483250"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Idle Instability and Engine Stalling",
+      "impact": "The persistent idle instability can cause the engine to stall, leading to a loss of power and control, which can increase the risk of accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine idles rough",
+        "the engine stalls frequently",
+        "the vehicle quits during normal operation",
+        "the vehicle hesitates or stutters when accelerating."
+      ],
+      "odiNumbers": [
+        "10055487"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "The fuel system malfunction can cause the engine to flood, leading to a loss of power and control, which can increase the risk of accidents, especially when driving at high speeds or in heavy traffic. The stuck accelerator pedal can also cause the vehicle to accelerate unexpectedly, leading to a loss of control.",
+      "symptoms": [
+        "The engine floods",
+        "the accelerator pedal is hard to press or sticks",
+        "the vehicle hesitates or stutters when accelerating",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "832512"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

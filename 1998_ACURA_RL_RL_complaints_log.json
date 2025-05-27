@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SUSPENSION",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Takata Airbag Recall",
+      "impact": "The delayed availability of parts for the Takata airbag recall repair can leave vehicles vulnerable to faulty airbag deployments, which can increase the risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair",
+        "rather than a specific vehicle malfunction."
+      ],
+      "odiNumbers": [
+        "11340379",
+        "11327944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lower Ball Joint Failure",
+      "impact": "The failure of the lower ball joint can cause the vehicle's suspension to collapse, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "Squeaking noise while driving at low speeds (30 mph or less)",
+        "sudden collapse of the vehicle's suspension",
+        "difficulty steering",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10341626",
+        "10106910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping/Jerking",
+      "impact": "The transmission slipping or jerking can cause the vehicle to lose power, hesitate, or stall, which can lead to accidents, especially when merging or crossing intersections.",
+      "symptoms": [
+        "The transmission jerks or slips while shifting gears",
+        "the vehicle hesitates or stalls when shifting",
+        "the vehicle loses power or acceleration",
+        "the transmission makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "8013804",
+        "535845"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Differential Failure",
+      "impact": "The failure of the differential can cause the vehicle to lose traction, stability, and control, which can lead to accidents, especially when driving on slippery or uneven roads.",
+      "symptoms": [
+        "The vehicle vibrates or shakes excessively",
+        "the vehicle makes unusual noises or grinding sounds",
+        "the vehicle loses traction or stability",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "8013804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "totalComplaints": 50,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause loss of steering control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loss of power steering assist",
+        "loud popping noise",
+        "steering wheel spins freely",
+        "steering wheel has excessive play",
+        "vehicle wanders or pulls to one side",
+        "difficulty turning the steering wheel."
+      ],
+      "odiNumbers": [
+        "11476597",
+        "11330032",
+        "11299622",
+        "11175945",
+        "10785543",
+        "10669252",
+        "10660688",
+        "10625822",
+        "10559533",
+        "10549941",
+        "10532459",
+        "10479893",
+        "10478030",
+        "10478034",
+        "10478045",
+        "10478047",
+        "10477192",
+        "10475954",
+        "10471184",
+        "10347391",
+        "10347404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Shaft Failure",
+      "impact": "The failure of the steering shaft can cause loss of steering control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Steering wheel has excessive play",
+        "loud knocking noise",
+        "steering wheel binds or is difficult to turn",
+        "vehicle wanders or pulls to one side",
+        "loss of power steering assist."
+      ],
+      "odiNumbers": [
+        "11418934",
+        "11299622",
+        "11164014",
+        "11048133",
+        "10785543",
+        "10625822",
+        "10532459",
+        "10479893",
+        "10471184",
+        "10347391",
+        "10347404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Steering Bearing Failure",
+      "impact": "The failure of the steering bearing can cause loss of steering control, leading to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Loud grinding or popping noise",
+        "steering wheel has excessive play",
+        "steering wheel binds or is difficult to turn",
+        "vehicle wanders or pulls to one side."
+      ],
+      "odiNumbers": [
+        "11299622",
+        "11175945",
+        "10479893",
+        "10471184",
+        "10347391",
+        "10347404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Hub Failure",
+      "impact": "The failure of the wheel hub can cause loss of vehicle control, leading to accidents.",
+      "symptoms": [
+        "Wheel hub broke at the weld",
+        "wheel departed from the vehicle."
+      ],
+      "odiNumbers": [
+        "11476597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to loss of vehicle control, accidents, and injuries. The sudden and unexpected acceleration can cause the driver to lose control of the vehicle, resulting in crashes or near-misses.",
+      "symptoms": [
+        "The vehicle accelerates independently without warning",
+        "the accelerator pedal becomes stuck to the floorboard",
+        "the vehicle surges forward while brakes are applied",
+        "the engine revs at a high rate",
+        "and the vehicle fails to respond to brake pedal input."
+      ],
+      "odiNumbers": [
+        "11104225",
+        "11011486",
+        "10946172",
+        "10893344",
+        "10855494",
+        "10850226",
+        "10760845",
+        "10470556",
+        "10314349",
+        "10253036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body Failure",
+      "impact": "Throttle body failure can cause unintended acceleration, loss of vehicle control, and accidents. The failure can lead to stuck accelerator pedals, sudden acceleration, and engine revving at high rates.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck to the floorboard",
+        "the vehicle surges forward while brakes are applied",
+        "the engine revs at a high rate",
+        "and the vehicle fails to respond to brake pedal input."
+      ],
+      "odiNumbers": [
+        "10470556",
+        "10253036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "Brake pedal failure can cause loss of vehicle control, accidents, and injuries. The failure can lead to stuck brake pedals, sudden acceleration, and engine revving at high rates.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the vehicle fails to respond to brake pedal input",
+        "and the vehicle accelerates independently without warning."
+      ],
+      "odiNumbers": [
+        "11104225",
+        "10946172",
+        "10893344",
+        "10314349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the driver to lose critical information about the vehicle's speed, RPM, fuel level, and temperature, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "The instrument cluster is completely dark",
+        "no lights illuminate except turn signals",
+        "speed",
+        "RPM",
+        "fuel level",
+        "and temperature gauges are not functioning."
+      ],
+      "odiNumbers": [
+        "11536418",
+        "10865792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fires, electrical shorts, and other safety issues, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The front passenger side visor light remains illuminated after the visor is closed",
+        "causing the visor material to burn",
+        "the instrument panel becomes inoperable intermittently."
+      ],
+      "odiNumbers": [
+        "10873481",
+        "10865792"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without warning",
+        "the RPMs increase without the accelerator being applied",
+        "the vehicle accelerates when started and placed into drive."
+      ],
+      "odiNumbers": [
+        "10292772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

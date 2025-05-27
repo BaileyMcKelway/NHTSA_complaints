@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passive Restraint System Failure",
+      "impact": "The failure of the passive restraint system can lead to a lack of protection in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Inoperative seat belts",
+        "seat belts that do not retract",
+        "seat belts that come undone while driving",
+        "seat belts that interfere with steering",
+        "difficulty steering due to seat belt malfunction."
+      ],
+      "odiNumbers": [
+        "10420240",
+        "10110860",
+        "10110899",
+        "755567",
+        "837058",
+        "836271",
+        "979170"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver's Seat Belt Malfunction",
+      "impact": "A malfunctioning driver's seat belt can deprive the driver of protection in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "Driver's seat belt does not function",
+        "seat belt comes undone while driving",
+        "seat belt interferes with steering."
+      ],
+      "odiNumbers": [
+        "10110860",
+        "837058",
+        "836271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Retraction Failure",
+      "impact": "Failure of the seat belt retraction system can cause the seat belt to malfunction, leading to a lack of protection in the event of an accident.",
+      "symptoms": [
+        "Seat belt does not retract",
+        "seat belt goes across the steering wheel",
+        "making steering difficult."
+      ],
+      "odiNumbers": [
+        "837058",
+        "836271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lack of Availability of Replacement Parts",
+      "impact": "The unavailability of replacement parts for the passive restraint system can prevent owners from repairing their vehicles, leaving them without functional seat belts.",
+      "symptoms": [
+        "Manufacturer informs owner that there is no vendor for the part",
+        "parts are not available."
+      ],
+      "odiNumbers": [
+        "10420240",
+        "10110899",
+        "755567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, as well as property damage.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without pressing the accelerator pedal",
+        "often when shifting from \"Park\" to \"Drive\"",
+        "and may not respond to braking."
+      ],
+      "odiNumbers": [
+        "721399",
+        "832585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

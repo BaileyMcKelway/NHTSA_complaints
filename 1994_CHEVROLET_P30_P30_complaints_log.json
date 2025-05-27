@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "PARKING BRAKE",
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Parking Brake System Failure",
+      "impact": "The failure of the automatic parking brake system can cause the rear wheels to lock up suddenly, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The parking brake engages unexpectedly",
+        "the rear wheels lock up",
+        "the vehicle comes to a sudden stop",
+        "the manual foot-operated brake pedal goes to the floor and does not function",
+        "the system pressure switch fails",
+        "the actuation switch fails."
+      ],
+      "odiNumbers": [
+        "10225807",
+        "10086793",
+        "10081296",
+        "10045288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Cruise Control System",
+      "impact": "A malfunctioning cruise control system can cause the auto park brake to activate unexpectedly, leading to brake overheating and potentially resulting in a fire, which can put the driver and passengers at risk of injury or death.",
+      "symptoms": [
+        "The auto park brake engages unexpectedly",
+        "the brake assembly overheats",
+        "smoke is detected",
+        "flames are visible."
+      ],
+      "odiNumbers": [
+        "874910"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Accelerator Cable Failure",
+      "impact": "A broken accelerator cable can cause sudden acceleration, which can lead to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "loss of throttle control",
+        "unexpected increase in speed."
+      ],
+      "odiNumbers": [
+        "511320"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "The intermittent failure of the brakes can cause extended stopping distances, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "loss of stopping power",
+        "brakes seem to heat up",
+        "and then all stopping power is lost."
+      ],
+      "odiNumbers": [
+        "838848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Engagement of Park Gear",
+      "impact": "The unintended engagement of park gear while driving can cause the vehicle to suddenly stop, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "The vehicle stops suddenly",
+        "the transmission engages park gear without input from the driver",
+        "the vehicle is unable to move",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "830769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "EXTERIOR LIGHTING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause reduced braking power, leading to increased stopping distances, and in some cases, complete brake failure, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Noise when applying brakes",
+        "hard brake pedal",
+        "reduced braking power",
+        "slow stopping process",
+        "complete brake failure",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "8005341",
+        "879294",
+        "548919",
+        "969996",
+        "474380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Airbag Failure",
+      "impact": "The failure of the driver's side airbag to deploy in the event of an accident can increase the risk of injury or fatality to the driver.",
+      "symptoms": [
+        "The airbag warning light comes on",
+        "the airbag fails to deploy in an accident",
+        "the airbag is inoperative."
+      ],
+      "odiNumbers": [
+        "825988",
+        "810427",
+        "487311"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the loss of essential vehicle functions, such as headlights, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "Headlights or other lights fail while driving",
+        "loss of all lighting",
+        "smoke or burning smell from the steering column",
+        "cruise control malfunctions."
+      ],
+      "odiNumbers": [
+        "816919",
+        "604604",
+        "806925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Turn Signal Indicator Failure",
+      "impact": "The failure of the turn signal indicator can cause an electrical short, leading to smoke or fire in the steering column, which can distract the driver and increase the risk of accidents.",
+      "symptoms": [
+        "Smoke or burning smell from the steering column",
+        "turn signal indicator malfunctions."
+      ],
+      "odiNumbers": [
+        "806925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Speedometer Failure",
+      "impact": "The intermittent failure of the speedometer display can cause the driver to be unaware of the vehicle's speed, which can lead to accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer display comes and goes",
+        "the speedometer display is not visible",
+        "the driver is unable to determine the vehicle's speed."
+      ],
+      "odiNumbers": [
+        "814128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Slipping Out of Gear",
+      "impact": "The transmission slipping out of gear can cause the vehicle to lose power, stall, or hesitate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission slips out of gear",
+        "the vehicle hesitates or stalls",
+        "the vehicle loses power",
+        "the transmission makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "803373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Dashboard Malfunction",
+      "impact": "The intermittent failure of the dashboard can cause distractions while driving, making it difficult for the driver to access important information, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The dashboard becomes inoperative intermittently",
+        "with no prior warning",
+        "making it difficult to access essential information such as speed",
+        "fuel level",
+        "and warning lights."
+      ],
+      "odiNumbers": [
+        "801485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Horn Button Failure",
+      "impact": "The failure of the horn buttons can lead to a loss of critical safety functionality, making it difficult for the driver to alert other road users in emergency situations.",
+      "symptoms": [
+        "The horn buttons fall off",
+        "making it impossible to use the horn",
+        "and the horn mechanism requires redesign or repair."
+      ],
+      "odiNumbers": [
+        "974243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dashboard Material Defect",
+      "impact": "The defective dashboard material can cause the dashboard to become sticky and gummy, crack, and chip, which can be a distraction to the driver and potentially lead to accidents.",
+      "symptoms": [
+        "The dashboard becomes sticky and gummy",
+        "the dashboard cracks and chips without cause or reason",
+        "the dashboard defects appear within a short period of owning the vehicle."
+      ],
+      "odiNumbers": [
+        "11270122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Acceleration and Stalling Issues",
+      "impact": "The engine acceleration and stalling problems can cause the vehicle to lose power and stall, which can lead to accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle has acceleration problems",
+        "the vehicle stalls periodically",
+        "the vehicle has been in the shop multiple times for repair."
+      ],
+      "odiNumbers": [
+        "10935048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unspecified Issue (ODI Number 11467162)",
+      "impact": "The issue is unclear due to the lack of information, but it may affect the vehicle's operation and safety.",
+      "symptoms": [
+        "None specified."
+      ],
+      "odiNumbers": [
+        "11467162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Airbag Deployment",
+      "impact": "The sudden and unexpected deployment of airbags can cause accidents, injuries, or fatalities due to the loss of control and visibility while driving.",
+      "symptoms": [
+        "Airbags deploy without an actual collision",
+        "loud explosion",
+        "strong gunpowder odor",
+        "torn airbag",
+        "whitened front windshield",
+        "inability to see the road",
+        "seatbelts locking",
+        "and a sense of shock and disorientation."
+      ],
+      "odiNumbers": [
+        "11120141",
+        "11101285",
+        "11041876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Powertrain Control Module (PCM) Failure",
+      "impact": "The failure of the Powertrain Control Module (PCM) can cause the vehicle to fail to shift gears properly, leading to loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to shift gears properly",
+        "the transmission slips or hesitates",
+        "the vehicle experiences unusual or erratic shifting patterns",
+        "the vehicle's engine RPMs fluctuate erratically",
+        "the vehicle's speedometer or odometer malfunctions."
+      ],
+      "odiNumbers": [
+        "11424834"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

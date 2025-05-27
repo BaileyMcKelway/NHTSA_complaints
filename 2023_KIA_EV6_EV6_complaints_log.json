@@ -1,0 +1,190 @@
+{
+  "totalComplaints": 34,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ICCU Failure",
+      "impact": "The failure of the Integrated Charging Control Unit (ICCU) can cause the vehicle to shut down, leaving the driver stranded, and may also lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "the ICCU blows out",
+        "the vehicle is unable to start",
+        "the electrical components do not work",
+        "the vehicle requires towing to the dealership."
+      ],
+      "odiNumbers": [
+        "11586334",
+        "11582116",
+        "11580731"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "12V Battery Failure",
+      "impact": "The failure of the 12V battery can cause the vehicle to shut down, leaving the driver stranded, and may also lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "the 12V battery is discharged",
+        "the vehicle is unable to start",
+        "the electrical components do not work",
+        "the vehicle requires towing to the dealership."
+      ],
+      "odiNumbers": [
+        "11581318",
+        "11577008",
+        "11564167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Charging System Failure",
+      "impact": "The failure of the charging system can cause the vehicle to shut down, leaving the driver stranded, and may also lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle is unable to charge",
+        "the charging system warning light is on",
+        "the vehicle shuts down",
+        "the electrical components do not work",
+        "the vehicle requires towing to the dealership."
+      ],
+      "odiNumbers": [
+        "11561430",
+        "11535958",
+        "11529293",
+        "11527152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, leaving the driver stranded, and may also lead to accidents or injuries.",
+      "symptoms": [
+        "The vehicle shuts down",
+        "the electrical system warning light is on",
+        "the vehicle is unable to start",
+        "the electrical components do not work",
+        "the vehicle requires towing to the dealership."
+      ],
+      "odiNumbers": [
+        "11578775",
+        "11577208",
+        "11536796",
+        "11533606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Safety Concerns",
+      "impact": "The failure of various systems can cause safety concerns, such as the lack of brake lights when using 1-pedal driving, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The lack of brake lights when using 1-pedal driving",
+        "the vehicle is unable to charge",
+        "the vehicle shuts down",
+        "the electrical components do not work."
+      ],
+      "odiNumbers": [
+        "11531901"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "12V Battery Charging System Failure",
+      "impact": "The failure of the 12V battery charging system can cause the vehicle to strand the driver, especially in cold temperatures, and potentially lead to accidents or hazardous situations.",
+      "symptoms": [
+        "The 12V battery voltage is lower than expected (e.g.",
+        "12.8V)",
+        "the vehicle is unable to start",
+        "the vehicle displays warning messages",
+        "the vehicle loses power while driving."
+      ],
+      "odiNumbers": [
+        "11581040",
+        "11584277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Limited Warning and Loss of Motive Power",
+      "impact": "The power limited warning and subsequent loss of motive power can cause the vehicle to decelerate suddenly, potentially leading to accidents or hazardous situations, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle displays a \"Power Limited\" warning",
+        "the vehicle decelerates suddenly",
+        "the vehicle loses power while driving",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "11573068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Charging System Malfunction",
+      "impact": "The malfunction of the charging system can cause the vehicle to strand the driver, especially in cold temperatures, and potentially lead to accidents or hazardous situations.",
+      "symptoms": [
+        "Error messages occur during charging",
+        "the vehicle is unable to charge properly",
+        "the vehicle displays warning messages",
+        "the vehicle loses power while driving."
+      ],
+      "odiNumbers": [
+        "11565627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Motor Inverter Failure",
+      "impact": "The failure of the motor inverter can cause the vehicle to lose power suddenly, potentially leading to accidents or hazardous situations, especially on high-speed roads.",
+      "symptoms": [
+        "The vehicle loses power while driving",
+        "a warning message appears (e.g.",
+        "\"Check electric vehicle system\")",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "11533689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Regenerative Braking System Failure",
+      "impact": "The malfunction of the regenerative braking system can cause unexpected and sudden stops, leading to accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The vehicle attempts to stop abruptly without engaging the brakes",
+        "grinding noise and vibration when braking",
+        "inconsistent or failed engagement of the i-Pedal feature",
+        "brake lights do not engage when decelerating in i-Pedal mode."
+      ],
+      "odiNumbers": [
+        "11592500",
+        "11589474",
+        "11523943"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

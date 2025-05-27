@@ -1,0 +1,225 @@
+{
+  "totalComplaints": 71,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injuries or fatalities in the event of a crash, as the airbags may not deploy or deploy improperly.",
+      "symptoms": [
+        "The airbag warning light remains on",
+        "the airbag sensor light is illuminated",
+        "the airbags do not deploy in a crash",
+        "the airbags deploy improperly",
+        "the passenger's side airbag does not deploy",
+        "the driver's side airbag does not deploy."
+      ],
+      "odiNumbers": [
+        "10683704",
+        "10011852",
+        "862821",
+        "857642",
+        "708645",
+        "533195",
+        "600667",
+        "972629",
+        "971256",
+        "485114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Sensor Malfunction",
+      "impact": "A malfunctioning airbag sensor can cause the airbag system to malfunction, leading to improper or failed deployment of airbags in a crash, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light remains on",
+        "the airbag sensor light is illuminated",
+        "the airbag system malfunctions",
+        "the airbags do not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "862821",
+        "708645",
+        "600667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Component Failure",
+      "impact": "Failure of airbag components, such as sensors or connectors, can cause the airbag system to malfunction, leading to improper or failed deployment of airbags in a crash, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light remains on",
+        "the airbag sensor light is illuminated",
+        "the airbag system malfunctions",
+        "the airbags do not deploy in a crash."
+      ],
+      "odiNumbers": [
+        "708645",
+        "857642",
+        "533195"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed or Failed Recall Repair",
+      "impact": "Delayed or failed recall repair can leave vehicles with defective airbag systems on the road, putting drivers and passengers at risk of injury or death in the event of a crash.",
+      "symptoms": [
+        "The dealership is unable to perform the recall repair due to parts unavailability",
+        "the dealership provides unclear or inconsistent information about the recall repair status",
+        "the recall repair takes an excessive amount of time to complete."
+      ],
+      "odiNumbers": [
+        "10683704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Control Issues",
+      "impact": "Unintended acceleration, stalling, and loss of control can lead to accidents and injuries.",
+      "symptoms": [
+        "Vehicle jumps forward while foot is on the brake pedal",
+        "stalling in traffic",
+        "RPM fluctuations",
+        "and airbag light illumination."
+      ],
+      "odiNumbers": [
+        "10266446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Design Issues",
+      "impact": "Poor pedal design can cause unintended acceleration, leading to accidents and injuries.",
+      "symptoms": [
+        "Gas and brake pedals are too close together",
+        "causing accidental simultaneous pressing",
+        "and brake pedal height is not adjustable."
+      ],
+      "odiNumbers": [
+        "10042613",
+        "534687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Braking System Failure",
+      "impact": "Failure of the ABS braking system can lead to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "ABS indicator light illumination",
+        "failure of the ABS system to function",
+        "and brake relays malfunctioning."
+      ],
+      "odiNumbers": [
+        "10010576",
+        "894049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Rotor Wear",
+      "impact": "Premature rotor wear can lead to reduced braking performance, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Rotors worn down prematurely",
+        "brake pads not worn out",
+        "and rotor measurements below specifications."
+      ],
+      "odiNumbers": [
+        "822838",
+        "814585",
+        "813405"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Leaks",
+      "impact": "Brake system leaks can lead to reduced braking performance, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "Leaks in the brake system."
+      ],
+      "odiNumbers": [
+        "600332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, cracked cylinders, and potentially catastrophic engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle overheats",
+        "the check engine light comes on",
+        "the RPM fluctuates",
+        "the vehicle loses power",
+        "an egg smell is present",
+        "and the vehicle is unable to maintain a stable idle."
+      ],
+      "odiNumbers": [
+        "10275120",
+        "10181667",
+        "10029542",
+        "769200",
+        "887912",
+        "830545",
+        "829040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure due to Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, cracked cylinders, and potentially catastrophic engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine blows out",
+        "the engine has cracks from overheating",
+        "and the vehicle is unable to be driven."
+      ],
+      "odiNumbers": [
+        "887912",
+        "830545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure of Cooling System Components",
+      "impact": "The failure of individual cooling system components, such as the radiator, thermostat, water pump, and auxiliary cooling fan, can cause the engine to overheat, leading to engine damage and potentially catastrophic engine failure.",
+      "symptoms": [
+        "The radiator malfunctions",
+        "the thermostat fails",
+        "the water pump fails",
+        "and the auxiliary cooling fan fails."
+      ],
+      "odiNumbers": [
+        "769200",
+        "10029542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

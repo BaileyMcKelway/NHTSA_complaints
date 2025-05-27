@@ -1,0 +1,270 @@
+{
+  "totalComplaints": 67,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 15,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to jerk, hesitate, or lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission shifts hard",
+        "slips",
+        "or hesitates",
+        "the vehicle jerks or lunges forward",
+        "the vehicle loses power",
+        "the transmission fails to engage",
+        "the vehicle stalls",
+        "the \"Powertrain Malfunction/Reduced Power\" message is displayed."
+      ],
+      "odiNumbers": [
+        "11592578",
+        "11589693",
+        "11586429",
+        "11584303",
+        "11565800",
+        "11564316",
+        "11563392",
+        "11562626",
+        "11558264",
+        "11556721",
+        "11539932",
+        "11537515",
+        "11507611",
+        "11492939",
+        "11487925",
+        "11395011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Jerking and Lunging",
+      "impact": "The transmission jerking and lunging can cause the vehicle to lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "The transmission jerks or lunges forward",
+        "the vehicle hesitates or loses power",
+        "the vehicle stalls",
+        "the \"Powertrain Malfunction/Reduced Power\" message is displayed."
+      ],
+      "odiNumbers": [
+        "11562626",
+        "11558264",
+        "11556721",
+        "11487925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The transmission shifting issues can cause the vehicle to lose power, hesitate, or jerk, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission shifts hard",
+        "slips",
+        "or hesitates",
+        "the vehicle jerks or lunges forward",
+        "the vehicle loses power",
+        "the transmission fails to engage",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11584303",
+        "11564316",
+        "11563392",
+        "11537515",
+        "11507611",
+        "11492939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure Due to Software Update",
+      "impact": "The transmission failure due to software update can cause the vehicle to lose power, hesitate, or jerk, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission jerks or lunges forward",
+        "the vehicle hesitates or loses power",
+        "the vehicle stalls",
+        "the \"Powertrain Malfunction/Reduced Power\" message is displayed."
+      ],
+      "odiNumbers": [
+        "11556721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure Due to Valve Body Controller and CVF Drum Failure",
+      "impact": "The transmission failure due to valve body controller and CVF drum failure can cause the vehicle to lose power, hesitate, or jerk, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission fails to engage",
+        "the vehicle hesitates or loses power",
+        "the vehicle stalls",
+        "the \"Powertrain Malfunction/Reduced Power\" message is displayed."
+      ],
+      "odiNumbers": [
+        "11537515"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Issues (Soft, Spongy, or Long Travel)",
+      "impact": "The brake pedal issues can cause a delay in stopping the vehicle, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft",
+        "spongy",
+        "or has long travel",
+        "the pedal goes lower than the gas pedal",
+        "the vehicle takes longer to stop than expected."
+      ],
+      "odiNumbers": [
+        "11564662",
+        "11431344",
+        "11424628",
+        "11384831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Acceleration While Braking",
+      "impact": "The unintended acceleration while braking can cause loss of control, accidents, or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates forward unintentionally while depressing the brake pedal",
+        "without warning."
+      ],
+      "odiNumbers": [
+        "11390045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Failure of Pre-Collision Assist with Automatic Emergency Braking (AEB)",
+      "impact": "The failure of the pre-collision assist with AEB can cause accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle does not provide a warning or apply the brakes automatically in emergency situations",
+        "resulting in rear-end collisions."
+      ],
+      "odiNumbers": [
+        "11375688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Adaptive Cruise Control Issues",
+      "impact": "The adaptive cruise control issues can cause accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The adaptive cruise control does not maintain a proper distance between vehicles",
+        "releasing the brakes too late",
+        "requiring the driver to jam on the brakes to avoid a collision."
+      ],
+      "odiNumbers": [
+        "11363226"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Accessory Protocol Interface Module (APIM) Failure",
+      "impact": "The failure of the APIM can cause the vehicle's computer system to malfunction, leading to issues with the vehicle's electrical systems, which can affect the vehicle's safety and performance.",
+      "symptoms": [
+        "A message indicating that the computer system needs to be updated",
+        "failure to update the computer system",
+        "and potential electrical system failures."
+      ],
+      "odiNumbers": [
+        "11584992"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Audio Control Module (ACM) Failure",
+      "impact": "The failure of the ACM can cause electrical system failures, including the failure of interior lighting and the center display, leading to a loss of electrical power and potential safety risks.",
+      "symptoms": [
+        "Interior lighting fails to turn off",
+        "center display fails to display correct information",
+        "loss of electrical power",
+        "and battery drain."
+      ],
+      "odiNumbers": [
+        "11572162"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wiring Harness Failure",
+      "impact": "The failure of the wiring harness can cause electrical system failures, including the failure of headlights, which can affect the vehicle's safety and performance.",
+      "symptoms": [
+        "Intermittent failure of the driver's side headlight."
+      ],
+      "odiNumbers": [
+        "11565849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spark Plug Well Corrosion",
+      "impact": "The failure to properly seal the engine cover can cause water to intrude into the spark plug wells, leading to corrosion and potential engine damage.",
+      "symptoms": [
+        "Corrosion of spark plug wells and related equipment."
+      ],
+      "odiNumbers": [
+        "11527452"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Trailer Hookup Alert Issue",
+      "impact": "The false alert of a trailer being hooked up can cause distraction and confusion for the driver, potentially leading to accidents.",
+      "symptoms": [
+        "False alert of a trailer being hooked up on the display screen."
+      ],
+      "odiNumbers": [
+        "11448702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Door Ajar Alert Issue",
+      "impact": "The false alert of a rear door being ajar can cause distraction and confusion for the driver, potentially leading to accidents.",
+      "symptoms": [
+        "Intermittent alert of the rear driver door being ajar",
+        "usually after a bump in the road",
+        "despite the door being closed."
+      ],
+      "odiNumbers": [
+        "11390453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

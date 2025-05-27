@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Axle Suspension Issues",
+      "impact": "Premature wear of the steer tires can lead to reduced traction, increased stopping distances, and a higher risk of tire blowouts, which can cause accidents and compromise vehicle safety.",
+      "symptoms": [
+        "Excessive wear on the front tires",
+        "uneven tire wear",
+        "vibrations while driving",
+        "loose or worn-out suspension components",
+        "clunking or rattling noises from the front axle."
+      ],
+      "odiNumbers": [
+        "565363",
+        "549606",
+        "549596",
+        "549592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel ECM Failure",
+      "impact": "The failure of the Fuel Engine Control Module (ECM) can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "the engine is difficult to start or will not start",
+        "the vehicle experiences a loss of power or hesitation",
+        "the \"check engine\" light is illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "552046",
+        "552046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause the vehicle to lose traction, making it difficult for the driver to maintain steering control, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly accelerates",
+        "RPMs increase",
+        "the vehicle surges forward",
+        "the driver has difficulty maintaining steering control",
+        "the vehicle is difficult to stop."
+      ],
+      "odiNumbers": [
+        "552046",
+        "552046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle's electrical system to malfunction, leading to dim or flickering headlights, difficulty starting the engine, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The battery warning light is illuminated on the dashboard",
+        "the headlights are dim or flickering",
+        "the engine is difficult to start",
+        "the vehicle's electrical accessories (such as the radio or wipers) are malfunctioning."
+      ],
+      "odiNumbers": [
+        "552046",
+        "552046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

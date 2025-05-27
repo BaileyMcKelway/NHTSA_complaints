@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Wiring Harness",
+      "impact": "A faulty wiring harness can cause the vehicle to malfunction, resulting in a loss of acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle does not accelerate when pressing the accelerator pedal",
+        "the vehicle goes into open throttle position unexpectedly",
+        "the vehicle's RPMs increase suddenly."
+      ],
+      "odiNumbers": [
+        "10072228",
+        "10072229",
+        "801019"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure Leading to Engine Compartment Fires",
+      "impact": "The electrical system failure can cause a sudden and unexpected engine compartment fire, which can lead to serious injury or death, as well as significant damage to the vehicle.",
+      "symptoms": [
+        "No warning lights or indications of a problem",
+        "sudden engine compartment fire",
+        "thick smoke",
+        "and burnt wiring",
+        "plastic containers",
+        "hoses",
+        "and insulation."
+      ],
+      "odiNumbers": [
+        "729626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Short Circuit Causing Battery Drain",
+      "impact": "The electrical system short circuit can cause the battery to drain, leading to difficulty or inability to start the vehicle, which can leave the driver stranded and potentially cause accidents.",
+      "symptoms": [
+        "Vehicle won't start unless boosted",
+        "battery drain",
+        "and electrical system malfunction."
+      ],
+      "odiNumbers": [
+        "840775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Wire Insulation Disintegration",
+      "impact": "The disintegration of the wire plastic insulation around the engine can cause electrical shorts, leading to engine stalling, reduced engine performance, and potentially, engine fires.",
+      "symptoms": [
+        "Wire insulation around the engine is crumbling or disintegrating",
+        "wires are exposed",
+        "engine stalling or hesitation",
+        "reduced engine performance",
+        "unusual engine noises",
+        "burning smell or smoke."
+      ],
+      "odiNumbers": [
+        "10033536"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Brake Light Switch",
+      "impact": "A faulty brake light switch can cause the brake lights to malfunction, leading to reduced visibility and increased risk of accidents, especially when driving at night or in low-light conditions.",
+      "symptoms": [
+        "Brake lights do not turn on",
+        "brake lights remain on even when the brake pedal is not pressed",
+        "intermittent brake light function",
+        "brake lights flicker or dim."
+      ],
+      "odiNumbers": [
+        "738723"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

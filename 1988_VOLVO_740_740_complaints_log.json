@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Cable Failure and Electrical Short",
+      "impact": "The failure of the battery cables can cause an electrical short, leading to engine fires, vehicle stalling, and accidents, which can result in injuries, property damage, and even total loss of the vehicle.",
+      "symptoms": [
+        "Smoke or flames coming from the hood area",
+        "erratic lighting operation",
+        "engine stalling without warning",
+        "vehicle unable to start."
+      ],
+      "odiNumbers": [
+        "869529",
+        "529949",
+        "528650",
+        "801998",
+        "986952",
+        "986423"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Issues with Battery Cable Insulation",
+      "impact": "The recall on the insulation of the battery cables was not done due to dealer location problems, which can lead to a short circuit, causing engine fires and accidents.",
+      "symptoms": [
+        "None reported",
+        "as this issue is related to the recall process."
+      ],
+      "odiNumbers": [
+        "528650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Stalling Without Warning",
+      "impact": "The vehicle stalling without warning can cause accidents, especially at high speeds, which can result in injuries and property damage.",
+      "symptoms": [
+        "Vehicle stalling without warning",
+        "loss of power while driving."
+      ],
+      "odiNumbers": [
+        "801998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of the airbag can cause serious injuries, including facial trauma, eye damage, and chemical burns, and can lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "often when turning the ignition key or at low speeds",
+        "without any impact or collision. The deployment can cause physical harm",
+        "including bloody nose and eye",
+        "chemical burns",
+        "and swelling of the face."
+      ],
+      "odiNumbers": [
+        "10662195",
+        "10168035",
+        "745654",
+        "980798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Malfunction",
+      "impact": "The malfunction of the airbag system can cause the airbag to deploy unexpectedly, leading to injuries and accidents, or fail to deploy in the event of a crash, leaving occupants unprotected.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "the airbag fails to deploy in a crash",
+        "the supplemental restraining system light comes on",
+        "indicating a problem with the airbag system."
+      ],
+      "odiNumbers": [
+        "10168035",
+        "980798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries. It can also lead to engine damage and fires.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "the vehicle accelerates without pressing the accelerator pedal",
+        "the vehicle accelerates erratically",
+        "the vehicle smokes after sudden acceleration."
+      ],
+      "odiNumbers": [
+        "817114",
+        "811583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unattended Vehicle Fires",
+      "impact": "Unattended vehicle fires can cause significant damage to the vehicle, surrounding property, and potentially harm people in the vicinity. The root cause of these fires is unknown, but it may be related to an electrical or mechanical fault.",
+      "symptoms": [
+        "The vehicle catches fire while parked and unattended",
+        "with no apparent warning signs or symptoms."
+      ],
+      "odiNumbers": [
+        "977863",
+        "971455"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

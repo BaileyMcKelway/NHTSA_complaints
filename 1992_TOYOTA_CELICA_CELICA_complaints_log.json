@@ -1,0 +1,73 @@
+{
+  "totalComplaints": 27,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as the airbag is designed to provide critical protection to the driver and passengers.",
+      "symptoms": [
+        "Airbag does not deploy in a crash",
+        "airbag warning light comes on",
+        "sensor failure."
+      ],
+      "odiNumbers": [
+        "10054125",
+        "10037836",
+        "10024658",
+        "844281",
+        "809987",
+        "981027",
+        "972990",
+        "969356",
+        "969315",
+        "963863",
+        "478483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can lead to inadequate restraint in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt does not retract fully",
+        "the seat belt does not retract at all",
+        "the seat belt retractor is inoperative",
+        "the seat belt does not function properly."
+      ],
+      "odiNumbers": [
+        "10054764",
+        "529608",
+        "602269"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Blowout and Poor Traction",
+      "impact": "A tire blowout can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. Poor traction can also increase the stopping distance, making it difficult to avoid collisions or maintain control on slippery roads.",
+      "symptoms": [
+        "Sudden loss of air pressure",
+        "loud noise",
+        "vibration",
+        "or loss of control while driving",
+        "difficulty stopping or maintaining control on slippery roads."
+      ],
+      "odiNumbers": [
+        "10322001",
+        "505080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

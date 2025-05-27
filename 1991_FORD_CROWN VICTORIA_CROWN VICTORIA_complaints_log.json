@@ -1,0 +1,189 @@
+{
+  "totalComplaints": 68,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to unexpected deployments, failure to deploy in the event of an accident, or false warnings, which can cause physical harm, emotional distress, and compromise vehicle safety.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "airbag warning lights blink intermittently",
+        "airbag sensors fail",
+        "airbag deploys unexpectedly",
+        "airbag fails to deploy in an accident",
+        "airbag warning light flashes on the dashboard."
+      ],
+      "odiNumbers": [
+        "834694",
+        "543463",
+        "535718",
+        "985641",
+        "985239",
+        "504207",
+        "503200",
+        "976545",
+        "960508",
+        "959316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause fires, stalling, and damage to vehicle components, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "the electrical harness blows a fuse",
+        "the ignition switch sticks",
+        "the vehicle stalls",
+        "the vehicle has electrical problems",
+        "the wires are installed wrong",
+        "the radio light is burned out",
+        "the trunk light or hood light is not working",
+        "the cigar lighter is unhooked."
+      ],
+      "odiNumbers": [
+        "761507",
+        "8003299",
+        "8001026",
+        "872380",
+        "804739",
+        "985396",
+        "984466",
+        "504207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall, not start, or catch on fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ignition switch sticks",
+        "the vehicle won't start",
+        "the vehicle has erratic starts",
+        "the ignition switch fails",
+        "smoke comes from the ignition",
+        "burnt wires of other components."
+      ],
+      "odiNumbers": [
+        "601982",
+        "985396",
+        "984466",
+        "504207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuse Failure",
+      "impact": "The failure of the fuse system can cause electrical overloads, fires, and damage to vehicle components, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The fuse blows repeatedly",
+        "the electrical harness keeps blowing a fuse",
+        "no fuse trips to stop the short circuit."
+      ],
+      "odiNumbers": [
+        "761507",
+        "804739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause the vehicle to accelerate out of control, leading to accidents, injuries, and fatalities. This issue can also lead to loss of control, fishtailing, and damage to property.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often without the driver's input",
+        "reaching high speeds (up to 70 mph) and making it difficult or impossible to control the vehicle. The vehicle may also surge to high RPMs during idling."
+      ],
+      "odiNumbers": [
+        "10171453",
+        "848006",
+        "700705",
+        "511824",
+        "801083",
+        "985525",
+        "979912"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure Due to Plastic Bushing",
+      "impact": "The use of a plastic bushing in the clutch system can cause the clutch to fail, leading to difficulty shifting gears, stalling, and potentially causing accidents.",
+      "symptoms": [
+        "The engine revs at a high rate",
+        "the transmission gears do not engage properly",
+        "the vehicle stalls",
+        "and the clutch pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10046325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Stalling",
+      "impact": "Intermittent stalling can cause the vehicle to lose power and stall, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls intermittently",
+        "especially when making turns or at idle or near idle speeds",
+        "and the airbag light may blink on and off."
+      ],
+      "odiNumbers": [
+        "8002020",
+        "753024",
+        "887001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Malfunction",
+      "impact": "Engine malfunction can cause the vehicle to stall, lose power, or even catch fire, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The engine races or revs at a high rate",
+        "the vehicle stalls",
+        "and there may be a strong scent of oil burning."
+      ],
+      "odiNumbers": [
+        "10046325",
+        "501791",
+        "490821"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "EGR Valve Malfunction",
+      "impact": "EGR valve malfunction can cause the engine to run poorly, leading to decreased performance and potentially causing the vehicle to stall.",
+      "symptoms": [
+        "The EGR valve may need to be replaced due to malfunction."
+      ],
+      "odiNumbers": [
+        "504207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

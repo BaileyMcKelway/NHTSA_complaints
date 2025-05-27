@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Failure of the fuel system can cause the engine to falter, stall, or catch fire, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine faltering or stalling",
+        "especially during left turns or hard acceleration",
+        "vehicle shaking",
+        "fuel pump not pumping fuel",
+        "fuel tank cracking or leaking",
+        "fire starting in the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "884564",
+        "724907",
+        "535490",
+        "809611",
+        "802190"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Gear Shift Lever Failure",
+      "impact": "The failure of the gear shift lever can cause the driver to lose control of the vehicle, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The gear shift lever breaks off",
+        "the gear shift lever feels loose or wobbly",
+        "the gear shift lever is difficult to move",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "812885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Speedometer Head Failure",
+      "impact": "The failure of the speedometer head can cause the driver to be unaware of their speed, leading to accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer needle is stuck or faulty",
+        "the speedometer display is blank or faulty",
+        "the speedometer is inaccurate",
+        "the speedometer is not functioning at all."
+      ],
+      "odiNumbers": [
+        "971288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Cooling System Failure (Recall 95V105000)",
+      "impact": "The failure of the engine cooling system can cause engine overheating, leading to engine damage, breakdowns, and potentially even engine failure, which can result in costly repairs and pose a safety risk to the driver and passengers.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "temperature gauge rising",
+        "engine stalling or shutting down."
+      ],
+      "odiNumbers": [
+        "804537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oil Leak Issues",
+      "impact": "Oil leaks can cause engine damage, leading to premature wear and tear, and potentially even engine failure, which can result in costly repairs and pose a safety risk to the driver and passengers.",
+      "symptoms": [
+        "Oil spots under the vehicle",
+        "oil drips from the engine",
+        "oil pressure warning light illuminates",
+        "engine noise or knocking sounds",
+        "engine stalling or shutting down."
+      ],
+      "odiNumbers": [
+        "973734"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause coolant leakage, which can lead to engine overheating, damage, and potentially cause a loss of vehicle control, increasing the risk of accidents.",
+      "symptoms": [
+        "Coolant leakage",
+        "engine overheating",
+        "reduced heating performance",
+        "sweet or burning smell inside the vehicle",
+        "visible signs of coolant leakage under the hood."
+      ],
+      "odiNumbers": [
+        "976443",
+        "481866"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

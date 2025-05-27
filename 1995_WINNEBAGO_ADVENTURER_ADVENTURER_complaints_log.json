@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "PARKING BRAKE",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Automatic Parking Brake System",
+      "impact": "The unintended activation of the automatic parking brake system can cause the vehicle to suddenly stop or lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The automatic parking brake system engages without warning",
+        "the vehicle suddenly stops or loses control",
+        "the brake lights do not illuminate when the parking brake engages",
+        "the system fails to disengage",
+        "and the vehicle is unable to move."
+      ],
+      "odiNumbers": [
+        "10323838",
+        "10045554",
+        "10045544",
+        "10023482",
+        "8021055",
+        "886944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Auto Brake System Failure",
+      "impact": "The failure of the electric auto brake system can cause the vehicle to roll or move unexpectedly when in park, leading to accidents or injuries.",
+      "symptoms": [
+        "The auto park brake will not unlock at times",
+        "the auto park brake locks up while driving",
+        "the vehicle rolls or moves when in park."
+      ],
+      "odiNumbers": [
+        "11150762",
+        "10023384",
+        "508160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Actuator Bar Failure",
+      "impact": "The failure of the actuator bar can cause the vehicle to roll or move unexpectedly when in park, leading to accidents or injuries.",
+      "symptoms": [
+        "The actuator bar is loose",
+        "the vehicle rolls or moves when in park."
+      ],
+      "odiNumbers": [
+        "508160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause multiple critical systems to malfunction, including the gauges, instrument panel lights, power steering, and brakes, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Gauges fail to function",
+        "instrument panel lights fail to illuminate",
+        "power steering fails",
+        "brakes fail to respond",
+        "brake pedal travels to the floorboard."
+      ],
+      "odiNumbers": [
+        "10730196"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Suspension Failure",
+      "impact": "The failure of the suspension can cause the vehicle to shake and lose steering power, making it difficult to control, which can lead to accidents or loss of vehicle stability.",
+      "symptoms": [
+        "Vehicle shakes",
+        "loss of steering power."
+      ],
+      "odiNumbers": [
+        "801178"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed or Unavailable Cruise Control Recall Repairs",
+      "impact": "The delayed or unavailable repairs for the cruise control recall can lead to safety risks, as drivers may be unable to maintain a constant speed, potentially causing accidents or near-misses.",
+      "symptoms": [
+        "Cruise control is inoperable",
+        "inability to maintain constant speed",
+        "delayed or unavailable repair parts",
+        "lack of communication from Ford Motor Company or dealerships."
+      ],
+      "odiNumbers": [
+        "10229125",
+        "10225417",
+        "10222831",
+        "10215136",
+        "10208076",
+        "10207393"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Solenoid Failure",
+      "impact": "The failure of the transmission solenoid can cause the transmission to malfunction, leading to difficulty shifting gears, slipping, or hesitation, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission hesitates or slips when shifting gears",
+        "the transmission makes unusual noises",
+        "the transmission warning light comes on",
+        "the vehicle is unable to shift into gear",
+        "the vehicle experiences sudden loss of power."
+      ],
+      "odiNumbers": [
+        "10205852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tread Separation on Rear Tires",
+      "impact": "Tread separation on the rear tires can cause loss of vehicle control, especially at high speeds, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Thumping or unusual noise from the rear tires",
+        "sudden loss of air pressure",
+        "vibration while driving",
+        "and/or visible signs of tire damage."
+      ],
+      "odiNumbers": [
+        "10034217"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

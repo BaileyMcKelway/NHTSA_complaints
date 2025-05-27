@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Failure",
+      "impact": "The transmission slipping and failure can cause the vehicle to lose power, stall, or suddenly shift into a different gear, which can lead to accidents, especially when driving on hills or highways.",
+      "symptoms": [
+        "The transmission slips or hesitates between gears",
+        "the vehicle jerks or shakes when shifting",
+        "the transmission downshifts unexpectedly",
+        "the vehicle slows down or loses power",
+        "a clunking noise comes from underneath the vehicle",
+        "the vehicle will not move."
+      ],
+      "odiNumbers": [
+        "10209629",
+        "10177605",
+        "10100760",
+        "10001186",
+        "767006",
+        "765885",
+        "8013108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Lack of Recall Notification",
+      "impact": "The failure to notify vehicle owners of recalls can lead to delayed repairs, resulting in continued safety risks and potential accidents.",
+      "symptoms": [
+        "Vehicle owners are not informed of recalls",
+        "despite being registered owners",
+        "and are subsequently denied repair coverage due to expired recall periods."
+      ],
+      "odiNumbers": [
+        "10209629",
+        "10177605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "The airbag does not deploy in a crash",
+        "despite the severity of the impact meeting the deployment threshold."
+      ],
+      "odiNumbers": [
+        "10029918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Malfunction",
+      "impact": "The malfunctioning airbag warning light can lead to a false sense of security, causing the driver to ignore a potential safety issue, or conversely, cause unnecessary concern and distraction.",
+      "symptoms": [
+        "The airbag warning light flashes or remains illuminated on the dashboard",
+        "indicating a potential problem with the airbag system."
+      ],
+      "odiNumbers": [
+        "8022486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Sticking",
+      "impact": "The accelerator pedal sticking can cause the vehicle to suddenly and unexpectedly accelerate, leading to a loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck",
+        "the vehicle accelerates suddenly and unexpectedly",
+        "the engine RPM increases rapidly",
+        "the vehicle is difficult to stop",
+        "the brakes must be applied with excessive force to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10567529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electronic Throttle Control Failure",
+      "impact": "The failure of the electronic throttle control can cause the accelerator pedal to stick, leading to a loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck",
+        "the vehicle accelerates suddenly and unexpectedly",
+        "the engine RPM increases rapidly",
+        "the vehicle is difficult to stop",
+        "the brakes must be applied with excessive force to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "10567529"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

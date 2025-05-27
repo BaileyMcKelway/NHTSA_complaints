@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "SEATS",
+    "LATCHES/LOCKS/LINKAGES",
+    "SEAT BELTS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to open while driving, obstructing the driver's view and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The hood latch unlocks unexpectedly",
+        "the hood opens while driving",
+        "the hood shakes or vibrates while closed",
+        "difficulty closing the hood."
+      ],
+      "odiNumbers": [
+        "10059565",
+        "968577"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belts can increase the risk of injury or death in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "The seat belts come out of the buckle",
+        "difficulty latching or unlatching the seat belts",
+        "inability to open doors from the inside."
+      ],
+      "odiNumbers": [
+        "977365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatback Failure in Rear-End Collisions",
+      "impact": "The failure of the seatback can cause the driver to be ejected from the vehicle, leading to serious injuries or fatalities, even in low-speed collisions.",
+      "symptoms": [
+        "The seatback breaks or collapses upon impact",
+        "throwing the driver out of the vehicle",
+        "the driver is thrown against parts of the car",
+        "the driver is ejected from the vehicle",
+        "the rear hatch or door opens unexpectedly."
+      ],
+      "odiNumbers": [
+        "846032"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Handle Latches",
+      "impact": "The failure of the door handle latches can cause the doors to malfunction, leading to difficulties in entering or exiting the vehicle, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "The door handle breaks or becomes loose",
+        "the door will not open or close properly",
+        "the door latch fails to engage or disengage",
+        "the door opens or closes unexpectedly."
+      ],
+      "odiNumbers": [
+        "803665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt and Door Latch Failure",
+      "impact": "The failure of the seat belts and door latches can increase the risk of injury or ejection in the event of an accident, and can also trap occupants inside the vehicle, making it difficult or impossible to escape.",
+      "symptoms": [
+        "The seat belts come out of the buckle",
+        "the seat belts are difficult to latch or unlatch",
+        "the passenger and driver side doors cannot be opened from the inside",
+        "the doors are stuck or jammed",
+        "the door handles are broken or malfunctioning."
+      ],
+      "odiNumbers": [
+        "977365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Turn Signal Failure",
+      "impact": "A broken or fallen-off turn signal can obstruct the driver's view, cause confusion for other road users, and increase the risk of accidents, especially when changing lanes or turning.",
+      "symptoms": [
+        "The turn signal is broken",
+        "the turn signal has fallen off",
+        "the turn signal is loose",
+        "the turn signal is not functioning properly",
+        "the turn signal is obstructing the driver's view."
+      ],
+      "odiNumbers": [
+        "973839"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

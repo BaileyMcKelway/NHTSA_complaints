@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 47,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High-Pressure Fuel Pump Failure",
+      "impact": "The failure of the high-pressure fuel pump can cause the engine to shut down without warning, leading to a loss of control and potentially causing accidents or leaving the driver stranded in dangerous situations.",
+      "symptoms": [
+        "The engine shuts down while driving",
+        "the car will not start or only sputters when attempting to restart",
+        "the dashboard displays a \"drive train failure\" or similar warning message."
+      ],
+      "odiNumbers": [
+        "11589997",
+        "11555769",
+        "11456077",
+        "11445231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Control Module Failure",
+      "impact": "The failure of the fuel pump control module can cause the engine to shut down without warning, leading to a loss of control and potentially causing accidents or leaving the driver stranded in dangerous situations.",
+      "symptoms": [
+        "The engine shuts down while driving",
+        "the car will not start or only sputters when attempting to restart",
+        "the car will not shift out of park into neutral",
+        "the dashboard displays a warning message."
+      ],
+      "odiNumbers": [
+        "11538503",
+        "11534653"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "The failure of the brakes can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "brake pedal goes to the floor",
+        "vehicle continues to move despite applying the brakes",
+        "clicking noise similar to a dead battery",
+        "screeching noise from the brakes",
+        "vehicle lurches forward",
+        "RPM gauge increases to high levels (e.g.",
+        "4000 RPM) when braking."
+      ],
+      "odiNumbers": [
+        "11552414",
+        "11244109",
+        "11228535",
+        "11084365",
+        "10934409"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure on Inclines",
+      "impact": "The failure of the brakes on inclines can cause loss of control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Brakes fail to hold on hills",
+        "vehicle rolls or moves despite applying the brakes",
+        "especially on rainy days."
+      ],
+      "odiNumbers": [
+        "11244109",
+        "11228535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rock Entrapment Causing Brake Failure",
+      "impact": "The entrapment of rocks or debris between the brake pad and rotor can cause sudden brake failure, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Screeching noise from the brakes",
+        "large grooves worn into the brake rotor",
+        "sudden loss of braking power."
+      ],
+      "odiNumbers": [
+        "10934409"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Heat Exchanger Failure",
+      "impact": "The faulty transmission heat exchanger can cause the engine to overheat, leading to potential engine seizure and costly repairs.",
+      "symptoms": [
+        "Engine overheating",
+        "transmission heat exchanger stays open",
+        "clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor."
+      ],
+      "odiNumbers": [
+        "11396517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Uncontrolled Acceleration and Revving",
+      "impact": "The uncontrolled acceleration and revving can cause the vehicle to lurch forward, making it difficult to stop, and potentially leading to accidents.",
+      "symptoms": [
+        "Engine revs up unexpectedly",
+        "vehicle lurches forward",
+        "difficulty stopping",
+        "tachometer revs to high."
+      ],
+      "odiNumbers": [
+        "11372449",
+        "11218857",
+        "11129293"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Failure and Fire",
+      "impact": "The engine failure can cause the vehicle to catch fire, resulting in significant damage and potential harm to occupants.",
+      "symptoms": [
+        "Vehicle catches fire",
+        "flames spitting out from the hood",
+        "airbags deploying",
+        "smoke and fire damage."
+      ],
+      "odiNumbers": [
+        "11144413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

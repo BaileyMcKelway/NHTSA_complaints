@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Brake Pedal Hardness and Loss of Braking Ability",
+      "impact": "The intermittent hardness of the brake pedal and loss of braking ability can increase the risk of accidents, as the vehicle may not respond to braking inputs, leading to potential collisions or loss of control.",
+      "symptoms": [
+        "The brake pedal is hard to press",
+        "there is no braking ability",
+        "the vehicle slides or veers when applying the brakes",
+        "the vehicle's ABS system fails."
+      ],
+      "odiNumbers": [
+        "809223",
+        "987234",
+        "962621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure and Unintended Vehicle Movement",
+      "impact": "The failure of the ABS system can cause the vehicle to veer or slide when applying the brakes, increasing the risk of accidents and loss of control.",
+      "symptoms": [
+        "The vehicle veers to one side when applying the brakes",
+        "the ABS system fails",
+        "the brake pedal is hard to press",
+        "there is no braking ability."
+      ],
+      "odiNumbers": [
+        "962621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Caliper Failure and Rotor Damage",
+      "impact": "The failure of the brake caliper can cause the brake pads to overheat and wear unevenly, leading to premature wear on the rotors and potential brake failure.",
+      "symptoms": [
+        "The brake caliper locks up",
+        "damaging the rotors",
+        "uneven brake pad wear",
+        "overheating of the brake pads."
+      ],
+      "odiNumbers": [
+        "482279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Seat Belt Buckle Malfunction",
+      "impact": "A malfunctioning driver's side seat belt buckle can increase the risk of injury or death in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The driver's side seat belt buckle won't lock",
+        "the seat belt buckle is faulty",
+        "the seat belt broke during an accident."
+      ],
+      "odiNumbers": [
+        "978485",
+        "976825",
+        "975122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Heater Switch Module Failure",
+      "impact": "The failure of the heater switch module can cause a fire hazard, potentially leading to damage to the vehicle's electrical system and surrounding components.",
+      "symptoms": [
+        "Smoke coming from the heater switch module",
+        "burning smell from the dashboard",
+        "malfunctioning heater controls",
+        "overheating of the heater switch module."
+      ],
+      "odiNumbers": [
+        "10079565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

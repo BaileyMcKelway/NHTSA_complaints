@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause electrical shorts, fires, and stalling, which can lead to accidents, injuries, and property damage.",
+      "symptoms": [
+        "The ignition switch sticks",
+        "the ignition switch shorts out",
+        "the vehicle catches on fire",
+        "smoke comes from the steering column",
+        "flames shoot out of the ignition switch",
+        "the horn starts blowing",
+        "the lights come on",
+        "and the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "884632",
+        "507010",
+        "504676",
+        "983987",
+        "983844",
+        "983648",
+        "983197",
+        "983142",
+        "980163",
+        "501402"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Latching Failure",
+      "impact": "The failure of the driver's side seat belt to latch properly can lead to the occupant being unrestrained while driving, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The driver's side seat belt does not latch",
+        "the seat belt buckle fails to release",
+        "the spring in the buckle is broken",
+        "the seat belt becomes unlatched while driving",
+        "the seat belt buckle comes loose while driving."
+      ],
+      "odiNumbers": [
+        "10018848",
+        "540029",
+        "821172",
+        "813154",
+        "971107",
+        "970072",
+        "967859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Front Seat Belt Retractor Failure",
+      "impact": "The failure of the front seat belt retractors to retract properly can lead to the occupant being unrestrained while driving, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The front seat belt retractors do not retract back properly",
+        "the retraction is slow."
+      ],
+      "odiNumbers": [
+        "967859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Catastrophic Shutdown",
+      "impact": "The sudden and unexpected stalling of the engine can cause loss of vehicle control, leading to accidents, and in some cases, engine fires, which can result in serious injury or death.",
+      "symptoms": [
+        "The engine stalls or shuts down while driving",
+        "the vehicle loses power",
+        "the engine fails intermittently",
+        "the vehicle jerks or stalls when trying to change speed."
+      ],
+      "odiNumbers": [
+        "770524",
+        "8011622",
+        "539035",
+        "826062",
+        "979982",
+        "975207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Fire",
+      "impact": "Engine fires can cause serious injury or death, and can result in significant property damage.",
+      "symptoms": [
+        "Flames or smoke coming from under the dash",
+        "engine compartment",
+        "or fuel lines",
+        "melted wiring harness",
+        "damage to the firewall."
+      ],
+      "odiNumbers": [
+        "8011622",
+        "979982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty EEC Unit",
+      "impact": "A faulty EEC unit can cause engine stalling, jerking, and loss of power, leading to accidents and engine fires.",
+      "symptoms": [
+        "Engine stalling",
+        "jerking",
+        "or loss of power",
+        "difficulty changing speed",
+        "dealer attempts to correct issues by replacing the EGR valve."
+      ],
+      "odiNumbers": [
+        "975207"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

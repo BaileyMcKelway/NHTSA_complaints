@@ -1,0 +1,45 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "TIRES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Suspension Sway and Fishtailing",
+      "impact": "The rear suspension sway and fishtailing can cause loss of vehicle control, especially when towing or carrying heavy loads, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The rear of the vehicle sways to the left or right while driving at high speeds (around 60 mph) or when hitting bumps",
+        "fishtailing occurs when carrying heavy loads or towing",
+        "the vehicle is unstable and difficult to control."
+      ],
+      "odiNumbers": [
+        "10139614",
+        "738623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation and Tire Failure",
+      "impact": "Tread separation and tire failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Loud noise while driving",
+        "sudden loss of tire pressure",
+        "visible signs of tread separation",
+        "damage to wheel wells or other vehicle components."
+      ],
+      "odiNumbers": [
+        "738970",
+        "732837"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

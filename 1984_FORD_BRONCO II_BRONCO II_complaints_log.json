@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause a fire, potentially resulting in damage to the vehicle, surrounding property, and risk of injury or death to occupants.",
+      "symptoms": [
+        "Smoke or flames emanating from the steering column",
+        "ignition switch",
+        "or engine compartment",
+        "electrical short",
+        "burning smell",
+        "and in some cases",
+        "a loud noise or earthquake-like shaking."
+      ],
+      "odiNumbers": [
+        "10088318",
+        "510718",
+        "601594",
+        "983658",
+        "980919",
+        "967587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Hesitation",
+      "impact": "The engine stalling and hesitation can cause loss of control, accidents, and potentially lead to engine fires, which can result in serious injury or death.",
+      "symptoms": [
+        "The engine stalls or hesitates when accelerating from a stop",
+        "making a turn",
+        "or reapplying the accelerator; the engine may stumble or hesitate before stalling; the engine may start right up again after stalling; the problem may be more frequent in damp or rainy weather."
+      ],
+      "odiNumbers": [
+        "751424",
+        "552515",
+        "508291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Distributor Component",
+      "impact": "A faulty distributor component can cause the engine to stall, leading to loss of control, accidents, and potentially engine fires.",
+      "symptoms": [
+        "The engine stalls or hesitates when accelerating from a stop",
+        "making a turn",
+        "or reapplying the accelerator; the engine may stumble or hesitate before stalling; the problem may be more frequent in damp or rainy weather."
+      ],
+      "odiNumbers": [
+        "751424",
+        "552515"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause serious injury or death, as well as significant damage to the vehicle.",
+      "symptoms": [
+        "Engine compartment fire; smoke or flames visible from the engine compartment."
+      ],
+      "odiNumbers": [
+        "552515",
+        "508291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Failure During Rollover Accident",
+      "impact": "The failure of the passenger seat can lead to increased risk of injury or fatality in the event of a rollover accident, as the occupant may be ejected from their seat or thrown around the vehicle.",
+      "symptoms": [
+        "The passenger seat breaks or detaches during a rollover accident",
+        "causing the occupant to be thrown from their seat or end up in a different location within the vehicle."
+      ],
+      "odiNumbers": [
+        "563704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Side Impact Crashworthiness",
+      "impact": "The vehicle's inability to withstand a side impact can lead to increased risk of injury or fatality to occupants, particularly in the event of a rollover accident.",
+      "symptoms": [
+        "The vehicle sustains significant damage or collapses during a side impact",
+        "leading to occupant ejection or severe injury."
+      ],
+      "odiNumbers": [
+        "563704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

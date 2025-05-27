@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Pump Failure",
+      "impact": "The failure of the ABS pump can cause the loss of anti-lock braking system (ABS) functionality, increasing the risk of accidents, especially on two-wheeled vehicles.",
+      "symptoms": [
+        "The brake light illuminates on the instrument panel",
+        "the brakes engage",
+        "and the rear wheel seizes",
+        "loss of ABS braking safety",
+        "the ABS system fails to function."
+      ],
+      "odiNumbers": [
+        "10744794",
+        "10621915",
+        "10606244",
+        "10577857",
+        "10534320",
+        "10533395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Failure",
+      "impact": "The failure of the final drive can cause the rear wheel to wobble, hesitate, or lose power, leading to loss of control, accidents, or strandings.",
+      "symptoms": [
+        "Clunking or grinding sounds from the rear when running over expansion joints or rough pavement",
+        "excessive play in the rear wheel",
+        "wobbling or hesitation of the rear wheel",
+        "especially when riding over road seams or rough pavement."
+      ],
+      "odiNumbers": [
+        "10776511",
+        "10701118",
+        "10605951",
+        "10531832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Flange Leak",
+      "impact": "The fuel pump flange leak can cause fuel to leak onto the engine, creating a fire hazard and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Fuel leaking from the fuel pump flange",
+        "fuel dripping onto the engine",
+        "fuel smell",
+        "potential engine fire."
+      ],
+      "odiNumbers": [
+        "11398414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Fuel Gauge",
+      "impact": "The faulty fuel gauge can cause the motorcycle to lose power, leading to accidents or potentially dangerous situations.",
+      "symptoms": [
+        "Motorcycle losing power",
+        "fuel gauge malfunctioning",
+        "sudden loss of power while riding."
+      ],
+      "odiNumbers": [
+        "10595158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Sensor Failure",
+      "impact": "The failure of the fuel sensor can cause the fuel gauge to malfunction, leading to unexpected fuel loss and potential accidents.",
+      "symptoms": [
+        "Fuel gauge malfunctioning",
+        "sudden loss of power while riding",
+        "fuel leak."
+      ],
+      "odiNumbers": [
+        "10595158"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Buckle Latch Failure",
+      "impact": "The failure of the seatbelt buckle latch can prevent the seatbelt from properly securing the occupant, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seatbelt buckle will not latch",
+        "the buckle does not lock into place",
+        "the male end of the buckle will not go into the female portion",
+        "the release buttons break",
+        "and internal components of the buckle fail."
+      ],
+      "odiNumbers": [
+        "974195",
+        "965971",
+        "965762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fluid Leak and Fire",
+      "impact": "A transmission fluid leak can cause a fire, which can lead to serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle catches on fire while in motion",
+        "power loss while driving",
+        "white and black smoke coming from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "982408",
+        "958962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "Torque converter failure can cause power loss, leading to accidents or loss of control, and potentially result in a fire.",
+      "symptoms": [
+        "Power loss while driving",
+        "white and black smoke coming from the rear of the vehicle",
+        "possible transmission fluid leak."
+      ],
+      "odiNumbers": [
+        "958962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electro Hydraulic Valve Failure",
+      "impact": "The failure of the electro hydraulic valve can cause excessive brake pedal travel, leading to partial loss of braking, which can increase the stopping distance and risk of accidents, especially when towing a trailer.",
+      "symptoms": [
+        "Excessive brake pedal travel",
+        "partial loss of braking",
+        "brake problem persists after replacing the electro hydraulic valve",
+        "brake light blinks for no reason."
+      ],
+      "odiNumbers": [
+        "973665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Speedometer and Brake Light Malfunction",
+      "impact": "The malfunction of the speedometer and brake light can cause the driver to be unaware of their speed, leading to potential accidents, and the brake light blinking for no reason can cause confusion and distraction.",
+      "symptoms": [
+        "Speedometer does not work at times",
+        "brake light blinks for no reason."
+      ],
+      "odiNumbers": [
+        "965863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

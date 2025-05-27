@@ -1,0 +1,103 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, and injuries, as the vehicle suddenly accelerates without the driver's input.",
+      "symptoms": [
+        "The vehicle suddenly accelerates at a high rate of speed",
+        "the vehicle lunges forward from a parked position",
+        "the vehicle accelerates out of control",
+        "the vehicle goes into reverse or forward gear without driver input",
+        "the engine races when first started."
+      ],
+      "odiNumbers": [
+        "831845",
+        "808160",
+        "974776",
+        "484743",
+        "959143",
+        "523842",
+        "517480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, leading to accidents or leaving the driver stranded, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine suddenly stops running",
+        "the vehicle loses power",
+        "the engine stalls while driving",
+        "the vehicle is unable to restart."
+      ],
+      "odiNumbers": [
+        "517480"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, leading to costly repairs, engine damage, or even engine failure.",
+      "symptoms": [
+        "The engine overheats",
+        "the coolant level drops",
+        "the temperature gauge rises",
+        "the vehicle leaks coolant",
+        "the water pump fails repeatedly."
+      ],
+      "odiNumbers": [
+        "510246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Camshaft Failure",
+      "impact": "Camshaft failure can cause engine damage, leading to costly repairs, engine failure, or even engine seizure.",
+      "symptoms": [
+        "The engine makes unusual noises",
+        "the engine loses power",
+        "the engine stalls",
+        "the camshaft breaks or fails."
+      ],
+      "odiNumbers": [
+        "971268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall, leading to a loss of power steering and braking ability, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the battery warning light is illuminated",
+        "the electrical system malfunctions",
+        "the vehicle experiences a sudden loss of power",
+        "the vehicle is unable to start."
+      ],
+      "odiNumbers": [
+        "510246",
+        "979109",
+        "968542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

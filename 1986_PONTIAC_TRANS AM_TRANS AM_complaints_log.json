@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Seatbelt Buckle Assembly",
+      "impact": "The defective seatbelt buckle assembly can cause the buckle to break, preventing it from latching and protecting the occupant in a sudden stop or accident, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The seatbelt buckle may break or fail to latch",
+        "the seatbelt may not pull out properly",
+        "the seatbelt anchor may not work properly."
+      ],
+      "odiNumbers": [
+        "10257594",
+        "10062624",
+        "717920",
+        "837376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to a loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Inner treadwall separation",
+        "typically 1/2 inch above the rim",
+        "completely around the tire",
+        "often without visible signs of wear on the tire surface."
+      ],
+      "odiNumbers": [
+        "10243882"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Lock-Up and Rear Tire Lock-Up",
+      "impact": "The transmission lock-up and subsequent rear tire lock-up can cause the vehicle to become difficult to control, increasing the risk of accidents and loss of vehicle stability.",
+      "symptoms": [
+        "The transmission locks up",
+        "the rear tires lock up",
+        "the vehicle becomes difficult to control",
+        "the vehicle's stability is compromised."
+      ],
+      "odiNumbers": [
+        "10008849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Rust and Water Accumulation",
+      "impact": "Water accumulation in the fuel tank can cause rust and corrosion, leading to fuel leaks and potentially causing fires or explosions. This can also lead to engine damage and performance issues.",
+      "symptoms": [
+        "Gasoline smell while driving",
+        "soft or rusty top of fuel tank",
+        "water accumulation in fuel tank."
+      ],
+      "odiNumbers": [
+        "850735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. In extreme cases, it can also result in fatalities.",
+      "symptoms": [
+        "Smoke or flames visible from the engine compartment",
+        "burning smell or odor",
+        "engine overheating",
+        "engine stalling or loss of power",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "540869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

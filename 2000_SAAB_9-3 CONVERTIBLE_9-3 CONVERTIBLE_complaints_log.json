@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of the airbag can cause injuries, including bruises, ringing in the ears, and potentially more severe harm. It can also lead to a loss of control of the vehicle, increasing the risk of accidents.",
+      "symptoms": [
+        "The airbag deploys suddenly and without warning",
+        "often at low speeds",
+        "and may cause physical harm to the driver or passengers."
+      ],
+      "odiNumbers": [
+        "11323899"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Deploy Airbag in Crash",
+      "impact": "The failure of the airbag to deploy in a crash can lead to serious injuries, including head trauma, lacerations, and potentially life-threatening harm.",
+      "symptoms": [
+        "The airbag fails to deploy despite significant impact",
+        "resulting in physical harm to the driver or passengers."
+      ],
+      "odiNumbers": [
+        "751889"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed or Unavailable Airbag Replacement",
+      "impact": "The delayed or unavailable replacement of recalled airbags can leave drivers and passengers at risk of injury or death due to defective airbags.",
+      "symptoms": [
+        "Receipt of a recall notice",
+        "but the replacement parts are not available",
+        "leaving the vehicle in an unsafe condition."
+      ],
+      "odiNumbers": [
+        "10935100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Seat Belt Retractor Failure",
+      "impact": "The failure of the driver's side seat belt retractor can cause the seat belt to become stuck or tighten around the driver, potentially leading to choking or injury, and compromising the safety of the vehicle's occupants.",
+      "symptoms": [
+        "The seat belt retractor fails to retract",
+        "the seat belt becomes stuck or tight around the driver",
+        "the seat belt does not return to its normal position",
+        "the seat belt causes choking or discomfort."
+      ],
+      "odiNumbers": [
+        "10609014",
+        "10495116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccessible or Expensive Replacement Parts for Seat Belts",
+      "impact": "The high cost or unavailability of replacement parts for the seat belt system can leave vehicle owners without a safe and functional seat belt, compromising their safety and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Difficulty finding replacement parts",
+        "high cost of replacement parts",
+        "lack of compatibility with universal seat belts",
+        "requirement for special handling and shipping due to hazardous materials."
+      ],
+      "odiNumbers": [
+        "10609014"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Cassette Failure",
+      "impact": "The failure of the ignition cassette can cause the vehicle to shut down completely, resulting in loss of power steering, brakes, and other essential systems, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or shuts down while driving",
+        "loss of power steering",
+        "loss of brakes",
+        "burnt electrical smell from the engine",
+        "the \"Check Engine\" light comes on periodically",
+        "the vehicle will not restart."
+      ],
+      "odiNumbers": [
+        "10090611",
+        "10033090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

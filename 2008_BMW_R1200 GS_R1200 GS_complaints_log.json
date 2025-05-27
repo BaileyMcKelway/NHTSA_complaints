@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Sensor Strip Failure",
+      "impact": "The failure of the fuel sensor strip can cause the fuel level to be inaccurately displayed, leading to sudden stalling of the motorcycle, which can increase the risk of accidents, especially on highways.",
+      "symptoms": [
+        "The fuel light flashes",
+        "the warning triangle appears on the dashboard",
+        "the motorcycle stalls suddenly",
+        "the fuel level is inaccurately displayed."
+      ],
+      "odiNumbers": [
+        "10595133",
+        "10593632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause fuel leaks, which can lead to fires, especially when the fuel comes into contact with hot engine components.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump",
+        "fuel smell",
+        "fuel dripping from the fuel pump housing",
+        "fuel spraying onto the rider's leg."
+      ],
+      "odiNumbers": [
+        "10554036",
+        "10536724",
+        "10523549",
+        "10503488",
+        "10467136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank Leaks",
+      "impact": "Leaks in the fuel tank can cause fuel to spill onto the road, increasing the risk of accidents, and can also lead to fires.",
+      "symptoms": [
+        "Fuel leaks from the fuel tank",
+        "cracks on the periphery of the fuel quick-disconnect port",
+        "fuel dripping from the fuel tank."
+      ],
+      "odiNumbers": [
+        "10554036",
+        "10536724",
+        "10523549",
+        "10503488",
+        "10467136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Forward Drive Shaft Universal Joint Failure",
+      "impact": "The failure of the forward drive shaft universal joint can cause the rear wheel to lock, leading to a loss of control, accidents, and potential injuries. The spinning drive shaft can also damage surrounding components, such as the swing arm, and potentially cause a fire.",
+      "symptoms": [
+        "Sudden vibration or bucking from the rear of the bike",
+        "rear wheel locking up",
+        "smoke or flames from the swing arm boot",
+        "odd vibration in the bike when the suspension unloads."
+      ],
+      "odiNumbers": [
+        "10910909",
+        "10596522",
+        "10588000",
+        "10535147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Level Indicator Failure",
+      "impact": "The failure of the fuel level indicator can cause the engine to shut off unexpectedly, even when there is adequate fuel in the tank, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine shuts off suddenly while driving",
+        "the fuel level indicator malfunctions",
+        "the bike starts again after stopping."
+      ],
+      "odiNumbers": [
+        "10760928"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the system to engage and turn off independently without warning, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "The ABS system engages and turns off without warning",
+        "the vehicle's brakes malfunction",
+        "the ABS control unit needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10605939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Sensor Strip Failure",
+      "impact": "The failure of the fuel gauge sensor strip can cause the fuel gauge to malfunction, leading to inaccurate fuel level readings, which can result in unexpected engine stalling, accidents, or stranding in heavy traffic or remote areas.",
+      "symptoms": [
+        "Fuel gauge does not work or works intermittently",
+        "fuel gauge shows incorrect fuel level",
+        "sudden loss of fuel to the engine",
+        "engine stalling",
+        "running out of gas without warning."
+      ],
+      "odiNumbers": [
+        "10455787",
+        "10404523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Corrosion",
+      "impact": "Corrosion of the brake line can cause brake failure, leading to extended stopping distances, increased risk of accidents, and potential loss of control.",
+      "symptoms": [
+        "Rear brake cylinder corrosion",
+        "front brakes overheating and locking up",
+        "brake pedal going to the floor",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "516588",
+        "516588"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "Failure of the ABS system can cause loss of braking, leading to extended stopping distances, increased risk of accidents, and potential loss of control.",
+      "symptoms": [
+        "Total loss of braking",
+        "ABS system failure",
+        "brakes releasing when hitting a bump",
+        "extended stopping distances."
+      ],
+      "odiNumbers": [
+        "502062",
+        "977307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "Sticking brake caliper can cause brake failure, leading to extended stopping distances, increased risk of accidents, and potential loss of control.",
+      "symptoms": [
+        "Caliper sticks",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "484034"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can cause loss of control, extended stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Brakes failed",
+        "brake pedal goes to the floor",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "484860",
+        "969449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure (Kelly-Springfield and Firestone)",
+      "impact": "The sudden failure of the tire can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. In addition, the tire blowout can cause damage to the vehicle and its components, as well as spill cargo on the highway, creating a hazardous situation for other drivers.",
+      "symptoms": [
+        "The tire suddenly explodes or blows out",
+        "causing the vehicle to lose control",
+        "leave the roadway",
+        "or overturn. The tire may split its steel belts crosswise",
+        "and the ambient temperature may be high at the time of the failure."
+      ],
+      "odiNumbers": [
+        "566497",
+        "733017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling can cause the vehicle to lose power and come to a sudden stop, increasing the risk of accidents, especially when driving on highways or busy roads.",
+      "symptoms": [
+        "The engine quits or shuts off while driving",
+        "the vehicle loses power and comes to a sudden stop",
+        "the engine stalls without warning."
+      ],
+      "odiNumbers": [
+        "869236",
+        "524059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

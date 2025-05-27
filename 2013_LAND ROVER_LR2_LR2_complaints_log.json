@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can cause the airbag warning indicator light to illuminate, indicating a potential malfunction, which can lead to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The airbag warning indicator light is illuminated",
+        "the passenger-side airbag is disabled",
+        "the seat occupancy sensor is faulty",
+        "the airbag warning light appears when the passenger seat is occupied."
+      ],
+      "odiNumbers": [
+        "11252347",
+        "11076515",
+        "10902929",
+        "10873089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Booster Vacuum Pump Failure",
+      "impact": "The failure of the brake booster vacuum pump can cause a complete loss of vacuum assistance in the braking system, leading to a hard brake pedal and increased stopping distance, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal feels hard",
+        "the vehicle has a complete loss of vacuum assistance in the braking system",
+        "the vehicle has difficulty stopping."
+      ],
+      "odiNumbers": [
+        "10873089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Computer System Failure",
+      "impact": "The failure of the vehicle computer system can cause the engine light, stability control, and airbag lights to illuminate, leading to a loss of power and potential accidents.",
+      "symptoms": [
+        "The engine light",
+        "stability control",
+        "and airbag lights are illuminated",
+        "the vehicle goes into \"limp mode\" with decreased power",
+        "the vehicle has difficulty stopping or accelerating."
+      ],
+      "odiNumbers": [
+        "10676520"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Differential Failure",
+      "impact": "The failure of the rear differential can cause a humming or grinding noise, vibration, and potentially lead to loss of control or accidents, compromising vehicle safety.",
+      "symptoms": [
+        "A humming or grinding noise coming from the rear undercarriage while driving",
+        "vibration",
+        "and potentially difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "11395659",
+        "11205248"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, and potentially life-threatening situations, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine suddenly stops running without warning",
+        "the vehicle loses power",
+        "the vehicle is unable to start",
+        "the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "11270220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Uncontrolled Acceleration",
+      "impact": "The uncontrolled acceleration of the vehicle can cause loss of control, accidents, and potentially life-threatening situations, especially in heavy traffic or when pedestrians are present.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "the vehicle lurches forward",
+        "the turbocharger engages abruptly",
+        "the acceleration is unpredictable and rough",
+        "the vehicle feels like it's being pushed forward."
+      ],
+      "odiNumbers": [
+        "10574565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Motorized Seatbelt System Failure",
+      "impact": "The failure of the motorized seatbelt system can cause the seatbelt to become inoperable, leading to a lack of restraint for the occupant, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt does not retract or release properly",
+        "the seatbelt becomes stuck",
+        "the seatbelt pinches or fastens too tightly",
+        "the seatbelt only works when the door is opened or closed",
+        "the seatbelt does not travel on the guide rail."
+      ],
+      "odiNumbers": [
+        "8010423",
+        "842704",
+        "834936",
+        "831227",
+        "508208",
+        "506837",
+        "984001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust Manifold Cracking/Failure",
+      "impact": "The cracking or failure of the exhaust manifold can cause exhaust gases to escape into the fresh air intake, leading to a potential health hazard for occupants and decreased engine performance.",
+      "symptoms": [
+        "Exhaust fumes or toxic odors inside the vehicle",
+        "decreased engine performance",
+        "difficulty finding a replacement exhaust manifold without the same problem."
+      ],
+      "odiNumbers": [
+        "835066"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Loss of Engine Power",
+      "impact": "The sudden loss of engine power can cause the vehicle to stall, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Vehicle stopped suddenly with no engine power",
+        "loss of acceleration",
+        "inability to maintain speed."
+      ],
+      "odiNumbers": [
+        "523519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Toxic Brake Fumes",
+      "impact": "The release of toxic fumes from the brakes can pose a health hazard to occupants, especially those with respiratory issues.",
+      "symptoms": [
+        "Toxic fumes or odors coming from the brakes",
+        "exposure to lead and aluminum particles from brake components."
+      ],
+      "odiNumbers": [
+        "476113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Windshield Delamination",
+      "impact": "The delamination of the windshield can cause impaired visibility, making it difficult or impossible to drive safely, which can lead to accidents.",
+      "symptoms": [
+        "The windshield appears cloudy or white",
+        "scratches or cracks are visible on the windshield",
+        "the windshield is difficult to see through",
+        "the windshield is obstructing the driver's view."
+      ],
+      "odiNumbers": [
+        "865848"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

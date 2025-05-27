@@ -1,0 +1,165 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Module (ETM) Failure",
+      "impact": "The failure of the Electronic Throttle Module (ETM) can cause the vehicle to lose power, stall, or surge without warning, leading to potential accidents, near-crashes, or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or surges without warning",
+        "the ETS light comes on",
+        "the vehicle goes into \"limp mode",
+        "\" the vehicle has degraded performance",
+        "the engine RPM surges",
+        "the vehicle is unable to accelerate",
+        "the vehicle stalls in heavy traffic",
+        "the vehicle has intermittent electrical issues."
+      ],
+      "odiNumbers": [
+        "10606602",
+        "10285765",
+        "10141131",
+        "10135203",
+        "10131599",
+        "10131151",
+        "10131164",
+        "10131193",
+        "10130874",
+        "10004047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration Due to Throttle Control Module Failure",
+      "impact": "The failure of the throttle control module can cause unintended acceleration, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "hesitation",
+        "stalling",
+        "and loss of power while driving",
+        "especially at speeds between 50-70 mph."
+      ],
+      "odiNumbers": [
+        "10469507",
+        "10144249",
+        "10137189",
+        "8011330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body Failure",
+      "impact": "The failure of the throttle body can cause the vehicle to slow down or stall, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Vehicle speed slows down to almost no speed",
+        "hesitation",
+        "stalling",
+        "and loss of power while driving."
+      ],
+      "odiNumbers": [
+        "10144249",
+        "10137189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accelerator Pedal Arm Failure",
+      "impact": "The failure of the accelerator pedal arm can cause sudden acceleration, leading to loss of vehicle control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "arm of accelerator pedal breaks when hitting the pad."
+      ],
+      "odiNumbers": [
+        "8011330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure",
+      "impact": "Sudden engine failure can cause loss of power, stalling, and potentially lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "Loss of power",
+        "engine stalling",
+        "rough idling",
+        "skipping",
+        "smoke coming out of the tailpipe",
+        "oil leaks",
+        "engine rattling or faltering",
+        "engine turning off immediately after starting."
+      ],
+      "odiNumbers": [
+        "10245410",
+        "10143323",
+        "10131029",
+        "894181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "Engine mount failure can cause the engine to move around in the engine bay, leading to damage to other components, such as radiator hoses, CV axles, and motor mount bushings, which can result in costly repairs.",
+      "symptoms": [
+        "Engine banging around in the engine bay",
+        "cracked motor mount bushings",
+        "broken motor mounts",
+        "radiator hose damage",
+        "CV axle damage."
+      ],
+      "odiNumbers": [
+        "894181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle System Issues",
+      "impact": "Throttle system issues can cause the engine to stall or lose power, leading to potential accidents or stranding the driver.",
+      "symptoms": [
+        "Engine rattling or faltering",
+        "engine turning off immediately after starting",
+        "loss of power when accelerating."
+      ],
+      "odiNumbers": [
+        "10131029",
+        "10143323"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Issues",
+      "impact": "Electrical system issues can cause warning lights to malfunction, leading to a lack of warning for potential problems, which can increase the risk of accidents or breakdowns.",
+      "symptoms": [
+        "ETS light illuminating on the dashboard",
+        "wiper blades not working or not aligned properly."
+      ],
+      "odiNumbers": [
+        "10143323",
+        "894181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

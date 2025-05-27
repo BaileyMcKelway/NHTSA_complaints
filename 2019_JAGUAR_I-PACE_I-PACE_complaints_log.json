@@ -1,0 +1,218 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "High-Voltage Battery Overheating and Charging Issues",
+      "impact": "The high-voltage battery overheating can increase the risk of a fire, and the charging issues can cause the vehicle to become immobile, leading to a safety risk.",
+      "symptoms": [
+        "The battery traction warning light is illuminated",
+        "the vehicle is unable to charge over 72% or 75%",
+        "the battery and traction control warning lights are illuminated",
+        "the vehicle has a reduced range",
+        "and the battery fault detected message is displayed."
+      ],
+      "odiNumbers": [
+        "11590198",
+        "11588628",
+        "11588639",
+        "11588390",
+        "11581922",
+        "11580806",
+        "11567786",
+        "11563185",
+        "11559842",
+        "11494560",
+        "11464375",
+        "11413407",
+        "11413004",
+        "11394809",
+        "11353934",
+        "11318258",
+        "11282985",
+        "11245059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The electrical system failure can cause the vehicle to become immobile, leading to a safety risk, and can also increase the risk of a fire.",
+      "symptoms": [
+        "The vehicle's electrical system does not respond",
+        "the vehicle will not start",
+        "the battery energy control module software needs to be updated",
+        "the battery modules need to be replaced",
+        "the traction battery fault detected message is displayed",
+        "and the vehicle's cameras are inoperative."
+      ],
+      "odiNumbers": [
+        "11580806",
+        "11567786",
+        "11563185",
+        "11464375",
+        "11492129",
+        "11413407",
+        "11413004",
+        "11394809",
+        "11353934",
+        "11318258",
+        "11282985",
+        "11245059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure",
+      "impact": "The brake failure can cause the vehicle to lose control, leading to a safety risk, and can also increase the risk of an accident.",
+      "symptoms": [
+        "The brakes failed to operate",
+        "the reduced brake pedal feel warning message is displayed",
+        "the ASPC not available warning message is displayed",
+        "and the gear box fault warning message is displayed."
+      ],
+      "odiNumbers": [
+        "11282985",
+        "11413407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause sudden loss of power, acceleration, or braking, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Sudden loss of power",
+        "acceleration",
+        "or braking",
+        "warning messages on the dashboard",
+        "inability to shift gears",
+        "sudden acceleration or deceleration",
+        "failure of brakes or steering."
+      ],
+      "odiNumbers": [
+        "11580753",
+        "11489256",
+        "11399556",
+        "11318305",
+        "11291216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "inability to stop the vehicle",
+        "violent shuddering of the vehicle",
+        "failure of emergency parking brake to release."
+      ],
+      "odiNumbers": [
+        "11318305",
+        "11291216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission System Failure",
+      "impact": "The failure of the transmission system can cause loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Inability to shift gears",
+        "sudden loss of power",
+        "warning messages on the dashboard",
+        "failure of the vehicle to move."
+      ],
+      "odiNumbers": [
+        "11580753",
+        "11318305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Sudden acceleration of the vehicle without input from the driver",
+        "failure of brakes to respond",
+        "inability to control the vehicle."
+      ],
+      "odiNumbers": [
+        "11291216"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can lead to a loss of normal braking capabilities, making it difficult or impossible to stop the vehicle, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "No normal braking available",
+        "unable to place car in park",
+        "unable to turn car off",
+        "brake warning lamp illuminates",
+        "All Surface Progress Control (ASPC) lamp illuminates",
+        "brake system becomes dysfunctional",
+        "brakes hard and secure only after restarting the vehicle",
+        "brake battery shoes show low voltage."
+      ],
+      "odiNumbers": [
+        "11545052",
+        "11385832",
+        "11385670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various safety features to malfunction, including the brake system, backup camera, and blind spot monitoring, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Electric system does not start",
+        "brake function impaired",
+        "backup camera and rear traffic sensors not working",
+        "blind spot monitoring unreliable",
+        "entire electrical system malfunctioning."
+      ],
+      "odiNumbers": [
+        "11385670"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Auxiliary Battery System Failure",
+      "impact": "The failure of the auxiliary battery system can cause the brake system to malfunction, leading to a loss of normal braking capabilities, which can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Brake system becomes dysfunctional",
+        "brake battery shoes show low voltage",
+        "entire electrical system malfunctioning."
+      ],
+      "odiNumbers": [
+        "11545052"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

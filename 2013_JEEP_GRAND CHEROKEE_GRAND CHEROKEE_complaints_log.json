@@ -1,0 +1,216 @@
+{
+  "totalComplaints": 766,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or lose motive power, increasing the risk of a crash or fire.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the battery indicator light comes on",
+        "the dashboard lights flash",
+        "the windshield wipers turn on",
+        "and the alternator smokes or catches fire."
+      ],
+      "odiNumbers": [
+        "11531035",
+        "11483087",
+        "11477379",
+        "11465679",
+        "11433735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or lose motive power, increasing the risk of a crash or fire.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the battery indicator light comes on",
+        "and the alternator smokes or catches fire."
+      ],
+      "odiNumbers": [
+        "11483087",
+        "11477379",
+        "11465679",
+        "11433735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Relay Failure",
+      "impact": "The failure of the fuel pump relay can cause the vehicle to stall or lose motive power, increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the fuel pump relay fails",
+        "and the vehicle may not start."
+      ],
+      "odiNumbers": [
+        "11531035",
+        "11438458",
+        "11429958",
+        "11428158",
+        "11427772",
+        "11427463",
+        "11427165"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Control Failure",
+      "impact": "The failure of the throttle control system can cause the vehicle to lose motive power or stall, increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle loses power or stalls",
+        "the electronic throttle control warning light comes on",
+        "and the vehicle may experience abnormal acceleration or deceleration."
+      ],
+      "odiNumbers": [
+        "11584922",
+        "11455610",
+        "11451739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "TIPM Failure",
+      "impact": "The failure of the Totally Integrated Power Module (TIPM) can cause the vehicle to lose motive power or stall, increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle loses power or stalls",
+        "the check engine warning light comes on",
+        "and the vehicle may experience electrical system failures."
+      ],
+      "odiNumbers": [
+        "11477379",
+        "11433735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause the vehicle to lose braking power, increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle experiences brake failure or reduced braking power."
+      ],
+      "odiNumbers": [
+        "11531035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Heated Seat Element Failure",
+      "impact": "The failure of the heated seat element can cause a fire, increasing the risk of injury or death.",
+      "symptoms": [
+        "The heated seat element catches fire",
+        "and smoke fills the cabin."
+      ],
+      "odiNumbers": [
+        "11566313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Air Suspension Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to lose motive power or stall, increasing the risk of a crash.",
+      "symptoms": [
+        "The air suspension warning light comes on",
+        "and the vehicle loses power or stalls."
+      ],
+      "odiNumbers": [
+        "11494628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause the brakes to fail, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brakes fail to respond",
+        "the vehicle takes longer to stop",
+        "and there may be a hissing sound."
+      ],
+      "odiNumbers": [
+        "11398546",
+        "11395737",
+        "11268370",
+        "11138691",
+        "11076547",
+        "11063599",
+        "11054817",
+        "11054089",
+        "11031959",
+        "10994061",
+        "10960343",
+        "10956346",
+        "10937718",
+        "10935974",
+        "10763903",
+        "10703596",
+        "10683174",
+        "10671430",
+        "10670443",
+        "10669089",
+        "10669092",
+        "10668674",
+        "10668313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ready Alert Braking (RAB) System Failure",
+      "impact": "The failure of the RAB system can cause the vehicle to fail to stop, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle fails to stop",
+        "the brake pedal feels hard or spongy",
+        "and there may be a sudden loss of pressure."
+      ],
+      "odiNumbers": [
+        "11448207",
+        "11395737",
+        "11390532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to fail, leading to accidents or near-misses, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The ABS light illuminates",
+        "the brakes fail to respond",
+        "and the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "11540113"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

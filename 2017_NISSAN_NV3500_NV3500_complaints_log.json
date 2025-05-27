@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Insufficient Rear Air Conditioning",
+      "impact": "Insufficient air conditioning in the rear seats can lead to uncomfortable and potentially dangerous temperatures, especially for children, which can cause dehydration or heat stroke.",
+      "symptoms": [
+        "Rear air conditioning is not blowing hard",
+        "insufficient air flow to the back three rows of seats",
+        "temperatures within the vehicle remain at or near the outside (ambient) temperature for extended periods of time."
+      ],
+      "odiNumbers": [
+        "11331400",
+        "11252027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Cooling Fan",
+      "impact": "A faulty cooling fan can cause the engine to overheat, leading to engine damage, and can also cause a loud noise, which can be distracting and potentially lead to an accident.",
+      "symptoms": [
+        "Loud noise from the fan",
+        "fan not engaging when accelerator pedal is pressed",
+        "intermittent slow acceleration",
+        "loud rushing noise similar to a loud fan or a vehicle revving in neutral."
+      ],
+      "odiNumbers": [
+        "11020185",
+        "11010325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Noise and Loss of Power",
+      "impact": "The sudden loss of power and unusual engine noise can cause the vehicle to stall or lose acceleration, leading to potential accidents or safety risks, especially when driving in heavy traffic or merging onto highways.",
+      "symptoms": [
+        "Loud noise like metal discs rubbing against each other",
+        "loss of power",
+        "engine revving noise",
+        "inability to accelerate",
+        "sudden drop in vehicle speed."
+      ],
+      "odiNumbers": [
+        "11206782",
+        "11030198",
+        "11021271"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Issues with Fan Noise and Loss of Acceleration",
+      "impact": "The sudden and random loss of acceleration, accompanied by loud fan noise, can cause the vehicle to stall or lose power, leading to potential accidents or safety risks, especially when driving in heavy traffic or merging onto highways.",
+      "symptoms": [
+        "Loud fan noise",
+        "loss of acceleration",
+        "labored shifting",
+        "sudden drop in vehicle speed",
+        "inability to accelerate."
+      ],
+      "odiNumbers": [
+        "11031766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Engine Revving and Loss of Acceleration",
+      "impact": "The unintended engine revving and loss of acceleration can cause the vehicle to stall or hesitate, leading to a loss of control, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine revs loudly and excessively",
+        "the vehicle hesitates or stalls",
+        "the vehicle fails to accelerate above a certain speed",
+        "the vehicle makes an abnormal noise from the engine",
+        "the vehicle loses acceleration and RPMs increase randomly while driving."
+      ],
+      "odiNumbers": [
+        "11283130",
+        "11021775",
+        "11005443"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

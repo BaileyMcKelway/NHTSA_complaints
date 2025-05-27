@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "LiFePO4 Lithium Battery Failure and Software/Hardware Error",
+      "impact": "The failure of the LiFePO4 lithium battery can cause the vehicle to become stranded, leading to safety risks, especially in extreme temperatures. The battery powers every safety feature in the vehicle, making its failure a critical concern.",
+      "symptoms": [
+        "The battery suddenly shuts down permanently",
+        "requiring a full replacement",
+        "which can be expensive and may take a long time to complete. The battery warning light appears on the dashboard",
+        "and the vehicle may become unusable."
+      ],
+      "odiNumbers": [
+        "11554814",
+        "11540201",
+        "11532271",
+        "11462580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Issues with Error Messages",
+      "impact": "The electrical issues causing error messages can affect vehicle safety features, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Error messages appear on the dashboard",
+        "including \"ACC NOT AVAILABLE\"",
+        "\"PAS RESTRICTED\"",
+        "\"DRIVING LIGHT CONTROL ERROR\"",
+        "\"HIGH BEAM ASSIST NOT AVAILABLE\"",
+        "\"LANE KEEP ASSIST RESTRICTED\"",
+        "and \"CAMERA SYSTEM RESTRICTED\". The vehicle may become unusable or experience intermittent failures."
+      ],
+      "odiNumbers": [
+        "11515416",
+        "11462580",
+        "11388914",
+        "11326813",
+        "11306756"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Starter Failure and Sudden Vehicle Death",
+      "impact": "The failure of the starter can cause the vehicle to die suddenly, leading to safety risks, especially in traffic.",
+      "symptoms": [
+        "The vehicle dies suddenly",
+        "often at a traffic light or stop",
+        "and may be diagnosed with starter failure."
+      ],
+      "odiNumbers": [
+        "11513665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Lurching",
+      "impact": "The unintended lurching of the vehicle when coming to a complete stop can cause accidents, especially at intersections or when stopping in heavy traffic, and can lead to a loss of control or collision.",
+      "symptoms": [
+        "The vehicle lurches or lunges forward when braking to a stop",
+        "the brakes seem to release as the vehicle lurches forward",
+        "the vehicle moves forward unexpectedly when the driver's foot is on the brake pedal",
+        "the lurching occurs at slower speeds",
+        "typically around 5mph",
+        "right before coming to a complete stop."
+      ],
+      "odiNumbers": [
+        "11476696",
+        "11439727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Headlight and Taillight Moisture Ingress",
+      "impact": "Moisture accumulation in the headlights and taillights can cause reduced visibility, increased glare, and even complete failure of the lighting systems, leading to hazardous driving conditions, especially at night.",
+      "symptoms": [
+        "Headlights or taillights appear foggy or cloudy",
+        "reduced light output",
+        "complete failure of headlights or taillights",
+        "water or condensation visible inside the light assembly."
+      ],
+      "odiNumbers": [
+        "11364031",
+        "11340646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure (Recall 23V858000)",
+      "impact": "The failure of the fuel system can cause the vehicle to stall or hesitate while accelerating, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle fails to immediately start intermittently",
+        "requiring multiple attempts to start; the vehicle hesitates while accelerating at speeds of 65 MPH and above; unknown warning lights flash on the instrument panel; the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11591201",
+        "11591311",
+        "11584533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Parts Distribution Disconnect (Recall 23V858000)",
+      "impact": "The unavailability of parts for the recall repair can cause delays and inconvenience to vehicle owners, potentially leading to continued exposure to safety risks.",
+      "symptoms": [
+        "Notification of recall received",
+        "but parts are not available; dealer confirms parts are not yet available; manufacturer is aware of the issue but has not provided a solution."
+      ],
+      "odiNumbers": [
+        "11591201",
+        "11591311",
+        "11584533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to lose braking ability, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floorboard",
+        "the vehicle fails to respond to braking",
+        "the brake pedal sinks while the vehicle is in motion",
+        "loss of control of the vehicle",
+        "inability to stop."
+      ],
+      "odiNumbers": [
+        "11538336",
+        "11523638",
+        "11362434"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration and brake failure can lead to accidents, injuries, or fatalities, especially in situations where the vehicle is unable to stop or slow down in time.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly despite the driver's foot being off the gas pedal",
+        "the brakes fail to engage or respond slowly",
+        "the vehicle surges forward without warning",
+        "the auto brakes kick in only after the vehicle has already moved forward."
+      ],
+      "odiNumbers": [
+        "11478718"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Activation of Automatic Emergency Braking (AEB) System",
+      "impact": "The false activation of the AEB system can cause sudden and unexpected braking, which can lead to accidents, injuries, and even fatalities. This can also cause a loss of control of the vehicle, especially at high speeds.",
+      "symptoms": [
+        "The AEB system suddenly activates without any apparent reason",
+        "causing the vehicle to brake hard",
+        "the braking system warning light flashes",
+        "the vehicle slows down or comes to a sudden stop",
+        "the driver experiences sudden jolts or jerks",
+        "and may even cause physical injury to the driver or occupants."
+      ],
+      "odiNumbers": [
+        "11475123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Undisclosed Recalls and Hidden Defects",
+      "impact": "The failure to disclose existing recalls and hidden defects can lead to a lack of awareness among vehicle owners, potentially causing accidents, injuries, or fatalities due to undiagnosed and unrepaired issues.",
+      "symptoms": [
+        "Vehicle owners experience unexpected problems with their vehicle",
+        "which may be related to existing recalls or hidden defects. They may notice differences in vehicle performance",
+        "unusual noises",
+        "or warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "11416049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

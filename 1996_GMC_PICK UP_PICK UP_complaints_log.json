@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Master Brake Cylinder Rust",
+      "impact": "The rusting of the master brake cylinder can lead to extended stopping distances, increasing the risk of accidents and compromising vehicle safety.",
+      "symptoms": [
+        "Extended stopping distance",
+        "spongy brake pedal",
+        "brake pedal feels soft or mushy."
+      ],
+      "odiNumbers": [
+        "10091456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Malfunction",
+      "impact": "The malfunction of the Anti-Lock Braking System (ABS) can cause the brakes to engage unnecessarily, leading to increased stopping distances, loss of cruise control, and potentially even a fire hazard.",
+      "symptoms": [
+        "ABS engages unnecessarily",
+        "brakes do not disengage timely",
+        "feeling of strain on the truck",
+        "cruise control disengages",
+        "increased stopping distance."
+      ],
+      "odiNumbers": [
+        "985602"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Failure",
+      "impact": "The failure of electrical wiring can cause a vehicle fire, resulting in damage to the vehicle and potentially harm to occupants.",
+      "symptoms": [
+        "Flames or sparks from under the dashboard",
+        "wiring damage on the driver-side fender wall",
+        "intermittent stalling of the vehicle while driving",
+        "no warning signs before stalling."
+      ],
+      "odiNumbers": [
+        "541631",
+        "812818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall while driving, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "Intermittent stalling of the vehicle while driving",
+        "no warning signs before stalling",
+        "replacement of ignition and ignition coil does not resolve the issue."
+      ],
+      "odiNumbers": [
+        "812818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Idle Air Control Valve",
+      "impact": "A malfunctioning idle air control valve can cause the engine to idle excessively high, leading to unintended acceleration, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "High idle",
+        "engine racing",
+        "sudden acceleration",
+        "stuck throttle",
+        "accelerator pedal stuck at full throttle."
+      ],
+      "odiNumbers": [
+        "602544",
+        "509549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

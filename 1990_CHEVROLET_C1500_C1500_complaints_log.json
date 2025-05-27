@@ -1,0 +1,149 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure due to Rubbing against Frame Rail",
+      "impact": "The failure of the brake line can cause a loss of braking power, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "brake pedal goes to the floor",
+        "minimal braking at the point of failure."
+      ],
+      "odiNumbers": [
+        "10080463",
+        "824325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ISO Valve Failure",
+      "impact": "The failure of the ISO valve can cause a squishy brake pedal, leading to a loss of braking power and accidents.",
+      "symptoms": [
+        "Squishy brake pedal",
+        "brake warning light illuminated."
+      ],
+      "odiNumbers": [
+        "709371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Fluid Overheating due to Proximity to Exhaust Manifold",
+      "impact": "The overheating of brake fluid can cause brake failure, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "Brake lock-up on passenger's side",
+        "loss of control",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "824325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "General Brake Failure",
+      "impact": "Brake failure can cause accidents or near-miss situations.",
+      "symptoms": [
+        "Brake failure",
+        "master cylinder replacement."
+      ],
+      "odiNumbers": [
+        "524578",
+        "514364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Spring Failure affecting Brake Performance",
+      "impact": "The failure of the rear spring can cause the brake pedal to go to the floor, leading to a loss of braking power.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "need to pump the brake to avoid failure."
+      ],
+      "odiNumbers": [
+        "809078"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the seat belt assembly to become inoperable, which can lead to a lack of protection for the occupant in the event of a crash, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle breaks",
+        "the seat belt does not buckle properly",
+        "the seat belt will not stay engaged in the buckle assembly",
+        "the seat belt assembly becomes inoperable."
+      ],
+      "odiNumbers": [
+        "857760",
+        "841534",
+        "822925"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Failure due to Tread Separation",
+      "impact": "Tire failure due to tread separation can cause loss of vehicle control, accidents, and significant damage to the vehicle.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "loss of vehicle control",
+        "damage to surrounding vehicle components."
+      ],
+      "odiNumbers": [
+        "10199007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gas Tank Leaking due to Retaining Strap Contact",
+      "impact": "Gas tank leaking can cause fuel loss, fire hazards, and accidents.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "fuel spills."
+      ],
+      "odiNumbers": [
+        "10006457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unintended Cruise Control Engagement",
+      "impact": "Unintended cruise control engagement can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "Cruise control engages without input",
+        "unexpected acceleration",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10006457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "LATCHES/LOCKS/LINKAGES",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Seatbelt Buckle Failure",
+      "impact": "The failure of the rear seatbelt buckles can cause the seatbelts to not lock in place, which can lead to accidents, injuries, or fatalities, especially in the event of sudden stops or crashes.",
+      "symptoms": [
+        "Both left and right rear seatbelt buckles do not lock in place",
+        "seatbelt buckles become stuck in the locked position",
+        "seatbelt buckles come loose during use."
+      ],
+      "odiNumbers": [
+        "980608",
+        "980608",
+        "980608",
+        "973270",
+        "960265"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver Side Seatbelt Buckle Failure",
+      "impact": "The failure of the driver side seatbelt buckle can cause the seatbelt to come loose, which can lead to accidents, injuries, or fatalities, especially in the event of sudden stops or crashes.",
+      "symptoms": [
+        "Driver side seatbelt buckle comes loose",
+        "seatbelt buckle fails to lock in place."
+      ],
+      "odiNumbers": [
+        "973270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, and even injuries or fatalities.",
+      "symptoms": [
+        "Flames or smoke emanating from the engine compartment",
+        "burning smell",
+        "loud noises",
+        "and warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "10011654",
+        "567883",
+        "506836"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while driving, obstructing the driver's vision and potentially leading to accidents, especially at night or in windy conditions.",
+      "symptoms": [
+        "The hood flies open while driving",
+        "the hood latch feels loose or insecure",
+        "the hood latch does not engage properly",
+        "the hood latch is difficult to close or open."
+      ],
+      "odiNumbers": [
+        "752690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Hood Latch Spring",
+      "impact": "A broken or weakened hood latch spring can cause the hood to fly open while driving, obstructing the driver's vision and potentially leading to accidents, especially at night or in windy conditions.",
+      "symptoms": [
+        "The hood flies open while driving",
+        "the hood latch feels loose or insecure",
+        "the hood latch does not engage properly",
+        "the hood latch is difficult to close or open."
+      ],
+      "odiNumbers": [
+        "752690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Secondary Air Supply Reed Valves Failure",
+      "impact": "The failure of the secondary air supply reed valves can cause a vehicle fire, which can result in serious injury or death.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "often with no warning signs or symptoms."
+      ],
+      "odiNumbers": [
+        "513254"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

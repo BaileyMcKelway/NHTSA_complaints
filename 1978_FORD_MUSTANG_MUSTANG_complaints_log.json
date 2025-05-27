@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause a loss of brakes, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "soft brake pedal",
+        "brake pedal goes to the floor",
+        "difficulty stopping the vehicle",
+        "grinding or screeching noise when applying the brakes",
+        "brake warning light on the dashboard."
+      ],
+      "odiNumbers": [
+        "517179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Carburetor Installation",
+      "impact": "A defective carburetor can cause the speedometer, odometer, and tachometer to malfunction, leading to inaccurate readings and potentially affecting vehicle safety and performance.",
+      "symptoms": [
+        "Speedometer",
+        "odometer",
+        "and tachometer readings are inaccurate or fluctuating",
+        "carburetor failure",
+        "engine performance issues."
+      ],
+      "odiNumbers": [
+        "551827",
+        "517179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling Fan Failure",
+      "impact": "The separation of the engine cooling fan blades from the fan hub can cause the engine to overheat, leading to engine damage, reduced performance, and potentially causing a vehicle fire.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leaks",
+        "fan noise",
+        "reduced engine performance",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "523451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Smog Pump Failure",
+      "impact": "The failure of the smog pump can cause the vehicle to fail emissions tests, leading to regulatory issues and potentially causing environmental harm.",
+      "symptoms": [
+        "Check engine light illumination",
+        "poor engine performance",
+        "decreased fuel efficiency",
+        "difficulty passing emissions tests."
+      ],
+      "odiNumbers": [
+        "517179"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pump Leak",
+      "impact": "The accelerator pump leak can cause the engine to stumble or hesitate, leading to a loss of power and potentially causing accidents or stalling, especially when accelerating from a stop or merging onto a highway.",
+      "symptoms": [
+        "The engine stumbles or hesitates when accelerating",
+        "the vehicle lacks power when accelerating",
+        "the accelerator pedal feels soft or spongy",
+        "the vehicle stalls or dies when accelerating",
+        "the engine makes a whining or grinding noise when accelerating."
+      ],
+      "odiNumbers": [
+        "551827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Starter Motor Failure",
+      "impact": "The failure of the starter motor can prevent the engine from starting, leaving the driver stranded and potentially causing safety issues in certain situations, such as when the vehicle is in traffic or in a hazardous location.",
+      "symptoms": [
+        "The engine will not turn over",
+        "the starter motor makes a clicking sound but the engine does not turn over",
+        "the starter motor does not make any sound when the ignition is turned",
+        "the battery is drained or dead."
+      ],
+      "odiNumbers": [
+        "517179",
+        "11421948",
+        "11298715",
+        "11243219",
+        "11192119",
+        "11156321",
+        "11094219",
+        "10984319",
+        "10956219",
+        "10894219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

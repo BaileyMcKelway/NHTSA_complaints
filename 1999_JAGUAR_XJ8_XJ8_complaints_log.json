@@ -1,0 +1,71 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Plastic Timing Chain Tensioner",
+      "impact": "The failure of the plastic timing chain tensioner can cause the timing chain to break, leading to engine failure, which can result in accidents, loss of property, or even loss of life.",
+      "symptoms": [
+        "The vehicle will not start",
+        "oil sludge build-up in the oil pan",
+        "timing chain breakage",
+        "valves stuck open",
+        "pistons colliding",
+        "engine failure",
+        "and costly repairs."
+      ],
+      "odiNumbers": [
+        "10262834",
+        "10150845",
+        "10145837",
+        "10146002",
+        "10098805"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure and Sluggish Performance",
+      "impact": "The transmission failure can cause the vehicle to lose power, hesitate, or fail to shift gears, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission warning indicator illuminates",
+        "the vehicle fails to shift into gear",
+        "the vehicle lunges forward when attempting to stop",
+        "the vehicle feels like it's losing power while driving at highway speeds",
+        "the accelerator pedal is applied but the vehicle fails to move",
+        "the vehicle drives very slowly and sluggishly."
+      ],
+      "odiNumbers": [
+        "11255051",
+        "11062182",
+        "10247368",
+        "10221160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in a crash can increase the risk of serious injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "even at high speeds",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10501156"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

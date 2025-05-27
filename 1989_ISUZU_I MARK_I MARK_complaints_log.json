@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Engine Behavior and ECU Failure",
+      "impact": "The failure of the Engine Control Unit (ECU) can cause erratic engine behavior, complete engine failure, and stalling, leading to safety risks, especially when driving with passengers, and leaving the driver stranded.",
+      "symptoms": [
+        "Erratic idle speed",
+        "sudden changes in engine RPM",
+        "stalling",
+        "engine revving up to high RPMs in neutral",
+        "and difficulty shifting into gear."
+      ],
+      "odiNumbers": [
+        "769977",
+        "741920",
+        "841753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Erratic Idle and Engine Stalling",
+      "impact": "The erratic idle and engine stalling can cause the vehicle to lose power and stall, leading to a loss of control, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Erratic idle",
+        "idle revving and dropping",
+        "idle dipping",
+        "idle hanging high above 2",
+        "000 RPM",
+        "engine dying or stalling for no reason",
+        "no trouble codes."
+      ],
+      "odiNumbers": [
+        "758960",
+        "881392"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ECU Failure Causing Erratic Idle and Stalling",
+      "impact": "The failure of the ECU can cause the vehicle to stall or experience erratic idle, leading to a significant safety risk to the driver and others, especially when stopping in busy intersections.",
+      "symptoms": [
+        "Erratic idle",
+        "idle revving and dropping",
+        "idle hanging high above 2000 RPM",
+        "idle dropping with the car often stalling",
+        "stalling when the clutch is depressed for a stop."
+      ],
+      "odiNumbers": [
+        "721203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping or Failure",
+      "impact": "The transmission slipping or failure can cause the vehicle to lose power, hesitate, or stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission slips or hesitates when shifting gears",
+        "the vehicle loses power or acceleration",
+        "the vehicle stalls or dies",
+        "the transmission makes unusual noises or vibrations",
+        "the check engine light or transmission warning light illuminates."
+      ],
+      "odiNumbers": [
+        "708590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Seat Belt Failure",
+      "impact": "The failure of the rear seat belts can increase the risk of injury or death in the event of an accident, as the occupants may not be properly restrained.",
+      "symptoms": [
+        "The rear seat belts will not retract from their position",
+        "the rear seat belts are stuck",
+        "the rear seat belts need replacement."
+      ],
+      "odiNumbers": [
+        "973022"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

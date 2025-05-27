@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Module Failure Leading to Under Hood Fires",
+      "impact": "The failure of the ABS module can cause under hood fires, which can lead to vehicle damage, personal injury, and even property damage. This is an unsafe condition that warrants further investigation and action.",
+      "symptoms": [
+        "Smoke coming from under the hood",
+        "flames under the hood",
+        "burning smell in the vehicle cabin",
+        "speedometer not working correctly",
+        "ABS module connector and wiring burnt."
+      ],
+      "odiNumbers": [
+        "10243791",
+        "10243789",
+        "10243796",
+        "10243797",
+        "10243805",
+        "10243626",
+        "10243628",
+        "10243629",
+        "10243641",
+        "10243635",
+        "10243634",
+        "10243645",
+        "10243644",
+        "10243646",
+        "10243642",
+        "10075082"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Rust and Corrosion Leading to Idler Arm Failure",
+      "impact": "The corrosion of the frame where the idler arm is mounted can cause the idler arm to separate, leading to a loss of steering control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Abnormal tire movement",
+        "idler arm separation",
+        "signs of rust and corrosion on the frame",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "10400799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Idler Arm Failure Due to Frame Corrosion",
+      "impact": "The failure of the idler arm due to frame corrosion can cause a loss of steering control, making it difficult to maneuver the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "Abnormal tire movement",
+        "idler arm separation",
+        "signs of rust and corrosion on the frame",
+        "loss of steering control."
+      ],
+      "odiNumbers": [
+        "10400799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incompatible Airbag Module and Cover Design",
+      "impact": "The mismatch between the airbag module and cover design can lead to improper airbag deployment, potentially causing injuries or fatalities in the event of a crash.",
+      "symptoms": [
+        "The airbag module does not fit properly with the modified van's interior",
+        "the airbag cover does not fit securely",
+        "the airbag warning light is illuminated",
+        "the airbag system may not function properly in the event of a crash."
+      ],
+      "odiNumbers": [
+        "836522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lack of Manufacturer Support for Modified Vehicles",
+      "impact": "The manufacturer's refusal to support modified vehicles can leave owners without proper safety features, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The manufacturer refuses to modify or replace the airbag module to fit the modified vehicle",
+        "the owner is left with a potentially unsafe vehicle",
+        "the owner may be forced to seek third-party solutions at their own expense."
+      ],
+      "odiNumbers": [
+        "836522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

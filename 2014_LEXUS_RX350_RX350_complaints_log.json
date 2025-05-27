@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment can lead to increased risk of injury or fatality in the event of a crash, compromising the safety of occupants.",
+      "symptoms": [
+        "Airbags fail to deploy in the event of a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "11453349",
+        "11105027",
+        "10693820"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause loss of control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal fails to respond when depressed",
+        "causing the vehicle to fail to stop or slow down",
+        "leading to crashes or near-misses."
+      ],
+      "odiNumbers": [
+        "10621989",
+        "10607987"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, hesitate, or accelerate unexpectedly, leading to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The transmission loses power",
+        "the engine revs without movement",
+        "the vehicle hesitates to start",
+        "error codes appear",
+        "the vehicle makes loud noises",
+        "the transmission slips or skips gears",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "11450590",
+        "11298660",
+        "10644118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause accidents, injuries, or property damage, especially if the vehicle is traveling at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly",
+        "the vehicle surges forward",
+        "the vehicle takes off without warning",
+        "the vehicle accelerates despite the driver's efforts to brake."
+      ],
+      "odiNumbers": [
+        "10644118"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Electronic Control Module (ECM) Failure",
+      "impact": "Transmission ECM failure can cause the transmission to malfunction, leading to hesitation, slipping, or loss of power, which can increase the risk of accidents.",
+      "symptoms": [
+        "Error codes appear",
+        "the transmission hesitates to engage",
+        "the transmission slips or skips gears",
+        "the vehicle makes loud noises",
+        "the transmission loses power."
+      ],
+      "odiNumbers": [
+        "11298660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Actuator Failure",
+      "impact": "The failure of the brake actuator can cause unusual noises, such as squeaking or roaring sounds, which can be a sign of a more serious problem, potentially leading to brake failure and increasing the risk of accidents.",
+      "symptoms": [
+        "Abnormal squeaking or roaring sounds coming from the brake actuator",
+        "loud noise when pressing the brake pedal",
+        "no warning lights illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "11572911",
+        "11423499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Schrader Valve Failure",
+      "impact": "The failure of the Schrader valve can cause refrigerant leaks, leading to a loss of air conditioning performance, and potentially causing damage to other components.",
+      "symptoms": [
+        "Cracks in the Schrader valve",
+        "refrigerant leaks",
+        "air conditioning not blowing cold air."
+      ],
+      "odiNumbers": [
+        "11423499"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

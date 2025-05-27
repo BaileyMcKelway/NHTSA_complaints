@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ELECTRONIC STABILITY CONTROL (ESC)",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration (SUA) with Brake Failure",
+      "impact": "The sudden acceleration of the vehicle while pressing the brakes can lead to accidents, injuries, and fatalities, as well as damage to property.",
+      "symptoms": [
+        "The vehicle accelerates unexpectedly while pressing the brakes",
+        "fails to apply brakes",
+        "and may crash into objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "11537161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure with Erratic Stopping",
+      "impact": "The failure of the brakes to function properly can cause accidents, injuries, and fatalities, as well as damage to property.",
+      "symptoms": [
+        "The brakes barely stop the vehicle",
+        "creating an unsafe situation",
+        "and may require the vehicle to be towed to a repair shop."
+      ],
+      "odiNumbers": [
+        "11522298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Software-Related Brake Failure with Error Codes",
+      "impact": "The failure of the vehicle's software to function properly can cause the brakes to malfunction, leading to accidents, injuries, and fatalities, as well as damage to property.",
+      "symptoms": [
+        "The vehicle displays error codes",
+        "may not start",
+        "and may experience brake failure",
+        "requiring the vehicle to be towed to a repair shop."
+      ],
+      "odiNumbers": [
+        "11512884",
+        "11522298"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Stalling with Brake Failure and Error Messages",
+      "impact": "The stalling of the vehicle with brake failure can cause accidents, injuries, and fatalities, as well as damage to property.",
+      "symptoms": [
+        "The vehicle stalls",
+        "displays error messages",
+        "and may experience brake failure",
+        "requiring the vehicle to be towed to a repair shop."
+      ],
+      "odiNumbers": [
+        "11512884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Electronic Stability Control (ESC) and Service Brakes",
+      "impact": "The delay in recall repair for the ESC and Service Brakes can cause the vehicle to independently activate the brakes, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle independently activates the brakes",
+        "a red warning light with \"SOS\" is illuminated",
+        "the braking functionality is lost",
+        "and the ABS and ESC modules need to be reset."
+      ],
+      "odiNumbers": [
+        "11583468",
+        "11581183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Unavailability of Recall Parts for Electronic Stability Control (ESC) and Service Brakes",
+      "impact": "The unavailability of recall parts for the ESC and Service Brakes can cause a delay in the repair, leaving the vehicle in an unsafe condition and increasing the risk of accidents.",
+      "symptoms": [
+        "Notification of recall",
+        "but parts are not available",
+        "manufacturer is unable to confirm when parts will be available."
+      ],
+      "odiNumbers": [
+        "11583468",
+        "11581183"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inconsistent Brake Performance",
+      "impact": "The inconsistent brake performance can lead to increased stopping distances, accidents, and potentially life-threatening situations, especially when sudden stops are required.",
+      "symptoms": [
+        "The brake pedal requires excessive force to stop the vehicle",
+        "the brake pedal feels spongy or soft",
+        "the vehicle jerks or lunges when the brakes are applied",
+        "the ABS warning light illuminates",
+        "the vehicle's braking system reaction timing is not consistent."
+      ],
+      "odiNumbers": [
+        "11579918",
+        "11514650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunction of the Anti-lock Braking System (ABS) can cause the vehicle to jerk or lunge, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the vehicle jerks or lunges when the brakes are applied",
+        "the vehicle's braking system reaction timing is not consistent."
+      ],
+      "odiNumbers": [
+        "11514650"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

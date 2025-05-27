@@ -1,0 +1,160 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause inaccurate fuel level readings, leading to confusion and potentially leaving the driver stranded. In some cases, it can also trigger warning lights on the dashboard.",
+      "symptoms": [
+        "Fuel level indicator shows empty despite having fuel in the tank",
+        "flashing lights indicating a problem with the vehicle",
+        "false readings on the fuel gauge."
+      ],
+      "odiNumbers": [
+        "10585138",
+        "10560047",
+        "10552598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Housing Failure",
+      "impact": "The failure of the fuel pump housing can cause fuel leaks, which can lead to a fire hazard, explosion, or riders becoming fuel-soaked.",
+      "symptoms": [
+        "Fuel fumes",
+        "cracks in the fuel pump housing",
+        "fuel leaks",
+        "warning lights on the dashboard."
+      ],
+      "odiNumbers": [
+        "10490417",
+        "10532737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Line Quick-Disconnect Failure",
+      "impact": "The failure of the fuel line quick-disconnect can cause fuel leaks, which can lead to a fire hazard, explosion, or riders becoming fuel-soaked.",
+      "symptoms": [
+        "Cracks in the fuel line quick-disconnect flange",
+        "fuel leaks",
+        "smell of fuel."
+      ],
+      "odiNumbers": [
+        "10532737",
+        "10490417"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause complete brake failure, leading to severe injuries or death while operating the motorcycle.",
+      "symptoms": [
+        "Brake failure warning light indicated on the display panel",
+        "ABS pump unit failure",
+        "sudden loss of brake functionality."
+      ],
+      "odiNumbers": [
+        "10825853",
+        "10736105"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Rail Failure and Electrical Arcing",
+      "impact": "The dislodging of the front seat rail can cause electrical arcing, leading to a fire hazard, which can result in serious injury or damage to the vehicle.",
+      "symptoms": [
+        "Burning smell",
+        "embers or sparks dropping from the left side of the vehicle",
+        "heat on the inner thigh",
+        "melted seat and seat brackets",
+        "damaged wiring and battery."
+      ],
+      "odiNumbers": [
+        "10640696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS Pump Control Module Failure",
+      "impact": "The failure of the ABS pump control module can cause the anti-lock braking system to malfunction, leading to reduced vehicle control and increased risk of accidents.",
+      "symptoms": [
+        "ABS system failure",
+        "loss of braking functionality."
+      ],
+      "odiNumbers": [
+        "10584035"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Bearing Failure",
+      "impact": "The failure of the final drive bearings can cause the rear wheel to wobble, leading to a loss of control, accidents, and potentially fatal consequences. Additionally, the leakage of gear lube onto the rear tire and brake rotor can cause further safety hazards.",
+      "symptoms": [
+        "Gear lube leaking onto the rear tire and brake rotor",
+        "rear wheel wobbling",
+        "loss of control",
+        "catastrophic failure of the final drive assembly."
+      ],
+      "odiNumbers": [
+        "10480870",
+        "10239566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Final Drive Seal Failure",
+      "impact": "The failure of the final drive seals can cause gear lube to escape, leading to a loss of traction and control, and potentially causing accidents or fires.",
+      "symptoms": [
+        "Gear lube leaking onto the rear tire and brake rotor",
+        "rear wheel wobbling",
+        "loss of control",
+        "catastrophic failure of the final drive assembly."
+      ],
+      "odiNumbers": [
+        "10239566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Inadequate Final Drive Design",
+      "impact": "The poor design of the final drive assembly can lead to premature failure of the bearings and seals, causing safety hazards and costly repairs.",
+      "symptoms": [
+        "Frequent failures of the final drive assembly",
+        "particularly around 20",
+        "000 miles or higher",
+        "requiring expensive repairs."
+      ],
+      "odiNumbers": [
+        "10480870",
+        "10239566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

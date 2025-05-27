@@ -1,0 +1,51 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a sudden loss of braking ability, leading to accidents or near-misses, especially on mountain grades or at high speeds.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal travels to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "boiling fluid is visible",
+        "an unusual odor is present",
+        "and there is a complete loss of brakes."
+      ],
+      "odiNumbers": [
+        "975786",
+        "966326",
+        "960754",
+        "958603",
+        "511478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Idle Control Valve Failure",
+      "impact": "The failure of the idle control valve can cause the vehicle to stall or hesitate, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle stalls or hesitates",
+        "the engine RPM fluctuates",
+        "the vehicle will not slow down when the foot is removed from the accelerator pedal",
+        "the idle control valve fails prior to service recall."
+      ],
+      "odiNumbers": [
+        "960556"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Battery Drain and Failure",
+      "impact": "The intermittent battery drain and failure can cause the vehicle to become stranded, leaving the driver and passengers vulnerable to safety risks, especially in extreme weather conditions or when traveling with young children.",
+      "symptoms": [
+        "The battery dies unexpectedly",
+        "the vehicle won't start",
+        "the battery is weak and requires jump-starting",
+        "the battery drains rapidly even when the vehicle is turned off",
+        "and the vehicle's electrical systems malfunction."
+      ],
+      "odiNumbers": [
+        "11529016",
+        "11360000",
+        "11321848",
+        "11320766",
+        "11307365",
+        "11291109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Battery Charging and Maintenance",
+      "impact": "The inadequate battery charging and maintenance can lead to frequent battery failures, causing inconvenience, safety risks, and potential damage to the vehicle's electrical systems.",
+      "symptoms": [
+        "The battery is not fully charged",
+        "the vehicle requires frequent jump-starting",
+        "the battery is drained even when the vehicle is driven regularly",
+        "and the dealership recommends using a battery charger/maintainer to keep the battery charged."
+      ],
+      "odiNumbers": [
+        "11321848",
+        "11320766",
+        "11307365",
+        "11291109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Spontaneous Sunroof Shattering",
+      "impact": "The sudden and unexplained shattering of the sunroof can cause distraction, damage, and potentially lead to accidents, especially if the driver is startled or loses control of the vehicle.",
+      "symptoms": [
+        "Loud boom or gunshot-like noise",
+        "sunroof shattering without any apparent external cause",
+        "sudden loss of windshield integrity."
+      ],
+      "odiNumbers": [
+        "11525907",
+        "11341312"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Drain and Stranding",
+      "impact": "The sudden loss of battery power can strand the driver, leaving them without a functioning vehicle, and potentially putting them in a dangerous situation.",
+      "symptoms": [
+        "Battery loses all charge",
+        "vehicle becomes inoperable",
+        "repeated instances of battery drain."
+      ],
+      "odiNumbers": [
+        "11468020"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rearview Camera Failure",
+      "impact": "The failure of the rearview camera can create a significant safety hazard, especially when backing up, as the driver may not be able to see obstacles or pedestrians, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Rearview camera monitor is pitch black or grainy",
+        "especially at night or in low-light conditions",
+        "lack of visibility when using sideview camera",
+        "adjusting brightness/contrast settings does not resolve the issue."
+      ],
+      "odiNumbers": [
+        "11309694"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Forward Emergency Braking System (FEB)",
+      "impact": "The unintended activation of the FEB can cause the vehicle to suddenly stop, increasing the risk of rear-end collisions, accidents, or loss of control, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly stops without warning",
+        "often with a beeping or warning sound",
+        "even when there are no obstacles or vehicles in the path",
+        "and can occur at various speeds",
+        "including highway speeds."
+      ],
+      "odiNumbers": [
+        "11322880",
+        "11299027"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

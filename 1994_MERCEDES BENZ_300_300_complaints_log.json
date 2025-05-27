@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE",
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Harness Degradation and Wiring Failure",
+      "impact": "The degradation of the engine harness and wiring failure can cause the engine to stop running while driving, leading to a loss of control and increased risk of accidents. Additionally, it can also lead to a fire hazard if the wires short circuit and ignite.",
+      "symptoms": [
+        "Engine stops running while driving",
+        "wires touching each other",
+        "engine harness degradation",
+        "short circuits",
+        "gasoline flowing unburned into the cylinder",
+        "excessive fuel consumption",
+        "gas-laden oil filling the crankcase."
+      ],
+      "odiNumbers": [
+        "10453681",
+        "733503",
+        "479267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oxygen Sensor Failure",
+      "impact": "The failure of the oxygen sensor can cause the engine to run rich, leading to decreased fuel efficiency, increased emissions, and potentially causing damage to the catalytic converter.",
+      "symptoms": [
+        "Oxygen sensor failure",
+        "engine running rich",
+        "decreased fuel efficiency",
+        "increased emissions."
+      ],
+      "odiNumbers": [
+        "479267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Harness Insulation Failure",
+      "impact": "The cracking and peeling of insulation on the electrical harness can cause serious electrical damage throughout the system, leading to malfunction of computers, cruise control, brake, and other systems, as well as severe engine damage, which can endanger passengers in the event of failure while driving.",
+      "symptoms": [
+        "Cracking and peeling of insulation on the electrical harness",
+        "exposed or nearly exposed wires",
+        "malfunction of electrical systems such as computers",
+        "cruise control",
+        "brake",
+        "and other systems."
+      ],
+      "odiNumbers": [
+        "10009343",
+        "762213"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Lock Failure",
+      "impact": "The failure of power locks can cause inconvenience and potentially lead to safety issues if the doors are not properly secured.",
+      "symptoms": [
+        "Power locks do not function",
+        "doors do not lock or unlock properly."
+      ],
+      "odiNumbers": [
+        "479267"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Axle Failure",
+      "impact": "The failure of the rear axle can cause loss of vehicle control, leading to accidents, and can also result in costly repairs.",
+      "symptoms": [
+        "The vehicle vibrates or shakes while driving",
+        "especially at high speeds",
+        "the rear axle makes loud noises",
+        "the vehicle pulls to one side while driving",
+        "the rear axle leaks oil or fluid",
+        "the vehicle has difficulty accelerating or maintaining speed."
+      ],
+      "odiNumbers": [
+        "481096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "the engine is difficult to start or will not start",
+        "the vehicle experiences a loss of power or hesitation",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump relay or fuse blows repeatedly."
+      ],
+      "odiNumbers": [
+        "481096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Accelerator Pedal Excessive Effort",
+      "impact": "The excessive effort required to press the accelerator pedal can cause driver fatigue, discomfort, and pain in the right leg, potentially leading to accidents or loss of control due to distraction or physical discomfort.",
+      "symptoms": [
+        "The accelerator pedal is too hard to press",
+        "requires excessive force",
+        "causes fatigue or pain in the right leg",
+        "makes it difficult to maintain a steady speed",
+        "or leads to involuntary acceleration."
+      ],
+      "odiNumbers": [
+        "481096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 44,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the vehicle to stall or catch fire, leading to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the ignition switch catches fire",
+        "smoke comes from the steering column",
+        "the ignition wiring is burnt",
+        "difficulty inserting the key into the ignition",
+        "difficulty turning the key."
+      ],
+      "odiNumbers": [
+        "10029264",
+        "523943",
+        "801119",
+        "984619",
+        "506938",
+        "505907",
+        "505081",
+        "504506",
+        "983824",
+        "983167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to stall or catch fire, leading to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The \"amp\" light shows red on the dash panel",
+        "smoke comes from under the hood",
+        "the alternator bursts into flames."
+      ],
+      "odiNumbers": [
+        "732689"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, as the vehicle may suddenly accelerate without the driver's input, making it difficult to stop or maneuver.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "the throttle sticks",
+        "the vehicle picks up speed without driver input",
+        "the braking system is unable to override the throttle",
+        "the engine RPM races on its own",
+        "the accelerator pedal becomes stuck."
+      ],
+      "odiNumbers": [
+        "856403",
+        "850675",
+        "530854",
+        "804494",
+        "976064",
+        "483296",
+        "474528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seat Belt Failure",
+      "impact": "The failure of the driver's side seat belt can lead to inadequate restraint in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle does not lock",
+        "the seat belt does not latch",
+        "the seat belt fails to hold the driver in place during an accident",
+        "the seat belt retractor fails."
+      ],
+      "odiNumbers": [
+        "10022132",
+        "977162",
+        "971058",
+        "966972",
+        "959061"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

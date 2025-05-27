@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy during a collision",
+        "resulting in occupants hitting their heads on the steering wheel or other interior components",
+        "leading to injuries such as concussions."
+      ],
+      "odiNumbers": [
+        "10000070",
+        "551909"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Catalytic Converter",
+      "impact": "A faulty catalytic converter can cause overheating of the engine, transmission, and radiator, leading to premature wear and damage to these components, resulting in costly repairs and potentially causing accidents due to loss of vehicle control.",
+      "symptoms": [
+        "Rattling noise from the engine",
+        "overheating of the engine",
+        "transmission",
+        "and radiator",
+        "damage to the radiator",
+        "water pump",
+        "valves",
+        "piston rings",
+        "and seals",
+        "transmission problems",
+        "and brake issues."
+      ],
+      "odiNumbers": [
+        "10420863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Warped Rotors",
+      "impact": "Warped rotors can cause vibrations, uneven brake wear, and reduced braking performance, increasing the risk of accidents.",
+      "symptoms": [
+        "Vibrations when braking",
+        "uneven brake wear",
+        "reduced braking performance",
+        "and frequent rotor replacements."
+      ],
+      "odiNumbers": [
+        "10420863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Brake System Issues",
+      "impact": "Faulty brake components can lead to reduced braking performance, increasing the risk of accidents.",
+      "symptoms": [
+        "Frequent brake pad replacements",
+        "rotor replacements",
+        "and brake cylinder failures",
+        "uneven brake wear",
+        "and vibrations when braking."
+      ],
+      "odiNumbers": [
+        "10420863"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

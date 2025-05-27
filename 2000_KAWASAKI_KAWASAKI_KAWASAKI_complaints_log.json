@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Oil Leak into Electrical System",
+      "impact": "The oil leak into the electrical system can cause a fire hazard, potentially leading to serious accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Oil is leaking from the generator/stator cover and following the wiring harness up to the voltage rectifier",
+        "mixing with electrical components",
+        "and causing electrical failures."
+      ],
+      "odiNumbers": [
+        "765236",
+        "873944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Leak and Electrical Connector Failure",
+      "impact": "The migration of engine oil into the voltage regulator connectors can cause them to fuse together, leading to electrical shorts, smoke, and potential fires, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine oil leaking from the stator housing",
+        "voltage regulator connectors fused together",
+        "smoke emitting from the compartment housing the connectors",
+        "burning smell or odor."
+      ],
+      "odiNumbers": [
+        "764625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Return Pump Canister Failure and Fire",
+      "impact": "The failure of the return pump canister can cause it to rupture, leading to fires, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Return pump canister blows up",
+        "catches fire",
+        "smoke and flames emanating from the engine compartment",
+        "burning smell or odor."
+      ],
+      "odiNumbers": [
+        "752844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "An inaccurate fuel gauge can cause the motorcycle to run out of fuel unexpectedly, leading to a loss of power and potentially causing accidents or leaving the rider stranded.",
+      "symptoms": [
+        "The fuel gauge reads incorrectly",
+        "the motorcycle runs out of fuel despite the gauge indicating there is still fuel",
+        "the gauge is inconsistent or unreliable."
+      ],
+      "odiNumbers": [
+        "8014072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Exclusion from Recall due to VIN",
+      "impact": "The exclusion of certain vehicles from a recall due to their VIN can lead to owners being unaware of potential safety issues and not receiving necessary repairs, potentially causing accidents or other safety risks.",
+      "symptoms": [
+        "The vehicle is not included in a recall despite having a known issue",
+        "the owner is not notified of the recall",
+        "the owner is not able to receive repairs or corrections for the issue."
+      ],
+      "odiNumbers": [
+        "8014072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

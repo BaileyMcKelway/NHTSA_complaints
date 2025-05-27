@@ -1,0 +1,108 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure due to Grounding Issues",
+      "impact": "The failure of the electrical system can cause the engine to stall, lights to fail, and the motorcycle to become inoperable, leading to a significant safety risk, especially at night or in heavy traffic.",
+      "symptoms": [
+        "Headlights or taillights suddenly fail",
+        "engine stalls",
+        "instrument panel lights come on",
+        "fuel level LCD starts flashing",
+        "electrical systems malfunction",
+        "and the motorcycle becomes inoperable."
+      ],
+      "odiNumbers": [
+        "10413801",
+        "10400057",
+        "10395144",
+        "10383890",
+        "10373304",
+        "10365611",
+        "10362226",
+        "10360312",
+        "10349031",
+        "10347411",
+        "10298043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Cap Assembly Defect",
+      "impact": "The defective fuel tank cap assembly can cause water to leak into the vent pipe, potentially leading to rust and contamination of the fuel tank, which can cause the engine to stop suddenly, resulting in a crash and potentially causing injury or death.",
+      "symptoms": [
+        "Gurgling sound coming from the fuel tank cap area",
+        "water leakage into the vent pipe",
+        "rusting of the vent pipe."
+      ],
+      "odiNumbers": [
+        "10455852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Altitude-Related Engine Performance Issues",
+      "impact": "The engine performance issues can cause the motorcycle to hesitate, sputter, and not accelerate properly, which can lead to accidents or loss of control, especially when riding at high altitudes or in extreme temperatures.",
+      "symptoms": [
+        "Engine hesitation",
+        "sputtering",
+        "lack of acceleration",
+        "especially when changing altitude or outside temperature",
+        "typically above 85°F."
+      ],
+      "odiNumbers": [
+        "10284592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Hydraulic System Failure (Yamaha FJR 1300 AE)",
+      "impact": "The failure of the clutch hydraulic system can cause the clutch to stick or become unresponsive, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear",
+        "the engine shuts off when attempting to shift into gear",
+        "the clutch becomes less sticky as the bike warms up."
+      ],
+      "odiNumbers": [
+        "10332531",
+        "10264470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Lock-Up (Yamaha FJR 1300 AE)",
+      "impact": "The transmission lock-up can cause the transmission to become stuck in a specific gear, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission becomes locked in a specific gear",
+        "the transmission will not up or downshift with either the hand or foot shifter",
+        "the transmission resumes normal function after restarting the engine."
+      ],
+      "odiNumbers": [
+        "10332531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

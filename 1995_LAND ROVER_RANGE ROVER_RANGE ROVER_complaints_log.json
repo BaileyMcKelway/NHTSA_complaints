@@ -1,0 +1,133 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VISIBILITY",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of control, making it difficult or impossible to steer the vehicle, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "Sudden loss of steering",
+        "steering wheel becomes disconnected",
+        "screeching noise from the steering column when turning",
+        "vehicle becomes difficult or impossible to steer."
+      ],
+      "odiNumbers": [
+        "756983",
+        "712927",
+        "964649",
+        "500852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "CV Joint Failure",
+      "impact": "The failure of the CV joint can cause loss of steering, making it difficult or impossible to control the vehicle, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "Sudden loss of steering",
+        "steering becomes impossible",
+        "failure of the CV joint due to faulty design of oil seals."
+      ],
+      "odiNumbers": [
+        "712927",
+        "712927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alarm System Failure",
+      "impact": "The failure of the alarm system can cause a distraction or disruption to the driver, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "Alarm system fails to function properly."
+      ],
+      "odiNumbers": [
+        "601526"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Door Latch/Window Assembly Failure",
+      "impact": "The failure of the door latch/window assembly can cause the doors to become stuck, making it difficult or impossible for occupants to exit the vehicle, which can lead to safety risks in emergency situations.",
+      "symptoms": [
+        "The doors become stuck",
+        "unable to open or close",
+        "unable to exit the vehicle."
+      ],
+      "odiNumbers": [
+        "742439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sunroof Issues",
+      "impact": "The sunroof issues can cause distractions while driving, obstruct the driver's view, and potentially lead to accidents.",
+      "symptoms": [
+        "The sunroof fogs up",
+        "the sunroof rattles."
+      ],
+      "odiNumbers": [
+        "601526",
+        "486085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Load Door Window Failure",
+      "impact": "The failure of the rear load door window can cause shattering of the glass, which can lead to injuries and safety risks.",
+      "symptoms": [
+        "The rear load door window shatters upon closing the door."
+      ],
+      "odiNumbers": [
+        "973524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of an accident can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in the event of an accident",
+        "despite the severity of the crash warranting deployment."
+      ],
+      "odiNumbers": [
+        "10121730",
+        "873909",
+        "481566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Illegal Sale of Vehicles without Airbags",
+      "impact": "The sale of vehicles without airbags is illegal and can put the lives of drivers and passengers at risk, as they are not equipped with a critical safety feature.",
+      "symptoms": [
+        "Vehicle does not have airbags installed",
+        "despite being required by law."
+      ],
+      "odiNumbers": [
+        "10121730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

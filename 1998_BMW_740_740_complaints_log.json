@@ -1,0 +1,97 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "EQUIPMENT",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Remote Key Security System Malfunction",
+      "impact": "The malfunction of the remote key security system can cause the vehicle to lock the driver inside, shutting down all power and leaving them stranded, potentially in a life-threatening situation, especially in remote areas.",
+      "symptoms": [
+        "The vehicle locks the driver inside",
+        "shutting down all power",
+        "the remote key activates the security mode",
+        "the door closes with the key stuck between the door and door frame",
+        "the driver is unable to exit the vehicle."
+      ],
+      "odiNumbers": [
+        "824270",
+        "824169",
+        "606344"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "The failure of the power steering system can cause the steering to lock up, making it difficult or impossible to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the steering locks up",
+        "the steering wheel spins freely in a complete circle",
+        "the check engine light comes on",
+        "the vehicle is difficult to maneuver or control."
+      ],
+      "odiNumbers": [
+        "10135163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Jack Failure",
+      "impact": "The sudden collapse of the jack can cause injury to the person using it, as well as damage to the vehicle.",
+      "symptoms": [
+        "The jack suddenly collapses while the vehicle is raised",
+        "the jack fails to hold the weight of the vehicle",
+        "the jack is unstable or wobbly."
+      ],
+      "odiNumbers": [
+        "10006783"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbag to Deploy in Frontal Collision",
+      "impact": "The failure of the airbag to deploy in a frontal collision can increase the risk of serious injury or fatality to the occupants, particularly the driver.",
+      "symptoms": [
+        "Airbag does not deploy in a frontal collision",
+        "even at moderate speeds (e.g.",
+        "40mph)",
+        "resulting in minor or potentially severe injuries to the occupants."
+      ],
+      "odiNumbers": [
+        "8023915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Engine Stalling",
+      "impact": "The engine stalling without warning can cause a loss of power, leading to a loss of control, and potentially resulting in accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine dies or stalls without warning",
+        "the vehicle loses power",
+        "the engine shuts off while driving",
+        "the vehicle is unable to maintain speed."
+      ],
+      "odiNumbers": [
+        "846451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

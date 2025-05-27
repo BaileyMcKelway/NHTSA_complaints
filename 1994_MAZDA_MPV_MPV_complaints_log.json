@@ -1,0 +1,148 @@
+{
+  "totalComplaints": 42,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a collision can lead to serious injuries or fatalities, as it compromises the safety of the vehicle occupants.",
+      "symptoms": [
+        "The airbag does not deploy in a frontal collision",
+        "despite meeting the deployment criteria; the vehicle sustains extensive damage",
+        "but the airbag does not deploy; the seatbelts do not retract",
+        "and the airbag does not deploy."
+      ],
+      "odiNumbers": [
+        "10041257",
+        "10008694",
+        "8020486",
+        "839454",
+        "830607",
+        "812655",
+        "806693",
+        "972607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of the airbag can cause injuries to the vehicle occupants, especially if it occurs during normal driving conditions.",
+      "symptoms": [
+        "The airbag deploys unexpectedly",
+        "causing injuries to the driver or passengers; the airbag deploys at a low speed",
+        "such as when running over a small bump."
+      ],
+      "odiNumbers": [
+        "812655",
+        "962939"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Lifter and Rocker Arm Failure",
+      "impact": "The failure of lifters and rocker arms can cause engine noise, knocking, and clacking sounds, which can lead to engine damage, carbon buildup, and potentially cause the engine to need replacement.",
+      "symptoms": [
+        "Loud clacking or knocking noise",
+        "especially during engine startup",
+        "engine noise that subsides after warming up",
+        "clicking or tapping sounds from the upper valve train",
+        "carbon buildup in the engine."
+      ],
+      "odiNumbers": [
+        "738807",
+        "719470",
+        "714497",
+        "843091",
+        "705505",
+        "529149",
+        "527259",
+        "514816",
+        "546620"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hydraulic Lash Adjuster Failure",
+      "impact": "The failure of hydraulic lash adjusters can restrict oil flow, leading to engine noise, knocking, and clacking sounds, which can cause engine damage and potentially lead to engine replacement.",
+      "symptoms": [
+        "Engine noise",
+        "knocking",
+        "and clacking sounds",
+        "restricted oil flow",
+        "improper oil pressure."
+      ],
+      "odiNumbers": [
+        "529149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cylinder Head and Piston Failure",
+      "impact": "Cracks in the cylinder head and inoperative pistons can cause engine failure, leading to costly repairs and potentially causing accidents.",
+      "symptoms": [
+        "Engine failure",
+        "cracks in the cylinder head",
+        "inoperative pistons."
+      ],
+      "odiNumbers": [
+        "976793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause loss of control, accidents, and potentially serious injury or death.",
+      "symptoms": [
+        "Loud grinding noise from the brakes",
+        "trouble stopping the vehicle",
+        "loss of power brakes",
+        "brake pedal goes to the floor",
+        "noisy brakes",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "761621",
+        "807068",
+        "802144",
+        "973052",
+        "482438",
+        "477915",
+        "477948",
+        "477941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause unexpected breakdowns, leaving the driver stranded, and potentially leading to accidents.",
+      "symptoms": [
+        "Transmission failure",
+        "sudden loss of power",
+        "unexpected breakdowns."
+      ],
+      "odiNumbers": [
+        "761621"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Occupant Detection System (PODS) Failure",
+      "impact": "The failure of the PODS system can cause the passenger airbag to be disabled, even when a passenger is present, which can lead to serious injury or death in the event of an accident.",
+      "symptoms": [
+        "The passenger airbag is disabled",
+        "the seatbelt sensor is triggered when no one is in the seat",
+        "the \"Air bag Off\" or \"Malfunction",
+        "air bag off\" warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11482940",
+        "11468469",
+        "11463014",
+        "11456945",
+        "11447456",
+        "11443609",
+        "11440739",
+        "11438112",
+        "11430083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Fuel Pump Failure",
+      "impact": "The delayed repair of the fuel pump failure can cause the vehicle to stall or lose power, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls or loses power",
+        "the fuel pump fails",
+        "the vehicle experiences difficulty starting",
+        "the vehicle has a rough idle",
+        "the vehicle has a decrease in fuel efficiency."
+      ],
+      "odiNumbers": [
+        "11490844"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Dry Rot and TPMS Design Flaw",
+      "impact": "The combination of tire dry rot and a flawed Tire Pressure Monitoring System (TPMS) design can lead to a sudden loss of tire pressure, increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "Tires appear dry rotted",
+        "tire pressure drops suddenly",
+        "TPMS fails to alert the driver of low tire pressure",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "11469701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Vehicle Maintenance and Service",
+      "impact": "Delays in scheduled maintenance and service can lead to neglected safety issues, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Delayed or canceled maintenance appointments",
+        "lack of available parts for recall repairs",
+        "inadequate communication from the dealership."
+      ],
+      "odiNumbers": [
+        "11469701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Inadequate Warranty Coverage",
+      "impact": "Insufficient warranty coverage can leave vehicle owners with unexpected repair costs, leading to financial burdens and potential safety risks.",
+      "symptoms": [
+        "Certain repairs or maintenance not covered under warranty",
+        "unexpected costs for necessary repairs."
+      ],
+      "odiNumbers": [
+        "11469701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

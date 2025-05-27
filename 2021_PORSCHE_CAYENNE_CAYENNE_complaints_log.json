@@ -1,0 +1,123 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Software Issue",
+      "impact": "The transmission software issue can cause the vehicle to lurch forward, potentially leading to loss of control or accidents, especially when downshifting from 3rd to 2nd gear in Normal Mode and 2nd to 1st gear in Sport Mode.",
+      "symptoms": [
+        "The tachometer increases several hundred RPM as the computer tries to match revs during downshifting",
+        "causing the vehicle to lurch forward; the engine over-revves while disengaged from a gear on shifts from 3rd to 2nd and 2nd to 1st."
+      ],
+      "odiNumbers": [
+        "11479124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Check Engine Light (CEL) and Software Communication Issue",
+      "impact": "The CEL issue can cause the vehicle to malfunction, potentially leading to safety risks, and the software communication issue can lead to difficulties in diagnosing and repairing the problem.",
+      "symptoms": [
+        "The check engine light comes on intermittently",
+        "often at low mileage (<1000 miles); the dealer is unable to reproduce the issue",
+        "making it difficult to diagnose and repair."
+      ],
+      "odiNumbers": [
+        "11433317",
+        "11433048"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hybrid System Software Fault",
+      "impact": "The software fault can cause the vehicle to unexpectedly switch from battery power mode to engine power mode, leading to sudden and unexpected acceleration, which can cause accidents or loss of control.",
+      "symptoms": [
+        "The vehicle suddenly switches from battery power mode to engine power mode",
+        "the vehicle accelerates unexpectedly",
+        "warning lights for \"engine control system\" and \"e power not available\" appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11531025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Immobilizer System Failure",
+      "impact": "The failure of the immobilizer system can cause the vehicle to become inoperable, leaving the driver stranded, and potentially causing safety risks if the vehicle is stuck in a hazardous location.",
+      "symptoms": [
+        "The vehicle will not start",
+        "error message \"change driver\" appears on the dashboard",
+        "no starter noise indicating a weak battery",
+        "unable to move the vehicle even when stopped on a roadside."
+      ],
+      "odiNumbers": [
+        "11543394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Lurching or Jerking during Deceleration",
+      "impact": "The sudden and unexpected lurching or jerking of the vehicle during deceleration can cause loss of traction, increase the risk of accidents, and potentially lead to motion sickness for passengers.",
+      "symptoms": [
+        "The vehicle lurches or jerks forward when decelerating",
+        "especially when braking to a stop",
+        "feeling as if the brakes are being tapped hard; the vehicle slows down rapidly and then releases",
+        "causing a lurching motion; the transmission appears to be in gear 2 when this occurs."
+      ],
+      "odiNumbers": [
+        "11453559",
+        "11433244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Error",
+      "impact": "The failure of the airbag system can increase the risk of injury or death in the event of an accident, as the airbag may not deploy properly or at all.",
+      "symptoms": [
+        "The dashboard displays an error message \"Airbag system error",
+        "please visit workshop\"",
+        "the driver's airbag is not functioning",
+        "the airbag warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11488919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause loss of vehicle control, increasing the risk of accidents and potentially leading to serious injuries or fatalities.",
+      "symptoms": [
+        "The steering wheel feels loose",
+        "the steering wheel makes abnormal sounds",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "11453894"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

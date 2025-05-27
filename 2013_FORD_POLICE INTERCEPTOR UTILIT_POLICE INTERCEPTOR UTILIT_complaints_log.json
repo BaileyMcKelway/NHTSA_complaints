@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Catalytic Converter Failure",
+      "impact": "The premature failure of the catalytic converter can cause the vehicle to fail emissions tests, reduce engine performance, and increase the risk of further engine damage. In addition, the failure can lead to costly repairs and potential environmental harm.",
+      "symptoms": [
+        "The check engine light is illuminated",
+        "the vehicle fails emissions tests",
+        "the engine performance is reduced",
+        "and the vehicle may experience decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "11187010",
+        "11187025",
+        "11187020",
+        "11187031",
+        "11187032",
+        "11187028"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Power Steering (EPS) Failure",
+      "impact": "The failure of the electronic power steering system can cause a sudden loss of steering control, making it difficult or impossible to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle loses all steering control while driving",
+        "the steering becomes very difficult to turn",
+        "the power steering fails while driving or backing up",
+        "the steering gear locks up",
+        "unusual noises are heard from the steering system."
+      ],
+      "odiNumbers": [
+        "11191071",
+        "11164563",
+        "10992754",
+        "10955277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Brake Hydraulic Hose Failure",
+      "impact": "The failure of the front brake hydraulic hose can cause the brake pedal to travel to the floorboard, resulting in a loss of braking ability, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The brake pedal travels to the floorboard",
+        "the brake pedal feels soft or spongy",
+        "the vehicle fails to stop when the brake pedal is depressed",
+        "the brake warning indicator illuminates."
+      ],
+      "odiNumbers": [
+        "11030460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

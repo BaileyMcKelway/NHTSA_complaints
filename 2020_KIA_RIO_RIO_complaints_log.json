@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Performance Degradation",
+      "impact": "The degradation of brake performance can increase the stopping distance, leading to accidents or near-miss incidents, and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal requires increased pressure to stop the vehicle",
+        "brake performance worsens over time",
+        "and the vehicle takes longer to come to a stop."
+      ],
+      "odiNumbers": [
+        "11543523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to drift or pull to one side, making it difficult to control, and increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The vehicle drifts or pulls to one side",
+        "the steering feels loose or unstable",
+        "and the vehicle is difficult to keep in its lane."
+      ],
+      "odiNumbers": [
+        "11521447",
+        "11417988"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Light Illumination with Overheating and Hesitation Issues",
+      "impact": "The engine light illumination, accompanied by overheating and hesitation issues, can lead to engine damage, stalling, or loss of power, which can cause accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine light comes on",
+        "the vehicle overheats",
+        "the vehicle hesitates or stalls",
+        "the air conditioning system is affected",
+        "the backup camera malfunctions."
+      ],
+      "odiNumbers": [
+        "11545350"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Cylinder Failure Requiring Replacement",
+      "impact": "The failure of an engine cylinder can cause engine damage, stalling, or loss of power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The engine cylinder fails",
+        "the engine requires replacement",
+        "the vehicle experiences loss of power or stalling."
+      ],
+      "odiNumbers": [
+        "11533629"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure (Potential Fire Hazard)",
+      "impact": "An electrical system failure can cause a fire, potentially leading to vehicle damage, injury, or even death.",
+      "symptoms": [
+        "Melted gear shaft",
+        "no visible signs of fire",
+        "but an electrical failure is suspected."
+      ],
+      "odiNumbers": [
+        "11464361"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Acceleration and Stalling",
+      "impact": "The vehicle's sudden acceleration and stalling can cause accidents, loss of control, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The vehicle idles and stalls for a few seconds before accelerating",
+        "the vehicle accelerates inadvertently",
+        "the vehicle crashes into another vehicle."
+      ],
+      "odiNumbers": [
+        "11425950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

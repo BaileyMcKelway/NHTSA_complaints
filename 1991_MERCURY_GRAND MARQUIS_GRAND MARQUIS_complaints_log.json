@@ -1,0 +1,283 @@
+{
+  "totalComplaints": 90,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause a fire, leading to vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "Smoke coming from the engine compartment",
+        "flames erupting from the alternator",
+        "burning smell",
+        "electrical shorts",
+        "wires melting",
+        "vehicle stalling",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "10060038",
+        "10034051",
+        "895593",
+        "873465",
+        "730341",
+        "850479",
+        "831165",
+        "821420",
+        "807704",
+        "807705",
+        "513418",
+        "805931",
+        "801276",
+        "971111"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of issues, including fires, loss of power, and malfunctioning of essential systems, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Electrical shorts",
+        "wires burning",
+        "smoke coming from the engine compartment",
+        "loss of power",
+        "malfunctioning of windshield wipers",
+        "turn signals",
+        "indicator lights",
+        "and power door locks."
+      ],
+      "odiNumbers": [
+        "970494",
+        "969828",
+        "959306"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Starter Solenoid Relay Failure",
+      "impact": "The failure of the starter solenoid relay can cause the starter to malfunction, leading to difficulty starting the vehicle or accidents.",
+      "symptoms": [
+        "The starter would not disengage from the flywheel when starting the vehicle",
+        "making a loud metal grinding sound",
+        "and the clutch pedal feeling soft or spongy."
+      ],
+      "odiNumbers": [
+        "11112648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration and Unintended Vehicle Movement",
+      "impact": "Sudden acceleration and unintended vehicle movement can cause accidents, injuries, and property damage, posing a significant risk to the driver, passengers, and others on the road.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without input from the driver",
+        "the vehicle moves in an unintended direction",
+        "the accelerator pedal becomes stuck",
+        "the vehicle surges forward or backward",
+        "the brakes fail to respond",
+        "and the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "862764",
+        "849101",
+        "848911",
+        "544669",
+        "534669",
+        "823197",
+        "534856",
+        "532665",
+        "529038",
+        "812785",
+        "984189",
+        "984092"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Accelerator Cable Failure",
+      "impact": "Failure of the accelerator cable can cause sudden acceleration, loss of control, and accidents, leading to injuries and property damage.",
+      "symptoms": [
+        "The accelerator pedal becomes stuck",
+        "the vehicle accelerates suddenly without input from the driver",
+        "the accelerator cable jams",
+        "and the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "534669",
+        "532665"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Brake System Failure",
+      "impact": "Failure of the transmission and brake system can cause the vehicle to move unexpectedly, leading to accidents, injuries, and property damage.",
+      "symptoms": [
+        "The vehicle moves in an unintended direction",
+        "the brakes fail to respond",
+        "the vehicle surges forward or backward",
+        "and the transmission slips into gear without input from the driver."
+      ],
+      "odiNumbers": [
+        "812785",
+        "984189"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause physical harm, including burns, injuries, and distractions, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "Airbag deploys without warning",
+        "airbag deploys without impact",
+        "airbag light illuminates",
+        "driver or passenger sustains injuries from airbag deployment."
+      ],
+      "odiNumbers": [
+        "899555",
+        "805302",
+        "485751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of the airbag to deploy in the event of an accident can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "Airbag does not deploy during accident",
+        "airbag light illuminates",
+        "no deployment of airbag upon impact."
+      ],
+      "odiNumbers": [
+        "544669",
+        "513909",
+        "504989",
+        "971968",
+        "485751"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Malfunction of the airbag system can cause the airbag light to illuminate, indicating a potential problem with the system, which can lead to unintended airbag deployment or failure to deploy in the event of an accident.",
+      "symptoms": [
+        "Airbag light illuminates",
+        "airbag light comes on and goes out",
+        "airbag system malfunction",
+        "inability to repair airbag system due to parts availability."
+      ],
+      "odiNumbers": [
+        "548313",
+        "513909",
+        "976331",
+        "971968",
+        "480186"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause extended stopping distances, jerking, or loss of control, which can lead to accidents.",
+      "symptoms": [
+        "Brake pedal feels stiff",
+        "brake pedal does not grab well",
+        "vehicle jerks to one side when applying brakes",
+        "excessive brake wear",
+        "warped rotors",
+        "brake pads rubbing against brake rotors",
+        "brake pedal stays depressed",
+        "ABS brakes lock up."
+      ],
+      "odiNumbers": [
+        "10070780",
+        "812983",
+        "812301",
+        "804220",
+        "983284",
+        "977585",
+        "967787"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Bag System Failure",
+      "impact": "The failure of the air bag system can cause the air bag light to blink, indicating a potential failure to deploy in the event of an accident, which can lead to serious injury or fatality.",
+      "symptoms": [
+        "Air bag light blinks",
+        "air bag system was disconnected by previous owner."
+      ],
+      "odiNumbers": [
+        "10070780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Window Failure",
+      "impact": "The failure of the power window system can cause inconvenience and discomfort for the driver and passengers.",
+      "symptoms": [
+        "Power window on the passenger side does not go down."
+      ],
+      "odiNumbers": [
+        "10070780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "The failure of the engine performance can cause the vehicle to buck violently, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "Vehicle bucks violently between 45-65 mph."
+      ],
+      "odiNumbers": [
+        "705507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause inconvenience and discomfort for the driver and passengers, as well as potential safety risks.",
+      "symptoms": [
+        "Battery keeps killing",
+        "wires burned causing black smoke to fill up the vehicle."
+      ],
+      "odiNumbers": [
+        "10070780",
+        "804220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

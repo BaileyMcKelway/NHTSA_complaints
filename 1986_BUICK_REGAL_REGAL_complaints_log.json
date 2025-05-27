@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Sudden Acceleration",
+      "impact": "Unintended sudden acceleration can lead to loss of vehicle control, accidents, and injuries, as the vehicle may accelerate rapidly without the driver's intention or input.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "often without the driver's input",
+        "the vehicle takes off rapidly",
+        "the vehicle accelerates wide open",
+        "the vehicle is difficult to stop",
+        "the driver must stand on the brakes to stop the vehicle",
+        "the vehicle may crash into objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "725181",
+        "807412",
+        "801543",
+        "958203"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Hardness and Failure",
+      "impact": "The hardness of the brake pedal can cause difficulty in stopping the vehicle, increasing the risk of accidents and injuries. In extreme cases, the pedal can go to the floor, resulting in a complete loss of braking ability.",
+      "symptoms": [
+        "The brake pedal is very hard to press",
+        "the brake pedal goes straight to the floorboard",
+        "difficulty stopping the vehicle",
+        "loss of control",
+        "accidents",
+        "and injuries."
+      ],
+      "odiNumbers": [
+        "844427",
+        "478769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corrosion and Freezing of Brake Caliper Pins and Rotors",
+      "impact": "The corrosion and freezing of brake caliper pins and rotors can cause the brakes to fail, leading to accidents and injuries.",
+      "symptoms": [
+        "Brake caliper pins and rotors are frozen and rusted",
+        "difficulty stopping the vehicle",
+        "loss of control",
+        "accidents",
+        "and injuries."
+      ],
+      "odiNumbers": [
+        "968971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Corrosion-Related Front Cradle/Subframe Failure",
+      "impact": "Corrosion-related failure of the front cradle or subframe can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Unusual noises or vibrations from the front of the vehicle",
+        "difficulty steering",
+        "uneven tire wear",
+        "and potentially a sudden loss of control or collapse of the front suspension."
+      ],
+      "odiNumbers": [
+        "8005473",
+        "961302"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, pose a risk to the driver and passengers, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Engine bursts into flames while driving",
+        "engine catches on fire",
+        "smoke or flames visible from the engine compartment."
+      ],
+      "odiNumbers": [
+        "827621",
+        "514592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Failure and Replacement Issues",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. Repeated engine replacements can indicate a systemic problem with the engine design or manufacturing process.",
+      "symptoms": [
+        "Engine failure",
+        "engine replacement",
+        "engine catching on fire after replacement."
+      ],
+      "odiNumbers": [
+        "514592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

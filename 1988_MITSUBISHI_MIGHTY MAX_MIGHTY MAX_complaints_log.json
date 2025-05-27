@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Seat Belt Mechanism Failure",
+      "impact": "The failure of the front seat belt mechanism can prevent the seat belt from functioning properly, increasing the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belt tongue seizes in place",
+        "the seat belt release button breaks",
+        "the seat belt buckle fails to latch",
+        "the seat belt clip pops back out of the buckle",
+        "the seat belt mechanism fails to function."
+      ],
+      "odiNumbers": [
+        "11082058",
+        "508710",
+        "801200",
+        "965128",
+        "961650",
+        "960588",
+        "960309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure due to Bubbles in the Tread/Belts",
+      "impact": "The failure of all four tires can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Tire failure",
+        "bubbles or blisters on the tire tread or sidewall",
+        "tire blowouts",
+        "loss of air pressure",
+        "unusual tire noise or vibration."
+      ],
+      "odiNumbers": [
+        "526616"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "The failure of the head gasket can cause antifreeze to leak, leading to engine overheating, damage to the engine and surrounding components, and potentially resulting in a breakdown or accident.",
+      "symptoms": [
+        "Antifreeze leaks from the engine",
+        "coolant level drops",
+        "engine temperature rises",
+        "engine misfires or runs rough",
+        "white smoke or steam comes from the exhaust pipe."
+      ],
+      "odiNumbers": [
+        "506510"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

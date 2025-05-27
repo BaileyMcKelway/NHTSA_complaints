@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "EQUIPMENT"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Electrical Short/Fire",
+      "impact": "An electrical short or fire in the ignition switch can cause a vehicle fire, resulting in damage to the vehicle, potential injury, or even fatalities.",
+      "symptoms": [
+        "Smoke or flames noticed coming from under the dash or hood",
+        "loud thumping noise upon starting the vehicle",
+        "burning of ignition cables",
+        "electrical burning smell."
+      ],
+      "odiNumbers": [
+        "517532",
+        "800562",
+        "984181",
+        "983054",
+        "982959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, accidents, and potentially result in serious injuries or fatalities.",
+      "symptoms": [
+        "Tire tread separation",
+        "bubbles in the tread",
+        "plies separating",
+        "vehicle wobbling",
+        "tire blowout."
+      ],
+      "odiNumbers": [
+        "10067465",
+        "554910",
+        "867973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical Fire in the Engine Compartment",
+      "impact": "An electrical fire in the engine compartment can cause significant damage to the vehicle, potentially leading to a total loss, and pose a risk to the occupants' safety.",
+      "symptoms": [
+        "Smoke emanating from the engine compartment",
+        "smoke coming from the air conditioner vents",
+        "flames visible in the engine compartment",
+        "burning smell or odor."
+      ],
+      "odiNumbers": [
+        "987130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Air Conditioner Electrical System Failure",
+      "impact": "An electrical failure in the air conditioner system can cause a fire, potentially leading to a total loss of the vehicle, and pose a risk to the occupants' safety.",
+      "symptoms": [
+        "Smoke emanating from the air conditioner vents",
+        "burning smell or odor",
+        "flames visible in the air conditioner vents",
+        "electrical burning smell or odor."
+      ],
+      "odiNumbers": [
+        "987130"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

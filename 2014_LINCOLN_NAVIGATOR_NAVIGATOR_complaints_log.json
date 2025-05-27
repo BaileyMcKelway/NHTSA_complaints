@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Powertrain Control Module (PCM) Failure",
+      "impact": "The failure of the PCM can cause the vehicle to downshift unexpectedly, leading to an abrupt slowdown, loss of power, and potential misfires, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle downshifts independently",
+        "the power train and fuel tank warning symbols appear on the instrument panel",
+        "the vehicle loses motive power between gears",
+        "and the speedometer stops working intermittently."
+      ],
+      "odiNumbers": [
+        "11461669",
+        "11266110",
+        "11245854"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Molded Leadframe Failure",
+      "impact": "The failure of the molded leadframe can cause the vehicle to exhibit an illuminated malfunction indicator light (MIL) and/or wrench light in the instrument cluster, and may lead to unexpected downshifting, loss of power, and potential misfires, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle exhibits an illuminated malfunction indicator light (MIL) and/or wrench light in the instrument cluster",
+        "diagnostic trouble codes (DTCs) P0720",
+        "P0722",
+        "P0731",
+        "and/or P1500 are stored in the PCM",
+        "and the vehicle downshifts unexpectedly."
+      ],
+      "odiNumbers": [
+        "11485004",
+        "11266110"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Issues",
+      "impact": "Transmission problems can cause the vehicle to lose motive power, downshift unexpectedly, and potentially lead to accidents or damage to the transmission.",
+      "symptoms": [
+        "The vehicle loses motive power between gears",
+        "the transmission fluid needs to be changed",
+        "and a new hose needs to be replaced",
+        "but the repairs fail to fix the issue."
+      ],
+      "odiNumbers": [
+        "11385497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Cluster Display Visibility",
+      "impact": "The inability to see the digital display in the dashboard cluster in bright sunlight can make it difficult or impossible to see important warnings, such as door or tailgate symbols, which can be hazardous while driving.",
+      "symptoms": [
+        "The digital display in the dashboard cluster is not visible in bright sunlight",
+        "making warnings and symbols illegible",
+        "especially during the day."
+      ],
+      "odiNumbers": [
+        "11327160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Extreme Static Noise from Speakers",
+      "impact": "The sudden and loud static noise from the speakers, even when the radio is off and the volume is turned down, can startle the driver and cause a distraction while driving, which can be dangerous, especially at high speeds.",
+      "symptoms": [
+        "Intermittent loud static noise from the speakers",
+        "even when the radio is off and the volume is turned down",
+        "which can be loud enough to require the driver to exit the vehicle."
+      ],
+      "odiNumbers": [
+        "11184679"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Blower Motor Failure",
+      "impact": "The failure of the blower motor can cause a reduction in front windshield visibility, potentially leading to accidents or near-misses, especially during inclement weather conditions.",
+      "symptoms": [
+        "Abnormal rumbling sound coming from behind the dashboard",
+        "inability to fully use the HVAC system",
+        "including the defroster",
+        "reduced airflow from the vents."
+      ],
+      "odiNumbers": [
+        "11532990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "HVAC System Failure (related to Customer Satisfaction Program: 22S56)",
+      "impact": "The failure of the HVAC system can cause a reduction in front windshield visibility, potentially leading to accidents or near-misses, especially during inclement weather conditions.",
+      "symptoms": [
+        "Abnormal rumbling sound coming from behind the dashboard",
+        "inability to fully use the HVAC system",
+        "including the defroster",
+        "reduced airflow from the vents."
+      ],
+      "odiNumbers": [
+        "11532990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

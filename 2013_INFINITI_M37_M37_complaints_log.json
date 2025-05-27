@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "AIR BAGS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to veer off course, making it difficult to control, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle pulls to one side",
+        "the steering wheel feels unstable",
+        "the vehicle wanders or drifts on the road",
+        "the steering wheel requires constant correction",
+        "the vehicle is difficult to control on imperfect road surfaces",
+        "the steering wheel housing separates or comes off track."
+      ],
+      "odiNumbers": [
+        "11324913",
+        "11046273",
+        "10991424",
+        "10901913",
+        "10577139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Control Module Failure",
+      "impact": "The failure of the airbag control module can prevent the airbag from deploying in the event of an accident, increasing the risk of serious injury or fatality.",
+      "symptoms": [
+        "The airbag warning light activates",
+        "the passenger side airbag may not deploy in the event of an accident",
+        "the airbag system may malfunction."
+      ],
+      "odiNumbers": [
+        "11557170",
+        "11499579",
+        "11387694",
+        "10661572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Passenger Side Airbag Sensor Malfunction",
+      "impact": "The malfunction of the passenger side airbag sensor can cause the airbag to shut off, increasing the risk of serious injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The airbag warning light activates",
+        "the passenger side airbag may not deploy in the event of an accident",
+        "the airbag system may malfunction."
+      ],
+      "odiNumbers": [
+        "11387694",
+        "10661572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Design or Installation Flaw",
+      "impact": "A design or installation flaw in the airbag system can cause the airbag to malfunction or not deploy in the event of an accident, increasing the risk of serious injury or fatality.",
+      "symptoms": [
+        "The airbag warning light activates",
+        "the passenger side airbag may not deploy in the event of an accident",
+        "the airbag system may malfunction."
+      ],
+      "odiNumbers": [
+        "10661572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Hesitation and Acceleration Issues",
+      "impact": "The hesitation and acceleration issues with the transmission can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded in traffic. This can be particularly dangerous when merging onto a freeway or driving on an expressway.",
+      "symptoms": [
+        "The vehicle hesitates or fails to accelerate when pressing the gas pedal",
+        "the transmission jerks or jumps when shifting",
+        "the vehicle stalls or loses power",
+        "the vehicle accelerates suddenly without warning",
+        "dashboard warning lights illuminate."
+      ],
+      "odiNumbers": [
+        "11349589",
+        "11344017",
+        "10567493"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

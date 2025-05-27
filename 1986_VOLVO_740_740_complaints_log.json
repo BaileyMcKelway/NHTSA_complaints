@@ -1,0 +1,68 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Failure",
+      "impact": "The failure of the electrical wiring can cause a fire to start, leading to a potential risk of injury or death, as well as damage to the vehicle.",
+      "symptoms": [
+        "Smoke coming from the gear shifter",
+        "flames appearing",
+        "plastic odor",
+        "exposed electrical wires",
+        "inoperative headlights",
+        "turn signals",
+        "and parking lights",
+        "and other affected components."
+      ],
+      "odiNumbers": [
+        "784441",
+        "828203",
+        "516127"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to a total loss, and pose a risk to the safety of occupants and bystanders.",
+      "symptoms": [
+        "Visible flames or smoke emanating from the engine compartment",
+        "burning smell",
+        "melting of engine components",
+        "damage to surrounding areas."
+      ],
+      "odiNumbers": [
+        "534702",
+        "816411",
+        "525446"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Mass Air Flow Sensor Malfunction",
+      "impact": "A malfunctioning mass air flow sensor can cause the vehicle to fail emissions tests, leading to increased emissions and potential environmental harm. It can also affect engine performance, leading to decreased fuel efficiency and potentially causing the engine to stall or run rough.",
+      "symptoms": [
+        "The vehicle fails to pass state emissions standards",
+        "the check engine light is illuminated",
+        "the engine runs rough or stalls",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "10555824"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

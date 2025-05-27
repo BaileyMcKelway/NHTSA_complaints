@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unreliable Brake Performance and ABS Activation",
+      "impact": "The inconsistent brake performance and unexpected ABS activation can lead to extended stopping distances, increased risk of accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The brake pedal can be depressed to a point below the accelerator pedal level",
+        "ABS system activates when brakes are applied",
+        "especially when driving over bumps",
+        "poor brake performance at low speeds",
+        "extended stopping distance on dry pavement."
+      ],
+      "odiNumbers": [
+        "10138177",
+        "10126293",
+        "10119438",
+        "8010622",
+        "557668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Design and Placement",
+      "impact": "The high brake pedal location can cause the driver's foot to get caught under the pedal during emergency stops, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The brake pedal is located approximately 3.5 inches higher than the accelerator pedal",
+        "making it difficult to operate the brakes smoothly and safely."
+      ],
+      "odiNumbers": [
+        "557668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Blowout",
+      "impact": "Tire tread separation and blowout can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of air pressure",
+        "tire blowout",
+        "tire tread separation",
+        "loss of vehicle control",
+        "bent fender",
+        "and damage to surrounding vehicle components."
+      ],
+      "odiNumbers": [
+        "9005144",
+        "895848",
+        "560772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Crankshaft Sensor Failure",
+      "impact": "The failure of the crankshaft sensor can cause the engine to stall or fail to start, leading to inconvenience, safety risks, and potential towing costs.",
+      "symptoms": [
+        "The engine stalls or fails to start",
+        "the \"check engine\" light illuminates",
+        "the engine runs rough or misfires",
+        "the vehicle experiences a loss of power or hesitation."
+      ],
+      "odiNumbers": [
+        "10298206"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "The failure of the catalytic converter can cause a loss of power, decreased fuel efficiency, and increased emissions, which can lead to safety risks and environmental concerns.",
+      "symptoms": [
+        "The vehicle experiences a loss of power",
+        "the engine bogs down or hesitates",
+        "the vehicle stalls or fails to start",
+        "the \"check engine\" light illuminates",
+        "the vehicle produces excessive emissions."
+      ],
+      "odiNumbers": [
+        "10129655"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

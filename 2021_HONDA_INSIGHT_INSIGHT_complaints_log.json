@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Adaptive Cruise Control (ACC) System Failure",
+      "impact": "The malfunctioning ACC system can cause sudden and unexpected braking, increasing the risk of rear-end collisions and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "The ACC system applies the brakes suddenly and unnecessarily",
+        "even when there are no vehicles or obstacles in front of the car",
+        "causing the vehicle to slow down rapidly and potentially leading to rear-end collisions."
+      ],
+      "odiNumbers": [
+        "11515959",
+        "11502908",
+        "11470044",
+        "11461413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Activation of Collision Mitigation Braking System",
+      "impact": "The unintended activation of the Collision Mitigation Braking System can cause sudden and unexpected braking, which can lead to accidents, loss of control, or rear-end collisions.",
+      "symptoms": [
+        "The vehicle suddenly brakes hard for no reason",
+        "the vehicle's brakes are applied without warning",
+        "the vehicle's brakes are applied unnecessarily."
+      ],
+      "odiNumbers": [
+        "11544903"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inaccurate Traffic Sign Recognition System",
+      "impact": "The inaccurate Traffic Sign Recognition System can display incorrect speed limits, which can lead to drivers unknowingly exceeding speed limits, potentially resulting in traffic violations, accidents, or fines.",
+      "symptoms": [
+        "The system displays incorrect speed limits",
+        "the system fails to recognize traffic signs",
+        "the system incorrectly interprets traffic signs",
+        "the system is unable to be turned off."
+      ],
+      "odiNumbers": [
+        "11491121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Front Passenger Seat Weight Sensor",
+      "impact": "The faulty sensor can cause the front passenger frontal and knee airbags to deploy unnecessarily in the event of a crash, increasing the risk of injury to an infant in a child seat or a child.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to a potential malfunction in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11592410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Repair and Poor Communication",
+      "impact": "The delay in receiving the necessary parts and the lack of communication from the dealership and manufacturer can lead to frustration and anxiety for the vehicle owner, potentially putting them at risk due to the unresolved safety issue.",
+      "symptoms": [
+        "Vehicle owner has not received the necessary parts for repair",
+        "dealership and manufacturer have not provided updates on the status of the repair",
+        "vehicle owner is left waiting for an extended period without a resolution."
+      ],
+      "odiNumbers": [
+        "11592410"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

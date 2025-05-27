@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "POWER TRAIN",
+    "PARKING BRAKE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passive Shoulder Restraint System Failure",
+      "impact": "The failure of the passive shoulder restraint system can lead to inadequate protection of the driver and passengers in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The driver's side seatbelt will not lock",
+        "the driver's side seatbelt will not close on the shoulder harness",
+        "the passenger side shoulder harness will not retract to secure the passenger",
+        "the lap belt motors are not retracting",
+        "the belt or shoulder belt motor are not tightening",
+        "the cable appears to have come off its track and is hanging loose",
+        "the passive restraint system tightens without warning",
+        "the passive restraint system stops midway",
+        "warning lights and beeps intermittently even when belts are fastened."
+      ],
+      "odiNumbers": [
+        "8007673",
+        "716388",
+        "506482",
+        "975869",
+        "975837",
+        "971319"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fluid Leak",
+      "impact": "A transmission fluid leak can cause vibration, jerking, and hesitation, which can lead to loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "Transmission fluid leak",
+        "vibration at idle",
+        "jerking",
+        "hesitation",
+        "difficulty shifting into gear",
+        "inability to shift into reverse or forward."
+      ],
+      "odiNumbers": [
+        "548905",
+        "828871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Slipping or Hesitation",
+      "impact": "Transmission slipping or hesitation can cause loss of power, difficulty shifting, and accidents, which can lead to injuries or fatalities.",
+      "symptoms": [
+        "Intermittent hesitation",
+        "difficulty shifting into gear",
+        "inability to shift into reverse or forward",
+        "vehicle \"chokes up\" or stalls",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "828871"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake Warning Light Failure",
+      "impact": "The failure of the parking brake warning light can cause the driver to unknowingly drive with the parking brake applied, leading to premature wear on the brake components, overheating, and potentially causing a loss of control or accident.",
+      "symptoms": [
+        "The parking brake warning light on the instrument panel does not illuminate when the parking brake is applied",
+        "the driver is unaware that the parking brake is applied",
+        "the vehicle is driven with the parking brake applied",
+        "unusual brake noise or odor."
+      ],
+      "odiNumbers": [
+        "10220075"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

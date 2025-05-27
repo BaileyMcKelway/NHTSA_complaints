@@ -1,0 +1,118 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to shut off while driving, leading to a loss of control and potentially causing accidents. Additionally, electrical fires can occur, resulting in damage to the vehicle and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Vehicle shuts off while driving",
+        "ignition switch failure",
+        "stalling without warning",
+        "difficulty starting the engine",
+        "smoke or flames appearing from the steering column or under the hood."
+      ],
+      "odiNumbers": [
+        "8005982",
+        "887701",
+        "880172",
+        "872874",
+        "808883",
+        "806384",
+        "507266",
+        "985032",
+        "505009",
+        "983954",
+        "983882",
+        "983575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Fire",
+      "impact": "Electrical fires can cause damage to the vehicle and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Smoke or flames appearing from the steering column",
+        "under the hood",
+        "or from the vents",
+        "burning smell from the wiring",
+        "vehicle catching on fire while parked or in operation."
+      ],
+      "odiNumbers": [
+        "808883",
+        "806384",
+        "985032",
+        "505009",
+        "983954",
+        "983882",
+        "983575"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slippage and Failure",
+      "impact": "Transmission slippage and failure can cause the vehicle to lose power, stall, or jump out of gear, leading to accidents, property damage, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The transmission slips out of gear",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the vehicle jumps out of gear into reverse or another gear",
+        "the transmission fails to engage or disengage properly."
+      ],
+      "odiNumbers": [
+        "513963",
+        "801148",
+        "479214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Drive Shaft and U-Joint Failure",
+      "impact": "The failure of the drive shaft and U-joint can cause the vehicle to lose power, stall, or break down, leading to accidents, property damage, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The drive shaft breaks",
+        "the U-joint fails",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the vehicle is disabled",
+        "the fuel tank is damaged."
+      ],
+      "odiNumbers": [
+        "562932"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, leading to accidents or leave the driver stranded, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle hesitates or struggles to accelerate",
+        "the vehicle requires excessive throttle input to maintain speed",
+        "the heater becomes excessively hot."
+      ],
+      "odiNumbers": [
+        "10185272",
+        "525123",
+        "962860"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

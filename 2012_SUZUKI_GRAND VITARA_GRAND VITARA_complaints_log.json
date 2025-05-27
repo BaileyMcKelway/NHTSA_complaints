@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of a crash, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag light is on",
+        "the passenger seat belt indicator light is on",
+        "the seatbelt light stays on all the time",
+        "the airbag warning indicator illuminates while driving."
+      ],
+      "odiNumbers": [
+        "11253408",
+        "11202965",
+        "11057970",
+        "10993404",
+        "10980007",
+        "10883660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of the airbag sensor can cause the airbag system to malfunction, leading to the failure of airbags to deploy in the event of a crash, which can result in serious injury or death.",
+      "symptoms": [
+        "The airbag light is on",
+        "the airbag warning indicator illuminates while driving",
+        "the airbag sensor is damaged and needs replacement."
+      ],
+      "odiNumbers": [
+        "11057970",
+        "10883660"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can result in serious injury or death.",
+      "symptoms": [
+        "The airbags did not deploy in a crash",
+        "despite the severity of the impact."
+      ],
+      "odiNumbers": [
+        "10980007"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Loose Steering Wheel",
+      "impact": "A loose steering wheel can cause loss of control, making it difficult to steer the vehicle, which can lead to accidents or collisions.",
+      "symptoms": [
+        "The steering wheel feels loose or wobbly when turned in either direction",
+        "the steering wheel has excessive play",
+        "the steering wheel does not respond properly to input."
+      ],
+      "odiNumbers": [
+        "11066710"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Manual Transmission Linkage Failure",
+      "impact": "The failure of the manual transmission linkage can cause the vehicle to lose gear engagement, leading to loss of control, accidents, or strand the driver.",
+      "symptoms": [
+        "The gearshift feels loose or disconnected",
+        "a popping or clicking noise is heard when shifting gears",
+        "the vehicle remains in the previous gear despite shifting",
+        "the gearshift is difficult to engage or disengage."
+      ],
+      "odiNumbers": [
+        "10939064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

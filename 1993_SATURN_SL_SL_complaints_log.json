@@ -1,0 +1,473 @@
+{
+  "totalComplaints": 238,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 24,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Total Brake Failure",
+      "impact": "Total brake failure can lead to accidents, injuries, and even fatalities, as the vehicle may not be able to stop or slow down in time to avoid collisions.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "there is no braking power",
+        "the vehicle does not stop",
+        "and the ABS light may be on."
+      ],
+      "odiNumbers": [
+        "761419",
+        "849828",
+        "841838",
+        "833268",
+        "831727",
+        "539649",
+        "826118",
+        "822897",
+        "814331",
+        "811953",
+        "807503",
+        "986793",
+        "502810",
+        "973827",
+        "973257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "ABS system failure can cause the brakes to malfunction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS light is on",
+        "the brakes may not work properly",
+        "the vehicle may not stop",
+        "and the brake pedal may go to the floor."
+      ],
+      "odiNumbers": [
+        "8007045",
+        "732365",
+        "536982",
+        "522897",
+        "508692",
+        "500793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "Brake hydraulic system failure can cause the brakes to malfunction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "there is no braking power",
+        "the vehicle does not stop",
+        "and the brake lines or hoses may rupture."
+      ],
+      "odiNumbers": [
+        "814331",
+        "517711",
+        "485948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pad and Rotor Failure",
+      "impact": "Brake pad and rotor failure can cause the brakes to malfunction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes may wear out prematurely",
+        "the brake pads may crack",
+        "and the rotors may warp or wear out."
+      ],
+      "odiNumbers": [
+        "819763",
+        "811953",
+        "510591",
+        "500793",
+        "485948",
+        "963664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Intermittent Brake Failure",
+      "impact": "Intermittent brake failure can cause the brakes to malfunction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brakes may work sometimes",
+        "but not others",
+        "the brake pedal may go to the floor",
+        "and the vehicle may not stop."
+      ],
+      "odiNumbers": [
+        "732365",
+        "819763",
+        "971391"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Failure",
+      "impact": "Engine stalling can cause loss of control, accidents, and strand the driver. Engine failure can lead to costly repairs and potentially cause accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "difficulty starting",
+        "rough engine idle",
+        "engine noise",
+        "loss of power",
+        "and engine failure."
+      ],
+      "odiNumbers": [
+        "10584831",
+        "756121",
+        "525320",
+        "526928",
+        "517403"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Harmonic Balancer Failure",
+      "impact": "Harmonic balancer failure can cause serpentine belt misalignment, leading to excessive belt wear, engine stall, and loss of power steering, which can cause accidents.",
+      "symptoms": [
+        "Excessive serpentine belt wear",
+        "engine stall",
+        "loss of power steering",
+        "and belt separation."
+      ],
+      "odiNumbers": [
+        "10131997",
+        "10042105"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Valve Train Failure",
+      "impact": "Valve train failure can cause engine stalling, loss of power, and engine failure, leading to accidents and costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "engine noise",
+        "and valve seat or piston ring failure."
+      ],
+      "odiNumbers": [
+        "768642",
+        "785264",
+        "721786",
+        "537416",
+        "533747",
+        "518154"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cylinder Head Failure",
+      "impact": "Cylinder head failure can cause engine stalling, loss of power, and engine failure, leading to accidents and costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "engine noise",
+        "coolant leaks",
+        "and cracked or broken cylinder head."
+      ],
+      "odiNumbers": [
+        "8009963",
+        "716817",
+        "715602",
+        "602466",
+        "520201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Timing Chain and Guide Failure",
+      "impact": "Timing chain and guide failure can cause engine stalling, loss of power, and engine failure, leading to accidents and costly repairs.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "engine noise",
+        "and timing chain or guide failure."
+      ],
+      "odiNumbers": [
+        "785264",
+        "602879"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "Engine mount failure can cause engine vibration, noise, and loss of power, leading to accidents and costly repairs.",
+      "symptoms": [
+        "Engine vibration",
+        "noise",
+        "and loss of power."
+      ],
+      "odiNumbers": [
+        "864893",
+        "511213"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, stalling, and failure, leading to accidents and costly repairs.",
+      "symptoms": [
+        "Engine overheating",
+        "stalling",
+        "and water pump failure."
+      ],
+      "odiNumbers": [
+        "520201",
+        "602879"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 8,
+      "issueCategory": "Vehicle Fires",
+      "impact": "Vehicle fires can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Vehicle fires",
+        "smoke",
+        "and burning odors."
+      ],
+      "odiNumbers": [
+        "10009241",
+        "986091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Valve Body Assembly Failure",
+      "impact": "The failure of the valve body assembly can cause the transmission to malfunction, leading to hesitation, slipping, or complete failure to engage gears, which can result in loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Transmission hesitates or slips",
+        "difficulty shifting into gear",
+        "transmission jumps into gear without warning",
+        "loud noises from the transmission",
+        "and failure to engage gears."
+      ],
+      "odiNumbers": [
+        "10053882",
+        "730839",
+        "712603",
+        "532249",
+        "785264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Internal Failure",
+      "impact": "The internal failure of the transmission can cause the transmission to malfunction, leading to hesitation, slipping, or complete failure to engage gears, which can result in loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Transmission explodes or blows up",
+        "pieces flying out of the transmission case",
+        "transmission hesitation or slipping",
+        "and failure to engage gears."
+      ],
+      "odiNumbers": [
+        "895524",
+        "894798",
+        "832297",
+        "800373",
+        "517711"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Clutch and Differential Housing Failure",
+      "impact": "The failure of the clutch and differential housing can cause the transmission to malfunction, leading to hesitation, slipping, or complete failure to engage gears, which can result in loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Clutch and differential housing failure",
+        "transmission hesitation or slipping",
+        "and failure to engage gears."
+      ],
+      "odiNumbers": [
+        "832297",
+        "800373"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Electronic Control Failure",
+      "impact": "The failure of the transmission electronic control can cause the transmission to malfunction, leading to hesitation, slipping, or complete failure to engage gears, which can result in loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Transmission hesitation or slipping",
+        "failure to engage gears",
+        "and erratic transmission behavior."
+      ],
+      "odiNumbers": [
+        "881411",
+        "700205",
+        "605517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Mount Failure",
+      "impact": "The failure of the transmission mount can cause vibration and noise, leading to discomfort and potential damage to the transmission.",
+      "symptoms": [
+        "Vibration when shifting into drive at idle",
+        "and noise from the transmission."
+      ],
+      "odiNumbers": [
+        "959883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Transmission Fluid Reservoir Gasket Leak",
+      "impact": "The leak of the transmission fluid reservoir gasket can cause transmission fluid loss, leading to transmission damage and malfunction.",
+      "symptoms": [
+        "Transmission fluid leak",
+        "and transmission malfunction."
+      ],
+      "odiNumbers": [
+        "503532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Wheel Bearing Failure",
+      "impact": "The failure of the wheel bearing can cause the wheel to lock up, leading to loss of control, accidents, or stranding.",
+      "symptoms": [
+        "Wheel bearing failure",
+        "and wheel lockup."
+      ],
+      "odiNumbers": [
+        "525126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatback Frame Failure",
+      "impact": "The failure of the seatback frame can cause the seat to collapse or recline unexpectedly, obstructing the driver's view and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The seatback collapses or reclines unexpectedly",
+        "the seat frame breaks or cracks",
+        "the seat becomes distorted or accordion-like",
+        "the metal fragment inside the fabric punctures through",
+        "the seat falls back into the rear of the vehicle",
+        "the seat clicks or makes a noise when adjusting."
+      ],
+      "odiNumbers": [
+        "765940",
+        "755604",
+        "896446",
+        "886838",
+        "877008",
+        "733448",
+        "732906",
+        "708919",
+        "838545",
+        "838570",
+        "838429",
+        "837038",
+        "544488",
+        "834128",
+        "831522",
+        "781538",
+        "829808",
+        "820329",
+        "522591",
+        "809648",
+        "802108",
+        "983110",
+        "482109"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Recliner Failure",
+      "impact": "The failure of the seat recliner can cause the seat to collapse or recline unexpectedly, obstructing the driver's view and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The seat recliner fails",
+        "the seat collapses or reclines unexpectedly",
+        "the seat clicks or makes a noise when adjusting",
+        "the seat falls back into the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "896446",
+        "708919",
+        "838570",
+        "838429",
+        "802108",
+        "809648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Base Weld Failure",
+      "impact": "The failure of the seat base weld can cause the seat to collapse or break, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The seat base weld fails",
+        "the seat collapses or breaks",
+        "the seat becomes distorted or accordion-like."
+      ],
+      "odiNumbers": [
+        "838545",
+        "544488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Adjustment Mechanism Failure",
+      "impact": "The failure of the seat adjustment mechanism can cause the seat to become stuck or unable to move, potentially leading to discomfort or accidents.",
+      "symptoms": [
+        "The seat adjustment mechanism fails",
+        "the seat becomes stuck or unable to move."
+      ],
+      "odiNumbers": [
+        "476851"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ENGINE",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CarNet Connectivity Issues",
+      "impact": "The loss of CarNet connectivity can cause inconvenience and compromise the safety features of the vehicle, such as remote vehicle access and emergency services.",
+      "symptoms": [
+        "The CarNet light turns off",
+        "no connection to the car",
+        "inability to access remote vehicle features."
+      ],
+      "odiNumbers": [
+        "11584569"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unexplained Engine Performance Issues",
+      "impact": "The unexplained engine performance issues can cause loss of power, affecting the vehicle's ability to accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle will not speed up after accelerating",
+        "engine noise without corresponding acceleration",
+        "loss of engine power."
+      ],
+      "odiNumbers": [
+        "11576122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Park Assist System Failure",
+      "impact": "The failure of the Park Assist system can cause inconvenience and increase the risk of accidents or damage to the vehicle while parking.",
+      "symptoms": [
+        "Park Assist not available",
+        "loss of engine power on left or right turn."
+      ],
+      "odiNumbers": [
+        "11360430"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Head Gasket Failure",
+      "impact": "The failure of the head gasket can cause engine problems, leading to costly repairs, and potentially leaving the driver stranded. This issue can also lead to further engine damage if not addressed promptly.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leakage",
+        "white smoke from the exhaust",
+        "engine misfires",
+        "loss of engine power",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "11584129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "Fuel injector failure can cause the engine to misfire, leading to reduced power and performance, and potentially causing the vehicle to stall or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle lacks power or acceleration",
+        "the engine misfires",
+        "the EPC (Electronic Power Control) light comes on",
+        "the vehicle stalls or hesitates while driving."
+      ],
+      "odiNumbers": [
+        "11571623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

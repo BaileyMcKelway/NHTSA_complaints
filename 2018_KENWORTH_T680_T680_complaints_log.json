@@ -1,0 +1,200 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Dryer Bracket Failure",
+      "impact": "The failure of the air dryer bracket can cause the air dryer to hang loose, potentially leading to brake failure, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The air dryer bracket is cracked or broken",
+        "the air dryer is not secured to the frame",
+        "the air dryer is hanging on the airline with a piece of the broken bracket."
+      ],
+      "odiNumbers": [
+        "11475046"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Haldex Brake Can Failure",
+      "impact": "The failure of the Haldex brake can can cause the brakes to drag and overheat, leading to a fire, which can result in a total loss of the vehicle, trailer, and load.",
+      "symptoms": [
+        "The brakes are smoking while driving",
+        "the brakes are dragging",
+        "the brakes are overheating",
+        "a fire starts under the truck and trailer."
+      ],
+      "odiNumbers": [
+        "11166776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Mitigation System Malfunction",
+      "impact": "The malfunction of the mitigation system can cause sudden and unexpected hard braking, which can lead to loss of control, accidents, or rear-end collisions.",
+      "symptoms": [
+        "The vehicle suddenly brakes hard",
+        "the vehicle slows down rapidly",
+        "the brakes are applied without driver input",
+        "the mitigation system triggers a hard braking event."
+      ],
+      "odiNumbers": [
+        "11112360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11372492"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective DPF System and Sensor Issues",
+      "impact": "The failure of the DPF system and sensor issues can cause the check engine light to remain on, leading to decreased engine performance, reduced fuel efficiency, and potential engine damage.",
+      "symptoms": [
+        "The check engine light remains on",
+        "the vehicle experiences decreased engine performance",
+        "reduced fuel efficiency",
+        "error codes such as P3770",
+        "and repeated failures of NOS sensors and input and output sensors."
+      ],
+      "odiNumbers": [
+        "11518882"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear End Failure",
+      "impact": "The failure of the rear end can cause loss of vehicle control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences rear end failure",
+        "requiring replacement of the rear end."
+      ],
+      "odiNumbers": [
+        "11518882"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt System Failure",
+      "impact": "The failure of the seat belt system can lead to compromised safety in the event of an accident, and can also cause distractions and disruptions while driving.",
+      "symptoms": [
+        "The seat belt frame cover is cracked",
+        "the seat belt will not retract",
+        "the seat belt casing comes off",
+        "the seat belt alarm fails to turn off even when the seat belt is worn",
+        "the driver's seat folds forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "11420956",
+        "11145222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Emergency Braking (AEB) System Failure",
+      "impact": "The malfunctioning AEB system can cause unexpected and sudden hard stops, leading to accidents, injuries, or fatalities. False radar returns and unwanted braking can also cause driver frustration, loss of control, and increased stopping distances.",
+      "symptoms": [
+        "Unwanted hard stops",
+        "false radar returns",
+        "sudden and unexpected braking",
+        "flashing warning lights",
+        "vehicle stopping unnecessarily",
+        "adaptive cruise control malfunctioning."
+      ],
+      "odiNumbers": [
+        "11415137",
+        "11265428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Adaptive Cruise Control Malfunction",
+      "impact": "The malfunctioning adaptive cruise control system can cause unexpected and sudden hard stops, leading to accidents, injuries, or fatalities. False radar returns and unwanted braking can also cause driver frustration, loss of control, and increased stopping distances.",
+      "symptoms": [
+        "Unwanted hard stops",
+        "false radar returns",
+        "sudden and unexpected braking",
+        "flashing warning lights",
+        "vehicle stopping unnecessarily",
+        "adaptive cruise control malfunctioning in specific weather conditions (snow",
+        "ice)."
+      ],
+      "odiNumbers": [
+        "11265428"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the brakes to lock up, leading to loss of control, accidents, and damage to the vehicle, as well as potential harm to the driver and passengers.",
+      "symptoms": [
+        "The brakes lock up",
+        "the traction control light comes on",
+        "the adaptive cruise control notification appears",
+        "the speedometer sign with an exclamation mark appears and does not go away",
+        "the rear passenger tires wear down excessively."
+      ],
+      "odiNumbers": [
+        "11420954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS/ESC System Malfunction",
+      "impact": "The malfunction of the ABS/ESC system can cause the brakes to lock up, leading to loss of control, accidents, and damage to the vehicle, as well as potential harm to the driver and passengers.",
+      "symptoms": [
+        "The traction control light comes on",
+        "the adaptive cruise control notification appears",
+        "the speedometer sign with an exclamation mark appears and does not go away",
+        "the brakes lock up",
+        "the vehicle loses control."
+      ],
+      "odiNumbers": [
+        "11420954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

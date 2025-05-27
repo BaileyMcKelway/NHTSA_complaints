@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "POWER TRAIN",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation and Belt Failure",
+      "impact": "Tire tread separation and belt failure can lead to tire blowouts, loss of vehicle control, and accidents, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Tire blowouts",
+        "tread separation",
+        "belt failure",
+        "loss of tire pressure",
+        "vibration while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "766405",
+        "9001770",
+        "862715",
+        "549087",
+        "822794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inaccessible Transmission Fluid Check",
+      "impact": "The inability to check the transmission fluid level can lead to premature wear and tear on the transmission, causing malfunctions and potentially resulting in costly repairs or even transmission failure.",
+      "symptoms": [
+        "Unable to check transmission fluid level",
+        "transmission malfunction",
+        "difficulty shifting gears."
+      ],
+      "odiNumbers": [
+        "547702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Malfunction",
+      "impact": "Transmission malfunction can cause difficulty shifting gears, leading to loss of control, accidents, or stranding the driver.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "hesitation or delay when shifting",
+        "slipping or jerking when shifting",
+        "unusual noises or vibrations when shifting."
+      ],
+      "odiNumbers": [
+        "608177"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Breather Tube and Seal Failure",
+      "impact": "The failure of the fuel tank breather tube and seal can cause gasoline fumes to leak into the passenger compartment, posing a fire hazard and potential health risks to occupants. Additionally, fuel leakage to the exterior of the vehicle can lead to a fire hazard and environmental damage.",
+      "symptoms": [
+        "Gasoline fumes or odors inside the vehicle",
+        "fuel leakage from the vehicle",
+        "difficulty starting the engine",
+        "engine stalling",
+        "or rough engine idle."
+      ],
+      "odiNumbers": [
+        "9002949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Modified Fuel System Failure (Winnegabo Gas Generator)",
+      "impact": "Modifications made to the fuel system to accommodate a gas generator can lead to fuel leaks, fires, and other safety hazards, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Fuel leakage",
+        "gasoline fumes or odors inside the vehicle",
+        "difficulty starting the engine",
+        "engine stalling",
+        "or rough engine idle."
+      ],
+      "odiNumbers": [
+        "9002949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "UNKNOWN OR OTHER",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can lead to a loss of vehicle control, accidents, and potentially catastrophic consequences, especially at high speeds.",
+      "symptoms": [
+        "Tread separation",
+        "tire cracking",
+        "tire failure",
+        "loss of air pressure",
+        "vehicle shaking or vibration",
+        "difficulty steering."
+      ],
+      "odiNumbers": [
+        "11440788",
+        "11348719",
+        "10616333"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Coast Clutch Capacitive Discharge Weld Failure",
+      "impact": "The failure of the coast clutch capacitive discharge weld can cause the loss of motive power, leaving the vehicle stranded in the middle of the road, which can lead to accidents or put passengers, especially in school bus and ambulance applications, at risk.",
+      "symptoms": [
+        "The vehicle suddenly loses power and is unable to move",
+        "especially when attempting to accelerate from a stop",
+        "the transmission fails to engage",
+        "the vehicle is immobilized in a roadway."
+      ],
+      "odiNumbers": [
+        "11571064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spark Plug Ejection and Injector Failure",
+      "impact": "The ejection of a spark plug and failure of an injector can cause sudden engine failure, loss of power, and potentially lead to accidents, especially when occurring at high speeds.",
+      "symptoms": [
+        "Sudden loss of engine power",
+        "misfires",
+        "difficulty accelerating",
+        "engine stalling",
+        "blown spark plug",
+        "busted injector."
+      ],
+      "odiNumbers": [
+        "11507184"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

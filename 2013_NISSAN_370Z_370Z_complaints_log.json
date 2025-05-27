@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ENGINE",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Slave Cylinder Failure",
+      "impact": "The failure of the clutch slave cylinder can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11406159",
+        "11152966",
+        "11113433",
+        "10985974",
+        "10970598",
+        "10903234",
+        "10875860",
+        "10760257",
+        "10730212",
+        "10649994",
+        "10583637"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure",
+      "impact": "The sudden failure of the clutch can cause the pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10860843",
+        "11308908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sprocket Failure",
+      "impact": "A defective sprocket can cause the vehicle to lose acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle will not accelerate above a certain RPM",
+        "the vehicle loses power",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "11308908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS/ESC System Malfunction (Ice Mode)",
+      "impact": "The malfunction of the ABS/ESC system can cause the vehicle to enter \"Ice Mode\", leading to reduced stopping power and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "The brake pedal becomes hard and unresponsive",
+        "the vehicle takes longer to stop",
+        "the vehicle's stopping power is reduced",
+        "the ABS/ESC system warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "11354597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

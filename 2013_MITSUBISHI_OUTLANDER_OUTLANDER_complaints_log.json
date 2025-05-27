@@ -1,0 +1,239 @@
+{
+  "totalComplaints": 64,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VISIBILITY/WIPER"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Control Unit (ECU) Failure",
+      "impact": "The failure of the ECU can cause the vehicle to shut down while driving, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle shuts down while driving",
+        "multiple warning lights illuminate",
+        "including \"Service Engine Immediately\" and \"Engine Overheating\" (even if the engine is not overheating)",
+        "the vehicle is unable to start",
+        "and the ECU is diagnosed as faulty."
+      ],
+      "odiNumbers": [
+        "11560529",
+        "11282414",
+        "11019490",
+        "10823818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various malfunctions, including issues with the power locks, horn, airbag system, and brake system, which can lead to accidents or compromise vehicle safety.",
+      "symptoms": [
+        "The power locks malfunction",
+        "the horn is unresponsive",
+        "the airbag system warning indicator illuminates",
+        "the brake system warning indicator illuminates",
+        "and the vehicle's electrical system exhibits unusual behavior",
+        "such as cycling through multiple warning messages."
+      ],
+      "odiNumbers": [
+        "11454411",
+        "11306476",
+        "10896797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to experience difficulty starting, leading to a loss of power and control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle has difficulty starting",
+        "the alternator needs to be replaced",
+        "and the replacement part is on backorder",
+        "indicating a widespread issue."
+      ],
+      "odiNumbers": [
+        "10637470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Hatch and Emergency Release Mechanism Failure",
+      "impact": "The failure of the rear hatch and emergency release mechanism can cause difficulty accessing the vehicle in emergency situations, which can compromise safety.",
+      "symptoms": [
+        "The rear hatch does not open",
+        "the emergency release mechanism is difficult to access",
+        "and the handle tailgate lock release mechanism is susceptible to water damage and corrosion."
+      ],
+      "odiNumbers": [
+        "11508210"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of airbags to deploy in the event of a crash, resulting in increased risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is on",
+        "\"Airbag system service required\" message on the dashboard",
+        "no airbag deployment in the event of a crash",
+        "failure to diagnose or repair the issue."
+      ],
+      "odiNumbers": [
+        "11493124",
+        "11339357",
+        "11281534",
+        "11186201",
+        "11097658",
+        "11090823",
+        "11053893",
+        "11005483",
+        "10935470",
+        "10924628",
+        "10633083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Improperly Installed Driver Seat Mounted Airbag Wiring",
+      "impact": "The improper installation of the driver seat mounted airbag wiring can cause the airbag system to malfunction, leading to the failure of airbags to deploy in the event of a crash, resulting in increased risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is on",
+        "\"Airbag system service required\" message on the dashboard",
+        "recall notice for improperly installed airbag wiring."
+      ],
+      "odiNumbers": [
+        "11493124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Takata Airbag Recall",
+      "impact": "The Takata airbag recall can cause the airbag system to malfunction, leading to the failure of airbags to deploy in the event of a crash, resulting in increased risk of injury or fatality.",
+      "symptoms": [
+        "Airbag warning light is on",
+        "\"Airbag system service required\" message on the dashboard",
+        "airbag light will not turn off",
+        "failure to deploy airbags in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11053893",
+        "10935470",
+        "11005483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Overheating and Loss of Power",
+      "impact": "The transmission overheating issue can cause the vehicle to lose motive power, leading to a sudden loss of speed, which can increase the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The \"Transmission Overheating\" message is displayed on the instrument panel",
+        "the vehicle loses power",
+        "the vehicle slows down independently",
+        "the vehicle hesitates to accelerate",
+        "the transmission slips",
+        "and the engine RPMs jump wildly."
+      ],
+      "odiNumbers": [
+        "11481041",
+        "11468377",
+        "11220488",
+        "11138997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure and Slipping",
+      "impact": "The transmission failure can cause the vehicle to hesitate or stall, leading to a loss of control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The transmission slips",
+        "the vehicle hesitates to accelerate",
+        "the engine RPMs jump wildly",
+        "the vehicle loses power",
+        "and error codes such as P1778 appear."
+      ],
+      "odiNumbers": [
+        "11434988",
+        "11350223",
+        "11138997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Fluid Leak and Defective Mold",
+      "impact": "The transmission fluid leak can cause the transmission to fail, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "Transmission fluid leaks",
+        "oil drips from underneath the motor and transmission",
+        "and the transmission mold is defective."
+      ],
+      "odiNumbers": [
+        "10512875"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can cause reduced visibility while driving, especially in rainy or snowy conditions, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The windshield wipers stop working",
+        "the wipers fail to clear the windshield",
+        "the wipers stick in an upright position",
+        "the wipers work intermittently."
+      ],
+      "odiNumbers": [
+        "11019084",
+        "11000800",
+        "10981149",
+        "10969739",
+        "10967740",
+        "10945847",
+        "10875010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Repair Delays",
+      "impact": "The delay in repairing recalled vehicles can lead to continued safety risks for drivers and passengers, as well as frustration and inconvenience for vehicle owners.",
+      "symptoms": [
+        "Parts are unavailable for recall repairs",
+        "dealerships are unable to perform recall repairs",
+        "manufacturers are unresponsive or unhelpful",
+        "vehicle owners are left without a safe or functional vehicle."
+      ],
+      "odiNumbers": [
+        "11019084",
+        "11000800",
+        "10967740",
+        "10945847"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

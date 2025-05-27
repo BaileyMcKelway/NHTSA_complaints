@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STRUCTURE",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling/Loss of Power",
+      "impact": "The sudden stalling of the engine can cause a loss of power, leading to a loss of control, accidents, or leaving the driver stranded in traffic, which can be dangerous.",
+      "symptoms": [
+        "The engine stalls while driving",
+        "the vehicle loses motive power",
+        "the vehicle stalls at highway speeds",
+        "the vehicle stalls when shifting gears",
+        "the vehicle stalls without warning lights or messages."
+      ],
+      "odiNumbers": [
+        "11576457",
+        "11530998",
+        "11529646"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to stall or lose power, leading to a loss of control, accidents, or leaving the driver stranded in traffic, which can be dangerous.",
+      "symptoms": [
+        "The transmission hesitates or fails to shift",
+        "the vehicle stalls when shifting gears",
+        "the engine stalls when attempting to shift from 1st to 2nd gear."
+      ],
+      "odiNumbers": [
+        "11530998"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Drive Shaft Failure",
+      "impact": "The failure of the drive shaft can cause loss of control, accidents, or leave the driver stranded, which can be dangerous.",
+      "symptoms": [
+        "The drive shaft falls out of the vehicle while driving."
+      ],
+      "odiNumbers": [
+        "11560095"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Drainage System Failure",
+      "impact": "The failure of the sunroof drainage system can cause water to flood the interior of the vehicle, creating a hazardous driving condition, and potentially leading to accidents or electrical system failures.",
+      "symptoms": [
+        "Water leaks into the vehicle through the sunroof",
+        "flooding the interior",
+        "water runs down the driver and passengers",
+        "no warning signs or indicators prior to the failure."
+      ],
+      "odiNumbers": [
+        "11590238"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Failure due to Metal Shavings in Oil",
+      "impact": "The presence of metal shavings in the oil can cause catastrophic engine failure, leading to sudden loss of power and control, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine failure without warning",
+        "loss of power",
+        "vehicle stopping in the road without warning",
+        "metal shavings in the oil."
+      ],
+      "odiNumbers": [
+        "11579144"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall, leaving the driver stranded, and potentially leading to accidents or injuries, especially when stuck in traffic.",
+      "symptoms": [
+        "The engine stalls",
+        "the fuel pump fails to engage",
+        "the scooter slows down suddenly",
+        "the fuel pump makes no sound",
+        "the scooter won't start",
+        "the fuel pump works inconsistently when hot."
+      ],
+      "odiNumbers": [
+        "10525680",
+        "10486775",
+        "10478199",
+        "10477146",
+        "10470504",
+        "10467731",
+        "10466938",
+        "10466480",
+        "10465166",
+        "10464810",
+        "10462794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure in High Temperatures",
+      "impact": "The failure of the fuel pump in high temperatures can cause the engine to stall or fail to start, leaving the driver stranded and potentially leading to accidents.",
+      "symptoms": [
+        "The engine stalls or fails to start in warm or hot weather",
+        "the fuel pump does not engage",
+        "the engine turns over but does not start",
+        "the scooter must be cooled down before it can operate again."
+      ],
+      "odiNumbers": [
+        "10433624",
+        "10424375",
+        "10422469",
+        "10408421",
+        "10350742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure in High Temperatures",
+      "impact": "The failure of the fuel pump in high temperatures can cause the vehicle to stall or not start, leading to inconvenience, safety risks, and potential accidents.",
+      "symptoms": [
+        "The vehicle will not start in hot weather (above 75°F)",
+        "the fuel pump is not audible as normal",
+        "the vehicle may start after cooling down in a shaded or cool location for 15 minutes or more."
+      ],
+      "odiNumbers": [
+        "10469606"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

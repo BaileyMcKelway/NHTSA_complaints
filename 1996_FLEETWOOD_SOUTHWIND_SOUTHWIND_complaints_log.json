@@ -1,0 +1,60 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Separation and Falling Out",
+      "impact": "The separation of the windshield from its seal can cause the windshield to fall out, obstructing the driver's view and potentially leading to accidents.",
+      "symptoms": [
+        "The windshield starts to separate from the seal at the top",
+        "the windshield tips out at the top corner",
+        "the passenger side exterior rubber gasket is not staying attached to the fiberglass body of the motorhome."
+      ],
+      "odiNumbers": [
+        "10005225",
+        "8013607"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause a loss of power steering assist, making it difficult to steer the vehicle, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Metallic noise",
+        "vibration",
+        "difficulty steering",
+        "vehicle pulls to one side (right or left)."
+      ],
+      "odiNumbers": [
+        "603355",
+        "981039"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carbon Monoxide Poisoning from Onan Generator",
+      "impact": "The failure of the Onan generator to properly vent carbon monoxide can lead to deadly poisoning, resulting in serious injury or death, especially when occupants are sleeping in the motorhome.",
+      "symptoms": [
+        "None",
+        "as carbon monoxide is odorless and colorless",
+        "making it difficult to detect without proper warning systems."
+      ],
+      "odiNumbers": [
+        "10181702"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

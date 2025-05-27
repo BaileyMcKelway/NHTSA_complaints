@@ -1,0 +1,69 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Recall Parts Unavailability",
+      "impact": "The unavailability of replacement airbag parts for the Takata recall can lead to a significant safety risk, as the defective airbags can cause serious injury or death.",
+      "symptoms": [
+        "None",
+        "as the issue is related to the unavailability of parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11041824",
+        "11030202",
+        "11015212",
+        "11003583",
+        "10944672",
+        "10939567",
+        "10915235",
+        "10905860",
+        "10874859",
+        "10873930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Dual Clutch Transmission (DCT) Failure",
+      "impact": "The failure of the DCT can cause the vehicle to stall, hesitate, or jerk while accelerating, which can lead to accidents or near-misses, especially when merging or crossing intersections.",
+      "symptoms": [
+        "The vehicle hesitates or takes 2-3 seconds to accelerate when accelerating from a rolling stop",
+        "the vehicle jerks or clunks forward when coming to a stop",
+        "the vehicle moves a few inches forward unexpectedly",
+        "the vehicle pops into neutral while driving",
+        "the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11424454",
+        "10583847"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Oil Pressure Warning",
+      "impact": "The sudden appearance of engine oil pressure warning messages can indicate a potentially serious problem with the engine's lubrication system, which can lead to engine damage or failure if not addressed promptly.",
+      "symptoms": [
+        "Warning messages appear on the dashboard",
+        "including \"Engine Oil Pressure Low\" or \"Check Engine Oil Pressure\"",
+        "the engine oil pressure gauge drops to a low level",
+        "the engine makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "11121124"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

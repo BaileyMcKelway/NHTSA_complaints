@@ -1,0 +1,185 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Charging Issues)",
+      "impact": "The failure of the electrical system can prevent the vehicle from charging, leading to a loss of power and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle cannot be charged using a home charging station",
+        "the charging cable and wall socket may overheat or melt",
+        "and the vehicle may display warning messages related to the electrical system."
+      ],
+      "odiNumbers": [
+        "11570952",
+        "11567270",
+        "11570870"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Recall Repair Delays)",
+      "impact": "The delay in recall repairs can leave the vehicle in an unsafe condition, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The vehicle may display warning messages related to the electrical system",
+        "and the manufacturer may not provide timely assistance for recall repairs."
+      ],
+      "odiNumbers": [
+        "11570870",
+        "11567270"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Low Horn Volume",
+      "impact": "A low horn volume can increase the risk of accidents, as other drivers may not be aware of the vehicle's presence.",
+      "symptoms": [
+        "The horn is extremely quiet and barely audible",
+        "especially for other drivers inside their vehicles."
+      ],
+      "odiNumbers": [
+        "11548157"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to accidents, injuries, or even fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates on its own",
+        "even when the brake pedal is pressed."
+      ],
+      "odiNumbers": [
+        "11548343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery and Electric Drive System Malfunctions",
+      "impact": "Malfunctions in the battery and electric drive system can lead to a loss of power, potentially leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle displays warning messages related to the battery and electric drive system",
+        "and charging may not be possible due to technical errors."
+      ],
+      "odiNumbers": [
+        "11533969"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Electric Motor Failure due to Refrigerant Leak",
+      "impact": "The failure of the front electric motor can cause the vehicle to lose power, stall, and potentially roll backwards, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "and rolls backwards",
+        "especially on inclines; the vehicle may experience a sudden loss of drive power."
+      ],
+      "odiNumbers": [
+        "11584726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Servo Failure",
+      "impact": "The failure of the brake servo can cause the vehicle to become immobilized, unable to move or shift into gear, which can lead to dangerous situations, such as obstructing traffic, and potentially cause accidents.",
+      "symptoms": [
+        "The vehicle becomes unable to move",
+        "the check engine light turns on",
+        "the vehicle shuts off",
+        "multiple warning messages appear on the dashboard",
+        "the vehicle refuses to shift into Drive",
+        "Neutral",
+        "or Reverse."
+      ],
+      "odiNumbers": [
+        "11570906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities. This issue can also result in damage to other vehicles and property.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without driver input",
+        "the vehicle accelerates unexpectedly",
+        "the brakes are ineffective in stopping the vehicle",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "11542360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure to Provide Black Box Data",
+      "impact": "The lack of access to black box data can hinder investigations into unintended acceleration incidents, making it difficult to identify the root cause of the problem and prevent future occurrences.",
+      "symptoms": [
+        "The vehicle's black box data is not available or is not provided by the manufacturer or insurance company",
+        "making it difficult to determine the cause of the unintended acceleration."
+      ],
+      "odiNumbers": [
+        "11542360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Adaptive Driving System Malfunction",
+      "impact": "The malfunction of the Adaptive Driving System can cause the vehicle to unexpectedly steer or brake, leading to loss of control, accidents, or damage to the vehicle or surrounding objects.",
+      "symptoms": [
+        "The vehicle suddenly steers or brakes on its own",
+        "the vehicle responds to false or incorrect sensor readings",
+        "the vehicle's sensors are overly sensitive to road or parking lot conditions",
+        "the vehicle's autonomous features malfunction or behave erratically."
+      ],
+      "odiNumbers": [
+        "11530887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sensor Malfunction (False or Incorrect Readings)",
+      "impact": "The malfunction of sensors can cause the vehicle's advanced safety features to malfunction, leading to loss of control, accidents, or damage to the vehicle or surrounding objects.",
+      "symptoms": [
+        "The vehicle's sensors are overly sensitive to road or parking lot conditions",
+        "the vehicle's sensors incorrectly detect obstacles or hazards",
+        "the vehicle's sensors fail to detect obstacles or hazards",
+        "the vehicle's autonomous features malfunction or behave erratically."
+      ],
+      "odiNumbers": [
+        "11530887"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

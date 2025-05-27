@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, and accidents, and may lead to a loss of control of the vehicle.",
+      "symptoms": [
+        "Airbag deploys unexpectedly",
+        "airbag warning light illuminates",
+        "airbag deploys without a crash or impact."
+      ],
+      "odiNumbers": [
+        "893255",
+        "535505",
+        "515297",
+        "546767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag Deployment in Crash",
+      "impact": "Failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "driver and passengers sustain injuries."
+      ],
+      "odiNumbers": [
+        "884467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "Airbag system malfunction can cause unintended airbag deployment, failure of airbag deployment in a crash, or false warnings, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Airbag warning light illuminates",
+        "airbag system is disfunctional",
+        "clock spring needs to be replaced repeatedly."
+      ],
+      "odiNumbers": [
+        "800840"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Illuminated Engine Check Light with Unknown Cause",
+      "impact": "The illuminated engine check light can indicate a malfunction within the system, which can lead to engine damage, decreased fuel efficiency, and potentially cause the vehicle to stall or lose power, posing a safety risk to the driver and occupants.",
+      "symptoms": [
+        "The engine check light remains illuminated on the dashboard",
+        "indicating a malfunction within the system",
+        "but the cause is unknown."
+      ],
+      "odiNumbers": [
+        "866595",
+        "715794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbag deployment in the event of an accident can lead to serious injury or even death, as the airbags are designed to provide critical protection to occupants.",
+      "symptoms": [
+        "No deployment of driver's or passenger's side airbags in the event of an accident",
+        "despite meeting the necessary conditions for deployment."
+      ],
+      "odiNumbers": [
+        "827030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Sudden Brake Failure",
+      "impact": "Sudden brake failure can cause loss of control, accidents, and injuries, as the driver is unable to slow down or stop the vehicle in a timely manner.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "causing the vehicle to lose braking ability",
+        "leading to accidents or near-misses."
+      ],
+      "odiNumbers": [
+        "821950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Excessive Brake Rotor Wear",
+      "impact": "Excessive brake rotor wear can lead to reduced braking performance, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Excessive wear and tear on brake rotors",
+        "potentially causing vibrations",
+        "noise",
+        "or spongy brake pedal feel."
+      ],
+      "odiNumbers": [
+        "827030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

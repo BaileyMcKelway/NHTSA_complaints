@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Wheel Lock-Up",
+      "impact": "The sudden lock-up of the steering wheel can cause loss of control, accidents, or leave the driver stranded, especially at high speeds or during turns.",
+      "symptoms": [
+        "The steering wheel locks up",
+        "becomes difficult to turn",
+        "or freezes",
+        "making it hard to control the vehicle."
+      ],
+      "odiNumbers": [
+        "10057156",
+        "10012010"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause loss of power assist, making it difficult to steer, especially at low speeds, which can lead to accidents or increase the risk of driver fatigue.",
+      "symptoms": [
+        "The power steering pump fails",
+        "causing a loss of power assist",
+        "making the steering wheel harder to turn."
+      ],
+      "odiNumbers": [
+        "536325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Power Steering Hose Failure",
+      "impact": "The failure of the power steering hose can cause fluid leaks, leading to a loss of power assist, making it difficult to steer, especially at low speeds, which can lead to accidents or increase the risk of driver fatigue.",
+      "symptoms": [
+        "The power steering hose fails",
+        "causing fluid leaks",
+        "leading to a loss of power assist",
+        "making the steering wheel harder to turn."
+      ],
+      "odiNumbers": [
+        "536325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Wheel Spring Kit Failure",
+      "impact": "The failure of the steering wheel spring kit can cause the steering wheel to malfunction, leading to loss of control, accidents, or leave the driver stranded.",
+      "symptoms": [
+        "The steering wheel spring kit fails",
+        "causing the steering wheel to malfunction",
+        "making it hard to control the vehicle."
+      ],
+      "odiNumbers": [
+        "536325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotors can cause uneven braking, noise, and vibration, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Noise when braking",
+        "brake rotors excessively worn",
+        "brake rotors warped or damaged."
+      ],
+      "odiNumbers": [
+        "536325",
+        "536325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Lockup and ABS Malfunction",
+      "impact": "The brake lockup and ABS malfunction can cause the vehicle to skid or lose control, increasing the risk of accidents.",
+      "symptoms": [
+        "Brakes lock up",
+        "vehicle skids when braking",
+        "ABS braking system engages unnecessarily",
+        "traction control system turns on when making turns."
+      ],
+      "odiNumbers": [
+        "812349",
+        "987337",
+        "987337"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall or fail to start, which can lead to accidents or leave the driver stranded. In extreme cases, a faulty fuel pump can also cause a spark, potentially leading to a fire.",
+      "symptoms": [
+        "The vehicle stalls or fails to start",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump overheats",
+        "the vehicle experiences poor engine performance",
+        "the fuel pump electrical connector or wiring shows signs of damage or burning."
+      ],
+      "odiNumbers": [
+        "10014587",
+        "536325",
+        "536325"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

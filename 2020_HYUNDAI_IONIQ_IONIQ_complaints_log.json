@@ -1,0 +1,155 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "LANE DEPARTURE",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Vehicle Start and Electrical System Malfunction",
+      "impact": "The unintended start of the vehicle without human assistance can lead to accidents, injuries, or fatalities, especially if the vehicle is in gear or in a confined space. The electrical system malfunction can also cause other safety-critical systems to fail, such as the steering system.",
+      "symptoms": [
+        "The vehicle starts itself without human input",
+        "the steering wheel locks or unlocks randomly",
+        "the vehicle shifts gears incorrectly",
+        "the vehicle does not recognize its own state (e.g.",
+        "thinks it's off when it's on)."
+      ],
+      "odiNumbers": [
+        "11526534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electric Vehicle System Failure and Cruise Control Malfunction",
+      "impact": "The failure of the electric vehicle system can cause the vehicle to slow down or lose power, leading to accidents or near-misses, especially when driving on highways or climbing hills. The cruise control malfunction can also cause the vehicle to slow down suddenly, leading to rear-end collisions.",
+      "symptoms": [
+        "Warning messages appear on the dashboard indicating EV system failure",
+        "cruise control shuts off",
+        "vehicle slows down dramatically",
+        "loss of power or acceleration."
+      ],
+      "odiNumbers": [
+        "11488624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Horn Failure",
+      "impact": "The failure of the horn can lead to accidents or near-misses, especially in situations where warning other drivers or pedestrians is critical, such as when driving in rural areas or in urban areas with pedestrian traffic.",
+      "symptoms": [
+        "The horn fails to sound",
+        "no warning prior to horn failure",
+        "repeated failures of the horn."
+      ],
+      "odiNumbers": [
+        "11454055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Regenerative Brake System Failure",
+      "impact": "The failure of the regenerative brake system can lead to a sudden loss of braking force, increasing the stopping distance and potentially causing accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or unresponsive",
+        "the vehicle takes longer to stop",
+        "the regenerative braking meter on the dashboard does not indicate any braking activity",
+        "the mechanical brakes are not activated until the pedal is pressed all the way to the floor."
+      ],
+      "odiNumbers": [
+        "11432875",
+        "11432408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Light Failure in Single-Pedal Driving",
+      "impact": "The failure of the brake lights to illuminate during single-pedal driving can increase the risk of rear-end collisions, as following vehicles may not be aware that the Hyundai Ioniq 5 is slowing or stopping.",
+      "symptoms": [
+        "The brake lights do not turn on when the vehicle is brought to a complete stop using single-pedal driving",
+        "despite the vehicle slowing or stopping."
+      ],
+      "odiNumbers": [
+        "11523893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lane Keep Assist System Malfunction",
+      "impact": "The malfunction of the Lane Keep Assist system can cause the steering wheel to seize or jerk, leading to loss of control and potential accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The steering wheel seizes or jerks",
+        "the vehicle suddenly pulls to one side",
+        "the Lane Departure Warning system falsely detects lane departures",
+        "the system is overly sensitive",
+        "the system is unable to correctly detect lane markings."
+      ],
+      "odiNumbers": [
+        "11551859",
+        "11504345"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Adaptive Cruise Control System Failure",
+      "impact": "The failure of the Adaptive Cruise Control system can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "the vehicle's speed is not maintained",
+        "the system is unable to correctly detect obstacles or traffic",
+        "the system is unable to adjust speed accordingly",
+        "the system suddenly disengages."
+      ],
+      "odiNumbers": [
+        "11551859"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Bumper and Wheel Well Dislodgement",
+      "impact": "The dislodgement of the front bumper and wheel well can cause damage to the vehicle's body and potentially lead to loss of control or accidents, especially if it affects the wheel's movement or creates a distraction for the driver.",
+      "symptoms": [
+        "Sudden booming sound near the front passenger's side of the vehicle",
+        "front driver's side wheel well and bumper dislodged and rubbing against the front passenger's side wheel."
+      ],
+      "odiNumbers": [
+        "11514129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Lane Keep Assist System (LKAS) Error Code",
+      "impact": "The error code may indicate a malfunction in the Lane Keep Assist System, which can compromise the vehicle's safety features and potentially lead to accidents or near-miss incidents.",
+      "symptoms": [
+        "Error code C223986 displayed on the vehicle's system",
+        "indicating a problem with the LKAS system."
+      ],
+      "odiNumbers": [
+        "11436123"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

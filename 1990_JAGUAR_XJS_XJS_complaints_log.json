@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "TIRES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause a loss of vehicle control, leading to accidents, injuries, or even fatalities.",
+      "symptoms": [
+        "Sudden and unexpected loss of control",
+        "vehicle swerving or jerking violently",
+        "failure of brakes to engage",
+        "wheels locking up",
+        "and inability to stop or slow down."
+      ],
+      "odiNumbers": [
+        "552446",
+        "712057",
+        "781704",
+        "813197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Leak",
+      "impact": "A fuel tank leak can cause fuel to spill onto the road, creating a fire hazard, and potentially leading to accidents or injuries. Additionally, fuel fumes can enter the passenger cabin, posing a health risk to occupants.",
+      "symptoms": [
+        "Fuel smell or fumes inside the passenger cabin",
+        "fuel leak visible under the vehicle",
+        "fuel tank corrosion or rust",
+        "fuel pump or electrical issues."
+      ],
+      "odiNumbers": [
+        "741685",
+        "864015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Marelli Ignition System Failure",
+      "impact": "The failure of the Marelli ignition system can cause the vehicle to catch fire, resulting in total loss of the vehicle and potentially causing harm to occupants.",
+      "symptoms": [
+        "Loss of ignition on the right bank of cylinders",
+        "engine continues to run on the left bank cylinders",
+        "unburned fuel passes through the right-hand cylinders and ignites in the hot catalytic converter",
+        "resulting in a fire."
+      ],
+      "odiNumbers": [
+        "870883",
+        "731619"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Sidewall Failure",
+      "impact": "The sudden failure of the tire sidewall can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "The tire blows out or explodes",
+        "often without warning",
+        "while driving at moderate to high speeds",
+        "resulting in loss of control or accidents."
+      ],
+      "odiNumbers": [
+        "867143",
+        "490528"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank Failure",
+      "impact": "The failure of the fuel tank can cause leakage, leading to fuel odors and fumes entering the vehicle, which can be a fire hazard and pose a risk to the occupants.",
+      "symptoms": [
+        "Fuel odor or fumes inside the vehicle",
+        "fuel leakage from the tank",
+        "possible smoke or fire."
+      ],
+      "odiNumbers": [
+        "862099",
+        "90"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Smoke",
+      "impact": "Engine smoke can indicate a serious problem, potentially leading to engine failure, loss of power, and increased risk of accidents.",
+      "symptoms": [
+        "Smoke emitting from the engine",
+        "unusual engine noise",
+        "loss of power",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "515586"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

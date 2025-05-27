@@ -1,0 +1,299 @@
+{
+  "totalComplaints": 67,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "SUSPENSION",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 16,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall or shut down while in motion, leading to a loss of power steering and braking, which can increase the risk of accidents.",
+      "symptoms": [
+        "The ignition switch only goes to ACC mode and will not turn to the off position",
+        "the key gets stuck in the ignition",
+        "the vehicle quits running while driving",
+        "the electrical system starts flashing",
+        "and the vehicle loses power steering and braking."
+      ],
+      "odiNumbers": [
+        "10678243",
+        "10122149",
+        "10074801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down while in motion, leading to a loss of power steering and braking, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle quits running while driving",
+        "the electrical system starts flashing",
+        "the battery light flashes",
+        "and the vehicle loses power steering and braking."
+      ],
+      "odiNumbers": [
+        "10472577",
+        "10116708",
+        "10100750",
+        "10074801"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause difficulties in filling the gas tank, leading to inconvenience and potential safety risks.",
+      "symptoms": [
+        "The gas tank is not working right",
+        "it's difficult to fill the gas tank",
+        "and the gas pump pops out and doesn't let the driver put gas in the tank."
+      ],
+      "odiNumbers": [
+        "11030407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Panel Failure",
+      "impact": "The failure of the instrument panel can cause inaccurate readings, leading to confusion and potential safety risks.",
+      "symptoms": [
+        "The instrument panel provides inaccurate readings for various components."
+      ],
+      "odiNumbers": [
+        "10452505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Speed Control Failure",
+      "impact": "The failure of the speed control system can cause the vehicle to accelerate unexpectedly, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The vehicle's speed increases slowly while driving",
+        "requiring the driver to brake to maintain a safe speed."
+      ],
+      "odiNumbers": [
+        "10344983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose stopping power, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake pedal travels to the floorboard",
+        "brake fluid leaking",
+        "brake hoses fractured",
+        "grinding or crunching noise when braking",
+        "ABS system lights illuminated",
+        "pulsing or abnormal operation of the ABS system."
+      ],
+      "odiNumbers": [
+        "11170542",
+        "10619291",
+        "10477041",
+        "10451698",
+        "10193845",
+        "10171207",
+        "10169286",
+        "10128582",
+        "10088772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose traction, leading to accidents or injuries.",
+      "symptoms": [
+        "ABS system lights illuminated",
+        "grinding or crunching noise when braking",
+        "pulsing or abnormal operation of the ABS system",
+        "vehicle fishtailing or losing traction."
+      ],
+      "odiNumbers": [
+        "10619291",
+        "10477041",
+        "10451698",
+        "10193845",
+        "10088772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Component Failure",
+      "impact": "The failure of brake components can cause the vehicle to lose stopping power, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake pads and rotors worn out prematurely",
+        "brake calipers and shoes needing replacement",
+        "squealing or crunching noise when braking."
+      ],
+      "odiNumbers": [
+        "10171207",
+        "10169286",
+        "10128582"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the vehicle's brake system to malfunction, leading to accidents or injuries.",
+      "symptoms": [
+        "ECM determined to be defective",
+        "brake system malfunctioning."
+      ],
+      "odiNumbers": [
+        "10451698"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rust-Related Brake Line Failure",
+      "impact": "The failure of brake lines due to rust can cause the vehicle to lose stopping power, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake fluid leaking",
+        "brake hoses fractured",
+        "rusted fuel lines."
+      ],
+      "odiNumbers": [
+        "11170542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Filler Neck Separation and Fuel Line Fracture",
+      "impact": "Fuel tank filler neck separation and fuel line fracture can cause fuel to leak onto the ground, creating a fire hazard and potential accident risk.",
+      "symptoms": [
+        "Strong gasoline smell",
+        "fuel leaking onto the ground",
+        "fuel dripping from the fuel tank inlet check valve",
+        "fuel leaking from the seam of the fuel tank",
+        "fuel pressure regulator dripping fuel onto the engine."
+      ],
+      "odiNumbers": [
+        "10724672",
+        "10201785",
+        "10195194",
+        "10164180",
+        "10100775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failure can cause the vehicle to stall or hesitate, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle won't stay running",
+        "difficulty accelerating",
+        "slow speed buildup",
+        "gauges malfunctioning",
+        "speedometer and odometer not working."
+      ],
+      "odiNumbers": [
+        "10604980",
+        "10242318"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition System Malfunction",
+      "impact": "Ignition system malfunction can cause the vehicle to stall or fail to start, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Ignition malfunctioning",
+        "vehicle starts after multiple attempts."
+      ],
+      "odiNumbers": [
+        "10201785"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Front Wheel Bearing Failure",
+      "impact": "Premature failure of the front wheel bearings can cause loud grinding or growling noises, vibrations, and potentially lead to loss of control or accidents.",
+      "symptoms": [
+        "Loud grinding or growling noises",
+        "vibrations",
+        "and humming sounds coming from the front wheels."
+      ],
+      "odiNumbers": [
+        "10205208",
+        "10202444",
+        "10185701",
+        "10184066",
+        "10183401",
+        "10175571",
+        "10173458",
+        "10168716"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Overheating and Head Gasket Failure",
+      "impact": "Engine overheating can cause damage to the engine, leading to costly repairs, and potentially resulting in a blown head gasket, which can cause the engine to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine temperature gauge rises to the red zone",
+        "the engine makes bell-like sounds",
+        "the vehicle overheats",
+        "the engine head gasket blows."
+      ],
+      "odiNumbers": [
+        "10238706",
+        "10200266"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause loss of power, leading to accidents or leaving the driver stranded, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle shuts down",
+        "the lights on the radio intermittently illuminate",
+        "the vehicle loses steering and brakes",
+        "the vehicle will not start."
+      ],
+      "odiNumbers": [
+        "10160117",
+        "10151640",
+        "10113319",
+        "10097431",
+        "10083230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

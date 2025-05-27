@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 33,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Excessive Engine Oil Consumption",
+      "impact": "Excessive engine oil consumption can lead to premature engine wear, engine failure, and potentially cause accidents due to engine seizure or loss of power. It can also result in frequent oil top-offs, increasing maintenance costs and environmental concerns.",
+      "symptoms": [
+        "Low engine oil level warning",
+        "oil light comes on",
+        "engine oil level below minimum mark on dipstick",
+        "frequent need to add oil between services",
+        "excessive oil consumption between oil changes."
+      ],
+      "odiNumbers": [
+        "11515727",
+        "11493335",
+        "11492425",
+        "11488875",
+        "11485224",
+        "11480568",
+        "11477241",
+        "11472002",
+        "11471507",
+        "11471263",
+        "11466576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of airbags to deploy in the event of an accident, putting the driver and passengers at risk of serious injury or death.",
+      "symptoms": [
+        "The airbag malfunction light comes on and goes off multiple times while driving",
+        "the dashboard indicates an \"airbag malfunction\" after a collision",
+        "the warning message \"Air Bag System Malfunction\" appears on the instrument panel display."
+      ],
+      "odiNumbers": [
+        "11482854",
+        "11468801",
+        "11460158",
+        "11444268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Torque Vectoring and Lane Departure",
+      "impact": "The unintended activation of torque vectoring or collision avoidance systems can cause the vehicle to jerk to one side, potentially leading to loss of control, accidents, or near-misses.",
+      "symptoms": [
+        "The vehicle suddenly jerks to one side",
+        "applying torque to the wrong tires",
+        "and the steering wheel moves without human input",
+        "attempting to force the vehicle into a different lane."
+      ],
+      "odiNumbers": [
+        "11448467"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure and Vehicle Fire",
+      "impact": "Tire failure can cause loss of control, accidents, or vehicle fires, which can result in property damage, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle's tire suddenly becomes flat",
+        "causing the vehicle to veer off course",
+        "and in some cases",
+        "leading to a vehicle fire."
+      ],
+      "odiNumbers": [
+        "11431973",
+        "11403223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent Blind Spot Warning System Failure",
+      "impact": "The malfunctioning blind spot warning system can increase the risk of accidents or collisions, as the driver may not be aware of vehicles in the blind spot.",
+      "symptoms": [
+        "The passenger side blind spot warning system functions sporadically",
+        "sometimes detecting vehicles and sometimes not",
+        "even when driving at the same speed."
+      ],
+      "odiNumbers": [
+        "11396149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

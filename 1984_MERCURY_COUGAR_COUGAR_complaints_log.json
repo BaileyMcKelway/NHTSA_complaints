@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall, leading to a loss of control and increasing the risk of accidents. In severe cases, it can also cause fires, resulting in damage to the vehicle and potentially harming occupants.",
+      "symptoms": [
+        "The ignition switch is temperamental",
+        "the vehicle stalls",
+        "the ignition switch is melted",
+        "smoke comes out of the ignition switch",
+        "the interior of the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "557769",
+        "812728",
+        "983672",
+        "983406",
+        "983044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the vehicle to stall unexpectedly, leading to loss of control, accidents, or leaving the driver stranded. This can also cause electrical damage to the vehicle's components.",
+      "symptoms": [
+        "The vehicle stalls at any speed",
+        "the vehicle stalls without warning",
+        "the vehicle is difficult to start",
+        "the battery light and engine check light come on when trying to start the vehicle."
+      ],
+      "odiNumbers": [
+        "896821",
+        "731319",
+        "828571",
+        "531316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure to Lock in Emergency Braking",
+      "impact": "The failure of the seat belts to lock during emergency braking can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "Seat belts do not lock or tighten during emergency braking",
+        "failure of the seat belt system to restrain occupants."
+      ],
+      "odiNumbers": [
+        "864828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Warning Light Failure",
+      "impact": "The failure of the brake warning light can lead to a lack of awareness of brake system issues, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Brake warning light on the dashboard fails to illuminate",
+        "brake system malfunction or failure."
+      ],
+      "odiNumbers": [
+        "486068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Front Brake Hose Failure",
+      "impact": "The failure of the front brake hose can cause a loss of brake pressure, leading to extended stopping distances and increased risk of accidents.",
+      "symptoms": [
+        "Grinding or bumping noise from the front end of the vehicle",
+        "engine vibration",
+        "loss of brake pressure",
+        "failure of the equalization valve",
+        "loss of backup braking system."
+      ],
+      "odiNumbers": [
+        "486068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rack and Pinion Failure",
+      "impact": "The failure of the rack and pinion can cause poor steering ability, making it difficult to control the vehicle, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The steering feels loose or unstable",
+        "the vehicle wanders or drifts while driving",
+        "the steering wheel vibrates or shakes",
+        "the vehicle is difficult to steer",
+        "especially at high speeds."
+      ],
+      "odiNumbers": [
+        "545036"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The malfunction of the cruise control can cause the vehicle to accelerate or decelerate unexpectedly, leading to loss of control or accidents.",
+      "symptoms": [
+        "The cruise control does not disengage when the brakes are applied",
+        "the cruise control does not respond to input from the driver",
+        "the vehicle accelerates or decelerates unexpectedly",
+        "the cruise control light remains illuminated even when the system is turned off."
+      ],
+      "odiNumbers": [
+        "511786"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

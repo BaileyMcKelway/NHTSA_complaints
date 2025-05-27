@@ -1,0 +1,117 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause unexpected engine starting, electrical shorts, and fires in the engine compartment, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The engine starter engages without the key in the ignition",
+        "the ignition switch smokes or produces a burning smell",
+        "the vehicle starts without the key",
+        "the ignition switch makes a grinding noise",
+        "the vehicle is difficult to start",
+        "the ignition switch fails to turn",
+        "smoke emanates from the engine."
+      ],
+      "odiNumbers": [
+        "10045203",
+        "863615",
+        "984148",
+        "983782",
+        "983782"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Short",
+      "impact": "Electrical system shorts can cause fires in the engine compartment or instrument panel, leading to potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle experiences an electrical short",
+        "the battery has a short",
+        "the vehicle catches fire",
+        "smoke emanates from the engine or instrument panel."
+      ],
+      "odiNumbers": [
+        "508147",
+        "800297",
+        "481858"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Shoulder Harness Malfunction",
+      "impact": "The malfunction of the seat belt shoulder harness can cause the driver's head to strike the windshield, resulting in injuries to the neck and head, and potentially leading to accidents or fatalities.",
+      "symptoms": [
+        "The shoulder harness pulls from the track on impact",
+        "the driver's head strikes the windshield",
+        "the shoulder harness moves up and down constantly",
+        "the shoulder harness gets stuck and releases",
+        "the shoulder harness makes weird noises",
+        "the shoulder harness is stuck in the middle."
+      ],
+      "odiNumbers": [
+        "730144",
+        "730144",
+        "829101",
+        "533172",
+        "812538"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause an electrical fire in the vehicle, which can lead to serious safety risks, including injury or death.",
+      "symptoms": [
+        "The vehicle experiences an electrical fire",
+        "often accompanied by a burning smell or visible flames."
+      ],
+      "odiNumbers": [
+        "558581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Gas Tank Leak",
+      "impact": "A hole in the gas tank can cause fuel to leak, leading to a fire hazard, and potentially causing damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "A strong gas smell is present around the vehicle and/or in the garage",
+        "indicating a fuel leak."
+      ],
+      "odiNumbers": [
+        "829479"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank Overflow",
+      "impact": "The overflow of gasoline when the tank is full can cause fuel to spill onto the ground, creating a fire hazard and potentially causing damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Gasoline overflows when filling the tank",
+        "often resulting in a puddle of fuel on the ground."
+      ],
+      "odiNumbers": [
+        "969758"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

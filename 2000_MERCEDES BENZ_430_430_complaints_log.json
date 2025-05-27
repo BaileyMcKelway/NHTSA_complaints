@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "INTERIOR LIGHTING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Deployment Failure",
+      "impact": "The failure of the airbag system to deploy in the event of a crash can increase the risk of injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbag warning light on the dashboard",
+        "airbags do not deploy in the event of a crash",
+        "unexpected airbag deployment while driving."
+      ],
+      "odiNumbers": [
+        "10555676",
+        "10195597",
+        "891695",
+        "890214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause unexpected distractions while driving, increasing the risk of accidents, and can also cause injuries or fatalities.",
+      "symptoms": [
+        "Airbags deploy unexpectedly while driving",
+        "sudden and unexpected loud noise",
+        "sudden and unexpected deployment of airbags."
+      ],
+      "odiNumbers": [
+        "10195597"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Panel Cluster Failure",
+      "impact": "The failure of the instrument panel cluster can cause the driver to lose access to critical information, such as speed, fuel level, and warning lights, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Dash lights flicker and dim",
+        "instrument panel display fails",
+        "pixels in the display are failing",
+        "information is not legible",
+        "unable to read speedometer or fuel gauge."
+      ],
+      "odiNumbers": [
+        "10526036",
+        "10205105",
+        "10194804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Crankshaft Position Sensor Failure",
+      "impact": "The failure of the crankshaft position sensor can cause the engine to fail to start or stall randomly, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine fails to start",
+        "engine stalls randomly",
+        "no OBDII error code set",
+        "engine fails in hot weather due to heat-related intermittent sensor problem."
+      ],
+      "odiNumbers": [
+        "10125408"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Lighting Failure",
+      "impact": "The failure of the instrument cluster lighting can cause the driver to be unable to read essential gauges, such as the speedometer, fuel gauge, and temperature gauge, which can lead to accidents, traffic violations, or other safety issues.",
+      "symptoms": [
+        "The instrument panel is inadequately illuminated",
+        "the instrument cluster gauges and indicators do not illuminate",
+        "the speedometer flashes and then goes dark",
+        "the driver is unable to read the speedometer",
+        "fuel gauge",
+        "or temperature gauge."
+      ],
+      "odiNumbers": [
+        "10397998",
+        "10386195",
+        "10169539",
+        "10165406"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Coil Spring Failure Due to Rust",
+      "impact": "The failure of the front coil spring can cause loss of vehicle control, leading to accidents or leaving the driver stranded. In this case, the spring completely separated from the car, which could have resulted in serious consequences.",
+      "symptoms": [
+        "The vehicle feels like something is dragging underneath",
+        "unusual noises or vibrations while driving",
+        "sudden loss of suspension functionality."
+      ],
+      "odiNumbers": [
+        "10513221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause loss of vehicle control, leading to accidents or leaving the driver stranded. The failure can also lead to costly repairs and downtime.",
+      "symptoms": [
+        "The vehicle experiences unusual noises or vibrations while driving",
+        "sudden loss of suspension functionality",
+        "difficulty controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10264173"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Electrical Components",
+      "impact": "Water ingress into electrical components can cause the vehicle's electrical system to malfunction, leading to stalling, failure to start, or even trapping occupants inside the vehicle, which can be a safety hazard.",
+      "symptoms": [
+        "Vehicle won't start",
+        "intermittent stalling",
+        "electrical system shutdown",
+        "power door failure",
+        "occupants trapped inside the vehicle."
+      ],
+      "odiNumbers": [
+        "855790",
+        "541985",
+        "971143",
+        "483014",
+        "966641",
+        "489926",
+        "489625",
+        "489750",
+        "959739"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags fail to deploy during a crash",
+        "airbag warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "808376",
+        "489890"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Warning Light Malfunction",
+      "impact": "A malfunctioning airbag warning light can indicate a problem with the airbag system, which can lead to a failure to deploy in the event of a crash, putting occupants at risk of injury.",
+      "symptoms": [
+        "Airbag warning light comes on and stays on",
+        "airbag warning light flashes intermittently."
+      ],
+      "odiNumbers": [
+        "490799",
+        "490799"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Profile Gasket Failure",
+      "impact": "The failure of the profile gasket can cause the engine to overheat, leading to potential engine damage, coolant leakage, and increased risk of accidents due to loss of vehicle control.",
+      "symptoms": [
+        "Engine overheating",
+        "coolant leakage",
+        "loss of coolant",
+        "antifreeze leaking onto the roadway."
+      ],
+      "odiNumbers": [
+        "701752",
+        "700846",
+        "533802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

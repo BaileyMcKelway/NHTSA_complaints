@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure/Stalling",
+      "impact": "The sudden stalling of the engine can cause loss of control, accidents, and potentially life-threatening situations, especially when it occurs on a highway.",
+      "symptoms": [
+        "The check engine light comes on",
+        "the engine stalls",
+        "the vehicle shuts off while driving",
+        "the vehicle hops into neutral without warning",
+        "the vehicle slows down or stops unexpectedly."
+      ],
+      "odiNumbers": [
+        "11553088",
+        "11424116",
+        "11083305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Issues (Uncommanded Shift to Neutral)",
+      "impact": "The uncommanded shift to neutral can cause loss of control, accidents, and potentially life-threatening situations, especially when it occurs on a highway.",
+      "symptoms": [
+        "The vehicle hops into neutral without warning",
+        "the vehicle slows down or stops unexpectedly",
+        "the vehicle shifts into neutral while driving."
+      ],
+      "odiNumbers": [
+        "11492225",
+        "11083305"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Delivery Error",
+      "impact": "The fuel pump delivery error can cause the engine to shut off while driving, leading to loss of control, accidents, and potentially life-threatening situations.",
+      "symptoms": [
+        "The engine shuts off while driving",
+        "the vehicle stalls",
+        "the vehicle slows down or stops unexpectedly."
+      ],
+      "odiNumbers": [
+        "11424116"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Transmission Shift into Neutral",
+      "impact": "The unintended shift of the transmission into neutral can cause loss of control, especially on wet, icy, or snowy surfaces, increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle shifts into neutral unexpectedly while driving at low speeds (under 5mph)",
+        "slowing",
+        "coasting",
+        "or during slow accelerations",
+        "resulting in a hard shift",
+        "loss of traction",
+        "and potential loss of control."
+      ],
+      "odiNumbers": [
+        "11569584",
+        "11466094"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to Bump or Pothole",
+      "impact": "The failure of the brakes when driving over a bump or pothole can cause the vehicle to lose control, leading to potential accidents or collisions, which can result in serious injury or death.",
+      "symptoms": [
+        "The brakes fail to respond when driving over a bump or pothole",
+        "the vehicle continues to roll out of control",
+        "a loud recoiling sound is heard when the brakes are applied",
+        "the emergency brake also fails."
+      ],
+      "odiNumbers": [
+        "11458327",
+        "11424121"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

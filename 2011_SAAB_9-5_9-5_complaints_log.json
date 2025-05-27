@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "EXTERIOR LIGHTING",
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Turn Signal and Brake Light Failure",
+      "impact": "The premature wear and overheating of the halogen-style light bulbs in the rear turn signal and brake lights can cause a fire risk, reduce visibility, and lead to accidents.",
+      "symptoms": [
+        "The halogen lights burn out every 4-6 months",
+        "excessive heat is generated within the light housing",
+        "melting/fusing of the plastic housing",
+        "premature rust forming on the trunk lid",
+        "notification errors to replace the rear turn signal",
+        "overaggressive signal blinking",
+        "and melting of the bulb and socket together."
+      ],
+      "odiNumbers": [
+        "11156954",
+        "10852417",
+        "10852021",
+        "10824423",
+        "10536965"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Emergency Brake (EEB) Failure",
+      "impact": "The failure of the Electronic Emergency Brake system can cause the brakes to remain partially engaged, leading to reduced braking ability, increased stopping distances, and increased risk of accidents. Additionally, it can cause excessive wear on brake pads and rotors, leading to premature failure and increased maintenance costs.",
+      "symptoms": [
+        "The brake pedal does not return to its proper position",
+        "the brakes lock on",
+        "the brake lights remain on",
+        "the vehicle feels like it's being held back",
+        "vibration when braking",
+        "poor gas mileage",
+        "excessive wear on rear brake pads and rotors."
+      ],
+      "odiNumbers": [
+        "11124540",
+        "10806185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Delayed Recall Repair for Takata Airbag Recall",
+      "impact": "The delay in repairing the Takata airbag recall can increase the risk of airbag rupture, which can cause serious injury or death in the event of a crash.",
+      "symptoms": [
+        "None",
+        "as this complaint is related to the delay in repair rather than a specific symptom experienced by the driver."
+      ],
+      "odiNumbers": [
+        "10862214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Haldex All-Wheel Drive System Failure",
+      "impact": "The failure of the Haldex all-wheel drive system can cause the vehicle to become undrivable, potentially leading to accidents or leaving the driver stranded. The system's failure can also cause the prop-shaft to bind, leading to rear wheel binding and hopping, which can result in loss of control.",
+      "symptoms": [
+        "Popping or thudding noise when driving away quickly with the wheel turned",
+        "binding or grinding deep noise when in first gear with the wheel turned almost at lock",
+        "inability to drive once the system shuts itself off",
+        "prop-shaft binding",
+        "rear wheel binding and hopping."
+      ],
+      "odiNumbers": [
+        "10726594"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

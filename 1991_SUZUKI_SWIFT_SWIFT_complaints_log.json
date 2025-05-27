@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "LATCHES/LOCKS/LINKAGES",
+    "SEAT BELTS",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Door Latch Mechanism",
+      "impact": "The faulty door latch mechanism can cause the door to only open from the inside, making it difficult for passengers to exit the vehicle, which can lead to safety risks in emergency situations.",
+      "symptoms": [
+        "The door will only open from the inside",
+        "the door latch is stuck",
+        "the door cannot be opened from the outside."
+      ],
+      "odiNumbers": [
+        "528436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fail to shut or open unexpectedly while driving, which can obstruct the driver's view and lead to accidents.",
+      "symptoms": [
+        "The hood fails to shut",
+        "the hood opens unexpectedly while driving",
+        "the hood latch is stuck",
+        "the hood cannot be closed."
+      ],
+      "odiNumbers": [
+        "528436",
+        "522381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Latching Issues",
+      "impact": "Failure of the seat belt to latch or unlatch properly can increase the risk of injury or death in the event of an accident, as occupants may not be properly restrained.",
+      "symptoms": [
+        "Seat belts do not latch",
+        "seat belts are difficult to unlatch",
+        "seat belts may or may not extend from the door",
+        "automatic shoulder belts do not retract",
+        "allowing passengers to exit."
+      ],
+      "odiNumbers": [
+        "528436",
+        "965601",
+        "964587"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Seat Track Failure",
+      "impact": "The failure of the passenger seat track can cause the seat to move forward or backward upon impact, potentially leading to occupant injury or ejection from the seat, and compromising the structural integrity of the vehicle.",
+      "symptoms": [
+        "The passenger seat moves forward or backward upon impact",
+        "the seat back rest collapses",
+        "the occupant is forced into the glove compartment",
+        "the seat track fails to hold the seat in place."
+      ],
+      "odiNumbers": [
+        "976500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

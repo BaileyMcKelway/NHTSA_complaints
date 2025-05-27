@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause electrical shorts, fires, and smoke in the steering column, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle will not start",
+        "smoke is coming from the steering column",
+        "the ignition switch is charged and burned",
+        "wiring is burned",
+        "the car is filled with smoke from the steering column."
+      ],
+      "odiNumbers": [
+        "558917",
+        "803324",
+        "983972",
+        "983688",
+        "983619"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter and Solenoid Failure",
+      "impact": "The failure of the starter and solenoid can cause the vehicle to not start, which can leave the driver stranded and potentially lead to accidents.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the starter and solenoid are burned out."
+      ],
+      "odiNumbers": [
+        "558917",
+        "876891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ECM (Engine Control Module) Failure",
+      "impact": "The failure of the ECM can cause the vehicle to malfunction, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle will not start",
+        "the ECM has failed."
+      ],
+      "odiNumbers": [
+        "558917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Body Injector Failure",
+      "impact": "The failure of the throttle body injector can cause the engine to surge or accelerate unexpectedly, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle surges or accelerates unexpectedly",
+        "the vehicle accelerates even when the brakes are applied",
+        "the problem is intermittent and may disappear after restarting the engine."
+      ],
+      "odiNumbers": [
+        "558917",
+        "558917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Surging or Acceleration",
+      "impact": "The intermittent surging or acceleration of the vehicle can cause a loss of control, leading to potential accidents.",
+      "symptoms": [
+        "The vehicle surges or accelerates unexpectedly",
+        "the vehicle accelerates even when the brakes are applied",
+        "the problem is intermittent and may disappear after restarting the engine."
+      ],
+      "odiNumbers": [
+        "814303"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure (P215/70R15)",
+      "impact": "Tire failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Tire blowout",
+        "tire tread separation",
+        "tire sidewall failure",
+        "loss of air pressure",
+        "vibration while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "558917"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

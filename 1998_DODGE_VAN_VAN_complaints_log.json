@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "LATCHES/LOCKS/LINKAGES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Door Lock Actuator Motor Failure",
+      "impact": "The failure of the power door lock actuator motor can trap occupants inside the vehicle, making it difficult or impossible to exit, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "The door cannot be opened from the inside or outside",
+        "operating the inside door handle has no effect",
+        "the locking rod cannot be raised manually",
+        "and the door cannot be opened using the door handle or key locking/unlocking mechanism."
+      ],
+      "odiNumbers": [
+        "10120065",
+        "10120068",
+        "10120074"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Bag Light, Cruise Control, and Horn Failure",
+      "impact": "The failure of the air bag light, cruise control, and horn can compromise vehicle safety and functionality, leading to potential accidents or inconvenience.",
+      "symptoms": [
+        "The air bag light comes on",
+        "the cruise control stops working",
+        "and the horn stops working."
+      ],
+      "odiNumbers": [
+        "10132603"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Door Lock Failure",
+      "impact": "The failure of the automatic door lock system can cause the doors to become stuck, making it difficult or impossible to enter or exit the vehicle, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The doors will not open from the inside or outside",
+        "the doors are stuck",
+        "the door locks do not respond to the unlock button",
+        "the door locks do not respond to the key fob."
+      ],
+      "odiNumbers": [
+        "10154662",
+        "609565",
+        "608133"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clockspring Failure",
+      "impact": "The failure of the clockspring can cause the airbag light to remain on, indicating a potential safety risk, and can also affect other systems such as the horn and cruise control, leading to reduced vehicle functionality and potential safety hazards.",
+      "symptoms": [
+        "The airbag light remains on",
+        "the horn does not work or is not as loud as usual",
+        "the cruise control does not work or malfunctions",
+        "the cruise control light flashes or stays on for a short time."
+      ],
+      "odiNumbers": [
+        "10110163",
+        "10015656",
+        "545419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Assembly Failure",
+      "impact": "The failure of the airbag assembly can cause the airbag light to remain on, indicating a potential safety risk, and can also lead to reduced vehicle functionality and potential safety hazards.",
+      "symptoms": [
+        "The airbag light remains on",
+        "the airbag system may not function properly in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10015656"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Airbag On/Off Switch Failure",
+      "impact": "The failure of the airbag on/off switch can cause the airbag system to malfunction, leading to reduced vehicle safety and potential safety hazards.",
+      "symptoms": [
+        "The airbag on/off switch does not function properly",
+        "the airbag light may remain on or flash."
+      ],
+      "odiNumbers": [
+        "545419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

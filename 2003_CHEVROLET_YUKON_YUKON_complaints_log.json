@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Speedometer and Gauge Cluster Failure",
+      "impact": "The failure of the speedometer and gauge cluster can cause inaccurate readings, leading to potential safety risks, such as speeding or losing control of the vehicle.",
+      "symptoms": [
+        "The speedometer fails to provide accurate readings",
+        "the speedometer sticks or freezes at a specific speed",
+        "the speedometer quits working altogether",
+        "the fuel gauge fails to provide accurate readings",
+        "the headlights flicker or dim."
+      ],
+      "odiNumbers": [
+        "10654865",
+        "10593474",
+        "10308695",
+        "10225631",
+        "10212987",
+        "10200513",
+        "10176622",
+        "10175149",
+        "10171908"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Shaft Failure",
+      "impact": "The failure of the steering shaft can cause a loss of steering control, leading to accidents or near-miss situations, especially at high speeds.",
+      "symptoms": [
+        "Popping noise when turning and slowing down",
+        "loose steering wheel",
+        "vibration of the steering wheel at high speeds."
+      ],
+      "odiNumbers": [
+        "10127935",
+        "10105017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause a loss of steering control, leading to accidents or near-miss situations, especially at high speeds.",
+      "symptoms": [
+        "Loose steering wheel",
+        "vibration of the steering wheel at high speeds."
+      ],
+      "odiNumbers": [
+        "10105017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Pressure Loss and Vehicle Instability",
+      "impact": "The sudden loss of tire air pressure can cause the vehicle to become unstable, leading to loss of control, spinning, and potential accidents, especially when driving in wet conditions or making turns.",
+      "symptoms": [
+        "The vehicle becomes unstable",
+        "slides",
+        "or spins while turning",
+        "especially in rainy conditions; loss of tire air pressure."
+      ],
+      "odiNumbers": [
+        "11437212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

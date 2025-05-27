@@ -1,0 +1,50 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "LANE DEPARTURE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Blind Spot Detection System Malfunction",
+      "impact": "The malfunctioning Blind Spot Detection System can cause false positive warnings, leading to undue concern and distraction while driving, potentially causing accidents or near-misses.",
+      "symptoms": [
+        "The Blind Spot Warning system reports false positives frequently",
+        "illuminating the indicators unnecessarily",
+        "and causing the system to be unreliable and untrustworthy."
+      ],
+      "odiNumbers": [
+        "11487702",
+        "11463835",
+        "11462707",
+        "11447810",
+        "11443514",
+        "11443438",
+        "11439145",
+        "11439040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Dual Clutch Transmission (DCT) Failure to Shift",
+      "impact": "The failure of the DCT to shift out of first gear can cause the engine to over-rev, leading to a potential loss of control, accidents, and engine damage.",
+      "symptoms": [
+        "The vehicle fails to shift out of first gear",
+        "the engine over-revs",
+        "the \"check engine\" light comes on",
+        "the RPM gauge exceeds 7000 RPM",
+        "the vehicle may stall or hesitate."
+      ],
+      "odiNumbers": [
+        "11481627"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

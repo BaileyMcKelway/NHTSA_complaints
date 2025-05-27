@@ -1,0 +1,98 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "EQUIPMENT",
+    "UNKNOWN OR OTHER",
+    "SERVICE BRAKES",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Tread Separation/Belt Failure",
+      "impact": "The sudden separation of the tire tread or belt can cause loss of control, leading to accidents, injuries, and fatalities. The failure can occur without warning, making it difficult for drivers to react in time.",
+      "symptoms": [
+        "Tire blowout",
+        "tread separation",
+        "loss of steering",
+        "loss of suspension",
+        "vehicle veering off the road",
+        "and sudden loss of control."
+      ],
+      "odiNumbers": [
+        "769865",
+        "8010406",
+        "753331",
+        "894206",
+        "891399"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tire Blowout",
+      "impact": "Tire blowouts can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "loud noise",
+        "vibration",
+        "and loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "564220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Placard Recall on Monaco Windsor Model",
+      "impact": "The issue with the placard recall on the Monaco Windsor model may lead to incorrect or missing information on the vehicle's certification label, which can affect the vehicle's safety and compliance with regulatory requirements.",
+      "symptoms": [
+        "Incorrect or missing information on the vehicle's certification label",
+        "potential non-compliance with safety regulations."
+      ],
+      "odiNumbers": [
+        "10031856"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incomplete or Inadequate Repairs",
+      "impact": "Incomplete or inadequate repairs can lead to continued safety risks, decreased vehicle performance, and increased maintenance costs.",
+      "symptoms": [
+        "Recurrence of original problem",
+        "new issues arising after repair",
+        "incomplete or partial repair of original issue",
+        "lack of communication from dealership or repair shop about repairs."
+      ],
+      "odiNumbers": [
+        "734883"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Shock Absorbers",
+      "impact": "The failure of the shock absorbers can cause loss of vehicle control, especially at high speeds, which can lead to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle wanders or drifts while driving",
+        "the vehicle is difficult to control",
+        "the vehicle sways or leans excessively while cornering",
+        "the vehicle's ride is rough or unstable."
+      ],
+      "odiNumbers": [
+        "734885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

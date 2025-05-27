@@ -1,0 +1,99 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "EXTERIOR LIGHTING",
+    "AIR BAGS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccuracy of the fuel gauge can lead to unexpected fuel depletion, causing the vehicle to run out of fuel, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The fuel gauge does not accurately reflect the amount of fuel in the tank",
+        "the gauge reads full when the tank is not full",
+        "the low fuel light comes on when there is still fuel in the tank",
+        "the gauge becomes erratic",
+        "and the gauge registers \"E\" when the tank is full."
+      ],
+      "odiNumbers": [
+        "10449187",
+        "10440918",
+        "10425419",
+        "10398315",
+        "10342752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Failure",
+      "impact": "The sudden failure of headlights while driving, especially at night, can significantly reduce visibility, increasing the risk of accidents and posing a serious safety threat.",
+      "symptoms": [
+        "Low beam headlights stop working without warning",
+        "simultaneous failure of both low beam headlights",
+        "inability to turn on low beam headlights despite replacing bulbs",
+        "high beams and other lights remain functional."
+      ],
+      "odiNumbers": [
+        "11110041",
+        "10928717"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Window Failure",
+      "impact": "The repeated failure of the driver's side power window can cause inconvenience and distraction while driving, potentially leading to accidents.",
+      "symptoms": [
+        "Driver's side power window stops working",
+        "requires repeated replacement."
+      ],
+      "odiNumbers": [
+        "11110041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of serious injury or fatality to vehicle occupants.",
+      "symptoms": [
+        "Airbags do not deploy despite significant frontal impact",
+        "lack of airbag warning lights or indicators",
+        "no airbag deployment despite crash severity exceeding deployment threshold."
+      ],
+      "odiNumbers": [
+        "10808532"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Hydraulic System Failure",
+      "impact": "The failure of the ABS hydraulic system can cause the anti-lock braking system to malfunction, leading to increased stopping distances and loss of vehicle control, which can result in accidents and injuries.",
+      "symptoms": [
+        "ABS light illuminates on the dashboard",
+        "spongy or soft brake pedal",
+        "brake pedal feels like it's pulsing or vibrating",
+        "difficulty stopping the vehicle",
+        "increased stopping distances",
+        "loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "10451059",
+        ""
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

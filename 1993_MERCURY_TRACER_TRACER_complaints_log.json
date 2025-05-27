@@ -1,0 +1,236 @@
+{
+  "totalComplaints": 93,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "STEERING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure",
+      "impact": "Fuel system failures can cause fuel leaks, fires, and electrical shocks, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "smoke coming out of air vents",
+        "fuel fumes in the passenger compartment",
+        "fuel tank cracking",
+        "electrical shocks when exiting the vehicle."
+      ],
+      "odiNumbers": [
+        "871303",
+        "863833",
+        "847443",
+        "536413",
+        "801750",
+        "977122",
+        "959661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "Fuel pump failure can cause electrical shorts, fires, and fuel leaks, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Smoke coming out of air vents",
+        "electrical shorts",
+        "fuel leaks",
+        "fuel pump failure."
+      ],
+      "odiNumbers": [
+        "871303",
+        "977122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Tank Failure",
+      "impact": "Fuel tank failure can cause fuel leaks, fires, and electrical shocks, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel tank cracking",
+        "fuel fumes in the passenger compartment",
+        "fuel tank replacement needed."
+      ],
+      "odiNumbers": [
+        "863833",
+        "847443",
+        "801750",
+        "959661"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause electrical shocks, fires, and other safety issues, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Electrical shocks when exiting the vehicle",
+        "ground wire ignition",
+        "electrical shorts."
+      ],
+      "odiNumbers": [
+        "536413",
+        "977122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Safety Feature Failure",
+      "impact": "Failure of safety features, such as the fuel cut-off switch, can increase the risk of accidents and injuries.",
+      "symptoms": [
+        "Fuel cut-off switch failure",
+        "seat belt failure."
+      ],
+      "odiNumbers": [
+        "808753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Speedometer Cable Failure",
+      "impact": "Failure of the speedometer cable can cause inaccurate speed readings, which can lead to accidents or traffic violations.",
+      "symptoms": [
+        "Speedometer cable noise",
+        "needle shaking."
+      ],
+      "odiNumbers": [
+        "536413"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 7,
+      "issueCategory": "Rough Idle",
+      "impact": "Rough idle can cause decreased vehicle performance, increased fuel consumption, and potentially lead to engine damage.",
+      "symptoms": [
+        "Rough idle."
+      ],
+      "odiNumbers": [
+        "485396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Axle Bolt Failure",
+      "impact": "The failure of the front axle bolts can cause loss of steering control, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Loss of steering control",
+        "wheels pointing sideways",
+        "steering wheel shaking or vibrating",
+        "loose or fallen-off nuts",
+        "bolts working themselves out of their holes."
+      ],
+      "odiNumbers": [
+        "10197093",
+        "535259",
+        "962742"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Component Failure",
+      "impact": "The failure of power steering components, such as tie rods or nuts, can cause loss of steering control, leading to accidents or near-misses, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Steering wheel shakes violently",
+        "loose steering",
+        "loss of control",
+        "especially when turning",
+        "nuts falling off power steering rack",
+        "steering wheel/column vibration."
+      ],
+      "odiNumbers": [
+        "602264",
+        "502256",
+        "485396",
+        "485929"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure due to Sticking Emergency Brake Cable",
+      "impact": "The sticking of the emergency brake cable can cause the rear brake pads to wear down prematurely, leading to brake failure, accidents, and injuries.",
+      "symptoms": [
+        "Rear brake pads wear down excessively",
+        "brakes lock up",
+        "soft brake pedal",
+        "noisy brakes",
+        "squealing or whining brakes."
+      ],
+      "odiNumbers": [
+        "506154",
+        "485929",
+        "485396"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Failure due to Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brake pedal to have extremely low pressure, making it difficult to stop the vehicle, which can lead to accidents and injuries.",
+      "symptoms": [
+        "Extremely low brake pedal pressure",
+        "brake pedal feels soft",
+        "brakes fail to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "961812",
+        "502256"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Failure due to Disc Rotor and Caliper Failure",
+      "impact": "The failure of the disc rotor and caliper can cause the brakes to fail, leading to accidents and injuries.",
+      "symptoms": [
+        "Disc rotor and caliper need to be replaced frequently",
+        "brakes fail to stop the vehicle",
+        "accidents occur."
+      ],
+      "odiNumbers": [
+        "961852",
+        "966507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Failure due to Unknown Causes",
+      "impact": "The failure of the brakes can cause accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brakes fail to stop the vehicle",
+        "accidents occur",
+        "injuries and fatalities result."
+      ],
+      "odiNumbers": [
+        "513387",
+        "503302",
+        "975545"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

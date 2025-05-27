@@ -1,0 +1,169 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure - Wiring Short Circuit",
+      "impact": "The electrical system failure can cause a fire in the trunk, leading to a risk of vehicle damage, injury, or even fatalities. The sudden loss of power can also cause the vehicle to shut off in the middle of the road, increasing the risk of accidents.",
+      "symptoms": [
+        "Smoke coming from the trunk",
+        "vehicle shutting off in the middle of the road",
+        "burning smell",
+        "electrical system malfunction."
+      ],
+      "odiNumbers": [
+        "866076",
+        "964404"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure of Driver-Side Airbag to Deploy in Frontal Collision",
+      "impact": "The failure of the driver-side airbag to deploy in a frontal collision can increase the risk of serious injury or death to the driver, as the airbag is designed to provide critical protection in such situations.",
+      "symptoms": [
+        "The driver-side airbag does not deploy in a frontal collision",
+        "despite the vehicle's speed and impact severity meeting the deployment criteria."
+      ],
+      "odiNumbers": [
+        "979748"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause damage to the vehicle, potentially leading to a loss of control, accident, or injury to occupants.",
+      "symptoms": [
+        "Smoke or flames visible from the engine compartment",
+        "burning smell or odor",
+        "warning lights or alarms on the dashboard",
+        "loss of engine power",
+        "unusual engine noise or sounds."
+      ],
+      "odiNumbers": [
+        "509237",
+        "10493451",
+        "10384211",
+        "10353101",
+        "10294019",
+        "10273491",
+        "10264211",
+        "10259411",
+        "10244401",
+        "10234201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Fuel System Components",
+      "impact": "Faulty fuel system components can cause fuel leaks, which can lead to engine compartment fires, accidents, or injuries.",
+      "symptoms": [
+        "Fuel smell or odor",
+        "fuel leaks",
+        "difficulty starting the engine",
+        "engine stalling",
+        "decreased engine performance",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "10519211",
+        "10493451",
+        "10384211",
+        "10353101",
+        "10294019",
+        "10273491",
+        "10264211",
+        "10259411",
+        "10244401",
+        "10234201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electrical System Malfunctions",
+      "impact": "Electrical system malfunctions can cause engine compartment fires, accidents, or injuries due to faulty wiring, connectors, or components.",
+      "symptoms": [
+        "Warning lights or alarms on the dashboard",
+        "burning smell or odor",
+        "unusual electrical noises or sounds",
+        "difficulty starting the engine",
+        "engine stalling",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "10493451",
+        "10384211",
+        "10353101",
+        "10294019",
+        "10273491",
+        "10264211",
+        "10259411",
+        "10244401",
+        "10234201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "often when shifting into gear or when the vehicle is stationary",
+        "and may continue to accelerate even when the driver attempts to brake."
+      ],
+      "odiNumbers": [
+        "971416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Transmission Control Module",
+      "impact": "A faulty transmission control module can cause unintended acceleration, loss of vehicle control, and accidents, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "often when shifting into gear or when the vehicle is stationary",
+        "and may continue to accelerate even when the driver attempts to brake."
+      ],
+      "odiNumbers": [
+        "971416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Failure of Brake-Throttle Override System",
+      "impact": "Failure of the brake-throttle override system can cause unintended acceleration, loss of vehicle control, and accidents, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without input from the driver",
+        "often when shifting into gear or when the vehicle is stationary",
+        "and may continue to accelerate even when the driver attempts to brake."
+      ],
+      "odiNumbers": [
+        "971416"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

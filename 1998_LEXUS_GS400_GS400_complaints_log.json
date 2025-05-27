@@ -1,0 +1,86 @@
+{
+  "totalComplaints": 32,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities, as the vehicle's occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "and the vehicle's occupants may sustain injuries."
+      ],
+      "odiNumbers": [
+        "10101069",
+        "10061323",
+        "10048397",
+        "8003649",
+        "734324",
+        "10007022"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause loss of vehicle control, accidents, and injuries, potentially resulting in fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "often when the driver is braking or slowing down",
+        "and may not respond to brake pedal input. The accelerator pedal may stick or feel stuck",
+        "and the vehicle may lunge forward or accelerate rapidly."
+      ],
+      "odiNumbers": [
+        "11207221",
+        "10332417",
+        "10313693",
+        "10310627",
+        "10068519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Booster Motor Failure",
+      "impact": "The failure of the brake booster motor can cause the brake pedal to feel hard or spongy, leading to increased stopping distances and potentially causing accidents.",
+      "symptoms": [
+        "The brake pedal feels hard or spongy",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "10452748",
+        "751775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Anti-Skid Sensor Failure",
+      "impact": "The failure of the anti-skid sensor can cause the vehicle's anti-lock braking system (ABS) to malfunction, leading to reduced traction and increased stopping distances, which can cause accidents.",
+      "symptoms": [
+        "The ABS light is illuminated on the dashboard",
+        "the vehicle's brakes are not functioning properly",
+        "the vehicle's wheels lock up during braking",
+        "the vehicle takes longer to stop than usual."
+      ],
+      "odiNumbers": [
+        "607762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "STRUCTURE",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to increased risk of injury or death in the event of an accident, as the airbags may not deploy properly or at all.",
+      "symptoms": [
+        "The airbag warning light illuminates",
+        "the driver-side airbag does not deploy in a crash",
+        "the side curtain airbags deploy incorrectly",
+        "the airbag system fails to function properly."
+      ],
+      "odiNumbers": [
+        "11431651",
+        "10575191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spare Tire Mounting Support Failure",
+      "impact": "The fracture and dislodging of the spare tire mounting support can cause the spare tire to fall off the vehicle, potentially causing injury or damage to other vehicles on the road.",
+      "symptoms": [
+        "The spare tire is dislodged",
+        "the spare tire mounting support is fractured",
+        "the spare tire is loose or detached."
+      ],
+      "odiNumbers": [
+        "11064349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Paint Failure",
+      "impact": "The premature peeling of paint on the hood and roof can lead to rust and corrosion, compromising the structural integrity of the vehicle and potentially causing safety issues.",
+      "symptoms": [
+        "Paint peeling on the hood",
+        "paint peeling on the roof",
+        "rust or corrosion on the hood and roof."
+      ],
+      "odiNumbers": [
+        "10936547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Random Engine Stalling",
+      "impact": "The random stalling of the engine can cause loss of power and control, increasing the risk of accidents, especially when accelerating from a stop or navigating through intersections.",
+      "symptoms": [
+        "The engine shuts off randomly",
+        "often when accelerating from a stop light or stop sign",
+        "the vehicle will restart when put in neutral and the key is turned back over",
+        "the engine may stall once a week or multiple times a week",
+        "or may not stall for several weeks",
+        "no error codes are displayed."
+      ],
+      "odiNumbers": [
+        "11141068"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

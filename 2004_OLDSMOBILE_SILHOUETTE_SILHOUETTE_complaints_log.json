@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation on Goodyear Tires",
+      "impact": "Tread separation on Goodyear tires can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Tires develop blisters",
+        "rubber splits open",
+        "tires go flat",
+        "excessive vibration while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10465802",
+        "10225197",
+        "10144328",
+        "10137234"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Malfunction",
+      "impact": "The malfunction of the electrical system can cause various safety-critical systems to fail, leading to accidents or inconvenience.",
+      "symptoms": [
+        "The radio",
+        "locks",
+        "sliding doors",
+        "and instrument panel malfunction or fail to operate properly."
+      ],
+      "odiNumbers": [
+        "11150548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Speedometer Malfunction",
+      "impact": "An inaccurate speedometer can lead to speeding tickets, accidents, or loss of control, as the driver may not be aware of their actual speed.",
+      "symptoms": [
+        "The speedometer displays incorrect speed readings",
+        "sometimes showing correct speed and other times showing obviously incorrect speed."
+      ],
+      "odiNumbers": [
+        "10313029"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Power Sliding Door Opening",
+      "impact": "The unintended opening of the power sliding door while the vehicle is in motion can cause occupants to fall out of the vehicle, leading to serious injury or fatality. Additionally, it can distract the driver and cause loss of control, increasing the risk of accidents.",
+      "symptoms": [
+        "The power sliding door opens without warning",
+        "the door chime alarm sounds while driving",
+        "the door appears to be locked but suddenly opens",
+        "the door does not respond to unlock commands."
+      ],
+      "odiNumbers": [
+        "11056021",
+        "10159926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Power Sliding Door Lock Mechanism",
+      "impact": "A faulty power sliding door lock mechanism can cause the door to open unintentionally, leading to occupant ejection or distraction of the driver, which can result in accidents or injuries.",
+      "symptoms": [
+        "The power sliding door appears to be locked but does not respond to unlock commands",
+        "the door lock mechanism makes a clicking sound as if it is locking and unlocking",
+        "the door does not open when commanded."
+      ],
+      "odiNumbers": [
+        "11056021"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

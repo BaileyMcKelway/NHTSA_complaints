@@ -1,0 +1,84 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Deteriorated Insulation on Engine Wiring Harness",
+      "impact": "The deteriorated insulation on the engine wiring harness can cause electrical shorts, leading to engine stalling, loss of power, and potentially, fires. This can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "warning lights on the dashboard",
+        "engine sputtering",
+        "abundant smoke from the engine",
+        "and difficulty starting the vehicle."
+      ],
+      "odiNumbers": [
+        "10587645",
+        "10243123",
+        "10214605",
+        "10188056",
+        "10179001"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Wiring Harnesses",
+      "impact": "The premature deterioration of the insulation on the wires can cause short circuits, leading to sudden acceleration, stalling, and engine surging, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "stalling",
+        "engine surging",
+        "ASR and SRS system malfunctions",
+        "burning tires",
+        "and unexpected behavior."
+      ],
+      "odiNumbers": [
+        "10414468",
+        "10308743",
+        "10237919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Actuator Wiring Harness Failure",
+      "impact": "The failure of the throttle actuator wiring harness can cause sudden acceleration, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "burning tires",
+        "and unexpected behavior."
+      ],
+      "odiNumbers": [
+        "10308743"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Cooling System Link Failure",
+      "impact": "The failure of the cooling system link can cause coolant leaks, engine damage, and electrical system malfunctions, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Coolant leaks",
+        "engine damage",
+        "electrical system malfunctions",
+        "and multiple component failures."
+      ],
+      "odiNumbers": [
+        "10237919"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

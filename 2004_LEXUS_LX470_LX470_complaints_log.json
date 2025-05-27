@@ -1,0 +1,161 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "STEERING",
+    "FUEL/PROPULSION SYSTEM",
+    "AIR BAGS",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Suspension System Failure",
+      "impact": "The failure of the air suspension system can cause the vehicle to ride unevenly, making it difficult to control, and increasing the risk of accidents or loss of control, especially at high speeds.",
+      "symptoms": [
+        "The vehicle becomes very bouncy",
+        "the suspension system defaults to the highest level",
+        "the vehicle shakes and bounces over slight imperfections in the road",
+        "the vehicle feels like it will tip over when making turns",
+        "the \"AHC OFF\" light keeps flashing",
+        "the vehicle sits very low and will not come up to the \"N\" level",
+        "the vehicle oscillates from front to back."
+      ],
+      "odiNumbers": [
+        "10544172",
+        "10361203",
+        "10216154",
+        "10151721"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Variable Gear Ratio Steering (VGRS) Electronic Control Unit (ECU) Failure",
+      "impact": "The failure of the VGRS ECU can cause a severe alignment mismatch between the steering wheel and the front tires, making it difficult to control the vehicle, increasing the risk of loss of control, collision, and injury.",
+      "symptoms": [
+        "The steering wheel is off-center by 20-120 degrees to drive in a straight line",
+        "making it difficult to keep the vehicle driving in a straight line",
+        "the VGRS indicator light is active",
+        "and the steering wheel alignment is progressively worsening over time."
+      ],
+      "odiNumbers": [
+        "11491070",
+        "11491072"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Evaporative System Failure",
+      "impact": "The failure of the fuel evaporative system can cause excessive fuel pressure in the gas tank, leading to pressurized fuel vapors escaping from the gas cap, which is a fire risk and a safety concern.",
+      "symptoms": [
+        "Fuel smell in the cabin",
+        "fuel vapors coming out of the fuel door/gas cap",
+        "audible venting of the fuel tank",
+        "gasoline boiling sound in the tank",
+        "continuous escape of gasoline vapors under pressure when the gas cap is removed."
+      ],
+      "odiNumbers": [
+        "11466121",
+        "11114083"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Warning Light Stays On",
+      "impact": "The airbag warning light staying on can indicate a malfunction in the airbag system, which can lead to failure to deploy in the event of an accident, potentially resulting in serious injury or fatality.",
+      "symptoms": [
+        "The airbag warning light on the dashboard remains illuminated",
+        "indicating a potential issue with the airbag system."
+      ],
+      "odiNumbers": [
+        "11351999",
+        "11341247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Repair for Airbag Recall",
+      "impact": "The delay or unavailability of repair for the airbag recall can leave the vehicle in an unsafe condition, potentially leading to failure to deploy in the event of an accident, resulting in serious injury or fatality.",
+      "symptoms": [
+        "Dealerships do not have the necessary parts to repair the airbag system",
+        "leaving the vehicle in an unsafe condition",
+        "and owners are unable to get the recall remedied."
+      ],
+      "odiNumbers": [
+        "11341247"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Frame Rust and Corrosion",
+      "impact": "Rust and corrosion on the frame can compromise the structural integrity of the vehicle, leading to safety risks and potentially causing accidents.",
+      "symptoms": [
+        "Rust or corrosion on the front frame",
+        "particularly around the sway bar and brackets",
+        "and other areas of the frame."
+      ],
+      "odiNumbers": [
+        "11051585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Tire Failure",
+      "impact": "Tire blowouts can cause loss of control, accidents, and potentially lead to injuries or fatalities.",
+      "symptoms": [
+        "Sudden tire blowout",
+        "loss of air pressure."
+      ],
+      "odiNumbers": [
+        "10115544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Poor Aftermarket Installation and Electrical Issues",
+      "impact": "Poor installation of aftermarket accessories can cause electrical system malfunctions, leading to safety risks and inconvenience.",
+      "symptoms": [
+        "DVD system malfunction",
+        "navigation system not working properly",
+        "speakers not working",
+        "radio shutting off during calls",
+        "poor AM reception",
+        "instrument panel cover damage due to oil and water splashing."
+      ],
+      "odiNumbers": [
+        "10115544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Handling Issues",
+      "impact": "Poor vehicle handling can increase the risk of accidents, especially in adverse weather conditions.",
+      "symptoms": [
+        "Vehicle handling poorly in snowy conditions."
+      ],
+      "odiNumbers": [
+        "10115544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

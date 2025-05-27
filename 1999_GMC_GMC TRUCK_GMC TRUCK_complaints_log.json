@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose control, leading to accidents, injuries, or fatalities. The malfunction can also lead to increased stopping distances, which can exacerbate the risk of accidents.",
+      "symptoms": [
+        "The ABS pedal pulses or vibrates when braking",
+        "the vehicle pulls to one side while braking",
+        "the rear wheels lock up and skid at slow speeds",
+        "the brakes engage erratically",
+        "the ABS motor burns up",
+        "the hydroboost unit leaks or fails."
+      ],
+      "odiNumbers": [
+        "10143478",
+        "10119459",
+        "10119650",
+        "755906",
+        "743698",
+        "743699",
+        "556674",
+        "554360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Throttle Body Issues",
+      "impact": "The unintended acceleration of the vehicle can lead to accidents, injuries, or fatalities, especially in heavy traffic conditions.",
+      "symptoms": [
+        "The vehicle accelerates suddenly while braking",
+        "the throttle sticks in a closed position",
+        "the engine RPM increases unexpectedly."
+      ],
+      "odiNumbers": [
+        "10091219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Parking Brake Wear",
+      "impact": "The premature wear of the parking brake can cause the brake to fail, leading to accidents or injuries, especially when parking on inclines.",
+      "symptoms": [
+        "The parking brake wears out quickly",
+        "the parking brake is less effective",
+        "the parking brake needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "10091219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Clacking Noise due to Insufficient Oil Passages",
+      "impact": "The engine clacking noise can be a sign of a more serious underlying issue, potentially leading to engine failure, which can cause accidents, injuries, or fatalities.",
+      "symptoms": [
+        "A loud clacking noise is heard when starting the engine after it has sat for over an hour",
+        "the engine oil passages are not drilled large enough."
+      ],
+      "odiNumbers": [
+        "10091219"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "The failure of the catalytic converter can cause the vehicle to emit excessive pollutants, potentially harming the environment and public health.",
+      "symptoms": [
+        "The catalytic converter fails",
+        "the vehicle emits excessive pollutants",
+        "the vehicle may experience reduced performance or fuel efficiency."
+      ],
+      "odiNumbers": [
+        "556674"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wheel Bearing Hub Failure",
+      "impact": "The failure of the wheel bearing hub can cause the vehicle to vibrate or wobble, leading to loss of control, accidents, or damage to other components.",
+      "symptoms": [
+        "The vehicle vibrates or wobbles while driving",
+        "the wheel bearing hub makes a grinding or growling noise",
+        "the wheel bearing hub overheats",
+        "the vehicle pulls to one side while driving."
+      ],
+      "odiNumbers": [
+        "10176544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inaccurate or Misleading Repair Information",
+      "impact": "Receiving inaccurate or misleading repair information can lead to unnecessary repairs, financial losses, and potential safety risks due to incorrect diagnoses.",
+      "symptoms": [
+        "The repair information provided is unclear or misleading",
+        "the repair instructions are incorrect",
+        "the diagnosis is incorrect",
+        "the repair parts are incorrect or unnecessary."
+      ],
+      "odiNumbers": [
+        "10176544"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

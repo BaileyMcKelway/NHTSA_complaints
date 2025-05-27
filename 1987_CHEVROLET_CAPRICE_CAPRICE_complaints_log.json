@@ -1,0 +1,139 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN",
+    "SEATS",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Cable Failure",
+      "impact": "The failure of the throttle cable can cause unexpected and sudden acceleration, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The throttle jams into high-rev",
+        "the vehicle accelerates unexpectedly to high speed",
+        "the throttle cable breaks."
+      ],
+      "odiNumbers": [
+        "737329",
+        "861873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The malfunction of the cruise control system can cause unexpected acceleration, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The cruise control resumes by itself",
+        "causing acceleration",
+        "the cruise control is inoperative."
+      ],
+      "odiNumbers": [
+        "518403",
+        "481814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Slipping and Popping",
+      "impact": "The transmission slipping and popping can cause loss of control, accidents, and damage to the transmission, leading to costly repairs and potentially leaving the driver stranded.",
+      "symptoms": [
+        "The transmission pops into gear when shifting into drive",
+        "the transmission shifts and pops when accelerating from 20 mph",
+        "the transmission fails to engage properly in reverse gear",
+        "the transmission fails altogether",
+        "requiring replacement."
+      ],
+      "odiNumbers": [
+        "843355",
+        "500884",
+        "975136",
+        "970576"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Assembly Failure",
+      "impact": "The failure of the seat assembly can cause the seat to not lock in the full forward position, affecting the driver's comfort and visibility, which can lead to accidents or discomfort while driving.",
+      "symptoms": [
+        "The seat does not lock in the full forward position",
+        "the seat moves forward and backward excessively",
+        "the seat is too soft",
+        "the driver sinks down in the seat",
+        "poor vision due to seat position."
+      ],
+      "odiNumbers": [
+        "707309",
+        "973300",
+        "962043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause a sudden loss of brake power, leading to increased stopping distances, accidents, or loss of vehicle control.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake pedal feels soft or spongy",
+        "the brake pedal has a delayed response",
+        "the vehicle has extended stopping distances",
+        "the brake warning light comes on",
+        "the vehicle has no brakes or reduced braking power."
+      ],
+      "odiNumbers": [
+        "806719",
+        "502315",
+        "969490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "Engine compartment fires can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries. In extreme cases, fires can spread to the passenger compartment, putting occupants at risk.",
+      "symptoms": [
+        "Smoke or flames visible from the engine compartment",
+        "burning smell",
+        "overheating engine",
+        "loss of engine power",
+        "warning lights or alarms on the dashboard."
+      ],
+      "odiNumbers": [
+        "509997"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Water Pump Failure",
+      "impact": "Water pump failure can cause engine overheating, leading to damage to the engine, cylinder head, and other components. In extreme cases, engine failure can occur, leaving the driver stranded or causing accidents.",
+      "symptoms": [
+        "Coolant leaks",
+        "overheating engine",
+        "temperature gauge rising",
+        "warning lights or alarms on the dashboard",
+        "whining or grinding noise from the water pump."
+      ],
+      "odiNumbers": [
+        "481814"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

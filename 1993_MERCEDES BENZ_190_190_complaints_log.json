@@ -1,0 +1,75 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fan Belt Tensioner Failure",
+      "impact": "The failure of the fan belt tensioner can cause the fan belt to break loose, leading to engine damage, overheating, and potentially causing a fire.",
+      "symptoms": [
+        "The fan belt becomes loose",
+        "the engine fan belt breaks",
+        "the engine overheats",
+        "the vehicle loses power",
+        "the vehicle catches fire."
+      ],
+      "odiNumbers": [
+        "10235061"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall or die, leading to loss of control, accidents, or even fires.",
+      "symptoms": [
+        "The vehicle dies or stalls without warning",
+        "the vehicle catches fire due to an electrical short",
+        "the vehicle experiences electrical malfunctions."
+      ],
+      "odiNumbers": [
+        "835649"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Dual Airbags to Deploy in Crash",
+      "impact": "The failure of dual airbags to deploy in a crash can increase the risk of serious injury or fatality to the driver and passenger.",
+      "symptoms": [
+        "Airbags do not deploy in a collision",
+        "despite the severity of the impact",
+        "and the vehicle's crash sensors detecting the crash."
+      ],
+      "odiNumbers": [
+        "10108566"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Panel Malfunction",
+      "impact": "The defective instrument panel can cause incorrect mileage readings, which can lead to inaccurate maintenance records, potential engine damage, and decreased vehicle safety.",
+      "symptoms": [
+        "The instrument panel displays incorrect mileage",
+        "the odometer reading is inconsistent",
+        "the mileage display is stuck or frozen",
+        "the instrument panel fails to display any mileage reading."
+      ],
+      "odiNumbers": [
+        "855506"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

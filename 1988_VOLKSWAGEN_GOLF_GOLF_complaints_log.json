@@ -1,0 +1,107 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause coolant leaks, fogging of the windshield, and unpleasant odors inside the vehicle, which can impair visibility and create an uncomfortable driving environment.",
+      "symptoms": [
+        "Coolant leaks",
+        "windshield fogging",
+        "bad odors inside the vehicle",
+        "reduced visibility while driving."
+      ],
+      "odiNumbers": [
+        "10290595",
+        "856117",
+        "500542"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress into Horn Assembly",
+      "impact": "Water entering the horn assembly can cause the horn to fail, potentially leading to a dangerous situation where the driver is unable to alert other road users in an emergency.",
+      "symptoms": [
+        "The horn fails to sound or sounds intermittently",
+        "water splashes up from the front left tire and enters the horn assembly."
+      ],
+      "odiNumbers": [
+        "725350"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical Short in Dashboard",
+      "impact": "An electrical short in the dashboard can cause a fire, potentially leading to a hazardous situation, especially if the vehicle is occupied or parked near flammable materials.",
+      "symptoms": [
+        "The dashboard catches on fire",
+        "smoke or flames emerge from the dashboard",
+        "burning smell or electrical burning odor."
+      ],
+      "odiNumbers": [
+        "802591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure in Wet Conditions",
+      "impact": "The loss of power steering in wet conditions can cause the vehicle to become difficult to steer, increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The vehicle loses power steering while driving through puddles or in rainy weather",
+        "the steering becomes heavy or difficult to turn",
+        "the vehicle is hard to maneuver."
+      ],
+      "odiNumbers": [
+        "514382",
+        "504647"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Compartment Fire",
+      "impact": "An engine compartment fire can cause significant damage to the vehicle, potentially leading to a loss of control, accidents, or injuries to occupants.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "flames or smoke are visible from under the hood",
+        "the engine compartment is excessively hot",
+        "burning smells or sounds are present."
+      ],
+      "odiNumbers": [
+        "560376"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inadequate Seat Belt Restraint System",
+      "impact": "The two-point seat belt restraint system without lap belts can increase the risk of injury or fatality in the event of a crash, as it does not provide adequate protection for occupants.",
+      "symptoms": [
+        "None",
+        "as this is a design issue rather than a malfunction."
+      ],
+      "odiNumbers": [
+        "513669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

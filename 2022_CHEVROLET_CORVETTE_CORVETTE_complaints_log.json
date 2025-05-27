@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Side Detection System Failure",
+      "impact": "The failure of the side detection system can increase the risk of accidents, particularly when changing lanes or parking.",
+      "symptoms": [
+        "The vehicle displays an error message \"Side Detection Temporarily Unavailable\"."
+      ],
+      "odiNumbers": [
+        "11456433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause a sudden loss of power, leading to a loss of control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle displays a \"Rear Axel System Off\" message",
+        "the vehicle receives an \"Engine/Transmission fault",
+        "Seek Service Immediately\" email from OnStar",
+        "transmission failure",
+        "fluid puddling under the car",
+        "greasy substance on the bottom panels",
+        "cracked transmission housing",
+        "porous metal castings."
+      ],
+      "odiNumbers": [
+        "11485449",
+        "11484136",
+        "11462698",
+        "11459628"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Transmission Housing",
+      "impact": "The cracked transmission housing can cause oil to leak out, leading to a loss of lubrication, which can result in further damage to the transmission and potentially cause accidents.",
+      "symptoms": [
+        "Greasy substance on the bottom panels",
+        "cracked transmission housing",
+        "porous metal castings."
+      ],
+      "odiNumbers": [
+        "11484136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Bearing Defect",
+      "impact": "The omission of two of six bearings in the transmission can cause a sudden loss of power, leading to a loss of control, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Not explicitly mentioned",
+        "but related to the transmission failure and sudden loss of power."
+      ],
+      "odiNumbers": [
+        "11485449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake System Failure after Software Update",
+      "impact": "The failure of the brake system can cause a loss of braking ability, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle's brakes fail to engage",
+        "the dashboard displays error messages such as \"Service Brake Assist\"",
+        "\"Service ASC\"",
+        "and \"Brake Failure\"",
+        "the vehicle is unable to stop or slow down",
+        "the driver experiences a loss of control."
+      ],
+      "odiNumbers": [
+        "11546301"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

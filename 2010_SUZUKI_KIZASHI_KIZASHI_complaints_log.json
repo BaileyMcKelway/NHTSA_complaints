@@ -1,0 +1,152 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "STEERING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "CVT Transmission Failure",
+      "impact": "The failure of the Continuously Variable Transmission (CVT) can cause the vehicle to lose acceleration, go into limp mode, and stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle goes into limp mode while accelerating uphill",
+        "the vehicle stalls",
+        "the transmission has issues with acceleration",
+        "the RPM gauge fluctuates",
+        "the transmission fluid needs to be replaced frequently",
+        "the vehicle loses the ability to downshift",
+        "and the vehicle loses acceleration."
+      ],
+      "odiNumbers": [
+        "11489992",
+        "11329141",
+        "11197328",
+        "11156469",
+        "11115222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Control Module (TCM) Failure",
+      "impact": "The failure of the TCM can cause the CVT to go into fail-safe mode, resulting in the vehicle losing acceleration, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The Malfunction Indicator Light (MIL) illuminates",
+        "the CVT goes into fail-safe mode",
+        "the vehicle loses acceleration",
+        "and the vehicle will not exit the fail-safe mode without dealership attention."
+      ],
+      "odiNumbers": [
+        "11329141",
+        "11156469",
+        "11115222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine and Transmission Failure",
+      "impact": "The failure of the engine and transmission can cause the vehicle to stall, lose acceleration, and pour carbon monoxide into the car, which can lead to accidents or endanger the lives of the occupants.",
+      "symptoms": [
+        "The vehicle cuts off while driving",
+        "the vehicle pours carbon monoxide into the car",
+        "the transmission breaks down frequently",
+        "and the vehicle requires frequent repairs."
+      ],
+      "odiNumbers": [
+        "10610601"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause the driver to lose control of the vehicle, leading to accidents or near-miss situations.",
+      "symptoms": [
+        "The steering wheel becomes hard to turn",
+        "the power steering warning light illuminates",
+        "the vehicle loses power steering while driving",
+        "the power steering is restored after turning the engine off and back on."
+      ],
+      "odiNumbers": [
+        "11299427",
+        "11254583",
+        "10894328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to the failure of the airbag to deploy in the event of an accident, potentially causing serious injury or death.",
+      "symptoms": [
+        "The passenger airbag light is illuminated",
+        "the airbag system cannot be cleared",
+        "multiple codes are displayed on the dashboard."
+      ],
+      "odiNumbers": [
+        "11299427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause multiple systems to malfunction, leading to a loss of control or safety features.",
+      "symptoms": [
+        "Multiple dash lights come on",
+        "the vehicle loses power",
+        "the engine cannot be shut off",
+        "the vehicle stops in the middle of testing and cannot be restarted."
+      ],
+      "odiNumbers": [
+        "11299427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Headlight Bulb Failure",
+      "impact": "The frequent burning out of headlight bulbs can lead to reduced visibility, increased risk of accidents, and safety hazards, especially at night or in low-light conditions.",
+      "symptoms": [
+        "Headlight bulbs burn out consistently within 6 months",
+        "requiring frequent repairs",
+        "multiple bulb failures at once",
+        "and difficulty seeing while driving at night."
+      ],
+      "odiNumbers": [
+        "10956523",
+        "10809585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Instrument Cluster)",
+      "impact": "The failure of the instrument cluster can lead to a loss of critical information, such as speed, engine performance, and warning indicators, which can compromise vehicle safety and increase the risk of accidents.",
+      "symptoms": [
+        "The display including speedometer",
+        "tachometer",
+        "blinker",
+        "and multifunction display shuts down",
+        "resulting in a loss of critical information for the driver."
+      ],
+      "odiNumbers": [
+        "10365593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

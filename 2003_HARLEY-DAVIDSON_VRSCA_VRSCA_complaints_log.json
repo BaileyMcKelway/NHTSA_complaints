@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "STRUCTURE",
+    "SERVICE BRAKES",
+    "FUEL/PROPULSION SYSTEM",
+    "WHEELS"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Inaccuracy",
+      "impact": "The inaccurate fuel gauge can cause the rider to run out of fuel unexpectedly, leading to potential accidents or stranding.",
+      "symptoms": [
+        "The fuel gauge drops to empty when the tank is still 3/4 full",
+        "the gauge displays full when the tank is empty",
+        "the gauge displays incorrect readings",
+        "the gauge is inconsistent and unpredictable."
+      ],
+      "odiNumbers": [
+        "10452270",
+        "10367849",
+        "10356063",
+        "10349419"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Module Flange Failure",
+      "impact": "The failure of the fuel module flange can cause the engine to hesitate, stutter, and lose power, leading to potential accidents or loss of control.",
+      "symptoms": [
+        "The engine hesitates",
+        "stutters",
+        "and loses power",
+        "especially during partial throttle and partial engine load",
+        "the vehicle becomes unstable and potentially dangerous."
+      ],
+      "odiNumbers": [
+        "10250858"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Mounting System Failure",
+      "impact": "The failure of the engine mounting system can cause the engine to shift or detach from the vehicle, leading to loss of control, accidents, or damage to surrounding components.",
+      "symptoms": [
+        "The engine mounts break or detach",
+        "the engine shifts or moves excessively",
+        "the vehicle vibrates or shakes",
+        "the engine noise increases",
+        "the vehicle becomes difficult to handle or control."
+      ],
+      "odiNumbers": [
+        "11100329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Front Brake Lock-Up",
+      "impact": "The sudden and unexpected lock-up of the front brakes can cause the vehicle to lose control, leading to accidents, injuries, and even fatalities.",
+      "symptoms": [
+        "The front brakes lock up without warning",
+        "the vehicle's front wheel(s) suddenly seize",
+        "the vehicle loses control or stability",
+        "the rider is thrown off or falls over."
+      ],
+      "odiNumbers": [
+        "10883833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Brake System Diagnosis and Repair",
+      "impact": "The failure of dealerships or repair shops to properly diagnose and repair brake system issues can lead to continued safety risks, financial burdens, and erosion of trust in the manufacturer and its representatives.",
+      "symptoms": [
+        "The dealership or repair shop is unable to diagnose the problem",
+        "the dealership or repair shop blames the rider or owner",
+        "the dealership or repair shop charges for unnecessary repairs",
+        "the dealership or repair shop fails to provide a satisfactory solution."
+      ],
+      "odiNumbers": [
+        "10883833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel System Failure",
+      "impact": "The failure of the fuel system can cause the engine to jerk, leading to reduced control and increased risk of accidents, as well as excessive fuel consumption, resulting in increased costs and environmental impact.",
+      "symptoms": [
+        "The engine jerks or stumbles",
+        "the motorcycle dies frequently",
+        "excessive fuel consumption",
+        "difficulty riding the motorcycle safely."
+      ],
+      "odiNumbers": [
+        "10882915"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High Wind Sensitivity Due to Solid Wheels",
+      "impact": "The motorcycle's solid wheels can catch wind like a sail, making it prone to being blown off course, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The motorcycle is difficult to control in windy conditions",
+        "the motorcycle is blown off course",
+        "the motorcycle is unstable in crosswinds",
+        "the rider struggles to maintain control."
+      ],
+      "odiNumbers": [
+        "10157264"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

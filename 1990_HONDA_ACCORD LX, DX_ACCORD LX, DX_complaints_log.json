@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "LATCHES/LOCKS/LINKAGES",
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Malfunction",
+      "impact": "The malfunction of the seat belt system can lead to a false sense of security, potentially causing accidents or injuries due to improperly worn or stuck seat belts.",
+      "symptoms": [
+        "The seat belt warning light remains illuminated",
+        "the warning sound continues to alert",
+        "the seat belt is stuck in the buckle",
+        "the seat belt will not retract into place",
+        "the seat belt is jammed",
+        "and the automatic seat belt does not function properly."
+      ],
+      "odiNumbers": [
+        "10402164",
+        "10377145",
+        "10292606",
+        "10031042",
+        "10000780"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Door Latch and Actuator Failure",
+      "impact": "The failure of the door latch and actuator can cause the door to become stuck, making it impossible to open from the inside or outside, which can lead to safety risks in emergency situations, such as accidents or fires.",
+      "symptoms": [
+        "The door cannot be opened from the inside or outside",
+        "the door handle is broken or cracked",
+        "the door lock actuator is faulty",
+        "the door is stuck closed",
+        "and the door panel cannot be removed for diagnosis or repair."
+      ],
+      "odiNumbers": [
+        "10133629",
+        "10086767",
+        "10054937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ball Joint Failure",
+      "impact": "The failure of the ball joints can cause the vehicle to swerve or lose control, leading to accidents or injuries.",
+      "symptoms": [
+        "Noise coming from underneath the vehicle",
+        "feeling of something dropping or snapping off",
+        "vehicle swerving or pulling to one side",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10371099",
+        "10039357"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to stall or shut off while driving, which can lead to loss of control, accidents, or injuries, especially at high speeds.",
+      "symptoms": [
+        "The engine stalls or shuts off while driving",
+        "the engine turns off and then restarts",
+        "the engine stalls around a specific speed (e.g.",
+        "55 mph)."
+      ],
+      "odiNumbers": [
+        "10294432",
+        "10081697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Defective Distributor",
+      "impact": "A faulty distributor can cause the engine to misfire, stall, or shut off, leading to loss of control, accidents, or injuries, especially at high speeds.",
+      "symptoms": [
+        "The engine misfires",
+        "the engine stalls or shuts off",
+        "the engine has difficulty starting",
+        "the distributor needs to be replaced frequently."
+      ],
+      "odiNumbers": [
+        "10081697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

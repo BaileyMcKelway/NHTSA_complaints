@@ -1,0 +1,82 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "BACK OVER PREVENTION",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rearview Camera Image Distortion/Failure",
+      "impact": "A distorted or foggy rearview camera image can reduce the driver's visibility while reversing, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The rearview camera image is foggy",
+        "cloudy",
+        "or distorted",
+        "making it difficult to see objects behind the vehicle."
+      ],
+      "odiNumbers": [
+        "11520132",
+        "11501476",
+        "11489933"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Recall Repair for Rearview Camera",
+      "impact": "The delayed availability of parts for the recall repair can leave vehicles on the road with a faulty rearview camera system, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The contact receives notification of the recall but is unable to have the repair done due to the unavailability of parts."
+      ],
+      "odiNumbers": [
+        "11546408",
+        "11520132",
+        "11512845",
+        "11501476",
+        "11489933"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Door System Failure",
+      "impact": "The failure of the electronic door system can trap occupants in the vehicle, especially in the event of an accident or electrical failure, making it difficult or impossible to escape, which can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Doors cannot be opened electronically",
+        "doors are stuck shut",
+        "error messages appear on the dashboard",
+        "soft-close system engages and jams the door",
+        "emergency release latch is not accessible or functional."
+      ],
+      "odiNumbers": [
+        "11552433",
+        "11434777"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Keyless Entry System Failure",
+      "impact": "The failure of the keyless entry system can cause the doors to become stuck, trapping passengers inside the vehicle, which can lead to safety risks, especially in emergency situations.",
+      "symptoms": [
+        "The keyless remote fails to unlock the doors",
+        "doors become stuck and cannot be opened from the inside",
+        "doors can only be opened from the outside",
+        "passengers are trapped inside the vehicle."
+      ],
+      "odiNumbers": [
+        "11413537",
+        "11487829"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

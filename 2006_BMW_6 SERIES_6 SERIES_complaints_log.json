@@ -1,0 +1,136 @@
+{
+  "totalComplaints": 26,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "TIRES",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure (Vacuum Pump, Brake Booster, and Hose Issues)",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking power, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Soft brake pedal",
+        "brake pedal travels to the floorboard",
+        "abnormal amount of pressure required to stop the vehicle",
+        "loss of power assist braking",
+        "inability to slow or stop the vehicle",
+        "and deployment of airbags."
+      ],
+      "odiNumbers": [
+        "10860425",
+        "10811639",
+        "10475040",
+        "10466665",
+        "10419989",
+        "10370471"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Bridgestone Potenza RE050A Tire Sidewall Separation/Failure",
+      "impact": "The separation or failure of the tire sidewall can lead to a loss of tire pressure, causing the vehicle to lose control, which can result in accidents or injuries.",
+      "symptoms": [
+        "Blisters or bubbles on the tire sidewall",
+        "tire is always flat",
+        "tire internal failure",
+        "tire sidewall separation."
+      ],
+      "odiNumbers": [
+        "10823912",
+        "10701385",
+        "10209832",
+        "10177704"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Passenger Seat Mat Sensor Failure",
+      "impact": "The failure of the passenger seat mat sensor can cause the airbag and seatbelt warning lights to illuminate, indicating a fault in the passenger restraint system, which can lead to the airbag not deploying in the event of an accident, potentially causing injury or fatalities.",
+      "symptoms": [
+        "The airbag and seatbelt warning lights illuminate",
+        "the passenger airbag may not deploy",
+        "the \"Pass. Restraint System - Fault\" warning message appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "10929475",
+        "10894188",
+        "10493133"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Cooling System Failure",
+      "impact": "The failure of the engine cooling system can cause the engine to overheat, leading to stalling, engine damage, and potentially a crash.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the engine overheats",
+        "the thermostat fails",
+        "the hoses fail",
+        "the vehicle's air conditioning is not cold."
+      ],
+      "odiNumbers": [
+        "10663657",
+        "10407568",
+        "10162635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Vacuum Pump Failure",
+      "impact": "The failure of the brake vacuum pump can cause brake failure, leading to a loss of control and potentially a crash.",
+      "symptoms": [
+        "Engine oil leaks below the brake vacuum pump",
+        "brake failure",
+        "loss of brake power."
+      ],
+      "odiNumbers": [
+        "10407568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can cause the airbags to deploy unexpectedly or not deploy in the event of a crash, leading to injuries or fatalities.",
+      "symptoms": [
+        "The airbag system malfunctions",
+        "the passenger seat locks",
+        "the airbag warning light illuminates."
+      ],
+      "odiNumbers": [
+        "10162635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Backfiring",
+      "impact": "Engine backfiring can cause a loss of power, stalling, and potentially a crash.",
+      "symptoms": [
+        "The engine backfires",
+        "the engine loses power",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10162635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

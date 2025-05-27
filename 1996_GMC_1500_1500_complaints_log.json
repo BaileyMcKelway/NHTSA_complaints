@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "SERVICE BRAKES",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Windshield Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can cause reduced visibility during rainy or snowy conditions, leading to accidents or near-misses.",
+      "symptoms": [
+        "Windshield wipers work sporadically",
+        "stop working suddenly",
+        "or fail to stop at all",
+        "windshield wipers only work sometimes",
+        "windshield washer does not work."
+      ],
+      "odiNumbers": [
+        "10094750",
+        "10019854",
+        "10015448",
+        "10000898",
+        "8022452",
+        "749990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unstable Brake Performance",
+      "impact": "The unpredictable brake behavior can cause extended stopping distances, loss of control, and increased risk of accidents, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal travels to the floor",
+        "the vehicle pulls to one side while braking",
+        "the brakes suddenly fail or have reduced effectiveness",
+        "the ABS system engages unnecessarily",
+        "causing longer stopping distances."
+      ],
+      "odiNumbers": [
+        "10135794",
+        "10039690",
+        "850163"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "ABS System Malfunction",
+      "impact": "The malfunctioning ABS system can cause the brakes to engage unnecessarily, leading to longer stopping distances, loss of control, and increased risk of accidents.",
+      "symptoms": [
+        "The ABS system engages at low speeds",
+        "the ABS system overrides the normal braking system",
+        "the vehicle takes longer to stop than expected."
+      ],
+      "odiNumbers": [
+        "10135794"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall unexpectedly, which can lead to accidents, especially if it occurs while driving at high speeds. Additionally, it can cause the vehicle to shut down, leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls unexpectedly",
+        "the vehicle shuts down",
+        "the fuel gauge gives incorrect readings",
+        "the fuel pump fails to supply fuel to the engine."
+      ],
+      "odiNumbers": [
+        "8023832",
+        "866306",
+        "861818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Tank Wiring Harness Failure",
+      "impact": "The failure of the fuel tank wiring harness can cause a short circuit, which can lead to a fire, potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The fuel tank wiring harness is frayed or damaged",
+        "the fuel pump plug is damaged",
+        "the vehicle experiences electrical issues."
+      ],
+      "odiNumbers": [
+        "861818"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

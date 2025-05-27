@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "VISIBILITY/WIPER",
+    "FUEL/PROPULSION SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Gearbox Failure",
+      "impact": "The failure of the power steering gearbox can cause the vehicle to swerve or lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Loss of power assist",
+        "steering pull",
+        "violent swerving",
+        "wheels separating from the axle",
+        "steering rod snapping",
+        "and loose steering components."
+      ],
+      "odiNumbers": [
+        "11244671",
+        "11195150",
+        "10926527"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Braking",
+      "impact": "Unintended braking can cause loss of vehicle control, accidents, and injuries to occupants, as well as damage to the vehicle and other property.",
+      "symptoms": [
+        "The vehicle brakes without warning",
+        "sudden and unexpected stopping",
+        "no warning lights or alerts preceding the braking event."
+      ],
+      "odiNumbers": [
+        "11415300"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "False Activation of Automatic Braking System",
+      "impact": "The false activation of the automatic braking system can cause sudden and unexpected stops, which can lead to accidents, injuries, or fatalities, especially if other vehicles are following closely behind.",
+      "symptoms": [
+        "The automatic braking system engages unnecessarily",
+        "often in response to non-threatening objects such as overhead signs",
+        "causing the vehicle to suddenly stop or slow down."
+      ],
+      "odiNumbers": [
+        "11210401"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Intermittent Wiper Failure",
+      "impact": "The intermittent failure of the windshield wipers can significantly reduce visibility during rainy or snowy conditions, increasing the risk of accidents, especially in large and heavy vehicles like the one mentioned (80,000 pounds).",
+      "symptoms": [
+        "The windshield wipers stop working periodically",
+        "but can be temporarily restored by switching to high speed or intermittent mode",
+        "or by quickly pressing the washer fluid button. The wipers may work for a few seconds or minutes before quitting again."
+      ],
+      "odiNumbers": [
+        "11141519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "High Pressure Fuel Line Failure",
+      "impact": "The failure of the high pressure fuel line can cause fuel leaks, which can lead to engine stalls, fires, and accidents, posing a significant risk to vehicle occupants and other road users.",
+      "symptoms": [
+        "Fuel smell while driving",
+        "fuel leaking from the high pressure line",
+        "engine stalling or hesitation",
+        "loss of power",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "11073329"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

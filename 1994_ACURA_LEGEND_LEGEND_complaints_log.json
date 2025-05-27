@@ -1,0 +1,134 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of an accident can lead to serious injuries or fatalities, compromising the safety of the driver and passengers.",
+      "symptoms": [
+        "Airbag failure to deploy",
+        "seatbelt failure to restrain",
+        "injuries sustained due to lack of airbag deployment."
+      ],
+      "odiNumbers": [
+        "10017188",
+        "870931",
+        "835556",
+        "826166",
+        "475087"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "SRS Light Illumination and Airbag System Malfunction",
+      "impact": "The illumination of the SRS light and malfunction of the airbag system can indicate a faulty system, which can lead to airbag failure to deploy in the event of an accident, compromising safety.",
+      "symptoms": [
+        "SRS light illumination",
+        "airbag system malfunction",
+        "horn malfunction",
+        "potential failure of driver and passenger airbags to deploy in an accident."
+      ],
+      "odiNumbers": [
+        "10170331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall without warning, leading to a loss of control and increasing the risk of accidents. Additionally, it can also lead to fires originating in the engine compartment, posing a risk to the occupants and bystanders.",
+      "symptoms": [
+        "The instrument panel and gauges stop working",
+        "the vehicle stalls without warning",
+        "a burning sensation is felt under the driver's right foot",
+        "a dried substance is burning on the bottom of the shoe",
+        "the ignition switch locks up."
+      ],
+      "odiNumbers": [
+        "10896070",
+        "10281352",
+        "10055152",
+        "479290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the transmission ECM can cause erratic transmission behavior, including incorrect gear shifting, which can lead to loss of vehicle control, accidents, or strand the driver.",
+      "symptoms": [
+        "The D-4 green light blinks",
+        "the speedometer wavers from 0 to 60 mph",
+        "transmission shifts erratically",
+        "transmission slips or hesitates."
+      ],
+      "odiNumbers": [
+        "10783040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure to Disclose Technical Service Bulletin (TSB) Information",
+      "impact": "The failure to disclose TSB information can result in unnecessary repairs and costs for the vehicle owner, leading to financial loss and mistrust in the dealership or repair service.",
+      "symptoms": [
+        "Vehicle owner is charged for a repair that is covered by a TSB",
+        "vehicle owner is not informed about a TSB related to their vehicle",
+        "vehicle owner is not offered a refund for a repair that is covered by a TSB."
+      ],
+      "odiNumbers": [
+        "714617"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Internal Failure",
+      "impact": "The internal failure of the transmission can cause the transmission to malfunction, leading to loss of vehicle control, accidents, or strand the driver.",
+      "symptoms": [
+        "Transmission slips or hesitates",
+        "transmission fails to engage gears",
+        "transmission makes unusual noises",
+        "transmission leaks fluid."
+      ],
+      "odiNumbers": [
+        "489687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "A blown engine head gasket can cause air to enter the cooling system, leading to temperature fluctuations, overheating, and potential engine damage, which can result in a loss of power, stalling, or even engine failure, posing a safety risk to the driver and passengers.",
+      "symptoms": [
+        "Temperature gauge fluctuates",
+        "cooling reservoir overflows",
+        "engine stalling",
+        "loss of power functions",
+        "loss of steering and brakes."
+      ],
+      "odiNumbers": [
+        "10067123",
+        "504542",
+        "503033"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

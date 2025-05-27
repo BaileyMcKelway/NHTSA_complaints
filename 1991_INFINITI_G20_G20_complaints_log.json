@@ -1,0 +1,132 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT",
+    "FUEL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure - Ignition System",
+      "impact": "The failure of the ignition system can cause the key to stick in the ignition, making it difficult or impossible to start the vehicle, and potentially leading to safety risks such as being stranded in cold weather.",
+      "symptoms": [
+        "The key sticks in the ignition",
+        "the key does not turn in the ignition",
+        "the vehicle is difficult to start",
+        "the vehicle fails to start."
+      ],
+      "odiNumbers": [
+        "505537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to stall or fail to start, potentially leading to safety risks such as being stranded in cold weather.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the battery is dead",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "505537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Electrical System Failure - HVAC System",
+      "impact": "The failure of the HVAC system can cause smoke to come through the vents, potentially leading to a fire, which can cause serious safety risks.",
+      "symptoms": [
+        "Smoke comes through the vents",
+        "the vehicle catches fire",
+        "the HVAC system malfunctions."
+      ],
+      "odiNumbers": [
+        "10095064"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Fault - Cigarette Lighter Socket",
+      "impact": "The intermittent power supply to the car phone can cause inconvenience, distraction, and potentially lead to accidents due to the sudden loss of phone functionality while driving.",
+      "symptoms": [
+        "The car phone turns on and off when plugged into the cigarette lighter socket."
+      ],
+      "odiNumbers": [
+        "536411"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioning System Fault - Blower Resistor",
+      "impact": "The faulty blower resistor can cause the air conditioning system to malfunction, leading to reduced airflow and temperature control, which can affect driver comfort and visibility.",
+      "symptoms": [
+        "The air conditioning system only runs on high speed",
+        "reducing airflow and temperature control."
+      ],
+      "odiNumbers": [
+        "505537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Air Conditioning System Fault - Compressor Failure",
+      "impact": "The faulty air conditioner compressor can cause the vehicle to stall, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle stalls due to a faulty air conditioner compressor."
+      ],
+      "odiNumbers": [
+        "504017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Inaccurate Fuel Gauge Readings",
+      "impact": "Inaccurate fuel gauge readings can cause drivers to run out of fuel unexpectedly, leading to stranded vehicles, accidents, and potentially dangerous situations.",
+      "symptoms": [
+        "The fuel gauge never reaches full",
+        "the fuel gauge indicates empty when there are still several gallons of fuel remaining",
+        "the fuel gauge is inconsistent or erratic."
+      ],
+      "odiNumbers": [
+        "505537",
+        "505537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Automatic Seat Belt Locking Issue",
+      "impact": "The automatic seat belt locking issue can cause the driver to become restrained or trapped, potentially leading to accidents or injuries, especially in emergency situations where quick exit from the vehicle is necessary.",
+      "symptoms": [
+        "The driver's seat belt locks up occasionally",
+        "the seat belt locks when halfway retracted",
+        "the belt finishes retracting when opening the door and then locks",
+        "holding the driver in place."
+      ],
+      "odiNumbers": [
+        "505537",
+        "489795"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

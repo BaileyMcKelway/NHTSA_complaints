@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Oil Leak",
+      "impact": "The engine oil leak can cause damage to the engine and surrounding components, leading to costly repairs and potentially causing accidents due to loss of control.",
+      "symptoms": [
+        "Oil on the floor",
+        "wet engine",
+        "oil leak from the center of the engine",
+        "oil droplets on the floor."
+      ],
+      "odiNumbers": [
+        "10691893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Low-Speed Stumble or Hesitation",
+      "impact": "The low-speed stumble or hesitation can cause loss of stability and control, especially when turning or accelerating, which can lead to accidents.",
+      "symptoms": [
+        "Engine hesitation or stumble when started cold",
+        "engine hesitation or stumble when started warm after sitting for 30 minutes",
+        "loss of acceleration when turning onto a main highway."
+      ],
+      "odiNumbers": [
+        "10632569",
+        "10572733",
+        "10532347"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "GPS Voice Guidance Audio Failure",
+      "impact": "The failure of the GPS voice guidance audio can cause the rider to take their eyes off the road, increasing the risk of accidents and reducing the overall safety of the motorcycle.",
+      "symptoms": [
+        "The GPS voice guidance audio stops working",
+        "forcing the rider to look down at the navigation screen to get directions."
+      ],
+      "odiNumbers": [
+        "11093332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Mount Failure on Front Fender",
+      "impact": "The failure of the rear mounts on the front fender can cause the fender to wedge into the front fork/fairing area, jam the steering, sever a brake line, or cause a blowout of the front or rear tire, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Vibration in the front fender area",
+        "cracks in the rear mounts",
+        "failure of both mounts on either side",
+        "noise or rattling from the front fender area."
+      ],
+      "odiNumbers": [
+        "11080740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Front Fender Mount Failure due to Vibration",
+      "impact": "The failure of the front fender mounts due to vibration can cause the fender to wedge into the front fork/fairing area, jam the steering, sever a brake line, or cause a blowout of the front or rear tire, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Vibration in the front fender area",
+        "cracks in the mounts",
+        "failure of both mounts on either side",
+        "noise or rattling from the front fender area."
+      ],
+      "odiNumbers": [
+        "11080740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

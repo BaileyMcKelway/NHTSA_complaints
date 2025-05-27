@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Loss of Power",
+      "impact": "The sudden stalling of the engine and loss of power can cause the driver to lose control of the vehicle, leading to accidents, especially at high speeds.",
+      "symptoms": [
+        "The engine shuts off without warning",
+        "loss of power brakes",
+        "loss of power steering",
+        "the vehicle stalls while driving",
+        "the \"engine fail\" light comes on."
+      ],
+      "odiNumbers": [
+        "10103316",
+        "10032571",
+        "10018849",
+        "743426"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Timing Belt and Chain Failure",
+      "impact": "The failure of the timing belt and chain can cause the engine to stall, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The engine stalls",
+        "the timing chain comes off",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "10103316"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Computer Chip Failure and Overheating",
+      "impact": "The failure of the computer chip can cause the engine to shut off, leading to loss of control and potential accidents, as well as overheating and battery discharge.",
+      "symptoms": [
+        "The engine shuts off",
+        "the drive belt shuts down",
+        "the battery discharges",
+        "the vehicle overheats."
+      ],
+      "odiNumbers": [
+        "10032571"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Throttle Body Plate Closure",
+      "impact": "The closure of the throttle body plate can cause the engine to shut off, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The engine shuts off",
+        "the throttle body plate closes during self-cleaning mode."
+      ],
+      "odiNumbers": [
+        "10018849"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Cruise Control Malfunction",
+      "impact": "The sudden stalling of the engine, especially when driving at high speeds, can increase the risk of accidents and leave the driver stranded. Additionally, the malfunction of the cruise control system can cause inconvenience and discomfort during long drives.",
+      "symptoms": [
+        "The engine cuts off or stalls while driving",
+        "especially when turning off the highway",
+        "the cruise control system does not function",
+        "the vehicle loses power",
+        "the engine stalls without warning."
+      ],
+      "odiNumbers": [
+        "11092023"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "The sudden stalling of the engine can cause a loss of power steering and power brakes, making it difficult to control the vehicle, especially at high speeds, which can lead to accidents and put the lives of occupants at risk.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the power steering and power brakes are inoperable",
+        "the vehicle must be coasted to a stop and put in \"park\" before it will restart."
+      ],
+      "odiNumbers": [
+        "10450328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

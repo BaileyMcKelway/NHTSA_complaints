@@ -1,0 +1,111 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "the engine is difficult to start or will not start",
+        "the vehicle experiences a loss of power",
+        "the fuel pump makes a loud whining or grinding noise",
+        "the fuel pump is leaking fuel."
+      ],
+      "odiNumbers": [
+        "527534",
+        "527463",
+        "527441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Exhaust Manifold Stud Failure",
+      "impact": "Broken exhaust manifold studs can cause the cylinder head to crack, resulting in exhaust flames spewing towards the passenger floorboard, which can lead to a fire hazard and potentially injure occupants.",
+      "symptoms": [
+        "Exhaust flames visible from the passenger floorboard",
+        "cracked cylinder head",
+        "broken exhaust manifold studs."
+      ],
+      "odiNumbers": [
+        "530768"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Stalling in High Temperatures and Altitudes",
+      "impact": "Engine stalling can cause a loss of power and control, increasing the risk of accidents, especially in high-temperature and high-altitude conditions.",
+      "symptoms": [
+        "Engine stops running while driving",
+        "loss of power",
+        "difficulty restarting the engine",
+        "stalling in high-temperature and high-altitude conditions."
+      ],
+      "odiNumbers": [
+        "524892"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure - Exposed Cable Shorting",
+      "impact": "An exposed cable shorting on the propane line can cause an electrical fire, leading to a risk of vehicle damage, injury, or even fatalities.",
+      "symptoms": [
+        "The vehicle has no generator",
+        "exposed cables are visible",
+        "electrical system malfunctions",
+        "unusual burning smells or smoke",
+        "sparks or flames near the propane line."
+      ],
+      "odiNumbers": [
+        "764572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Improperly Installed Roof Pod/Accessory",
+      "impact": "An improperly installed roof pod or accessory can detach from the vehicle while in motion, causing damage to the vehicle and surrounding property, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The roof pod or accessory becomes loose or detached while driving",
+        "causing noise",
+        "vibration",
+        "or loss of control; the roof pod or accessory falls off the vehicle",
+        "causing damage or obstruction on the road."
+      ],
+      "odiNumbers": [
+        "764574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dealer Responsibility and Warranty Issues",
+      "impact": "Failure of the dealer to take responsibility for improper installations or repairs can lead to frustration, financial loss, and potential safety risks for the vehicle owner.",
+      "symptoms": [
+        "Dealer refuses to acknowledge or repair issues related to improper installation; dealer denies warranty coverage for repairs; vehicle owner experiences difficulty in getting issues resolved with the dealer."
+      ],
+      "odiNumbers": [
+        "764574"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

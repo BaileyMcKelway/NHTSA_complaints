@@ -1,0 +1,176 @@
+{
+  "totalComplaints": 49,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Controller Failure",
+      "impact": "The failure of the ABS controller can cause the loss of anti-lock braking, traction control, and speedometer functionality, leading to increased stopping distances and potential accidents.",
+      "symptoms": [
+        "ABS and ASC warning lights illuminate",
+        "speedometer stops working",
+        "odometer freezes",
+        "fuel gauge becomes inoperative",
+        "automatic steering control is lost",
+        "and ABS protection is disabled."
+      ],
+      "odiNumbers": [
+        "10227764",
+        "10152836",
+        "10147772",
+        "10126147",
+        "10106550",
+        "10106026",
+        "10072461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Brake Booster Failure",
+      "impact": "The failure of the power brake booster can cause the loss of power-assisted braking, leading to increased stopping distances and potential accidents.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position",
+        "the brake pedal has a sudden loss of pressure",
+        "and the vehicle is unable to stop properly."
+      ],
+      "odiNumbers": [
+        "10893683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Light Switch Failure",
+      "impact": "The failure of the brake light switch can cause the ABS braking light to appear on the dashboard, leading to confusion and potential accidents.",
+      "symptoms": [
+        "The ABS braking light appears on the dashboard and remains on."
+      ],
+      "odiNumbers": [
+        "10101956"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Takata Airbag Failure",
+      "impact": "The failure of Takata airbags can lead to unexpected deployment, causing injuries or fatalities, or failure to deploy in the event of an accident, leaving occupants vulnerable to harm.",
+      "symptoms": [
+        "Airbag light on the dashboard turns on",
+        "airbag deploys without warning or impact",
+        "airbag fails to deploy in an accident",
+        "injuries or fatalities occur due to airbag malfunction."
+      ],
+      "odiNumbers": [
+        "11521084",
+        "11255209",
+        "11175693",
+        "10702388",
+        "8018842",
+        "753072",
+        "741843",
+        "737828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, or loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "Airbag deploys without warning or impact",
+        "airbag deploys while driving at high speeds",
+        "airbag deploys without any apparent reason."
+      ],
+      "odiNumbers": [
+        "11255209",
+        "11175693",
+        "741843"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of airbags to deploy in the event of an accident can lead to injuries or fatalities, as occupants are left unprotected.",
+      "symptoms": [
+        "Airbag fails to deploy in an accident",
+        "injuries or fatalities occur due to airbag malfunction."
+      ],
+      "odiNumbers": [
+        "8018842",
+        "753072",
+        "737828"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can lead to accidents, injuries, or fatalities, especially when the vehicle is unable to be controlled or stopped.",
+      "symptoms": [
+        "The vehicle suddenly accelerates forward",
+        "the accelerator pedal becomes stuck",
+        "the vehicle lurches forward when at a stop",
+        "the engine surges when cold in cold weather."
+      ],
+      "odiNumbers": [
+        "10392771",
+        "766002",
+        "755999"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Control Unit Failure",
+      "impact": "The failure of the electronic control unit can disable critical safety features, such as anti-lock brakes, stability control, and alarm systems, making the vehicle unsafe to drive.",
+      "symptoms": [
+        "The odometer",
+        "speedometer",
+        "cruise control",
+        "automatic door locks",
+        "and alarm are disabled",
+        "the anti-lock brakes and stability control are disabled",
+        "the vehicle cannot be locked to prevent intruders."
+      ],
+      "odiNumbers": [
+        "10362395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Accelerator Pedal Dislodgement",
+      "impact": "The dislodgement of the accelerator pedal can cause unintended acceleration, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The accelerator pedal becomes dislodged",
+        "causing the accelerator to get stuck",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "766002",
+        "765560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

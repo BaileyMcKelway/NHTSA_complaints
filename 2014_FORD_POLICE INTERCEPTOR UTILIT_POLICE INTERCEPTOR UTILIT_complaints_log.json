@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "STEERING",
+    "SERVICE BRAKES",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carbon Monoxide (CO) Leaks into Vehicle Cabin",
+      "impact": "Carbon monoxide leaks into the vehicle cabin can cause serious health issues, including headaches, dizziness, nausea, and even death, due to the toxic nature of CO.",
+      "symptoms": [
+        "Unusual exhaust smell inside the cabin",
+        "especially when the vehicle is idling or in remote start mode",
+        "shortness of breath",
+        "chest pain",
+        "lethargy",
+        "and near-fainting while driving."
+      ],
+      "odiNumbers": [
+        "11194843",
+        "11015438",
+        "10972408",
+        "10969486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Power Steering (EPS) System Failure",
+      "impact": "The failure of the EPS system can cause uncommanded steering, delayed response to steering inputs, and difficulty in correcting the vehicle's direction, which can lead to loss of control and accidents.",
+      "symptoms": [
+        "Uncommanded steering",
+        "delayed response to steering inputs",
+        "mismatch between steering wheel angle and wheel direction",
+        "sudden return to commanded input",
+        "slow deviation to left or right while driving in a straight line",
+        "abrupt return to center line when corrected",
+        "steering wheel logo appears off-center",
+        "difficulty in turning the wheel in any direction",
+        "loss of power steering assistance."
+      ],
+      "odiNumbers": [
+        "11152432",
+        "11130392",
+        "10955008"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Passenger Side Front Brake Hose Failure",
+      "impact": "The failure of the passenger side front brake hose can cause a loss of brake fluid, leading to a spongy brake pedal, reduced braking performance, and increased stopping distances, which can lead to accidents or injuries.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake fluid low warning light illumination",
+        "brake fluid leaking from the passenger side front brake hose",
+        "split or bubble at the body side connection where the metal is crimped to the rubber."
+      ],
+      "odiNumbers": [
+        "10915505",
+        "10915276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cracked Exhaust Manifold Causing Carbon Monoxide Infiltration",
+      "impact": "The cracked exhaust manifold allows carbon monoxide to leak into the cabin, posing a significant risk to the health and safety of occupants, especially when the vehicle is stationary with the engine idling.",
+      "symptoms": [
+        "Exhaust fumes entering the cabin through the heater/AC vents",
+        "strong smell of exhaust fumes at the passenger side of the hood",
+        "carbon monoxide readings detected by a CO detector placed in front of the AC vent",
+        "readings drop to 0 ppm when the vehicle is moving."
+      ],
+      "odiNumbers": [
+        "11182181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Exhaust Manifold Failure",
+      "impact": "The failure of the rear exhaust manifold can cause carbon monoxide to leak into the cabin, posing a significant risk to the health and safety of occupants, especially when the vehicle is stationary with the engine idling.",
+      "symptoms": [
+        "High carbon monoxide readings detected by a CO detector placed around the rear exhaust manifold",
+        "especially around the center exhaust port",
+        "strong smell of exhaust fumes at the passenger side of the hood."
+      ],
+      "odiNumbers": [
+        "11182181"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

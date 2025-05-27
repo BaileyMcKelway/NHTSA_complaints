@@ -1,0 +1,93 @@
+{
+  "totalComplaints": 45,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEATS",
+    "SERVICE BRAKES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Seatback Mechanism Failure",
+      "impact": "The failure of the driver's side seatback mechanism can cause the seat to collapse or shift backward while driving, leading to loss of control of the vehicle, accidents, and potential injuries.",
+      "symptoms": [
+        "The driver's side seatback collapses or shifts backward without warning",
+        "the seat reclines suddenly",
+        "the driver loses control of the vehicle",
+        "the driver's ability to operate the clutch and brake pedals is impaired",
+        "the driver's visibility of the road is obstructed."
+      ],
+      "odiNumbers": [
+        "10002993",
+        "8023487",
+        "8022772",
+        "8012739",
+        "8011262",
+        "899993",
+        "728187",
+        "866022",
+        "851407",
+        "549142",
+        "546186",
+        "706937",
+        "825225"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause the brakes to lock up, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "ABS brakes lock up",
+        "loss of control when braking on curved or wet road surfaces",
+        "failure to disengage cruise control when brakes are applied."
+      ],
+      "odiNumbers": [
+        "815359",
+        "802180",
+        "977424"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Component Failure",
+      "impact": "The failure of brake components, such as brake pads and rotors, can cause grinding noises, reduced braking performance, and increased stopping distances, which can lead to accidents.",
+      "symptoms": [
+        "Grinding brakes",
+        "brake pads and rotors need to be replaced prematurely."
+      ],
+      "odiNumbers": [
+        "513966"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbag to deploy in the event of a crash can lead to serious injury or fatality, as the vehicle's safety features are compromised.",
+      "symptoms": [
+        "Airbags do not deploy upon impact",
+        "even in severe crashes",
+        "including head-on collisions",
+        "T-bone accidents",
+        "and collisions with animals."
+      ],
+      "odiNumbers": [
+        "10124020",
+        "8016401",
+        "830468",
+        "824564",
+        "985756"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

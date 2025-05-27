@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "FUEL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "EXTERIOR LIGHTING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Weight Distribution and Tire Loading",
+      "impact": "Inadequate weight distribution and excessive loading on specific tires can lead to uneven tire wear, reduced traction, and increased risk of tire failure, which can cause accidents or loss of control.",
+      "symptoms": [
+        "The vehicle tilts to one side",
+        "uneven tire wear",
+        "excessive weight on specific tires",
+        "difficulty handling or steering."
+      ],
+      "odiNumbers": [
+        "963161",
+        "514727",
+        "501724"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Puncture and Gas Leak",
+      "impact": "A punctured fuel tank can cause a gas leak, which can lead to a fire or explosion, resulting in serious injury or death.",
+      "symptoms": [
+        "Gasoline or propane odor",
+        "fuel leaking from the tank",
+        "fuel puddling under the vehicle",
+        "difficulty starting the engine",
+        "engine stalling or hesitation."
+      ],
+      "odiNumbers": [
+        "514727",
+        "501724"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Water Tank Bracket Failure",
+      "impact": "The failure of the rear water tank brackets can cause the water tank to shift or fall, potentially leading to water leakage, electrical shorts, and damage to surrounding components, which can compromise vehicle safety and performance.",
+      "symptoms": [
+        "The rear water tank is loose or has fallen",
+        "water is leaking from the rear of the vehicle",
+        "there is water damage to electrical components or surrounding areas",
+        "the vehicle's electrical system is malfunctioning."
+      ],
+      "odiNumbers": [
+        "516253"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Incorrect or Used Parts Installation",
+      "impact": "The installation of incorrect or used parts, such as clearance lights, can compromise the vehicle's safety features and performance, potentially leading to accidents or other safety issues.",
+      "symptoms": [
+        "The presence of used or incorrect parts",
+        "such as clearance lights",
+        "on a new vehicle",
+        "which may be identified through visual inspection or malfunction."
+      ],
+      "odiNumbers": [
+        "514727"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control Malfunction",
+      "impact": "The failure of the cruise control system to disengage can cause the vehicle to continue accelerating, leading to unintended speed increases, and potentially resulting in accidents or loss of control.",
+      "symptoms": [
+        "The cruise control fails to disengage",
+        "the vehicle continues to accelerate",
+        "the vehicle accelerates suddenly",
+        "the vehicle reaches higher speeds",
+        "the driver must shift gears into neutral to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "960659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sudden Acceleration",
+      "impact": "Sudden acceleration can cause the vehicle to lose traction, leading to accidents or loss of control, and potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly",
+        "the vehicle surges forward",
+        "the vehicle takes off without warning",
+        "the driver experiences unexpected acceleration."
+      ],
+      "odiNumbers": [
+        "960659"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

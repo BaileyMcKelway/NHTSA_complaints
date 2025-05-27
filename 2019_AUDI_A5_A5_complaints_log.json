@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Power Steering Failure",
+      "impact": "The sudden failure of the electric power steering system can cause the steering wheel to become stiff, making it difficult to control the vehicle, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The steering failure message appears on the instrument cluster",
+        "the steering wheel becomes stiff",
+        "difficulty turning the steering wheel",
+        "loss of power steering assist."
+      ],
+      "odiNumbers": [
+        "11500191",
+        "11445976"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Suspension Failure",
+      "impact": "The failure of rear suspension components can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Rear of the vehicle begins vibrating",
+        "fishtailing",
+        "loss of control",
+        "damage to rear suspension components (e.g. trailing arm lock nut",
+        "washer",
+        "bolt",
+        "protector lining",
+        "lower control arm",
+        "lock nut",
+        "control arm mount bolt)."
+      ],
+      "odiNumbers": [
+        "11436024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature or False Activation of Pre-Sense System",
+      "impact": "The premature or false activation of the Pre-Sense system can cause sudden and unexpected braking, leading to potential accidents, loss of control, or rear-end collisions, especially at high speeds.",
+      "symptoms": [
+        "The Pre-Sense system displays a warning or applies the brakes unnecessarily",
+        "even when there is no apparent danger",
+        "causing sudden and harsh deceleration",
+        "potentially leading to loss of control or accidents."
+      ],
+      "odiNumbers": [
+        "11298504",
+        "11266473",
+        "11258717"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Advanced Safety Feature Malfunction",
+      "impact": "The malfunction of advanced safety features, such as the rearview camera and Audi pre-sense system, can increase the risk of accidents or injuries, particularly when the system incorrectly activates or deactivates critical safety features.",
+      "symptoms": [
+        "The rearview camera becomes inoperable",
+        "the \"SOS System Deactivated\" message is displayed",
+        "the Audi pre-sense warning light illuminates",
+        "an alarm sounds",
+        "windows roll up independently",
+        "and the front driver's side seat belt tightens around the waist."
+      ],
+      "odiNumbers": [
+        "11587709"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "FORWARD COLLISION AVOIDANCE",
+    "VISIBILITY/WIPER",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Water Ingress and Comfort System Control Module (CCM) Failure",
+      "impact": "Water ingress into the rear left side compartment can cause the CCM to fail, leading to a cascade of errors, including rear light failure, which is a significant safety hazard.",
+      "symptoms": [
+        "Water accumulation in the rear left side compartment",
+        "tire well",
+        "and rear right side compartment; CCM error; rear lights not working; parking brake light flashing."
+      ],
+      "odiNumbers": [
+        "11588963",
+        "11503500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The backup camera defaulting to a black graphic view can cause accidents or near-misses while backing up, especially in parking lots.",
+      "symptoms": [
+        "Backup camera displays a black graphic view instead of the camera image; requires manual switching to camera view after every start."
+      ],
+      "odiNumbers": [
+        "11119449"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Failure",
+      "impact": "The failure of the steering column can cause a loss of steering control, making it difficult to drive the vehicle, which can lead to accidents or increase the risk of a crash.",
+      "symptoms": [
+        "Squeaking or creaking noise from the steering column when steering left or right",
+        "steering wheel becomes misaligned",
+        "\"Steering Malfunction\" warning light appears on the dashboard",
+        "difficulty driving the vehicle due to steering issues."
+      ],
+      "odiNumbers": [
+        "11530940",
+        "11353852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering System Malfunction",
+      "impact": "The malfunction of the steering system can cause a loss of steering control, making it difficult to drive the vehicle, which can lead to accidents or increase the risk of a crash.",
+      "symptoms": [
+        "\"Steering Malfunction\" warning light appears on the dashboard",
+        "steering wheel becomes misaligned",
+        "difficulty driving the vehicle due to steering issues."
+      ],
+      "odiNumbers": [
+        "11353852"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Erroneous Forward Collision Warning System Activation",
+      "impact": "The unintended activation of the Forward Collision Warning system can cause the vehicle to suddenly brake, leading to loss of control, accidents, or injuries to occupants.",
+      "symptoms": [
+        "The Forward Collision Warning system activates without warning",
+        "causing the vehicle to rapidly slow down or come to an abrupt stop",
+        "even when there is no apparent hazard or obstacle; the system may activate while driving at various speeds",
+        "including highway speeds; no warning or indication of malfunction is provided prior to or following the event."
+      ],
+      "odiNumbers": [
+        "11526568",
+        "11140632"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sunroof Spontaneous Shattering",
+      "impact": "The sudden and unexpected shattering of the sunroof can cause a loud noise, potentially startling the driver, and may lead to injuries or accidents if the broken glass enters the vehicle's interior.",
+      "symptoms": [
+        "Sudden loud \"pop\" noise",
+        "sunroof pane shattering without warning",
+        "glass fragments held in place by aftermarket tint or mesh shade."
+      ],
+      "odiNumbers": [
+        "11518259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "MMI Software Defect - Parking Aid Mode",
+      "impact": "The software defect in the parking aid system can cause a distraction while driving, potentially leading to accidents or near-misses, especially when parking in traffic.",
+      "symptoms": [
+        "Top view mode reverts to \"graphic view\" after each restart",
+        "requiring the driver to take their eyes off the road to switch to \"camera view\"",
+        "which can be a distraction and safety risk."
+      ],
+      "odiNumbers": [
+        "11119461"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stop/Start System Malfunction",
+      "impact": "The malfunction of the stop/start system can cause the vehicle to stall while rolling to a stop, increasing the risk of accidents, especially when stopped at intersections or on busy highways.",
+      "symptoms": [
+        "The vehicle dies while rolling to a stop",
+        "reports a malfunction",
+        "and requires multiple attempts to restart."
+      ],
+      "odiNumbers": [
+        "11439766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pressure Sensor Failure",
+      "impact": "The failure of the brake pressure sensor can cause the stop/start system to malfunction, leading to unexpected stalling and increasing the risk of accidents.",
+      "symptoms": [
+        "The vehicle dies while rolling to a stop",
+        "reports a malfunction",
+        "and requires multiple attempts to restart."
+      ],
+      "odiNumbers": [
+        "11439766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Level Sensor Malfunction",
+      "impact": "The malfunction of the oil level sensor can cause incorrect oil level readings, potentially leading to engine damage or failure if not addressed.",
+      "symptoms": [
+        "The vehicle displays \"PLEASE REDUCE OIL LEVEL\" message",
+        "despite the oil level being within the recommended range."
+      ],
+      "odiNumbers": [
+        "11404184"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRONIC STABILITY CONTROL (ESC)",
+    "BACK OVER PREVENTION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can lead to delayed or extended stopping distances, increasing the risk of accidents and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Grinding noise when braking",
+        "delayed braking",
+        "longer stopping distances",
+        "feeling of uncertainty about the vehicle's ability to stop safely."
+      ],
+      "odiNumbers": [
+        "11589509",
+        "11583263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Advanced Safety Feature Failure",
+      "impact": "The failure of advanced safety features, such as collision warning and automatic emergency braking, can increase the risk of accidents and potentially cause injuries or fatalities.",
+      "symptoms": [
+        "Failure of collision warning system",
+        "failure of automatic emergency braking system",
+        "lack of system warnings or emergency braking application",
+        "airbag failure to deploy."
+      ],
+      "odiNumbers": [
+        "11589512"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Recall Remediation Delay",
+      "impact": "Delays in addressing safety recalls can leave vehicles in an unsafe condition, potentially leading to accidents and injuries.",
+      "symptoms": [
+        "Manufacturer's failure to provide timely remedy for safety recall",
+        "lack of estimate for remedy availability",
+        "vehicle deemed unsafe to use due to faulty brakes."
+      ],
+      "odiNumbers": [
+        "11583263"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Malfunction and Vehicle Instability",
+      "impact": "Brake malfunctions can cause loss of vehicle control, increasing the risk of accidents and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Vehicle would not start",
+        "repeated warning alerts for brake malfunction",
+        "parking brake malfunction",
+        "chassis malfunction",
+        "and reduced driver assistance",
+        "vehicle rolling after parking brake release",
+        "brakes requiring excessive pressure to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11535100"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Delayed Recall Repair for Electronic Stability Control (ESC) and Service Brakes",
+      "impact": "The delay in repairing the Electronic Stability Control (ESC) and Service Brakes systems can increase the risk of accidents, injuries, or fatalities due to loss of vehicle control.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the unavailability of parts for a recall repair."
+      ],
+      "odiNumbers": [
+        "11587807",
+        "11587520",
+        "11587262",
+        "11582624"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Assistance System Failure",
+      "impact": "The failure of the parking assistance system can cause collisions, damage to vehicles, and put the safety of drivers, passengers, and pedestrians at risk, particularly when used with autonomous features.",
+      "symptoms": [
+        "The parking assistance system fails to detect obstacles",
+        "collides with other vehicles or objects without warning",
+        "fails to stop automatically",
+        "and accelerates despite obstacles in the path."
+      ],
+      "odiNumbers": [
+        "11555563"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

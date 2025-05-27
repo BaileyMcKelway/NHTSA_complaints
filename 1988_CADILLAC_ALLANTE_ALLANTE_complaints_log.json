@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the vehicle to lose braking power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the brake pedal feels hard or spongy",
+        "the brake pedal does not respond",
+        "the vehicle takes longer to stop",
+        "the brake system makes unusual noises",
+        "the vehicle lurches forward when braking."
+      ],
+      "odiNumbers": [
+        "896805",
+        "857519",
+        "718765",
+        "855866",
+        "715458",
+        "714945",
+        "714776",
+        "549043",
+        "709165",
+        "706841",
+        "545515",
+        "706081",
+        "705697",
+        "701206",
+        "966696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the vehicle to lose braking power, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond",
+        "the vehicle takes longer to stop",
+        "the brake system makes unusual noises."
+      ],
+      "odiNumbers": [
+        "857519",
+        "715458"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Sensor Block and Relay Failure",
+      "impact": "The failure of the brake sensor block and relay can cause the ABS system to malfunction, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The ABS light comes on",
+        "the brake pedal feels hard or spongy",
+        "the brake pedal does not respond",
+        "the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "896805",
+        "705697"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seatbelt Failure due to Degradation of Plastic Housing",
+      "impact": "The degradation of the plastic housing of the seatbelts can cause the internal parts to fail, leading to a loss of protection in the event of an accident, which can result in serious injury or even death.",
+      "symptoms": [
+        "Cracks or brittleness in the plastic housing of the seatbelts",
+        "failure of the internal parts of the seatbelt assembly",
+        "reduced or complete loss of seatbelt function."
+      ],
+      "odiNumbers": [
+        "862773"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

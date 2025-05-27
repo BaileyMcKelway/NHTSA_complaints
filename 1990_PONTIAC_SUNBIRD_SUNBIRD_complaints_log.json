@@ -1,0 +1,127 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to sink to the floor, leading to extended stopping distances, which can increase the risk of accidents and collisions.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sinks to the floor",
+        "the vehicle takes longer than usual to stop",
+        "the brake pedal has a delayed response to braking."
+      ],
+      "odiNumbers": [
+        "10003632",
+        "784585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Rotor Failure",
+      "impact": "The failure of the brake rotors can cause the vehicle to vibrate or pulsate when the brakes are applied, leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents and collisions.",
+      "symptoms": [
+        "The vehicle vibrates or pulsates when the brakes are applied",
+        "the brakes make a grinding or screeching noise",
+        "the brake pedal feels uneven or wobbly."
+      ],
+      "odiNumbers": [
+        "784585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Head Gasket Failure",
+      "impact": "The failure of the engine head gaskets can cause the vehicle to overheat, leading to engine damage, loss of power, and potentially resulting in a breakdown or accident.",
+      "symptoms": [
+        "Smoke coming out of the engine",
+        "engine overheating",
+        "warped or split head gaskets",
+        "loss of engine power",
+        "coolant leakage."
+      ],
+      "odiNumbers": [
+        "481638",
+        "959755"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fan Belt Failure",
+      "impact": "The failure of the fan belt can cause the engine to overheat, leading to engine damage, loss of power, and potentially resulting in a breakdown or accident.",
+      "symptoms": [
+        "Engine overheating",
+        "fan belt failure",
+        "engine noise",
+        "coolant leakage."
+      ],
+      "odiNumbers": [
+        "784585"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Restraint",
+      "impact": "The failure of the seat belt to properly restrain the driver or passenger can lead to increased risk of injury or fatality in the event of a collision.",
+      "symptoms": [
+        "The seat belt does not retract or tighten properly",
+        "the seat belt allows excessive movement or slack",
+        "the seat belt fails to hold the driver or passenger in place during a collision."
+      ],
+      "odiNumbers": [
+        "814956",
+        "966530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Concerns about Door-Mounted Seat Belts",
+      "impact": "The design and functionality of door-mounted seat belts may be perceived as unsafe, potentially leading to a lack of trust in the vehicle's safety features.",
+      "symptoms": [
+        "None reported",
+        "as this complaint is based on the driver's perception of the safety belt design."
+      ],
+      "odiNumbers": [
+        "521531"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle's electrical system to malfunction, leading to a loss of power, dim or flickering headlights, and potentially even an under-hood fire, which can result in damage to the vehicle and pose a risk to the driver and passengers.",
+      "symptoms": [
+        "The alternator belt squeals or makes a loud noise",
+        "the battery warning light is illuminated",
+        "the vehicle's electrical accessories (such as the radio or wipers) malfunction",
+        "the headlights are dim or flickering",
+        "smoke or flames are visible under the hood."
+      ],
+      "odiNumbers": [
+        "784585",
+        "969017"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

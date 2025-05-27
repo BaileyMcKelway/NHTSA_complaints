@@ -1,0 +1,113 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "TIRES",
+    "FORWARD COLLISION AVOIDANCE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Michelin Energy Line Z Tire Failure",
+      "impact": "The failure of the Michelin Energy Line Z tire can cause loss of vehicle control, leading to accidents and putting others' safety at risk.",
+      "symptoms": [
+        "Tire blowout",
+        "loss of vehicle control",
+        "decoupling groove failure",
+        "peeling of the decoupling groove",
+        "tire failure without warning."
+      ],
+      "odiNumbers": [
+        "11477923",
+        "11476286",
+        "11476295",
+        "11476298",
+        "11476312",
+        "11471580"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Emergency Braking System Malfunction",
+      "impact": "The malfunction of the automatic emergency braking system can cause unexpected and sudden braking, leading to loss of control, accidents, or near-miss incidents, especially in inclement weather conditions.",
+      "symptoms": [
+        "The vehicle suddenly and unexpectedly applies the brakes",
+        "often in response to shadows or other environmental factors",
+        "rather than actual obstacles or hazards."
+      ],
+      "odiNumbers": [
+        "11569193",
+        "11529649",
+        "11524581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radar Sensor Calibration Issues",
+      "impact": "Improper calibration of the radar sensor can cause the automatic emergency braking system to malfunction, leading to unexpected braking or failure to engage in emergency situations.",
+      "symptoms": [
+        "The vehicle's automatic braking system fails to engage in response to actual hazards",
+        "or engages unnecessarily in response to environmental factors."
+      ],
+      "odiNumbers": [
+        "11524581"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Ride Suspension System Failure",
+      "impact": "The faulty air ride suspension system can cause sudden loss of control, leading to accidents, and potentially catastrophic consequences.",
+      "symptoms": [
+        "Loud \"clunking\" sounds",
+        "sloppy and noisy suspension",
+        "uneven tire wear",
+        "abnormal vibration",
+        "and sudden swerving condition."
+      ],
+      "odiNumbers": [
+        "11561665",
+        "11471285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alignment Issues",
+      "impact": "Improper alignment can cause uneven tire wear, reduced traction, and loss of control, leading to accidents.",
+      "symptoms": [
+        "Abnormal tire wear",
+        "vibration",
+        "and difficulty steering."
+      ],
+      "odiNumbers": [
+        "11471285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ride-Height Control Valve Failure",
+      "impact": "Leaking ride-height control valves can cause sudden loss of control, leading to accidents, and potentially catastrophic consequences.",
+      "symptoms": [
+        "Sudden swerving condition",
+        "loss of air suspension",
+        "and uneven ride height."
+      ],
+      "odiNumbers": [
+        "11471285"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

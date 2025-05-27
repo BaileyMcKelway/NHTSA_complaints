@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "VISIBILITY",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when the driver is not pressing the accelerator pedal",
+        "or continues to accelerate even when the cruise control is engaged."
+      ],
+      "odiNumbers": [
+        "814205",
+        "517589",
+        "812194",
+        "958937"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Malfunction",
+      "impact": "ABS malfunction can cause the vehicle to lose traction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The ABS system grabs or releases suddenly",
+        "causing the vehicle to jerk or lurch",
+        "or fails to engage properly",
+        "leading to loss of vehicle control."
+      ],
+      "odiNumbers": [
+        "959608"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "A cracked heater core can cause hot fluids to enter the passenger compartment, resulting in a total loss of driver's visibility, which can lead to accidents.",
+      "symptoms": [
+        "Hot fluids entering the passenger compartment",
+        "loss of driver's visibility",
+        "cracked heater core."
+      ],
+      "odiNumbers": [
+        "877884",
+        "865759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Window Malfunction",
+      "impact": "Sticking windows and ineffective defrosting can obstruct the driver's view, leading to reduced visibility and increased risk of accidents.",
+      "symptoms": [
+        "Windows stick and sometimes cannot be rolled down",
+        "windows fog up",
+        "defrost does not work",
+        "requiring manual wiping to clear."
+      ],
+      "odiNumbers": [
+        "977142"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Failure",
+      "impact": "A broken or malfunctioning driver's seat can cause discomfort, distraction, and decreased control while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The driver's seat is leaning to one side",
+        "the seat is wobbly or unstable",
+        "the seat is not sturdy",
+        "the seat is broken or damaged."
+      ],
+      "odiNumbers": [
+        "523284"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

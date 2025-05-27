@@ -1,0 +1,218 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 13,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electric Door Lock Actuator Failure",
+      "impact": "The failure of the electric door lock actuator can prevent doors from locking or unlocking, making it difficult or impossible to exit the vehicle in a timely manner in the event of a crash, which can lead to safety risks.",
+      "symptoms": [
+        "Doors will not lock or unlock automatically",
+        "doors cannot be opened",
+        "failure of multiple door lock actuators",
+        "failure of door lock actuator despite replacement."
+      ],
+      "odiNumbers": [
+        "11006546",
+        "11005497"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rodent Damage to Wiring and Airbags",
+      "impact": "Rodent damage to wiring and airbags can cause electrical system failures, which can lead to safety risks, including the failure of airbags to deploy in the event of a crash.",
+      "symptoms": [
+        "Wiring chewed by rodents",
+        "side airbags damaged",
+        "electrical system failures."
+      ],
+      "odiNumbers": [
+        "10944534"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Traction Control System Malfunction",
+      "impact": "The malfunction of the traction control system can cause the vehicle to lose traction, which can lead to accidents or loss of control.",
+      "symptoms": [
+        "Traction control lights come on randomly",
+        "unpredictable occurrence."
+      ],
+      "odiNumbers": [
+        "10644752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the key to become stuck, making it difficult or impossible to start or operate the vehicle, which can lead to safety risks.",
+      "symptoms": [
+        "Key becomes stuck in the ignition",
+        "ignition switch needs to be replaced."
+      ],
+      "odiNumbers": [
+        "10566518"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Warped Brake Rotors",
+      "impact": "Warped brake rotors can cause the vehicle to shake violently when braking, especially when driving downhill, which can lead to loss of control and increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle shakes violently when braking",
+        "especially when driving downhill",
+        "the brake pedal pulsates or vibrates",
+        "the vehicle pulls to one side when braking",
+        "the brakes make a grinding or screeching noise."
+      ],
+      "odiNumbers": [
+        "10644747",
+        "10532639"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Faulty Anti-Lock Braking System (ABS) and Vehicle Stability Control (VSC)",
+      "impact": "A faulty ABS and VSC system can cause the vehicle to lock up, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The TRAC OFF",
+        "TRAC",
+        "and SLIP indicator lights come on",
+        "the vehicle locks up and beeps",
+        "the vehicle shakes or vibrates when driving",
+        "the brakes make a grinding or screeching noise."
+      ],
+      "odiNumbers": [
+        "10625823"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Rear Door Latch Corrosion and Failure",
+      "impact": "The corrosion and failure of the rear door latch can cause the lift gate to malfunction, leading to damage to the gate hinge and mounting area, and potentially causing safety issues if the gate becomes stuck or falls off while driving.",
+      "symptoms": [
+        "The rear door latch fails to release",
+        "the lift gate continues to operate despite the latch being stuck",
+        "the gate hinge and mounting area become bent or damaged",
+        "rust or corrosion is visible around the wiper assembly and latch assembly."
+      ],
+      "odiNumbers": [
+        "11487048",
+        "11400244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Throttle Body Failure",
+      "impact": "The failure of the throttle body can cause unintended acceleration, which can lead to accidents or loss of control, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates without warning",
+        "the accelerator pedal is depressed but the vehicle decreases in speed",
+        "the vehicle surges forward unexpectedly."
+      ],
+      "odiNumbers": [
+        "10822246"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "VSC (Vehicle Stability Control) System Malfunction",
+      "impact": "The malfunction of the VSC system can cause loss of control, making it difficult to steer the vehicle, which can lead to accidents or near-misses.",
+      "symptoms": [
+        "The VSC lights are on",
+        "the check engine light is on",
+        "the wheel vibrates excessively when braking",
+        "the car stability light goes on and off when accelerating."
+      ],
+      "odiNumbers": [
+        "10544592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corrosion-Related Issues (Frame and Other Components)",
+      "impact": "Corrosion of the frame and other components can lead to structural integrity issues, affecting the overall safety and performance of the vehicle.",
+      "symptoms": [
+        "The frame is corroded",
+        "other parts are rotten and need to be replaced",
+        "additional costs are incurred due to corrosion-related repairs."
+      ],
+      "odiNumbers": [
+        "10544592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Anti-Slip Brake ECU Failure",
+      "impact": "The failure of the Anti-Slip Brake ECU can cause the anti-skid technology to malfunction, increasing the risk of accidents or loss of control in slippery conditions.",
+      "symptoms": [
+        "The Anti-Slip Brake light comes on",
+        "the Brake light comes on",
+        "the brakes seem to be working properly but the anti-skid technology is not functioning."
+      ],
+      "odiNumbers": [
+        "10763811"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Emission Control Ejector Failure",
+      "impact": "The failure of the Emission Control Ejector can cause the vehicle to go into fail-safe mode, leading to reduced performance and potentially unsafe operating conditions.",
+      "symptoms": [
+        "Loud noise when turning the engine off",
+        "thumping sound",
+        "vehicle goes into fail-safe mode."
+      ],
+      "odiNumbers": [
+        "10552214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Software Update Issues (SSC DOE Update)",
+      "impact": "The software update can cause unintended consequences, such as loud noises or malfunctions, which can affect vehicle safety and performance.",
+      "symptoms": [
+        "Loud noise when turning the engine off",
+        "thumping sound",
+        "vehicle malfunctions."
+      ],
+      "odiNumbers": [
+        "10552214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

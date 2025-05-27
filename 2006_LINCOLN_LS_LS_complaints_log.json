@@ -1,0 +1,169 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries to the driver and passengers, and may lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Airbags deploy without any apparent reason",
+        "airbags deploy without any crash or impact",
+        "airbags deploy while driving",
+        "airbags deploy while parked."
+      ],
+      "odiNumbers": [
+        "10862260",
+        "10508892",
+        "10359505"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy in a Crash",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "Airbags do not deploy in a severe crash",
+        "airbags do not deploy despite significant damage to the vehicle",
+        "airbags deploy late or after the crash."
+      ],
+      "odiNumbers": [
+        "10185432"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure - Erratic Shifting and Loss of Power",
+      "impact": "The transmission failure can cause the vehicle to lose power and acceleration, leading to a loss of control, especially when driving on highways or in heavy traffic, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle enters \"safe mode\" or \"limp mode\"",
+        "loss of power or acceleration",
+        "inability to accelerate",
+        "sudden loss of engine power",
+        "transmission slipping or hesitation",
+        "erratic shifting."
+      ],
+      "odiNumbers": [
+        "10512995"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure - Rollaway Risk",
+      "impact": "The transmission failure can cause the vehicle to roll away unexpectedly, even when the vehicle is in park, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Vehicle rolls away unexpectedly",
+        "even when in park",
+        "vehicle moves without driver input",
+        "vehicle accelerates without driver input",
+        "vehicle does not respond to brake input."
+      ],
+      "odiNumbers": [
+        "10505356",
+        "10238024"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Throttle Control (ETC) Failure",
+      "impact": "The failure of the Electronic Throttle Control (ETC) system can cause the vehicle to lose power and acceleration, leading to a loss of control, especially when driving on highways or in heavy traffic, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle's engine power is reduced",
+        "the vehicle's acceleration is limited",
+        "the vehicle's \"Safe Mode\" is activated",
+        "the \"TRAC\" or \"Traction Control\" light illuminates on the dashboard",
+        "a loud noise is heard from the engine",
+        "the vehicle's engine stalls or fails."
+      ],
+      "odiNumbers": [
+        "10586427",
+        "10559381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Traction Control System (TRAC) Malfunction",
+      "impact": "The malfunction of the Traction Control System (TRAC) can cause the vehicle to lose traction, leading to a loss of control, especially when driving on slippery or uneven roads, which can increase the risk of accidents.",
+      "symptoms": [
+        "The \"TRAC\" or \"Traction Control\" light illuminates on the dashboard",
+        "the vehicle's engine power is reduced",
+        "the vehicle's acceleration is limited",
+        "the vehicle's wheels spin or lose traction",
+        "the vehicle's stability is compromised."
+      ],
+      "odiNumbers": [
+        "10586427",
+        "10559381"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Fail-Safe Mode",
+      "impact": "The engine stalling and entering fail-safe mode can cause the vehicle to lose power and stall, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle shakes or vibrates harshly",
+        "the dashboard displays \"Electric Fail Safe Mode\" or \"Engine Fail-Safe Mode\"",
+        "the engine light is illuminated",
+        "the vehicle stalls while driving."
+      ],
+      "odiNumbers": [
+        "10504081",
+        "10456292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Intermittent Engine Stalling and Failure to Accelerate",
+      "impact": "The vehicle's sudden stalling and failure to accelerate can cause loss of control, accidents, or leave the driver stranded, posing a significant safety risk.",
+      "symptoms": [
+        "The vehicle stalls",
+        "error message \"ETC Engine Failure Safe Mode\" appears",
+        "the vehicle slows down",
+        "unable to accelerate",
+        "jerking or hesitation when driving."
+      ],
+      "odiNumbers": [
+        "10449328"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Starting Issues",
+      "impact": "The vehicle's intermittent starting issues can cause inconvenience, delay, and potentially leave the driver stranded, affecting vehicle reliability and safety.",
+      "symptoms": [
+        "The vehicle starts intermittently",
+        "difficulty starting the engine",
+        "multiple visits to the dealer for repairs."
+      ],
+      "odiNumbers": [
+        "10198600"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

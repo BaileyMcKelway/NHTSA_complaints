@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "ELECTRICAL SYSTEM",
+    "STRUCTURE"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Acceleration/Loss of Throttle Control",
+      "impact": "The sudden acceleration or loss of throttle control can cause accidents, injuries, and damage to property. It can also lead to a loss of vehicle control, which can be particularly dangerous at high speeds.",
+      "symptoms": [
+        "The vehicle accelerates independently",
+        "the engine speed drops to idle",
+        "the throttle pedal becomes unresponsive",
+        "the vehicle hesitates or lags when accelerating",
+        "the vehicle's speed control linkages fail."
+      ],
+      "odiNumbers": [
+        "10487438",
+        "10310746",
+        "10304673",
+        "10129899",
+        "10083578",
+        "10021804",
+        "760680",
+        "753195",
+        "785593",
+        "857304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Position Sensor (TPS) Failure",
+      "impact": "The failure of the TPS can cause the vehicle to lose throttle control, leading to sudden acceleration or hesitation, which can result in accidents or injuries.",
+      "symptoms": [
+        "The engine speed drops to idle",
+        "the throttle pedal becomes unresponsive",
+        "the vehicle hesitates or lags when accelerating",
+        "the TPS becomes wet and fails to function."
+      ],
+      "odiNumbers": [
+        "10310746",
+        "785593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Vehicle Skid Control (VSC) System Failure",
+      "impact": "The failure of the VSC system can cause the vehicle to lose traction and control, leading to accidents or injuries.",
+      "symptoms": [
+        "The VSC system fails to activate",
+        "the vehicle fishtails or spins",
+        "the vehicle crashes into obstacles."
+      ],
+      "odiNumbers": [
+        "753195"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Dashboard Electronics",
+      "impact": "The malfunctioning dashboard electronics can cause intermittent or complete loss of critical instrument cluster functions, such as the odometer and speedometer, which can compromise the driver's ability to operate the vehicle safely.",
+      "symptoms": [
+        "The odometer and speedometer work intermittently or not at all",
+        "the dashboard panel fails to function",
+        "the digital radio display malfunctions."
+      ],
+      "odiNumbers": [
+        "10339955",
+        "10315075",
+        "10315079",
+        "10181244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hood Lift Cylinder Failure",
+      "impact": "The failure of the hood lift cylinders can cause the hood to suddenly fall, creating a safety hazard for individuals working under the hood, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "The hood falls unexpectedly while working under the hood",
+        "the hood does not stay open",
+        "the hood lift cylinders are unable to hold the weight of the hood."
+      ],
+      "odiNumbers": [
+        "10353316",
+        "10092433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

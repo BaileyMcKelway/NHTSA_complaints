@@ -1,0 +1,206 @@
+{
+  "totalComplaints": 37,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "FUEL SYSTEM",
+    "SERVICE BRAKES",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Line Failure",
+      "impact": "The rupture of transmission lines can cause transmission fluid leaks, leading to loss of power, difficulty shifting, and potentially rendering the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Sudden loss of power",
+        "transmission fluid leak",
+        "difficulty shifting",
+        "inability to shift",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "563619",
+        "513989",
+        "488878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause loss of power, difficulty shifting, and potentially render the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Loss of power",
+        "difficulty shifting",
+        "inability to shift",
+        "transmission failure."
+      ],
+      "odiNumbers": [
+        "559296",
+        "488878",
+        "489278",
+        "479377",
+        "476397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Torque Converter Failure",
+      "impact": "Torque converter failure can cause transmission problems, leading to loss of power, difficulty shifting, and potentially rendering the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission problems",
+        "loss of power",
+        "difficulty shifting",
+        "inability to shift."
+      ],
+      "odiNumbers": [
+        "479377",
+        "476397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Output Shaft Seal Failure",
+      "impact": "Output shaft seal failure can cause transmission fluid leaks, leading to transmission problems, loss of power, and potentially rendering the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission fluid leak",
+        "transmission problems",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "488878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vacuum Line Failure in 4-Wheel Drive",
+      "impact": "Vacuum line failure in 4-wheel drive can cause transmission problems, leading to loss of power, difficulty shifting, and potentially rendering the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission problems",
+        "loss of power",
+        "difficulty shifting."
+      ],
+      "odiNumbers": [
+        "489278"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Front Differential Oil Seal Failure",
+      "impact": "Front differential oil seal failure can cause transmission fluid leaks, leading to transmission problems, loss of power, and potentially rendering the vehicle inoperable, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Transmission fluid leak",
+        "transmission problems",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "488878"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leaks and Failures",
+      "impact": "Fuel leaks and system failures can cause fuel to spill onto the engine, electrical components, or exhaust system, leading to a fire hazard, engine damage, or stalling, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel odor",
+        "engine stalling",
+        "difficulty starting the engine",
+        "decreased engine performance",
+        "loose or hanging fuel tank shield",
+        "disconnected fuel tank strap."
+      ],
+      "odiNumbers": [
+        "527530",
+        "488878",
+        "480817",
+        "489278",
+        "476397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Brake Adjuster Failure",
+      "impact": "The failure of the automatic brake adjuster can cause the brakes to malfunction, leading to accidents, loss of control, and potential injuries.",
+      "symptoms": [
+        "Rear brakes require frequent adjustment",
+        "brakes lock up",
+        "brakes fail to engage properly",
+        "unusual noises or vibrations when applying the brakes."
+      ],
+      "odiNumbers": [
+        "489278",
+        "476397"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Drum Brake Warping/Out of Round",
+      "impact": "Warped or out-of-round drums can cause the brakes to vibrate, grab, or lock up, leading to loss of control, accidents, and potential injuries.",
+      "symptoms": [
+        "Vibrations or pulsations when applying the brakes",
+        "brakes grab or lock up",
+        "unusual noises when applying the brakes",
+        "brake pedal pulsation."
+      ],
+      "odiNumbers": [
+        "513989"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the Anti-lock Braking System (ABS) can cause the brakes to malfunction, leading to accidents, loss of control, and potential injuries.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "brakes fail to engage properly",
+        "brakes lock up",
+        "loss of control when braking."
+      ],
+      "odiNumbers": [
+        "533091"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Front Ball Joint Failure",
+      "impact": "The failure of the front ball joints can cause the driver to lose control of the vehicle, especially on rough roads, leading to accidents and potential injuries.",
+      "symptoms": [
+        "Wheel shaking",
+        "loss of control",
+        "vehicle pulling to one side",
+        "violent shimmy",
+        "vehicle wandering."
+      ],
+      "odiNumbers": [
+        "507463",
+        "490776",
+        "486699",
+        "485730"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

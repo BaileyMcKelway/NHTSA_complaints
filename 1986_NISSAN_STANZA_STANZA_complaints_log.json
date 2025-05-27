@@ -1,0 +1,138 @@
+{
+  "totalComplaints": 18,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injector Failure Leading to Fire Hazard",
+      "impact": "Fuel injector failure can cause fuel leaks, which can lead to under-hood fires, resulting in vehicle damage or total loss, and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel smell",
+        "engine fire",
+        "vehicle fire",
+        "difficulty starting the engine",
+        "cold start issues."
+      ],
+      "odiNumbers": [
+        "765808",
+        "8003646",
+        "889101",
+        "487695"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure and Unavailability of Repair Parts",
+      "impact": "The failure of seat belts can increase the risk of injury or fatality in the event of an accident, and the unavailability of repair parts can leave vehicles in an unsafe condition for an extended period.",
+      "symptoms": [
+        "Seat belts will not fasten",
+        "broken pieces fallen into the locking space",
+        "seat belt buckle failure",
+        "inability to repair or replace faulty seat belts due to unavailability of parts."
+      ],
+      "odiNumbers": [
+        "977875",
+        "485005",
+        "963918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Fire Hazard",
+      "impact": "The engine stalling and subsequent fire can cause a total loss of the vehicle, posing a significant risk to the driver and passengers.",
+      "symptoms": [
+        "The vehicle stalls or cuts off while driving",
+        "the vehicle catches on fire",
+        "the engine fails to start",
+        "the vehicle is unable to restart."
+      ],
+      "odiNumbers": [
+        "8013537",
+        "963667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Ignition System Failure",
+      "impact": "The failure of the ignition system can cause the engine to stall or fail to start, leading to a loss of power and potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "The engine stalls or cuts off while driving",
+        "the engine fails to start",
+        "the vehicle is unable to restart."
+      ],
+      "odiNumbers": [
+        "963667"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration and Brake Failure",
+      "impact": "The unintended acceleration of the vehicle, especially when combined with brake failure, can lead to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates on its own",
+        "the vehicle shifts into reverse gear without driver input",
+        "the brakes fail to respond or are unresponsive",
+        "the vehicle is unable to stop or slow down."
+      ],
+      "odiNumbers": [
+        "987350",
+        "987350"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Fluid Leak",
+      "impact": "A power steering fluid leak can cause the power steering system to fail, leading to increased difficulty in steering, which can increase the risk of accidents, especially at low speeds.",
+      "symptoms": [
+        "Power steering fluid leaking from the system",
+        "power steering fluid level dropping",
+        "power steering becoming difficult or stiff",
+        "power steering pump making noise",
+        "power steering failure while driving."
+      ],
+      "odiNumbers": [
+        "978066",
+        "970152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering System Failure",
+      "impact": "A power steering system failure can cause the power steering to become difficult or stiff, increasing the risk of accidents, especially at low speeds.",
+      "symptoms": [
+        "Power steering becoming difficult or stiff",
+        "power steering pump making noise",
+        "power steering failure while driving",
+        "increased effort required to steer the vehicle",
+        "uneven or erratic power steering assist."
+      ],
+      "odiNumbers": [
+        "978066",
+        "970152"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

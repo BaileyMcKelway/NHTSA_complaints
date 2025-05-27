@@ -1,0 +1,225 @@
+{
+  "totalComplaints": 71,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to engine damage, stalling, or even engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The temperature gauge rises rapidly",
+        "the coolant light illuminates",
+        "coolant leaks",
+        "dirty or discolored coolant",
+        "the vehicle overheats",
+        "the engine stalls",
+        "and there is a sweet or burning smell."
+      ],
+      "odiNumbers": [
+        "10062705",
+        "10071328",
+        "10007410",
+        "8006739",
+        "9005223",
+        "883255"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Water Pump Failure",
+      "impact": "The failure of the water pump can cause the engine to overheat, leading to engine damage, stalling, or even engine failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant leaks",
+        "the water pump makes a bearing noise",
+        "the coolant light illuminates",
+        "the temperature gauge rises rapidly",
+        "the engine overheats",
+        "and the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "10062705",
+        "10071328",
+        "10007410",
+        "8006739",
+        "9005223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling",
+      "impact": "Engine stalling can cause accidents or leave the driver stranded, especially if it occurs while driving at high speeds.",
+      "symptoms": [
+        "The engine stalls",
+        "the vehicle loses power",
+        "the temperature gauge rises rapidly",
+        "the coolant light illuminates",
+        "and there is a sweet or burning smell."
+      ],
+      "odiNumbers": [
+        "10019548",
+        "883255",
+        "8007046",
+        "722882",
+        "720024",
+        "539880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Issues",
+      "impact": "Transmission problems can cause accidents or leave the driver stranded, especially if the vehicle is unable to shift gears properly.",
+      "symptoms": [
+        "The transmission experiences hard shifting",
+        "the vehicle is unable to engage in any gear",
+        "and the shifter boot comes out."
+      ],
+      "odiNumbers": [
+        "10019548",
+        "883255"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Oil Pressure Issues",
+      "impact": "Oil pressure issues can cause engine damage or failure, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The oil pressure exceeds its normal range",
+        "the oil pump fails",
+        "and the engine stalls."
+      ],
+      "odiNumbers": [
+        "10019548",
+        "606573"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to stall, lose power, or experience erratic behavior, which can lead to accidents, strand the driver, or cause inconvenience.",
+      "symptoms": [
+        "The vehicle won't start",
+        "the ignition switch fails",
+        "the battery shorts out",
+        "power doors become inoperable",
+        "the vehicle stalls out without cause",
+        "the electrical system operates erratically",
+        "the battery light is on",
+        "and the vehicle is not charging."
+      ],
+      "odiNumbers": [
+        "10386647",
+        "10204357",
+        "10059102",
+        "10024328",
+        "10002622",
+        "8016633",
+        "8011753",
+        "566009",
+        "8010336",
+        "857617",
+        "850236",
+        "849853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to not start, which can leave the driver stranded.",
+      "symptoms": [
+        "The vehicle won't start when the key is inserted into the ignition",
+        "the ignition switch fails",
+        "and the vehicle experiences intermittent starting problems."
+      ],
+      "odiNumbers": [
+        "10386647",
+        "10204357",
+        "10059102",
+        "566009"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Relay Switch Failure",
+      "impact": "The failure of the relay switch can cause the vehicle to discharge, leading to electrical system failure, which can cause the vehicle to stall or lose power.",
+      "symptoms": [
+        "The vehicle discharges",
+        "the battery light is on",
+        "and the vehicle is not charging."
+      ],
+      "odiNumbers": [
+        "8011753"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries, distractions, and loss of control, leading to accidents or near-misses.",
+      "symptoms": [
+        "The airbag deploys suddenly without any apparent reason",
+        "while driving at low speeds",
+        "or when the vehicle is stationary; the airbag warning lamp may be illuminated prior to deployment."
+      ],
+      "odiNumbers": [
+        "10649591",
+        "10509487",
+        "10451857",
+        "713788"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy in a Crash",
+      "impact": "The failure of airbags to deploy in a crash can increase the risk of injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "even at moderate speeds; passengers may be thrown into the windshield or suffer injuries due to the lack of airbag protection."
+      ],
+      "odiNumbers": [
+        "870190",
+        "848986",
+        "847936"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed Airbag Deployment",
+      "impact": "Delayed airbag deployment can reduce the effectiveness of the airbag system, increasing the risk of injuries or fatalities.",
+      "symptoms": [
+        "Airbags deploy with a delay after the crash",
+        "or deploy in a sequence (e.g.",
+        "driver's side followed by passenger's side)."
+      ],
+      "odiNumbers": [
+        "848986"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

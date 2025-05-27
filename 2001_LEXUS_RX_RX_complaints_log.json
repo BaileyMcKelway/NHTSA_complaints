@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 19,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "TIRES",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to suddenly stop moving, lose power, or hesitate to shift gears, which can lead to accidents, injuries, or leave the driver stranded.",
+      "symptoms": [
+        "The transmission fails to engage",
+        "hesitates to shift gears",
+        "makes a whining or grinding noise",
+        "slips or jerks when shifting",
+        "fails to reverse",
+        "or becomes inoperable."
+      ],
+      "odiNumbers": [
+        "10663511",
+        "10532983",
+        "10511088",
+        "10204640",
+        "10202514",
+        "10194204",
+        "10193980",
+        "10188238",
+        "10182798",
+        "10177050",
+        "10166624",
+        "10156885",
+        "10155095"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Odometer Fraud",
+      "impact": "The fraudulent tampering with the odometer reading can lead to the purchase of a vehicle with hidden defects or excessive wear, resulting in financial losses and potential safety risks.",
+      "symptoms": [
+        "The vehicle's odometer reading is inconsistent with its actual mileage",
+        "and the seller fails to disclose the true mileage or provides false information."
+      ],
+      "odiNumbers": [
+        "11297334"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Belt Separation and Sidewall Failure",
+      "impact": "The separation of tire belts and sidewall failure can lead to sudden tire blowouts, loss of control, and accidents, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "Uncharacteristic tire punctures",
+        "vibration at high speeds",
+        "convex shape of the steel belt",
+        "tire belt separation",
+        "sidewall cracks or splits",
+        "complete tire deflation."
+      ],
+      "odiNumbers": [
+        "11556845",
+        "11522860",
+        "10176129"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to serious injuries or fatalities, as the occupants are not provided with the necessary protection.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite meeting the deployment criteria",
+        "occupants may experience severe injuries or fatalities",
+        "vehicle damage may be extensive."
+      ],
+      "odiNumbers": [
+        "11584489"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

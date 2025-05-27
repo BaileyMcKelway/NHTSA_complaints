@@ -1,0 +1,64 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the vehicle to stall without warning, leading to a loss of control and increasing the risk of accidents. Additionally, faulty ignition switches can cause electrical system malfunctions, potentially leading to fires.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the ignition switch does not return to its normal position",
+        "the ignition switch requires banging or wiggling to start the vehicle",
+        "sparks are visible around the steering column",
+        "accessories such as headlights do not function properly."
+      ],
+      "odiNumbers": [
+        "873940",
+        "734205",
+        "983599",
+        "983153",
+        "979056",
+        "979098"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can compromise the safety of occupants in the event of an accident, increasing the risk of injury or fatality.",
+      "symptoms": [
+        "The seat belt buckle will not stay buckled",
+        "the spring latch fails to engage."
+      ],
+      "odiNumbers": [
+        "734205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Fire",
+      "impact": "A vehicle fire can cause significant damage to the vehicle, pose a risk to the occupants and bystanders, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle catches on fire",
+        "often while parked or in operation",
+        "with no warning signs or symptoms."
+      ],
+      "odiNumbers": [
+        "983293",
+        "740760"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

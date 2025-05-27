@@ -1,0 +1,158 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FORWARD COLLISION AVOIDANCE",
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Fluid Leak and Fire Risk",
+      "impact": "A brake fluid leak can cause a fire under the hood, potentially leading to a vehicle fire, which can result in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Smoke coming from underneath the hood",
+        "fire under the hood",
+        "no warning light illuminated."
+      ],
+      "odiNumbers": [
+        "11586726",
+        "11291252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Emergency Braking (AEB) System Failure",
+      "impact": "The failure of the AEB system can increase the risk of accidents, as the vehicle may not automatically apply the brakes in emergency situations, potentially leading to collisions or injuries.",
+      "symptoms": [
+        "Intermittent dashboard message \"Unavailable Front Radar Obstruction\"",
+        "automatic emergency braking failure while moving."
+      ],
+      "odiNumbers": [
+        "11241918",
+        "11240459",
+        "11195893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake System Sensor Failure",
+      "impact": "The failure of brake system sensors can cause the brake system to malfunction, leading to reduced vehicle safety and potentially increasing the risk of accidents.",
+      "symptoms": [
+        "Warning light appears on the dash",
+        "reads \"Front Radar Unavailable Due to Obstruction\"."
+      ],
+      "odiNumbers": [
+        "11195893",
+        "11241918"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inaccurate Automatic Emergency Braking (AEB) System Activation",
+      "impact": "The inaccurate activation of the AEB system can cause sudden and unexpected braking, which can lead to accidents, loss of control, or rear-end collisions.",
+      "symptoms": [
+        "The vehicle brakes suddenly without any obstruction",
+        "the \"Front Radar Obstruction Unavailable\" message is displayed on the instrument panel",
+        "the Forward Collision and Lane Keep Assist safety features fail to operate as needed",
+        "the AEB system activates inappropriately while using cruise control."
+      ],
+      "odiNumbers": [
+        "11515788",
+        "11490826",
+        "11475900",
+        "11256582",
+        "11230486"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sunroof Spontaneous Shattering",
+      "impact": "The sudden shattering of the sunroof can cause a loud noise, startle the driver, and potentially lead to accidents or injuries from shattered glass.",
+      "symptoms": [
+        "The sunroof explodes or shatters suddenly",
+        "often without warning",
+        "while driving."
+      ],
+      "odiNumbers": [
+        "11374191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clear Fluid Leak",
+      "impact": "The leak of a clear fluid can indicate a potential problem with the vehicle's cooling system, transmission, or brake system, which can lead to overheating, engine damage, or loss of brake function.",
+      "symptoms": [
+        "A clear fluid leaks from the vehicle while it is stationary and in idle."
+      ],
+      "odiNumbers": [
+        "11363682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Rear Obstruction Warning System Malfunction",
+      "impact": "The malfunction of the rear obstruction warning system can lead to accidents or injuries due to the driver's lack of awareness of obstacles behind the vehicle.",
+      "symptoms": [
+        "The rear obstruction warning system fails to function properly",
+        "providing false warnings or no warnings at all."
+      ],
+      "odiNumbers": [
+        "11308956",
+        "11209488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Distracting Infotainment System",
+      "impact": "The infotainment system can be a distraction to the driver, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The infotainment system is overly complex",
+        "difficult to navigate",
+        "and can cause the driver to take their eyes off the road."
+      ],
+      "odiNumbers": [
+        "11071638"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Radar Obstruction Error",
+      "impact": "The \"Unavailable Front Radar Obstruction\" error can compromise the emergency braking system, adaptive cruise control, and other safety features, increasing the risk of accidents.",
+      "symptoms": [
+        "The error message \"Unavailable Front Radar Obstruction\" appears randomly on the dashboard",
+        "often accompanied by an icon of two colliding vehicles",
+        "and can occur in clear road conditions",
+        "when approaching a vehicle or street sign",
+        "or when someone cuts in front of the vehicle."
+      ],
+      "odiNumbers": [
+        "11291098",
+        "11258507",
+        "11245610",
+        "11242058"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

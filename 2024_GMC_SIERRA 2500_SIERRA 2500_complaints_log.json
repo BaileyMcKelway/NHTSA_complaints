@@ -1,0 +1,163 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Integrated Trailer Brake Controller Failure",
+      "impact": "The failure of the integrated trailer brake controller can cause the trailer brakes to disconnect, leading to a loss of control and increased risk of accidents.",
+      "symptoms": [
+        "Trailer brakes disconnect",
+        "trailer brake error message",
+        "intermittent trailer brake failure",
+        "loss of trailer brake functionality."
+      ],
+      "odiNumbers": [
+        "11591633",
+        "11581165",
+        "11569499",
+        "11556441",
+        "11551398",
+        "11532444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Solar Panel Interference with Trailer Brake System",
+      "impact": "The solar panel system on the trailer can cause interference with the trailer brake system, leading to a loss of trailer brake functionality and increased risk of accidents.",
+      "symptoms": [
+        "Trailer brakes disconnect",
+        "trailer brake error message",
+        "intermittent trailer brake failure",
+        "loss of trailer brake functionality."
+      ],
+      "odiNumbers": [
+        "11591633",
+        "11581165",
+        "11569499",
+        "11556441",
+        "11551398",
+        "11532444"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Blind Spot Warning System Malfunction",
+      "impact": "The malfunction of the blind spot warning system can cause distractions and increase the risk of accidents.",
+      "symptoms": [
+        "Blind spot warning lights flash on and off",
+        "false alerts",
+        "distraction while driving."
+      ],
+      "odiNumbers": [
+        "11577009",
+        "11566359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tailgate Latch Failure",
+      "impact": "The failure of the tailgate latch can cause the tailgate to open while driving, leading to a loss of cargo and increased risk of accidents.",
+      "symptoms": [
+        "Tailgate opens while driving",
+        "no warning or indication of tailgate opening",
+        "loss of cargo."
+      ],
+      "odiNumbers": [
+        "11582168",
+        "11544374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Trailer Brake System Failure",
+      "impact": "The failure of the trailer brake system can cause a loss of trailer brakes, leading to a severe safety concern, potentially resulting in accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Error notifications \"Check Trailer Wiring\" and \"Service Trailer Brake System\" cycle every 20 seconds to 5 minutes",
+        "trailer brake becomes disabled",
+        "no trailer brakes when braking",
+        "trailer brakes suddenly connect at below 35-25 MPH",
+        "intermittent loss of trailer brakes."
+      ],
+      "odiNumbers": [
+        "11578450",
+        "11548306"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electronic Brake Controller Fault",
+      "impact": "The fault in the electronic brake controller can cause a false trailer wiring fault display, resulting in no brakes on the trailer, which is a severe safety concern.",
+      "symptoms": [
+        "Intermittent trailer wiring fault display",
+        "no brakes on the trailer",
+        "emergency situation towing a heavy load with no brakes."
+      ],
+      "odiNumbers": [
+        "11578450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Automatic Tailgate Drop",
+      "impact": "The automatic drop of the tailgate while a trailer is connected can cause damage to the tailgate and potentially lead to accidents or injuries.",
+      "symptoms": [
+        "Tailgate drops automatically while a trailer is connected",
+        "destroying the tailgate."
+      ],
+      "odiNumbers": [
+        "11590231"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transfer Case Seal Failure",
+      "impact": "The failure of the transfer case seals can cause the vehicle to hesitate or lose power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or loses power",
+        "the check engine warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11592359"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Column Shifter Design Flaw",
+      "impact": "The design of the column shifter can cause the vehicle to unintentionally shift into neutral, leading to a loss of acceleration and braking capabilities, which can be extremely dangerous, especially when hauling heavy trailers or loads.",
+      "symptoms": [
+        "The driver may accidentally bump the shifter into neutral while interacting with the infotainment screen",
+        "radio volume control dial",
+        "or home button",
+        "causing the vehicle to lose acceleration and braking capabilities."
+      ],
+      "odiNumbers": [
+        "11527622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

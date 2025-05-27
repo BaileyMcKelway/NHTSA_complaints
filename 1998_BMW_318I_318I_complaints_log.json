@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to continue running even after the key is removed, leading to a potential safety hazard, as the vehicle may move unexpectedly, and the driver may lose control.",
+      "symptoms": [
+        "The key starts rotating in the ignition while driving",
+        "the engine does not shut off when the key is removed",
+        "the vehicle continues to run even after the key is taken out of the ignition."
+      ],
+      "odiNumbers": [
+        "10046916",
+        "8001812",
+        "559680"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Cruise Control System",
+      "impact": "The failure of the cruise control system to disengage when the brakes are applied can lead to unintended acceleration, loss of vehicle control, and increased risk of accidents.",
+      "symptoms": [
+        "The cruise control does not disengage when the brakes are applied",
+        "the vehicle does not decelerate when expected",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "10138097",
+        "740722"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping or Popping Out of 1st Gear",
+      "impact": "The transmission slipping or popping out of 1st gear can cause loss of power, reduced acceleration, and increased risk of accidents, especially when merging onto highways or navigating uphill.",
+      "symptoms": [
+        "The transmission suddenly slips or pops out of 1st gear while accelerating",
+        "accompanied by a loud noise",
+        "loss of power",
+        "and reduced vehicle speed."
+      ],
+      "odiNumbers": [
+        "732430",
+        "732430"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

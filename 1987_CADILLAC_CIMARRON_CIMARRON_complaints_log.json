@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "STEERING",
+    "POWER TRAIN",
+    "LATCHES/LOCKS/LINKAGES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause intermittent stalling, which can lead to accidents, especially if the vehicle stalls while in motion or in a hazardous location.",
+      "symptoms": [
+        "The vehicle stalls intermittently",
+        "often without warning",
+        "and may or may not restart immediately."
+      ],
+      "odiNumbers": [
+        "526425",
+        "965547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Brake Lockup",
+      "impact": "The rear brakes locking up can cause loss of control, skidding, or accidents, especially on wet or slippery roads.",
+      "symptoms": [
+        "The rear brakes lock up",
+        "causing the vehicle to skid or lose control",
+        "often without warning."
+      ],
+      "odiNumbers": [
+        "965547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Manifold Absolute Pressure (MAP) Sensor Failure",
+      "impact": "The failure of the MAP sensor can cause the engine to stall intermittently, which can lead to a loss of vehicle control, increasing the risk of accidents, especially when driving at high speeds.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the vehicle hesitates or stumbles when accelerating",
+        "the engine check light illuminates on the dashboard",
+        "the vehicle experiences poor fuel economy",
+        "the vehicle has difficulty starting."
+      ],
+      "odiNumbers": [
+        "526425"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Rack and Pinion Lock-Up",
+      "impact": "The sudden lock-up of the steering rack and pinion can cause loss of steering control, making it difficult to maneuver the vehicle, which can lead to accidents or collisions.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn or locks up",
+        "the vehicle pulls to one side",
+        "the steering feels stiff or tight",
+        "the steering rack and pinion make abnormal noises",
+        "the vehicle is difficult to steer",
+        "especially during morning start-up."
+      ],
+      "odiNumbers": [
+        "965547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Multi-Function Lever Failure",
+      "impact": "The failure of the transmission multi-function lever can cause intermittent stalling, which can lead to accidents, especially when the vehicle stalls in heavy traffic or on a slope, and can also cause inconvenience and frustration to the driver.",
+      "symptoms": [
+        "The vehicle stalls intermittently",
+        "the transmission shifts erratically",
+        "the transmission slips or hesitates",
+        "the vehicle experiences sudden loss of power",
+        "the transmission warning light illuminates on the dashboard."
+      ],
+      "odiNumbers": [
+        "965547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Door Lock Actuator",
+      "impact": "The failure of the door lock actuator can cause the doors to malfunction, leading to difficulties in entering or exiting the vehicle, and potentially compromising safety and security.",
+      "symptoms": [
+        "The doors will not lock or unlock",
+        "the doors lock or unlock unexpectedly",
+        "the door lock buttons do not respond",
+        "the doors are difficult to open or close",
+        "the door locks make a grinding or clicking noise."
+      ],
+      "odiNumbers": [
+        "965547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

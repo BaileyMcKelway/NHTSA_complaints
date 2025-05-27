@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Occupant Classification System (OCS) Failure",
+      "impact": "The failure of the OCS to detect a passenger can lead to the deactivation of the passenger airbag, which can increase the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The passenger airbag is not enabled",
+        "the \"Passenger Airbag OFF\" telltale is illuminated",
+        "the airbag sensor turns off and on while driving depending on how the passenger sits",
+        "the airbag sensor does not detect the passenger if they are seated improperly",
+        "cross their legs",
+        "or recline the seat too far back."
+      ],
+      "odiNumbers": [
+        "11584501",
+        "11573682",
+        "11562517",
+        "11562124",
+        "11562140",
+        "11561699",
+        "11561452",
+        "11560397",
+        "11560415",
+        "11549148",
+        "11545749"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Loss of Traction Control and Stability in High Regeneration Mode",
+      "impact": "The failure of traction control, stability controls, and anti-lock braking systems in high regeneration mode can cause the vehicle to become uncontrollable, especially in low-traction situations, posing a significant risk to the driver and others on the road.",
+      "symptoms": [
+        "Vehicle aquaplanes",
+        "loss of traction",
+        "skidding",
+        "and uncontrolled movement; ABS and traction control systems fail to engage; vehicle feels like it has locked all four wheels."
+      ],
+      "odiNumbers": [
+        "11585044"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "High Voltage Battery Failure",
+      "impact": "The failure of the high voltage battery can cause the vehicle to enter \"turtle mode\" at highway speeds, reducing power and speed, and potentially leading to accidents or stranding the driver.",
+      "symptoms": [
+        "Vehicle enters \"turtle mode\" at highway speeds",
+        "loss of power",
+        "reduced speed."
+      ],
+      "odiNumbers": [
+        "11553369"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lane Departure and Unintended Acceleration",
+      "impact": "The vehicle's lane departure system can cause unintended acceleration, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly changes lanes or accelerates without driver input",
+        "making it difficult to maintain control",
+        "and potentially leading to collisions or near-miss incidents."
+      ],
+      "odiNumbers": [
+        "11582833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Parking Brake Failure",
+      "impact": "The failure of the parking brake can cause the vehicle to roll or slide, potentially leading to accidents, injuries, or fatalities, especially on inclined surfaces.",
+      "symptoms": [
+        "The vehicle rolls or slides while parked",
+        "even with the parking brake engaged",
+        "and may only lock two wheels",
+        "leaving the other two wheels free to roll."
+      ],
+      "odiNumbers": [
+        "11572970"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

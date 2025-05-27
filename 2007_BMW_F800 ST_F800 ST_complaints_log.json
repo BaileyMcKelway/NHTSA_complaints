@@ -1,0 +1,114 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "WHEELS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Wheel Bearing Failure",
+      "impact": "The failure of the rear wheel bearing can cause the rear wheel to lock up, leading to loss of control, accidents, and potentially serious injury or death.",
+      "symptoms": [
+        "Abnormal noise or chirping sound coming from the rear of the vehicle",
+        "drive belt riding abnormally on the rear drive pulley",
+        "rear wheel bearings and support shaft in need of replacement."
+      ],
+      "odiNumbers": [
+        "10503405",
+        "10460089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Mounting Plate Failure",
+      "impact": "The failure of the fuel pump mounting plate can cause fuel to leak from the tank, creating a fire hazard, especially in enclosed spaces.",
+      "symptoms": [
+        "Fuel leak from the tank",
+        "uncontrolled fuel escape",
+        "fuel smell",
+        "potential fire hazard."
+      ],
+      "odiNumbers": [
+        "10470251"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "CANBUS System Failure",
+      "impact": "The failure of the CANBUS system can cause critical safety systems, such as the speedometer, tachometer, and ABS, to malfunction, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "Sudden loss of instrument cluster functionality",
+        "speedometer and tachometer failure",
+        "ABS failure",
+        "engine stalling",
+        "burning smell and smoke from the alternator."
+      ],
+      "odiNumbers": [
+        "10464230"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Cutting Out",
+      "impact": "The engine stalling and cutting out while the motorcycle is in motion can cause loss of control, accidents, and potentially lead to serious injuries or fatalities, especially when approaching corners, stop signs, or slowing down.",
+      "symptoms": [
+        "The engine stalls or cuts out unpredictably",
+        "often when downshifting or completely closing the throttle",
+        "particularly after riding at high throttle settings or after reaching a certain mileage (50-85 miles). The problem may occur at various speeds",
+        "from 5mph to 60mph."
+      ],
+      "odiNumbers": [
+        "10347520",
+        "10341367"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Wheel Bearing Seizure and Catastrophic Failure",
+      "impact": "The seizure of the rear wheel bearing can cause a catastrophic wheel separation from the pulley and belt drive, leading to a loss of control and potentially resulting in accidents or injuries.",
+      "symptoms": [
+        "The rear wheel bearing seizes",
+        "causing the wheel to separate from the pulley and belt drive",
+        "rusting or welding together with the shaft",
+        "unusual noises or vibrations from the rear wheel",
+        "loss of control or stability while riding."
+      ],
+      "odiNumbers": [
+        "10424567"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Malfunction on Rough Surfaces",
+      "impact": "The sudden loss of front brake pressure can cause the vehicle to lose control, leading to accidents or near-miss situations, especially when driving on rough roads or construction zones.",
+      "symptoms": [
+        "When braking on rough surfaces",
+        "the ABS system releases all front brake pressure",
+        "resulting in a loss of braking power",
+        "the vehicle takes longer to stop",
+        "or the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "10231688"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

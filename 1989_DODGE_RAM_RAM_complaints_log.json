@@ -1,0 +1,188 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "FUEL SYSTEM",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can prevent the seat belt from latching or releasing, which can lead to accidents or injuries in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The seat belt buckle will not latch",
+        "the seat belt buckle will not stay closed",
+        "the red release button is broken",
+        "the seat belt is stuck and cannot be released",
+        "the seat belt retractor fails",
+        "the seat belt is jammed or stuck in the retracted position."
+      ],
+      "odiNumbers": [
+        "807212",
+        "807200",
+        "979864",
+        "500803",
+        "976754",
+        "974961",
+        "973293",
+        "969876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can cause the seat belt to malfunction, leading to accidents or injuries in the event of sudden stops or crashes.",
+      "symptoms": [
+        "The seat belt retractor fails",
+        "the seat belt does not retract",
+        "the seat belt is stuck or jammed in the retracted position",
+        "the seat belt is loose and does not provide proper restraint."
+      ],
+      "odiNumbers": [
+        "500803",
+        "969876"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed or Missing Seat Belt Recall",
+      "impact": "The delay or failure to receive a recalled seat belt part can leave the vehicle occupant at risk of injury or accident due to a faulty seat belt.",
+      "symptoms": [
+        "The consumer is waiting for a seat belt buckle or retractor replacement",
+        "the dealer or manufacturer claims there is no recall",
+        "the consumer is unaware of a recall or has not received the necessary replacement parts."
+      ],
+      "odiNumbers": [
+        "807212",
+        "974961"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The malfunction of the fuel gauge can cause the driver to be unaware of the fuel level, leading to potential engine stalling, fuel starvation, and safety risks.",
+      "symptoms": [
+        "The fuel gauge does not register fuel levels",
+        "the fuel gauge needle does not move",
+        "the fuel gauge is inaccurate."
+      ],
+      "odiNumbers": [
+        "8004726"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Tank Leaks and Separation",
+      "impact": "Fuel leaks from the tank can cause fires, explosions, and environmental hazards, while separation of the tank from its mounting can lead to accidents.",
+      "symptoms": [
+        "Fuel leaks from the tank",
+        "fuel spills on the ground",
+        "the fuel tank has pulled away from its mounting."
+      ],
+      "odiNumbers": [
+        "751139",
+        "826415",
+        "967957"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Injection System Leaks",
+      "impact": "Leaks in the fuel injection system can cause fuel to leak onto hot engine components, leading to fires and safety risks.",
+      "symptoms": [
+        "Fuel leaks from the fuel injection system",
+        "fuel smell in the engine compartment",
+        "engine compartment fires."
+      ],
+      "odiNumbers": [
+        "878033",
+        "964961"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Fires",
+      "impact": "Electrical system fires can cause damage to the vehicle, injuries, and fatalities.",
+      "symptoms": [
+        "Fires in the passenger compartment",
+        "electrical system malfunctions",
+        "burning smells or smoke."
+      ],
+      "odiNumbers": [
+        "970480",
+        "964961"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Blowout/Failure",
+      "impact": "Tire blowouts or failures can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities, especially when traveling at high speeds.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire tread separation",
+        "tire blowout",
+        "loss of vehicle control",
+        "accidents."
+      ],
+      "odiNumbers": [
+        "10043926",
+        "732045",
+        "729560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Tread Separation",
+      "impact": "Tire tread separation can cause loss of vehicle control, accidents, and potentially lead to injuries or fatalities, especially when traveling at high speeds.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire tread separation",
+        "tire blowout",
+        "loss of vehicle control",
+        "accidents."
+      ],
+      "odiNumbers": [
+        "732045",
+        "729560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Defective Tire Design/Manufacturing",
+      "impact": "Defective tire design or manufacturing can lead to tire failures, blowouts, or tread separation, causing loss of vehicle control, accidents, and potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of tire pressure",
+        "tire tread separation",
+        "tire blowout",
+        "loss of vehicle control",
+        "accidents."
+      ],
+      "odiNumbers": [
+        "729560"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

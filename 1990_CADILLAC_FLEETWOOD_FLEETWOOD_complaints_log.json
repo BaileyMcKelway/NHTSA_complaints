@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake Failure",
+      "impact": "The failure of the ABS brake system can lead to extended stopping distances, accidents, or loss of control, compromising vehicle safety and potentially causing injuries or fatalities.",
+      "symptoms": [
+        "ABS light is on",
+        "brake pedal becomes hard",
+        "brake pedal feels spongy",
+        "brake pedal does not respond",
+        "vehicle does not stop or slows down slowly",
+        "extended stopping distance",
+        "loss of braking power",
+        "intermittent brake failure."
+      ],
+      "odiNumbers": [
+        "885446",
+        "838712",
+        "781029",
+        "828709",
+        "822952",
+        "819008",
+        "518863",
+        "815491",
+        "812692",
+        "806635",
+        "981043",
+        "964115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Leak",
+      "impact": "A fuel system leak can cause fuel to spill onto the ground, creating a fire hazard and potentially leading to an explosion or fire.",
+      "symptoms": [
+        "Fuel tank leaks when full",
+        "gas tank leak",
+        "fuel smell or odor",
+        "fuel visible under the vehicle."
+      ],
+      "odiNumbers": [
+        "10026220",
+        "550977",
+        "507964"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Wiring Switch Failure",
+      "impact": "The failure of the electrical wiring switch can cause a electrical smell and smoke to enter the passenger compartment, potentially leading to a fire hazard.",
+      "symptoms": [
+        "Electrical smell inside the vehicle",
+        "smoke illuminated from the steering column."
+      ],
+      "odiNumbers": [
+        "813051"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Insufficient Dashboard Illumination",
+      "impact": "The inadequate illumination of the dashboard can make it difficult for the driver to read important information, such as speed and warning lights, which can lead to accidents or other safety issues.",
+      "symptoms": [
+        "Difficulty reading dashboard displays when headlights are used in daylight."
+      ],
+      "odiNumbers": [
+        "973941"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure - Ignition Switch",
+      "impact": "The failure of the electrical system, specifically the ignition switch, can cause the engine to shut down suddenly, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "Sudden shutdown of the engine",
+        "sudden loss of lighting",
+        "overheating of electrical connectors in the wiring harness",
+        "no warning prior to failure."
+      ],
+      "odiNumbers": [
+        "11460529",
+        "10400913",
+        "10272701",
+        "10269510"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Shifting Issues",
+      "impact": "The difficulty in shifting into 1st gear when stopped can lead to accidents, especially on steep hills, and create an unsafe situation for the rider.",
+      "symptoms": [
+        "The motorcycle will not shift into 1st gear when stopped unless rocked back and forth",
+        "the motorcycle will only shift into neutral but not 1st gear when stopped."
+      ],
+      "odiNumbers": [
+        "10449220"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motor Mount Failure",
+      "impact": "The failure of all four motor mounts can cause the motor to fall out, leading to a loss of control, accidents, and injuries.",
+      "symptoms": [
+        "The motor mounts break away from the frame",
+        "causing the chain to come off the sprocket",
+        "bending the sprocket",
+        "damaging the chain",
+        "and seizing up the bike."
+      ],
+      "odiNumbers": [
+        "10286522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Pressure Loss",
+      "impact": "The loss of rear brake pressure can lead to a significant reduction in braking power, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The rear brake pedal feels mushy",
+        "the brake pedal loses pressure",
+        "pumping the brake pedal repeatedly may engage the brake slightly",
+        "but only temporarily",
+        "the brake system requires frequent flushing to restore braking capabilities."
+      ],
+      "odiNumbers": [
+        "11359962"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

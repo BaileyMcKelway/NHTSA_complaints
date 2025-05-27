@@ -1,0 +1,62 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose braking capability, leading to increased stopping distances, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the vehicle takes longer to stop",
+        "the ABS fails to prevent wheel lock-up",
+        "the vehicle experiences a loss of braking system functionality."
+      ],
+      "odiNumbers": [
+        "986723",
+        "976524",
+        "975406",
+        "968973"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Failure to Honor Recall Notice",
+      "impact": "The failure of dealerships to acknowledge and remedy recall notices can lead to potential safety hazards and neglect of critical vehicle repairs, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Dealerships refuse to acknowledge recall notices",
+        "deny the existence of recalls",
+        "or fail to schedule appointments to address recall-related issues."
+      ],
+      "odiNumbers": [
+        "986881",
+        "985877"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in the event of an accident can lead to serious injuries or fatalities, as the airbag system is designed to provide critical protection to occupants in the event of a crash.",
+      "symptoms": [
+        "Airbags do not deploy in the event of an accident",
+        "resulting in injuries or fatalities",
+        "despite the severity of the crash warranting airbag deployment."
+      ],
+      "odiNumbers": [
+        "972076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

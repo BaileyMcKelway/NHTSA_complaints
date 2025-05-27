@@ -1,0 +1,388 @@
+{
+  "totalComplaints": 128,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "AIR BAGS",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Slow Fuel Fill/Fuel Spitting Back",
+      "impact": "The slow fuel fill issue can cause fuel to spill back out of the tank, creating a fire hazard, and may lead to engine problems or stalling.",
+      "symptoms": [
+        "Fuel spits back out of the tank while filling",
+        "fuel fills slowly",
+        "gas pump shuts off prematurely",
+        "fuel hose vibrates violently",
+        "fuel smell while driving."
+      ],
+      "odiNumbers": [
+        "10330611",
+        "10182054",
+        "10089866",
+        "10086119",
+        "10062632",
+        "10047129",
+        "10045143",
+        "10026778",
+        "10023738",
+        "8018992",
+        "753696"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Leak/Fuel Line Failure",
+      "impact": "A fuel leak or fuel line failure can cause fuel to leak onto the ground, creating a fire hazard, and may lead to engine problems or stalling.",
+      "symptoms": [
+        "Fuel leak",
+        "fuel smell while driving",
+        "fuel line failure."
+      ],
+      "odiNumbers": [
+        "720106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Component Failure",
+      "impact": "Failure of fuel system components, such as the evaporator control valve, can cause engine problems, stalling, or the check engine light to come on.",
+      "symptoms": [
+        "Engine light comes on",
+        "fuel system component failure."
+      ],
+      "odiNumbers": [
+        "10182054",
+        "607115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of airbags to deploy in a crash can lead to severe injuries or fatalities, as the occupants are not adequately protected.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "resulting in injuries or fatalities."
+      ],
+      "odiNumbers": [
+        "10049467",
+        "10042034",
+        "10002216",
+        "8004251",
+        "899573",
+        "872558",
+        "837148",
+        "539067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag Unintended Deployment",
+      "impact": "The unintended deployment of airbags can cause injuries, especially if the occupants are not expecting it, and can also lead to accidents if the driver is distracted or loses control of the vehicle.",
+      "symptoms": [
+        "Airbags deploy unnecessarily",
+        "even in low-speed crashes or minor accidents",
+        "causing injuries or damage."
+      ],
+      "odiNumbers": [
+        "10045561",
+        "856287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Airbag Sensor Failure",
+      "impact": "The failure of airbag sensors can prevent the airbags from deploying in a crash, leading to injuries or fatalities, or cause them to deploy unnecessarily, leading to injuries or accidents.",
+      "symptoms": [
+        "Airbag warning light appears on the dashboard",
+        "indicating a sensor failure",
+        "or airbags fail to deploy in a crash."
+      ],
+      "odiNumbers": [
+        "10025013",
+        "837148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Design Flaw",
+      "impact": "A design flaw in the airbag system can lead to the failure of airbags to deploy in a crash, or cause them to deploy unnecessarily, resulting in injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "despite the severity of the impact",
+        "or deploy unnecessarily",
+        "causing injuries or damage."
+      ],
+      "odiNumbers": [
+        "10045561",
+        "837148",
+        "539067"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Timing Chain Failure and Related Engine Damage",
+      "impact": "The failure of the timing chain can cause engine damage, leading to costly repairs, and potentially leaving the driver stranded or causing accidents.",
+      "symptoms": [
+        "Metallic whining noise and clicking in the engine compartment",
+        "lower timing chain snapping",
+        "oil pump failure",
+        "crankshaft sprocket failure",
+        "lower chain cover failure",
+        "lower chain tensioner failure",
+        "guide failure",
+        "and oil pan baffle/sump tube failure."
+      ],
+      "odiNumbers": [
+        "10176271",
+        "10134548",
+        "10073553",
+        "10068831",
+        "8017276",
+        "720234",
+        "714004",
+        "712008",
+        "607826",
+        "6900294",
+        "825587",
+        "537506",
+        "530944",
+        "821524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Performance Issues",
+      "impact": "Engine performance issues can cause poor acceleration, stalling, and misfires, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle has no power when driving",
+        "cannot accelerate correctly",
+        "stalling",
+        "misfires",
+        "rotten egg/sulfur smell emitted from exhaust",
+        "and engine skips with strong jerking when moderately accelerating."
+      ],
+      "odiNumbers": [
+        "8017276",
+        "720234",
+        "714004",
+        "712008",
+        "607826",
+        "6900294",
+        "825587",
+        "537506",
+        "530944",
+        "821524"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Sludge and Engine Component Failure",
+      "impact": "Oil sludge can cause engine component failure, leading to costly repairs and potentially leaving the driver stranded or causing accidents.",
+      "symptoms": [
+        "Oil sludge in engine",
+        "piston failure",
+        "bracket bolt in engine compartment missing",
+        "and vent control valve assembly failure."
+      ],
+      "odiNumbers": [
+        "10068831",
+        "607826",
+        "6900294",
+        "537506"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Alternator Failure",
+      "impact": "The failure of the alternator can cause the vehicle to shut down, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Smoke pouring out of the alternator",
+        "unusual rubbing noise under the hood",
+        "vehicle shutting down completely",
+        "failure to start the engine."
+      ],
+      "odiNumbers": [
+        "10126110",
+        "10093897",
+        "734701"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "The failure of the battery can cause the vehicle to shut down, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Battery explosion",
+        "battery acid leakage",
+        "vehicle failure to start",
+        "battery casing cracked."
+      ],
+      "odiNumbers": [
+        "8005674",
+        "896270",
+        "895244",
+        "714022"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause the vehicle to shut down, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle shutting down completely",
+        "failure to start the engine",
+        "horn malfunctioning",
+        "ignition switch fuse failure."
+      ],
+      "odiNumbers": [
+        "10017114",
+        "10014032",
+        "607555",
+        "540213"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to shut down, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle failure to start",
+        "fuel pump failure",
+        "wires in/around the fuel pump damaged."
+      ],
+      "odiNumbers": [
+        "10017114"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Horn Malfunction",
+      "impact": "The malfunction of the horn can cause a failure to alert other drivers, potentially leading to accidents.",
+      "symptoms": [
+        "Horn not loud enough",
+        "horn malfunctioning."
+      ],
+      "odiNumbers": [
+        "8014584",
+        "878507"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to loss of control, accidents, and injuries, as the vehicle may not be able to stop or slow down in time.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "brakes locking up",
+        "inability to slow down",
+        "strange odors or smoke from the brakes",
+        "loud squeaking or growling sounds when applying the brakes",
+        "vibrations when braking."
+      ],
+      "odiNumbers": [
+        "10294954",
+        "10292115",
+        "10043471",
+        "8013974",
+        "8006464",
+        "746041",
+        "553929",
+        "723578",
+        "720848",
+        "551553",
+        "609812",
+        "609384",
+        "826759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Malfunction",
+      "impact": "ABS malfunction can cause the brakes to lock up, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Brakes locking up on slippery surfaces",
+        "ABS not functioning properly",
+        "sudden acceleration despite applying the brakes."
+      ],
+      "odiNumbers": [
+        "10294954",
+        "10292115"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad and Rotor Failure",
+      "impact": "Brake pad and rotor failure can cause the brakes to malfunction, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Disintegrated brake pads",
+        "paper-thin brake pads",
+        "rotors with large black blotches",
+        "loud squeaking or growling sounds when applying the brakes."
+      ],
+      "odiNumbers": [
+        "10292115",
+        "8013974",
+        "746041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "Brake caliper failure can cause the brakes to malfunction, leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Front brake calipers ceasing up",
+        "pulling severely to one side",
+        "calipers locking up without applying the brakes",
+        "even when the vehicle is not turned on."
+      ],
+      "odiNumbers": [
+        "8006464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Engine Heat",
+      "impact": "The excessive engine heat can cause discomfort, distraction, and even first-degree burns to the rider, particularly in slow-speed or heavy traffic situations. This can lead to accidents or near-misses, especially if the rider needs to make sudden maneuvers or is unable to control the motorcycle.",
+      "symptoms": [
+        "Excessive heat emanating from the engine",
+        "particularly under the driver's seat",
+        "causing discomfort",
+        "redness",
+        "and burns on the upper thigh; motorcycle becomes undrivable at slow speeds or in heavy traffic; engine dies or stalls due to overheating; need to pull over to let the engine cool off."
+      ],
+      "odiNumbers": [
+        "10235276",
+        "10235181",
+        "10200223",
+        "10199368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause brake fluid to leak, leading to a loss of brake function, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake fluid weeps out of the master cylinder",
+        "brake fluid leakage",
+        "loss of brake function",
+        "inability to stop the vehicle",
+        "brake pedal feels soft or spongy."
+      ],
+      "odiNumbers": [
+        "10787200",
+        "10364274"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Headlight Failure Due to Fuse Blown",
+      "impact": "The sudden loss of headlights while driving can cause a significant reduction in visibility, increasing the risk of accidents, especially on dark roads.",
+      "symptoms": [
+        "The headlights suddenly go out",
+        "the 15-amp fuse is blown",
+        "the vehicle's headlight switch is flipped but the lights do not turn on."
+      ],
+      "odiNumbers": [
+        "10252324"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fifth Gear Noise Issue",
+      "impact": "The loud noise when shifting into fifth gear can be a distraction to the rider, potentially causing loss of control or accidents.",
+      "symptoms": [
+        "Loud noise when shifting into fifth gear",
+        "unusual sounds or vibrations when operating the motorcycle."
+      ],
+      "odiNumbers": [
+        "10205239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

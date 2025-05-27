@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Instrument Cluster Failure",
+      "impact": "The failure of the instrument cluster can cause the driver to lose critical information about the vehicle's operation, potentially leading to accidents or other safety issues.",
+      "symptoms": [
+        "The instrument cluster does not fully work",
+        "with only the temperature gauge functioning consistently; the rest of the cluster may work intermittently or not at all."
+      ],
+      "odiNumbers": [
+        "10300045"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Wiring Harness Failure",
+      "impact": "The failure of the engine wiring harness can cause electrical malfunctions, engine stalling, and potentially lead to engine fires, posing a significant risk to the driver and passengers.",
+      "symptoms": [
+        "The engine wiring harness deteriorates",
+        "causing shorts in the fuel injection system",
+        "engine stalling",
+        "and various electrical malfunctions",
+        "including issues with the temperature gauge",
+        "SRS",
+        "and fuel injection system."
+      ],
+      "odiNumbers": [
+        "10300109",
+        "10266725",
+        "10248926",
+        "10236564",
+        "10236311",
+        "10235044",
+        "10209018",
+        "10208707",
+        "10177675",
+        "10159330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Biodegradable Wiring Harness Failure",
+      "impact": "The failure of the biodegradable wiring harness can cause various engine problems, including acceleration issues, and potentially lead to a fire hazard, which can result in accidents or injuries.",
+      "symptoms": [
+        "Engine problems",
+        "including acceleration issues",
+        "rough engine performance",
+        "especially during acceleration",
+        "faulty engine operation."
+      ],
+      "odiNumbers": [
+        "10275126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Premature Catalytic Converter Failure",
+      "impact": "The premature failure of the catalytic converters can cause the vehicle to run rough, especially during acceleration, and lead to increased emissions, which can harm the environment and public health.",
+      "symptoms": [
+        "Rough engine performance",
+        "especially during acceleration",
+        "decreased engine power",
+        "increased emissions."
+      ],
+      "odiNumbers": [
+        "10275126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Rear Suspension Issues",
+      "impact": "The failure of the rear suspension can cause loss of vehicle control, leading to accidents or injuries.",
+      "symptoms": [
+        "Unstable or uneven vehicle ride",
+        "clunking or rattling noises from the rear suspension",
+        "difficulty steering or controlling the vehicle."
+      ],
+      "odiNumbers": [
+        "10275126"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

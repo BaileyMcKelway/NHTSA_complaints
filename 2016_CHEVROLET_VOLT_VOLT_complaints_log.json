@@ -1,0 +1,304 @@
+{
+  "totalComplaints": 113,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Energy Control Module (BECM) Failure",
+      "impact": "The failure of the BECM can cause the vehicle to lose power, resulting in a loss of propulsion and potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle will not start",
+        "will not charge",
+        "engine light is on",
+        "\"shift to park\" message appears on the display",
+        "vehicle loses power while driving",
+        "intermittent inability to charge propulsion battery."
+      ],
+      "odiNumbers": [
+        "11587363",
+        "11582758",
+        "11579517",
+        "11564678",
+        "11560451",
+        "11558227",
+        "11482135"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent \"Shift to Park\" Error",
+      "impact": "The intermittent \"shift to park\" error can cause the vehicle to not recognize when it is in park, leading to potential safety hazards such as the vehicle continuing to run or being put back in gear, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "\"Action required",
+        "shift to park\" message appears on the display",
+        "vehicle will not power down",
+        "vehicle continues to run",
+        "lights stay on",
+        "cannot lock the vehicle."
+      ],
+      "odiNumbers": [
+        "11470132",
+        "11461962",
+        "11461887",
+        "11443478",
+        "11435849",
+        "11430779",
+        "11421176",
+        "11414456",
+        "11388475",
+        "11377178",
+        "11363657",
+        "11360707",
+        "11350782",
+        "11342642",
+        "11341731",
+        "11338806",
+        "11327496",
+        "11325474",
+        "11322957",
+        "11322441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Energy Control Module (BECM) Failure",
+      "impact": "The failure of the BECM can cause the vehicle to lose power, stall, or shut down while driving, leading to a safety risk, especially on highways.",
+      "symptoms": [
+        "Propulsion power reduced warning",
+        "loss of motive power",
+        "engine unavailable warning",
+        "inability to shift into gear",
+        "sudden loss of acceleration",
+        "and error codes such as P1E00",
+        "U2618",
+        "U2606",
+        "U2605",
+        "U2617",
+        "and U2604."
+      ],
+      "odiNumbers": [
+        "11589877",
+        "11584887",
+        "11578074",
+        "11577365",
+        "11576310",
+        "11564925",
+        "11563839",
+        "11560251",
+        "11559075",
+        "11558425",
+        "11547284",
+        "11515897",
+        "11494246",
+        "11490223",
+        "11486527",
+        "11448862",
+        "11438790",
+        "11425964",
+        "11415464",
+        "11404812",
+        "11404387",
+        "11384019",
+        "11354952",
+        "11297134",
+        "11282009",
+        "11242752",
+        "11219395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The shift to park error can prevent the vehicle from shutting down, leading to a safety risk, especially in emergency situations.",
+      "symptoms": [
+        "\"Shift to park\" warning message",
+        "inability to shut off the vehicle",
+        "gearshift lever not recognized as being in park",
+        "and error codes such as P0031",
+        "P0054",
+        "P0030",
+        "P0135",
+        "P0403",
+        "P0405",
+        "P0443",
+        "P0458",
+        "P0489",
+        "P0597",
+        "P0598",
+        "P06DA",
+        "and P06DB."
+      ],
+      "odiNumbers": [
+        "11547284",
+        "11425964",
+        "11415464",
+        "11404812",
+        "11404387",
+        "11384019",
+        "11354952",
+        "11297134",
+        "11242752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Propulsion System Failure",
+      "impact": "The failure of the propulsion system can cause the vehicle to lose power, stall, or shut down while driving, leading to a safety risk, especially on highways.",
+      "symptoms": [
+        "Propulsion power reduced warning",
+        "loss of motive power",
+        "engine unavailable warning",
+        "inability to shift into gear",
+        "sudden loss of acceleration",
+        "and error codes such as P1E00",
+        "U2618",
+        "U2606",
+        "U2605",
+        "U2617",
+        "and U2604."
+      ],
+      "odiNumbers": [
+        "11589877",
+        "11584887",
+        "11578074",
+        "11577365",
+        "11576310",
+        "11564925",
+        "11563839",
+        "11560251",
+        "11559075",
+        "11558425",
+        "11494246",
+        "11490223",
+        "11486527",
+        "11448862",
+        "11438790",
+        "11425964",
+        "11415464",
+        "11404812",
+        "11404387",
+        "11384019",
+        "11354952",
+        "11297134",
+        "11242752",
+        "11219395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Shift to Park Issue",
+      "impact": "The failure to recognize the vehicle is in park can cause the vehicle to remain in an operational state, leading to potential safety risks, such as unintended movement or difficulty shutting off the engine.",
+      "symptoms": [
+        "The vehicle displays a \"Shift to Park\" message on the dashboard",
+        "despite being in park",
+        "and refuses to shut off. The issue may require jiggling the shift handle",
+        "pressing the button on the shift stick",
+        "or turning the car on and off multiple times to resolve."
+      ],
+      "odiNumbers": [
+        "11427858",
+        "11348826",
+        "11340573",
+        "11338889",
+        "11338890",
+        "11316382",
+        "11315827",
+        "11302079",
+        "11301668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Keyless Remote System Failure",
+      "impact": "The failure of the keyless remote system can leave the driver stranded, unable to access their vehicle, and potentially vulnerable to safety risks.",
+      "symptoms": [
+        "The vehicle fails to recognize the keyless remote",
+        "displaying a \"No remote detected\" message",
+        "and may require manual intervention to access the vehicle."
+      ],
+      "odiNumbers": [
+        "11433311"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Water Leak and Condensation Issue",
+      "impact": "The water leak and condensation issue can cause damage to the vehicle's electrical components, leading to potential safety risks and costly repairs.",
+      "symptoms": [
+        "Excessive condensation and water accumulation under the front passenger floor",
+        "requiring removal of seats",
+        "trim",
+        "carpet",
+        "and repair of bad welds."
+      ],
+      "odiNumbers": [
+        "11375752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "The failure of the EGR valve can cause the vehicle to overheat, leading to potential safety risks and engine damage.",
+      "symptoms": [
+        "The vehicle displays a \"Reduced Propulsion\" warning",
+        "and the engine overheats",
+        "requiring frequent stops to cool down."
+      ],
+      "odiNumbers": [
+        "11558093"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Dashboard Reflection Issue",
+      "impact": "The reflection from the dashboard chrome trim can cause visual impairment, increasing the risk of accidents.",
+      "symptoms": [
+        "The driver is blinded by the sun's reflection on the dashboard",
+        "causing dark spots in their vision and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "10825884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Vehicle Fire",
+      "impact": "The vehicle fire can cause significant damage to the vehicle and potentially harm occupants.",
+      "symptoms": [
+        "Smoke and flames appear on the rear passenger floor while driving",
+        "requiring immediate evacuation."
+      ],
+      "odiNumbers": [
+        "11193451"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

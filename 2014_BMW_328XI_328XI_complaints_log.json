@@ -1,0 +1,104 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STRUCTURE",
+    "UNKNOWN OR OTHER",
+    "FUEL/PROPULSION SYSTEM",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Door Lock Actuators",
+      "impact": "The failure of the door lock actuators can prevent occupants from exiting the vehicle in an emergency situation, potentially leading to serious injury or death.",
+      "symptoms": [
+        "The doors fail to unlock manually",
+        "the doors only unlock electronically using the central unlocking feature",
+        "the doors do not mechanically unlock by double-pulling the handle",
+        "the doors are stuck and cannot be opened."
+      ],
+      "odiNumbers": [
+        "11174388",
+        "11160929",
+        "11113288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Quality and Fume Issues",
+      "impact": "The presence of fumes and poor air quality in the vehicle cabin can cause health issues, discomfort, and distraction while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Strange",
+        "unpleasant odors; fumes constantly entering the cabin; red eyes; weird stomach and heart beat feelings; pain in arm and finger; funny sensation on the tongue; feeling of being choked while driving."
+      ],
+      "odiNumbers": [
+        "11055813"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Vehicle Stalling and Engine Failure",
+      "impact": "The sudden stalling of the vehicle can cause accidents, especially if it occurs while driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle slows down and stops; unable to start the engine; loss of power while driving."
+      ],
+      "odiNumbers": [
+        "10838974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Spontaneous Sunroof Glass Breakage",
+      "impact": "The sudden breakage of the sunroof glass can cause injuries to occupants, especially if they are not wearing seatbelts, and create a distraction that can lead to accidents.",
+      "symptoms": [
+        "Sunroof glass breaks without any external impact; glass shatters and causes injuries to occupants."
+      ],
+      "odiNumbers": [
+        "10748886"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Pump Failure",
+      "impact": "The failure of the fuel pump can cause the vehicle to stall without warning, leaving the driver stranded and potentially causing accidents.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "the engine dies while driving",
+        "the vehicle loses power",
+        "the vehicle will not start",
+        "the fuel pump makes a loud whining or grinding noise."
+      ],
+      "odiNumbers": [
+        "10789167",
+        "10778926"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "The failure of the airbags to deploy in the event of a crash can increase the risk of serious injury or fatality to the occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "occupants sustain injuries that could have been mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "10671488",
+        "10660304"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

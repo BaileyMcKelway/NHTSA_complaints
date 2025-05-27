@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical Grounding Issue",
+      "impact": "The electrical grounding issue can cause the engine to quit suddenly without warning, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine quits suddenly",
+        "the speedometer stops working",
+        "ABS and check engine lights start flashing",
+        "the gear indicator flashes",
+        "the motorcycle is stuck in gear",
+        "the motor cuts in and out",
+        "turn signals and high beams indicator turn on",
+        "the horn does not work."
+      ],
+      "odiNumbers": [
+        "10408269",
+        "10340268",
+        "10310359",
+        "10300368",
+        "10299664",
+        "10298026"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The ignition switch failure can cause the motorcycle to lose all power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The ignition switch fails",
+        "the motorcycle dies",
+        "all power is lost",
+        "the motor stops",
+        "the ignition switch turns back to the \"on\" position but nothing happens."
+      ],
+      "odiNumbers": [
+        "10239797",
+        "10238071",
+        "10237615",
+        "10236709",
+        "10233163",
+        "10232998",
+        "10209948"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Corroded Ground Spider",
+      "impact": "The corroded ground spider can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10340268",
+        "10300368"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the engine to suddenly lose power, leading to a loss of control and potentially causing accidents.",
+      "symptoms": [
+        "The engine loses power",
+        "the speedometer and tachometer jump erratically",
+        "the bike restarts and regains power after a brief period."
+      ],
+      "odiNumbers": [
+        "10380775"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Oil Seal Failure",
+      "impact": "The failure of the oil seal can cause oil to spill from the rear of the vehicle, potentially leading to accidents or engine damage.",
+      "symptoms": [
+        "Oil spills from the rear of the vehicle",
+        "oil leak observed while driving."
+      ],
+      "odiNumbers": [
+        "10203547"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Shift System Failure",
+      "impact": "The failure of the electronic shift system can cause the transmission to lock in a single gear, making it difficult or impossible to shift, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "The \"Shift SH46\" warning light appears on the dashboard",
+        "the transmission becomes stuck in a single gear (in this case",
+        "5th gear)",
+        "the paddle shifter and foot-operated manual shift are unresponsive",
+        "the engine stalls."
+      ],
+      "odiNumbers": [
+        "11144145"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "EXTERIOR LIGHTING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "high idle",
+        "vehicle accelerates out of control",
+        "inability to stop the vehicle using the brakes",
+        "feeling of terror or fear while driving."
+      ],
+      "odiNumbers": [
+        "10319423",
+        "974944",
+        "958342"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can cause the occupant to become trapped, increasing the risk of injury or death in the event of an accident or emergency situation.",
+      "symptoms": [
+        "The seat belt buckle is stuck in the locked position",
+        "the seat belt buckle fails to disengage",
+        "the seat belt buckle is broken",
+        "the seat belt buckle is difficult to operate."
+      ],
+      "odiNumbers": [
+        "784012",
+        "807555",
+        "985782"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Excessive Glare from Oncoming Headlights",
+      "impact": "The excessive glare from oncoming headlights can cause distraction, temporary blindness, and increased risk of accidents, especially during evening driving.",
+      "symptoms": [
+        "Difficulty seeing the road ahead",
+        "momentary blindness",
+        "discomfort or annoyance from intense light",
+        "distraction from oncoming headlights."
+      ],
+      "odiNumbers": [
+        "762430"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Cracking due to Temperature Changes",
+      "impact": "The cracking of the windshield due to temperature changes can impair the driver's visibility, potentially leading to accidents, and may also lead to costly repairs.",
+      "symptoms": [
+        "Cracks or fissures on the windshield",
+        "especially when using the heating or cooling system",
+        "obstructed view while driving."
+      ],
+      "odiNumbers": [
+        "837934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Defective Park Light Lens",
+      "impact": "The defective park light lens can reduce the effectiveness of the park light, potentially leading to accidents or injuries, especially in low-light conditions.",
+      "symptoms": [
+        "Dim or reduced light output from the park light",
+        "cracks or openings in the lens",
+        "reduced visibility of the park light."
+      ],
+      "odiNumbers": [
+        "837934"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

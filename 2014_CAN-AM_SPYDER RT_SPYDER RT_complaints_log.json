@@ -1,0 +1,120 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Mechanism Failure (Steering Assist Unit/DO's)",
+      "impact": "The failure of the steering mechanism can cause loss of control, making it difficult to steer, and increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "The handlebars move back and forth without the front wheels being affected",
+        "the steering feels harder",
+        "the bike pulls to one side",
+        "the steering mechanism is loose",
+        "the alignment is visually and measurably off."
+      ],
+      "odiNumbers": [
+        "11414275",
+        "11240386",
+        "10895752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The failure of the transmission can cause the vehicle to lose power, making it difficult to control, and potentially leading to accidents.",
+      "symptoms": [
+        "The vehicle goes into limp mode",
+        "fails to shift correctly",
+        "and experiences electrical problems."
+      ],
+      "odiNumbers": [
+        "10960205"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Drive Belt Failure",
+      "impact": "The failure of the drive belts can cause the vehicle to vibrate excessively, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle vibrates excessively while driving."
+      ],
+      "odiNumbers": [
+        "10659043"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Oil Leak",
+      "impact": "The oil leak can cause a fire hazard, damage to the engine, and potentially lead to accidents due to loss of control.",
+      "symptoms": [
+        "Oil leak from the engine",
+        "oil leak not fixed after multiple repairs."
+      ],
+      "odiNumbers": [
+        "10622058"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Cooling System Failure",
+      "impact": "The failure of the cooling system can cause the engine to overheat, leading to a loss of power, engine damage, and potentially, a fire, which can result in a total loss of the vehicle and pose a significant risk to the rider's safety.",
+      "symptoms": [
+        "The engine overheats",
+        "the instrument panel flashes warning lights",
+        "the vehicle loses power",
+        "smoke or flames appear from the instrument panel or radiator area."
+      ],
+      "odiNumbers": [
+        "11278833",
+        "10824167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Limp Home Mode Failure",
+      "impact": "The failure of the limp home mode can cause the vehicle to shut off while in operation, leaving the rider stranded and potentially causing an accident.",
+      "symptoms": [
+        "The vehicle shuts off while in operation",
+        "the instrument panel displays warning lights or messages."
+      ],
+      "odiNumbers": [
+        "11278833"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Manufacturer Oversight (Omission of Cooling Fan Fuses)",
+      "impact": "The omission of cooling fan fuses can cause the cooling system to malfunction, leading to engine overheating and potentially, a fire.",
+      "symptoms": [
+        "The engine overheats",
+        "the instrument panel flashes warning lights",
+        "the vehicle loses power",
+        "smoke or flames appear from the instrument panel or radiator area."
+      ],
+      "odiNumbers": [
+        "10824167"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

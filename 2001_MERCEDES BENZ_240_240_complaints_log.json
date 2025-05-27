@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling",
+      "impact": "The engine stalling while driving can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The engine suddenly shuts off while driving",
+        "especially at highway speeds",
+        "without any warning or indication; the vehicle coasts to a stop",
+        "and can be restarted after a short time."
+      ],
+      "odiNumbers": [
+        "10308098",
+        "8018635"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Oil Leaks and Rod Failure",
+      "impact": "Engine oil leaks and rod failure can cause engine damage, overheating, and potentially lead to accidents or fires.",
+      "symptoms": [
+        "Oil leaks underneath the vehicle",
+        "engine making clicking or unusual noises",
+        "explosion under the hood",
+        "smell of electrical shortage."
+      ],
+      "odiNumbers": [
+        "10148626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sensor Failure (Air Mass and Cam Position)",
+      "impact": "Sensor failure can cause engine performance issues, stalling, and decreased fuel efficiency, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine stalling",
+        "poor engine performance",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "10133644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially if the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "often suddenly and without warning",
+        "regardless of the gear or speed; the engine RPM increases rapidly",
+        "often to high levels (e.g.",
+        "5000 RPM); the acceleration pedal does not respond to input or becomes unresponsive; the vehicle may stall or almost stall before accelerating; pressing the brake may temporarily stop the acceleration",
+        "but releasing it causes the vehicle to accelerate again."
+      ],
+      "odiNumbers": [
+        "10499803",
+        "755949"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Coil Spring Failure",
+      "impact": "The failure of coil springs can cause loss of vehicle control, leading to accidents, and potentially catastrophic consequences if the spring breaks in the middle.",
+      "symptoms": [
+        "Coil springs break",
+        "corrosion on coil springs",
+        "broken coil springs at the end where it sits within the cup."
+      ],
+      "odiNumbers": [
+        "10404414"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Steering Vibration",
+      "impact": "The vibration in the steering wheel can cause driver distraction, loss of vehicle control, and potentially lead to accidents.",
+      "symptoms": [
+        "Vibration in the steering wheel",
+        "vibration occurs at speeds of 60-70 km/h",
+        "vibration only happens at specific speeds."
+      ],
+      "odiNumbers": [
+        "8001664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

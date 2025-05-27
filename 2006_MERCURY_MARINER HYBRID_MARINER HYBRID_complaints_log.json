@@ -1,0 +1,219 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ENGINE",
+    "STEERING",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Brake System Failure",
+      "impact": "The failure of the hybrid brake system can cause the loss of braking power, leading to accidents or near-miss situations, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "soft brake pedal",
+        "hard brake pedal",
+        "brake pedal goes to the floor",
+        "ABS and brake warning lights illuminate",
+        "regenerative brake failure",
+        "and failure to slow down or stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11204696",
+        "11181998",
+        "11099106",
+        "10985507",
+        "10706502",
+        "10583718",
+        "10516115",
+        "10471208",
+        "10355389",
+        "10334817",
+        "10330478",
+        "10310790",
+        "10293351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the loss of anti-lock braking functionality, leading to wheel lockup and loss of vehicle control, which can result in accidents or near-miss situations.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "brake warning light illuminates",
+        "loss of anti-lock braking functionality",
+        "and wheel lockup."
+      ],
+      "odiNumbers": [
+        "11204696",
+        "10694871",
+        "10583718",
+        "10330478"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic Control Unit (HCU) Failure",
+      "impact": "The failure of the HCU can cause the loss of braking power, leading to accidents or near-miss situations, which can result in injuries or fatalities.",
+      "symptoms": [
+        "Sudden loss of braking power",
+        "soft brake pedal",
+        "hard brake pedal",
+        "brake pedal goes to the floor",
+        "ABS and brake warning lights illuminate",
+        "and failure to slow down or stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11204696",
+        "10583718",
+        "10471208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Propulsion System Failure",
+      "impact": "The failure of the hybrid propulsion system can cause the vehicle to shut down suddenly, resulting in a stall-like condition, which can increase the risk of a crash.",
+      "symptoms": [
+        "The vehicle shuts down without warning",
+        "the dash reads \"Stop Safely Now\" or \"Pull Over Safely Now\"",
+        "the engine shuts off",
+        "the temperature light comes on",
+        "the vehicle is unable to restart right away",
+        "the vehicle restarts after a short period of time but shuts down again."
+      ],
+      "odiNumbers": [
+        "11155944",
+        "11155608",
+        "11155676",
+        "10725412",
+        "10467682",
+        "10466707"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Motor Electronics Coolant Pump Failure",
+      "impact": "The failure of the motor electronics coolant pump can cause the hybrid electronics system to overheat, resulting in the powertrain shutting down and increasing the risk of a crash.",
+      "symptoms": [
+        "The vehicle shuts down without warning",
+        "the dash reads \"Stop Safely Now\" or \"Pull Over Safely Now\"",
+        "the engine shuts off",
+        "the temperature light comes on",
+        "the vehicle is unable to restart right away",
+        "the vehicle restarts after a short period of time but shuts down again."
+      ],
+      "odiNumbers": [
+        "11155944",
+        "10725412",
+        "10467682"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The sudden loss of power steering can cause the vehicle to become difficult to control, especially at high speeds or in tight turns, which can lead to accidents or loss of vehicle control.",
+      "symptoms": [
+        "The power steering fails or becomes difficult to turn",
+        "the wrench icon appears on the dashboard",
+        "an error message stating \"Service Power Steering\" appears on the dashboard",
+        "the vehicle becomes hard to steer",
+        "especially at low speeds."
+      ],
+      "odiNumbers": [
+        "11065322",
+        "11036023",
+        "10604596",
+        "10597575",
+        "10559011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hybrid Powertrain System Failure",
+      "impact": "The failure of the hybrid powertrain system can cause the vehicle to lose power, stall, or shut down unexpectedly, leading to safety risks, accidents, and inconvenience to the driver.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or shuts down unexpectedly",
+        "the \"Service Emission Sys\" warning appears",
+        "the \"Stop Safely Now\" warning appears",
+        "the master vehicle electrical hazard warning lamp is displayed",
+        "the vehicle will not move or accelerates slowly",
+        "the engine cuts off",
+        "and the vehicle requires restarting."
+      ],
+      "odiNumbers": [
+        "10871814",
+        "10818945",
+        "10521954",
+        "10475141",
+        "10460214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "MECP Pump Failure",
+      "impact": "The failure of the MECP pump can cause the vehicle to stall, leading to safety risks and accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the dash error message refers to a MECP pump",
+        "and the vehicle requires replacement of the MECP pump."
+      ],
+      "odiNumbers": [
+        "10818945"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Throttle Body Failure",
+      "impact": "The failure of the throttle body can cause the vehicle to lose power, stall, or shut down unexpectedly, leading to safety risks, accidents, and inconvenience to the driver.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or shuts down unexpectedly",
+        "and the throttle body requires replacement."
+      ],
+      "odiNumbers": [
+        "10460214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hybrid Battery Cooling System Failure",
+      "impact": "The failure of the hybrid battery cooling system can cause the vehicle to lose power, stall, or shut down unexpectedly, leading to safety risks, accidents, and inconvenience to the driver.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or shuts down unexpectedly",
+        "and the hybrid battery cooling system requires replacement or repair."
+      ],
+      "odiNumbers": [
+        "10460214"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "totalComplaints": 17,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SUSPENSION",
+    "AIR BAGS",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "The failure of the power steering system can cause the vehicle to become difficult or impossible to steer, increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering warning indicator illuminates",
+        "the steering wheel is unable to be turned",
+        "the vehicle loses power steering functionality without warning",
+        "the steering seizes without warning",
+        "the vehicle requires great difficulty to steer."
+      ],
+      "odiNumbers": [
+        "11343418",
+        "11221735",
+        "11196898",
+        "11196202",
+        "11151180",
+        "10985085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Corroded Torque Sensor",
+      "impact": "A corroded torque sensor can cause the power steering system to fail, leading to a loss of steering assist and increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering warning indicator illuminates",
+        "the steering wheel is unable to be turned",
+        "the vehicle loses power steering functionality without warning."
+      ],
+      "odiNumbers": [
+        "11221735",
+        "11151180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Inadequate Recall Repair",
+      "impact": "Inadequate repair of the power steering system during recall repairs can lead to continued power steering failure, increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering warning indicator illuminates",
+        "the steering wheel is unable to be turned",
+        "the vehicle loses power steering functionality without warning."
+      ],
+      "odiNumbers": [
+        "11196898",
+        "11151180"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Rack and Pinion Failure",
+      "impact": "Failure of the steering rack and pinion can cause the power steering system to fail, leading to a loss of steering assist and increasing the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering warning indicator illuminates",
+        "the steering wheel is unable to be turned",
+        "the vehicle loses power steering functionality without warning."
+      ],
+      "odiNumbers": [
+        "11221735",
+        "10985085"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Suspension Strut Failure",
+      "impact": "The failure of the internal component of the front suspension strut can lead to a safety issue, potentially causing loss of control or accidents, especially if not addressed promptly.",
+      "symptoms": [
+        "Unusual noise in the front suspension",
+        "potentially accompanied by a change in vehicle handling or ride quality."
+      ],
+      "odiNumbers": [
+        "11586862"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Suspension Shock Absorber Failure",
+      "impact": "The failure of the rear shock absorbers can lead to a loss of vehicle control, potentially causing accidents, and can also result in expensive repairs.",
+      "symptoms": [
+        "None reported prior to failure",
+        "but may include changes in vehicle handling or ride quality."
+      ],
+      "odiNumbers": [
+        "11315802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Seat Sensors and Unexpected Airbag Deployment",
+      "impact": "The malfunction of seat sensors can lead to unexpected airbag deployment, which can cause accidents, injuries, or fatalities. Additionally, the deployment of airbags and seat belt pretension systems can result in costly repairs and leave the vehicle inoperable.",
+      "symptoms": [
+        "The service airbag warning light is illuminated",
+        "unexpected deployment of driver and passenger side-impact airbags",
+        "unexpected deployment of seat belt pretension systems."
+      ],
+      "odiNumbers": [
+        "11520886",
+        "11030389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to unexpected airbag deployment, which can cause accidents, injuries, or fatalities. Additionally, the failure to deploy airbags in the event of a crash can result in increased risk of injury or fatality.",
+      "symptoms": [
+        "Unexpected deployment of airbags",
+        "failure of airbags to deploy in the event of a crash",
+        "service airbag warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11030389"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Cable Assembly Failure",
+      "impact": "The failure of the seat belt cable assembly can cause the seat belt to separate during a crash, leading to increased risk of injury or death.",
+      "symptoms": [
+        "The seat belt cable assembly shows signs of wear and fatigue",
+        "the seat belt cable assembly is abraded against the trim",
+        "the seat belt cable assembly is cut or damaged",
+        "the seat belt tensioner cable is worn or damaged."
+      ],
+      "odiNumbers": [
+        "10914243",
+        "10905644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Recall Remedy",
+      "impact": "The lack of a permanent fix for the seat belt cable assembly recall can leave vehicle owners without a safe and reliable solution, potentially putting them at risk of injury or death.",
+      "symptoms": [
+        "The temporary fix is not deemed safe enough",
+        "the vehicle cannot be sold or traded in due to the open recall",
+        "the manufacturer does not have a permanent fix available."
+      ],
+      "odiNumbers": [
+        "10914243"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Insufficient Recall Scope",
+      "impact": "The current recall only addresses the outside steel cable, leaving the inside seatbelt clip vulnerable to the same issue, which can cause the seat belt to fail during a crash, leading to increased risk of injury or death.",
+      "symptoms": [
+        "The inside seatbelt clip is also damaged due to abrasions and rubbing against the trim",
+        "the sleeve is cut or damaged",
+        "the cable is exposed and rubbing against the trim."
+      ],
+      "odiNumbers": [
+        "10905644"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

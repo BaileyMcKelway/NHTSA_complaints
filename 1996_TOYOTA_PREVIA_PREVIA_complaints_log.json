@@ -1,0 +1,200 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL",
+    "SEAT BELTS",
+    "EQUIPMENT",
+    "VISIBILITY"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure with Vibration",
+      "impact": "The failure of the brakes can cause the vehicle to lose stopping power, leading to accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The brake pedal is hard to press",
+        "the vehicle vibrates or kicks back when braking",
+        "the brakes fail to respond or are slow to respond",
+        "the vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "815176",
+        "805409",
+        "603893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake System (ABS) Failure",
+      "impact": "The failure of the ABS can cause the vehicle to lose traction and stability, leading to accidents or loss of control, especially on slippery or uneven road surfaces.",
+      "symptoms": [
+        "The ABS warning light illuminates",
+        "the brakes fail to respond or are slow to respond",
+        "the vehicle loses traction or stability",
+        "the brakes vibrate or pulse when applied."
+      ],
+      "odiNumbers": [
+        "513257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "The failure of the master cylinder can cause the brakes to fail, leading to accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brakes fail to respond or are slow to respond",
+        "the vehicle takes longer than usual to stop",
+        "the brake fluid level is low."
+      ],
+      "odiNumbers": [
+        "513257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Booster Failure",
+      "impact": "The failure of the brake booster can cause the brakes to be difficult to apply, leading to accidents or near-misses, especially when driving at high speeds.",
+      "symptoms": [
+        "The brake pedal is hard to press",
+        "the brakes require excessive force to apply",
+        "the vehicle takes longer than usual to stop."
+      ],
+      "odiNumbers": [
+        "513257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "despite the driver's attempts to slow down",
+        "and may only respond to the application of the parking brake or shutting off the engine."
+      ],
+      "odiNumbers": [
+        "738601",
+        "602950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Speed Sensor Failure",
+      "impact": "A faulty speed sensor can cause the vehicle's speed control system to malfunction, leading to unintended acceleration or other safety issues.",
+      "symptoms": [
+        "The vehicle's speedometer may not function correctly",
+        "or the vehicle may experience sudden and unexplained changes in speed."
+      ],
+      "odiNumbers": [
+        "602950"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Noise",
+      "impact": "The noisy seat belt buckles can be distracting and annoying, potentially causing driver distraction, which can lead to accidents.",
+      "symptoms": [
+        "The seat belt buckles make noise",
+        "clicking or rattling sounds when in use."
+      ],
+      "odiNumbers": [
+        "605235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inoperable Seat Belt Adjustment",
+      "impact": "The inability to adjust the middle right bench seat lap belt can compromise the safety of the occupant, increasing the risk of injury in the event of an accident.",
+      "symptoms": [
+        "The middle right bench seat lap belt is impossible to adjust due to its design",
+        "making it difficult or impossible to secure the occupant properly."
+      ],
+      "odiNumbers": [
+        "524351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Roof Rack Failure",
+      "impact": "The sudden separation of the roof rack from the vehicle can cause loose items to fall onto the road, creating a hazard for other drivers and potentially causing accidents.",
+      "symptoms": [
+        "The roof rack becomes detached from the vehicle while driving",
+        "items on the roof rack fall onto the road",
+        "loud noise or rattling sound from the roof rack area."
+      ],
+      "odiNumbers": [
+        "531914"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Air Conditioner Compressor Failure",
+      "impact": "The poor performance of the air conditioner compressor can lead to reduced cooling capacity, increased noise, and potentially cause the compressor to fail, resulting in costly repairs.",
+      "symptoms": [
+        "The air conditioner blows warm air",
+        "the air conditioner is noisy",
+        "the compressor is making a loud or unusual sound",
+        "the air conditioner is not cooling the vehicle effectively."
+      ],
+      "odiNumbers": [
+        "513257"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Slide/Side Door Window Failure",
+      "impact": "The failure of the slide/side door window can cause inconvenience, discomfort, and reduced visibility, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The slide/side door window does not open or close properly",
+        "the window is stuck in an open or closed position",
+        "the window makes unusual noises or vibrations",
+        "the window has excessive wind noise or leaks."
+      ],
+      "odiNumbers": [
+        "604565"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The failure of the windshield wipers can reduce visibility during rain, snow, or other inclement weather conditions, increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "The windshield wipers do not turn on",
+        "the wipers move slowly or erratically",
+        "the wipers leave streaks or residue on the windshield",
+        "the wipers make unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "513568"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

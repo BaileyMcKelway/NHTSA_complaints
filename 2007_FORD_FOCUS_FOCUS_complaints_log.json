@@ -1,0 +1,81 @@
+{
+  "totalComplaints": 389,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Failure to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a crash can lead to serious injuries or fatalities.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbag warning light is on",
+        "airbag module error code."
+      ],
+      "odiNumbers": [
+        "11527184",
+        "11331060",
+        "11208898",
+        "10761806",
+        "10723819"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Intermittent Airbag Warning Light",
+      "impact": "Intermittent airbag warning light can indicate a faulty airbag system, which can lead to airbag failure or unexpected deployment.",
+      "symptoms": [
+        "Airbag warning light comes on and off",
+        "airbag light stays on",
+        "airbag light is intermittent."
+      ],
+      "odiNumbers": [
+        "11486444",
+        "11259103",
+        "11123587",
+        "11120802",
+        "11071928",
+        "11047166",
+        "11004688",
+        "10990795",
+        "10947595",
+        "10937523",
+        "10926991",
+        "10908690",
+        "10875829",
+        "10875830",
+        "10824736",
+        "10788192",
+        "10732428",
+        "10730491",
+        "10727015"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unexpected Airbag Deployment",
+      "impact": "Unexpected airbag deployment can cause injuries or distractions while driving, leading to accidents.",
+      "symptoms": [
+        "Airbag deploys without a crash",
+        "airbag deploys while driving",
+        "airbag warning light is on."
+      ],
+      "odiNumbers": [
+        "10990795",
+        "10937523",
+        "10824736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

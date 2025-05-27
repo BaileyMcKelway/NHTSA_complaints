@@ -1,0 +1,146 @@
+{
+  "totalComplaints": 25,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Hose and Clamp Failure",
+      "impact": "The failure of the power steering hose and clamp can cause the loss of power steering, leading to difficulty controlling the vehicle, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Power steering fluid leakage",
+        "loss of power steering",
+        "difficulty turning the steering wheel",
+        "steering wheel pulling to one side",
+        "BAS/ESP light comes on",
+        "brakes engage",
+        "and the steering wheel turns to the right."
+      ],
+      "odiNumbers": [
+        "10263170",
+        "10252349",
+        "10250823",
+        "10155050",
+        "10070225",
+        "10051089",
+        "10047644",
+        "10014040"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Pump Failure",
+      "impact": "The failure of the power steering pump can cause the loss of power steering, leading to difficulty controlling the vehicle, which can result in accidents or loss of control.",
+      "symptoms": [
+        "Power steering fluid leakage",
+        "loss of power steering",
+        "difficulty turning the steering wheel",
+        "steering wheel pulling to one side",
+        "and repeated replacement of power steering pumps."
+      ],
+      "odiNumbers": [
+        "10252349",
+        "10070225",
+        "10051089"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "The sudden and unexpected activation of the brakes can cause the vehicle to stop abruptly, leading to accidents, loss of control, and potential fatalities.",
+      "symptoms": [
+        "The vehicle stops suddenly without warning",
+        "the brake pedal goes to the floor",
+        "the BAS/ESP warning lights come on",
+        "the vehicle skids or pitches to one side",
+        "requiring the driver to counter-steer to maintain control."
+      ],
+      "odiNumbers": [
+        "10380051",
+        "10348202",
+        "10293268",
+        "10290854",
+        "10270290",
+        "10199737"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Line Failure due to Chafing",
+      "impact": "The failure of the brake line can cause a loss of braking power, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brake fluid level is low",
+        "the brake line is leaking",
+        "the vehicle's braking system is soft or spongy."
+      ],
+      "odiNumbers": [
+        "10290854",
+        "10270290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Faulty ABS Sensor",
+      "impact": "A faulty ABS sensor can cause the anti-lock braking system to malfunction, leading to unintended brake activation, loss of control, and potential accidents.",
+      "symptoms": [
+        "The vehicle's brakes are applied unexpectedly",
+        "the BAS/ESP warning lights come on",
+        "the vehicle pitches or skids to one side",
+        "requiring the driver to counter-steer to maintain control."
+      ],
+      "odiNumbers": [
+        "10293268"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Brake Activation",
+      "impact": "The unintended activation of the brakes can cause the vehicle to jerk or swerve, potentially leading to loss of control, accidents, or near-miss situations, especially at high speeds.",
+      "symptoms": [
+        "The vehicle jerks or swerves to one side",
+        "the brakes are applied unexpectedly",
+        "the vehicle pulls to one side while driving",
+        "the Electronic Stability Control (ESP) system malfunctions."
+      ],
+      "odiNumbers": [
+        "10459727",
+        "10237261",
+        ""
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake System Failure",
+      "impact": "The failure of the brake system can cause the vehicle to lose braking ability, leading to increased stopping distances, accidents, or near-miss situations.",
+      "symptoms": [
+        "The brakes are soft or spongy",
+        "the brakes are uneven or pull to one side",
+        "the vehicle takes longer to stop than usual",
+        "the brakes fail to engage properly."
+      ],
+      "odiNumbers": [
+        "10237261"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

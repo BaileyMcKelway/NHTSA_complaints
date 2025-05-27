@@ -1,0 +1,90 @@
+{
+  "totalComplaints": 29,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "LATCHES/LOCKS/LINKAGES",
+    "STRUCTURE",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Latch Failure",
+      "impact": "The failure of the hood latch can cause the hood to fly open while the vehicle is in motion, obstructing the driver's vision and potentially leading to accidents.",
+      "symptoms": [
+        "The hood opens suddenly while driving",
+        "the hood latch fails",
+        "the hood does not stay closed",
+        "the hood is weak",
+        "and the wind gets inside the door and causes it to open."
+      ],
+      "odiNumbers": [
+        "754390",
+        "802870",
+        "507963",
+        "985722",
+        "962699",
+        "482421"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Hood Failure",
+      "impact": "The failure of the hood can cause it to fly open while driving, obstructing the driver's visibility, and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The hood comes open or flies off while driving",
+        "obstructing the driver's view",
+        "causing loss of visibility",
+        "and potentially leading to accidents."
+      ],
+      "odiNumbers": [
+        "603360",
+        "800352",
+        "967734",
+        "489264",
+        "962291"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Door Hinge Failure",
+      "impact": "The failure of the door hinges can cause the door to hang loose or detach from the vehicle, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The door screws pull through the frame body",
+        "the door hangs loose or detaches from the vehicle",
+        "the door is only held by a single hinge or bolt."
+      ],
+      "odiNumbers": [
+        "803686",
+        "803687"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Locking and Buckle Failure",
+      "impact": "The failure of the seatbelt to lock properly or the buckle to hold in place can lead to injuries or fatalities in the event of an accident, as the occupant may not be adequately restrained.",
+      "symptoms": [
+        "The seatbelt locks up too tight and will not loosen",
+        "the seatbelt fails to lock in place during an accident",
+        "the seatbelt buckle does not hold in place",
+        "the buckle can be easily pulled out of place",
+        "the seatbelt does not restrain the occupant properly."
+      ],
+      "odiNumbers": [
+        "821338",
+        "510565",
+        "801959",
+        "980769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

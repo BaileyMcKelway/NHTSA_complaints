@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Heater Core Failure",
+      "impact": "The failure of the heater core can cause hot coolant to leak into the passenger compartment, potentially causing burns or injuries to the driver and passengers.",
+      "symptoms": [
+        "Hot coolant leaking into the passenger compartment",
+        "steam pouring through vents",
+        "coolant pouring onto the floor",
+        "cracked or broken heater core."
+      ],
+      "odiNumbers": [
+        "730004",
+        "730004",
+        "540436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Windshield Wiper Control Switch Failure",
+      "impact": "The failure of the windshield wiper control switch can cause reduced visibility while driving, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wiper control switch falls off",
+        "weak material",
+        "malfunctioning windshield wipers."
+      ],
+      "odiNumbers": [
+        "545204"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Circuit Board/Sheet Failure",
+      "impact": "The failure of the circuit board or sheet can cause electrical system malfunctions, leading to loss of critical vehicle functions, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Sudden loss of electrical power",
+        "malfunctioning of vehicle systems",
+        "failure of critical components."
+      ],
+      "odiNumbers": [
+        "545204"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Starter Motor Overheating",
+      "impact": "The overheating of the starter motor can cause damage to the starter motor and flywheel, leading to difficulty starting the engine or complete failure to start, which can leave the driver stranded.",
+      "symptoms": [
+        "Difficulty starting the engine",
+        "clicking or grinding sounds when trying to start the engine",
+        "burning smell from the starter motor area."
+      ],
+      "odiNumbers": [
+        "485761"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sudden Loss of Power",
+      "impact": "The sudden loss of power can cause the vehicle to stall or lose speed, increasing the risk of accidents, especially at high speeds.",
+      "symptoms": [
+        "Sudden loss of power",
+        "engine stalling",
+        "loss of speed",
+        "difficulty maintaining speed."
+      ],
+      "odiNumbers": [
+        "965252"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

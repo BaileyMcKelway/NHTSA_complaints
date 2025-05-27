@@ -1,0 +1,102 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "POWER TRAIN",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Motor Mount Failure",
+      "impact": "The failure of the motor mounts can cause excessive engine movement, leading to premature wear on other engine components, reduced vehicle performance, and potentially causing damage to the engine or transmission.",
+      "symptoms": [
+        "Excessive engine vibration",
+        "loud engine noise",
+        "engine movement or shifting",
+        "difficulty shifting gears",
+        "rough idling",
+        "decreased fuel efficiency."
+      ],
+      "odiNumbers": [
+        "854609",
+        "511893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when the vehicle is in gear and moving.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and unexpectedly",
+        "often when starting from a standstill or when shifting into gear",
+        "and can reach speeds of up to 7 mph. The throttle may get stuck",
+        "causing the vehicle to lurch forward."
+      ],
+      "odiNumbers": [
+        "826165",
+        "806735"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Deployment Issues",
+      "impact": "The unexpected deployment of airbags can cause distractions, injuries, and accidents, while the release of black powder can cause respiratory issues and visibility problems.",
+      "symptoms": [
+        "Airbags deploy unnecessarily",
+        "airbags deploy with excessive force",
+        "airbags release black powder",
+        "airbags do not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "958559"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Failure",
+      "impact": "The failure of the clutch can cause the transmission to malfunction, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the transmission would not engage in gear",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "961656",
+        "511893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Power Steering Failure in Wet Conditions",
+      "impact": "The loss of power steering can make the vehicle difficult to maneuver, especially at low speeds, which can increase the risk of accidents or loss of control.",
+      "symptoms": [
+        "The power steering system fails to assist steering",
+        "the steering wheel becomes heavy or difficult to turn",
+        "the vehicle is hard to steer",
+        "especially during wet weather conditions."
+      ],
+      "odiNumbers": [
+        "985776"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

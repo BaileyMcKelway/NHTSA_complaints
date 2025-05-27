@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Emergency Trunk Release Failure",
+      "impact": "The failure of the emergency trunk release system can lead to entrapment, potentially causing serious injury or death.",
+      "symptoms": [
+        "The emergency trunk release system fails to operate",
+        "whether the electrical power is on",
+        "off",
+        "or in accessory mode."
+      ],
+      "odiNumbers": [
+        "11153622"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Fire",
+      "impact": "An electrical system fire can cause significant damage to the vehicle, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "Smoke emanates from the hood vent",
+        "followed by a fire in the passenger footwell and engine area",
+        "even after the vehicle has been turned off."
+      ],
+      "odiNumbers": [
+        "10409767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Instrument Cluster LED Display Failure",
+      "impact": "The failure of the instrument cluster LED display can lead to driver error, as vital information such as gear selection, temperature, and time is not visible, potentially causing accidents.",
+      "symptoms": [
+        "The instrument cluster LED display is faulty",
+        "making it difficult or impossible to see gear selection",
+        "temperature",
+        "and time."
+      ],
+      "odiNumbers": [
+        "10198954",
+        "10197913",
+        "10197713"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Engine Stalling",
+      "impact": "Sudden engine stalling can cause accidents, especially when the vehicle is in motion, as the driver may lose control of the vehicle.",
+      "symptoms": [
+        "The vehicle suddenly shuts down while in motion",
+        "making it difficult or impossible to restart or shift into neutral."
+      ],
+      "odiNumbers": [
+        "10093119"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to serious injury or even fatalities in the event of a crash, as the airbags may not deploy as intended, leaving occupants vulnerable to harm.",
+      "symptoms": [
+        "The SRS warning light remains on",
+        "airbags fail to deploy in a crash",
+        "airbags deploy unexpectedly",
+        "or the airbag system malfunctions."
+      ],
+      "odiNumbers": [
+        "10220017",
+        "10018305",
+        "880023"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Emissions System Failure",
+      "impact": "The failure of the emissions system can cause the vehicle to fail emissions tests, resulting in fines and penalties, and potentially leading to environmental harm.",
+      "symptoms": [
+        "The vehicle fails to pass emissions tests",
+        "the \"Check Engine\" light is illuminated",
+        "the vehicle's onboard diagnostic system (OBD) displays a specific trouble code (e.g. P-700)",
+        "the vehicle's performance is affected",
+        "the vehicle's fuel efficiency is decreased."
+      ],
+      "odiNumbers": [
+        "11094144",
+        "725212"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "The unintended acceleration of the vehicle can cause loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates suddenly and uncontrollably",
+        "despite the driver's attempts to apply the brakes",
+        "crossing multiple lanes of traffic",
+        "and potentially colliding with other vehicles or objects."
+      ],
+      "odiNumbers": [
+        "10043907",
+        "10043613"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

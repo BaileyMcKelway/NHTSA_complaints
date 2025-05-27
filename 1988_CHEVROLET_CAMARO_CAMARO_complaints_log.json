@@ -1,0 +1,87 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "SEAT BELTS",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Filler Neck/Line Failure",
+      "impact": "A loose or cracked fuel filler neck/line can cause fuel leaks, which can lead to fires, explosions, or accidents, especially when driving or refueling. Fuel leaks can also cause strong odors, discomfort, and health issues for occupants.",
+      "symptoms": [
+        "Fuel leaks from the filler neck or line",
+        "strong fuel odors inside or outside the vehicle",
+        "fuel sprays out of the A/C vents",
+        "fuel leaks when the tank is full or during cornering."
+      ],
+      "odiNumbers": [
+        "10210323",
+        "10199300",
+        "756728",
+        "715550",
+        "809702",
+        "480954"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Retractor Failure",
+      "impact": "The failure of the seat belt retractor can lead to the seat belt not holding the passenger in place, increasing the risk of injury or ejection in the event of an accident.",
+      "symptoms": [
+        "The seat belt buckle does not stay closed",
+        "the seat belt will not retract into the coil",
+        "the seat belt retractor is inoperative",
+        "the driver's front seat belt does not hold the passenger in the seat."
+      ],
+      "odiNumbers": [
+        "10050133",
+        "827361",
+        "537291",
+        "975405",
+        "487307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Caliper and Parking Brake Design Failure",
+      "impact": "The failure of the rear brake caliper and parking brake design can cause the vehicle to fail to stop or lose control during panic stops, leading to accidents and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle fails to stop or slows down inadequately during panic stops",
+        "the brakes feel soft or spongy",
+        "the rear wheels fail to lock or skid",
+        "the vehicle goes out of control during hard braking."
+      ],
+      "odiNumbers": [
+        "10482468",
+        "563971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Proportioning/Combination Valve Malfunction",
+      "impact": "A malfunctioning proportioning/combination valve can cause the brakes to fail to distribute pressure evenly, leading to inadequate stopping power and potential accidents.",
+      "symptoms": [
+        "The vehicle fails to stop or slows down inadequately during panic stops",
+        "the brakes feel soft or spongy",
+        "the rear wheels fail to lock or skid",
+        "the vehicle goes out of control during hard braking."
+      ],
+      "odiNumbers": [
+        "10482468",
+        "563971"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

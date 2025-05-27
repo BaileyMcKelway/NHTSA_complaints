@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Module Failure",
+      "impact": "The failure of the ignition module can cause the vehicle to fail to start, stall, or even catch fire, which can lead to accidents, injuries, or property damage.",
+      "symptoms": [
+        "The vehicle fails to start",
+        "the vehicle shuts down without warning",
+        "the vehicle stalls",
+        "the vehicle catches fire",
+        "electrical shorts",
+        "burning of ignition switch and wires in the steering column."
+      ],
+      "odiNumbers": [
+        "885268",
+        "874057",
+        "548204",
+        "507873",
+        "983816",
+        "983717",
+        "978958"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Corrosion and Leaking",
+      "impact": "Fuel tank corrosion and leaking can cause fuel to spill onto the road, increasing the risk of fires, accidents, and environmental damage. It can also lead to costly repairs and potentially leave the driver stranded.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel odor",
+        "fuel tank rust",
+        "corrosion",
+        "and damage",
+        "fuel tank shield rusted through."
+      ],
+      "odiNumbers": [
+        "607560",
+        "960868"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Carburetor Causing Fuel Leaks and Fires",
+      "impact": "A faulty carburetor can cause fuel leaks, which can lead to fires, accidents, and injuries. It can also cause damage to the vehicle and surrounding property.",
+      "symptoms": [
+        "Fuel leaks",
+        "fuel odor",
+        "engine fires",
+        "carburetor failure."
+      ],
+      "odiNumbers": [
+        "967516"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver Seat Back Failure",
+      "impact": "The failure of the driver seat back can cause the seat to collapse or fall backward, potentially leading to loss of control of the vehicle, accidents, or injuries.",
+      "symptoms": [
+        "The back of the driver seat falls backward",
+        "the seat collapses",
+        "the seat is broken or damaged",
+        "the seat is no longer adjustable."
+      ],
+      "odiNumbers": [
+        "557844",
+        "720625"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

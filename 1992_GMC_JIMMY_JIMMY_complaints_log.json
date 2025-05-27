@@ -1,0 +1,155 @@
+{
+  "totalComplaints": 132,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause extended stopping distances, loss of vehicle control, and accidents, which can result in injury or death.",
+      "symptoms": [
+        "The ABS light stays on",
+        "the brake pedal goes to the floor",
+        "the vehicle continues to move without braking",
+        "the brakes lock up",
+        "the vehicle skids or loses control",
+        "the brakes make a hissing sound",
+        "the ABS system engages briefly and then cuts off."
+      ],
+      "odiNumbers": [
+        "10100724",
+        "760864",
+        "562174",
+        "740779",
+        "864461",
+        "552751",
+        "863756",
+        "863687",
+        "722585",
+        "857299",
+        "856646",
+        "550811",
+        "855953",
+        "854093",
+        "850534",
+        "713294",
+        "850426",
+        "850437",
+        "850439",
+        "849341",
+        "845326",
+        "847159",
+        "847178",
+        "547992",
+        "709675",
+        "709419",
+        "843197",
+        "842884"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brake pedal to stick to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "740779",
+        "849341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Hydraulic System Failure",
+      "impact": "The failure of the brake hydraulic system can cause the brake pedal to stick to the floor, making it difficult or impossible to stop the vehicle, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal sticks to the floor",
+        "the brake pedal does not return to its normal position",
+        "the brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "740779",
+        "849341"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to serious injuries or fatalities in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt does not lock",
+        "the seat belt does not come out of its housing",
+        "the buckle release comes off",
+        "the seat belt cannot be used properly."
+      ],
+      "odiNumbers": [
+        "551685",
+        "529574",
+        "519229",
+        "986272",
+        "483563",
+        "968575",
+        "967982"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to accelerate unintentionally, leading to accidents and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes fail to stop the vehicle",
+        "the vehicle accelerates unexpectedly."
+      ],
+      "odiNumbers": [
+        "551685"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failures can cause fires, stalling, and loss of critical vehicle functions, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Dashboard lights flicker",
+        "smoke comes from the dashboard",
+        "burning wire smell",
+        "instrument panel malfunction",
+        "failure to illuminate",
+        "engine compartment fire",
+        "vehicle stalling",
+        "hesitation",
+        "and refusal to restart."
+      ],
+      "odiNumbers": [
+        "874340",
+        "869256",
+        "546231",
+        "836676",
+        "502978",
+        "500235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

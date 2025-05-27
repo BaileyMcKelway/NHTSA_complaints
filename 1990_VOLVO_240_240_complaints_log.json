@@ -1,0 +1,95 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "VEHICLE SPEED CONTROL",
+    "SEATS"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The vehicle accelerates suddenly without input from the driver",
+        "the brakes fail to respond",
+        "the vehicle crashes into objects or other vehicles."
+      ],
+      "odiNumbers": [
+        "10652550",
+        "10650380"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Engine Compartment Fires",
+      "impact": "Engine compartment fires can cause vehicle damage, injuries, and fatalities.",
+      "symptoms": [
+        "The engine compartment catches on fire",
+        "the vehicle is totaled."
+      ],
+      "odiNumbers": [
+        "816548"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Engine Stalling and Failure",
+      "impact": "Engine stalling and failure can cause loss of vehicle control, accidents, and injuries.",
+      "symptoms": [
+        "The engine stalls or fails",
+        "the vehicle stops running",
+        "the vehicle loses power."
+      ],
+      "odiNumbers": [
+        "519583",
+        "520138",
+        "813907",
+        "518947"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle suddenly accelerates without warning",
+        "the vehicle accelerates unexpectedly while in motion",
+        "the vehicle accelerates without pressing the accelerator pedal."
+      ],
+      "odiNumbers": [
+        "10032134",
+        "802339",
+        "604287"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Seat Failure",
+      "impact": "The failure of the driver's seat can cause loss of control, distraction, and discomfort while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "The seat rocks or moves excessively",
+        "the seat back falls off or becomes loose",
+        "the seat breaks or cracks",
+        "the seat appears to be ready to fall apart."
+      ],
+      "odiNumbers": [
+        "881513",
+        "530815",
+        "974259"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

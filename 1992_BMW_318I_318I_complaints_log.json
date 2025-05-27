@@ -1,0 +1,83 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Profile Head Gasket Failure on M42 Engines",
+      "impact": "The failure of the profile head gasket can cause coolant loss, leading to engine overheating, damage, and potentially catastrophic failure, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "Coolant loss",
+        "low coolant levels",
+        "engine overheating",
+        "temperature gauge not rising above normal despite coolant loss",
+        "repeated head gasket failures."
+      ],
+      "odiNumbers": [
+        "10080772",
+        "700720",
+        "540101",
+        "537617",
+        "546736"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Water Ingress-Related Onboard Computer Failure",
+      "impact": "The failure of the onboard computer due to water ingress can cause a range of issues, including loss of critical vehicle systems, engine stalling, and difficulty controlling the vehicle, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle's onboard computer fails or malfunctions",
+        "the vehicle's engine stalls or hesitates",
+        "the vehicle's warning lights or dashboard indicators illuminate",
+        "the vehicle's systems (such as air conditioning",
+        "radio",
+        "or wipers) fail or malfunction",
+        "the vehicle becomes difficult to control or operate."
+      ],
+      "odiNumbers": [
+        "725772"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Air Bag Contact Ring Failure",
+      "impact": "The failure of the air bag contact ring can cause the air bag warning light to illuminate, indicating a potential malfunction of the air bag system, which can lead to reduced safety in the event of a crash.",
+      "symptoms": [
+        "The air bag warning light illuminates on the dashboard",
+        "the driver's side air bag may not deploy properly in the event of a crash."
+      ],
+      "odiNumbers": [
+        "855407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Engine Racing and Vehicle Stalling",
+      "impact": "The sudden and unexpected surging of the engine, followed by the vehicle stalling, can lead to a loss of control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "The vehicle surges or accelerates unexpectedly",
+        "the engine RPM increases rapidly",
+        "the vehicle stalls or cuts off without warning",
+        "often at low speeds (around 30 mph)."
+      ],
+      "odiNumbers": [
+        "812463"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

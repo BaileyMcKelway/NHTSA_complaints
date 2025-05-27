@@ -1,0 +1,79 @@
+{
+  "totalComplaints": 22,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SEAT BELTS",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Clutch Cable Failure",
+      "impact": "The failure of the clutch cable can cause the clutch pedal to go all the way to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal goes all the way to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the vehicle is unable to shift into gear",
+        "the clutch cable snaps or breaks."
+      ],
+      "odiNumbers": [
+        "10135938",
+        "10091174",
+        "10050456"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seatbelt Retractor Malfunction",
+      "impact": "A malfunctioning seatbelt retractor can cause the seatbelt to become stuck or inoperable, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt catches on something and won't extract from the retractor",
+        "the seatbelt becomes stuck",
+        "the seatbelt fails to properly secure the passenger."
+      ],
+      "odiNumbers": [
+        "10618672",
+        "10122276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Seatbelt Harness Failure",
+      "impact": "A failure of the seatbelt harness can cause the seatbelt to detach or malfunction, increasing the risk of injury or death in the event of an accident.",
+      "symptoms": [
+        "The seatbelt pops out of its harness during sudden stops or swerves",
+        "the passenger is propelled into the dash or other objects",
+        "the seatbelt is properly secured but fails to restrain the passenger."
+      ],
+      "odiNumbers": [
+        "10122276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "The unintended deployment of airbags can cause damage to the vehicle, injury to occupants, and potentially lead to accidents or loss of control.",
+      "symptoms": [
+        "Airbags deploy unexpectedly",
+        "seatbelts tension",
+        "windshield cracks or shatters",
+        "interior components (e.g.",
+        "radio) are dislodged or damaged."
+      ],
+      "odiNumbers": [
+        "10480158",
+        "10149473"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

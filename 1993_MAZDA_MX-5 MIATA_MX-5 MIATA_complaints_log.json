@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can lead to unexpected deployment, which can cause accidents or injuries, or failure to deploy in the event of an accident, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The airbag warning light flashes continuously",
+        "the airbag deploys suddenly and unexpectedly",
+        "the airbag fails to deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "10184043",
+        "10019964",
+        "863878",
+        "838562"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadvertent Seatbelt Disengagement",
+      "impact": "The sudden and unexpected disengagement of the seatbelt can increase the risk of injury or fatality in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seatbelt unlatches or disengages independently while driving",
+        "the seatbelt \"clicks\" and then spontaneously disengages after a short period of time (1-5 minutes)."
+      ],
+      "odiNumbers": [
+        "10452246",
+        "10292185"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Pedal Failure in Wet Weather",
+      "impact": "The failure of the brake pedal to respond properly in wet weather can lead to a loss of braking ability, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The brake pedal goes to the floor",
+        "the brakes fail to stop the vehicle",
+        "the vehicle takes longer to stop than usual",
+        "the brake pedal feels soft or spongy",
+        "the vehicle pulls to one side while braking."
+      ],
+      "odiNumbers": [
+        "807668"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lack of Roll Bar or Inadequate Rollover Protection",
+      "impact": "The absence or inadequacy of a roll bar can lead to severe injuries or fatalities in the event of a rollover accident, as the vehicle's occupants are left exposed to the risk of head and spinal injuries.",
+      "symptoms": [
+        "None",
+        "as this issue is related to a design or manufacturing flaw rather than a malfunction or failure."
+      ],
+      "odiNumbers": [
+        "971475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Injector Failure",
+      "impact": "The failure of one or more fuel injectors can cause poor engine performance, including poor acceleration, misfires, and decreased fuel efficiency, which can lead to decreased vehicle safety and performance.",
+      "symptoms": [
+        "Poor acceleration",
+        "hesitation or stumbling when accelerating",
+        "misfires or rough engine idle",
+        "decreased fuel efficiency",
+        "engine stalling or difficulty starting."
+      ],
+      "odiNumbers": [
+        "476321",
+        ""
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

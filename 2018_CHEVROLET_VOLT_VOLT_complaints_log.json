@@ -1,0 +1,228 @@
+{
+  "totalComplaints": 149,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 9,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Propulsion Power Reduction and Loss of Power",
+      "impact": "The loss of propulsion power can cause the vehicle to stall or lose power while driving, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle displays a \"Propulsion Power is Reduced\" or \"Low Propulsion Power\" warning",
+        "the vehicle loses power or stalls",
+        "the vehicle cannot be driven or restarted",
+        "the vehicle's acceleration is reduced."
+      ],
+      "odiNumbers": [
+        "11578171",
+        "11577282",
+        "11573665",
+        "11564158",
+        "11563956",
+        "11563687",
+        "11562815",
+        "11561063",
+        "11559935",
+        "11559255",
+        "11559036",
+        "11558641",
+        "11558463",
+        "11557832",
+        "11557865",
+        "11528182",
+        "11522767",
+        "11509514",
+        "11501160",
+        "11488235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shift to Park Error",
+      "impact": "The \"Shift to Park\" error can prevent the vehicle from being turned off, which can lead to safety issues, such as the vehicle being stolen or the doors not being able to be locked.",
+      "symptoms": [
+        "The vehicle displays a \"Shift to Park\" error",
+        "the vehicle cannot be turned off",
+        "the vehicle's transmission does not engage in park",
+        "the vehicle's shifter does not register in park."
+      ],
+      "odiNumbers": [
+        "11586426",
+        "11576031",
+        "11522767",
+        "11513165",
+        "11479553",
+        "11474529",
+        "11474400",
+        "11473145",
+        "11472798"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "BECM Failure",
+      "impact": "The failure of the Battery Energy Control Module (BECM) can cause the vehicle to lose power or stall, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle displays a \"Propulsion Power is Reduced\" or \"Low Propulsion Power\" warning",
+        "the vehicle loses power or stalls",
+        "the vehicle cannot be driven or restarted",
+        "the BECM is diagnosed as faulty."
+      ],
+      "odiNumbers": [
+        "11564158",
+        "11561063",
+        "11559036",
+        "11558641",
+        "11557832",
+        "11557865",
+        "11528182",
+        "11488235"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Battery Energy Control Module (BECM) Failure",
+      "impact": "The failure of the BECM can cause the vehicle to lose propulsion power, leading to a sudden loss of speed, which can increase the risk of accidents. Additionally, the failure can cause the vehicle to become stranded, leaving the driver and passengers vulnerable.",
+      "symptoms": [
+        "The vehicle may display \"Propulsion Power Reduced\" or \"Engine Unavailable\" messages",
+        "the vehicle may lose power while driving",
+        "the vehicle may not start",
+        "the vehicle may not shut off",
+        "the dashboard may display \"Shift to Park\" even when the vehicle is already in park",
+        "and the vehicle may experience reduced acceleration."
+      ],
+      "odiNumbers": [
+        "11573049",
+        "11568045",
+        "11565395",
+        "11565384",
+        "11565021",
+        "11564700",
+        "11560191",
+        "11559324",
+        "11559182",
+        "11558056",
+        "11556255",
+        "11540125",
+        "11533126",
+        "11497502",
+        "11490389",
+        "11486132",
+        "11473027",
+        "11469325",
+        "11457743",
+        "11454322",
+        "11445556",
+        "11441577",
+        "11433840",
+        "11430574",
+        "11427629",
+        "11420757",
+        "11407740",
+        "11353315",
+        "11353080"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "The failure of the EGR valve can cause the vehicle to lose propulsion power, leading to a loss of control and potential accidents.",
+      "symptoms": [
+        "\"Reduced Propulsion Message\" and \"Engine Unavailable\" warnings",
+        "inability to shift to gas engine",
+        "vehicle stuck in electric mode."
+      ],
+      "odiNumbers": [
+        "11576337",
+        "11566122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Shift to Park Issue",
+      "impact": "The failure to detect park mode can cause the vehicle to remain in an operational state, even when the driver intends to turn it off, leading to potential safety risks and inconvenience.",
+      "symptoms": [
+        "\"Shift to Park\" warning message",
+        "inability to turn off the vehicle",
+        "vehicle remains in operational state",
+        "lights stay on",
+        "and potential for the vehicle to move unexpectedly."
+      ],
+      "odiNumbers": [
+        "11543432",
+        "11483095",
+        "11456563",
+        "11445363",
+        "11439609",
+        "11348397",
+        "11343771",
+        "11340449",
+        "11318946",
+        "11222041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Interior Chrome Hazard",
+      "impact": "The reflective nature of the interior chrome can cause hazardous driving conditions, including blinding sunlight and debilitating migraines.",
+      "symptoms": [
+        "Sunlight reflection into the eyes",
+        "blinding",
+        "migraines",
+        "and potential accidents."
+      ],
+      "odiNumbers": [
+        "11446678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Android Auto Issues",
+      "impact": "The unreliability and lag of the Android Auto system can cause distractions while driving, leading to potential accidents.",
+      "symptoms": [
+        "Laggy and unresponsive system",
+        "voice commands not working",
+        "and potential for accidents due to distraction."
+      ],
+      "odiNumbers": [
+        "11253108"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Rear Brake Caliper Clunk",
+      "impact": "The clunking noise and movement of the vehicle when stopping can cause a loss of control and potential accidents.",
+      "symptoms": [
+        "Clunking noise in the rear of the vehicle when stopping",
+        "vehicle moves slightly forward",
+        "and potential for accidents."
+      ],
+      "odiNumbers": [
+        "11252395"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

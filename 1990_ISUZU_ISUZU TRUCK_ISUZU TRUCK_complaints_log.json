@@ -1,0 +1,105 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "FUEL SYSTEM",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Failure",
+      "impact": "Throttle failure can cause unintended acceleration, loss of vehicle control, and accidents, which can result in serious injuries or fatalities.",
+      "symptoms": [
+        "Sudden acceleration",
+        "throttle stuck",
+        "inability to control the vehicle's speed",
+        "accident or near-accident."
+      ],
+      "odiNumbers": [
+        "782365",
+        "535114",
+        "807793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Recall Parts Unavailability",
+      "impact": "The unavailability of recall parts can delay necessary repairs, leaving vehicles in an unsafe condition, and increasing the risk of accidents or injuries.",
+      "symptoms": [
+        "Dealer unable to perform recall repair due to parts unavailability",
+        "delay in repair",
+        "continued risk of throttle failure."
+      ],
+      "odiNumbers": [
+        "807793"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Carburetor Failure",
+      "impact": "The failure of the carburetor can cause the engine to stall or run rough, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or runs rough",
+        "the vehicle has difficulty starting",
+        "the engine misfires",
+        "the vehicle experiences a loss of power."
+      ],
+      "odiNumbers": [
+        "782365",
+        "782365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Failure due to Corrosion",
+      "impact": "The failure of the fuel pump due to corrosion can cause the engine to stall or run rough, leading to a loss of power and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The engine stalls or runs rough",
+        "the vehicle has difficulty starting",
+        "the engine misfires",
+        "the vehicle experiences a loss of power",
+        "the fuel pump makes a loud whining or grinding noise."
+      ],
+      "odiNumbers": [
+        "533450"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering System Failure",
+      "impact": "The failure of the steering system can cause the vehicle to pull to one side, leading to loss of control, accidents, rollovers, and injuries.",
+      "symptoms": [
+        "The vehicle pulls to one side while driving",
+        "the steering wheel is difficult to turn",
+        "the steering wheel vibrates or shakes",
+        "the vehicle wanders or drifts while driving",
+        "the steering system makes unusual noises."
+      ],
+      "odiNumbers": [
+        "542340",
+        "10512112",
+        "10494111",
+        "10485119",
+        "10474118",
+        "10469116",
+        "10464115",
+        "10459114",
+        "10454113",
+        "10449112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

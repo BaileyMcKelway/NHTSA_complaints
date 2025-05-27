@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 15,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "SEAT BELTS",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Warped Brake Rotors",
+      "impact": "Warped brake rotors can cause vibration or pulsation when braking, leading to reduced braking performance and increased stopping distances, which can increase the risk of accidents.",
+      "symptoms": [
+        "Brake pedal pulsation",
+        "vibration in the front end or steering wheel when braking",
+        "uneven brake rotor wear",
+        "premature wear of brake pads."
+      ],
+      "odiNumbers": [
+        "515430",
+        "512146",
+        "476797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Wear of Brake Pads",
+      "impact": "Premature wear of brake pads can lead to reduced braking performance, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Squealing or grinding noise when braking",
+        "excessive brake dust",
+        "uneven brake pad wear",
+        "premature wear of brake rotors."
+      ],
+      "odiNumbers": [
+        "481951"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Leaking Brake Calipers",
+      "impact": "Leaking brake calipers can cause brake fluid loss, leading to reduced braking performance, increased stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "Brake fluid leaks",
+        "spongy brake pedal",
+        "uneven brake pad wear",
+        "premature wear of brake rotors."
+      ],
+      "odiNumbers": [
+        "481951",
+        "481059"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Buckle Failure",
+      "impact": "The failure of the seat belt buckle can lead to injuries or fatalities in the event of an accident, as the occupant may not be properly restrained.",
+      "symptoms": [
+        "The seat belt buckle does not latch",
+        "the seat belt buckle does not release when opening the door",
+        "the seat belt tightens around the driver's neck when shutting and opening immediately",
+        "the shoulder belt does not retract in the event of an impact."
+      ],
+      "odiNumbers": [
+        "807470",
+        "801087",
+        "982443",
+        "981375",
+        "961274",
+        "958605"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Slipping",
+      "impact": "Transmission slipping can cause the vehicle to hesitate or jerk, leading to a loss of power and control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle hesitates or jerks when shifting gears",
+        "the transmission slips or feels like it's in neutral",
+        "the engine RPMs surge or fluctuate",
+        "the vehicle loses power or acceleration",
+        "the transmission makes unusual noises or vibrations."
+      ],
+      "odiNumbers": [
+        "848822"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

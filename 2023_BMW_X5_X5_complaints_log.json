@@ -1,0 +1,131 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Safety Feature Deficiency",
+      "impact": "The lack of a safety feature to automatically engage the parking brake or shift into Park when the driver exits the vehicle can lead to rollaway accidents, potentially causing injuries or fatalities.",
+      "symptoms": [
+        "The vehicle rolls away after the driver exits",
+        "the transmission remains in Neutral",
+        "and the parking brake is not applied."
+      ],
+      "odiNumbers": [
+        "11515326"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Vulnerability to Water Exposure",
+      "impact": "The electrical system's susceptibility to water damage can cause the vehicle to shut down or malfunction, leading to safety risks, especially if the vehicle becomes stranded or loses power while in motion.",
+      "symptoms": [
+        "Water exposure triggers a warning message on the dashboard",
+        "the vehicle may not start again if turned off",
+        "the electrical system may shut down",
+        "and the vehicle may not shift into Park."
+      ],
+      "odiNumbers": [
+        "11511804"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Key Recognition and Computer System Failure",
+      "impact": "The failure of the car computer to recognize keys or function properly can lead to safety risks, such as stranding the driver or causing accidents due to loss of vehicle control.",
+      "symptoms": [
+        "The computer fails to recognize keys",
+        "the computer stops working",
+        "and the vehicle may become inoperable."
+      ],
+      "odiNumbers": [
+        "11504169"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, accidents, and potentially lead to serious injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "even when the driver is not pressing the accelerator pedal",
+        "the vehicle continues to accelerate after the driver takes their foot off the brake pedal",
+        "the vehicle accelerates to high speeds without warning",
+        "the vehicle's brakes are overworked",
+        "causing a burning smell."
+      ],
+      "odiNumbers": [
+        "11509869"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Drivetrain Failure",
+      "impact": "Drivetrain failure can cause the vehicle to stutter or hesitate while driving, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "The vehicle's drivetrain failure is reported on the dashboard",
+        "the vehicle stutters or hesitates while driving",
+        "the vehicle's acceleration is uneven or unpredictable."
+      ],
+      "odiNumbers": [
+        "11566159"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hybrid Powertrain Malfunction",
+      "impact": "The hybrid powertrain malfunction can cause sudden loss of power, unexpected shifting into neutral, and engine stalling, which can lead to accidents, loss of control, or leaving the driver stranded.",
+      "symptoms": [
+        "Sudden jolt or pause in acceleration",
+        "automatic switching to hybrid mode",
+        "warning messages on the display (e.g.",
+        "\"Stop Carefully: Power Supply Drivetrain Malfunction\"",
+        "\"Continued Driving possible: Drivetrain Electric drive limited\")",
+        "strange engine revving cycles",
+        "engine stalling",
+        "inability to restart the engine",
+        "transmission shifting into neutral while driving",
+        "loss of power."
+      ],
+      "odiNumbers": [
+        "11499019",
+        "11496221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Software-Related Hybrid System Issues",
+      "impact": "Software-related issues with the hybrid system can cause unexpected errors, power loss, and engine stalling, which can lead to accidents, loss of control, or leaving the driver stranded.",
+      "symptoms": [
+        "Error messages on the display (e.g.",
+        "\"Four wheel drive limited\")",
+        "engine stopping",
+        "system switching to Charging Mode",
+        "requirement to push the start button multiple times to turn the vehicle on."
+      ],
+      "odiNumbers": [
+        "11496221"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

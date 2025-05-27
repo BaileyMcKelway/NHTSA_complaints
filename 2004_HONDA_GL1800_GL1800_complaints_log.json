@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "ENGINE AND ENGINE COOLING",
+    "STRUCTURE",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Lock-Up",
+      "impact": "The transmission lock-up can cause the vehicle to suddenly stop moving, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The transmission \"locks up\" and the vehicle will no longer move",
+        "the rear wheel will not turn",
+        "the vehicle makes a chattering noise",
+        "the noise gets louder when shifting gears",
+        "the vehicle skids to a stop."
+      ],
+      "odiNumbers": [
+        "10983187"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Reverse Gear Engagement While in Motion",
+      "impact": "The unexpected engagement of the reverse gear while in motion can cause loss of control, accidents, or injuries.",
+      "symptoms": [
+        "The reverse gear engages while the vehicle is in motion",
+        "the vehicle starts whining or engaging",
+        "the \"R\" light illuminates",
+        "the vehicle slows down or stops suddenly."
+      ],
+      "odiNumbers": [
+        "10432802"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Gear Skipping or Clunking",
+      "impact": "The transmission gear skipping or clunking can cause loss of power, sudden skidding, or accidents, especially when accelerating or cornering.",
+      "symptoms": [
+        "The transmission makes a loud clunking noise when shifting gears",
+        "the vehicle skips a gear dog",
+        "the transmission hesitates or slips",
+        "the vehicle loses power or acceleration."
+      ],
+      "odiNumbers": [
+        "10287011"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Ineffectiveness",
+      "impact": "The ineffectiveness of the rear brakes can cause the vehicle to hesitate or fail to stop, leading to accidents or near-misses, especially in panic situations.",
+      "symptoms": [
+        "The rear brakes require pumping to engage",
+        "the rear brakes are slow to respond",
+        "the rear brakes are ineffective",
+        "the vehicle hesitates or fails to stop."
+      ],
+      "odiNumbers": [
+        "10648369",
+        "10157952"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Vulnerable Radiator Overflow Tank Design",
+      "impact": "The radiator overflow tank's location and design make it prone to damage from road debris, which can cause coolant leakage, potentially leading to loss of control, accidents, and injuries.",
+      "symptoms": [
+        "Coolant leakage",
+        "coolant spill on the roadway",
+        "damage to the radiator overflow tank",
+        "risk of accidents or injuries due to loss of control."
+      ],
+      "odiNumbers": [
+        "10129965",
+        "10121374"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Fracture",
+      "impact": "The fracture of the motorcycle's frame can lead to a loss of structural integrity, affecting the vehicle's handling and stability, and potentially causing accidents or injuries.",
+      "symptoms": [
+        "Cracks or fractures appear on the passenger and driver side lower frame",
+        "particularly near the passenger side footrest."
+      ],
+      "odiNumbers": [
+        "11299930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Engine Control Module (ECM) Causing Engine Stalling",
+      "impact": "The faulty ECM can cause the engine to stall while driving, which can lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The engine stalls or dies while driving",
+        "especially when the engine is warm",
+        "the vehicle loses power",
+        "the check engine light comes on",
+        "the vehicle may experience difficulty starting or may not start at all."
+      ],
+      "odiNumbers": [
+        "10662128"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

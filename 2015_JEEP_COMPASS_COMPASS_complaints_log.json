@@ -1,0 +1,356 @@
+{
+  "totalComplaints": 99,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "ENGINE",
+    "AIR BAGS"
+  ],
+  "parsedComplaintsResultLength": 19,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling/Shutting Down",
+      "impact": "The engine stalling or shutting down while driving can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The engine shuts down while driving",
+        "the vehicle loses power",
+        "the vehicle stalls",
+        "the vehicle is unable to accelerate."
+      ],
+      "odiNumbers": [
+        "11548931",
+        "11430937",
+        "10969894",
+        "10781207",
+        "11129994",
+        "11048148"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Headrest Malfunction",
+      "impact": "The sudden deployment of the headrest can cause injury, distraction, and loss of control while driving.",
+      "symptoms": [
+        "The headrest deploys suddenly",
+        "the headrest explodes",
+        "the headrest breaks",
+        "the headrest causes injury."
+      ],
+      "odiNumbers": [
+        "11481906",
+        "11430937",
+        "11418249",
+        "11129861"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Issues",
+      "impact": "Transmission problems can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The vehicle slips out of gear",
+        "the gear shift can be knocked out of drive",
+        "the vehicle has difficulty shifting."
+      ],
+      "odiNumbers": [
+        "11074504",
+        "11191321",
+        "11387752"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical/Fire Issues",
+      "impact": "Electrical issues can cause fires, which can lead to injury, property damage, and loss of life.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "sparks are seen",
+        "the vehicle has electrical issues."
+      ],
+      "odiNumbers": [
+        "11397154",
+        "10750313"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Clutch/Throttle Body Issues",
+      "impact": "Clutch and throttle body problems can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the throttle body has issues."
+      ],
+      "odiNumbers": [
+        "11387752",
+        "11129994"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "ABS/4WD/Traction Control Issues",
+      "impact": "Issues with the ABS, 4WD, and traction control systems can cause loss of control, accidents, and leave the driver stranded.",
+      "symptoms": [
+        "The ABS",
+        "4WD",
+        "and traction control lights come on",
+        "the vehicle has issues with these systems."
+      ],
+      "odiNumbers": [
+        "11481906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Throttle Control Failure",
+      "impact": "Throttle control failure can cause the vehicle to lose power, stall, or jerk while driving, which can lead to accidents, especially in heavy traffic or construction zones.",
+      "symptoms": [
+        "The throttle control light comes on",
+        "the vehicle loses power",
+        "stalls",
+        "or jerks while driving",
+        "the check engine light illuminates",
+        "the vehicle goes into limp mode",
+        "the RPMs fluctuate",
+        "and the vehicle may not accelerate."
+      ],
+      "odiNumbers": [
+        "11416771",
+        "11373650",
+        "11286513",
+        "11176449",
+        "11172039",
+        "11074977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause various issues, including the horn and radio not working, windows not functioning, and the vehicle stalling or losing power, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The horn and radio do not work",
+        "windows do not function",
+        "the vehicle stalls or loses power",
+        "and the check engine light illuminates."
+      ],
+      "odiNumbers": [
+        "11526898",
+        "11521832",
+        "11353648"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "Catalytic converter failure can cause the vehicle to catch fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle catches fire",
+        "the check engine light illuminates",
+        "and the vehicle may not start."
+      ],
+      "odiNumbers": [
+        "11407166"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure",
+      "impact": "Transmission failure can cause the vehicle to lose power, stall, or jerk while driving, which can lead to accidents, especially in heavy traffic or construction zones.",
+      "symptoms": [
+        "The vehicle loses power",
+        "stalls",
+        "or jerks while driving",
+        "the check engine light illuminates",
+        "and the transmission may not shift properly."
+      ],
+      "odiNumbers": [
+        "11344066",
+        "11269526",
+        "11074977"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Airbag Failure",
+      "impact": "Airbag failure can cause injuries or fatalities in the event of an accident.",
+      "symptoms": [
+        "The airbag does not deploy in an accident",
+        "and the vehicle may sustain significant damage."
+      ],
+      "odiNumbers": [
+        "10712623"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling and Loss of Power",
+      "impact": "The sudden stalling of the engine can cause loss of power, leading to accidents, especially when driving on highways or busy roads. This can result in serious injuries or fatalities.",
+      "symptoms": [
+        "The engine stalls without warning",
+        "the vehicle loses power",
+        "the accelerator pedal does not respond",
+        "the vehicle jerks or shakes",
+        "and the check engine warning light may or may not illuminate."
+      ],
+      "odiNumbers": [
+        "11496155",
+        "11399234",
+        "11282681",
+        "11270251",
+        "11258900",
+        "11191360",
+        "11164169",
+        "11153091",
+        "11006394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Throttle Body and Electronic Throttle Control Issues",
+      "impact": "The failure of the throttle body and electronic throttle control can cause the engine to stall, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "The throttle body warning light illuminates",
+        "the engine stalls",
+        "the vehicle jerks or shakes",
+        "the accelerator pedal does not respond",
+        "and the vehicle may enter limp mode."
+      ],
+      "odiNumbers": [
+        "11449633",
+        "11191360",
+        "11006394"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission and Clutch Issues",
+      "impact": "The failure of the transmission and clutch can cause the vehicle to stall, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "The vehicle jerks or shakes",
+        "the accelerator pedal does not respond",
+        "the vehicle stalls",
+        "and the check engine warning light may or may not illuminate."
+      ],
+      "odiNumbers": [
+        "11385549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Catalytic Converter Issues",
+      "impact": "The failure of the catalytic converter can cause the engine to stall, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "The check engine warning light illuminates",
+        "the vehicle stalls",
+        "and the accelerator pedal does not respond."
+      ],
+      "odiNumbers": [
+        "11547944"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Electrical and Wiring Harness Issues",
+      "impact": "The failure of the electrical and wiring harness can cause the vehicle to stall, leading to loss of power and potential accidents.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the accelerator pedal does not respond",
+        "and the check engine warning light may or may not illuminate."
+      ],
+      "odiNumbers": [
+        "11164169",
+        "11385549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Active Head Restraint Failure",
+      "impact": "The unexpected deployment of the active head restraint can cause injury to the driver or passenger, and the failure of the system to deploy in the event of a crash can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The active head restraint deploys unexpectedly",
+        "the padded area of the headrest pops out",
+        "the plastic holding the catch pin breaks",
+        "the headrest cannot be reset."
+      ],
+      "odiNumbers": [
+        "11471095",
+        "11439795",
+        "11387800",
+        "11342150",
+        "11318806"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Airbag System Failure",
+      "impact": "The failure of the airbag system can increase the risk of injury or fatality in the event of a crash, and the intermittent illumination of the airbag warning light can cause driver distraction and anxiety.",
+      "symptoms": [
+        "The airbag warning light turns on intermittently",
+        "the airbag system fails to deploy in the event of a crash",
+        "the airbag light stays illuminated after the engine has started",
+        "the airbag system is faulty and cannot be diagnosed or repaired."
+      ],
+      "odiNumbers": [
+        "11390710",
+        "11328381",
+        "11298355",
+        "10706112"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Seat Belt Sensor Issues",
+      "impact": "The failure of the seat belt sensor can cause the airbag system to malfunction, increasing the risk of injury or fatality in the event of a crash.",
+      "symptoms": [
+        "The airbag warning light turns on intermittently",
+        "the seat belt sensor is faulty",
+        "the airbag system fails to deploy in the event of a crash."
+      ],
+      "odiNumbers": [
+        "11390710",
+        "11099044",
+        "10723464"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

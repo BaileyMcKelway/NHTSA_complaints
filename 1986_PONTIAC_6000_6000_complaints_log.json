@@ -1,0 +1,141 @@
+{
+  "totalComplaints": 24,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SERVICE BRAKES",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Rack and Pinion Steering Gear",
+      "impact": "The defective rack and pinion steering gear can cause the steering system to lock up or fail, leading to loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The steering system locks up or becomes difficult to turn",
+        "especially when the vehicle is cold (cold power steering)",
+        "the rack and pinion gear fails",
+        "causing steering difficulty",
+        "the power steering system fails",
+        "and the short rack fails."
+      ],
+      "odiNumbers": [
+        "727330",
+        "513928",
+        "601616",
+        "959489",
+        "480093",
+        "480986",
+        "470664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Failure",
+      "impact": "Brake failure can lead to accidents, injuries, and fatalities, as the vehicle may not be able to stop or slow down in a timely manner.",
+      "symptoms": [
+        "Sudden loss of brake function",
+        "inability to stop or slow down",
+        "brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "rear brakes and calipers fail",
+        "parking brake does not work."
+      ],
+      "odiNumbers": [
+        "541442",
+        "813002",
+        "601616",
+        "978976",
+        "972873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Master cylinder failure can cause a loss of brake fluid, leading to brake failure, which can result in accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal travels to the floor",
+        "brake fluid leaks",
+        "brake failure."
+      ],
+      "odiNumbers": [
+        "541442"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Hydraulic Pump Motor Failure (ABS Brakes)",
+      "impact": "Failure of the hydraulic pump motor can cause the anti-lock braking system (ABS) to malfunction, leading to loss of control and increased stopping distances, which can result in accidents, injuries, and fatalities.",
+      "symptoms": [
+        "ABS brake failure",
+        "hydraulic pump motor failure",
+        "inability to stop or slow down",
+        "loss of control."
+      ],
+      "odiNumbers": [
+        "972873"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Brake Failure",
+      "impact": "Rear brake failure can cause the vehicle to lose traction, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Rear brakes fail",
+        "inability to stop or slow down",
+        "loss of traction."
+      ],
+      "odiNumbers": [
+        "601616",
+        "813002"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Automatic Transmission Failure",
+      "impact": "The failure of the automatic transmission can cause the vehicle to lose power, hesitate, or stall, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle hesitates or refuses to shift gears",
+        "the transmission slips or jerks",
+        "the vehicle loses power",
+        "the transmission makes unusual noises."
+      ],
+      "odiNumbers": [
+        "601616",
+        "506366",
+        "601615",
+        "970683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Constant Velocity (CV) Boot Failure",
+      "impact": "The failure of the CV boot can cause the CV joint to wear out prematurely, leading to vibrations, noise, and loss of vehicle control, which can increase the risk of accidents.",
+      "symptoms": [
+        "The vehicle vibrates or shakes",
+        "the CV joint makes noise",
+        "the CV boot is torn or damaged",
+        "grease or lubricant leaks from the CV joint."
+      ],
+      "odiNumbers": [
+        "470664"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

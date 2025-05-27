@@ -1,0 +1,115 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "SEAT BELTS",
+    "SUSPENSION",
+    "ENGINE",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause injuries to the driver and passengers, and may lead to accidents or loss of control of the vehicle.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy in the absence of a crash or impact",
+        "airbags deploy while driving on the highway",
+        "airbags deploy during normal driving conditions."
+      ],
+      "odiNumbers": [
+        "11576509",
+        "10482891"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbags to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to the driver and passengers.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "airbags do not deploy despite the severity of the impact",
+        "seat belts do not restrain properly",
+        "occupants are thrown forward abruptly."
+      ],
+      "odiNumbers": [
+        "10511081"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Seat Belt Restraint System Failure",
+      "impact": "The failure of the seat belt restraint system can lead to inadequate protection in the event of a crash, increasing the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "The seat belt fails to restrain the occupant properly",
+        "the seat belt does not lock in place",
+        "the seat belt is loose or does not tighten properly",
+        "the seat belt is damaged or broken."
+      ],
+      "odiNumbers": [
+        "10924654",
+        "10762591"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Control Arm and Crossmember Failure",
+      "impact": "The failure of the control arms and crossmember can cause the vehicle to lose control, leading to accidents or near-misses, especially during turns or braking.",
+      "symptoms": [
+        "The vehicle's front end sways from left to right",
+        "the vehicle pulls in one direction",
+        "loss of control while driving",
+        "abnormal vehicle maneuvering."
+      ],
+      "odiNumbers": [
+        "11547208"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Power Loss and Loud Noise",
+      "impact": "The sudden loss of engine power and loud noise can cause the vehicle to stall or become difficult to control, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Loud noise from the engine",
+        "loss of engine power",
+        "inability to exceed a certain speed (e.g.",
+        "20 mph)",
+        "vehicle stalls or becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "11149762"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Snap Ring/Wave Spring Failure",
+      "impact": "The failure of the transmission snap ring/wave spring can cause difficulty shifting gears, leading to a loss of power and potentially causing accidents. Additionally, the broken metal pieces can clog the filter and damage the transmission, resulting in costly repairs.",
+      "symptoms": [
+        "Difficulty shifting gears",
+        "feeling of gears getting stuck",
+        "jerking or jolting sensation when shifting",
+        "neutral light flashing",
+        "loss of power or acceleration",
+        "inability to pick up speed."
+      ],
+      "odiNumbers": [
+        "10633283"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

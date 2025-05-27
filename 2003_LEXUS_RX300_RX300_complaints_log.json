@@ -1,0 +1,210 @@
+{
+  "totalComplaints": 30,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "VISIBILITY",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 12,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Failure",
+      "impact": "The sudden failure of the transmission can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. This can result in serious safety risks, especially if the failure occurs on a highway.",
+      "symptoms": [
+        "The vehicle suddenly loses power",
+        "the engine revs up but the car does not move",
+        "the transmission does not engage",
+        "the gears do not work",
+        "and the vehicle rolls freely as if it were in neutral."
+      ],
+      "odiNumbers": [
+        "10402143",
+        "10401788",
+        "10281187",
+        "10260025",
+        "10254835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Planetary Gear Failure",
+      "impact": "The failure of the planetary gear can cause the transmission to malfunction, leading to a loss of power and control of the vehicle, which can result in accidents or leave the driver stranded.",
+      "symptoms": [
+        "The transmission does not engage",
+        "the gears do not work",
+        "and the vehicle rolls freely as if it were in neutral."
+      ],
+      "odiNumbers": [
+        "10402143"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Slipping or Failure to Engage",
+      "impact": "The transmission slipping or failure to engage can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. This can result in serious safety risks, especially if the failure occurs on a highway.",
+      "symptoms": [
+        "The transmission slips or fails to engage",
+        "the vehicle loses power",
+        "the engine revs up but the car does not move",
+        "and the gears do not work."
+      ],
+      "odiNumbers": [
+        "10258068",
+        "10254835"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Failure Due to Lack of Maintenance",
+      "impact": "The failure of the transmission due to lack of maintenance can cause the vehicle to lose power, leading to accidents or leaving the driver stranded. This can result in serious safety risks, especially if the failure occurs on a highway.",
+      "symptoms": [
+        "The transmission fails due to lack of maintenance",
+        "the vehicle loses power",
+        "the engine revs up but the car does not move",
+        "and the gears do not work."
+      ],
+      "odiNumbers": [
+        "10260025"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and property damage.",
+      "symptoms": [
+        "Sudden and unexpected acceleration",
+        "stuck accelerator pedal",
+        "high engine RPM",
+        "vehicle acceleration without pressing the gas pedal",
+        "difficulty slowing down or stopping the vehicle."
+      ],
+      "odiNumbers": [
+        "11353239",
+        "10652063",
+        "10314259",
+        "10312186",
+        "10312223"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Airbag System Malfunction",
+      "impact": "The malfunction of the airbag system can lead to the failure of airbags to deploy in the event of a crash, potentially causing serious injury or fatalities.",
+      "symptoms": [
+        "The airbag warning light stays on or comes on intermittently",
+        "the airbag warning indicator illuminates while driving",
+        "the driver's side seat belt warning light comes on",
+        "the driver's side airbag warning light comes on."
+      ],
+      "odiNumbers": [
+        "11043211",
+        "10683936",
+        "10678922",
+        "10648906"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Catalytic Converter Failure",
+      "impact": "The failure of the catalytic converter can cause the vehicle to emit excessive pollutants, leading to environmental harm and potentially causing the vehicle to fail emissions tests.",
+      "symptoms": [
+        "Illumination of the check engine warning light",
+        "VSC warning light",
+        "and inoperable HVAC system."
+      ],
+      "odiNumbers": [
+        "11455537"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Spontaneous Windshield Cracking",
+      "impact": "The spontaneous cracking of the windshield can cause reduced visibility while driving, potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Cracking of the front windshield without any apparent reason",
+        "often occurring while the vehicle is parked."
+      ],
+      "odiNumbers": [
+        "10115535"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Blind Spot in Rear View",
+      "impact": "The lack of visibility in the rear view can cause accidents or injuries, particularly when backing up, as the driver may not be able to see pedestrians or objects behind the vehicle.",
+      "symptoms": [
+        "Difficulty seeing small children or objects when backing up",
+        "loud beeping noise from the installed warning device may attract children instead of warning them."
+      ],
+      "odiNumbers": [
+        "10017724"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-lock Braking System (ABS) Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock, leading to loss of control and increased risk of accidents.",
+      "symptoms": [
+        "The ABS brake light illuminates",
+        "the brakes lock while driving",
+        "the vehicle is difficult to control."
+      ],
+      "odiNumbers": [
+        "10935552"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Air Fuel and Air Flow Sensors",
+      "impact": "Faulty sensors can cause the check engine and VSC warning lights to illuminate, leading to unnecessary repairs and potential safety risks if left unaddressed.",
+      "symptoms": [
+        "The check engine and VSC warning lights illuminate",
+        "the lights may go off and then come back on",
+        "the vehicle may require repeated repairs."
+      ],
+      "odiNumbers": [
+        "10472551"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Ignition Switch and Transmission Interlock Failure",
+      "impact": "The failure of the ignition switch and transmission interlock can cause the vehicle to roll or move unexpectedly, leading to accidents or injuries.",
+      "symptoms": [
+        "The key can be removed from the ignition without the vehicle being in park gear",
+        "the vehicle rolls or moves unexpectedly."
+      ],
+      "odiNumbers": [
+        "10053653"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

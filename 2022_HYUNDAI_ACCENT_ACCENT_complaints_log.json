@@ -1,0 +1,91 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "TIRES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unsecured Steering Column",
+      "impact": "An unsecured steering column can cause the vehicle to lose control, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle drifts or pulls to one side without warning",
+        "the steering column feels loose or unstable",
+        "the vehicle wanders or deviates from its intended path",
+        "no warning signals or sounds are present."
+      ],
+      "odiNumbers": [
+        "11519998",
+        "11491558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Failure of Airbag Deployment",
+      "impact": "The failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to occupants.",
+      "symptoms": [
+        "Airbags do not deploy in a crash",
+        "occupants experience injuries or fatalities that could have been mitigated by airbag deployment."
+      ],
+      "odiNumbers": [
+        "11491558"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature Tire Failure",
+      "impact": "Premature tire failure can lead to a loss of vehicle control, increasing the risk of accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Tires crumbling or falling apart in chunks",
+        "tire tread separation",
+        "tire wear uneven or excessive",
+        "tire failure despite normal usage and maintenance."
+      ],
+      "odiNumbers": [
+        "11588827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Inadequate Tire Manufacturer Support",
+      "impact": "Inadequate support from tire manufacturers can leave vehicle owners without recourse or resolution, potentially leading to continued use of faulty tires and increased risk of accidents.",
+      "symptoms": [
+        "Difficulty in communicating with tire manufacturers",
+        "unavailability of manufacturer support in certain regions",
+        "lack of assistance in resolving tire-related issues."
+      ],
+      "odiNumbers": [
+        "11588827"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Sudden Engine Shutdown While Driving",
+      "impact": "The sudden shutdown of the engine while driving can cause a loss of control, leading to accidents, injuries, or fatalities. This issue can also cause emotional distress and anxiety for drivers and passengers.",
+      "symptoms": [
+        "The engine shuts off without warning",
+        "the vehicle loses speed",
+        "the dashboard lights turn off",
+        "the vehicle stalls",
+        "and the driver must put the car in \"Park\" and restart the engine to regain control."
+      ],
+      "odiNumbers": [
+        "11525514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

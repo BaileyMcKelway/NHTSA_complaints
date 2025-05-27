@@ -1,0 +1,106 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "ENGINE AND ENGINE COOLING",
+    "LATCHES/LOCKS/LINKAGES",
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inadequate Seat Belt Length",
+      "impact": "The seat belts may not fit properly, which can lead to discomfort, distraction, and increased risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The seat belts do not extend far enough",
+        "requiring the use of seat belt extenders",
+        "discomfort or difficulty wearing the seat belt."
+      ],
+      "odiNumbers": [
+        "559244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Faulty Front Passenger Seat Belt Latching",
+      "impact": "The failure of the front passenger seat belt to lock properly can increase the risk of injury or fatality in the event of an accident.",
+      "symptoms": [
+        "The front passenger seat belt does not lock or latch properly",
+        "the seat belt has been repaired but continues to malfunction."
+      ],
+      "odiNumbers": [
+        "986038"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Rattling Noise",
+      "impact": "The loud rattling noise under the truck during idling can be a sign of a potentially serious engine problem, which if left unchecked, can lead to engine damage, decreased performance, and potentially cause the engine to fail, leaving the driver stranded.",
+      "symptoms": [
+        "Loud rattling noise under the truck during idling",
+        "noise returns after repairs",
+        "possible engine rattle."
+      ],
+      "odiNumbers": [
+        "559244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Driver's Side Door Lock Malfunction",
+      "impact": "The malfunction of the driver's side door lock can cause inconvenience, potential security risks, and in extreme cases, may lead to accidents if the door opens unexpectedly while driving.",
+      "symptoms": [
+        "The driver's side door lock fails to lock or unlock",
+        "the door lock is stuck in the locked or unlocked position",
+        "the door lock button does not respond",
+        "the door lock makes unusual noises or clicking sounds."
+      ],
+      "odiNumbers": [
+        "559244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Premature ABS Module Failure",
+      "impact": "The premature failure of the ABS module can cause extended stopping distances, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The ABS warning light illuminates on the dashboard",
+        "the vehicle takes longer to stop than usual",
+        "the vehicle's brakes feel spongy or unresponsive",
+        "the vehicle's ABS system malfunctions."
+      ],
+      "odiNumbers": [
+        "559244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electronic Brake Control Module (EBCM) Failure",
+      "impact": "The failure of the EBCM can cause the loss of brake pressure, leading to reduced stopping power and increased risk of accidents.",
+      "symptoms": [
+        "The ABS light remains on after starting the vehicle",
+        "loss of brake pressure",
+        "reduced stopping power",
+        "inability to stop the vehicle in a timely manner."
+      ],
+      "odiNumbers": [
+        "551369"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

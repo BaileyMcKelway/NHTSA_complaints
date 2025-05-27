@@ -1,0 +1,92 @@
+{
+  "totalComplaints": 20,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "EXTERIOR LIGHTING",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake System Failure",
+      "impact": "The failure of the front brake system can cause inconsistent and unsafe braking, leading to accidents or near-misses, and potentially resulting in serious injury or death.",
+      "symptoms": [
+        "The front brake lever feels soft or spongy",
+        "requires multiple pulls or \"pumping\" to engage fully",
+        "has a delayed or inconsistent response",
+        "and may cause the brake lever to travel excessively before engaging."
+      ],
+      "odiNumbers": [
+        "11468569",
+        "11462976",
+        "11430365",
+        "11428977",
+        "11428493",
+        "11426874",
+        "11387984",
+        "11388116",
+        "11388167",
+        "11387901",
+        "11387969",
+        "11387973",
+        "11373122",
+        "11366962",
+        "11366927",
+        "11331149"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Instrument Cluster Illumination Failure",
+      "impact": "The inadequate illumination of the instrument cluster can make it difficult or impossible for drivers to read critical information, such as speed and engine RPM, at night, potentially leading to accidents or unsafe driving conditions.",
+      "symptoms": [
+        "The instrument cluster is dimly lit",
+        "the speedometer and tachometer are difficult or impossible to read at night",
+        "the numbers on the instrument cluster are too dim to read",
+        "the instrument panel is not legible in low-light conditions."
+      ],
+      "odiNumbers": [
+        "11005316",
+        "10929830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Wire Harness Failure Under Ignition",
+      "impact": "The failure of the wire harness under ignition can cause the traction control system to malfunction, leading to unpredictable vehicle behavior, and potentially resulting in accidents or loss of control.",
+      "symptoms": [
+        "The traction control system stops working",
+        "the needles on the dashboard bounce or fluctuate",
+        "the vehicle may not start",
+        "the wire harness pulls or stretches when the handlebars are turned to the right."
+      ],
+      "odiNumbers": [
+        "11495521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Recall Repair and Service Issues",
+      "impact": "The failure of dealerships to properly repair recalled vehicles can lead to ongoing safety issues, causing frustration and financial burden for vehicle owners.",
+      "symptoms": [
+        "Dealerships may not replace recalled parts",
+        "may charge owners for repairs",
+        "or may deflect responsibility to other dealerships",
+        "leading to a lack of accountability and resolution."
+      ],
+      "odiNumbers": [
+        "11495521"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

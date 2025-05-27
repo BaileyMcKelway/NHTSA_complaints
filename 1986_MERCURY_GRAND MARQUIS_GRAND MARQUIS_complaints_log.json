@@ -1,0 +1,89 @@
+{
+  "totalComplaints": 21,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause electrical shorts, leading to vehicle fires, which can result in property damage, injury, or even loss of life.",
+      "symptoms": [
+        "The ignition switch overheats",
+        "the key becomes hot",
+        "the ignition switch shorts out",
+        "the vehicle catches on fire",
+        "the wiring in the dash area shorts out",
+        "the vehicle stalls."
+      ],
+      "odiNumbers": [
+        "539403",
+        "809949",
+        "803241",
+        "987166",
+        "504269",
+        "504113",
+        "984048",
+        "983212",
+        "983288",
+        "970470"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Failure and Fire Hazard",
+      "impact": "Engine failure can cause the vehicle to stall or lose power, leading to accidents or leaving the driver stranded. In severe cases, engine failure can result in a fire, posing a significant risk to the driver and passengers.",
+      "symptoms": [
+        "The vehicle loses pressure",
+        "begins to smoke",
+        "and may catch fire; the engine smokes under full power; the vehicle stalls while driving",
+        "especially when making turns."
+      ],
+      "odiNumbers": [
+        "566989",
+        "983366",
+        "517810",
+        "850690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Stalling Issue",
+      "impact": "The stalling issue can cause the vehicle to lose power and control, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "especially when making turns or driving at low speeds."
+      ],
+      "odiNumbers": [
+        "850690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Front Brake Caliper Failure",
+      "impact": "The failure of the front brake caliper can cause extended stopping distances, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle vibrates on the right front end when brakes are applied",
+        "the brakes feel like they are grabbing when released",
+        "the vehicle takes longer to stop than usual",
+        "smoke and flames may appear from the tires."
+      ],
+      "odiNumbers": [
+        "837524",
+        "974514"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

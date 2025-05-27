@@ -1,0 +1,119 @@
+{
+  "totalComplaints": 23,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "AIR BAGS",
+    "TIRES",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, and distractions while driving, as well as unnecessary repair costs.",
+      "symptoms": [
+        "Airbag deploys without impact or warning",
+        "airbag deploys at low speeds",
+        "airbag deploys due to minor bumps or potholes",
+        "airbag deploys while turning."
+      ],
+      "odiNumbers": [
+        "10250460",
+        "8016987",
+        "875524",
+        "827008",
+        "503460"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag to Deploy",
+      "impact": "Failure of the airbag to deploy in a crash can lead to serious injuries or fatalities, as well as increased repair costs.",
+      "symptoms": [
+        "Airbag fails to deploy in a frontal collision",
+        "airbag fails to deploy in a rear-end collision",
+        "airbag fails to deploy despite significant damage to the vehicle."
+      ],
+      "odiNumbers": [
+        "740922",
+        "813490",
+        "813161"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Tread Separation and Tire Failure",
+      "impact": "Tread separation and tire failure can lead to loss of vehicle control, accidents, and potential injuries or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Sudden tire explosion",
+        "tread separation from the tire casing",
+        "complete tire deflation",
+        "vehicle spinning out of control",
+        "and loss of traction."
+      ],
+      "odiNumbers": [
+        "10347796",
+        "10340093",
+        "555218"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause intermittent electrical issues, leading to flickering dashboard lights, difficulty starting the engine, and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Flickering dashboard lights",
+        "intermittent engine stalling",
+        "difficulty starting the engine",
+        "dashboard lights not turning on in the second position of the ignition",
+        "engine not staying on in the second position of the ignition."
+      ],
+      "odiNumbers": [
+        "10176626"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Distributor Bearing Failure",
+      "impact": "The failure of the distributor bearing can cause the rotor to melt, leading to engine failure and potentially leaving the driver stranded.",
+      "symptoms": [
+        "Engine failure",
+        "rotor melting",
+        "difficulty starting the engine",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "553569",
+        "534472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "General Reliability and Maintenance Issues",
+      "impact": "The frequent breakdowns and high maintenance costs can cause financial stress and disappointment for the vehicle owner.",
+      "symptoms": [
+        "Frequent breakdowns",
+        "high maintenance costs",
+        "difficulty with engine performance",
+        "general dissatisfaction with the vehicle."
+      ],
+      "odiNumbers": [
+        "713927"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

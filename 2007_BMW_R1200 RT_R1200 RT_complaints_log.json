@@ -1,0 +1,101 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Failure",
+      "impact": "The failure of the fuel gauge can cause the rider to run out of fuel while moving, leading to loss of engine power and potential accidents.",
+      "symptoms": [
+        "Fuel gauge stopped responding",
+        "leading to the possibility of running out of fuel while moving."
+      ],
+      "odiNumbers": [
+        "10913689",
+        "10913693",
+        "10913696",
+        "10536439"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel Pump Cracking and Leaking",
+      "impact": "The cracking and leaking of the fuel pump can cause fuel to leak onto the hot engine and exhaust, leading to a fire hazard.",
+      "symptoms": [
+        "Fuel leaks from the fuel pump",
+        "fuel smell",
+        "fuel dripping from under the left fairing panel",
+        "cracks in the fuel pump flange or boss."
+      ],
+      "odiNumbers": [
+        "10557201",
+        "10556041",
+        "10554212",
+        "10537789",
+        "10536814",
+        "10536503",
+        "10522421",
+        "10494899",
+        "10492961",
+        "10490675",
+        "10489197",
+        "10488652",
+        "10485789",
+        "10485351"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Final Drive Bearing Failure",
+      "impact": "The failure of the final drive bearing can cause unstable handling, wobbling, and shimmying of the vehicle, leading to loss of control and increased risk of accidents. Additionally, it can also cause oil leaks, affecting tire traction and braking, and potentially leading to a loss of rear brakes.",
+      "symptoms": [
+        "Sudden development of play in the final drive bearing",
+        "wheel can be moved laterally by hand",
+        "unstable handling",
+        "wobbling",
+        "and shimmying of the vehicle",
+        "loss of rear brakes",
+        "oil leaks",
+        "and unusual vibration in the drive line."
+      ],
+      "odiNumbers": [
+        "10781385",
+        "10704833",
+        "10524382",
+        "10493508",
+        "10439549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Pump Motor Failure",
+      "impact": "The failure of the ABS pump motor can cause the ABS system to malfunction, leading to a loss of anti-lock braking functionality, which can increase the risk of accidents, especially on motorcycles where locked wheels can be particularly dangerous.",
+      "symptoms": [
+        "The \"Brake Failure\" or \"ABS Failure\" warning light appears on the dashboard",
+        "the ABS system does not function properly",
+        "the brakes may feel spongy or soft",
+        "the front or rear wheel may lock up instead of the ABS system overriding and controlling the brake."
+      ],
+      "odiNumbers": [
+        "10767426",
+        "10683489",
+        "10654412",
+        "10560728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

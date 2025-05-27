@@ -1,0 +1,256 @@
+{
+  "totalComplaints": 546,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Tank Crossmember Failure",
+      "impact": "The failure of the fuel tank crossmember can cause the fuel tank to drop and spill fuel, leading to a fire hazard or environmental damage.",
+      "symptoms": [
+        "Fuel tank crossmember corrosion",
+        "fuel tank drop",
+        "fuel spillage."
+      ],
+      "odiNumbers": [
+        "10381363",
+        "10416740"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Fuel System, Tank Filling from Other Tank",
+      "impact": "The failure of the fuel system can cause fuel to overflow from one tank to another, leading to fuel spillage and a fire hazard.",
+      "symptoms": [
+        "Fuel spillage",
+        "fuel overflow from one tank to another",
+        "fuel pump failure."
+      ],
+      "odiNumbers": [
+        "10366908",
+        "10172552",
+        "10133592",
+        "10125707",
+        "10105317",
+        "10097451",
+        "10071475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Check Valve Failure",
+      "impact": "The failure of the check valve can cause fuel to leak from the fuel tank, leading to a fire hazard or environmental damage.",
+      "symptoms": [
+        "Fuel leakage",
+        "fuel spillage",
+        "check valve failure."
+      ],
+      "odiNumbers": [
+        "10207526",
+        "10178836",
+        "10131421",
+        "10104392",
+        "10094941",
+        "10079774",
+        "10062610"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The malfunction of the fuel gauge can cause the driver to be unaware of the fuel level, leading to fuel starvation or fuel spillage.",
+      "symptoms": [
+        "Fuel gauge malfunction",
+        "incorrect fuel level reading."
+      ],
+      "odiNumbers": [
+        "10234003",
+        "10104522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure (Alternator, Wiring Harness, and Ignition Switch)",
+      "impact": "The failure of the electrical system can cause fires, which can lead to accidents, injuries, and fatalities. It can also cause the vehicle to stall or lose power, leading to loss of control and potential accidents.",
+      "symptoms": [
+        "Burning smell",
+        "smoke",
+        "or flames from the engine compartment",
+        "dashboard",
+        "or under the hood; electrical issues",
+        "such as faulty alternators",
+        "wiring harness failures",
+        "and ignition switch problems; vehicle stalling or losing power; inability to start the vehicle."
+      ],
+      "odiNumbers": [
+        "10165321",
+        "766229",
+        "8014161",
+        "8013477",
+        "759574",
+        "749449",
+        "746735",
+        "734528",
+        "729582",
+        "869069",
+        "863350",
+        "861441",
+        "859291",
+        "718369",
+        "855718",
+        "854876",
+        "851088",
+        "548920",
+        "838538",
+        "835853",
+        "825163",
+        "823996",
+        "535529",
+        "820600",
+        "815185",
+        "813897"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clutch Pedal Issues (Concentric Slave Cylinder and Clutch Master Cylinder Failure)",
+      "impact": "The failure of the clutch pedal can cause the vehicle to lose power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Clutch pedal feels soft or spongy",
+        "clutch pedal sticks to the floor",
+        "clutch pedal does not return to its normal position",
+        "clutch pedal has a delayed return to its normal position",
+        "clutch pedal has a sudden loss of pressure",
+        "vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "10222059",
+        "11327498",
+        "10894359",
+        "10876259",
+        "10790783",
+        "10790334",
+        "10763771",
+        "10734988",
+        "10730600",
+        "10726352",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Line Failure",
+      "impact": "The failure of brake lines can cause brake fluid leaks, leading to a loss of braking ability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Brake pedal travels to the floor",
+        "brake fluid leaks",
+        "brakes fail to stop the vehicle",
+        "vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "10065368",
+        "8016496",
+        "8022239"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can cause the brakes to lock up, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "ABS and parking brake lights remain on",
+        "brakes lock up",
+        "vibration or pulsation when braking",
+        "poor brake performance in wet conditions."
+      ],
+      "odiNumbers": [
+        "713426",
+        "813398",
+        "809407",
+        "962780",
+        "802467",
+        "981359",
+        "980485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Pad and Rotor Wear",
+      "impact": "Excessive wear on brake pads and rotors can lead to reduced braking ability, increased stopping distances, and accidents.",
+      "symptoms": [
+        "Frequent replacement of brake pads and rotors",
+        "vibration or wobble when braking",
+        "noisy brakes."
+      ],
+      "odiNumbers": [
+        "535470",
+        "511828",
+        "505152",
+        "982790",
+        "975193",
+        "487896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fluid Overheating",
+      "impact": "Overheating of brake fluid can cause a loss of braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake fluid overheats",
+        "brake pedal travels to the floor",
+        "brakes fail to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "539725",
+        "810209",
+        "980485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "Failure of brake calipers can cause reduced braking ability, leading to accidents or injuries.",
+      "symptoms": [
+        "Brake calipers need to be replaced frequently",
+        "brakes fail to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "535470",
+        "487896"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

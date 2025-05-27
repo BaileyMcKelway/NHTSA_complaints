@@ -1,0 +1,128 @@
+{
+  "totalComplaints": 38,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "AIR BAGS",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Anti-Lock Braking System (ABS) Failure",
+      "impact": "ABS failure can lead to loss of control, accidents, and injuries, as the vehicle may not be able to stop or slow down properly, especially in emergency braking situations.",
+      "symptoms": [
+        "ABS failure",
+        "brakes locking up",
+        "spongy brake pedal",
+        "brake fluid with metal shavings",
+        "corrosion in the brake system",
+        "master cylinder malfunction",
+        "brake failure",
+        "and premature wear of rear brakes."
+      ],
+      "odiNumbers": [
+        "743856",
+        "539696",
+        "537123",
+        "535620",
+        "532827",
+        "800460",
+        "986899",
+        "977759",
+        "970484",
+        "473047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Master Cylinder Failure",
+      "impact": "Master cylinder failure can cause the brakes to feel spongy, leading to a loss of braking power and increased stopping distances, which can result in accidents and injuries.",
+      "symptoms": [
+        "Spongy brake pedal",
+        "brake fluid with metal shavings",
+        "corrosion in the brake system",
+        "and brake failure."
+      ],
+      "odiNumbers": [
+        "535620",
+        "532827",
+        "473047"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Fluid Contamination",
+      "impact": "Contaminated brake fluid can cause corrosion in the brake system, leading to premature wear of brake components, and potentially causing brake failure.",
+      "symptoms": [
+        "Brake fluid with metal shavings",
+        "corrosion in the brake system",
+        "and brake failure."
+      ],
+      "odiNumbers": [
+        "532827",
+        "970484"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Wear of Rear Brakes",
+      "impact": "Premature wear of rear brakes can lead to reduced braking power and increased stopping distances, which can result in accidents and injuries.",
+      "symptoms": [
+        "Premature wear of rear brakes."
+      ],
+      "odiNumbers": [
+        "485769"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Airbag Deployment",
+      "impact": "Unintended airbag deployment can cause accidents, injuries, and distractions while driving, potentially leading to serious consequences.",
+      "symptoms": [
+        "Airbags deploy without warning",
+        "airbags deploy due to minor impacts or road irregularities",
+        "airbags deploy while waiting at a stop sign",
+        "airbags deploy while driving at low speeds."
+      ],
+      "odiNumbers": [
+        "8008277",
+        "852989",
+        "831926",
+        "801266",
+        "985593",
+        "968187",
+        "480060"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Inoperative Seatbelts",
+      "impact": "The failure of seatbelts to respond to a forceful break or releasing upon impact can lead to serious injuries or fatalities in the event of an accident, compromising the safety of vehicle occupants.",
+      "symptoms": [
+        "Seatbelts fail to respond to a forceful break",
+        "seatbelts release upon impact",
+        "failure to restrain occupants during an accident."
+      ],
+      "odiNumbers": [
+        "10056468",
+        "719489",
+        "812061",
+        "812030"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

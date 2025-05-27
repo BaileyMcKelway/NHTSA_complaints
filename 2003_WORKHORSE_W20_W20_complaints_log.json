@@ -1,0 +1,74 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 1,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Caliper Failure",
+      "impact": "The failure of the brake caliper can cause the brakes to overheat, leading to brake fluid boiling, and potentially resulting in brake failure, accidents, or leaving the driver stranded.",
+      "symptoms": [
+        "Rear brake rotors overheating",
+        "brake fluid boiling",
+        "ABS light coming on",
+        "brake pedal going to the floor",
+        "wheels feeling hot to the touch",
+        "burning smell coming from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "10262913",
+        "10262068",
+        "10259068",
+        "10239439",
+        "10233626",
+        "10225639",
+        "10220759",
+        "10213573",
+        "10205270",
+        "10201867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Fluid Overheating",
+      "impact": "Overheating brake fluid can cause the brake system to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Brake fluid boiling",
+        "brake pedal going to the floor",
+        "wheels feeling hot to the touch",
+        "burning smell coming from the rear of the vehicle."
+      ],
+      "odiNumbers": [
+        "10262913",
+        "10239439",
+        "10233626",
+        "10225639",
+        "10220759",
+        "10201867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause the brakes to fail, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Brake pedal going to the floor",
+        "brake pedal feeling soft or spongy",
+        "brake fluid boiling."
+      ],
+      "odiNumbers": [
+        "10201867",
+        "10056768"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

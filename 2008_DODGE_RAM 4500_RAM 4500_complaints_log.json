@@ -1,0 +1,94 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 2,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "SUSPENSION"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Tie Rod Failure",
+      "impact": "The failure of the steering tie rod can cause loss of vehicle control, leading to accidents or near-misses, especially at low speeds.",
+      "symptoms": [
+        "The steering wheel becomes unstable",
+        "the vehicle pulls to one side",
+        "the tie rod ball stud shears off",
+        "the steering becomes unresponsive."
+      ],
+      "odiNumbers": [
+        "10664504",
+        "10628317",
+        "10628321",
+        "10386222"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Power Steering Pulley Failure",
+      "impact": "The failure of the power steering pulley can cause loss of power steering assist, leading to increased steering effort and potential loss of control.",
+      "symptoms": [
+        "The power steering pulley comes off",
+        "the steering becomes difficult",
+        "the brakes may fail."
+      ],
+      "odiNumbers": [
+        "10443365"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Delayed or Unavailable Recall Repairs",
+      "impact": "The delay or unavailability of recall repairs can leave vehicles with potentially hazardous conditions on the road, putting drivers and passengers at risk.",
+      "symptoms": [
+        "The dealer advises that the necessary parts are not available",
+        "the repair is delayed",
+        "the manufacturer is unable to provide a reasonable timeframe for the repair."
+      ],
+      "odiNumbers": [
+        "10578858",
+        "10578170",
+        "10397297"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Premature Ball Joint Failure",
+      "impact": "The premature failure of the ball joint can cause the front end of the vehicle to collapse, leading to loss of control, accidents, and potentially serious injuries or fatalities.",
+      "symptoms": [
+        "The front end of the vehicle suddenly falls or sags",
+        "the vehicle is unsafe to drive",
+        "the ball joint is worn or damaged at a low mileage",
+        "the tire is damaged due to ball joint failure."
+      ],
+      "odiNumbers": [
+        "10746290",
+        "10330766"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Delayed or Unavailable Repair Parts for Recall Repairs",
+      "impact": "The unavailability of repair parts for recall repairs can leave vehicles in an unsafe condition for an extended period, putting drivers and passengers at risk.",
+      "symptoms": [
+        "Long wait times for repair parts",
+        "inability to repair vehicle due to part unavailability",
+        "fear of driving the vehicle due to safety concerns."
+      ],
+      "odiNumbers": [
+        "10746290"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

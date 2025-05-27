@@ -1,0 +1,129 @@
+{
+  "totalComplaints": 41,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "STEERING",
+    "ELECTRICAL SYSTEM",
+    "SEAT BELTS"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Steering Failure",
+      "impact": "Power steering failure can cause the vehicle to become difficult to steer, leading to loss of control, accidents, or injuries. In extreme cases, it can also cause the steering system to lock, making it impossible to steer the vehicle.",
+      "symptoms": [
+        "Excessive effort needed to turn the steering wheel",
+        "difficulty turning the steering wheel",
+        "steering wheel locks in position",
+        "power steering failure",
+        "cold power steering",
+        "steering becomes difficult to turn in cold weather."
+      ],
+      "odiNumbers": [
+        "865669",
+        "525613",
+        "509848",
+        "972040",
+        "485350",
+        "482476",
+        "962314",
+        "961678",
+        "481247",
+        "478702",
+        "478831",
+        "476967",
+        "476485"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering Rack Failure",
+      "impact": "Steering rack failure can cause the vehicle to lose steering control, leading to accidents or injuries. It can also cause the steering system to leak fluid, leading to further damage to the system.",
+      "symptoms": [
+        "Steering rack leaks fluid",
+        "replacement of steering rack required",
+        "steering system locks in position."
+      ],
+      "odiNumbers": [
+        "961678"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "A-Frame Failure",
+      "impact": "A-frame failure can cause the steering system to become loose, leading to loss of control, accidents, or injuries.",
+      "symptoms": [
+        "Lower A-frame breaks",
+        "mount where the A-frame bolts in cracks",
+        "steering becomes loose."
+      ],
+      "odiNumbers": [
+        "865669"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "Electrical system failure can cause the vehicle to stall, leading to a loss of control, and in some cases, result in a fire, which can lead to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle stalls",
+        "smoke comes from the dashboard",
+        "fire occurs under the dashboard",
+        "the vehicle will not start",
+        "especially on an incline."
+      ],
+      "odiNumbers": [
+        "971378",
+        "969620",
+        "968471",
+        "964890",
+        "959841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Ignition System Failure",
+      "impact": "Ignition system failure can cause the vehicle to stall, leading to a loss of control, and may also cause difficulty starting the vehicle.",
+      "symptoms": [
+        "The vehicle stalls",
+        "the vehicle has difficulty starting",
+        "the ignition coil/distributor module fails."
+      ],
+      "odiNumbers": [
+        "963229",
+        "959841"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Seat Belt Failure",
+      "impact": "The failure of the seat belt can lead to ejection from the vehicle, resulting in serious injuries or fatalities, even in low-speed collisions.",
+      "symptoms": [
+        "The seat belt disengages during a collision",
+        "the seat belt webbing tears or splits",
+        "the shoulder belt fails to restrain the driver",
+        "the seat belt does not retract properly."
+      ],
+      "odiNumbers": [
+        "818519",
+        "818448",
+        "523846",
+        "978506",
+        "971974"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

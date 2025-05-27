@@ -1,0 +1,166 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "PARKING BRAKE",
+    "UNKNOWN OR OTHER",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Power Train Recall Repair Delay",
+      "impact": "The delay in providing parts for the recall repair can leave the vehicle in an unsafe condition, potentially causing accidents or stranding the driver.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the delay in providing parts for the recall repair."
+      ],
+      "odiNumbers": [
+        "11496409",
+        "11481330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Reimbursement Dispute for Recall Repair",
+      "impact": "The dispute over reimbursement for recall repair can lead to financial losses for the vehicle owner and affect their trust in the manufacturer.",
+      "symptoms": [
+        "None reported",
+        "as the issue is related to the reimbursement dispute."
+      ],
+      "odiNumbers": [
+        "11481330"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Loss of Power and Mobility",
+      "impact": "The sudden loss of power and mobility can cause accidents or leave the driver stranded, potentially leading to injuries or fatalities.",
+      "symptoms": [
+        "The motorcycle loses ability to move under its own power",
+        "no response to throttle."
+      ],
+      "odiNumbers": [
+        "11471468"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake Failure to Release",
+      "impact": "The failure of the parking brake to release can cause the vehicle to become stuck, making it difficult or impossible to move, which can lead to safety risks and inconvenience.",
+      "symptoms": [
+        "The parking brake will not release",
+        "the vehicle is unable to move",
+        "the parking brake must be manually disengaged to get the vehicle to move",
+        "the vehicle is stuck in a stationary position."
+      ],
+      "odiNumbers": [
+        "11481666",
+        "11481667",
+        "11361362"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Parking Brake Motor Failure",
+      "impact": "The failure of the parking brake motor can cause the parking brake to seize, leading to a loss of vehicle control, especially on inclined surfaces, which can increase the risk of accidents or rollaways.",
+      "symptoms": [
+        "The parking brake is inoperable",
+        "the parking brake seizes",
+        "the brake warning light is illuminated."
+      ],
+      "odiNumbers": [
+        "11515583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Expired Technical Service Bulletin (TSB) for Parking Brake Motor Failure",
+      "impact": "The expiration of a TSB for parking brake motor failure can leave vehicle owners without a clear solution or repair, potentially leading to continued safety risks and financial burdens.",
+      "symptoms": [
+        "The manufacturer's TSB for parking brake motor failure has expired",
+        "leaving the vehicle owner without a clear solution or repair."
+      ],
+      "odiNumbers": [
+        "11515583"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Transmission Fault and Stalling Issues",
+      "impact": "The transmission fault can cause the vehicle to stall while driving, resulting in a loss of power and control, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "begins shaking",
+        "and remains in the last gear prior to the stall; the gear display does not change from the gear it was last in when the bike stalled out; the orange exclamation point (!) appears on the lower left corner of the display",
+        "indicating a vehicle malfunction; the transmission fault message flashes on the display; the vehicle loses power to the throttle and shifting."
+      ],
+      "odiNumbers": [
+        "11488634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Vehicle Malfunction and Error Codes",
+      "impact": "The vehicle malfunction can cause the display to show error codes, including the transmission fault message, which can be a sign of a more serious underlying issue, potentially leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The display shows an orange exclamation point (!) indicating a vehicle malfunction; the transmission fault message flashes on the display; the display shows the last gear the bike was in prior to stalling; the vehicle loses power to the throttle and shifting."
+      ],
+      "odiNumbers": [
+        "11488634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Faulty Vehicle Control Module (VCM) and Hydraulic Control Module (HCM)",
+      "impact": "The faulty VCM and HCM can cause transmission faults, stalling, and loss of power, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "The vehicle stalls while driving",
+        "begins shaking",
+        "and remains in the last gear prior to the stall; the gear display does not change from the gear it was last in when the bike stalled out; the orange exclamation point (!) appears on the lower left corner of the display",
+        "indicating a vehicle malfunction; the transmission fault message flashes on the display."
+      ],
+      "odiNumbers": [
+        "11488634"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Gear Shift Paddle",
+      "impact": "The malfunctioning gear shift paddle can cause difficulty or failure to downshift, leading to loss of control, especially on corners, and increasing the risk of accidents.",
+      "symptoms": [
+        "The gear shift paddle is unresponsive",
+        "requires excessive force to downshift",
+        "fails to manually change gears",
+        "causes the vehicle to \"coast\" in high gear",
+        "and can lead to stalling."
+      ],
+      "odiNumbers": [
+        "11467522"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

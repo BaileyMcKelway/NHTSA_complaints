@@ -1,0 +1,96 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN",
+    "SERVICE BRAKES",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Speedometer Failure",
+      "impact": "The inaccurate speedometer reading can cause the rider to misjudge their speed, leading to potential accidents or traffic violations.",
+      "symptoms": [
+        "The speedometer displays an incorrect speed",
+        "often lower than the actual speed."
+      ],
+      "odiNumbers": [
+        "10253138",
+        "10253136"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Failure (Stator Failure)",
+      "impact": "The failure of the electrical system can cause the engine to stall, leading to a loss of power and potential accidents.",
+      "symptoms": [
+        "The engine dies",
+        "the headlights fail",
+        "the electronic speedometer and display go blank",
+        "the charging system voltage drops."
+      ],
+      "odiNumbers": [
+        "10166969",
+        "10159768",
+        "10127349"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Starter Failure",
+      "impact": "The failure of the starter can cause the engine to fail to start, leaving the rider stranded.",
+      "symptoms": [
+        "The starter fails",
+        "the battery does not charge",
+        "the engine eventually dies."
+      ],
+      "odiNumbers": [
+        "10179224"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Gear Fork Failure",
+      "impact": "The failure of the transmission gear fork can cause the transmission to lock up, leading to loss of control, accidents, and damage to the transmission.",
+      "symptoms": [
+        "Grinding noise in 6th gear",
+        "transmission locks up while riding",
+        "difficulty shifting into gear",
+        "grinding noise when shifting into gear",
+        "only certain gears (e.g.",
+        "5th gear) are operational."
+      ],
+      "odiNumbers": [
+        "10128057",
+        "10126683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unavailability of Spare Parts for Speedometer Repair",
+      "impact": "The unavailability of spare parts for speedometer repair can lead to prolonged downtime of the vehicle, causing inconvenience to the owner and potentially affecting safety if the speedometer is not functioning properly.",
+      "symptoms": [
+        "The speedometer is not functioning",
+        "the motorcycle is inoperable due to a faulty speedometer",
+        "the owner is unable to obtain the necessary parts for repair",
+        "conflicting information from the manufacturer and dealer regarding part availability."
+      ],
+      "odiNumbers": [
+        "10089332"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

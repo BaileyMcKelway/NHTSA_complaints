@@ -1,0 +1,100 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "SERVICE BRAKES",
+    "SEATS",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration",
+      "impact": "Unintended acceleration can cause loss of vehicle control, leading to accidents, injuries, and fatalities. This issue is particularly hazardous when towing a vehicle, as it can make it difficult to stop.",
+      "symptoms": [
+        "The engine RPM suddenly increases to high levels (up to 1700 RPM)",
+        "the throttle sticks",
+        "and the vehicle accelerates unexpectedly",
+        "making it difficult to control",
+        "especially when entering a driveway or towing a vehicle."
+      ],
+      "odiNumbers": [
+        "831602",
+        "980590"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Rear Axle Seal Failure Affecting ABS Braking System",
+      "impact": "The failure of the rear axle seal can cause the ABS braking system to become inoperative, leading to extended stopping distances, wheel lockup, and loss of vehicle control, which can result in accidents and injuries.",
+      "symptoms": [
+        "The vehicle's ABS braking system becomes inoperative",
+        "the vehicle takes longer to stop",
+        "the wheels lock up",
+        "the vehicle slides or skids while braking",
+        "the brakes feel spongy or soft",
+        "the vehicle crashes or loses control."
+      ],
+      "odiNumbers": [
+        "809533",
+        "807355",
+        "805107"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver Seat Malfunction",
+      "impact": "The unexpected reclining of the driver seat while driving can cause loss of steering and control over the vehicle, leading to accidents or near-miss incidents.",
+      "symptoms": [
+        "The driver seat suddenly reclines or moves while driving",
+        "causing the driver to lose control of the vehicle",
+        "loss of steering",
+        "and potential accidents."
+      ],
+      "odiNumbers": [
+        "980511",
+        "980511"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Rear Seat Instability",
+      "impact": "A loose rear seat can cause discomfort, distraction, and potentially lead to accidents or injuries, especially in the event of sudden stops or sharp turns.",
+      "symptoms": [
+        "The rear seat feels loose or unstable",
+        "the rear seat moves excessively while driving",
+        "the rear seat does not remain in its fixed position."
+      ],
+      "odiNumbers": [
+        "959530"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Injection Pump Failure",
+      "impact": "The failure of the fuel injection pump can cause the engine to shut down and lose power, leading to a loss of vehicle control and potential accidents.",
+      "symptoms": [
+        "The engine stalls intermittently",
+        "the engine shuts down and loses power while driving",
+        "the vehicle requires bleeding of the pump to start",
+        "the fuel injection pump needs to be adjusted or replaced multiple times."
+      ],
+      "odiNumbers": [
+        "526420",
+        "819055"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

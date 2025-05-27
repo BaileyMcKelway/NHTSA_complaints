@@ -1,0 +1,78 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "VEHICLE SPEED CONTROL",
+    "AIR BAGS",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Sudden Unintended Acceleration (Cruise Control and Throttle System Failure)",
+      "impact": "Sudden unintended acceleration can cause loss of vehicle control, accidents, and injuries, especially when the vehicle is traveling at high speeds.",
+      "symptoms": [
+        "The vehicle suddenly accelerates beyond the set cruise control speed",
+        "the engine revs up excessively",
+        "the brakes are ineffective in stopping the vehicle",
+        "the vehicle continues to accelerate even when the transmission is in park or neutral."
+      ],
+      "odiNumbers": [
+        "10019832",
+        "870372",
+        "813160",
+        "972490"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unwanted Airbag Deployment",
+      "impact": "Unwanted airbag deployment can cause unexpected and potentially dangerous situations, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Airbag deploys without any apparent reason",
+        "airbag deploys without any crash or impact",
+        "sudden and unexpected airbag deployment."
+      ],
+      "odiNumbers": [
+        "10251893"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Failure of Airbag to Deploy",
+      "impact": "Failure of airbags to deploy in the event of a crash can increase the risk of injury or fatality to occupants, compromising vehicle safety.",
+      "symptoms": [
+        "Airbag does not deploy during a crash",
+        "airbag does not deploy during a front-end collision",
+        "airbag does not deploy despite sensor activation."
+      ],
+      "odiNumbers": [
+        "966229"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Loose or Faulty Under-Steering Column Trim Panel",
+      "impact": "The loose or faulty under-steering column trim panel can cause a distraction while driving, potentially leading to accidents or loss of control, as the driver's feet may get caught under the panel, making it difficult to operate the pedals.",
+      "symptoms": [
+        "The under-steering column trim panel falls onto the driver's feet while driving",
+        "the panel does not stay in place",
+        "the driver's feet get caught under the panel",
+        "the driver needs to pull over to adjust the panel",
+        "the panel does not lock into its designated position."
+      ],
+      "odiNumbers": [
+        "10162706"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

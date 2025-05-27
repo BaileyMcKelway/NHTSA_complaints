@@ -1,0 +1,77 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SUSPENSION",
+    "STEERING",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Arm Failure",
+      "impact": "The failure of the steering arm can cause the vehicle to become undrivable, leading to accidents or stranding the driver.",
+      "symptoms": [
+        "The steering arm breaks off from the ball joint",
+        "making the vehicle undrivable."
+      ],
+      "odiNumbers": [
+        "10166905"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Steer Tire Wear",
+      "impact": "Premature wear on steer tires can lead to reduced traction, increased stopping distance, and increased risk of accidents.",
+      "symptoms": [
+        "Abnormal wear on steer tires",
+        "premature replacement of steer tires",
+        "wheel hop",
+        "improper combination of race/bearings in Meritor axles."
+      ],
+      "odiNumbers": [
+        "565379",
+        "565916",
+        "560201"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Defective Drag Link and Tie Rod Failure",
+      "impact": "The failure of the drag link and tie rod can cause loss of steering control, leading to accidents, injuries, and fatalities.",
+      "symptoms": [
+        "Loss of steering control",
+        "vehicle veers off the road",
+        "difficulty steering",
+        "unusual noises while steering."
+      ],
+      "odiNumbers": [
+        "10362272",
+        "10166959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Debris from Unsecured Loads",
+      "impact": "Unsecured loads on trailers can cause debris to fall off and hit other vehicles, potentially causing accidents, injuries, or fatalities.",
+      "symptoms": [
+        "Debris from unsecured loads on trailers",
+        "such as metal or canvas signs",
+        "can fall off and hit other vehicles",
+        "causing damage or accidents."
+      ],
+      "odiNumbers": [
+        "10190041"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

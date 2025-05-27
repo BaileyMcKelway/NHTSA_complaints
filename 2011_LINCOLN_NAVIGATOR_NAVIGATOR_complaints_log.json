@@ -1,0 +1,140 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "POWER TRAIN",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "VISIBILITY/WIPER",
+    "SERVICE BRAKES"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Transmission Downshift",
+      "impact": "The unintended transmission downshift can cause the vehicle to lose control, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The transmission randomly shifts from a higher gear to a lower gear (e.g.",
+        "6th to 2nd or 1st)",
+        "causing the vehicle to skid out of control",
+        "spin",
+        "or lose power; the engine RPM increases rapidly; the vehicle may stall or hesitate."
+      ],
+      "odiNumbers": [
+        "11388755",
+        "10957797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Software Issue",
+      "impact": "The transmission software issue can cause the vehicle to experience unintended loss of transmission output speed censor signal, potentially leading to temporary unintended downshifts to first gear, which can result in loss of vehicle control.",
+      "symptoms": [
+        "The transmission downshifts unexpectedly",
+        "the vehicle hesitates or stalls",
+        "the engine RPM increases rapidly",
+        "the vehicle may skid or lose control."
+      ],
+      "odiNumbers": [
+        "11388755"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Wheel Lock-Up",
+      "impact": "The sudden wheel lock-up can cause the vehicle to lose control, potentially leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The wheels suddenly lock without warning",
+        "the vehicle may skid or lose control",
+        "the transmission may hesitate or stall."
+      ],
+      "odiNumbers": [
+        "10957797"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Driver's Side Window Malfunction",
+      "impact": "The intermittent failure of the driver's side window to roll up can cause inconvenience, distraction, and potential safety risks, especially in bad weather or emergency situations.",
+      "symptoms": [
+        "The driver's side window does not always roll up after being rolled down",
+        "the window works better when the vehicle is in motion",
+        "the window rolls up in small increments."
+      ],
+      "odiNumbers": [
+        "11058407"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Automatic Climate Control Fan Malfunction",
+      "impact": "The intermittent failure of the fan in automatic mode can cause discomfort, distraction, and potential health risks, especially in extreme temperatures.",
+      "symptoms": [
+        "The fan stops working in automatic mode when high speed is required",
+        "the fan may work again after several minutes",
+        "the system is more reliable when controlled manually",
+        "the issue has occurred multiple times since 2011."
+      ],
+      "odiNumbers": [
+        "10934386"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Odometer Discrepancy",
+      "impact": "An inaccurate odometer reading can lead to a lack of trust in the vehicle's mileage, potentially affecting its resale value, and may also cause issues with warranty claims or maintenance scheduling.",
+      "symptoms": [
+        "The odometer reading does not match the actual mileage",
+        "the odometer reading is inconsistent or fluctuates",
+        "the odometer reading is stuck or frozen."
+      ],
+      "odiNumbers": [
+        "11143343"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Spontaneous Rear Vent Window Shattering",
+      "impact": "The sudden shattering of the rear vent window can cause a loud noise, distractions, and potentially injure occupants with shattered glass, leading to accidents or loss of control.",
+      "symptoms": [
+        "The rear vent window shatters or explodes inward into the cabin without any apparent reason or external influence",
+        "often accompanied by a loud noise."
+      ],
+      "odiNumbers": [
+        "11082436"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Brake Fluid Leak into Engine",
+      "impact": "A brake fluid leak into the engine can cause catastrophic engine damage, leading to costly repairs or even engine replacement, and potentially causing accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Sudden loss of brake pedal resistance",
+        "E-brake light illumination",
+        "error message indicating low brake fluid",
+        "white smoke from the exhaust",
+        "engine knocking or loud noises."
+      ],
+      "odiNumbers": [
+        "10959122"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

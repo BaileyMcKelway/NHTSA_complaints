@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 12,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "AIR BAGS",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 6,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Footwell Control Module Failure",
+      "impact": "The failure of the footwell control module can cause multiple electrical systems to malfunction, including lights, windows, and safety features, which can lead to accidents, fires, or leave the driver stranded.",
+      "symptoms": [
+        "The brake lights",
+        "instrument panel illumination",
+        "blinkers",
+        "emergency flashers",
+        "headlights",
+        "tail running lights",
+        "overhead lights",
+        "door edge lights",
+        "foot cabin lights",
+        "windows",
+        "fuel cap lock",
+        "LED interior lights",
+        "and OBD system may become inoperable or malfunction. The passenger airbag may also malfunction."
+      ],
+      "odiNumbers": [
+        "11546474",
+        "11487831",
+        "11065846"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Electrical System Fires",
+      "impact": "Electrical system fires can occur when the vehicle is unoccupied and all devices are off, which can cause significant damage to the vehicle and pose a risk to people and property.",
+      "symptoms": [
+        "The vehicle may catch on fire",
+        "with flames erupting from the dashboard and footwell area",
+        "causing smoke damage to the interior and potentially leading to a total loss of the vehicle."
+      ],
+      "odiNumbers": [
+        "11487831"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Sun Roof Drain Hose Failure",
+      "impact": "The failure of the sun roof drain hose can cause water to flood the electrical control box and floor, leading to electrical system malfunctions and potentially causing accidents or stalling the vehicle.",
+      "symptoms": [
+        "Water may pour down the front pillar",
+        "flooding the electrical control box and floor",
+        "causing the vehicle to lose power and stall."
+      ],
+      "odiNumbers": [
+        "10859916"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Faulty Passenger Airbag Sensor",
+      "impact": "The failure of the passenger airbag sensor can cause the airbag warning light to illuminate, indicating that the airbag may not deploy in the event of an accident, which can increase the risk of injury or fatality.",
+      "symptoms": [
+        "The passenger airbag warning light remains on",
+        "the airbag warning light flashes",
+        "the airbag system is disabled",
+        "the airbag will not deploy in the event of an accident."
+      ],
+      "odiNumbers": [
+        "11427489",
+        "11171290",
+        "11024205",
+        "10983541",
+        "10898472"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a loss of vehicle control, making it difficult to steer or accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The steering wheel becomes difficult to turn",
+        "the accelerator pedal fails to respond",
+        "the instrument panel gauges go blank",
+        "windows malfunction and move up and down without warning."
+      ],
+      "odiNumbers": [
+        "10713867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Battery Failure",
+      "impact": "A faulty battery can cause electrical system failures, leading to a loss of vehicle control, making it difficult to steer or accelerate, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The vehicle experiences electrical system failures",
+        "such as difficulty turning the steering wheel",
+        "unresponsive accelerator pedal",
+        "and blank instrument panel gauges."
+      ],
+      "odiNumbers": [
+        "10713867"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

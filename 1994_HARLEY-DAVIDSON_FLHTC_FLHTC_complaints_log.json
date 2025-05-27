@@ -1,0 +1,52 @@
+{
+  "totalComplaints": 8,
+  "numberOfFilteredComplaintMapKeys": 1,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 2,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Failure",
+      "impact": "The failure of the ignition switch can cause the motorcycle to lose power, stall, or shut off while driving, which can lead to accidents or leave the rider stranded.",
+      "symptoms": [
+        "The ignition switch locks up",
+        "the motorcycle will not start",
+        "the engine shuts off as if the ignition was shut off",
+        "loss of vehicle power",
+        "the ignition switch comes apart or breaks inside."
+      ],
+      "odiNumbers": [
+        "545389",
+        "836052",
+        "829668",
+        "827922",
+        "825401",
+        "523088",
+        "817123",
+        "813387"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed or Unavailable Recall Repairs for Ignition Switch",
+      "impact": "The lack of available parts for recall repairs can leave the motorcycle in an unsafe condition, putting the rider at risk of accidents or strandings.",
+      "symptoms": [
+        "Recall part is on backorder",
+        "part has not been available for an extended period",
+        "dealership does not have parts available",
+        "dealership is unsure when parts will become available."
+      ],
+      "odiNumbers": [
+        "836052",
+        "829668",
+        "827922"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

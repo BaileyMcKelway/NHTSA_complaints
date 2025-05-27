@@ -1,0 +1,122 @@
+{
+  "totalComplaints": 9,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "SEAT BELTS",
+    "STEERING",
+    "SEATS",
+    "SUSPENSION",
+    "UNKNOWN OR OTHER"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Defective Passenger Seat Sensor",
+      "impact": "A faulty passenger seat sensor can cause false alerts and warnings, leading to driver distraction and potentially increasing the risk of accidents.",
+      "symptoms": [
+        "The passenger seat belt warning light or alert is triggered even when the seat is empty",
+        "the system incorrectly detects an unbuckled passenger seat belt",
+        "the warning persists despite no one being in the passenger seat."
+      ],
+      "odiNumbers": [
+        "11520360",
+        "11057276"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Steering Column Motor Failure",
+      "impact": "The failure of the steering column motor can cause the steering wheel to stick in an elevated position, forcing the driver to hold the wheel in an uncomfortable and potentially unsafe position, which can lead to driver fatigue and increased risk of accidents.",
+      "symptoms": [
+        "The steering wheel is stuck in the highest position and refuses to move downward when using the adjustment button",
+        "requiring the driver to hold the wheel in an elevated position."
+      ],
+      "odiNumbers": [
+        "11057277"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Active Lane Keeping Assistant Malfunction",
+      "impact": "The malfunction of the Active Lane Keeping Assistant can cause the vehicle to veer out of its lane, potentially towards oncoming traffic or obstacles, which can lead to accidents and injuries. The inconsistent behavior of the system can also cause driver stress and fatigue.",
+      "symptoms": [
+        "The vehicle veers out of its lane without warning",
+        "even when lane markings are clear and system requirements are met",
+        "occurring at both high and low speeds."
+      ],
+      "odiNumbers": [
+        "11047830"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Occupant Detection System (ODS)",
+      "impact": "The faulty ODS can lead to false seatbelt warnings, causing unnecessary distractions and potentially leading to accidents. It can also lead to unnecessary repairs and maintenance costs.",
+      "symptoms": [
+        "The front passenger seatbelt indicator is triggered even when the seat is empty",
+        "the indicator is triggered by objects placed on the passenger seat",
+        "such as a book or a bag",
+        "the indicator is triggered by vibrations or movements near the passenger seat."
+      ],
+      "odiNumbers": [
+        "11523427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Sensitive Seatbelt Sensor",
+      "impact": "The overly sensitive seatbelt sensor can cause false seatbelt warnings, leading to driver distraction and potential accidents.",
+      "symptoms": [
+        "The seatbelt indicator is triggered by minor movements or vibrations near the passenger seat",
+        "the indicator is triggered by objects placed on the passenger seat",
+        "the indicator is triggered by tapping on the side of the console next to the passenger seat."
+      ],
+      "odiNumbers": [
+        "11523427"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lower Control Arm Failure",
+      "impact": "The sudden failure of the lower control arm can cause loss of steering control, leading to accidents, injuries, or fatalities, especially at high speeds.",
+      "symptoms": [
+        "Loud metal crackling noise",
+        "sudden loss of steering control",
+        "vehicle swerves or pulls to one side",
+        "difficulty maintaining control of the vehicle",
+        "possible ABS system activation."
+      ],
+      "odiNumbers": [
+        "11418930"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Collision Avoidance System Failure",
+      "impact": "The failure of the collision avoidance system can lead to a lack of warning or intervention in emergency situations, increasing the risk of accidents and injuries.",
+      "symptoms": [
+        "The system displays an \"unavailable\" or \"fault\" message",
+        "failure to provide warning or intervention in emergency situations",
+        "inconsistent or unreliable system performance."
+      ],
+      "odiNumbers": [
+        "11337400"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

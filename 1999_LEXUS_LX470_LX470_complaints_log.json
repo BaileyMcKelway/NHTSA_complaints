@@ -1,0 +1,66 @@
+{
+  "totalComplaints": 14,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "STRUCTURE",
+    "TIRES"
+  ],
+  "parsedComplaintsResultLength": 3,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 4,
+      "issueCategory": "ABS Accumulator Pump Failure",
+      "impact": "The failure of the ABS accumulator pump can cause a sudden loss of power brakes, leading to accidents or near-misses, especially at high speeds.",
+      "symptoms": [
+        "The ABS and brake lights illuminate on the dashboard",
+        "accompanied by an audible alarm or buzzing noise; the brake pedal goes to the floor with minimal or no braking effect; the vehicle may vibrate while braking."
+      ],
+      "odiNumbers": [
+        "10767311",
+        "10763675",
+        "10743896",
+        "10344192",
+        "10017106"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Frame Corrosion/Rust",
+      "impact": "Severe corrosion of the vehicle's frame can compromise the structural integrity of the vehicle, making it unsafe to drive and potentially leading to accidents or injuries.",
+      "symptoms": [
+        "Rust or corrosion on the frame",
+        "subframe",
+        "or stabilizer bracket connections",
+        "loose or detached stabilizer bars",
+        "uneven or sagging vehicle stance."
+      ],
+      "odiNumbers": [
+        "11461192",
+        "10340244"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Tire Failure and Instability",
+      "impact": "Tire failure can lead to loss of vehicle control, accidents, and potentially serious injuries or fatalities. Unstable tires can also cause uneven tire wear, reduced traction, and decreased vehicle performance.",
+      "symptoms": [
+        "Tire blowout",
+        "sidewall failure",
+        "unstable ride",
+        "vibration while driving",
+        "uneven tire wear."
+      ],
+      "odiNumbers": [
+        "10087528",
+        "10083076"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

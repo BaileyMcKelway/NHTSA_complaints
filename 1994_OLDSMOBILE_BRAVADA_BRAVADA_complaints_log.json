@@ -1,0 +1,225 @@
+{
+  "totalComplaints": 103,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Brake System Failure",
+      "impact": "The failure of the ABS brake system can cause extended stopping distances, increased risk of accidents, and loss of vehicle control.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake pedal is hard to press",
+        "extended stopping distance",
+        "brakes fail to stop the vehicle",
+        "ABS light blinks or stays on",
+        "engine turns off while trying to stop."
+      ],
+      "odiNumbers": [
+        "10246076",
+        "10030062",
+        "10027054",
+        "890517",
+        "725446",
+        "721941",
+        "859657",
+        "720598",
+        "858691",
+        "720147",
+        "551246",
+        "857486",
+        "856578",
+        "855390",
+        "783964",
+        "854248",
+        "711573",
+        "847698",
+        "710826",
+        "710083",
+        "844993",
+        "844444",
+        "843440",
+        "837572"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Brake Master Cylinder Failure",
+      "impact": "The failure of the brake master cylinder can cause extended stopping distances, increased risk of accidents, and loss of vehicle control.",
+      "symptoms": [
+        "Brake pedal feels soft or spongy",
+        "brake pedal sticks to the floor",
+        "brake pedal does not return to its normal position",
+        "brake pedal has a delayed return to its normal position."
+      ],
+      "odiNumbers": [
+        "890517"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Speed Sensor Failure",
+      "impact": "The failure of the speed sensor can cause false signals to the computer, leading to ABS brake system malfunction, extended stopping distances, and increased risk of accidents.",
+      "symptoms": [
+        "ABS light blinks or stays on",
+        "brake pedal goes to the floor",
+        "brake pedal is hard to press",
+        "extended stopping distance."
+      ],
+      "odiNumbers": [
+        "10030062",
+        "857486",
+        "720598"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Hydro/Electric ABS Unit Failure",
+      "impact": "The failure of the hydro/electric ABS unit can cause extended stopping distances, increased risk of accidents, and loss of vehicle control.",
+      "symptoms": [
+        "Brake pedal goes to the floor",
+        "brake pedal is hard to press",
+        "extended stopping distance",
+        "ABS light blinks or stays on."
+      ],
+      "odiNumbers": [
+        "10027054",
+        "720147"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "EGR Valve Failure",
+      "impact": "The failure of the EGR valve can cause engine stalling, loss of power, and increased risk of accidents.",
+      "symptoms": [
+        "Engine stalling",
+        "loss of power",
+        "vehicle unable to accelerate."
+      ],
+      "odiNumbers": [
+        "10065812"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause a range of issues, including loss of power to essential systems, fires, and even accidents due to loss of control.",
+      "symptoms": [
+        "Fuses shorting out",
+        "interior lights",
+        "power trunk",
+        "power mirrors",
+        "horn",
+        "and fog lights malfunctioning or blowing out",
+        "instrument panel not illuminating",
+        "battery warning lights on the dashboard",
+        "sudden shutdown of the vehicle",
+        "engine compartment fires",
+        "smoking console",
+        "and loss of power accessories."
+      ],
+      "odiNumbers": [
+        "859790",
+        "831189",
+        "535996",
+        "810455",
+        "973027",
+        "481160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Alternator Failure",
+      "impact": "Alternator failure can cause the vehicle to shut down suddenly, leading to accidents or leaving the driver stranded, and in some cases, even resulting in engine compartment fires.",
+      "symptoms": [
+        "Sudden shutdown of the vehicle",
+        "battery warning lights on the dashboard",
+        "engine compartment fires."
+      ],
+      "odiNumbers": [
+        "810455"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Computer System Failure",
+      "impact": "Computer system failure can cause a range of issues, including loss of power to essential systems, accidents due to loss of control, and even fires.",
+      "symptoms": [
+        "Loss of power to the brake system",
+        "loss of power accessories",
+        "locking occupants in the vehicle",
+        "sudden shutdown of the vehicle."
+      ],
+      "odiNumbers": [
+        "535996",
+        "481160"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel System Failure Leading to Engine Fires",
+      "impact": "The rupture of fuel lines and spraying of pressurized fuel onto the hot engine can cause engine fires, potentially resulting in fatalities or severe injuries.",
+      "symptoms": [
+        "Engine bursting into flames",
+        "fuel lines rupturing",
+        "pressurized fuel spraying onto the hot engine",
+        "vehicle stalling and dying."
+      ],
+      "odiNumbers": [
+        "10058616",
+        "852309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Fuel Pump",
+      "impact": "A defective fuel pump can cause the vehicle to stall and die, leading to potential accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling and dying",
+        "fuel pump failure."
+      ],
+      "odiNumbers": [
+        "852309"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Unaddressed Fuel System Issues",
+      "impact": "Unaddressed fuel system issues can lead to repeated problems, potentially causing accidents or injuries.",
+      "symptoms": [
+        "Repeated fuel system failures",
+        "lack of relief from the manufacturer to correct the issue."
+      ],
+      "odiNumbers": [
+        "719959"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

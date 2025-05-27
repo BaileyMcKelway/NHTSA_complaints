@@ -1,0 +1,346 @@
+{
+  "totalComplaints": 201,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 14,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS System Failure",
+      "impact": "The failure of the ABS system can lead to a loss of vehicle control, increased stopping distances, and a higher risk of accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The ABS warning light is illuminated on the dashboard",
+        "the traction control light is illuminated",
+        "the cruise control is disabled",
+        "the vehicle experiences a loss of brake performance",
+        "the brake pedal goes to the floorboard",
+        "the vehicle pulls to one side while braking",
+        "and the vehicle may experience a sudden loss of speed."
+      ],
+      "odiNumbers": [
+        "11591070",
+        "11590251",
+        "11589498",
+        "11587298",
+        "11581579",
+        "11576055",
+        "11575717",
+        "11574407",
+        "11571993",
+        "11571286",
+        "11569809",
+        "11566637",
+        "11564002",
+        "11563637",
+        "11563400",
+        "11563402",
+        "11561515",
+        "11561029",
+        "11558513",
+        "11557568",
+        "11556767",
+        "11556782",
+        "11553655",
+        "11551361",
+        "11546801",
+        "11546257",
+        "11545458",
+        "11544748",
+        "11544571"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Hydraulic Control Unit (HCU) Failure",
+      "impact": "The failure of the HCU can cause the ABS system to malfunction, leading to a loss of vehicle control, increased stopping distances, and a higher risk of accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The ABS warning light is illuminated on the dashboard",
+        "the traction control light is illuminated",
+        "the cruise control is disabled",
+        "the vehicle experiences a loss of brake performance",
+        "the brake pedal goes to the floorboard",
+        "and the vehicle may experience a sudden loss of speed."
+      ],
+      "odiNumbers": [
+        "11576055",
+        "11571286",
+        "11561029",
+        "11558513",
+        "11557568",
+        "11556767",
+        "11556782",
+        "11553655",
+        "11551361",
+        "11546801",
+        "11546257",
+        "11545458"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the ABS system to malfunction, leading to a loss of vehicle control, increased stopping distances, and a higher risk of accidents, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The ABS warning light is illuminated on the dashboard",
+        "the traction control light is illuminated",
+        "the cruise control is disabled",
+        "the vehicle experiences a loss of brake performance",
+        "the brake pedal goes to the floorboard",
+        "and the vehicle may experience a sudden loss of speed."
+      ],
+      "odiNumbers": [
+        "11590251",
+        "11589498",
+        "11587298",
+        "11576055",
+        "11571993",
+        "11563400",
+        "11563402",
+        "11561515",
+        "11561029",
+        "11558513",
+        "11557568",
+        "11556767",
+        "11556782",
+        "11553655",
+        "11551361",
+        "11546801",
+        "11546257",
+        "11545458"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Brake System Failure",
+      "impact": "The failure of the electronic brake system can cause the loss of anti-lock braking and traction control, leading to increased stopping distances and reduced vehicle stability, which can result in accidents or injuries.",
+      "symptoms": [
+        "ABS and traction control warning lights illuminate",
+        "cruise control is deactivated",
+        "audible chime sounds",
+        "and error messages appear on the dashboard. The vehicle may experience intermittent or complete loss of anti-lock braking and traction control."
+      ],
+      "odiNumbers": [
+        "11592429",
+        "11583133",
+        "11581050",
+        "11580010",
+        "11566765",
+        "11564289",
+        "11558868",
+        "11558613",
+        "11555362",
+        "11550090",
+        "11547025",
+        "11544866",
+        "11538488",
+        "11538519",
+        "11533545",
+        "11526441"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Anti-Lock Brake Controller Failure",
+      "impact": "The failure of the anti-lock brake controller can cause the loss of anti-lock braking, leading to increased stopping distances and reduced vehicle stability, which can result in accidents or injuries.",
+      "symptoms": [
+        "ABS warning light illuminates",
+        "audible chime sounds",
+        "and error messages appear on the dashboard. The vehicle may experience intermittent or complete loss of anti-lock braking."
+      ],
+      "odiNumbers": [
+        "11555362",
+        "11550090",
+        "11547025",
+        "11544866",
+        "11538488",
+        "11538519"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Brake Controller Failure",
+      "impact": "The failure of the brake controller can cause the loss of trailer braking power, leading to increased stopping distances and reduced vehicle stability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Trailer brake controller fails to engage",
+        "reduced trailer braking power",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11266862",
+        "11103453"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause various issues, including loss of power steering, electrical, and fuel pump functions, which can result in accidents or injuries.",
+      "symptoms": [
+        "Power steering failure",
+        "electrical system malfunctions",
+        "fuel pump failure",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11419871",
+        "11162088"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Tire Pressure Monitoring System Failure",
+      "impact": "The failure of the tire pressure monitoring system can cause incorrect tire pressure readings, leading to reduced vehicle stability and increased risk of tire failure, which can result in accidents or injuries.",
+      "symptoms": [
+        "Tire pressure monitoring indicator remains illuminated",
+        "incorrect tire pressure readings",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11242150"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Acceleration Hesitation",
+      "impact": "The hesitation in acceleration can cause delayed vehicle response, leading to increased stopping distances and reduced vehicle stability, which can result in accidents or injuries.",
+      "symptoms": [
+        "Delayed acceleration",
+        "hesitation when merging into traffic or accelerating from a dead stop",
+        "and error messages appear on the dashboard."
+      ],
+      "odiNumbers": [
+        "11072049"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Clutch Hydraulic System Failure",
+      "impact": "The failure of the clutch hydraulic system can cause the clutch pedal to stick to the floor, making it difficult or impossible to shift gears, which can lead to accidents or leave the driver stranded.",
+      "symptoms": [
+        "The clutch pedal feels soft or spongy",
+        "the clutch pedal sticks to the floor",
+        "the clutch pedal does not return to its normal position",
+        "the clutch pedal has a delayed return to its normal position",
+        "the clutch pedal has a sudden loss of pressure",
+        "the vehicle is unable to shift into gear."
+      ],
+      "odiNumbers": [
+        "11377070",
+        "11327498",
+        "10894359",
+        "10876259",
+        "10790783",
+        "10790334",
+        "10763771",
+        "10734988",
+        "10730600",
+        "10726352",
+        "10650766",
+        "10621832",
+        "10588926",
+        "10585118",
+        "10567062",
+        "10565141",
+        "10561132"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Delayed Acceleration Response",
+      "impact": "The delayed acceleration response can cause the vehicle to hesitate or lag when merging onto a highway or entering traffic, increasing the risk of accidents.",
+      "symptoms": [
+        "Delayed throttle response",
+        "hesitation when accelerating",
+        "slow acceleration",
+        "loss of power when merging onto a highway or entering traffic."
+      ],
+      "odiNumbers": [
+        "11360036",
+        "11203240",
+        "11099167",
+        "11084842",
+        "11075533"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Transmission Problems",
+      "impact": "Transmission problems can cause the vehicle to hesitate, stutter, or lose power, increasing the risk of accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Transmission hesitates or stutters",
+        "loss of power",
+        "delayed shifting",
+        "transmission slips or jerks",
+        "inability to shift into gear."
+      ],
+      "odiNumbers": [
+        "11282033",
+        "11084842",
+        "11048084",
+        "10959853"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Recall Parts Unavailability",
+      "impact": "The unavailability of recall parts can prevent owners from getting their vehicles repaired, leaving them at risk of accidents or other safety issues.",
+      "symptoms": [
+        "Owners receive recall notifications but are unable to get their vehicles repaired due to parts unavailability."
+      ],
+      "odiNumbers": [
+        "11399830",
+        "11374169",
+        "11328120",
+        "11327305",
+        "11321720",
+        "11067420",
+        "11062990"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Grid Heater Failure",
+      "impact": "The failure of the grid heater can cause catastrophic engine damage, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Engine overheating",
+        "loss of power",
+        "engine failure",
+        "grid heater malfunction."
+      ],
+      "odiNumbers": [
+        "11525741"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

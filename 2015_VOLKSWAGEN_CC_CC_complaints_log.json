@@ -1,0 +1,139 @@
+{
+  "totalComplaints": 28,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "AIR BAGS",
+    "ELECTRICAL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 8,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Pump Control Module Failure",
+      "impact": "The failure of the fuel pump control module can cause the fuel pump to run continuously, resulting in a drained battery and/or a no-start condition, or cause a loss of motive power while the vehicle is in motion, which can increase the risk of a crash causing injury and/or damage to property.",
+      "symptoms": [
+        "The vehicle suddenly shuts off",
+        "the vehicle is unable to start",
+        "the battery drains continuously",
+        "the vehicle experiences a loss of motive power while in motion."
+      ],
+      "odiNumbers": [
+        "11235025",
+        "11090020",
+        "11084341",
+        "11079061",
+        "11054105",
+        "11053506"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Airbag Control Module Failure",
+      "impact": "The failure of the airbag control module can cause the airbag warning lamp to illuminate, indicating a potential safety risk, and may prevent the airbags from deploying in the event of a crash.",
+      "symptoms": [
+        "Airbag warning lamp is illuminated",
+        "horn does not work",
+        "steering wheel buttons/controls do not work",
+        "error message \"ERROR: DRIVER AIRBAG\" appears on the dashboard."
+      ],
+      "odiNumbers": [
+        "11481759",
+        "11297279"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Clock Spring Failure",
+      "impact": "The failure of the clock spring can cause the airbag warning lamp to illuminate, indicating a potential safety risk, and may prevent the airbags from deploying in the event of a crash.",
+      "symptoms": [
+        "Airbag warning lamp is illuminated",
+        "horn does not work",
+        "steering wheel buttons/controls do not work."
+      ],
+      "odiNumbers": [
+        "11481759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical Power Interruption",
+      "impact": "An interruption in electrical power to the fuel pump control module can cause the fuel pump to run continuously, resulting in a drained battery and/or a no-start condition, or cause a loss of motive power while the vehicle is in motion, which can increase the risk of a crash.",
+      "symptoms": [
+        "Vehicle will not start",
+        "fuel pump runs continuously",
+        "loss of motive power while the vehicle is in motion."
+      ],
+      "odiNumbers": [
+        "11063207",
+        "11046433"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Cruise Control Failure",
+      "impact": "The failure of the cruise control system can cause the system to disengage unexpectedly, which can lead to a loss of control of the vehicle.",
+      "symptoms": [
+        "Cruise control will not engage",
+        "warning lamps are illuminated on the dashboard."
+      ],
+      "odiNumbers": [
+        "11506690"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Steering Wheel Clock Spring Failure",
+      "impact": "The failure of the steering wheel clock spring can cause the airbag system to malfunction, leading to a failure of the airbag to deploy in the event of a crash, which can increase the risk of injury or death.",
+      "symptoms": [
+        "The airbag light comes on",
+        "the horn and buttons on the steering wheel stop working",
+        "noise from the steering wheel while turning."
+      ],
+      "odiNumbers": [
+        "11366329",
+        "11322483"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Backup Camera Failure",
+      "impact": "The failure of the backup camera can increase the risk of accidents or injuries while reversing, especially for drivers who rely heavily on the camera.",
+      "symptoms": [
+        "The backup camera suddenly stops working",
+        "displays \"Backup camera unavailable\" message."
+      ],
+      "odiNumbers": [
+        "11307090"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel Pump Control Module Failure",
+      "impact": "The failure of the fuel pump control module can cause a loss of power while in motion, which can increase the risk of accidents or injuries.",
+      "symptoms": [
+        "Loss of power while driving",
+        "recall fix not available from the manufacturer."
+      ],
+      "odiNumbers": [
+        "11057728"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

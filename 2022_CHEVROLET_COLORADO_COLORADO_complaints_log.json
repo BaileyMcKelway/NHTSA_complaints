@@ -1,0 +1,125 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "UNKNOWN OR OTHER",
+    "POWER TRAIN"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Brake Pedal Failure",
+      "impact": "The failure of the brake pedal can cause the vehicle to not slow down or stop, leading to accidents or near-miss situations, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brake pedal feels soft or spongy",
+        "the brake pedal does not respond to pressure",
+        "the vehicle does not slow down or stop when the brake pedal is depressed",
+        "excessive force is required to stop the vehicle."
+      ],
+      "odiNumbers": [
+        "11587584",
+        "11519292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Premature Brake Pad Wear",
+      "impact": "Premature brake pad wear can lead to reduced braking performance, increasing the risk of accidents or near-miss situations.",
+      "symptoms": [
+        "The brake pads wear out excessively quickly",
+        "the vehicle requires frequent brake pad replacements",
+        "the brakes feel spongy or soft",
+        "the vehicle takes longer to stop."
+      ],
+      "odiNumbers": [
+        "11572767"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Locking Brakes",
+      "impact": "Locking brakes can cause the vehicle to lose control, leading to accidents or near-miss situations, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The brakes lock up",
+        "the vehicle pulls to one side",
+        "the vehicle vibrates or shakes when braking",
+        "the brakes make a loud noise when applied."
+      ],
+      "odiNumbers": [
+        "11519292"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Gauge Malfunction",
+      "impact": "The faulty fuel gauge can cause uncertainty and anxiety for drivers, making it difficult to plan trips and potentially leading to running out of fuel, which can be dangerous.",
+      "symptoms": [
+        "The fuel gauge does not move until a certain number of miles have been driven after filling up",
+        "the pump shuts off prematurely when filling up",
+        "the miles-to-empty display shows an unrealistic range",
+        "the fuel gauge remains stuck on \"Full\" regardless of the actual fuel level."
+      ],
+      "odiNumbers": [
+        "11573767",
+        "11501191"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Radio Dial Illumination Failure",
+      "impact": "The failure of the radio dials to illuminate when the dimmer is used can cause distraction and discomfort for drivers, especially at night, which can lead to accidents.",
+      "symptoms": [
+        "The radio dials turn completely off or dark when the dimmer is used",
+        "making it difficult to operate the radio."
+      ],
+      "odiNumbers": [
+        "11509523"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Transmission Downshifting Issue",
+      "impact": "The sudden and hard downshifting of the transmission can cause the vehicle to slide or lose traction, potentially leading to accidents or loss of control.",
+      "symptoms": [
+        "The vehicle shifts down hard with two clunks when braking",
+        "especially on slippery surfaces",
+        "causing the vehicle to slide or lose traction."
+      ],
+      "odiNumbers": [
+        "11507983"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Transmission Park-to-Reverse Defect",
+      "impact": "The failure of the transmission to properly engage park can cause the vehicle to roll unexpectedly, leading to accidents, injuries, or fatalities.",
+      "symptoms": [
+        "The vehicle rolls back or moves unexpectedly when in park",
+        "accompanied by an abnormal whining sound from the transmission",
+        "and may cause the air bag",
+        "seat belt",
+        "and service safety restraint warning lights to appear on the instrument panel."
+      ],
+      "odiNumbers": [
+        "11469125"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

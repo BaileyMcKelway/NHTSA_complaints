@@ -1,0 +1,126 @@
+{
+  "totalComplaints": 13,
+  "numberOfFilteredComplaintMapKeys": 4,
+  "filteredComplaintMapKeys": [
+    "FUEL/PROPULSION SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "ELECTRICAL SYSTEM",
+    "FUEL SYSTEM"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Fuel Level Sending Unit Failure",
+      "impact": "The failure of the fuel level sending unit can cause the fuel gauge to report inaccurate fuel levels, leading to engine stalling, sputtering, and potential accidents.",
+      "symptoms": [
+        "Fuel gauge reports inaccurate fuel levels",
+        "engine stalling",
+        "sputtering",
+        "fuel gauge fluctuating between full and empty",
+        "fuel range indicator decreasing rapidly."
+      ],
+      "odiNumbers": [
+        "10537505",
+        "10466683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Cracked Fuel Pump Housing",
+      "impact": "Cracks in the fuel pump housing can cause fuel leaks, potentially leading to fires, especially in the K-series motorcycles where the leak is over the cylinder heads.",
+      "symptoms": [
+        "Fuel leaks",
+        "potential fires."
+      ],
+      "odiNumbers": [
+        "10496593"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Fuel System Malfunction",
+      "impact": "The malfunction of the fuel system can cause the engine to shut off unexpectedly, leading to potential accidents, especially when combined with inaccurate fuel level readings.",
+      "symptoms": [
+        "Engine shutting off unexpectedly",
+        "fuel gauge malfunctioning",
+        "fuel range indicator decreasing rapidly."
+      ],
+      "odiNumbers": [
+        "10466683"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling at Low Speed Deceleration",
+      "impact": "The engine stalling at low speed deceleration can cause the motorcycle to lose power and potentially lead to accidents, especially in heavy traffic or when navigating turns, which can result in injuries or fatalities.",
+      "symptoms": [
+        "The engine stalls or dies when slowing down to a stop",
+        "typically when the clutch is pulled in and the throttle is rolled off",
+        "often at speeds below 2000 RPM. The stalling may occur intermittently",
+        "with some owners experiencing it once every 30-50 stops."
+      ],
+      "odiNumbers": [
+        "10279634",
+        "10278124",
+        "10277288"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Stalling at Low Speeds",
+      "impact": "The engine stalling at low speeds can cause loss of control, accidents, and injuries, especially when it happens in curves or on the freeway.",
+      "symptoms": [
+        "The engine shuts off when coming to a stop at low speeds",
+        "the bike needs to be in a complete stop and switched to neutral to restart",
+        "the issue occurs randomly",
+        "and it can happen multiple times in a single ride."
+      ],
+      "odiNumbers": [
+        "11133633",
+        "10289371"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Level Sensor Failure",
+      "impact": "The failure of the fuel level sensor can cause the fuel gauge indicator to become inoperable, leading to inaccurate fuel level readings, which can result in unexpected stalling, stranding the driver, and potentially causing accidents.",
+      "symptoms": [
+        "The fuel gauge indicator is not functioning",
+        "the fuel level reading is inaccurate",
+        "the vehicle stalls due to empty fuel tank",
+        "the fuel level sensor is faulty."
+      ],
+      "odiNumbers": [
+        "10594500"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Fuel Pump Flange Crack",
+      "impact": "A crack in the fuel pump flange can cause a fuel leak, which can lead to a fire, potentially resulting in injuries or fatalities.",
+      "symptoms": [
+        "Fuel leak",
+        "crack observed in fuel pump flange",
+        "fuel pump flange failure."
+      ],
+      "odiNumbers": [
+        "10448592"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

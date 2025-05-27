@@ -1,0 +1,88 @@
+{
+  "totalComplaints": 16,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "SERVICE BRAKES",
+    "ELECTRICAL SYSTEM",
+    "ENGINE"
+  ],
+  "parsedComplaintsResultLength": 4,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "ABS Module Failure",
+      "impact": "The failure of the ABS module can cause the brakes to lock up or fail, leading to a loss of control and increasing the risk of accidents.",
+      "symptoms": [
+        "The ABS light flashes at startup",
+        "the rear brake pedal locks up",
+        "the front brake lever is hard to apply",
+        "the front brake lever freezes up",
+        "the brakes fail to engage",
+        "the brake pedal goes down and hits the floorboard without any braking pressure."
+      ],
+      "odiNumbers": [
+        "11550443",
+        "11002383",
+        "10994246",
+        "10884562",
+        "10884051",
+        "10883608",
+        "10854485",
+        "10810477"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electronic Throttle Failure (Limp Mode)",
+      "impact": "The failure of the electronic throttle can cause the motorcycle to suddenly lose power, leading to a loss of control, accidents, and potentially fatal consequences.",
+      "symptoms": [
+        "The throttle becomes unresponsive",
+        "the motorcycle goes into \"limp mode\"",
+        "the engine continues to run but the motorcycle slows down to around 5 mph",
+        "the motorcycle ceases to respond to throttle input",
+        "sudden loss of power while accelerating."
+      ],
+      "odiNumbers": [
+        "10747332",
+        "10485233",
+        "10480619"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Oil Pump Failure",
+      "impact": "The failure of the oil pump can cause the engine to overheat, leading to premature wear, damage, or even engine seizure, which can result in accidents or leave the rider stranded.",
+      "symptoms": [
+        "The vehicle overheats",
+        "smoke is visible",
+        "a knocking noise is coming from the engine",
+        "no warning indicators are illuminated."
+      ],
+      "odiNumbers": [
+        "11073307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Engine Overheating",
+      "impact": "Engine overheating can cause damage to engine components, lead to premature wear, or even engine seizure, which can result in accidents or leave the rider stranded.",
+      "symptoms": [
+        "The vehicle overheats",
+        "smoke is visible",
+        "a knocking noise is coming from the engine",
+        "no warning indicators are illuminated."
+      ],
+      "odiNumbers": [
+        "11073307"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

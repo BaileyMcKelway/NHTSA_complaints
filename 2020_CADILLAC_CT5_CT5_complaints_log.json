@@ -1,0 +1,194 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "UNKNOWN OR OTHER",
+    "ELECTRICAL SYSTEM",
+    "STEERING",
+    "POWER TRAIN",
+    "ELECTRONIC STABILITY CONTROL (ESC)"
+  ],
+  "parsedComplaintsResultLength": 11,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Stabilitrak System Failure",
+      "impact": "The failure of the Stabilitrak system can affect the vehicle's stability and traction control, potentially leading to loss of control or accidents.",
+      "symptoms": [
+        "The \"Service Stabilitrak\" warning light appears on the dashboard",
+        "indicating a problem with the system."
+      ],
+      "odiNumbers": [
+        "11584335"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Backup Camera System Failure",
+      "impact": "The failure of the backup camera system can reduce visibility and increase the risk of accidents or injuries when reversing.",
+      "symptoms": [
+        "The infotainment display shows a blue screen with a \"camera error\" or \"service camera system\" message instead of displaying the backup camera feed",
+        "the backup camera system does not function correctly",
+        "the surround camera system does not function correctly."
+      ],
+      "odiNumbers": [
+        "11541139",
+        "11532759"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Electrical/Electronics System Failure",
+      "impact": "The failure of the electrical/electronics system can cause various safety-critical systems to malfunction, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Driver speedometer screen disappears",
+        "center console screen that shows camera information disappears",
+        "driver assist package malfunctions",
+        "parking brake engages while backing up",
+        "vehicle shifts itself into neutral",
+        "service safety restraint system and air bag warning lights are illuminated."
+      ],
+      "odiNumbers": [
+        "11428695",
+        "11385267",
+        "11359880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Driver Assist and Forward Collision System Failure",
+      "impact": "The failure of the driver assist and forward collision system can cause the system to become unavailable, increasing the risk of accidents.",
+      "symptoms": [
+        "Driver assist and forward collision system unavailable",
+        "messages appear on the screen",
+        "cameras and devices malfunction or fail to function."
+      ],
+      "odiNumbers": [
+        "11359880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Intermittent System Failures",
+      "impact": "Intermittent system failures can cause unexpected malfunctions, leading to accidents or leaving the driver stranded.",
+      "symptoms": [
+        "Intermittent failures of various systems",
+        "including driver speedometer screen",
+        "center console screen",
+        "driver assist package",
+        "and parking brake."
+      ],
+      "odiNumbers": [
+        "11428695",
+        "11359880"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Onstar System Failure",
+      "impact": "The failure of the Onstar system can lead to a lack of emergency assistance in critical situations, such as accidents, and can also cause inconvenience and frustration due to malfunctioning infotainment and navigation systems.",
+      "symptoms": [
+        "Onstar fails to connect to the vehicle",
+        "Onstar light turns red",
+        "SRS light comes on",
+        "Carplay and Car Internet malfunction",
+        "Navigation fails to load",
+        "doors lock unexpectedly",
+        "Onstar app unable to unlock the car."
+      ],
+      "odiNumbers": [
+        "11439475"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Steering System Malfunction",
+      "impact": "The malfunction of the steering system can cause loss of control, leading to accidents, and can also cause driver discomfort and fatigue.",
+      "symptoms": [
+        "Steering wheel is stiffer and heavier when making right turns at speed",
+        "steering wheel fights to get back to center when taking right turns",
+        "sudden and violent jerking of the wheel to the left",
+        "difficulty turning right."
+      ],
+      "odiNumbers": [
+        "11355006"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Power Loss and Traction Control/StabiliTrack System Failure",
+      "impact": "The sudden loss of engine power and failure of the Traction Control/StabiliTrack system can cause unexpected slowing or loss of control, increasing the risk of accidents, especially when driving at high speeds or in hazardous conditions.",
+      "symptoms": [
+        "The Traction Control/StabiliTrack lights come on",
+        "the vehicle loses engine power",
+        "the vehicle's speed suddenly drops",
+        "the vehicle becomes difficult to control."
+      ],
+      "odiNumbers": [
+        "11560832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Repair and Diagnosis by Dealership",
+      "impact": "The failure of the dealership to properly diagnose and repair the issue can lead to continued safety risks for the driver and occupants, as well as further damage to the vehicle.",
+      "symptoms": [
+        "The dealership clears the error code without resolving the underlying issue",
+        "the dealership is unable to replicate the problem",
+        "the dealership advises the owner to return the vehicle only when the issue is actively occurring."
+      ],
+      "odiNumbers": [
+        "11560832"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Faulty Advanced Driver-Assistance System (ADAS) Software",
+      "impact": "The malfunctioning ADAS software can cause the system to incorrectly trigger warnings, which can distract the driver and lead to accidents. The issue can also cause the check engine light to illuminate, potentially leading to unnecessary repairs.",
+      "symptoms": [
+        "The service driver assist warning is displayed on the vehicle's display",
+        "the check engine light is illuminated",
+        "the ADAS system malfunctions while the vehicle is in motion",
+        "the warning reappears after software updates."
+      ],
+      "odiNumbers": [
+        "11330364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Software Updates for ADAS",
+      "impact": "The ineffective software updates can fail to resolve the ADAS issues, leading to continued system malfunctions and potential safety risks.",
+      "symptoms": [
+        "The ADAS software update does not resolve the issue",
+        "the warning reappears after the update",
+        "the system continues to malfunction despite software updates."
+      ],
+      "odiNumbers": [
+        "11330364"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

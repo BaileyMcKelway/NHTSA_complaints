@@ -1,0 +1,121 @@
+{
+  "totalComplaints": 11,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "EQUIPMENT",
+    "ENGINE AND ENGINE COOLING"
+  ],
+  "parsedComplaintsResultLength": 7,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Wire Failure",
+      "impact": "The failure of ignition wires can cause the engine to quit and restart, leading to intermittent bucking, stalling, and starting problems, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Engine quits and restarts at low speeds",
+        "intermittent bucking",
+        "difficulty starting the engine",
+        "engine stalling."
+      ],
+      "odiNumbers": [
+        "828197"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Battery Failure",
+      "impact": "A faulty battery can cause explosions, leading to injuries and damage to the vehicle.",
+      "symptoms": [
+        "Battery explosion",
+        "injuries while attempting to jump-start the vehicle."
+      ],
+      "odiNumbers": [
+        "805924"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electronic Control Module (ECM) Failure",
+      "impact": "The failure of the ECM can cause the vehicle to stall, crank, and experience starting problems, which can increase the risk of accidents or leave the driver stranded.",
+      "symptoms": [
+        "Vehicle stalling",
+        "cranking",
+        "starting problems",
+        "engine failure."
+      ],
+      "odiNumbers": [
+        "968331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Air Conditioning System Failure",
+      "impact": "The failure of the air conditioning system can cause discomfort and distraction to the driver and passengers, potentially leading to accidents.",
+      "symptoms": [
+        "The air conditioning system is disassembled without owner's consent",
+        "the air conditioning system is not functioning properly",
+        "vapors from the vents enter into the vehicle."
+      ],
+      "odiNumbers": [
+        "710578",
+        "968331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Defective Jack Assembly",
+      "impact": "The defective jack assembly can cause accidents or injuries when the vehicle is lifted, as it may not provide the necessary support.",
+      "symptoms": [
+        "The jack is not properly machined during manufacturing",
+        "the jack is not functioning properly",
+        "the owner receives a recall letter regarding the defective jack."
+      ],
+      "odiNumbers": [
+        "807044",
+        "95"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Engine Mount Failure",
+      "impact": "The failure of engine mounts can cause the accelerator pedal to get stuck, leading to sudden acceleration, which can result in accidents or loss of control.",
+      "symptoms": [
+        "The accelerator pedal gets stuck",
+        "sudden acceleration",
+        "unusual engine noise or vibration."
+      ],
+      "odiNumbers": [
+        "835488"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Positive Crankcase Ventilation (PCV) Valve Failure",
+      "impact": "The failure of the PCV valve can cause the vehicle to stall or experience starting problems, which can lead to safety risks, especially when driving on busy roads or highways.",
+      "symptoms": [
+        "The vehicle stalls",
+        "difficulty starting the engine",
+        "rough engine idle",
+        "decreased engine performance."
+      ],
+      "odiNumbers": [
+        "968331"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

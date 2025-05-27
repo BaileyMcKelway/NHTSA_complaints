@@ -1,0 +1,109 @@
+{
+  "totalComplaints": 31,
+  "numberOfFilteredComplaintMapKeys": 3,
+  "filteredComplaintMapKeys": [
+    "ELECTRICAL SYSTEM",
+    "ENGINE AND ENGINE COOLING",
+    "VEHICLE SPEED CONTROL"
+  ],
+  "parsedComplaintsResultLength": 5,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Ignition Switch Module Failure",
+      "impact": "The failure of the ignition switch module can cause the vehicle to stall unexpectedly, which can lead to accidents, especially when driving at high speeds or in heavy traffic. Additionally, it can also cause electrical shorts, fires, and damage to the dashboard and steering column.",
+      "symptoms": [
+        "The vehicle stalls without warning",
+        "often while driving at moderate speeds or when making turns",
+        "the ignition switch overheats",
+        "the steering column smokes",
+        "the dashboard electrical system catches on fire",
+        "and the vehicle experiences electrical shorts."
+      ],
+      "odiNumbers": [
+        "872724",
+        "731862",
+        "550575",
+        "505882",
+        "983885",
+        "983912",
+        "504284",
+        "983081"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Distributor Shaft Gear Misalignment",
+      "impact": "The misalignment of the drive gear on the distributor shaft can cause the vehicle to stall, which can lead to accidents, especially when driving at high speeds or in heavy traffic.",
+      "symptoms": [
+        "The vehicle stalls",
+        "often without warning",
+        "and the drive gear on the distributor shaft is cut in the wrong direction to match the gear on the crankshaft."
+      ],
+      "odiNumbers": [
+        "783877"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 3,
+      "issueCategory": "Electrical System Failure",
+      "impact": "The failure of the electrical system can cause electrical shorts, fires, and damage to the dashboard and steering column, which can lead to accidents or injuries.",
+      "symptoms": [
+        "The dashboard electrical system catches on fire",
+        "the steering column smokes",
+        "and the vehicle experiences electrical shorts."
+      ],
+      "odiNumbers": [
+        "800424",
+        "504284",
+        "983885"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Engine Stalling and Failure",
+      "impact": "The engine stalling and failure can cause loss of power brakes and power steering, increasing the risk of accidents, and in some cases, lead to vehicle fires.",
+      "symptoms": [
+        "The vehicle stalls after warming up",
+        "the vehicle stalls when coming to a stop",
+        "the vehicle has difficulty starting or intermittently stalls",
+        "the air filter catches on fire",
+        "the vehicle catches on fire while running."
+      ],
+      "odiNumbers": [
+        "10069318",
+        "785120",
+        "826921",
+        "816544",
+        "504800",
+        "985360"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Unintended Acceleration due to Idle Air Control Malfunction",
+      "impact": "The malfunction of the idle air control system can cause the vehicle to accelerate unexpectedly, leading to loss of control, accidents, and potential injuries or fatalities.",
+      "symptoms": [
+        "The vehicle accelerates on its own",
+        "the gas pedal accelerates by itself",
+        "the engine RPM increases suddenly",
+        "the vehicle stalls or hesitates",
+        "especially in cold weather or snowy conditions."
+      ],
+      "odiNumbers": [
+        "712029",
+        "489457"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}

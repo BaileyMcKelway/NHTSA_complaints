@@ -1,0 +1,170 @@
+{
+  "totalComplaints": 10,
+  "numberOfFilteredComplaintMapKeys": 5,
+  "filteredComplaintMapKeys": [
+    "VISIBILITY/WIPER",
+    "FUEL/PROPULSION SYSTEM",
+    "ELECTRICAL SYSTEM",
+    "LANE DEPARTURE",
+    "STEERING"
+  ],
+  "parsedComplaintsResultLength": 10,
+  "parsedComplaintsResult": [
+    {
+      "complaintNumber": 1,
+      "issueCategory": "Windshield Wiper Failure",
+      "impact": "The sudden failure of the windshield wipers during heavy rain can cause reduced visibility, increasing the risk of accidents.",
+      "symptoms": [
+        "Windshield wipers stop working in the middle of a cycle",
+        "leaving them stuck at a 45-degree angle",
+        "obstructing visibility",
+        "and failing to clear rain from the windshield."
+      ],
+      "odiNumbers": [
+        "11526096"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 2,
+      "issueCategory": "Towing Mirror Obstruction",
+      "impact": "The large size and poor placement of the towing mirrors can cause a significant blind spot, increasing the risk of accidents when turning or changing lanes.",
+      "symptoms": [
+        "The mirrors block the view of cross traffic",
+        "requiring the driver to move their head to an uncomfortable position to see around them",
+        "and small to medium-sized cars or trucks are completely hidden from view at stop intersections."
+      ],
+      "odiNumbers": [
+        "11505137"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Fuel Tank \"Burping\" and Fuel Pump Running with Engine Off",
+      "impact": "The unexpected release of fuel from the tank can cause fuel spills, potentially leading to fires or explosions. The fuel pump running with the engine off can also cause electrical system failures or fires.",
+      "symptoms": [
+        "Fuel spills from the tank when refueling",
+        "fuel pump noise can be heard at the filler neck with the engine off",
+        "fuel pump runs continuously with the engine off."
+      ],
+      "odiNumbers": [
+        "11590117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Poor Dealer Service and Communication",
+      "impact": "The lack of proper diagnosis and repair by the dealer can lead to continued safety issues and frustration for the vehicle owner. The lack of communication can cause delays in resolving the issue.",
+      "symptoms": [
+        "Dealer is unable to diagnose or repair the issue",
+        "dealer ignores customer concerns",
+        "dealer fails to communicate with the customer",
+        "dealer does not provide a suitable loaner vehicle."
+      ],
+      "odiNumbers": [
+        "11590117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 6,
+      "issueCategory": "Discoloration on Tires",
+      "impact": "The discoloration on the tires can be a sign of a manufacturing defect or a chemical reaction, which can affect the tire's performance and safety.",
+      "symptoms": [
+        "Discoloration on the tire surface",
+        "unknown cause of discoloration."
+      ],
+      "odiNumbers": [
+        "11590117"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Unintended Vehicle Locking",
+      "impact": "The unintended locking of the vehicle can cause inconvenience, stress, and potentially put occupants, especially vulnerable individuals like infants, at risk if they are trapped inside.",
+      "symptoms": [
+        "The vehicle locks itself without the owner's intention",
+        "the doors lock unexpectedly",
+        "the owner is unable to access the vehicle",
+        "the owner is unable to retrieve items or occupants from the vehicle."
+      ],
+      "odiNumbers": [
+        "11587549"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Lane Tracing Assist (LTA) Failure to Deactivate with Trailer",
+      "impact": "The failure of the Lane Tracing Assist (LTA) system to properly deactivate when a trailer is equipped can lead to loss of control, oversteer, or trailer sway, increasing the risk of accidents.",
+      "symptoms": [
+        "The LTA indicator remains on despite the dash indicating it is off",
+        "the system provides steering inputs while towing a trailer",
+        "abrupt movements can induce oversteer or trailer sway",
+        "the warning and indicator lamps are not in sync with the true system status."
+      ],
+      "odiNumbers": [
+        "11573539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inconsistent Warning and Indicator Lamps",
+      "impact": "The inconsistent warning and indicator lamps can cause confusion and lead to delayed or incorrect responses to system malfunctions, potentially increasing the risk of accidents.",
+      "symptoms": [
+        "The warning and indicator lamps do not align with the true system status",
+        "the lamps are not in sync with each other",
+        "the driver may receive incorrect or misleading information about the system's status."
+      ],
+      "odiNumbers": [
+        "11573539"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 4,
+      "issueCategory": "Vehicle Vibration and Lane Departure Warning System Malfunction",
+      "impact": "The vehicle's vibration above 45mph can cause loss of control, increasing the risk of accidents, and the malfunctioning lane departure warning system can lead to false alerts, distracting the driver and potentially causing accidents.",
+      "symptoms": [
+        "Vehicle vibrates excessively above 45mph",
+        "lane departure warning system incorrectly triggers",
+        "system mistakenly detects lane departure",
+        "system cannot be trusted",
+        "and may need to be disabled."
+      ],
+      "odiNumbers": [
+        "11569139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    },
+    {
+      "complaintNumber": 5,
+      "issueCategory": "Inadequate Repair and Disregard by Manufacturer",
+      "impact": "The dealership's inability to replicate the issue and the manufacturer's disregard for the claim can lead to a lack of accountability and a failure to address the underlying problems, putting the driver and other road users at risk.",
+      "symptoms": [
+        "Dealership unable to diagnose or repair the issue",
+        "manufacturer disregards claim",
+        "lack of accountability",
+        "and failure to address safety concerns."
+      ],
+      "odiNumbers": [
+        "11569139"
+      ],
+      "relatedIssues": [],
+      "relatedMaintenance": []
+    }
+  ]
+}
