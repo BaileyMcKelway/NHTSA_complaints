@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vehicle Complaints Database</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      .header {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        padding: 30px;
+        border-radius: 16px;
+        margin-bottom: 30px;
+        text-align: center;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      }
+
+      .header h1 {
+        color: #2d3748;
+        font-size: 2.5em;
+        font-weight: 700;
+        margin-bottom: 10px;
+      }
+
+      .header p {
+        color: #4a5568;
+        font-size: 1.1em;
+      }
+
+      .filters {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        padding: 25px;
+        border-radius: 16px;
+        margin-bottom: 30px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      }
+
+      .filter-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-bottom: 20px;
+      }
+
+      .filter-group {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .filter-group label {
+        font-weight: 600;
+        color: #2d3748;
+        margin-bottom: 8px;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .filter-input {
+        padding: 12px 16px;
+        border: 2px solid #e2e8f0;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: all 0.2s ease;
+        background: white;
+      }
+
+      .filter-input:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      .search-box {
+        grid-column: 1 / -1;
+        padding: 16px 20px;
+        font-size: 18px;
+        border: 2px solid #e2e8f0;
+        border-radius: 12px;
+        background: white;
+        transition: all 0.2s ease;
+      }
+
+      .search-box:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      .stat-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        padding: 20px;
+        border-radius: 12px;
+        text-align: center;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease;
+      }
+
+      .stat-card:hover {
+        transform: translateY(-2px);
+      }
+
+      .stat-number {
+        font-size: 2em;
+        font-weight: bold;
+        color: #667eea;
+        display: block;
+      }
+
+      .stat-label {
+        color: #4a5568;
+        font-size: 0.9em;
+        margin-top: 5px;
+      }
+
+      .results {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 16px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+      }
+
+      .results-header {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        color: white;
+        padding: 20px 25px;
+        font-weight: 600;
+        font-size: 1.1em;
+      }
+
+      .vehicle-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 0;
+      }
+
+      .vehicle-card {
+        border-bottom: 1px solid #e2e8f0;
+        border-right: 1px solid #e2e8f0;
+        padding: 25px;
+        transition: all 0.2s ease;
+        cursor: pointer;
+        position: relative;
+        background: white;
+      }
+
+      .vehicle-card:hover {
+        background: #f7fafc;
+        transform: scale(1.02);
+        z-index: 1;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+      }
+
+      .vehicle-year {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        color: white;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-size: 14px;
+        font-weight: 600;
+        display: inline-block;
+        margin-bottom: 12px;
+      }
+
+      .vehicle-make {
+        font-size: 1.3em;
+        font-weight: 700;
+        color: #2d3748;
+        margin-bottom: 5px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .vehicle-model {
+        font-size: 1.1em;
+        color: #4a5568;
+        margin-bottom: 15px;
+        font-weight: 500;
+      }
+
+      .vehicle-filename {
+        font-size: 0.85em;
+        color: #718096;
+        font-family: 'Monaco', 'Consolas', monospace;
+        background: #f7fafc;
+        padding: 8px 12px;
+        border-radius: 6px;
+        word-break: break-all;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 60px;
+        color: #4a5568;
+        font-size: 1.1em;
+      }
+
+      .spinner {
+        border: 3px solid #e2e8f0;
+        border-top: 3px solid #667eea;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 20px;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .error {
+        background: #fed7d7;
+        border: 1px solid #feb2b2;
+        color: #c53030;
+        padding: 20px;
+        border-radius: 12px;
+        margin: 20px;
+      }
+
+      .no-results {
+        text-align: center;
+        padding: 60px;
+        color: #4a5568;
+      }
+
+      .no-results-icon {
+        font-size: 4em;
+        margin-bottom: 20px;
+        opacity: 0.5;
+      }
+
+      @media (max-width: 768px) {
+        .filter-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .vehicle-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .header h1 {
+          font-size: 2em;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>🚗 Vehicle Complaints Database</h1>
+        <p>
+          Search and explore vehicle complaint logs by year, make, and model
+        </p>
+      </div>
+
+      <div class="filters">
+        <div class="filter-grid">
+          <input
+            type="text"
+            class="search-box"
+            id="searchBox"
+            placeholder="🔍 Search by year, make, model, or filename..."
+          />
+
+          <div class="filter-group">
+            <label for="yearFilter">Year</label>
+            <select class="filter-input" id="yearFilter">
+              <option value="">All Years</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="makeFilter">Make</label>
+            <select class="filter-input" id="makeFilter">
+              <option value="">All Makes</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="modelFilter">Model</label>
+            <select class="filter-input" id="modelFilter">
+              <option value="">All Models</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats" id="stats" style="display: none">
+        <div class="stat-card">
+          <span class="stat-number" id="totalVehicles">0</span>
+          <div class="stat-label">Total Vehicles</div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="visibleVehicles">0</span>
+          <div class="stat-label">Showing</div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="uniqueMakes">0</span>
+          <div class="stat-label">Makes</div>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="yearRange">-</span>
+          <div class="stat-label">Year Range</div>
+        </div>
+      </div>
+
+      <div class="results">
+        <div class="results-header" id="resultsHeader">
+          Vehicle Complaint Logs
+        </div>
+
+        <div class="loading" id="loading">
+          <div class="spinner"></div>
+          Loading vehicle complaint data...
+        </div>
+
+        <div class="error" id="error" style="display: none"></div>
+
+        <div class="vehicle-grid" id="vehicleGrid"></div>
+
+        <div class="no-results" id="noResults" style="display: none">
+          <div class="no-results-icon">🔍</div>
+          <h3>No vehicles found</h3>
+          <p>Try adjusting your search criteria</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      let allVehicles = [];
+      let filteredVehicles = [];
+      let uniqueYears = new Set();
+      let uniqueMakes = new Set();
+      let uniqueModels = new Set();
+
+      const GITHUB_USER = 'BaileyMcKelway';
+      const GITHUB_REPO = 'NHTSA_complaints';
+      const GITHUB_API_URL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/git/trees/main?recursive=1`;
+      const RAW_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`;
+
+      async function loadVehicleData() {
+        try {
+          console.log('Fetching from:', GITHUB_API_URL);
+          const response = await fetch(GITHUB_API_URL);
+
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+          }
+
+          const data = await response.json();
+          console.log('API Response:', data);
+
+          if (!data.tree || !Array.isArray(data.tree)) {
+            throw new Error('Invalid API response structure');
+          }
+
+          // First, let's see what files we have
+          console.log(
+            'All files found:',
+            data.tree.map((item) => item.path)
+          );
+
+          // Parse vehicle data from filenames - look in data folder
+          let jsonFiles = data.tree.filter(
+            (item) =>
+              item.type === 'blob' &&
+              item.path.startsWith('data/') &&
+              item.path.endsWith('_complaints_log.json')
+          );
+
+          console.log('JSON files found:', jsonFiles.length);
+          console.log(
+            'Sample JSON files:',
+            jsonFiles.slice(0, 5).map((f) => f.path)
+          );
+
+          allVehicles = jsonFiles
+            .map((file) => {
+              const filename = file.path.split('/').pop();
+              const parts = filename
+                .replace('_complaints_log.json', '')
+                .split('_');
+
+              console.log('Parsing filename:', filename, 'Parts:', parts);
+
+              if (parts.length >= 4) {
+                return {
+                  year: parts[0],
+                  make: parts[1],
+                  model: parts.slice(2).join(' '), // Handle multi-word models
+                  filename: filename,
+                  path: file.path,
+                  url: RAW_BASE_URL + file.path,
+                };
+              }
+              return null;
+            })
+            .filter((vehicle) => vehicle !== null);
+
+          console.log('Parsed vehicles:', allVehicles.length);
+          console.log('Sample vehicles:', allVehicles.slice(0, 3));
+
+          if (allVehicles.length === 0) {
+            throw new Error(
+              'No valid vehicle files found. Check that files follow the pattern: YEAR_MAKE_MODEL_complaints_log.json'
+            );
+          }
+
+          // Build filter options
+          allVehicles.forEach((vehicle) => {
+            uniqueYears.add(vehicle.year);
+            uniqueMakes.add(vehicle.make);
+            uniqueModels.add(vehicle.model);
+          });
+
+          console.log('Unique years:', Array.from(uniqueYears).sort());
+          console.log('Unique makes:', Array.from(uniqueMakes).sort());
+
+          populateFilters();
+          filteredVehicles = [...allVehicles];
+          updateStats();
+          renderVehicles();
+
+          document.getElementById('loading').style.display = 'none';
+          document.getElementById('stats').style.display = 'grid';
+        } catch (error) {
+          console.error('Error loading data:', error);
+          document.getElementById('loading').style.display = 'none';
+          document.getElementById('error').style.display = 'block';
+          document.getElementById('error').innerHTML = `
+                    <strong>Failed to load vehicle data:</strong> ${error.message}<br><br>
+                    <strong>Debug info:</strong><br>
+                    - Repository: ${GITHUB_USER}/${GITHUB_REPO}<br>
+                    - API URL: ${GITHUB_API_URL}<br>
+                    - Check browser console (F12) for detailed logs<br><br>
+                    <strong>Common issues:</strong><br>
+                    1. Repository might be private<br>
+                    2. Files might not follow naming pattern<br>
+                    3. API rate limit reached
+                `;
+        }
+      }
+
+      function populateFilters() {
+        // Populate year filter
+        const yearFilter = document.getElementById('yearFilter');
+        Array.from(uniqueYears)
+          .sort()
+          .forEach((year) => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            yearFilter.appendChild(option);
+          });
+
+        // Populate make filter
+        const makeFilter = document.getElementById('makeFilter');
+        Array.from(uniqueMakes)
+          .sort()
+          .forEach((make) => {
+            const option = document.createElement('option');
+            option.value = make;
+            option.textContent = make;
+            makeFilter.appendChild(option);
+          });
+
+        // Populate model filter (initially all models)
+        updateModelFilter();
+      }
+
+      function updateModelFilter() {
+        const makeFilter = document.getElementById('makeFilter').value;
+        const modelFilter = document.getElementById('modelFilter');
+
+        // Clear existing options except "All Models"
+        modelFilter.innerHTML = '<option value="">All Models</option>';
+
+        // Get models for selected make or all models if no make selected
+        let modelsToShow = uniqueModels;
+        if (makeFilter) {
+          modelsToShow = new Set(
+            allVehicles.filter((v) => v.make === makeFilter).map((v) => v.model)
+          );
+        }
+
+        Array.from(modelsToShow)
+          .sort()
+          .forEach((model) => {
+            const option = document.createElement('option');
+            option.value = model;
+            option.textContent = model;
+            modelFilter.appendChild(option);
+          });
+      }
+
+      function updateStats() {
+        document.getElementById('totalVehicles').textContent =
+          allVehicles.length.toLocaleString();
+        document.getElementById('visibleVehicles').textContent =
+          filteredVehicles.length.toLocaleString();
+        document.getElementById('uniqueMakes').textContent = uniqueMakes.size;
+
+        const years = Array.from(uniqueYears).map(Number).sort();
+        document.getElementById('yearRange').textContent = `${years[0]}-${
+          years[years.length - 1]
+        }`;
+      }
+
+      function renderVehicles() {
+        const grid = document.getElementById('vehicleGrid');
+        const noResults = document.getElementById('noResults');
+
+        if (filteredVehicles.length === 0) {
+          grid.style.display = 'none';
+          noResults.style.display = 'block';
+          return;
+        }
+
+        grid.style.display = 'grid';
+        noResults.style.display = 'none';
+        grid.innerHTML = '';
+
+        // Show first 100 results for performance
+        const vehiclesToShow = filteredVehicles.slice(0, 100);
+
+        vehiclesToShow.forEach((vehicle) => {
+          const card = document.createElement('div');
+          card.className = 'vehicle-card';
+          card.onclick = () => window.open(vehicle.url, '_blank');
+
+          card.innerHTML = `
+                    <div class="vehicle-year">${vehicle.year}</div>
+                    <div class="vehicle-make">${vehicle.make}</div>
+                    <div class="vehicle-model">${vehicle.model}</div>
+                    <div class="vehicle-filename">${vehicle.filename}</div>
+                `;
+
+          grid.appendChild(card);
+        });
+
+        if (filteredVehicles.length > 100) {
+          const moreDiv = document.createElement('div');
+          moreDiv.style.gridColumn = '1 / -1';
+          moreDiv.style.textAlign = 'center';
+          moreDiv.style.padding = '30px';
+          moreDiv.style.color = '#4a5568';
+          moreDiv.style.background = '#f7fafc';
+          moreDiv.innerHTML = `
+                    <strong>Showing first 100 of ${filteredVehicles.length.toLocaleString()} results</strong><br>
+                    Use filters to narrow your search
+                `;
+          grid.appendChild(moreDiv);
+        }
+
+        // Update results header
+        document.getElementById(
+          'resultsHeader'
+        ).textContent = `Vehicle Complaint Logs (${filteredVehicles.length.toLocaleString()} found)`;
+      }
+
+      function filterVehicles() {
+        const searchTerm = document
+          .getElementById('searchBox')
+          .value.toLowerCase();
+        const yearFilter = document.getElementById('yearFilter').value;
+        const makeFilter = document.getElementById('makeFilter').value;
+        const modelFilter = document.getElementById('modelFilter').value;
+
+        filteredVehicles = allVehicles.filter((vehicle) => {
+          const matchesSearch =
+            !searchTerm ||
+            vehicle.year.toLowerCase().includes(searchTerm) ||
+            vehicle.make.toLowerCase().includes(searchTerm) ||
+            vehicle.model.toLowerCase().includes(searchTerm) ||
+            vehicle.filename.toLowerCase().includes(searchTerm);
+
+          const matchesYear = !yearFilter || vehicle.year === yearFilter;
+          const matchesMake = !makeFilter || vehicle.make === makeFilter;
+          const matchesModel = !modelFilter || vehicle.model === modelFilter;
+
+          return matchesSearch && matchesYear && matchesMake && matchesModel;
+        });
+
+        updateStats();
+        renderVehicles();
+      }
+
+      // Event listeners
+      document
+        .getElementById('searchBox')
+        .addEventListener('input', filterVehicles);
+      document
+        .getElementById('yearFilter')
+        .addEventListener('change', filterVehicles);
+      document.getElementById('makeFilter').addEventListener('change', (e) => {
+        updateModelFilter();
+        filterVehicles();
+      });
+      document
+        .getElementById('modelFilter')
+        .addEventListener('change', filterVehicles);
+
+      // Load data when page loads
+      loadVehicleData();
+    </script>
+  </body>
+</html>
